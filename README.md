@@ -1,7 +1,7 @@
 This repository has been created for the [Create a Google Script to convert Google Sheet Data into a JSON](https://micropurchase.18f.gov/auctions/21) Micro-purchase.
 
 ## About this Repository
-The Federal Risk and Authorization Management Program, or [FedRAMP](https://www.fedramp.gov/), is a government-wide program that provides a standardized approach to security assessment, authorization, and continuous monitoring for cloud products and services. This issue seeks a [Google Apps Script](https://developers.google.com/apps-script/) that will convert a Google Sheet into JSON which adheres to the schema file in this repository.
+The Federal Risk and Authorization Management Program, or [FedRAMP](https://www.fedramp.gov/), is a government-wide program that provides a standardized approach to security assessment, authorization, and continuous monitoring for cloud products and services. This issue seeks a [Google Apps Script](https://developers.google.com/apps-script/) that will convert a Google Sheet into JSON which adheres to the schema file in this repository. This script will allow future front-end applications to use the FedRamp data.
 
 We use a non-public Google Sheet. Because we cannot make this sheet fully public, we have made available a CSV which has the same fields as the Google Sheet. It's worth noting that this CSV contains only fake data (and no sensitive data).
 
