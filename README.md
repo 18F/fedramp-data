@@ -6,7 +6,7 @@ The Federal Risk and Authorization Management Program, or [FedRAMP](https://www.
 We use a non-public Google Sheet. Because we cannot make this sheet fully public, we have made available a CSV which has the same fields as the Google Sheet. It's worth noting that this CSV contains only fake data (and no sensitive data).
 
 Once given access to the Google Sheet, the winner of the auction can begin writing the script.
-Once the JSON is created is created by the Google script, the script should post the resulting file onto Github using the Github API.
+Once the JSON is created by the Google script, the script should post the resulting file onto Github using the Github API.
 
 The [mapping](https://github.com/18F/fedramp-micropurchase/blob/master/mapping.json) file indicates how fields from the Google Sheet should be mapped to fields in the JSON.
 The [schema](https://github.com/18F/fedramp-micropurchase/blob/master/schema.json) file indicates how packages should be aggregated based on Package ID and displayed in the resulting JSON file produced by the Google Script.
