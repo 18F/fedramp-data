@@ -67,56 +67,94 @@ function parseField(fieldValue, fieldType) {
  *
  * @returns {Object} jsonData
  */
-function generateJson() {
-  var mappingJsonContents = getMappingsFromGitHub();
-  var mappingFields = mappingJsonContents['fields'];
+ function meetsConditional(columnFields, desiredValue, columnName, row){
+   var columnNameIndex = columnFields.indexOf(columnName);
+   if( include(desiredValue, row[columnNameIndex])){
+     return true;
+   } else {
+     return false;
+   }
+ }
+ function include(arr,obj) {
+     return (arr.indexOf(obj) != -1);
+ }
 
-  var gSheet = SpreadsheetApp.openById(gSheets.sheetId).getSheetByName(gSheets.sheetName);
-  // Get the first row of the spreadsheet (that is, the column names).
-  var gSheetFields = gSheet.getRange(1, 1, 1, gSheet.getLastColumn()).getValues()[0];
+ function generateJson() {
+   var mappingJsonContents = getMappingsFromGitHub();
+   var mappingFields = mappingJsonContents['fields'];
 
-  var jsonData = [];
+   var gSheet = SpreadsheetApp.openById(gSheets.sheetId).getSheetByName(gSheets.sheetName);
+   // Get the first row of the spreadsheet (that is, the column names).
+   var gSheetFields = gSheet.getRange(1, 1, 1, gSheet.getLastColumn()).getValues()[0];
 
-  // If the spreadsheet lacks a field corresponding to the `from_field` key, then skip it, save for the `ATO_Letters` field.
-  mappingFields = mappingFields.filter(function(mappingField) {
-    return (gSheetFields.indexOf(mappingField['from_field']) !== -1) || (mappingField['name'] === 'ATO_Letters');
-  });
+   var jsonData = [];
 
-  // For each row of our spreadsheet, create a JavaScript object.
-  gSheet.getSheetValues(2, 1, gSheet.getLastRow() - 1, gSheet.getLastColumn()).forEach(function(row) {
-    var jsonRow = {};
+   // If the spreadsheet lacks a field corresponding to the `from_field` key, then skip it, save for the `ATO_Letters` field.
+   // mappingFields = mappingFields.filter(function(mappingField) {
+   //   return (gSheetFields.indexOf(mappingField['from_field']) !== -1) || (mappingField['name'] === 'ATO_Letters');
+   // });
 
-    mappingFields.forEach(function(mappingField) {
-      var mappingFieldIndex = gSheetFields.indexOf(mappingField['from_field']);
-      var mappingFieldValue = row[mappingFieldIndex];
 
-      // If the field has a value, then parse it according to its type and store it in our row object.
-      if(mappingFieldValue) {
-        jsonRow[mappingField['name']] = parseField(mappingFieldValue, mappingField['type']);
-      }
 
-      // If the field contains subfields, then we need to store those as well.
-      if(mappingField.hasOwnProperty('subfields')) {
-        jsonRow[mappingField['name']] = [{}];
+   // For each row of our spreadsheet, create a JavaScript object.
+   var sheetRows = gSheet.getSheetValues(2, 1, gSheet.getLastRow() - 1, gSheet.getLastColumn());
+   sheetRows.forEach(function(row) {
+     var original_ATO = meetsConditional(gSheetFields, mappingJsonContents['conditionals'][0]['acceptable_values'], mappingJsonContents['conditionals'][0]['column_name'], row);
+     if(original_ATO){
+       var jsonRow = {};
+       mappingFields.forEach(function(mappingField) {
+         var mappingFieldIndex = gSheetFields.indexOf(mappingField['from_field']);
+         var mappingFieldValue = row[mappingFieldIndex];
 
-        var mappingSubfields = mappingField['subfields'];
+         // If the field has a value, then parse it according to its type and store it in our row object.
+         if(mappingFieldValue) {
+           jsonRow[mappingField['name']] = parseField(mappingFieldValue, mappingField['type']);
+         }
 
-        mappingSubfields.forEach(function(mappingSubfield) {
-          var mappingSubfieldIndex = gSheetFields.indexOf(mappingSubfield['from_field'])
-          var mappingSubfieldValue = row[mappingSubfieldIndex];
+         // If the field contains subfields create the array to handle leveraged ATOS.
+         if(mappingField.hasOwnProperty('subfields')) {
+           jsonRow[mappingField['name']] = [];
+         }
+       });
+       jsonData.push(jsonRow);
+     } // Iterate once to generate all the Original ATOS
+   });
+     //Iterate Again to handle All leveraged ATOS
+     sheetRows.forEach(function(row){
+       mappingFields.forEach(function(mappingField) {
+         if(mappingField.hasOwnProperty('subfields')) {
+           //Lookup in JsonData if row has the same value as key
+           var leveraged_ATO = meetsConditional(gSheetFields, mappingField['conditionals'][0]['acceptable_values'], mappingField['conditionals'][0]['column_name'], row);
+           if(leveraged_ATO){
+           var mappingSubfields = mappingField['subfields'];
+           var keyIndex = gSheetFields.indexOf(mappingField['from_key_value']);
 
-          if(mappingSubfieldValue) {
-            jsonRow[mappingField['name']][0][mappingSubfield['name']] = parseField(mappingSubfieldValue, mappingSubfield['type']);
-          }
-        });
-      }
-    });
+           jsonData.forEach(function(ATORow, jsonIndex){
+             if(ATORow[mappingField['key']]==row[keyIndex]){
+               //Push the subfields
+               var subfieldObj = {}
+               mappingSubfields.forEach(function(mappingSubfield) {
+                 var mappingSubfieldIndex = gSheetFields.indexOf(mappingSubfield['from_field']);
+                 var mappingSubfieldValue = row[mappingSubfieldIndex];
 
-    jsonData.push(jsonRow);
-  });
+                 if(mappingSubfieldValue) {
+                   // jsonRow[mappingField['name']][0][mappingSubfield['name']] = parseField(mappingSubfieldValue, mappingSubfield['type']);
+                   subfieldObj[mappingSubfield['name']] = parseField(mappingSubfieldValue, mappingSubfield['type']);
+                 } //End push subfield
+               });
+               jsonData[jsonIndex][mappingField['name']].push(subfieldObj);
+             }
+           });
 
-  return JSON.stringify(jsonData, null, 2);
-}
+
+         }
+       }
+     });
+   }); // End iterate through subfields
+   // });
+
+   return JSON.stringify(jsonData, null, 2);
+ }
 
 /**
  * Publish a JSON version of our Google Sheet to our repository.
