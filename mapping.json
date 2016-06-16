@@ -1,4 +1,5 @@
-{"fields":[
+{"conditionals": [{"column":"Leverage ATO-YN", "acceptable_values":["No", "TBD"]}],
+  "fields":[
   {"name": "Clould_Service_Provider_Name",
   "from_sheet": "New ATO PATO Log",
   "from_field": "CSP",
@@ -44,11 +45,17 @@
   "from_sheet": "New ATO PATO Log",
   "from_field": "Sponsoring Agency",
   "type": "String"},
+  {"name": "Active",
+  "from_sheet": "New ATO PATO Log",
+  "from_field": "Active-Inactive",
+  "type": "String"},
   {"name":"Leveraged_ATO_Letters",
   "from_sheet": "New ATO PATO Log",
   "type": "Array of Objects",
   "key": "Package_ID",
+  "from_key_value": "PackageID",
   "notes": "Package ID is the key roll up all letters for all leveraged ATOs",
+  "conditionals": [{"column_name":"Leverage ATO-YN", "acceptable_values":["Yes"]}],
   "subfields": [
     {"name": "Letter_Date",
     "from_sheet": "New ATO PATO Log",
@@ -73,6 +80,10 @@
     {"name": "Authorizing_Subagency",
     "from_sheet": "New ATO PATO Log",
     "from_field": "Authorizing Agency",
+    "type": "String"},
+    {"name": "Active",
+    "from_sheet": "New ATO PATO Log",
+    "from_field": "Active-Inactive",
     "type": "String"}
     ]}
 ]}
