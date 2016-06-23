@@ -49,6 +49,14 @@
   "from_sheet": "New ATO PATO Log",
   "from_field": "Active-Inactive",
   "type": "String"},
+  {"name": "CSP_URL",
+  "from_sheet": "New ATO PATO Log",
+  "from_field": "Logo File URL",
+  "type": "String"},
+  {"name": "Stage",
+  "from_sheet": "New ATO PATO Log",
+  "from_field": "Stage",
+  "type": "String"},
   {"name":"Leveraged_ATO_Letters",
   "from_sheet": "New ATO PATO Log",
   "type": "Array of Objects",
@@ -84,6 +92,10 @@
     {"name": "Active",
     "from_sheet": "New ATO PATO Log",
     "from_field": "Active-Inactive",
+    "type": "String"},
+    {"name": "Include_In_Marketplace",
+    "from_sheet": "New ATO PATO Log",
+    "from_field": "Include In MarketplaceYN?",
     "type": "String"}
     ]}
 ]}
