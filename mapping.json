@@ -53,9 +53,13 @@
   "from_sheet": "New ATO PATO Log",
   "from_field": "Stage",
   "type": "String"},
+  {"name": "Independent_Assessor",
+   "from_sheet": "New ATO PATO Log",
+   "from_field": "Independent Assessor",
+   "type": "String"},
   {"name": "Underlying_CSP_Package_ID",
    "from_field": "Underlying CSPs",
-   "type": "commaArray"}
+   "type": "commaArray"},
   {"name":"Leveraged_ATO_Letters",
   "from_sheet": "New ATO PATO Log",
   "type": "Array of Objects",
@@ -91,6 +95,10 @@
     {"name": "Include_In_Marketplace",
     "from_sheet": "New ATO PATO Log",
     "from_field": "Include In MarketplaceYN?",
-    "type": "String"}
+    "type": "String"},
+    {"name": "Independent_Assessor",
+     "from_sheet": "New ATO PATO Log",
+     "from_field": "Independent Assessor",
+     "type": "String"}
     ]}
 ]}
