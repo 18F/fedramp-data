@@ -76,6 +76,10 @@
   "from_sheet": "New ATO PATO Log",
   "from_field": "Expected Compliance Date",
   "type": "UTCString"},
+  {"name": "Announcement_Date",
+  "from_sheet": "New ATO PATO Log",
+  "from_field": "Announcement Date",
+  "type": "UTCString"},
   {"name":"Leveraged_ATO_Letters",
   "from_sheet": "New ATO PATO Log",
   "type": "Array of Objects",
@@ -115,6 +119,10 @@
     {"name": "Independent_Assessor",
      "from_sheet": "New ATO PATO Log",
      "from_field": "Independent Assessor",
-     "type": "String"}
+     "type": "String"},
+    {"name": "Announcement_Date",
+    "from_sheet": "New ATO PATO Log",
+    "from_field": "Announcement Date",
+    "type": "UTCString"}
     ]}
 ]}
