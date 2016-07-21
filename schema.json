@@ -4,39 +4,47 @@
     "Created_At": "",
     "Produced_By": ""
   },
-  "data":[
-    {
-      "Clould_Service_Provider_Name": "",
-      "Cloud_Service_Provider_Package": "",
-      "Path": "",
-      "Designation": "",
-      "Package_ID": "",
-      "Service_Model": [""],
-      "Deployment_Model": "",
-      "Impact_Level": "",
-      "Original_Authorization_Date": "",
-      "Original_Expiration_Date": "",
-      "Sponsoring_Agency": "",
-      "CSP_URL": "",
-      "Stage": "",
-      "Independent_Assessor": "",
-      "Underlying_CSP_Package_ID": [""],
-      "FedRAMP_Website_URL": "",
-      "CSP_Website": "",
-      "CSO_Description": "",
-      "Expected_Compliance_Date": "",
-      "Announcement_Date": "",
-      "Leveraged_ATO_Letters": [
-          {"Letter_Date": "",
-          "Letter_Expiration_Date": "",
-          "Authorizing_Letter_Last_Sign_Date": "",
-          "Authorizing_Agency": "",
-          "Authorizing_Subagency": "",
-          "Include_In_Marketplace": "",
-          "Independent_Assessor": "",
-          "Announcement_Date": ""
+  "data": {
+    "providers":
+      [
+        {
+        "Clould_Service_Provider_Name": "",
+        "Cloud_Service_Provider_Package": "",
+        "Path": "",
+        "Designation": "",
+        "Package_ID": "",
+        "Service_Model": [""],
+        "Deployment_Model": "",
+        "Impact_Level": "",
+        "Original_Authorization_Date": "",
+        "Original_Expiration_Date": "",
+        "Sponsoring_Agency": "",
+        "CSP_URL": "",
+        "Stage": "",
+        "Independent_Assessor": "",
+        "Underlying_CSP_Package_ID": [""],
+        "FedRAMP_Website_URL": "",
+        "CSP_Website": "",
+        "CSO_Description": "",
+        "Expected_Compliance_Date": "",
+        "Announcement_Date": "",
+        "Leveraged_ATO_Letters": [
+            {"Letter_Date": "",
+            "Letter_Expiration_Date": "",
+            "Authorizing_Letter_Last_Sign_Date": "",
+            "Authorizing_Agency": "",
+            "Authorizing_Subagency": "",
+            "Include_In_Marketplace": "",
+            "Independent_Assessor": "",
+            "Announcement_Date": ""
+          }
+          ]
         }
-        ]
+      ],
+    "assesors" : [
+      {
+        "name": ""
       }
-    ]
+      ]
+    }
 }

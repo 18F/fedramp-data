@@ -1,4 +1,5 @@
-{"conditionals": [{"column_name":"Leverage ATO-YN", "acceptable_values":["No", "TBD"]}, {"column_name":"Active-Inactive", "acceptable_values":["Active"]}],
+[{"object_name": "providers",
+  "conditionals": [{"column_name":"Leverage ATO-YN", "acceptable_values":["No", "TBD"]}, {"column_name":"Active-Inactive", "acceptable_values":["Active"]}],
   "fields":[
   {"name": "Cloud_Service_Provider_Name",
   "from_sheet": "New ATO PATO Log",
@@ -125,4 +126,13 @@
     "from_field": "Announcement Date",
     "type": "UTCString"}
     ]}
-]}
+]},
+  {"object_name": "assesors",
+   "fields":[
+    {"name": "name",
+    "from_sheet": "3PAO Master List",
+    "from_field": "Company",
+    "type": "String"}
+    ]
+  }
+]
