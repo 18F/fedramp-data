@@ -252,10 +252,11 @@ function saveJson() {
 function getOldBlobSha() {
     var path = 'data/data.json',
         requestUrl = Utilities.formatString(
-            'https://api.github.com/repos/%s/%s/contents/%s',
+            'https://api.github.com/repos/%s/%s/contents/%s?ref=%s',
             github.username,
             github.repository,
-            path
+            path,
+            github.branch
         ),
         response = UrlFetchApp.fetch(requestUrl, {
             'method': 'GET',
