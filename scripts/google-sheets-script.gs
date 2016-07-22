@@ -137,18 +137,16 @@ function generateJson() {
      var mappingJsonContents = getMappingsFromGitHub(),
         responseObject = {},
         date = new Date();
-    responseObject.meta = {};
-    responseObject.meta.Created_At = date.toISOString();
-    responseObject.meta.Produced_By = "General Services Administration";
-
-    // For each row of our spreadsheet, create a JavaScript object.
-    var sheetRows = gSheet.getSheetValues(2, 1, gSheet.getLastRow() - 1, gSheet.getLastColumn());
-
+    responseObject.meta = {},
+    responseObject.meta.Created_At = date.toISOString(),
+    responseObject.meta.Produced_By = "General Services Administration",
     responseObject.data = {};
+
     mappingJsonContents.forEach(function (majorDataArray) {
       var gSheet = SpreadsheetApp.openById(gSheets.sheetId).getSheetByName(majorDataArray.from_sheet),
-      gSheetFields = gSheet.getRange(1, 1, 1, gSheet.getLastColumn()).getValues()[0]; // Get the first row of the spreadsheet (that is, the column names).
-      
+          sheetRows = gSheet.getSheetValues(2, 1, gSheet.getLastRow() - 1, gSheet.getLastColumn()),
+          gSheetFields = gSheet.getRange(1, 1, 1, gSheet.getLastColumn()).getValues()[0]; // Get the first row of the spreadsheet (that is, the column names).
+
       responseObject.data[majorDataArray.object_name] = buildDataArray(sheetRows, gSheetFields, majorDataArray);
     });
     return JSON.stringify(responseObject, null, 2);

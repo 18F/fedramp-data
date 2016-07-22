@@ -1,4 +1,4 @@
-[{"object_name": "providers",
+[{"object_name": "Providers",
   "conditionals": [{"column_name":"Leverage ATO-YN", "acceptable_values":["No", "TBD"]}, {"column_name":"Active-Inactive", "acceptable_values":["Active"]}],
   "from_sheet": "New ATO PATO Log",
   "fields":[
@@ -99,11 +99,14 @@
     "type": "UTCString"}
     ]}
 ]},
-  {"object_name": "assessors",
+  {"object_name": "Assessors",
    "from_sheet": "3PAO Master List",
    "fields":[
     {"name": "name",
     "from_field": "Company",
+    "type": "String"},
+    {"name": "Accreditation_Date",
+    "from_field": "A2LA Accreditation Date",
     "type": "String"}
     ]
   }
