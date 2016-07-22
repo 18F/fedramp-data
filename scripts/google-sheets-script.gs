@@ -25,10 +25,11 @@ var gSheets = {
 function getMappingsFromGitHub() {
     var path = 'mapping.json',
         requestUrl = Utilities.formatString(
-            'https://api.github.com/repos/%s/%s/contents/%s',
+            'https://api.github.com/repos/%s/%s/contents/%s?ref=%s',
             github.username,
             github.repository,
-            path
+            path,
+            github.branch
         ),
         response = UrlFetchApp.fetch(requestUrl, {
             'method': 'GET',
@@ -67,6 +68,7 @@ switch (fieldType) {
 
 /**
 * Checks if a row meets an individual condition
+*
 * @param   {array}  columnFields - the name of each column for the sheet
 * @param   {array} desiredValue - an array of acceptable vaules
 * @param   {string} columnName - the name of the column to search for the values in
@@ -83,6 +85,7 @@ function meetsConditional(columnFields, desiredValue, columnName, row) {
 
 /**
 * Checks if a row meets all the specified conditions
+*
 * @param   {array}  columnFields - the name of each column for the sheet
 * @param   {array} condiontalArray - an array of objects of conditions to be met
 * @param   {array}  row - an array of the field values for that specific row
@@ -90,19 +93,23 @@ function meetsConditional(columnFields, desiredValue, columnName, row) {
 */
 function meetsAllConditionals(columnFields, conditionalArray, row) {
     var conds = [];
-    conditionalArray.forEach(function(conditional) {
-        var acceptable = meetsConditional(columnFields, conditional.acceptable_values, conditional.column_name, row);
-        conds.push(acceptable);
-    });
-    var corrects = conds.reduce(getSum);
-    if (corrects === conds.length) {
-        return true;
+    if (conditionalArray && conditionalArray.length > 0){
+      conditionalArray.forEach(function(conditional) {
+          var acceptable = meetsConditional(columnFields, conditional.acceptable_values, conditional.column_name, row);
+          conds.push(acceptable);
+      });
+      var corrects = conds.reduce(getSum);
+      if (corrects === conds.length) {
+          return true;
+      }
+      return false;
     }
-    return false;
+    return true;
 }
 
 /**
 * Helper function for reduce to add sum to total
+*
 * @param   {integer} total - running total of the sum
 * @param   {integer} num - next element to be added
 * @returns {integer} sum of two params
@@ -113,6 +120,7 @@ function getSum(total, num) {
 
 /**
 * shim for if an array includes a particular object
+*
 * @param   {Array} arr - array to be searched
 * @param   {Object} obj - object to see if exists
 * @returns {Boolean} of if the object can be found in the array
@@ -122,48 +130,62 @@ function include(arr, obj) {
 }
 
 /**
-* shim for if an array includes a particular object
-* @param   {Array} arr - array to be searched
-* @param   {Object} obj - object to see if exists
-* @returns {Boolean} of if the object can be found in the array
-*/
+ * Convert the Google Sheet to JSON, per the mappings defined in `mapping.json`.
+ *
+ * @returns {Object} jsonData
+ */
 function generateJson() {
      var mappingJsonContents = getMappingsFromGitHub(),
-        mappingFields = mappingJsonContents.fields,
         gSheet = SpreadsheetApp.openById(gSheets.sheetId).getSheetByName(gSheets.sheetName),
         gSheetFields = gSheet.getRange(1, 1, 1, gSheet.getLastColumn()).getValues()[0], // Get the first row of the spreadsheet (that is, the column names).
         responseObject = {},
-        date = new Date(),
-        jsonData = [];
+        date = new Date();
     responseObject.meta = {};
     responseObject.meta.Created_At = date.toISOString();
     responseObject.meta.Produced_By = "General Services Administration";
 
     // For each row of our spreadsheet, create a JavaScript object.
     var sheetRows = gSheet.getSheetValues(2, 1, gSheet.getLastRow() - 1, gSheet.getLastColumn());
-    sheetRows.forEach(function (row) {
-        var acceptable_ATO = meetsAllConditionals(gSheetFields, mappingJsonContents.conditionals, row);
-        if (acceptable_ATO) {
-            jsonData.push(buildRowObject(row, mappingFields, gSheetFields));
-        }
-    });// Iterate once to generate all the Original ATOS
 
-    //Iterate Again to handle All leveraged ATOS
-    sheetRows.forEach(function (row) {
-        buildInnerRow(row, gSheetFields, mappingJsonContents.fields, jsonData);
-    }); // End iterate through subfields
-    responseObject.data = jsonData;
+    responseObject.data = {};
+    mappingJsonContents.forEach(function (majorDataArray) {
+      responseObject.data[majorDataArray.object_name] = buildDataArray(sheetRows, gSheetFields, majorDataArray);
+    });
     return JSON.stringify(responseObject, null, 2);
 }
 
 /**
+* Build an array of data
+*
+* @param {array} sheetRows - an array of row field value arrays
+* @param {array} columnNames - the column names for the spreadsheet
+* @param {object} mappingsObj - all the objects and conditionals for each data array
+*/
+function buildDataArray(sheetRows, columnNames, mappingsObj) {
+  var jsonData = [];
+  sheetRows.forEach(function (row) {
+      var acceptable_ATO = meetsAllConditionals(columnNames, mappingsObj.conditionals, row);
+      if (acceptable_ATO) {
+          jsonData.push(buildRowObject(row, columnNames, mappingsObj.fields));
+      }
+  });// Iterate once to generate all the Original ATOS
+
+  //Iterate Again to handle All leveraged ATOS
+  sheetRows.forEach(function (row) {
+      buildInnerRow(row, columnNames, mappingsObj.fields, jsonData);
+  }); // End iterate through subfields
+  return jsonData;
+}
+
+/**
 * Builds a row to be pushed into the resulting data object
+*
 * @param {Array} row - array of field values from the spreadsheet
 * @param {Object} mappingFields - an object of the mappings from the row data to the exported jsonData
 * @param {Array} gSheetFields - an array of field names (first column values) from the spreadsheet
 * @returns {Object} an object of data to be pushed to the final json array
 */
-function buildRowObject(row, mappingFields, gSheetFields){
+function buildRowObject(row, gSheetFields, mappingFields){
     var jsonRow = {};
     mappingFields.forEach(function (mappingField) {
         var mappingFieldIndex = gSheetFields.indexOf(mappingField.from_field),
@@ -184,6 +206,7 @@ function buildRowObject(row, mappingFields, gSheetFields){
 
 /**
 * Builds a row to be pushed into the resulting data object
+*
 * @param {Array} row - array of field values from the spreadsheet
 * @param {Object} mappingFields - an object of the mappings from the row data to the exported jsonData
 * @param {Array} gSheetFields - an array of field names (first column values) from the spreadsheet
@@ -204,7 +227,7 @@ function buildInnerRow (row, gSheetFields, parentFields, jsonData) {
             jsonData.forEach(function (ATORow, jsonIndex) {
                 if (ATORow[parentField.key] === row[keyIndex]) {
                 //Push the subfields
-                    var subfieldObj = buildRowObject(row, mappingSubfields, gSheetFields);
+                    var subfieldObj = buildRowObject(row, gSheetFields, mappingSubfields);
                     jsonData[jsonIndex][parentField.name].push(subfieldObj);
                 }
             });
@@ -223,6 +246,11 @@ function saveJson() {
     DriveApp.createFile(filename, jsonData, MimeType.PLAIN_TEXT);
 }
 
+/**
+* Grabs the last sha from the commited version of the data file on github
+*
+* @returns {String} the sha from the version of the data.json file on github for the master branch
+*/
 function getOldBlobSha() {
     var path = 'data/data.json',
         requestUrl = Utilities.formatString(
