@@ -12,8 +12,7 @@ var github = {
     };
 
 var gSheets = {
-        'sheetId': 'xxxxxxxxx',
-        'sheetName': 'New ATO PATO Log'
+        'sheetId': 'xxxxxxxxx'
     };
 
 /**
@@ -136,8 +135,6 @@ function include(arr, obj) {
  */
 function generateJson() {
      var mappingJsonContents = getMappingsFromGitHub(),
-        gSheet = SpreadsheetApp.openById(gSheets.sheetId).getSheetByName(gSheets.sheetName),
-        gSheetFields = gSheet.getRange(1, 1, 1, gSheet.getLastColumn()).getValues()[0], // Get the first row of the spreadsheet (that is, the column names).
         responseObject = {},
         date = new Date();
     responseObject.meta = {};
@@ -149,6 +146,9 @@ function generateJson() {
 
     responseObject.data = {};
     mappingJsonContents.forEach(function (majorDataArray) {
+      var gSheet = SpreadsheetApp.openById(gSheets.sheetId).getSheetByName(majorDataArray.from_sheet),
+      gSheetFields = gSheet.getRange(1, 1, 1, gSheet.getLastColumn()).getValues()[0]; // Get the first row of the spreadsheet (that is, the column names).
+      
       responseObject.data[majorDataArray.object_name] = buildDataArray(sheetRows, gSheetFields, majorDataArray);
     });
     return JSON.stringify(responseObject, null, 2);
