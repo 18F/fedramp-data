@@ -54,8 +54,14 @@
   {"name": "CSP_Website",
    "from_field": "CSP Website",
    "type": "String"},
+  {"name": "CSP_POC",
+  "from_field": "CSP POC",
+  "type": "String"},
+  {"name": "CSP_POC_Email",
+  "from_field": "CSP POC Email",
+  "type": "String"},
   {"name": "CSO_Description",
-  "from_field": "Package Services Description",
+  "from_field": "Package Service Description",
   "type": "String"},
   {"name": "Expected_Compliance_Date",
   "from_field": "Expected Compliance Date",
@@ -107,6 +113,12 @@
     "type": "String"},
     {"name": "Accreditation_Date",
     "from_field": "A2LA Accreditation Date",
+    "type": "String"},
+    {"name": "POC_Name",
+    "from_field": "POC Name",
+    "type": "String"},
+    {"name": "POC_Email",
+    "from_field": "POC Email",
     "type": "String"}
     ]
   }
