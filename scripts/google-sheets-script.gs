@@ -320,8 +320,9 @@ function run() {
         jsonData = generateJson(),
         lastSha = getOldBlobSha(path), //Sha from the previous version of the data file, needed to update the script.
         newDataSha = publishToGithub(path, jsonData, lastSha);
+
     var dictPath = 'dictionary/dictionary.json',
         dictSha = getOldBlobSha(dictPath),
-        dictData = buildDataDictionary();
-
+        dictData = buildDataDictionary(),
+        newDictSha = publishToGithub(dictPath, dictData, dictSha);
 }
