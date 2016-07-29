@@ -21,9 +21,8 @@ var gSheets = {
 *
 * @returns {Object} mappingJsonContents
 */
-function getMappingsFromGitHub() {
-    var path = 'mapping.json',
-        requestUrl = Utilities.formatString(
+function getGitHubAsset(path) {
+    var requestUrl = Utilities.formatString(
             'https://api.github.com/repos/%s/%s/contents/%s?ref=%s',
             github.username,
             github.repository,
@@ -34,7 +33,7 @@ function getMappingsFromGitHub() {
             'method': 'GET',
             'headers': {
                 'Accept': 'application/vnd.github.VERSION.raw',
-                'Authorization': Utilities.formatString('token %s', github['accessToken'])
+                'Authorization': Utilities.formatString('token %s', github.accessToken)
             }
         });
 
@@ -92,16 +91,16 @@ function meetsConditional(columnFields, desiredValue, columnName, row) {
 */
 function meetsAllConditionals(columnFields, conditionalArray, row) {
     var conds = [];
-    if (conditionalArray && conditionalArray.length > 0){
-      conditionalArray.forEach(function(conditional) {
-          var acceptable = meetsConditional(columnFields, conditional.acceptable_values, conditional.column_name, row);
-          conds.push(acceptable);
-      });
-      var corrects = conds.reduce(getSum);
-      if (corrects === conds.length) {
-          return true;
-      }
-      return false;
+    if (conditionalArray && conditionalArray.length > 0) {
+        conditionalArray.forEach(function (conditional) {
+            var acceptable = meetsConditional(columnFields, conditional.acceptable_values, conditional.column_name, row);
+            conds.push(acceptable);
+        });
+        var corrects = conds.reduce(getSum);
+        if (corrects === conds.length) {
+            return true;
+        }
+        return false;
     }
     return true;
 }
@@ -134,12 +133,12 @@ function include(arr, obj) {
  * @returns {Object} jsonData
  */
 function generateJson() {
-     var mappingJsonContents = getMappingsFromGitHub(),
+     var mappingJsonContents = getGitHubAsset('mapping.json'),
         responseObject = {},
         date = new Date();
-    responseObject.meta = {},
-    responseObject.meta.Created_At = date.toISOString(),
-    responseObject.meta.Produced_By = "General Services Administration",
+    responseObject.meta = {};
+    responseObject.meta.Created_At = date.toISOString();
+    responseObject.meta.Produced_By = "General Services Administration";
     responseObject.data = {};
 
     mappingJsonContents.forEach(function (majorDataArray) {
@@ -242,6 +241,8 @@ function saveJson() {
     var filename = 'data',
         jsonData = generateJson();
     DriveApp.createFile(filename, jsonData, MimeType.PLAIN_TEXT);
+    var testDict = buildDataDictionary();
+    DriveApp.createFile('testDataDictionary', testDict, MimeType.PLAIN_TEXT);
 }
 
 /**
@@ -249,24 +250,65 @@ function saveJson() {
 *
 * @returns {String} the sha from the version of the data.json file on github for the master branch
 */
-function getOldBlobSha() {
-    var path = 'data/data.json',
-        requestUrl = Utilities.formatString(
-            'https://api.github.com/repos/%s/%s/contents/%s?ref=%s',
-            github.username,
-            github.repository,
-            path,
-            github.branch
-        ),
-        response = UrlFetchApp.fetch(requestUrl, {
-            'method': 'GET',
-            'headers': {
-                //'Accept': 'application/vnd.github.VERSION.raw',
-                'Authorization': Utilities.formatString('token %s', github['accessToken'])
-            }
-        }),
-        jsonResponse = JSON.parse(response.getContentText());
-    return jsonResponse.sha;
+function getOldBlobSha(path) {
+    var response = getGitHubAsset(path);
+    return response.sha;
+}
+
+/**
+* Grab and publish the data dictionary
+*/
+function buildDataDictionary() {
+  //Grab dictionary mapping fields
+  var mapping = getGitHubAsset('dictionary/mapping.json');
+  //Grab dictionary Sheet
+  var gSheet = SpreadsheetApp.openById(gSheets.sheetId).getSheetByName('Data Dictionary'),
+      sheetRows = gSheet.getSheetValues(2, 1, gSheet.getLastRow() - 1, gSheet.getLastColumn()),
+      gSheetFields = gSheet.getRange(3, 1, 1, gSheet.getLastColumn()).getValues()[0];
+  //Manipulate
+  var dictionaryArray = [];
+  sheetRows.forEach(function(row){
+    dictionaryArray.push(buildRowObject(row, gSheetFields, mapping));
+  });
+  return return JSON.stringify(dictionaryArray, null, 2);;
+
+}
+
+/**
+* Pushes to github an asset given the file, old sha, and url
+* @param path - the location path in the gitrepo of the file to be published
+* @param file - the actual data to be published
+* @param lastSha - the sha of the previous file on gh
+*/
+function publishToGithub(path, file, lastSha){
+  var requestUrl = Utilities.formatString(
+      'https://api.github.com/repos/%s/%s/contents/%s',
+      github.username,
+      github.repository,
+      path
+  ),
+      response = UrlFetchApp.fetch(requestUrl, {
+      'method': 'PUT',
+      'headers': {
+          'Accept': 'application/vnd.github.v3+json',
+          'Content-Type': 'application/json',
+          'Authorization': Utilities.formatString('token %s', github.accessToken)
+      },
+      'payload': JSON.stringify({
+          'path': path,
+          'message': github.commitMessage,
+          'content': Utilities.base64Encode(file),
+          'sha': lastSha,
+          'branch': github.branch
+      })
+  });
+  var responseJson = JSON.parse(response.getContentText());
+
+  if (responseJson.hasOwnProperty('content') && responseJson.content.hasOwnProperty('sha')) {
+  // Updating the file entails repeating the above request with the `sha` parameter specified.
+    return responseJson.content.sha;
+  }
+  return false;
 }
 
 /**
@@ -274,35 +316,12 @@ function getOldBlobSha() {
 * Please note that, at present, this will not overwrite an existing file with the same name.
 */
 function run() {
-    var path = 'data.json',
+    var path = 'data/data.json',
         jsonData = generateJson(),
-        requestUrl = Utilities.formatString(
-            'https://api.github.com/repos/%s/%s/contents/data/%s',
-            github.username,
-            github.repository,
-            path
-        ),
-        lastSha = getOldBlobSha(), //Sha from the previous version of the data file, needed to update the script.
-        response = UrlFetchApp.fetch(requestUrl, {
-            'method': 'PUT',
-            'headers': {
-                'Accept': 'application/vnd.github.v3+json',
-                'Content-Type': 'application/json',
-                'Authorization': Utilities.formatString('token %s', github.accessToken)
-            },
-            'payload': JSON.stringify({
-                'path': path,
-                'message': github.commitMessage,
-                'content': Utilities.base64Encode(jsonData),
-                'sha': lastSha,
-                'branch': github.branch
-            })
-        }),
-        responseJson = JSON.parse(response.getContentText());
+        lastSha = getOldBlobSha(path), //Sha from the previous version of the data file, needed to update the script.
+        newDataSha = publishToGithub(path, jsonData, lastSha);
+    var dictPath = 'dictionary/dictionary.json',
+        dictSha = getOldBlobSha(dictPath),
+        dictData = buildDataDictionary();
 
-    if (responseJson.hasOwnProperty('content') && responseJson.content.hasOwnProperty('sha')) {
-    // Updating the file entails repeating the above request with the `sha` parameter specified.
-        return responseJson.content.sha;
-    }
-    return false;
 }

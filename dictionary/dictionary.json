@@ -1,0 +1,355 @@
+[
+  {
+    "field": "Ref#",
+    "description": "The reference number for the ATO/P-ATO letter in the Fiscal Year binder",
+    "source": "Manually assigned when an ATO or P-ATO letter is added to a FY binder",
+    "type": "Text"
+  },
+  {
+    "field": "CSP",
+    "description": "Cloud Service Provider, i.e., the company providing the Cloud Service Offering.",
+    "source": "ATO/P-ATO Letter",
+    "type": "Text"
+  },
+  {
+    "field": "CSO",
+    "description": "Cloud Service Offering, i.e., the name of the company's cloud product.",
+    "source": "ATO/P-ATO Letter",
+    "type": "Text"
+  },
+  {
+    "field": "Service Model",
+    "description": "The type of cloud service: Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS) or a combination (i.e., PaaS & SaaS or IaaS & PaaS)..",
+    "source": "System Security Plan",
+    "type": "Text"
+  },
+  {
+    "field": "PackageID",
+    "description": "Unique identifier for CSP product reviewed by FedRAMP.",
+    "source": "Automatically assigned by the FedRAMP PMO.",
+    "type": "Text"
+  },
+  {
+    "field": "FedRAMP Website URL",
+    "description": "The URL for the CSP-CSO's page on the FedRAMP.gov website.  Now OBSOLETE.",
+    "source": "FedRAMP website",
+    "type": "Text"
+  },
+  {
+    "field": "Path",
+    "description": "The type of FedRAMP authorization achieved by this CSO.  Can be JAB, Agency or CSP-Supplied.",
+    "source": "ATO/P-ATO Letter",
+    "type": "Text"
+  },
+  {
+    "field": "Leverage ATO-YN",
+    "description": "If \"Y,\" indicates that this ATO leverages an existing ATO or P-ATO (e.g., the original P-ATO or the first Agency ATO for a CSP).  If \"N,\" then this ATO/P-ATO is the original P-ATO or sponsoring Agency ATO or CSP.",
+    "type": "Text"
+  },
+  {
+    "field": "Authorization Date",
+    "description": "The authorization date is the \"Authorization to Operate\" (ATO) letter or the date of the P-ATO.",
+    "source": "ATO/P-ATO Letter",
+    "type": "Date"
+  },
+  {
+    "field": "Authorizing Letter Date",
+    "description": "The authorizing date stamped or printed on the ATO/P-ATO Letter",
+    "source": "ATO/P-ATO Letter",
+    "type": "Date"
+  },
+  {
+    "field": "Authorizing Letter Last Sign Date",
+    "description": "The most recent date of when the authorizing official signed the ATO/P-ATO letter",
+    "source": "ATO/P-ATO Letter",
+    "type": "Date"
+  },
+  {
+    "field": "Active-Inactive",
+    "description": "Determines if the ATO letter is still active or has expired / been replaced by a newer ATO.",
+    "source": "ATO/P-ATO Letter",
+    "type": "Text"
+  },
+  {
+    "field": "Designation",
+    "description": "The designation which identifies CSP is in the FedRAMP Process. Can be \"FedRAMP Ready\", \"In Process\", \"In PMO Review\", or \"Compliant\"",
+    "source": "FedRAMP Government Leaders",
+    "type": "Text"
+  },
+  {
+    "field": "Deployment Model",
+    "description": "The type of cloud model -- Private Cloud, Public Cloud, Community Cloud, Hybrid Cloud or a combination.",
+    "source": "CSP System Security Plan",
+    "type": "Text"
+  },
+  {
+    "field": "Impact Level",
+    "description": "The security level for the cloud service offering. Can be Low, Moderate or High.",
+    "type": "Text"
+  },
+  {
+    "field": "Authorizing Agency",
+    "description": "The name of the agency listed on the leveraged ATO letter.",
+    "source": "ATO/P-ATO Letter",
+    "type": "Text"
+  },
+  {
+    "field": "Authorizing Subagency",
+    "description": "The name of the subagency within the Authorizing Agency listed on the leveraged ATO letter",
+    "source": "ATO/P-ATO Letter",
+    "type": "Text"
+  },
+  {
+    "field": "Authorizing Official",
+    "description": "The name of the Authorizing Official signing the leveraged ATO letter.",
+    "source": "ATO/P-ATO Letter",
+    "type": "Text"
+  },
+  {
+    "field": "Expiration",
+    "description": "The date that the ATO letter expires. Typically three years from the Authorization Date unless stated differently on the letter.",
+    "source": "ATO/P-ATO Letter",
+    "type": "Date"
+  },
+  {},
+  {
+    "field": "Sponsoring Agency",
+    "description": "The name of the agency that sponsored the CSP-CSO.  For the original, sponsoring CSP-Supplied authorization, the value is \"CSP Supplied.\"  For the original JAB P-ATO letter, the value is \"JAB Authorization,\"  This is because there is only a sponsoring Agency for a Agency ATO.",
+    "source": "ATO/P-ATO Letter",
+    "type": "Text"
+  },
+  {
+    "field": "Letter Link",
+    "description": "The link for the ATO/P-ATO letter stored in OMB MAX",
+    "source": "OMB MAX",
+    "type": "Text"
+  },
+  {
+    "field": "CFO Act Agency",
+    "description": "Is this one of the 24 major Agencies named in the CFO Act?",
+    "source": "ATO/P-ATO Letter (which should specify the agency)",
+    "type": "Text"
+  },
+  {
+    "field": "CSP POC",
+    "description": "The name of the point of contact for the Cloud Service Provider.",
+    "source": "CSP System Security Plan",
+    "type": "Text"
+  },
+  {
+    "field": "CSP POC Email",
+    "description": "The email of the point of contact for the Cloud Service Provider.",
+    "source": "CSP System Security Plan",
+    "type": "Text"
+  },
+  {
+    "field": "CSP Website",
+    "description": "The website URL of the Cloud Service Provider.",
+    "source": "CSP System Security Plan",
+    "type": "Text"
+  },
+  {
+    "field": "Agency POC",
+    "description": "The name of the point of contact for the Authorizing Agency.",
+    "source": "Via email",
+    "type": "Text"
+  },
+  {
+    "field": "Agency POC Email",
+    "description": "The email of the point of contact for the Authorizing Agency",
+    "source": "Via email",
+    "type": "Text"
+  },
+  {
+    "field": "Independent Assessor",
+    "description": "The name of the independent assessor that reviewed the cloud service offering. In most cases, the independent assessor is part of the FedRAMP 3rd Party Assessment Organization program.",
+    "source": "SAR?",
+    "type": "Text"
+  },
+  {
+    "field": "Package Services Description",
+    "description": "Description of the services provided by the CSO.  This is formatted using Markdown.",
+    "source": "CSP Provided",
+    "type": "Text"
+  },
+  {
+    "field": "Next Annual Review",
+    "description": "The date of the next annual review of this package.  All sponsored packages (leveraged = N) should be updated once a year.",
+    "source": "Agency Review Team",
+    "type": "Date"
+  },
+  {
+    "field": "Last Annual Review",
+    "description": "The date of the last annual review of this package.  All sponsored packages (leveraged = N) should be updated once a year.",
+    "source": "Agency Review Team",
+    "type": "Date"
+  },
+  {
+    "field": "Contingent Date",
+    "description": "If the ATO letter contains any contingencies (e.g., CSP must fix \"X\" by 12/1/15), the contingency date is stored here.",
+    "source": "ATO/P-ATO Letter"
+  },
+  {
+    "field": "Contingency Met-YN",
+    "description": "If the ATO letter contains any contingencies (e.g., CSP must fix \"X\" by 12/1/15), once the contingency is met, the value is Y.  I",
+    "source": "Updated ATO Letter ",
+    "type": "Text"
+  },
+  {
+    "field": "Contingency Description",
+    "description": "If the ATO letter contains any contingencies (e.g., CSP must fix \"X\" by 12/1/15), a description of the contingency is here.  If the description is long, the field should contain an overview of the contingency.",
+    "source": "ATO/P-ATO Letter"
+  },
+  {
+    "field": "MAX Folder Link",
+    "description": "The link to the location in OMB MAX where the documents of the CSP's are located",
+    "source": "OMB MAX",
+    "type": "Text"
+  },
+  {
+    "field": "Comment",
+    "description": "Section where comments are made on the ATO/P-ATO letter for future reference",
+    "source": "FedRAMP PMO",
+    "type": "Text"
+  },
+  {
+    "field": "Fiscal Year",
+    "description": "Fiscal Year in which an ATO is recognized as FedRAMP Compliant.  May be different from the Authorization Date.  Used to count \"output\" for FedRAMP.",
+    "source": "Announcement Date in Authorization Log",
+    "type": "Text"
+  },
+  {
+    "field": "Announcement Date",
+    "description": "Date at which a package is recognized as FedRAMP Authorized. ",
+    "source": "Website ",
+    "type": "Date"
+  },
+  {
+    "field": "Include In MarketplaceYN?",
+    "description": "Identifies if this row should be included in the Marketplace.  For example, private clouds (e.g., CRMaaS from DHS) should not be included in the Marketplace.",
+    "source": "FedRAMP PMO",
+    "type": "Text"
+  },
+  {
+    "field": "Logo File URL",
+    "description": "Contains a URL pointing to graphics file containing the logo for the CSP associated with this authorization. ",
+    "source": "CSP",
+    "type": "Text"
+  },
+  {
+    "field": "Stage",
+    "description": "For In-Process CSPs, the stage that they are at (e.g., documentation, testing).  This field is not currently populated and is reserved for future use.  ",
+    "source": "FedRAMP PMO",
+    "type": "Test"
+  },
+  {
+    "field": "Expected Compliance Date",
+    "description": "For Agency packages, this is the date that the Agency is expected to issue an ATO letter for the CSP.  For CSPs pursuing a P-ATO, this is the date of the projected P-ATO.",
+    "source": "Agency ATOs: Agency\nP-ATOs: FedRAMP PMO",
+    "type": "Date"
+  },
+  {
+    "field": "FedRAMP Ready Date",
+    "description": "Date that a package was determined to be FedRAMP Ready",
+    "source": "FedRAMP PMO",
+    "type": "Date"
+  },
+  {
+    "field": "FedRAMP In-Process Date",
+    "description": "Date that a package was determined to be FedRAMP In-Process",
+    "source": "FedRAMP PMO",
+    "type": "Date"
+  },
+  {
+    "field": "Underlying CSPs",
+    "description": "PackageID of FedRAMP-Authorized packages used by this package.  Some FedRAMP packages use (at a lower layer) other FedRAMP-authorized packages.  For example, Microsoft  Dynamics CRM Online for Government (CRMOL) uses Microsoft Azure and Microsoft Global Foundation Services (GFS) Cloud Infrastructure, both of which are FedRAMP Authorized."
+  },
+  {},
+  {
+    "field": "Logo",
+    "description": "The URL pointing to a graphics file with the assessor's company logo.",
+    "source": "Assessor Company",
+    "type": "Text"
+  },
+  {
+    "field": "Company Name",
+    "description": "The assessor's company name.",
+    "source": "Assessor Company",
+    "type": "Text"
+  },
+  {
+    "field": "In Remediation Status (Yes/No)",
+    "description": "Identifies whether or not this assessor is in remediation status with the FedRAMP PMO to address issues,",
+    "source": "FedRAMP PMO",
+    "type": "Text"
+  },
+  {
+    "field": "FedRAMP Accreditation Date (by either FedRAMP originally or A2LA)",
+    "description": "The date that this assessor was certified as a 3PAO.",
+    "source": "Assessor Company",
+    "type": "Text"
+  },
+  {
+    "field": "Year Company Founded",
+    "description": "The founding date of the assessor company.",
+    "source": "Assessor Company",
+    "type": "Date"
+  },
+  {
+    "field": "Contact Information",
+    "description": "Email address of the assessor company.  Any questions regarding this assessor should be sent to this email.",
+    "source": "Assessor Company",
+    "type": "Text"
+  },
+  {
+    "field": "Assessor Website URL",
+    "description": "URL for the assessor company.",
+    "source": "Assessor Company",
+    "type": "Text"
+  },
+  {
+    "field": "Primary Office Locations",
+    "description": "Addresses of up to 3 locations for this assessor.",
+    "source": "Assessor Company",
+    "type": "Text"
+  },
+  {
+    "field": "3PAO Services Description",
+    "description": "Description of the services provided by the assessor.  In Markdown format.",
+    "source": "Assessor Company",
+    "type": "Text"
+  },
+  {
+    "field": "CSPs Assessed Through FedRAMP",
+    "description": "List of the CSPs assessed by this 3PAO.",
+    "source": "Assessor Company",
+    "type": "Text"
+  },
+  {
+    "field": "Provides FedRAMP Consulting Services Y/N?",
+    "description": "Identifies if the assessor also provides FedRAMP-related consulting services.",
+    "source": "Assessor Company",
+    "type": "Text"
+  },
+  {
+    "field": "Consulting Services Description",
+    "description": "Provides detail on the services provided by the assessor.",
+    "source": "Assessor Company",
+    "type": "Text"
+  },
+  {
+    "field": "CSPs You've Provided Consulting Services To",
+    "description": "List of CSPs that an assessor has provided consulting services to.",
+    "source": "Assessor Company",
+    "type": "Text"
+  },
+  {
+    "field": "Additional Cyber Frameworks Supported by Assessor",
+    "description": "List of additional, cybersecurity frameworks supported for which an assessor is accredited (e.g., NIST, ISO frameworks)",
+    "source": "Assessor Company",
+    "type": "Text"
+  },
+  {},
+  {},
+  {}
+]
