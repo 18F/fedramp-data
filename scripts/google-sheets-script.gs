@@ -264,13 +264,13 @@ function buildDataDictionary() {
   //Grab dictionary Sheet
   var gSheet = SpreadsheetApp.openById(gSheets.sheetId).getSheetByName('Data Dictionary'),
       sheetRows = gSheet.getSheetValues(2, 1, gSheet.getLastRow() - 1, gSheet.getLastColumn()),
-      gSheetFields = gSheet.getRange(1, 1, 1, gSheet.getLastColumn()).getValues()[0];
+      gSheetFields = gSheet.getRange(3, 1, 1, gSheet.getLastColumn()).getValues()[0];
   //Manipulate
   var dictionaryArray = [];
   sheetRows.forEach(function(row){
     dictionaryArray.push(buildRowObject(row, gSheetFields, mapping));
   });
-  return dictionaryArray;
+  return return JSON.stringify(dictionaryArray, null, 2);;
 
 }
 
@@ -301,7 +301,7 @@ function publishToGithub(path, file, lastSha){
           'sha': lastSha,
           'branch': github.branch
       })
-  }),
+  });
   var responseJson = JSON.parse(response.getContentText());
 
   if (responseJson.hasOwnProperty('content') && responseJson.content.hasOwnProperty('sha')) {
