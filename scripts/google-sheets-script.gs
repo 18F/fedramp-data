@@ -251,8 +251,22 @@ function saveJson() {
 * @returns {String} the sha from the version of the data.json file on github for the master branch
 */
 function getOldBlobSha(path) {
-    var response = getGitHubAsset(path);
-    return response.sha;
+     var requestUrl = Utilities.formatString(
+          'https://api.github.com/repos/%s/%s/contents/%s?ref=%s',
+          github.username,
+          github.repository,
+          path,
+          github.branch
+      ),
+      response = UrlFetchApp.fetch(requestUrl, {
+          'method': 'GET',
+          'headers': {
+              //'Accept': 'application/vnd.github.VERSION.raw',
+              'Authorization': Utilities.formatString('token %s', github['accessToken'])
+          }
+      }),
+      jsonResponse = JSON.parse(response.getContentText());
+  return jsonResponse.sha;
 }
 
 /**
