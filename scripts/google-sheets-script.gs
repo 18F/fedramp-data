@@ -270,7 +270,7 @@ function buildDataDictionary() {
   sheetRows.forEach(function(row){
     dictionaryArray.push(buildRowObject(row, gSheetFields, mapping));
   });
-  return return JSON.stringify(dictionaryArray, null, 2);;
+  return JSON.stringify(dictionaryArray, null, 2);
 
 }
 
