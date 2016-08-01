@@ -97,7 +97,7 @@ function meetsAllConditionals(columnFields, conditionalArray, row) {
             conds.push(acceptable);
         });
         var corrects = conds.reduce(getSum);
-        if (corrects === conds.length) {
+        if (corrects === conds.length || corrects === true) {
             return true;
         }
         return false;
@@ -238,6 +238,7 @@ function buildInnerRow (row, gSheetFields, parentFields, jsonData) {
 *
 */
 function saveJson() {
+    github.accessToken = gitTokenGrab();
     var filename = 'data',
         jsonData = generateJson();
     DriveApp.createFile(filename, jsonData, MimeType.PLAIN_TEXT);
@@ -277,7 +278,7 @@ function buildDataDictionary() {
   var mapping = getGitHubAsset('dictionary/mapping.json');
   //Grab dictionary Sheet
   var gSheet = SpreadsheetApp.openById(gSheets.sheetId).getSheetByName(mapping[0].from_sheet),
-      sheetRows = gSheet.getSheetValues(2, 1, gSheet.getLastRow() - 1, gSheet.getLastColumn()),
+      sheetRows = gSheet.getSheetValues(4, 1, gSheet.getLastRow() - 1, gSheet.getLastColumn()),
       gSheetFields = gSheet.getRange(3, 1, 1, gSheet.getLastColumn()).getValues()[0];
   //Manipulate
   var dictionaryArray = [];
