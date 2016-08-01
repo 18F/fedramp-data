@@ -261,7 +261,7 @@
     "type": "Date"
   },
   {
-    "field": "Underlying CSPs",
+    "field": "Dependent CSPs",
     "description": "PackageID of FedRAMP-Authorized packages used by this package.  Some FedRAMP packages use (at a lower layer) other FedRAMP-authorized packages.  For example, Microsoft  Dynamics CRM Online for Government (CRMOL) uses Microsoft Azure and Microsoft Global Foundation Services (GFS) Cloud Infrastructure, both of which are FedRAMP Authorized."
   },
   {},

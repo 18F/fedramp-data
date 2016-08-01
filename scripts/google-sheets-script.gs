@@ -276,16 +276,18 @@ function buildDataDictionary() {
   //Grab dictionary mapping fields
   var mapping = getGitHubAsset('dictionary/mapping.json');
   //Grab dictionary Sheet
-  var gSheet = SpreadsheetApp.openById(gSheets.sheetId).getSheetByName('Data Dictionary'),
+  var gSheet = SpreadsheetApp.openById(gSheets.sheetId).getSheetByName(mapping[0].from_sheet),
       sheetRows = gSheet.getSheetValues(2, 1, gSheet.getLastRow() - 1, gSheet.getLastColumn()),
       gSheetFields = gSheet.getRange(3, 1, 1, gSheet.getLastColumn()).getValues()[0];
   //Manipulate
   var dictionaryArray = [];
   sheetRows.forEach(function(row){
-    dictionaryArray.push(buildRowObject(row, gSheetFields, mapping));
+    var acceptable_ATO = meetsAllConditionals(gSheetFields, mapping[0].conditionals, row);
+    if (acceptable_ATO) {
+        dictionaryArray.push(buildRowObject(row, gSheetFields, mapping[0].fields));
+    }
   });
   return JSON.stringify(dictionaryArray, null, 2);
-
 }
 
 /**
@@ -330,6 +332,7 @@ function publishToGithub(path, file, lastSha){
 * Please note that, at present, this will not overwrite an existing file with the same name.
 */
 function run() {
+    github.accessToken = gitTokenGrab();
     var path = 'data/data.json',
         jsonData = generateJson(),
         lastSha = getOldBlobSha(path), //Sha from the previous version of the data file, needed to update the script.
