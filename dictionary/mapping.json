@@ -1,6 +1,6 @@
 [{"conditionals": [{"column_name":"CSV?", "acceptable_values":["*"]}],
 "from_sheet": "Data Dictionary",
-"fields":[]{"name": "field",
+"fields":[{"name": "field",
 "from_field":"Field",
 "type": "String"},
 {"name":"description",
@@ -11,4 +11,5 @@
 "type":"String"},
 {"name":"type",
 "from_field": "Data Type",
-"type":"String"}]]
+"type":"String"}]
+}]
