@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2016-08-01T16:21:48.293Z",
+    "Created_At": "2016-08-01T17:13:22.665Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2831,42 +2831,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Project Hosts",
-        "Cloud_Service_Provider_Package": "Federal Private Cloud for Windows and Linux Applications",
-        "Path": "CSP",
-        "Designation": "Compliant",
-        "Package_ID": "F1403283529",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Community / Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2015-09-30T04:00:00.000Z",
-        "Sponsoring_Agency": "CSP Supplied",
-        "CSP_URL": "https://fedramp.sites.usa.gov/files/2015/02/Project-Hosts-Logo.png",
-        "Independent_Assessor": "Veris Group, LLC",
-        "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/project-hosts-federal-private-cloud-for-windows-and-linux-applications/",
-        "CSP_Website": "www.projecthosts.com",
-        "CSO_Description": "The Federal Private Cloud for Windows and Linux Applications (FPC) provides cloud-based access to Microsoft applications including SharePoint, Project Server, Dynamics CRM, Power BI, Visual Studio, TFS, Remote Desktop, and Office; applications from other commercial software vendors such as AvePoint, BrightWork, Gimmal, Innovative-e, Nintex, eSignLive, UMT360, and Urban Turtle; and open source applications such as Drupal, WordPress and Joomla for agency website content management. A hybrid cloud architecture allows agencies to leverage shared services for some functions (e.g. authentication, monitoring, scanning) while still having the option to choose dedicated servers for applications and databases. The option for dedicated virtual or physical servers allows agencies to meet compliance requirements and also provides them with greater flexibility to implement customizations to meet their functional requirements.",
-        "CSP_POC_Name": "Scott Chapman",
-        "CSP_POC_Email": "scottc@projecthosts.com",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2016-04-03T04:00:00.000Z",
-            "Letter_Expiration_Date": "2018-09-18T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-04-03T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Information Systems Agency",
-            "Agency_POC": "Gordon Bass",
-            "Agency_POC_email": "gordon.bass.civ@mail.mil",
-            "Agency_Logo": "https://lh4.googleusercontent.com/CYMX3yoLqg_3XTvJ5aT7ku-FzwlbkcGW41xmvX6f5DptWOwPYfPytfOw-xbfOhMltf6hWg=s190",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2016-04-03T04:00:00.000Z"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Proofpoint",
         "Cloud_Service_Provider_Package": "Proofpoint Email Archive",
         "Path": "Agency",
@@ -2900,7 +2864,8 @@
         ],
         "Deployment_Model": "Community Cloud",
         "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "1905-07-07T05:00:00.000Z",
+        "Original_Authorization_Date": "2015-08-14T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Defense",
         "CSP_URL": "http://www.fedramp.gov/files/2015/02/Oracle-logo-300x59.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "FedRAMP_Website_URL": "http://www.fedramp.gov/marketplace/compliant-systems/oracle-corporation-oracle-service-cloud-oracle-dod-cloud/",
@@ -3812,7 +3777,7 @@
         "Cloud_Service_Provider_Name": "Collab9",
         "Cloud_Service_Provider_Package": "Secure Voice and Collaboration",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "F1404163859",
         "Service_Model": [
           "SaaS"
@@ -3827,6 +3792,7 @@
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/collab9-secure-voice-and-collaboration/",
         "CSP_Website": "www.collab9.com",
         "CSO_Description": "Collab9 offers cloud-based unified communications services including:\r\n\r\n*Voice\r\n*Voicemail and Unified Messaging (voicemail delivered to email)\r\n*Video (point-to-point)\r\n*Presence and Instant Messaging\r\n*Mobility Services (ability to use multiple types of phone devices to\r\naccess phone services) (Jabber)\r\n*Integration with Microsoft Exchange and Lync\r\n\nThe service is offered in a monthly, usage-based subscription model where a Customer / Agency subscribes to the services based on the number of users in its organization.",
+        "Announcement_Date": "2016-07-29T04:00:00.000Z",
         "CSP_POC_Name": "Mustafa Baig",
         "CSP_POC_Email": "sales@collab9.com",
         "Leveraged_ATO_Letters": []
