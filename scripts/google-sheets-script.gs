@@ -314,7 +314,7 @@ function publishToGithub(path, file, lastSha){
       'payload': JSON.stringify({
           'path': path,
           'message': github.commitMessage,
-          'content': Utilities.base64Encode(file),
+          'content': Utilities.base64Encode(file, Utilities.Charset.UTF_8),
           'sha': lastSha,
           'branch': github.branch
       })
