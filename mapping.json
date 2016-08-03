@@ -72,6 +72,9 @@
   {"name":"Fedramp_Ready_Date",
   "from_field": "FedRAMP Ready Date",
   "type": "UTCString"},
+  {"name":"FedRAMP_In-Process_Date",
+  "from_field": "FedRAMP In-Process Date",
+  "type": "UTCString"},
   {"name":"Leveraged_ATO_Letters",
   "type": "Array of Objects",
   "key": "Package_ID",
@@ -142,7 +145,7 @@
      "type": "String"},
     {"name": "website",
       "from_field": "Website URL",
-      "type": "String"},
+      "type": "String"}
     ]
   }
 ]
