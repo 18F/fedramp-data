@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2016-08-04T13:38:01.253Z",
+    "Created_At": "2016-08-04T18:17:55.263Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -130,7 +130,7 @@
         "Service_Model": [
           "IaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2013-05-01T04:00:00.000Z",
         "Sponsoring_Agency": "Department of Health and Human Services",
@@ -431,7 +431,7 @@
         "Independent_Assessor": "Veris Group, LLC",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/?p=12742",
         "CSP_Website": "www.autonomicresources.com",
-        "CSO_Description": "Autonomic Resources offers the [ARC-P Government Community Cloud (GCC)](http://cloud.cio.gov/fedramp/autonomic-resources#GCC), [ARC-P Government Private Cloud  (GPC)](http://cloud.cio.gov/fedramp/autonomic-resources#GPC), and [ARC-P Secure Data Center (SDC)](http://cloud.cio.gov/fedramp/autonomic-resources#SDC) services from within the ARC-P FedRAMP JAB authorized Security Authorization Boundary.\n\n**ARC-P GCC** provides agencies and government contractors physical or virtual machines in a shared government only cloud stack. ARC-P is a KVM based cloud system that assures interoperability and support for multiple hypervisor images. Agency virtualized images can be imported and exported from the ARC-P environment at agency request. ARC-P can support large numbers of agency virtual machines with the ability to scale services up and down according to agency customers’ varying requirements. ARC-P IaaS offers additional resources such as a virtual-machine disk image library, raw (block) and file-based storage, customer virtual network (CVN) separation at layer 2, firewalls, load balancers, public facing IP addresses, and software bundles. ARC-P IaaS supplies elastic compute resources on-demand from ARC-P compute pools installed in our CONUS only data centers. For cloud environment connectivity, agencies can use available ARC-P VPN solutions over the Internet or dedicated carrier clouds and circuits.\n\n\n**ARC-P GPC** offers the same features as ARC-P GCC with additional logical and physical separation for private cloud environments that require a dedicated hardware stack.\n\n**ARC-P SDC** (Secure Data Center) service provides agencies and government contractors secure IT system colocation services to assist with federal data center consolidation mandates along with their cloud first requirements. ARC-P SDC allows government customers to collocate their non-virtualized and legacy IT systems, as well as IT systems and private cloud stacks in which an agency or government contractor wishes to develop, deploy, and manage the full IT stack within the ARC-P FedRAMP JAB authorized Security Authorization Boundary, with the ability to leverage and inherit those ARC-P security controls that apply specifically to the physical environment and physical security of our facilities. Autonomic Resources is responsible for the physical security and physical environmental controls associated with each provided private cage and provides space, power, and any needed network cross-connects to other environments or circuits provided by the customer, to their hosted virtual environments within the ARC-P IaaS Government Community Cloud or ARC-P Government Private Cloud stacks. Data Center facility providers can engage Autonomic Resources for accreditation of their space under ARC-P SDC.",
+        "CSO_Description": "Autonomic Resources offers the ARC-P Government Community Cloud (GCC), ARC-P Government Private Cloud  (GPC), and ARC-P Secure Data Center (SDC) services from within the ARC-P FedRAMP JAB authorized Security Authorization Boundary.\n\n**ARC-P GCC** provides agencies and government contractors physical or virtual machines in a shared government only cloud stack. ARC-P is a KVM based cloud system that assures interoperability and support for multiple hypervisor images. Agency virtualized images can be imported and exported from the ARC-P environment at agency request. ARC-P can support large numbers of agency virtual machines with the ability to scale services up and down according to agency customers’ varying requirements. ARC-P IaaS offers additional resources such as a virtual-machine disk image library, raw (block) and file-based storage, customer virtual network (CVN) separation at layer 2, firewalls, load balancers, public facing IP addresses, and software bundles. ARC-P IaaS supplies elastic compute resources on-demand from ARC-P compute pools installed in our CONUS only data centers. For cloud environment connectivity, agencies can use available ARC-P VPN solutions over the Internet or dedicated carrier clouds and circuits.\n\n\n**ARC-P GPC** offers the same features as ARC-P GCC with additional logical and physical separation for private cloud environments that require a dedicated hardware stack.\n\n**ARC-P SDC** (Secure Data Center) service provides agencies and government contractors secure IT system colocation services to assist with federal data center consolidation mandates along with their cloud first requirements. ARC-P SDC allows government customers to collocate their non-virtualized and legacy IT systems, as well as IT systems and private cloud stacks in which an agency or government contractor wishes to develop, deploy, and manage the full IT stack within the ARC-P FedRAMP JAB authorized Security Authorization Boundary, with the ability to leverage and inherit those ARC-P security controls that apply specifically to the physical environment and physical security of our facilities. Autonomic Resources is responsible for the physical security and physical environmental controls associated with each provided private cage and provides space, power, and any needed network cross-connects to other environments or circuits provided by the customer, to their hosted virtual environments within the ARC-P IaaS Government Community Cloud or ARC-P Government Private Cloud stacks. Data Center facility providers can engage Autonomic Resources for accreditation of their space under ARC-P SDC.",
         "Announcement_Date": "2012-12-26T05:00:00.000Z",
         "CSP_POC_Name": "John Keese",
         "CSP_POC_Email": "jfk@autonomicresources.com",
@@ -493,7 +493,7 @@
         "Service_Model": [
           "IaaS"
         ],
-        "Deployment_Model": "Government Community",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2013-01-31T05:00:00.000Z",
         "Sponsoring_Agency": "JAB Authorization",
@@ -611,7 +611,7 @@
           "IaaS ",
           " PaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2013-06-06T04:00:00.000Z",
         "Sponsoring_Agency": "JAB Authorization",
@@ -619,10 +619,10 @@
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/?p=13632",
         "CSP_Website": "www.hpe.com/gov/transformation",
-        "CSO_Description": "Hewlett Packard Enterprise (HPE) Helion for Public Sector is an Infrastructure-as-a-Service (IaaS) cloud service that implements the complete FedRAMP Risk Management Framework by establishing controls for security, privacy, and IT governance to fulfill the NIST requirements for U.S. government agencies. This infrastructure and platform service offering is a highly secure, enterprise-class, cloud computing environment enabling government agencies, contractors and non-government organizations governed by federal regulations (e.g.: educational institutions, HIPAA-governed entities, and critical infrastructure ) to operate in the cloud with greater agility and flexibility while adhering to rigorous security, privacy, and IT governance controls required by the federal government.  HPE Helion for Public Sector consists of multiple components that can exist in a single cloud or operate within multiple clouds:   - Infrastructure-as-a-Service (IaaS): allows consumers to build and  manage Windows, Linux and/or UNIX services to host system middleware  or applications they install and manage themselves. The service  enables users to quickly provision both virtual and physical servers  in a consumption- based model. The service also allows clients to  co-locate customer-owned physical devices such as RISC chipset  servers or hardware security modules (MSM) in the same data center as  their cloud servers.   - Disaster Recovery-as-a-Service (DRaaS): enables consumers to  implement a disaster recovery capability to meet federal, state  and local requirements for contingency planning. This solution  automatically collects and maintains complete images of the   servers and network in their cloud, and can restore the entire cloud   without client intervention. This managed service also includes   assistance with disaster recovery planning and annual DR rehearsals.   Government agencies can benefit from HPE’s service excellence and   over 50 years of public sector experience, with a solution built from  the ground up with security and best practices in mind. The service   is hosted exclusively in auditable data centers in the continental   United States, and is staffed by U.S. persons.  HPE Helion for Public Sector complies with the following regulatory standards:   - FIPS 140-2 encryption (Federal Information Processing Standards 140-2  encryption)   - FedRAMP tailored CIS Level 1 configuration benchmarks (Center for  Internet Security Level 1)   - HIPAA/HITECH Security and Privacy (Health Insurance Portability  and Accountability Act/ Health Information Technology for  Economic and Clinical Health)   - ITAR (International Traffic in Arms Regulations)  - FERPA (Family Educational Rights and Privacy Act)   - PCI-DSS (Payment Card Industry Data Security Standard)  - CJIS (Criminal Justice Information System)  - FISMA (Federal Information Security Management Act)  - DIACAP/DIARMF (DoD Information Assurance   Certification and Accreditation Process/Defense Information   Assurance Risk Management Framework)   - DoD Cloud Security Reference Guide (SRG)   Information Impact level 2 (authorized 10/27/14)  For more information, visit our web site for the U.S. public sector at [www.hpe.com/gov/transformation](http://www.hpe.com/gov/transformation) or our worldwide web site at [www.hpe.com](http://www.hpe.com/).",
+        "CSO_Description": "Hewlett Packard Enterprise (HPE) Helion for Public Sector is an Infrastructure-as- a-Service (IaaS) and Platform-as- a-Service (PaaS) cloud service that implements the complete FedRAMP Risk Management Framework by establishing controls for security, privacy, and IT governance to fulfill the NIST requirements for U.S. government agencies. This infrastructure and platform service offering is a highly secure, enterprise-class, cloud computing environment enabling government agencies, contractors and non-government organizations governed by federal regulations (e.g.: educational institutions, HIPAA-governed entities, and critical infrastructure ) to operate in the cloud with greater agility and flexibility while adhering to rigorous security, privacy, and IT governance controls required by the federal government.\r\n\r\nHPE Helion for Public Sector consists of multiple components that can exist in a single cloud or operate within multiple clouds:\r\n\r\n - Infrastructure-as- a-Service (IaaS): allows consumers to build and manage Windows, Linux and/or UNIX services to host system middleware or applications they install and manage  themselves. The service enables users to quickly provision both virtual and physical servers in a consumption- based model. The service also allows clients to co-locate customer-owned physical devices such as RISC chipset servers or hardware security modules (MSM) in the same data center as their cloud servers. \r\n - Platform-as- a-Service (PaaS): allows consumers to extend the shared security model and eliminate operational expenses associated with the management of operating systems,    middleware, databases and security. HPE manages client workloads, reducing the    management burden and mitigating an overinvestment in infrastructure, while deploying new managed services securely within a FedRAMP-authorized and DISA ECSB-approved environment. \r\n - Disaster Recovery-as- a-Service (DRaaS): enables consumers to implement a disaster recovery capability to meet federal, state and local requirements for contingency planning. This solution    automatically collects and maintains complete images of the servers and network in their cloud, and can restore the entire cloud without client intervention. This managed service also    includes assistance with disaster recovery planning and annual DR rehearsals. Government       agencies can benefit from HPE’s service excellence and over 50 years of public sector experience, with a solution built from the ground up with security and best practices in mind. The service is hosted exclusively in auditable data centers in the continental United States, and is staffed by U.S. persons.\r\n\r\nHPE Helion for Public Sector complies with the following regulatory standards:\r\n\r\n - FIPS 140-2 encryption (Federal Information Processing Standards 140-2 encryption)\r\n - FedRAMP tailored CIS Level 1 configuration benchmarks (Center for Internet Security Level 1) \r\n - HIPAA/HITECH Security and Privacy (Health Insurance Portability and Accountability Act/ Health Information Technology for Economic and Clinical Health)\r\n - ITAR (International Traffic in Arms Regulations)\r\n - FERPA (Family Educational Rights and Privacy Act)\r\n - PCI-DSS (Payment Card Industry Data Security Standard)\r\n - CJIS (Criminal Justice Information System)\r\n - FISMA (Federal Information Security Management Act)\r\n - DIACAP/DIARMF (DoD Information Assurance Certification and  Accreditation Process/Defense Information Assurance Risk Management Framework)\r\n - DoD Cloud Security Reference Guide (SRG) Information Impact level 2 (authorized 10/27/14)\r\n\r\nFor more information, visit our web site for the U.S. public sector at [www.hpe.com/gov/transformation](http://www8.hp.com/us/en/hpe/gov-transformation/overview.html) or our worldwide web site at [www.hpe.com](https://www.hpe.com/us/en/home.html).",
         "Announcement_Date": "2013-06-06T04:00:00.000Z",
         "CSP_POC_Name": "Marilyn Hays",
-        "CSP_POC_Email": "marilyn.hays@hpe.com",
+        "CSP_POC_Email": "fedramp@hpe.com",
         "FedRAMP_In-Process_Date": "2012-11-08T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
@@ -656,7 +656,7 @@
         "Service_Model": [
           "IaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2013-06-06T04:00:00.000Z",
         "Sponsoring_Agency": "JAB Authorization",
@@ -771,204 +771,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Amazon",
-        "Cloud_Service_Provider_Package": "AWS GovCloud",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "AGENCYAMAZONGC",
-        "Service_Model": [
-          "IaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2013-05-13T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "CSP_URL": "https://www.fedramp.gov/files/2015/02/AmazonWebservices_Logo.svg_-300x120.png",
-        "Independent_Assessor": "Veris Group, LLC",
-        "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/amazon-web-services-aws-government-community-cloud/",
-        "CSP_Website": "www.aws.amazon.com",
-        "CSO_Description": "AWS GovCloud (US) is an AWS Region designed to allow US government agencies and customers supporting the US government to move more sensitive workloads into the cloud. In addition to complying with FedRAMP requirements, the AWS GovCloud (US) framework adheres to U.S. International Traffic in Arms Regulations (ITAR) regulations. Additional information is available at [http://aws.amazon.com/govcloud-us/](http://aws.amazon.com/govcloud-us/).",
-        "Announcement_Date": "2013-05-13T04:00:00.000Z",
-        "CSP_POC_Name": "AWS Compliance Team",
-        "CSP_POC_Email": "awscompliance@amazon.com",
-        "FedRAMP_In-Process_Date": "2014-05-11T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2013-08-16T04:00:00.000Z",
-            "Letter_Expiration_Date": "2016-08-16T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Agency_POC": "Sarah Zabel",
-            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2013-08-16T04:00:00.000Z"
-          },
-          {
-            "Letter_Expiration_Date": "2016-08-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2013-08-01T04:00:00.000Z",
-            "Authorizing_Agency": "Millenium Challenge Corporation",
-            "Agency_POC": "Gretchen Larimer",
-            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-MillenniumChallengeCorporation-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2013-08-01T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2014-05-30T04:00:00.000Z",
-            "Letter_Expiration_Date": "2017-06-02T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2014-06-02T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Justice",
-            "Authorizing_Subagency": "Federal Prison System",
-            "Agency_POC": "Sonya Thompson",
-            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/Seal_of_the_United_States_Department_of_Justice.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2014-06-02T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2014-03-10T04:00:00.000Z",
-            "Letter_Expiration_Date": "2017-03-10T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2014-03-10T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Authorizing_Subagency": "Bureau of the Fiscal Service",
-            "Agency_POC": "Jim McLaughlin",
-            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2014-03-10T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2015-09-24T04:00:00.000Z",
-            "Letter_Expiration_Date": "2018-09-24T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "United States Census Bureau",
-            "Agency_POC": "Harry Lee",
-            "Agency_POC_email": "N/A",
-            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2015-09-24T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2014-10-24T04:00:00.000Z",
-            "Letter_Expiration_Date": "2017-10-24T04:00:00.000Z",
-            "Authorizing_Agency": "National Labor Relations Board",
-            "Agency_POC": "Bryan Burnett",
-            "Agency_POC_email": "bryan.burnett@nlrb.gov",
-            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/National_Labor_Relations_Board_logo_-_color.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2014-10-24T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2014-11-19T05:00:00.000Z",
-            "Letter_Expiration_Date": "2017-10-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2015-01-20T05:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Agency_POC": "Debra Vess",
-            "Agency_POC_email": "N/A",
-            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2015-01-20T05:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2015-12-21T05:00:00.000Z",
-            "Letter_Expiration_Date": "2019-01-22T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-01-22T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Food and Drug Administration",
-            "Agency_POC": "Christopher Bollerer",
-            "Agency_POC_email": "Christopher.Bollerer@hhs.gov",
-            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2016-01-22T05:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2016-03-25T04:00:00.000Z",
-            "Letter_Expiration_Date": "N/A",
-            "Authorizing_Agency": "National Science Foundation",
-            "Agency_POC": "Debra Vess",
-            "Agency_POC_email": "N/A",
-            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/NSF.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2016-03-25T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2016-04-13T04:00:00.000Z",
-            "Letter_Expiration_Date": "2017-04-13T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Agency_POC": "Jerry Johnston",
-            "Agency_POC_email": "N/A",
-            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2016-04-13T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2016-05-12T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Agency_POC": "Steven Cooper",
-            "Agency_POC_email": "N/A",
-            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2016-05-12T04:00:00.000Z"
-          },
-          {
-            "Letter_Expiration_Date": "N/A",
-            "Authorizing_Letter_Last_Sign_Date": "2016-04-18T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Health Agency",
-            "Agency_POC": "Albert Bonnema",
-            "Agency_POC_email": "N/A",
-            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2016-04-18T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2015-12-14T05:00:00.000Z",
-            "Letter_Expiration_Date": "2018-12-14T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2015-12-14T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Department of the Navy",
-            "Agency_POC": "Ronal Velasquez",
-            "Agency_POC_email": "N/A",
-            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2015-12-14T05:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2016-06-22T04:00:00.000Z",
-            "Letter_Expiration_Date": "2017-06-15T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-06-22T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Information Systems Agency",
-            "Agency_POC": "Gordon Bass",
-            "Agency_POC_email": "gordon.bass.civ@mail.mil",
-            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2016-06-22T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2016-04-27T04:00:00.000Z",
-            "Letter_Expiration_Date": "N/A",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "United States Census Bureau",
-            "Agency_POC": "N/A",
-            "Agency_POC_email": "N/A",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2016-04-27T04:00:00.000Z"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "AINS",
         "Cloud_Service_Provider_Package": "eCase ",
         "Path": "Agency",
@@ -1017,7 +819,7 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2014-05-01T04:00:00.000Z",
         "Sponsoring_Agency": "JAB Authorization",
@@ -1120,7 +922,7 @@
         "Service_Model": [
           "IaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2013-11-07T05:00:00.000Z",
         "Sponsoring_Agency": "JAB Authorization",
@@ -1326,7 +1128,7 @@
           "SaaS ",
           " PaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2014-06-09T04:00:00.000Z",
         "Original_Expiration_Date": "2017-06-09T04:00:00.000Z",
@@ -1582,7 +1384,7 @@
           "SaaS ",
           " PaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2014-05-06T04:00:00.000Z",
         "Original_Expiration_Date": "2017-05-06T04:00:00.000Z",
@@ -1867,7 +1669,7 @@
         "Service_Model": [
           "PaaS"
         ],
-        "Deployment_Model": "Government Community",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2015-10-09T04:00:00.000Z",
         "Sponsoring_Agency": "JAB Authorization",
@@ -1988,7 +1790,7 @@
         "Service_Model": [
           "IaaS"
         ],
-        "Deployment_Model": "Government Community",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2014-10-22T04:00:00.000Z",
         "Sponsoring_Agency": "JAB Authorization",
@@ -2026,7 +1828,7 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Government Community",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2015-09-17T04:00:00.000Z",
         "Original_Expiration_Date": "2018-06-24T04:00:00.000Z",
@@ -2051,7 +1853,7 @@
         "Service_Model": [
           "PaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2015-10-09T04:00:00.000Z",
         "Sponsoring_Agency": "JAB Authorization",
@@ -2168,7 +1970,7 @@
           "IaaS ",
           " PaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2015-02-04T05:00:00.000Z",
         "Sponsoring_Agency": "JAB Authorization",
@@ -2508,7 +2310,7 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2015-07-17T04:00:00.000Z",
         "Original_Expiration_Date": "2018-07-17T04:00:00.000Z",
@@ -2549,7 +2351,7 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2015-09-21T04:00:00.000Z",
         "Original_Expiration_Date": "2018-09-18T04:00:00.000Z",
@@ -2577,7 +2379,7 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2014-12-05T05:00:00.000Z",
         "Sponsoring_Agency": "JAB Authorization",
@@ -2662,7 +2464,7 @@
         "Service_Model": [
           "PaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2015-05-15T04:00:00.000Z",
         "Original_Expiration_Date": "2018-05-15T04:00:00.000Z",
@@ -2687,7 +2489,7 @@
         "Service_Model": [
           "IaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2014-10-15T04:00:00.000Z",
         "Original_Expiration_Date": "2017-05-23T04:00:00.000Z",
@@ -2726,7 +2528,7 @@
         "Service_Model": [
           "IaaS"
         ],
-        "Deployment_Model": "Government Community",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2015-06-09T04:00:00.000Z",
         "Sponsoring_Agency": "JAB Authorization",
@@ -2763,7 +2565,7 @@
         "Service_Model": [
           "IaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2015-02-04T05:00:00.000Z",
         "Sponsoring_Agency": "JAB Authorization",
@@ -2811,7 +2613,7 @@
           "IaaS ",
           " SaaS"
         ],
-        "Deployment_Model": "Hybrid / Community",
+        "Deployment_Model": "Community / Hybrid Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2015-08-14T04:00:00.000Z",
         "Original_Expiration_Date": "2018-08-14T04:00:00.000Z",
@@ -2937,7 +2739,7 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Government Community",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2015-09-30T04:00:00.000Z",
         "Original_Expiration_Date": "2018-09-30T04:00:00.000Z",
@@ -2961,7 +2763,7 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2015-08-14T04:00:00.000Z",
         "Sponsoring_Agency": "Department of Defense",
@@ -3018,7 +2820,7 @@
         "Service_Model": [
           "IaaS"
         ],
-        "Deployment_Model": "Government Community",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2016-01-08T05:00:00.000Z",
         "Sponsoring_Agency": "JAB Authorization",
@@ -3042,7 +2844,7 @@
         "Service_Model": [
           "IaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2016-01-08T05:00:00.000Z",
         "Sponsoring_Agency": "JAB Authorization",
@@ -3179,7 +2981,7 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Government Community",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2016-02-17T05:00:00.000Z",
         "Sponsoring_Agency": "JAB Authorization",
@@ -3296,7 +3098,7 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2016-04-08T04:00:00.000Z",
         "Sponsoring_Agency": "JAB Authorization",
@@ -3345,7 +3147,7 @@
         "Service_Model": [
           "IaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2016-04-21T04:00:00.000Z",
         "Sponsoring_Agency": "JAB Authorization",
@@ -3369,7 +3171,7 @@
         "Service_Model": [
           "PaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2015-11-03T05:00:00.000Z",
         "Original_Expiration_Date": "2018-11-03T04:00:00.000Z",
@@ -3396,7 +3198,7 @@
         "Service_Model": [
           "IaaS"
         ],
-        "Deployment_Model": "Government Community",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2016-05-19T04:00:00.000Z",
         "Sponsoring_Agency": "JAB Authorization",
@@ -3423,11 +3225,11 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2016-05-18T04:00:00.000Z",
         "Original_Expiration_Date": "2019-05-18T04:00:00.000Z",
-        "Sponsoring_Agency": "U.S. Agency for International Development",
+        "Sponsoring_Agency": "United States Agency for International Development",
         "CSP_URL": "https://www.fedramp.gov/files/2015/10/CompusearchLogo-PNG-300x35.png",
         "Independent_Assessor": "Veris Group, LLC",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/compusearch-compusearch-fedconnect/",
@@ -3482,7 +3284,7 @@
         "Service_Model": [
           "IaaS"
         ],
-        "Deployment_Model": "Public and Private Cloud",
+        "Deployment_Model": "Hybrid Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2016-05-19T04:00:00.000Z",
         "Sponsoring_Agency": "CSP Supplied",
@@ -3513,9 +3315,9 @@
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/qualys-qualys-cloud-platform/#",
         "CSP_Website": "www.qualys.com",
-        "CSO_Description": "The Qualys Cloud Platform consists of a suite of IT Security and compliance solutions delivered via a SaaS deployment model that leverages shared and extensible core services and a highly scalable multi-tenant cloud infrastructure.  The purpose of this system is to provide Qualys services to customers where customers can continuously monitor their assets for vulnerabilities, compliance, and misconfigurations; automate remediation; and reduce organizational risk from their Qualys accounts via a secure interface, where all gathered data will be available for reporting and remediation. The system is supported by physical and virtual appliances that can be installed in minutes and require no maintenance or software updates by the user.   The services are accessible to customers via API calls or any modern web browser with Internet connectivity.",
+        "CSO_Description": "The Qualys Cloud Platform (QCP) is a multi-tenant shared cloud service environment. Its unique computing power is capable of continuously analyzing and correlating information, to assist IT management with identifying and homing-in on threats and eliminating vulnerabilities.\n\nWith its Qualys sensors, a core service of the Qualys Cloud Platform, make it easy to extend your security throughout your global enterprise. These sensors, which can be in the form of appliances or lightweight agents, are remotely deployable, centrally managed and self-updating. They collect data automatically and seamlessly sending it to the Qualys Cloud Platform.\n\nSubscribers simply use the Qualys software without the burden of licensing, maintenance and costs for owning the software itself.   ",
         "CSP_POC_Name": "Mark Dorsi",
-        "CSP_POC_Email": "mdorsi@qualys.com",
+        "CSP_POC_Email": "fedramp@qualys.com",
         "FedRAMP_In-Process_Date": "2015-08-26T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
@@ -3528,7 +3330,7 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Public and Private Cloud",
+        "Deployment_Model": "Hybrid Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2016-04-26T04:00:00.000Z",
         "Sponsoring_Agency": "CSP Supplied",
@@ -3552,7 +3354,7 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2016-06-20T04:00:00.000Z",
         "Original_Expiration_Date": "2019-06-20T04:00:00.000Z",
@@ -3745,7 +3547,7 @@
         "Independent_Assessor": "Veris Group, LLC",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/?p=12742",
         "CSP_Website": "www.autonomicresources.com",
-        "CSO_Description": "Autonomic Resources offers the [ARC-P Government Community Cloud (GCC)](http://cloud.cio.gov/fedramp/autonomic-resources#GCC), [ARC-P Government Private Cloud  (GPC)](http://cloud.cio.gov/fedramp/autonomic-resources#GPC), and [ARC-P Secure Data Center (SDC)](http://cloud.cio.gov/fedramp/autonomic-resources#SDC) services from within the ARC-P FedRAMP JAB authorized Security Authorization Boundary.\n\n**ARC-P GCC** provides agencies and government contractors physical or virtual machines in a shared government only cloud stack. ARC-P is a KVM based cloud system that assures interoperability and support for multiple hypervisor images. Agency virtualized images can be imported and exported from the ARC-P environment at agency request. ARC-P can support large numbers of agency virtual machines with the ability to scale services up and down according to agency customers’ varying requirements. ARC-P IaaS offers additional resources such as a virtual-machine disk image library, raw (block) and file-based storage, customer virtual network (CVN) separation at layer 2, firewalls, load balancers, public facing IP addresses, and software bundles. ARC-P IaaS supplies elastic compute resources on-demand from ARC-P compute pools installed in our CONUS only data centers. For cloud environment connectivity, agencies can use available ARC-P VPN solutions over the Internet or dedicated carrier clouds and circuits.\n\n\n**ARC-P GPC** offers the same features as ARC-P GCC with additional logical and physical separation for private cloud environments that require a dedicated hardware stack.\n\n**ARC-P SDC** (Secure Data Center) service provides agencies and government contractors secure IT system colocation services to assist with federal data center consolidation mandates along with their cloud first requirements. ARC-P SDC allows government customers to collocate their non-virtualized and legacy IT systems, as well as IT systems and private cloud stacks in which an agency or government contractor wishes to develop, deploy, and manage the full IT stack within the ARC-P FedRAMP JAB authorized Security Authorization Boundary, with the ability to leverage and inherit those ARC-P security controls that apply specifically to the physical environment and physical security of our facilities. Autonomic Resources is responsible for the physical security and physical environmental controls associated with each provided private cage and provides space, power, and any needed network cross-connects to other environments or circuits provided by the customer, to their hosted virtual environments within the ARC-P IaaS Government Community Cloud or ARC-P Government Private Cloud stacks. Data Center facility providers can engage Autonomic Resources for accreditation of their space under ARC-P SDC.",
+        "CSO_Description": "Autonomic Resources offers the ARC-P Government Community Cloud (GCC), ARC-P Government Private Cloud  (GPC), and ARC-P Secure Data Center (SDC) services from within the ARC-P FedRAMP JAB authorized Security Authorization Boundary.\n\n**ARC-P GCC** provides agencies and government contractors physical or virtual machines in a shared government only cloud stack. ARC-P is a KVM based cloud system that assures interoperability and support for multiple hypervisor images. Agency virtualized images can be imported and exported from the ARC-P environment at agency request. ARC-P can support large numbers of agency virtual machines with the ability to scale services up and down according to agency customers’ varying requirements. ARC-P IaaS offers additional resources such as a virtual-machine disk image library, raw (block) and file-based storage, customer virtual network (CVN) separation at layer 2, firewalls, load balancers, public facing IP addresses, and software bundles. ARC-P IaaS supplies elastic compute resources on-demand from ARC-P compute pools installed in our CONUS only data centers. For cloud environment connectivity, agencies can use available ARC-P VPN solutions over the Internet or dedicated carrier clouds and circuits.\n\n\n**ARC-P GPC** offers the same features as ARC-P GCC with additional logical and physical separation for private cloud environments that require a dedicated hardware stack.\n\n**ARC-P SDC** (Secure Data Center) service provides agencies and government contractors secure IT system colocation services to assist with federal data center consolidation mandates along with their cloud first requirements. ARC-P SDC allows government customers to collocate their non-virtualized and legacy IT systems, as well as IT systems and private cloud stacks in which an agency or government contractor wishes to develop, deploy, and manage the full IT stack within the ARC-P FedRAMP JAB authorized Security Authorization Boundary, with the ability to leverage and inherit those ARC-P security controls that apply specifically to the physical environment and physical security of our facilities. Autonomic Resources is responsible for the physical security and physical environmental controls associated with each provided private cage and provides space, power, and any needed network cross-connects to other environments or circuits provided by the customer, to their hosted virtual environments within the ARC-P IaaS Government Community Cloud or ARC-P Government Private Cloud stacks. Data Center facility providers can engage Autonomic Resources for accreditation of their space under ARC-P SDC.",
         "Announcement_Date": "2016-06-21T04:00:00.000Z",
         "CSP_POC_Name": "John Keese",
         "CSP_POC_Email": "jfk@autonomicresources.com",
@@ -3807,7 +3609,7 @@
         "Service_Model": [
           "IaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "High",
         "Original_Authorization_Date": "2016-06-21T04:00:00.000Z",
         "Original_Expiration_Date": "N/A",
@@ -3832,7 +3634,7 @@
         "Service_Model": [
           "IaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "High",
         "Original_Authorization_Date": "2016-06-21T04:00:00.000Z",
         "Original_Expiration_Date": "N/A",
@@ -3858,7 +3660,7 @@
           "IaaS ",
           " PaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "High",
         "Original_Authorization_Date": "2016-06-21T04:00:00.000Z",
         "Original_Expiration_Date": "N/A",
@@ -3909,7 +3711,7 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2016-07-12T04:00:00.000Z",
         "Original_Expiration_Date": "N/A",
@@ -3972,9 +3774,9 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "U.S. Census Bureau",
+        "Sponsoring_Agency": "Department of Commerce",
         "CSP_URL": "https://www.fedramp.gov/files/2016/04/VMware_AirWatch_blue_bg_rgb_1000x200-300x60.png",
         "Stage": "TBD",
         "Independent_Assessor": "Coalfire Systems, Inc.",
@@ -4022,7 +3824,7 @@
         ],
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "U.S. Army Corps of Engineers",
+        "Sponsoring_Agency": "Department of Defense",
         "CSP_URL": "https://www.fedramp.gov/files/2015/03/Autodesk-logo-150x150.jpg",
         "Stage": "TBD",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/autodesk-autodesk-bim-360-glue/",
@@ -4044,7 +3846,7 @@
         ],
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "U.S. Army Corps of Engineers",
+        "Sponsoring_Agency": "Department of Defense",
         "CSP_URL": "https://www.fedramp.gov/files/2015/03/Autodesk-logo-150x150.jpg",
         "Stage": "TBD",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/autodesk-autodesk-cloud-services/",
@@ -4064,9 +3866,9 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "National Geospatial-Intelligence Agency",
+        "Sponsoring_Agency": "Department of Defense",
         "CSP_URL": "https://www.fedramp.gov/files/2015/08/Bb_wordmark_1C_black-300x43.png",
         "Stage": "Documentation",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/blackboard-blackboard-learn-collaborate-saas/",
@@ -4133,7 +3935,7 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Sponsoring_Agency": "General Services Administration",
         "CSP_URL": "https://www.fedramp.gov/files/2016/05/CloudLock-Logo-300x43.jpg",
@@ -4151,7 +3953,6 @@
       {
         "Cloud_Service_Provider_Name": "Companion Data Services",
         "Cloud_Service_Provider_Package": "CDS Cloud Companion System",
-        "Path": "Agency",
         "Designation": "FedRAMP Ready",
         "Package_ID": "F1507307097",
         "Service_Model": [
@@ -4222,9 +4023,9 @@
         "Service_Model": [
           "IaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "U.S. Federal Emergency Management Agency",
+        "Sponsoring_Agency": "Department of Health and Human Services",
         "CSP_URL": "https://www.fedramp.gov/files/2015/05/csc_rgb_pos-300x197.jpg",
         "Stage": "Documentation",
         "Independent_Assessor": "Veris Group, LLC",
@@ -4245,7 +4046,7 @@
         "Service_Model": [
           "PaaS"
         ],
-        "Deployment_Model": "Government Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Sponsoring_Agency": "General Services Administration",
         "CSP_URL": "https://www.fedramp.gov/files/2015/02/ctac-300x75.jpg",
@@ -4336,9 +4137,9 @@
         "Service_Model": [
           "IaaS"
         ],
-        "Deployment_Model": "Government Cloud",
-        "Impact_Level": "Moderate / ECSB Level 5 IaaS",
-        "Sponsoring_Agency": "U.S. Navy",
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Defense",
         "CSP_URL": "https://www.fedramp.gov/files/2015/02/IBM-300x120.png",
         "Stage": "TBD",
         "Independent_Assessor": "Veris Group, LLC",
@@ -4438,7 +4239,7 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Sponsoring_Agency": "United States Postal Service",
         "CSP_URL": "https://www.fedramp.gov/files/2015/12/20140923154750ENPRN147891-MobileIron-Logo-1y-1411487270MR-300x67.jpg",
@@ -4463,7 +4264,7 @@
         ],
         "Deployment_Model": "Private Government Cloud",
         "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "National Technical Information Service Chief Information Office",
+        "Sponsoring_Agency": "Department of Commerce",
         "CSP_URL": "https://fedramp.sites.usa.gov/files/2015/03/NTIS_logo_lrg.gif",
         "Stage": "TBD",
         "Independent_Assessor": "Department of Transportation (DOT) Enterprise Services Center (ESC)",
@@ -4486,7 +4287,7 @@
         ],
         "Deployment_Model": "Private Cloud",
         "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Office of Management and Budget",
+        "Sponsoring_Agency": "Executive Office of the President",
         "CSP_URL": "https://www.fedramp.gov/files/2016/03/New-relic-logo-300x54.png",
         "Stage": "Documentation",
         "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
@@ -4507,7 +4308,7 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Sponsoring_Agency": "Department of Justice",
         "CSP_URL": "https://www.fedramp.gov/files/2015/12/Okta_Logo_BrightBlue_Large-300x101.png",
@@ -4529,7 +4330,7 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Public / Private Cloud",
+        "Deployment_Model": "Hybrid Cloud",
         "Impact_Level": "Moderate",
         "CSP_URL": "https://www.fedramp.gov/files/2015/03/onwire-logo-150x150.png",
         "Independent_Assessor": "Dakota Consulting, Inc.",
@@ -4551,7 +4352,7 @@
         "Service_Model": [
           "IaaS"
         ],
-        "Deployment_Model": "Community Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Sponsoring_Agency": "JAB Authorization",
         "CSP_URL": "https://www.fedramp.gov/files/2015/10/Oracle-Logo-300x47.jpg",
@@ -4575,7 +4376,7 @@
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "U.S. Department of Agriculture",
+        "Sponsoring_Agency": "Department of Agriculture",
         "CSP_URL": "https://www.fedramp.gov/files/2015/03/PegaCloud_LtBlue-300x193.png",
         "Stage": "Documentation",
         "Independent_Assessor": "Coalfire Systems, Inc.",
@@ -4583,7 +4384,7 @@
         "CSP_Website": "www.pega.com",
         "CSO_Description": "Pegasystems develops strategic applications for sales, marketing, service and operations. Pega’s applications streamline critical business operations, connect organizations to their customers seamlessly in real time across channels, and adapt to meet rapidly changing requirements. Pega’s Global 2000 customers include many of world’s most sophisticated and successful organizations and government agencies. Pega’s applications are built on the industry leading Pega 7 unified platform and made available via Pega Cloud. Pega Cloud provides customers and government agencies the ability to create, deliver and run Pega 7 applications on the cloud with operational excellence, enterprise-grade infrastructure and continuous lifecycle support.",
         "CSP_POC_Name": "Phill Baker",
-        "CSP_POC_Email": "phill.baker@pega.com",
+        "CSP_POC_Email": "CloudSales@pega.com",
         "FedRAMP_In-Process_Date": "2016-06-23T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
@@ -4647,10 +4448,10 @@
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/qualys-qualys-cloud-platform/",
         "CSP_Website": "www.qualys.com",
-        "CSO_Description": "The Qualys Cloud Platform consists of a suite of IT Security and compliance solutions delivered via a SaaS deployment model that leverages shared and extensible core services and a highly scalable multi-tenant cloud infrastructure. The purpose of this system is to provide Qualys services to customers where customers can continuously monitor their assets for vulnerabilities, compliance, and misconfigurations; automate remediation; and reduce organizational risk from their Qualys accounts via a secure interface, where all gathered data will be available for reporting and remediation. The system is supported by physical and virtual appliances that can be installed in minutes and require no maintenance or software updates by the user. The services are accessible to customers via API calls or any modern web browser with Internet connectivity.",
+        "CSO_Description": "The Qualys Cloud Platform (QCP) is a multi-tenant shared cloud service environment. Its unique computing power is capable of continuously analyzing and correlating information, to assist IT management with identifying and homing-in on threats and eliminating vulnerabilities.\n\nWith its Qualys sensors, a core service of the Qualys Cloud Platform, make it easy to extend your security throughout your global enterprise. These sensors, which can be in the form of appliances or lightweight agents, are remotely deployable, centrally managed and self-updating. They collect data automatically and seamlessly sending it to the Qualys Cloud Platform.\n\nSubscribers simply use the Qualys software without the burden of licensing, maintenance and costs for owning the software itself.   ",
         "Expected_Compliance_Date": "2016-10-31T04:00:00.000Z",
         "CSP_POC_Name": "Mark Dorsi",
-        "CSP_POC_Email": "mdorsi@qualys.com",
+        "CSP_POC_Email": "fedramp@qualys.com",
         "FedRAMP_In-Process_Date": "2015-08-26T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
@@ -4672,9 +4473,9 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Federal Community Cloud",
-        "Impact_Level": "DoD Cloud Security Model Impact Level 4",
-        "Sponsoring_Agency": "Defense Logistics Agency",
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Defense",
         "CSP_URL": "https://www.fedramp.gov/files/2015/10/NS2-Cloud-logo.jpg",
         "Stage": "TBD",
         "Independent_Assessor": "Veris Group, LLC",
@@ -4743,6 +4544,7 @@
         "Deployment_Model": "Hybrid Cloud",
         "Impact_Level": "Moderate",
         "Sponsoring_Agency": "JAB Authorization",
+        "CSP_URL": "https://www.fedramp.gov/files/2015/02/SoftLayer-300x52.jpg",
         "Stage": "Authorization",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/softlayer-softlayer-federal-cloud/",
@@ -4775,7 +4577,7 @@
         ],
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "U.S. Department of Agriculture, Animal and Plant Health Inspection Service",
+        "Sponsoring_Agency": "Department of Agriculture",
         "CSP_URL": "https://www.fedramp.gov/files/2016/05/springcm_rgb-300x70.png",
         "Stage": "TBD",
         "Independent_Assessor": "Price and Associates CPAs, LLC DBA A-LIGN",
@@ -4796,9 +4598,9 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Government Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Low",
-        "Sponsoring_Agency": "U.S. Census Bureau",
+        "Sponsoring_Agency": "Department of Commerce",
         "CSP_URL": "https://www.fedramp.gov/files/2015/02/Arcanum-Group-logo-300x132.jpg",
         "Stage": "Authorization",
         "Independent_Assessor": "Kratos SecureInfo",
@@ -4807,7 +4609,7 @@
         "CSO_Description": "The Integrated Logistics Management System is a cloud-based, Software-as-a-Subscription solution, hosted and licensed by The Arcanum Group, Inc. ILMSprovides the U.S. Census Bureau with inventory, warehousing, and customer service modules of the commercial off-the-shelf Infor SyteLine 9.00.30 Enterprise Resource Planning application. The system provides logistics support for censuses and surveys with real time, integrated logistics data for decision support, program control, and response to unplanned requirements. The ILMS system supports planning and execution of logistics activities as well as capturing logistics costs.",
         "Expected_Compliance_Date": "2016-09-30T04:00:00.000Z",
         "CSP_POC_Name": "Robert Fortier",
-        "CSP_POC_Email": "robert.fortier@thearcanumgroup.com",
+        "CSP_POC_Email": "info@thearcanumgroup.com",
         "FedRAMP_In-Process_Date": "2014-12-08T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
@@ -4822,7 +4624,7 @@
         ],
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Pentagon Force Protection Agency",
+        "Sponsoring_Agency": "Department of Defense",
         "CSP_URL": "https://www.fedramp.gov/files/2016/02/logo-dark-300x131.jpg",
         "Stage": "Documentation",
         "Independent_Assessor": "Lunarline, Inc.",
@@ -4925,7 +4727,7 @@
         "CSP_Website": "www.veracode.com",
         "CSO_Description": "**Veracode Application Security Services System**\n\nThe Veracode Application Security Services System (VASSS) is designed to assist organizations in verifying an application’s security state and in determining acceptable levels of risk before the software is deployed for business use. In conjunction with providing these services, Veracode relies upon its Center for Software Assurance (CSA) function to perform quality review procedures over the results generated by the Platform System prior to delivering them to its clients.\n\n**Enterprise-grade Security**\nThe Veracode cloud-based platform provides customers a centralized way to secure web, mobile and third-party applications across their global infrastructure, from development to production, without slowing innovation.\n\n**White Box Testing / Binary Static Analysis (SAST)**\nStatic Application Security Testing (SAST), or “white-box” testing, finds common vulnerabilities by performing a deep analysis of customer applications without executing them. Using Veracode patented binary SAST technology, all code is analyzed, including open source and third-party components, without requiring access to source code.\n\nSAST supplements threat modeling and code reviews performed by developers, finding coding errors and omissions more quickly and at lower cost via automation. It’s typically run in the early phases of the Software Development Lifecycle when it’s easier and less expensive to fix problems prior to production deployment.\n\n**Black Box Testing / Dynamic Analysis (DAST)**\n\nDynamic Application Security Testing (DAST), or “black-box” testing, identifies architectural weaknesses and vulnerabilities in customer running web applications. DAST allows customers to test and secure applications prior to and after shipping.\n\n**Web Application Perimeter Monitoring**\n\nMost enterprises don’t even know how many public-facing applications they have. To reduce customers’ global application threat surface, Veracode’s parallel cloud infrastructure rapidly discovers public-facing applications and identifies the potential exploitable vulnerabilities.\n\nAs enterprises spin-up new websites for new marketing campaigns or geographies, create web portals for customers and partners, and acquire companies, web application perimeters are constantly expanding. Additionally, legacy and aging marketing sites may exist unknowingly. The Veracode platform allows customers to quickly identify risks and take immediate action by shutting down legacy sites. Customers can also feed security intelligence about specific vulnerabilities from the Veracode cloud-based platform to your existing WAFs, for rapid mitigation via virtual patching.\n\n**Vendor Application Security Testing**\n\nDriving innovation to market usually means trusting the resilience of third-party software. The VAST program leaves less to chance. It baselines the risk posed by third-party applications and components, and then works directly with vendors to ensure your software supply chain is in compliance with your corporate policies.\n\n**Mobile Application Security System**\n\nVeracode’s cloud-based solution helps mobile teams achieve the correct balance between innovation and control. Veracode helps effectively manage the security risk posed by the mobile apps that customer organizations build, buy or download. Veracode’s solution provides the intelligence to protect against attacks and verify compliance with corporate risk and privacy policies.\n\nVeracode’s mobile application security solution combines automated code assessments with expert remediation services that enable IT teams to rapidly secure mobile applications in agile development environments, without slowing innovation.",
         "CSP_POC_Name": "Jeff Horan",
-        "CSP_POC_Email": "jhoran@veracode.com",
+        "CSP_POC_Email": "contact@veracode.com",
         "FedRAMP_In-Process_Date": "2015-09-30T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
