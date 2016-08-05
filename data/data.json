@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2016-08-05T13:44:26.951Z",
+    "Created_At": "2016-08-05T14:25:05.846Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -698,7 +698,7 @@
         "Original_Expiration_Date": "2016-09-16T04:00:00.000Z",
         "Sponsoring_Agency": "Department of Agriculture",
         "CSP_URL": "https://www.fedramp.gov/files/2015/02/USDA-Logo-300x205.png",
-        "Independent_Assessor": "FISMA Risk Management Framework (SP 800-37), Security Test and Evaluation (ST&E) by Lockheed Martin SETA A&A Team and USDA, NFC, Risk Management Staff",
+        "Independent_Assessor": "Lockheed Martin SETA A&A Team",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/?p=13952",
         "CSP_Website": "http://www.ocio.usda.gov/about-ocio/data-center-operations/nitc-cloud-services",
         "CSO_Description": "The USDA’s National Information Technology Center (NITC) is a federally-owned Cloud Service Provider for systems that are owned by Federal, State, and Local governments. The NITC offers both IaaS and PaaS services.   Additional information is available at:  [http://www.ocio.usda.gov/about-ocio/data-center-operations-dco](http://www.ocio.usda.gov/about-ocio/data-center-operations-dco). The NITC Service Catalog is available at :  [http://www.ocio.usda.gov/document/nitc-service-catalog](http://www.ocio.usda.gov/document/nitc-service-catalog)  The NITC’s Infrastructure as a Service (IaaS) cloud offering provides customers with the ability to deploy virtual systems using rapid on-demand self-service, flexible networking capabilities, resource pooling, rapid elasticity and a robust disaster recovery infrastructure within a Virtual Datacenter (VDC) construct on a hybrid cloud infrastructure. The IaaS VDC product is currently available in OpenStack and VMware based configurations.  The NITC’s Platform as a Service (PaaS) offering provides standard hardened virtualized operating systems leveraging advanced server virtualization technologies, compliant security and build standards, and economies of scale. The PaaS offering enablesrapid delivery of cost-effective, fully-managed operating platforms offering expanded controls to securely host customer’s mission critical applications. This NITC PaaS offering is currently available formultiple operating systems, including: RedHat Linux,Microsoft Windows, Oracle Solaris, and IBM AIX.  In addition to the FedRAMP Moderate security control baseline, the NITC has implemented FISMA High security controls within both service offerings.",
@@ -714,7 +714,7 @@
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfLabor-Seal-AltColors.svg_.png",
             "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "FISMA Risk Management Framework (SP 800-37), Security Test and Evaluation (ST&E) by Lockheed Martin SETA A&A Team and USDA, NFC, Risk Management Staff",
+            "Independent_Assessor": "Lockheed Martin SETA A&A Team",
             "Announcement_Date": "2014-03-11T04:00:00.000Z"
           },
           {
@@ -726,7 +726,7 @@
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://www.fedramp.gov/files/2016/08/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "FISMA Risk Management Framework (SP 800-37), Security Test and Evaluation (ST&E) by Lockheed Martin SETA A&A Team and USDA, NFC, Risk Management Staff",
+            "Independent_Assessor": "Lockheed Martin SETA A&A Team",
             "Announcement_Date": "2015-03-26T04:00:00.000Z"
           },
           {
@@ -737,7 +737,7 @@
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-OfficeOfGovernmentEthics-Logo.png",
             "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "FISMA Risk Management Framework (SP 800-37), Security Test and Evaluation (ST&E) by Lockheed Martin SETA A&A Team and USDA, NFC, Risk Management Staff",
+            "Independent_Assessor": "Lockheed Martin SETA A&A Team",
             "Announcement_Date": "2015-07-28T04:00:00.000Z"
           }
         ]
@@ -2396,7 +2396,7 @@
         "Original_Expiration_Date": "2018-05-15T04:00:00.000Z",
         "Sponsoring_Agency": "Department of Agriculture",
         "CSP_URL": "https://www.fedramp.gov/files/2015/02/USDA-Logo-300x205.png",
-        "Independent_Assessor": "FISMA Risk Management Framework (SP 800-37), Security Test and Evaluation (ST&E) by Lockheed Martin SETA A&A Team and USDA, NFC, Risk Management Staff",
+        "Independent_Assessor": "Lockheed Martin SETA A&A Team",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/united-states-department-of-agriculture-usda-national-information-technology-center/",
         "CSP_Website": "https://www.nfc.usda.gov/",
         "CSO_Description": "The National Finance Center (NFC) is a designated Shared Services Center under the Federal Information Technology Shared Services and OPM’s Human Resources Line of Business initiatives. These initiatives require Federal agencies to use a shared approach to service delivery.\n\nNFC’s hosting services provide a secure multi-tenant community cloud. Hosting customers leverage the NFC Data Center Services framework in its entirety, and may selectively implement one or more of the non-core services based on their individual business needs, and operational and financial imperatives. Within each of the non-core services, customers can choose a fully-configured service architecture from the outset, or start with a basic configuration and adapt and expand as necessary.\n\nNFC’s PaaS consists of NFC’s IT Infrastructure of hardware, operating systems, storage, network capacity, and the physically secure data centers.  This infrastructure is partitioned into the following general support systems (GSS), Enterprise Infrastructure, Mainframe, and Midrange.  The Enterprise Infrastructure (EI) consists of the network and data center components.  The Mainframe and Midrange provide the computer-processing capability.",
@@ -3652,6 +3652,41 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Softlayer",
+        "Cloud_Service_Provider_Package": "Softlayer Federal Cloud",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "F1211011660",
+        "Service_Model": [
+          "IaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2016-08-04T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "CSP_URL": "https://www.fedramp.gov/files/2015/02/SoftLayer-300x52.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/softlayer-softlayer-federal-cloud/",
+        "CSP_Website": "www.softlayer.com",
+        "CSO_Description": "The SoftLayer Federal Cloud (SFC) is a high performance, high security, Infrastructure-as-a-Service Cloud provided by SoftLayer Technologies, Inc. SFC makes use of a unique managed and automated cloud service provider architecture layer (a multi-faceted Infrastructure-as-a-Service (IaaS) Cloud) that provides a variety of cloud-based services. Under SoftLayer’s unique managed/automated service provider architecture, its offerings include public, private, and hybrid cloud offerings. Services include orchestrated bare metal servers (dedicated and shared) and virtual servers (dedicated and shared) to support a variety of operational and security requirements of federal agencies.",
+        "Announcement_Date": "2016-08-04T04:00:00.000Z",
+        "CSP_POC_Name": "Valarie Stinson",
+        "CSP_POC_Email": "vstinson@softlayer.com",
+        "FedRAMP_In-Process_Date": "2015-02-12T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2015-12-03T05:00:00.000Z",
+            "Letter_Expiration_Date": "2016-12-03T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2015-12-03T05:00:00.000Z"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "18F",
         "Cloud_Service_Provider_Package": "Cloud.gov",
         "Path": "JAB",
@@ -4440,41 +4475,6 @@
         "CSP_POC_Email": "fedramp-l@socrata.com",
         "FedRAMP_In-Process_Date": "2015-03-02T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Softlayer",
-        "Cloud_Service_Provider_Package": "Softlayer Federal Cloud",
-        "Path": "JAB",
-        "Designation": "In Process",
-        "Package_ID": "F1211011660",
-        "Service_Model": [
-          "IaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "JAB Authorization",
-        "CSP_URL": "https://www.fedramp.gov/files/2015/02/SoftLayer-300x52.jpg",
-        "Stage": "Authorization",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/softlayer-softlayer-federal-cloud/",
-        "CSP_Website": "www.softlayer.com",
-        "CSO_Description": "The SoftLayer Federal Cloud (SFC) is a high performance, high security, Infrastructure-as-a-Service Cloud provided by SoftLayer Technologies, Inc. SFC makes use of a unique managed and automated cloud service provider architecture layer (a multi-faceted Infrastructure-as-a-Service (IaaS) Cloud) that provides a variety of cloud-based services. Under SoftLayer’s unique managed/automated service provider architecture, its offerings include public, private, and hybrid cloud offerings. Services include orchestrated bare metal servers (dedicated and shared) and virtual servers (dedicated and shared) to support a variety of operational and security requirements of federal agencies.",
-        "Expected_Compliance_Date": "2016-08-31T04:00:00.000Z",
-        "CSP_POC_Name": "Valarie Stinson",
-        "CSP_POC_Email": "vstinson@softlayer.com",
-        "FedRAMP_In-Process_Date": "2015-02-12T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2015-12-03T05:00:00.000Z",
-            "Letter_Expiration_Date": "2016-12-03T05:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2015-12-03T05:00:00.000Z"
-          }
-        ]
       },
       {
         "Cloud_Service_Provider_Name": "SpringCM",
