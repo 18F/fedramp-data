@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2016-08-05T18:39:44.941Z",
+    "Created_At": "2016-08-08T13:30:18.052Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2354,41 +2354,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Softlayer",
-        "Cloud_Service_Provider_Package": "Softlayer Federal Cloud (SFC)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1211011660",
-        "Service_Model": [
-          "IaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2015-06-16T04:00:00.000Z",
-        "Sponsoring_Agency": "Federal Communications Commission",
-        "CSP_URL": "https://www.fedramp.gov/files/2015/02/SoftLayer-300x52.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/softlayer-softlayer-federal-cloud-sfc/",
-        "CSP_Website": "www.softlayer.com",
-        "CSO_Description": "The SoftLayer Federal Cloud (SFC) is a high performance, high security, Infrastructure-as-a-Service Cloud provided by SoftLayer Technologies, Inc. SFC makes use of a unique managed and automated cloud service provider architecture layer (a multi-faceted Infrastructure-as-a-Service (IaaS) Cloud) that provides a variety of cloud-based services. Under SoftLayer’s unique managed/automated service provider architecture, its offerings include public, private, and hybrid cloud offerings. Services include orchestrated bare metal servers (dedicated and shared) and virtual servers (dedicated and shared) to support a variety of operational and security requirements of federal agencies.",
-        "Announcement_Date": "2016-01-07T05:00:00.000Z",
-        "CSP_POC_Name": "Steve Kinman",
-        "CSP_POC_Email": "skinman@softlayer.com",
-        "FedRAMP_In-Process_Date": "2015-06-18T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2015-12-03T05:00:00.000Z",
-            "Letter_Expiration_Date": "2016-12-03T05:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2015-12-03T05:00:00.000Z"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "United States Department of Agriculture",
         "Cloud_Service_Provider_Package": "USDA National Finance Center",
         "Path": "Agency",
@@ -2543,7 +2508,7 @@
           "IaaS ",
           " SaaS"
         ],
-        "Deployment_Model": "Community / Hybrid Cloud",
+        "Deployment_Model": "Hybrid Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2015-08-14T04:00:00.000Z",
         "Original_Expiration_Date": "2018-08-14T04:00:00.000Z",
@@ -2655,6 +2620,7 @@
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/connectsolutions-connectsolutions-fedramp-meetingcloud/",
         "CSP_Website": "www.connectsolutions.com",
         "CSO_Description": "CoSo's Private FedRAMP Compliant Cloud for Adobe Connect is a powerful and proven platform, enabling agencies to excel in their missions.   It provides 99.99% uptime to ensure government agencies have reliable collaboration for critical communications. CoSo's platform and services have been used to facilitate crisis-communications regarding food tampering, drug recalls, and international disasters & emergencies. Additionally, both the military and many federal agencies utilize CoSo's platform to provide secure training around the globe.",
+        "Expected_Compliance_Date": "2016-09-15T04:00:00.000Z",
         "CSP_POC_Name": "Cyrus Mirakhor",
         "CSP_POC_Email": "security@ConnectSolutions.com",
         "FedRAMP_In-Process_Date": "2012-09-12T04:00:00.000Z",
@@ -2673,7 +2639,7 @@
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2015-09-30T04:00:00.000Z",
         "Original_Expiration_Date": "2018-09-30T04:00:00.000Z",
-        "Sponsoring_Agency": "Federal Aviation Administration",
+        "Sponsoring_Agency": "Department of Transportation",
         "CSP_URL": "https://www.fedramp.gov/files/2015/03/Proofpoint-logo-300x159.jpg",
         "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/proofpoint-inc-proofpoint-email-archive/",
@@ -2874,7 +2840,7 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Community / Hybrid Cloud",
+        "Deployment_Model": "Hybrid Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2015-10-20T04:00:00.000Z",
         "Original_Expiration_Date": "2016-09-30T04:00:00.000Z",
@@ -3665,7 +3631,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Softlayer",
-        "Cloud_Service_Provider_Package": "Softlayer Federal Cloud",
+        "Cloud_Service_Provider_Package": "Softlayer Federal Cloud (SFC)",
         "Path": "JAB",
         "Designation": "Compliant",
         "Package_ID": "F1211011660",
@@ -4331,10 +4297,11 @@
         "Service_Model": [
           "SaaS"
         ],
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Sponsoring_Agency": "Office of Personnel Management",
         "Stage": "TBD",
-        "Independent_Assessor": "Dakota Consulting, Inc.",
+        "Independent_Assessor": "MindPoint Group, LLC",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/powertrain-inc-web-development-and-hosting/",
         "CSP_Website": "www.powertrain.com",
         "CSO_Description": "PowerTrain is an on-line application development, implementation, and hosting provider for a range of federal government agencies through an Office of Personnel Management contract. PowerTrain currently runs systems under an assessment and authorization to operate through the Office of Personnel Management security team.",
@@ -4415,7 +4382,7 @@
         "Independent_Assessor": "Veris Group, LLC",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/sap-national-security-services-inc-sap-ns2-sap-ns2-secure-node-with-successfactors-suite/",
         "CSP_Website": "www.spans2.com",
-        "CSO_Description": "The SAP National Security Services (SAP NS2) Federal Secure Node delivers the SAP SuccessFactors Human Capital Management Suite (HCM) SaaS for the Federal Community. SAP SuccessFactors HCM Suite helps transform organizational strategies into measurable business and mission outcomes by simplifying HR processes and maximizing employee engagement. We provide unmatched solution breadth and depth through a full set of core HR and talent solutions based on modern cloud technology that makes them simple to use, simple to run and simple for your people to succeed.\n\nSAP SUCCESSFACTORS HCM SUITE INCLUDES:\n\n - Learning: Develop a comprehensive learning strategy with a completelearning management solution (LMS) that enables you to manage, develop and deploy instructor-led, formal and social online training. SAP SuccessFactors Learning helps learning professionals improv employees’ skills, develop leaders, reduce compliance risk, and better enable external audiences.\n - Performance & Goals: Communicate strategy, create meaningful individual goals across the organization, and focus employees on what matters, while enabling executives to monitor goal progress in real-time. Then reward, measure and tie employee performance to business results, streamline the performance appraisal process, and enable meaningful feedback.\n - Succession & Development: Anticipate and plan for staffing changes and assure the readiness of employee talent at all levels. Align learning activities with competency gaps to arm your workforce for current and future needs. Improve motivation with continuous development and career planning.\n - Compensation: Pay your people based on achievement, establish a pay-for-performance culture – retain top talent and increase productivity across the organization. Calibration drives better compensation decisions with and objective ratings.\n - Recruiting: Transform recruiting into a continuous, strategic part of your talent strategy with the only end-to-end recruiting solution that helps you attract, engage and select better candidates and then\nmeasure the results.\n - Onboarding: By guiding hiring managers, empowering new hires and connecting onboarding to other key talent management activities, SAP SuccessFactors makes onboarding a strategic process that improves job satisfaction, time to productivity and first year retention.\n - Workforce Planning: Leverage in-depth workforce information and benchmarks to assess readiness to execute strategies, forecast the impact of business decisions, mitigate risk and take action.\n - Workforce Analytics & Reporting: Deliver actionable, quantitative insights to your business leaders with a powerful combination of talent and business data that produces easy to understand and consume information. Creates a catalyst for positive change in the business.\n - Employee Central: Deliver real business impact with a next generation core HR system that puts the ‘self’ back in ‘self-service’. Strategically-minded HR and IT teams have realized that user-friendly core HR solution is the key to accurate employee data. Capturing employee, organizational and talent data all in one solution delivers better results, faster.\n\nIn addition, SAP NS2 offers the Secure CloudEdge providing customers with the enhanced availability, compliance and customer support to deliver that mission critical edge. Benefits include: \n- Enhanced Disaster Recovery/High Availability\n - U.S Federal, DoD ITAR and Critical Infrastructure compliance\n - NS2 US Citizen Operation & Support\n - Private US Support Ticketing System",
+        "CSO_Description": "The SAP National Security Services (SAP NS2) Federal Secure Node delivers the SAP SuccessFactors Human Capital Management Suite (HCM) SaaS for the Federal Community. SAP SuccessFactors HCM Suite helps transform organizational strategies into measurable business and mission outcomes by simplifying HR processes and maximizing employee engagement. We provide unmatched solution breadth and depth through a full set of core HR and talent solutions based on modern cloud technology that makes them simple to use, simple to run and simple for your people to succeed.\n\nSAP SUCCESSFACTORS HCM SUITE INCLUDES:\n\n - Learning: Develop a comprehensive learning strategy with a completelearning management solution (LMS) that enables you to manage, develop and deploy instructor-led, formal and social online training. SAP SuccessFactors Learning helps learning professionals improv employees’ skills, develop leaders, reduce compliance risk, and better enable external audiences.\n - Performance & Goals: Communicate strategy, create meaningful individual goals across the organization, and focus employees on what matters, while enabling executives to monitor goal progress in real-time. Then reward, measure and tie employee performance to business results, streamline the performance appraisal process, and enable meaningful feedback.\n - Succession & Development: Anticipate and plan for staffing changes and assure the readiness of employee talent at all levels. Align learning activities with competency gaps to arm your workforce for current and future needs. Improve motivation with continuous development and career planning.\n - Compensation: Pay your people based on achievement, establish a pay-for-performance culture – retain top talent and increase productivity across the organization. Calibration drives better compensation decisions with and objective ratings.\n - Recruiting: Transform recruiting into a continuous, strategic part of your talent strategy with the only end-to-end recruiting solution that helps you attract, engage and select better candidates and then\nmeasure the results.\n - Onboarding: By guiding hiring managers, empowering new hires and connecting onboarding to other key talent management activities, SAP SuccessFactors makes onboarding a strategic process that improves job satisfaction, time to productivity and first year retention.\n - Workforce Planning: Leverage in-depth workforce information and benchmarks to assess readiness to execute strategies, forecast the impact of business decisions, mitigate risk and take action.\n - Workforce Analytics & Reporting: Deliver actionable, quantitative insights to your business leaders with a powerful combination of talent and business data that produces easy to understand and consume information. Creates a catalyst for positive change in the business.\n - Employee Central: Deliver real business impact with a next generation core HR system that puts the ‘self’ back in ‘self-service’. Strategically-minded HR and IT teams have realized that user-friendly core HR solution is the key to accurate employee data. Capturing employee, organizational and talent data all in one solution delivers better results, faster.\n\nIn addition, SAP NS2 offers the Secure CloudEdge providing customers with the enhanced availability, compliance and customer support to deliver that mission critical edge. Benefits include: \n- Enhanced Disaster Recovery/High Availability\n- U.S Federal, DoD ITAR and Critical Infrastructure compliance\n- NS2 US Citizen Operation & Support \n- Private US Support Ticketing System",
         "CSP_POC_Name": "Carmen Krueger",
         "CSP_POC_Email": "info@sapns2.com",
         "FedRAMP_In-Process_Date": "2015-10-02T04:00:00.000Z",
@@ -4436,7 +4403,6 @@
         "CSP_URL": "https://www.fedramp.gov/files/2015/12/SWN.png",
         "Stage": "TBD",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/send-word-now-swn-emergency-notification-service-ens/",
-        "CSP_Website": "TBD",
         "CSO_Description": "Send Word Now’s award-winning alerting service provides two-way, on-demand emergency and routine messaging to a designated group of recipients across a variety of platforms. From email to voicemail to mobile apps, alerts are transmitted to the communication device of each recipient’s choice. Leading organizations across a wide range of industries depend on Send Word Now to deliver thousands of messages across a broad range of recipients within just minutes.\n\nThe Send Word Now alerting service is an easy-to-use, member-activated interface that doesn’t require new hardware or technical expertise to master. Recipients can sign up for alerts via the communication device of their choice and update their personal profile as needed. Once an alert is sent, message recipients can respond via Send Word Now’s Get Word Back feature, providing managers with vital information as a situation develops. Within the alerting console, administrators can track and document responses, initiate conference calls and quickly reference all sent and received messages for auditing purposes. \n\nThrough the use of dynamic groups, multiple points of contact and unique features such as Get Word Back, AlertLinks, and push conferencing, customers can take advantage of Send Word Now’s customizable platform to maximize their crisis communication efforts.",
         "CSP_POC_Name": "Andrew Baker",
         "CSP_POC_Email": "abaker@sendwordnow.com",
@@ -4482,7 +4448,6 @@
         "Stage": "TBD",
         "Independent_Assessor": "Price and Associates CPAs, LLC DBA A-LIGN",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/springcm-springcm/",
-        "CSP_Website": "TBD",
         "CSO_Description": "SpringCM is a secure cloud platform that manages contracts and all types of documents across desktop, mobile, and partner applications like Salesforce. SpringCM goes beyond standard contract and document management with advanced workflows that automate manual tasks and complex processes to speed time-to-revenue. Businesses use SpringCM to optimize collaboration and processes across internal departments, as well as with prospects and customers.",
         "CSP_POC_Name": "Chris King",
         "CSP_POC_Email": "cking@springcm.com",
@@ -4601,7 +4566,6 @@
         "CSP_URL": "https://www.fedramp.gov/files/2016/05/vbrick-logo-300x71.png",
         "Stage": "Documentation",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/vbrick-vbrick-rev/",
-        "CSP_Website": "TBD",
         "CSO_Description": "Rev enables organizations to securely and efficiently deliver high quality live and on-demand video to huge audiences internally, using the organization’s wide area network, and externally via the cloud. Features of Rev include, the central management of video assets, user access and permissions, network delivery devices, and video publishing and distribution—in the most bandwidth-efficient way possible.",
         "CSP_POC_Name": "Todd Kistner",
         "CSP_POC_Email": "todd.kistner@vbrick.com",
@@ -4625,7 +4589,7 @@
         "Independent_Assessor": "SecureIT",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/veracode-veracode-application-security-services-system/",
         "CSP_Website": "www.veracode.com",
-        "CSO_Description": "**Veracode Application Security Services System**\n\nThe Veracode Application Security Services System (VASSS) is designed to assist organizations in verifying an application’s security state and in determining acceptable levels of risk before the software is deployed for business use. In conjunction with providing these services, Veracode relies upon its Center for Software Assurance (CSA) function to perform quality review procedures over the results generated by the Platform System prior to delivering them to its clients.\n\n**Enterprise-grade Security**\nThe Veracode cloud-based platform provides customers a centralized way to secure web, mobile and third-party applications across their global infrastructure, from development to production, without slowing innovation.\n\n**White Box Testing / Binary Static Analysis (SAST)**\nStatic Application Security Testing (SAST), or “white-box” testing, finds common vulnerabilities by performing a deep analysis of customer applications without executing them. Using Veracode patented binary SAST technology, all code is analyzed, including open source and third-party components, without requiring access to source code.\n\nSAST supplements threat modeling and code reviews performed by developers, finding coding errors and omissions more quickly and at lower cost via automation. It’s typically run in the early phases of the Software Development Lifecycle when it’s easier and less expensive to fix problems prior to production deployment.\n\n**Black Box Testing / Dynamic Analysis (DAST)**\n\nDynamic Application Security Testing (DAST), or “black-box” testing, identifies architectural weaknesses and vulnerabilities in customer running web applications. DAST allows customers to test and secure applications prior to and after shipping.\n\n**Web Application Perimeter Monitoring**\n\nMost enterprises don’t even know how many public-facing applications they have. To reduce customers’ global application threat surface, Veracode’s parallel cloud infrastructure rapidly discovers public-facing applications and identifies the potential exploitable vulnerabilities.\n\nAs enterprises spin-up new websites for new marketing campaigns or geographies, create web portals for customers and partners, and acquire companies, web application perimeters are constantly expanding. Additionally, legacy and aging marketing sites may exist unknowingly. The Veracode platform allows customers to quickly identify risks and take immediate action by shutting down legacy sites. Customers can also feed security intelligence about specific vulnerabilities from the Veracode cloud-based platform to your existing WAFs, for rapid mitigation via virtual patching.\n\n**Vendor Application Security Testing**\n\nDriving innovation to market usually means trusting the resilience of third-party software. The VAST program leaves less to chance. It baselines the risk posed by third-party applications and components, and then works directly with vendors to ensure your software supply chain is in compliance with your corporate policies.\n\n**Mobile Application Security System**\n\nVeracode’s cloud-based solution helps mobile teams achieve the correct balance between innovation and control. Veracode helps effectively manage the security risk posed by the mobile apps that customer organizations build, buy or download. Veracode’s solution provides the intelligence to protect against attacks and verify compliance with corporate risk and privacy policies.\n\nVeracode’s mobile application security solution combines automated code assessments with expert remediation services that enable IT teams to rapidly secure mobile applications in agile development environments, without slowing innovation.",
+        "CSO_Description": "**Veracode Application Security Services System**\n\nThe Veracode Application Security Services System (VASSS) is designed to assist organizations in verifying an application’s security state and in determining acceptable levels of risk before the software is deployed for business use. In conjunction with providing these services, Veracode relies upon its Center for Software Assurance (CSA) function to perform quality review procedures over the results generated by the Platform System prior to delivering them to its clients.\n\n**Enterprise-grade Security**\n \nThe Veracode cloud-based platform provides customers a centralized way to secure web, mobile and third-party applications across their global infrastructure, from development to production, without slowing innovation.\n\n**White Box Testing / Binary Static Analysis (SAST)**\n\nStatic Application Security Testing (SAST), or “white-box” testing, finds common vulnerabilities by performing a deep analysis of customer applications without executing them. Using Veracode patented binary SAST technology, all code is analyzed, including open source and third-party components, without requiring access to source code.\n\nSAST supplements threat modeling and code reviews performed by developers, finding coding errors and omissions more quickly and at lower cost via automation. It’s typically run in the early phases of the Software Development Lifecycle when it’s easier and less expensive to fix problems prior to production deployment.\n\n**Black Box Testing / Dynamic Analysis (DAST)**\n\nDynamic Application Security Testing (DAST), or “black-box” testing, identifies architectural weaknesses and vulnerabilities in customer running web applications. DAST allows customers to test and secure applications prior to and after shipping.\n\n**Web Application Perimeter Monitoring**\n\nMost enterprises don’t even know how many public-facing applications they have. To reduce customers’ global application threat surface, Veracode’s parallel cloud infrastructure rapidly discovers public-facing applications and identifies the potential exploitable vulnerabilities.\n\nAs enterprises spin-up new websites for new marketing campaigns or geographies, create web portals for customers and partners, and acquire companies, web application perimeters are constantly expanding. Additionally, legacy and aging marketing sites may exist unknowingly. The Veracode platform allows customers to quickly identify risks and take immediate action by shutting down legacy sites. Customers can also feed security intelligence about specific vulnerabilities from the Veracode cloud-based platform to your existing WAFs, for rapid mitigation via virtual patching.\n\n**Vendor Application Security Testing**\n\nDriving innovation to market usually means trusting the resilience of third-party software. The VAST program leaves less to chance. It baselines the risk posed by third-party applications and components, and then works directly with vendors to ensure your software supply chain is in compliance with your corporate policies.\n\n**Mobile Application Security System**\n\nVeracode’s cloud-based solution helps mobile teams achieve the correct balance between innovation and control. Veracode helps effectively manage the security risk posed by the mobile apps that customer organizations build, buy or download. Veracode’s solution provides the intelligence to protect against attacks and verify compliance with corporate risk and privacy policies.\n\nVeracode’s mobile application security solution combines automated code assessments with expert remediation services that enable IT teams to rapidly secure mobile applications in agile development environments, without slowing innovation.",
         "CSP_POC_Name": "Jeff Horan",
         "CSP_POC_Email": "contact@veracode.com",
         "FedRAMP_In-Process_Date": "2015-09-30T04:00:00.000Z",
@@ -4752,7 +4716,7 @@
         "Name": "Electrosoft Services, Inc.",
         "Accreditation_Date": "2015-03-02T05:00:00.000Z",
         "Logo": "https://www.fedramp.gov/files/2016/08/Electrosoft-Logo.jpg",
-        "Description": "**FedRAMP 3PAO Services**\nElectrosoft provides streamlined and cost-effective FedRAMP assessment services honed by our many years of experience in performing similar services under FISMA and through our ongoing FedRAMP assessment services to CSPs. We provide the following services in support of FedRAMP assessments:  \nInitiation\n* Complete FIPS 199 Worksheet; FedRAMP Initiation Request Form\n* Control Tailoring Workbook (CTW); Control Implementation Summary (CIS)\nPre-Audit \n* Conduct Pre-Audit testing to identify problem areas\nSecurity Testing (as a 3PAO) \n* Develop Security Assessment Test Plan (SATP) \n* Perform Testing (Interviews, Document Reviews, Technical Tests)\n* Penetration Testing and Vulnerability Scanning  \nSecurity Assessment Reporting (as a 3PAO) \n* Prepare Security Assessment Report (SAR) \n* Support Plan of Actions and Milestones (POA&M) development\n* Assemble Security Assessment Package\n",
+        "Description": "**FedRAMP 3PAO Services**  \nElectrosoft provides streamlined and cost-effective FedRAMP assessment services honed by our many years of experience in performing similar services under FISMA and through our ongoing FedRAMP assessment services to CSPs. We provide the following services in support of FedRAMP assessments:  \nInitiation\n* Complete FIPS 199 Worksheet; FedRAMP Initiation Request Form\n* Control Tailoring Workbook (CTW); Control Implementation Summary (CIS)\nPre-Audit \n* Conduct Pre-Audit testing to identify problem areas\nSecurity Testing (as a 3PAO) \n* Develop Security Assessment Test Plan (SATP) \n* Perform Testing (Interviews, Document Reviews, Technical Tests)\n* Penetration Testing and Vulnerability Scanning  \nSecurity Assessment Reporting (as a 3PAO) \n* Prepare Security Assessment Report (SAR) \n* Support Plan of Actions and Milestones (POA&M) development\n* Assemble Security Assessment Package\n",
         "POC_Name": "Sarbari Gupta",
         "POC_Email": "3pao@electrosoft-inc.com",
         "website": "www.electrosoft-inc.com"
@@ -4801,11 +4765,6 @@
         "POC_Name": "Keith Paige",
         "POC_Email": "fedramp@firstinfotech.com",
         "website": "www.firstinfotech.com"
-      },
-      {
-        "Name": "Honeywell Technology",
-        "POC_Name": "Christopher Inman",
-        "POC_Email": "FedRAMP.3PAO@honeywell.com"
       },
       {
         "Name": "FYRM Associates, Inc.",
@@ -5037,32 +4996,6 @@
         "POC_Name": "Michael Carter",
         "POC_Email": "fedramp@verisgroup.com",
         "website": "www.verisgroup.com"
-      },
-      {
-        "Name": "DSD Laboratories, Inc.",
-        "Accreditation_Date": "2013-07-02T04:00:00.000Z",
-        "POC_Name": "Arlen Lippert",
-        "POC_Email": "FedRAMP_3PAO@dsdlabs.com"
-      },
-      {
-        "Name": "Leidos Accredited Testing Evaluation (AT&E) Labs (formerly SAIC)",
-        "Accreditation_Date": "2013-11-07T05:00:00.000Z",
-        "POC_Name": "Daun-Marie Sniegowski",
-        "POC_Email": "Daun-Marie.C.Sniegowski@leidos.com"
-      },
-      {
-        "Name": "Homeland Security Consultants",
-        "Accreditation_Date": "2012-09-04T04:00:00.000Z",
-        "POC_Name": "Sean Cope",
-        "POC_Email": "sean.cope@homelandsecurityconsultants.net"
-      },
-      {
-        "Name": "PricewaterhouseCoopers LLP",
-        "Accreditation_Date": "2013-11-21T05:00:00.000Z"
-      },
-      {
-        "Name": "SRA International, Inc.",
-        "Accreditation_Date": "2012-05-14T04:00:00.000Z"
       },
       {},
       {},
