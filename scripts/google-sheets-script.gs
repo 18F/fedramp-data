@@ -212,18 +212,29 @@ function buildRowObject(row, gSheetFields, mappingFields){
 */
 function buildInnerRow (row, gSheetFields, parentFields, jsonData) {
   parentFields.forEach(function (parentField) {
+        var acceptable = true;
         if (parentField.hasOwnProperty('conditionals')) {
-            var acceptable = meetsAllConditionals(gSheetFields, parentField.conditionals, row);
-        } else {
-            var acceptable = true;
+            acceptable = meetsAllConditionals(gSheetFields, parentField.conditionals, row);
         }
 
         if (acceptable && parentField.hasOwnProperty('subfields')) {
             var mappingSubfields = parentField.subfields,
-                keyIndex = gSheetFields.indexOf(parentField.from_key_value); //Find the link between the subfields and the parent
+                keys = parentField.key,
+                keyValues = parentField.from_key_value;
+
             jsonData.forEach(function (ATORow, jsonIndex) {
-                if (ATORow[parentField.key] === row[keyIndex]) {
-                //Push the subfields
+                // Loop through all possible key/value matches counting the
+                // hits
+                var match = 0;
+                for (var i = 0; i < keys.length; i++) {
+                    var idx = gSheetFields.indexOf(parentField.from_key_value[i]);
+                    if (ATORow[parentFied.key[i] === row[idx]) {
+                        match++;
+                    }
+                }
+
+                if (match === keys.length) {
+                    // Push the subfields
                     var subfieldObj = buildRowObject(row, gSheetFields, mappingSubfields);
                     jsonData[jsonIndex][parentField.name].push(subfieldObj);
                 }
