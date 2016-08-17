@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2016-08-16T17:08:50.995Z",
+    "Created_At": "2016-08-17T04:51:03.945Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2782,7 +2782,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Verizon",
-        "Cloud_Service_Provider_Package": "Enterprise Cloud Federal Edition (ECFE)",
+        "Cloud_Service_Provider_Package": "Enterprise Cloud Federal Edition (ECFE/VCFE)",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "AGENCYVERIZONECFE",
@@ -2800,9 +2800,9 @@
         "Independent_Assessor": "Lunarline, Inc.",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/verizon-enterprise-cloud-federal-edition-ecfe/",
         "CSP_Website": "http://www.verizonenterprise.com/industry/public_sector/federal/cloud/federal.xml",
-        "CSO_Description": "The Verizon ECFE represents an Infrastructure as a Service (IaaS) solution, as defined by NIST’s SP 800-145, supported by an enterprise-class computing architecture that is delivered from strategically located cloud-enabled datacenters in Culpepper, VA and Miami, FL where core infrastructure components are shared by government customers. All ECFE customers are United States Federal government entities and are only granted access to the services through a formal contracting process. The contracting process establishes the relationship between Verizon and customer that defines the customer’s intended use of the service, authorizes the use of ECFE and ensures the proper allocation of resources. ECFE gives government customers the capability to provision virtual servers, storage, virtual load balancers and virtual firewalls for the deployment of their specific applications.",
+        "CSO_Description": "The Verizon ECFE/VCFE represents an Infrastructure as a Service (IaaS) solution, as defined by NIST's SP 800-145, supported by an enterprise-class computing architecture that is delivered from strategically located cloud-enabled datacenters in Culpeper, Va and Miami FL, where core infrastructure components are shared by government customers.  All ECFE/VCFE customers are United States Federal government entities and are only granted access to the services through a formal contracting process.  The contracting process establishes the relationship between Verizon and the customer that defines the customer's intended use of the services, authorizes the use of ECFE/VCFE and ensures the proper allocation of resources. ECFE/VCFE provides government customers the capability to provision virtual servers, storage, virtual load balancers and virtual firewalls for the deployment of their specific applications.",
         "Announcement_Date": "2014-10-15T04:00:00.000Z",
-        "CSP_POC_Name": "N/A",
+        "CSP_POC_Name": "Verizon Federal Team",
         "CSP_POC_Email": "VerizonFedRAMP-ECFE@verizon.com",
         "FedRAMP_In-Process_Date": "2014-05-11T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
@@ -4420,6 +4420,7 @@
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/everbridge-everbridge-suite-saas/",
         "CSP_Website": "www.everbridge.com",
         "CSO_Description": "Everbridge is a global provider of SaaS-based unified critical communications solutions. During mission-critical business events or man-made or natural disasters, the Everbridge platform enables customers to quickly and reliably deliver the right message and reach the right people, on the right device, in the right location, at the right time. Utilizing sophisticated communications technologies, Everbridge has the ability to deliver and verify messages in near real-time to more than 100 different communication devices, in over 200 countries and territories, in multiple languages – all simultaneously.",
+        "Expected_Compliance_Date": "2017-07-31T04:00:00.000Z",
         "CSP_POC_Name": "SK Bhachech",
         "CSP_POC_Email": "FedRAMPinfo@everbridge.com",
         "FedRAMP_In-Process_Date": "2015-07-21T04:00:00.000Z",
@@ -4604,7 +4605,7 @@
         "Cloud_Service_Provider_Package": "New Relic",
         "Path": "Agency",
         "Designation": "In Process",
-        "Package_ID": "TBD",
+        "Package_ID": "F1607057910",
         "Service_Model": [
           "SaaS"
         ],
@@ -5173,7 +5174,7 @@
         "Accreditation_Date": "2015-07-17T04:00:00.000Z",
         "Logo": "https://www.fedramp.gov/files/2016/08/Coalfire-Logo.jpg",
         "Description": "FedRAMP Assessment Services – Readiness Capability and formal third party organization (3POA) assessment services to test a cloud service provider to the FedRAMP requirements.",
-        "POC_Name": "Anne Bayerkohler",
+        "POC_Name": "Nick Son",
         "POC_Email": "3pao@coalfire.com",
         "website": "www.coalfire.com",
         "Remediation": "N",
