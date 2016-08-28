@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2016-08-27T04:51:03.992Z",
+    "Created_At": "2016-08-28T04:51:03.953Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -893,16 +893,6 @@
             "Announcement_Date": "2013-08-16T04:00:00.000Z"
           },
           {
-            "Letter_Expiration_Date": "2016-08-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2013-08-01T04:00:00.000Z",
-            "Authorizing_Agency": "Millenium Challenge Corporation",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-MillenniumChallengeCorporation-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2013-08-01T04:00:00.000Z"
-          },
-          {
             "Letter_Date": "2014-05-30T04:00:00.000Z",
             "Letter_Expiration_Date": "2017-06-02T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2014-06-02T04:00:00.000Z",
@@ -1041,6 +1031,16 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Veris Group, LLC",
             "Announcement_Date": "2016-04-27T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-08-23T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2016-08-23T04:00:00.000Z",
+            "Authorizing_Agency": "Millenium Challenge Corporation",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-MillenniumChallengeCorporation-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2016-08-23T04:00:00.000Z"
           }
         ]
       },
@@ -4126,6 +4126,30 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "CFI Group",
+        "Cloud_Service_Provider_Package": "Customer Feedback Management System (CFMS)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "TBD",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Low",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "CSP_URL": "https://www.fedramp.gov/files/2016/08/CFI-Logo.jpg",
+        "Independent_Assessor": "Dakota Consulting, Inc.",
+        "CSP_Website": "www.cfigroup.com",
+        "CSO_Description": "The CFMS solution provides the ability to collect survey data from citizens and/or federal employees. Survey programs analyze and statistically model the data using the patented methodology of the American Customer Satisfaction Index (ACSI) and then share the results back to our clients via a secure web portal. In addition, CFI Group provides in depth reports and presentations to further analyze and provide recommendations based on the information collected. CFMS is hosted on Amazon.",
+        "CSP_POC_Name": "Terry Redding",
+        "CSP_POC_Email": "tredding@cfigroup.com",
+        "FedRAMP_In-Process_Date": "2016-08-25T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Cisco Systems Inc.",
         "Cloud_Service_Provider_Package": "Cisco Hosted Collaboration Solution for Government (HCS-G)",
         "Path": "Agency",
@@ -4326,6 +4350,31 @@
         "CSP_POC_Name": "Edward Bondarev",
         "CSP_POC_Email": "compliance@cylance.com",
         "FedRAMP_In-Process_Date": "2016-06-15T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Equinix, Inc.",
+        "Cloud_Service_Provider_Package": "Equinix Cloud Exchange",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "TBD",
+        "Service_Model": [
+          "IaaS"
+        ],
+        "Deployment_Model": "Private Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "Office of the Inspector General",
+        "CSP_URL": "https://www.fedramp.gov/files/2016/08/Equinix-Logo.jpg",
+        "Stage": "Documentation",
+        "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
+        "CSO_Description": "Equinix Cloud Exchange (ECX) brings cloud providers (sellers) together with US Government agencies (buyers) leveraging a multitude of private network options. Equinix Cloud Exchange (ECX) provides secure, private, virtual connections to multiple cloud providers globally with rapid automated provisioning and service orchestration. By bypassing the public Internet, US Government agencies can increase security, improve performance, reduce costs and leverage cloud services for more applications. Together with Software as-a-Service (IaaS, PaaS, SaaS) providers, US Government agencies can now integrate with private or hybrid cloud services and their internal applications as if they were part of their local area network.",
+        "CSP_POC_Name": "Kathy Sorell",
+        "CSP_POC_Email": "fedramp@equinix.com",
+        "FedRAMP_In-Process_Date": "2016-08-17T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -5026,8 +5075,18 @@
         "Name": "Blue Canopy Group, LLC",
         "Accreditation_Date": "2015-12-23T05:00:00.000Z",
         "Logo": "https://www.fedramp.gov/files/2016/08/Blue-Canopy-Logo.jpg",
-        "POC_Name": "Jim Anderson",
-        "POC_Email": "Coming Soon"
+        "Description": "Blue Canopy is a certified FedRAMP 3PAO, able to assist both CSPs and government agencies in meeting FedRAMP compliance. Authorized FedRAMP Services:\n**Consulting** – Security planning, development, and implementation\n**Pre-Assessment** – Preliminary review and preparation\n**Assessment** – Multilevel security testing and assessment\n**Continuous Monitoring** – Ensuring FedRAMP compliance",
+        "POC_Name": "Jerry Oar",
+        "POC_Email": "bcfedramp@bluecanopy.com",
+        "website": "www.bluecanopy.com",
+        "Remediation": "N",
+        "Founded": 2001,
+        "Primary_Office_Locations": "11091 Sunset Hills Road\nSuite 777\nReston, VA 20190",
+        "FedRAMP_Assessed": "* Micropact",
+        "Provide_Consulting_Services": "Y",
+        "Description_of_Consulting_Services": "Big Data Analytics, Big Data Platform as a Service (PaaS) , trusted Cloud Services Broker (CSB), AWS Standard Level Consulting Partner since 2013, AWS HIPAA Associate, certified and accredited to deploy to AWS GovCloud (the ITAR compliant and most secure AWS cloud region), Mobility Enablement (strategy, architecture, app dev, security), Agile Development, Mission Support Services (Trusted Advisory Services, Mission Specific IT Services, Prepare the Warfighter), Cyber Security (CISO Advisory Services, Security Engineering/innovation, Cyber Ops & Analytics, Persistent Risk Management, CyForce Solutions.",
+        "Consulting_Services_To": "* Adobe Connect Managed Services (ACMS-EW)\n* Adobe Connect Managed Services (ACMS-GC)\n* Adobe Experience Manager Managed Services (AEMMS-EW)\n* Adobe Experience Manager Managed Services (AEMMS-GC)",
+        "Additional_Cyber_Frameworks": "SAP® CONSULTING SERVICES PARTNER,"
       },
       {
         "Name": "Booz Allen Hamilton",
