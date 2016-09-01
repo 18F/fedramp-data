@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2016-08-31T04:51:03.959Z",
+    "Created_At": "2016-09-01T04:51:03.991Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3404,6 +3404,17 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Veris Group, LLC",
             "Announcement_Date": "2016-08-30T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-08-17T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2016-08-22T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2016-08-22T04:00:00.000Z"
           }
         ]
       },
@@ -3984,6 +3995,7 @@
         "Sponsoring_Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfTheInterior-Seal.png",
         "Authorizing_Agency": "Department of the Interior",
         "CSP_URL": "https://www.fedramp.gov/files/2016/04/accellion-300x64.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/accellion-kiteworks-federal-cloud/",
         "CSP_Website": "www.accellion.com/resources/industry/",
         "CSO_Description": "Recognized as a leader in the Gartner Magic Quadrant and Forrester Wave, Accellion offers a government-class, private cloud platform that enables secure file sharing and collaboration with Microsoft® Office 365 and Microsoft Outlook®. The world's leading organizations and government agencies rely on Accellion's kiteworks to send, share, and collaborate on sensitive documents from PCs, Macs, smartphones and tablets, regardless of where files are stored, all from a single pane of glass.  \n\n- Securely exchange files and collaborate with internal and external teams.   \n- Centralize access to content stored in SharePoint®, ECMs, file shares, home drives, and cloud storage services.   \n- Ensure the security, confidentiality, integrity, and availability of enterprise content via a private cloud file sharing solution including the ability for custom branding.   \n- Protect sensitive information and intellectual property with government-grade security to meet stringent compliance requirements including data sovereignty.   \n- Compliant with the following: SOC-2 (SSAE-16), FISMA, FIPS 140-2, PCI-DSS environments, ITAR, EAR.",
@@ -3992,6 +4004,76 @@
         "FedRAMP_In-Process_Date": "2016-04-25T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "IBM",
+        "Cloud_Service_Provider_Package": "Cloud Managed Services for Government",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1206081363",
+        "Service_Model": [
+          "IaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2016-08-23T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Defense",
+        "Sponsoring_Agency_Logo": "https://www.fedramp.gov/files/2016/08/United_States_Department_of_Defense_Seal.png",
+        "Authorizing_Agency": "Department of Defense",
+        "Authorizing_Subagency": "Defense Information Systems Agency",
+        "CSP_URL": "https://www.fedramp.gov/files/2015/02/IBM-300x120.png",
+        "Independent_Assessor": "Veris Group, LLC",
+        "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/ibm-cloud-managed-services-for-government-dod/",
+        "CSP_Website": "www.ibm.com",
+        "CSO_Description": "The IBM Cloud Managed Services for Government is a Public Sector focused infrastructure as a service (IaaS) community cloud that is designed to meet the unique security and compliance needs of IBM Public Sector customers. The cloud provides server and storage infrastructure services in the form of fully managed and/or customer-managed Windows and Linux virtual machines, as well as managed magnetic disk and sequential media storage. The IBM Cloud Managed Services for Government is a multi-tenant environment that currently supports production and development workloads for US Public Sector customers.",
+        "Announcement_Date": "2016-08-23T04:00:00.000Z",
+        "CSP_POC_Name": "Joseph Morrison",
+        "CSP_POC_Email": "jmorrisn@us.ibm.com",
+        "FedRAMP_In-Process_Date": "2014-05-30T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2013-12-18T05:00:00.000Z",
+            "Letter_Expiration_Date": "2016-12-18T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2013-12-18T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2013-12-18T05:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2015-03-26T04:00:00.000Z",
+            "Letter_Expiration_Date": "2016-11-07T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2015-03-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Information Systems Agency",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2015-03-26T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2015-07-17T04:00:00.000Z",
+            "Authorizing_Agency": "General Services Administration",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/GSAlogo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2015-07-17T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-05-20T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2016-05-20T04:00:00.000Z"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "18F",
@@ -4457,75 +4539,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "IBM",
-        "Cloud_Service_Provider_Package": "Cloud Managed Services for Government - DoD",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "F1206081363",
-        "Service_Model": [
-          "IaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Defense",
-        "Sponsoring_Agency_Logo": "https://www.fedramp.gov/files/2016/08/United_States_Department_of_Defense_Seal.png",
-        "Authorizing_Agency": "Department of Defense",
-        "Authorizing_Subagency": "Department of the Navy",
-        "CSP_URL": "https://www.fedramp.gov/files/2015/02/IBM-300x120.png",
-        "Stage": "TBD",
-        "Independent_Assessor": "Veris Group, LLC",
-        "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/ibm-cloud-managed-services-for-government-dod/",
-        "CSP_Website": "www.ibm.com",
-        "CSO_Description": "The IBM Cloud Managed Services for Government is a Public Sector focused infrastructure as a service (IaaS) community cloud that is designed to meet the unique security and compliance needs of IBM Public Sector customers. The cloud provides server and storage infrastructure services in the form of fully managed and/or customer-managed Windows and Linux virtual machines, as well as managed magnetic disk and sequential media storage. The IBM Cloud Managed Services for Government is a multi-tenant environment that currently supports production and development workloads for US Public Sector customers.",
-        "CSP_POC_Name": "Joseph Morrison",
-        "CSP_POC_Email": "jmorrisn@us.ibm.com",
-        "FedRAMP_In-Process_Date": "2014-05-30T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2013-12-18T05:00:00.000Z",
-            "Letter_Expiration_Date": "2016-12-18T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2013-12-18T05:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2013-12-18T05:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2015-03-26T04:00:00.000Z",
-            "Letter_Expiration_Date": "2016-11-07T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2015-03-26T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Information Systems Agency",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2015-03-26T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2015-07-17T04:00:00.000Z",
-            "Authorizing_Agency": "General Services Administration",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/GSAlogo.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2015-07-17T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2016-05-20T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2016-05-20T04:00:00.000Z"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "iSite LLC",
         "Cloud_Service_Provider_Package": "iSite Contract Management Portal",
         "Path": "Agency",
@@ -4700,6 +4713,27 @@
         "CSP_POC_Name": "Michael Whaley",
         "CSP_POC_Email": "michael.l.whaley@oracle.com",
         "FedRAMP_In-Process_Date": "2015-09-25T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Oracle",
+        "Cloud_Service_Provider_Package": "Oracle Taleo Cloud - U.S. Government Cloud",
+        "Path": "Agency",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "TBD",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://www.fedramp.gov/files/2015/02/Oracle-logo-300x59.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.oracle.com",
+        "CSO_Description": "Oracle Taleo Cloud services are Oracle’s Software as a Service (SaaS) solution, providing a comprehensive talent management and learning service. Taleo Enterprise Edition offers a comprehensive talent management suite that spans the entire employee lifecycle and helps companies hire, manage, reward, and develop their employees with a full talent management solution for recruiting and on boarding, performance management, employee development and succession planning. Since Taleo Enterprise Edition is built on a single unified platform and delivered on demand, you can implement a single module or the full solution based on your needs. Oracle’s Taleo Learn Cloud offers an employee development and training software solution that supports the learning challenges of large complex enterprises. Taleo Learn links human resources management to learning with Talent Intelligence. The Taleo Learn Cloud Service is a solution for delivering, tracking, managing, and reporting on formal and informal learning. Users have access to learning through a single platform for online, classroom, virtual, and on-the-job training, as well as assessments, blended learning, social learning, and self-reported training. Organizations can design a tailored user experience with complete control of the user interface.",
+        "CSP_POC_Name": "Aaron Erickson",
+        "CSP_POC_Email": "fedrampinfo_us@oracle.com",
+        "Fedramp_Ready_Date": "2016-08-30T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
