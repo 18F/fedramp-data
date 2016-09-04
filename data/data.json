@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2016-09-03T04:51:04.629Z",
+    "Created_At": "2016-09-04T04:51:04.016Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2142,7 +2142,18 @@
         "CSP_POC_Email": "fedrampinfo@datapipe.com",
         "FedRAMP_In-Process_Date": "2014-02-04T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2016-09-01T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Justice",
+            "Authorizing_Subagency": "Office of Justice Programs",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/Seal_of_the_United_States_Department_of_Justice.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2016-09-01T04:00:00.000Z"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Decision Lens Inc.",
@@ -5547,7 +5558,7 @@
         "Provide_Consulting_Services": "Y",
         "Description_of_Consulting_Services": "Founded in 2000, Lazarus Alliance’s primary purpose is to help the global business community attain, maintain, and demonstrate compliance and information security excellence, in any jurisdiction. Lazarus Alliance specializes in IT Security, Audit & Compliance, IT Risk Assessment & Management, Governance & Policies, and Cyberspace law leadership solutions and is fully dedicated to global success in these disciplines. Contact us and learn more about Lazarus Alliance and why Lazarus Alliance is Proactive Cyber Security™!\nWith significant contributions and innovations such as the IT Audit Machine®, The Policy Machine®, Cybervisor®, Continuum GRC®, SafetyNET®, the Holistic Operational Readiness Security Evaluation (HORSE Project)®, the Security Trifecta®, Your Personal CXO® and other progressive initiatives, it’s no wonder that Lazarus Alliance has become a leading international name synonymous with incorruptible leadership, meaningful services, exceptional customer support and tangible innovations specifically to prevent damage to our clientele’s organizations.\nLazarus Alliance is a proud veteran owned business.",
         "Consulting_Services_To": "None",
-        "Additional_Cyber_Frameworks": "* PCI\n* SOX"
+        "Additional_Cyber_Frameworks": "* PCI DSS & SAQ\n* FedRAMP\n* HIPAA\n* NIST-FISMA\n* SSAE 16 (SOC 1)\n* AT 101 (SOC 2)\n* SysTrust / WebTrust (SOC 3)\n* ISO 27001, 27002, 27005 (Advisory)\n* NERC CIP\n* SOX"
       },
       {
         "Name": "LBMC, PC",
