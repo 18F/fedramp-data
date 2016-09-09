@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2016-09-08T04:51:04.406Z",
+    "Created_At": "2016-09-09T04:51:04.011Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -385,16 +385,6 @@
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Date": "2014-10-14T04:00:00.000Z",
-            "Letter_Expiration_Date": "2015-08-20T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2014-10-14T04:00:00.000Z"
-          },
-          {
             "Letter_Date": "2016-05-02T04:00:00.000Z",
             "Letter_Expiration_Date": "2019-01-08T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2016-05-02T04:00:00.000Z",
@@ -405,6 +395,18 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Veris Group, LLC",
             "Announcement_Date": "2016-05-02T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-08-05T04:00:00.000Z",
+            "Letter_Expiration_Date": "2017-08-20T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2016-08-05T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "National Renewable Energy Laboratory",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2016-08-05T04:00:00.000Z"
           }
         ]
       },
@@ -1034,6 +1036,18 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Veris Group, LLC",
             "Announcement_Date": "2016-08-30T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-08-05T04:00:00.000Z",
+            "Letter_Expiration_Date": "2017-08-20T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2016-08-05T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "National Renewable Energy Laboratory",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2016-08-05T04:00:00.000Z"
           }
         ]
       },
@@ -1478,7 +1492,7 @@
         "CSO_Description": "Oracle Federal Managed Cloud Services provides hosting, applications management, infrastructure support, and operation and maintenance (O&M) services to U.S. federal government agencies. Primary services include hardware and facilities setup/configuration, application management, testing, monitoring, patching, incident management, problem resolution, technical and functional service desk, point upgrades, security, and disaster recovery.\n\nThe FMCS Infrastructure information system resides in a physically and logically isolated Federal Government Zone within the general security perimeter of Oracle’s U.S. Data Centers. The environment has been architected following FISMA and NIST guidance to help Federal customers achieve and maintain Authority To Operate (accreditation) for their relevant information systems or data hosted at Oracle.",
         "Announcement_Date": "2014-02-26T05:00:00.000Z",
         "CSP_POC_Name": "Lindsey Orrick",
-        "CSP_POC_Email": "lindsey.orrick@oracle.com",
+        "CSP_POC_Email": "fmcs_fedramp_us_grp@oracle.com",
         "FedRAMP_In-Process_Date": "2013-04-04T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": [
@@ -5251,17 +5265,17 @@
         "Additional_Cyber_Frameworks": "* ISO\n* PCI DSS\n* PCI PA-DSS\n* PCI P2PE\n* PCI PA-P2PE\n* SOC\n* HITRUST\n* CSA STAR"
       },
       {
-        "Name": "Cylance Inc.",
+        "Name": "[SUSPENDED]Cylance Inc.[SUSPENDED]",
         "Accreditation_Date": "2015-06-19T04:00:00.000Z",
         "Logo": "https://www.fedramp.gov/files/2016/08/Cylance-Logo.jpg",
-        "Description": "Our Red Team Services include: \n* Penetration Testing (External, Internal, Wireless, Physical, Mobile Application) \n* Firewall & Router Assessment \n* APT Simulation\n* Social Engineering Assessment \n* Host Configuration Review \n* Network Architecture Review \n* DBMS Security Review\n* Certificate of Attestation\n* Code Review Assessment \n* Application Security Assessment \n* MDM Assessment \n* Threat Modeling \n* Software Development Life Cycle\n",
+        "Description": "** SUSPENDED **\nOur Red Team Services include: \n* Penetration Testing (External, Internal, Wireless, Physical, Mobile Application) \n* Firewall & Router Assessment \n* APT Simulation\n* Social Engineering Assessment \n* Host Configuration Review \n* Network Architecture Review \n* DBMS Security Review\n* Certificate of Attestation\n* Code Review Assessment \n* Application Security Assessment \n* MDM Assessment \n* Threat Modeling \n* Software Development Life Cycle\n",
         "POC_Name": "Lana Atchley",
         "POC_Email": "fedramp@cylance.com",
         "website": "www.cylance.com",
         "Remediation": "N",
         "Founded": 2012,
         "Primary_Office_Locations": "18201 Van Karman, Suite 700, Irvine, CA 92612",
-        "FedRAMP_Assessed": "None",
+        "FedRAMP_Assessed": "** SUSPENDED **",
         "Provide_Consulting_Services": "Y",
         "Description_of_Consulting_Services": "Cylance Consulting operates within six practice areas:\n* Industrial Control Systems:  Protective services directed by experts who have been securing critical infrastructure for the U.S. government for decades\n* Red Team Services: Obtain a true understanding of network security gaps and vulnerabilities from the perspective of a hacker.\n* ThreatZERO™:  Complete installation and configuration services to optimize and operationalize CylancePROTECT®.\n* Internet of Things (IoT) and Embedded Systems:  Identify and close vulnerabilities in IoT and embedded devices whose operating system connects to the internet.\n* Incident Response and Compromise Assessments: True protection through real-time detection of threats and access to security experts who will provide immediate incident containment should a breach occur.\n* Training:  Courses designed and built to help security professionals provide optimum security for networks, systems and devices.\n",
         "Consulting_Services_To": "None",
