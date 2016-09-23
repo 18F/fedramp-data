@@ -118,6 +118,18 @@
     "type": "Text"
   },
   {
+    "field": "Agency POC",
+    "description": "The name of the point of contact for the Authorizing Agency.",
+    "source": "Via email",
+    "type": "Text"
+  },
+  {
+    "field": "Agency POC Email",
+    "description": "The email of the point of contact for the Authorizing Agency",
+    "source": "Via email",
+    "type": "Text"
+  },
+  {
     "field": "Independent Assessor",
     "description": "The name of the independent assessor that reviewed the cloud service offering. In most cases, the independent assessor is part of the FedRAMP 3rd Party Assessment Organization program.",
     "source": "SAR?",
