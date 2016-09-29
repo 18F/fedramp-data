@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2016-09-28T04:51:04.616Z",
+    "Created_At": "2016-09-29T04:51:04.292Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2392,6 +2392,7 @@
             "Letter_Expiration_Date": "2018-09-30T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2015-09-30T04:00:00.000Z",
             "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "National Institutes of Health",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y",
@@ -2734,6 +2735,7 @@
         "Sponsoring_Agency": "Department of Health and Human Services",
         "Sponsoring_Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfHHS-Seal.png",
         "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "National Institutes of Health",
         "CSP_URL": "https://www.fedramp.gov/files/2016/01/netcomm-logo-1024w-300x104.png",
         "Independent_Assessor": "Veris Group, LLC",
         "Underlying_CSP_Package_ID": [
@@ -4115,34 +4117,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Accellion",
-        "Cloud_Service_Provider_Package": "Kiteworks Federal Cloud",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "F1511167634",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2016-07-15T04:00:00.000Z",
-        "Original_Expiration_Date": "2017-01-15T05:00:00.000Z",
-        "Sponsoring_Agency": "Department of the Interior",
-        "Sponsoring_Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfTheInterior-Seal.png",
-        "Authorizing_Agency": "Department of the Interior",
-        "CSP_URL": "https://www.fedramp.gov/files/2016/04/accellion-300x64.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/accellion-kiteworks-federal-cloud/",
-        "CSP_Website": "www.accellion.com/resources/industry/",
-        "CSO_Description": "Recognized as a leader in the Gartner Magic Quadrant and Forrester Wave, Accellion offers a government-class, private cloud platform that enables secure file sharing and collaboration with Microsoft® Office 365 and Microsoft Outlook®. The world's leading organizations and government agencies rely on Accellion's kiteworks to send, share, and collaborate on sensitive documents from PCs, Macs, smartphones and tablets, regardless of where files are stored, all from a single pane of glass.  \n\n- Securely exchange files and collaborate with internal and external teams.   \n- Centralize access to content stored in SharePoint®, ECMs, file shares, home drives, and cloud storage services.   \n- Ensure the security, confidentiality, integrity, and availability of enterprise content via a private cloud file sharing solution including the ability for custom branding.   \n- Protect sensitive information and intellectual property with government-grade security to meet stringent compliance requirements including data sovereignty.   \n- Compliant with the following: SOC-2 (SSAE-16), FISMA, FIPS 140-2, PCI-DSS environments, ITAR, EAR.",
-        "Expected_Compliance_Date": "2016-12-16T05:00:00.000Z",
-        "CSP_POC_Name": "Frank Balonis",
-        "CSP_POC_Email": "fbalonis@accellion.com",
-        "FedRAMP_In-Process_Date": "2016-04-25T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "IBM",
         "Cloud_Service_Provider_Package": "Cloud Managed Services for Government - DoD",
         "Path": "Agency",
@@ -4195,6 +4169,42 @@
         "FedRAMP_In-Process_Date": "2016-08-09T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Accellion",
+        "Cloud_Service_Provider_Package": "Kiteworks Federal Cloud",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "F1511167634",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Small Business Administration",
+        "Sponsoring_Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-SmallBusinessAdmin-Seal.png",
+        "Authorizing_Agency": "Small Business Administration",
+        "CSP_URL": "https://www.fedramp.gov/files/2016/04/accellion-300x64.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/accellion-kiteworks-federal-cloud/",
+        "CSP_Website": "www.accellion.com/resources/industry/",
+        "CSO_Description": "Recognized as a leader in the Gartner Magic Quadrant and Forrester Wave, Accellion offers a government-class, private cloud platform that enables secure file sharing and collaboration with Microsoft® Office 365 and Microsoft Outlook®. The world's leading organizations and government agencies rely on Accellion's kiteworks to send, share, and collaborate on sensitive documents from PCs, Macs, smartphones and tablets, regardless of where files are stored, all from a single pane of glass.  \n\n- Securely exchange files and collaborate with internal and external teams.   \n- Centralize access to content stored in SharePoint®, ECMs, file shares, home drives, and cloud storage services.   \n- Ensure the security, confidentiality, integrity, and availability of enterprise content via a private cloud file sharing solution including the ability for custom branding.   \n- Protect sensitive information and intellectual property with government-grade security to meet stringent compliance requirements including data sovereignty.   \n- Compliant with the following: SOC-2 (SSAE-16), FISMA, FIPS 140-2, PCI-DSS environments, ITAR, EAR.",
+        "Expected_Compliance_Date": "2016-12-16T05:00:00.000Z",
+        "CSP_POC_Name": "Frank Balonis",
+        "CSP_POC_Email": "fbalonis@accellion.com",
+        "FedRAMP_In-Process_Date": "2016-04-25T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2016-07-15T04:00:00.000Z",
+            "Letter_Expiration_Date": "2017-01-15T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "AirWatch",
