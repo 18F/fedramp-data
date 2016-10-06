@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2016-10-05T04:51:04.881Z",
+    "Created_At": "2016-10-06T04:51:04.067Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -26,7 +26,7 @@
         "CSP_Website": "www.akamai.com",
         "CSO_Description": "The Akamai globally distributed intelligent platform provides delivery benefits for all content types - HTML, images, dynamic Web 2.0, SSL, live and on-demand streaming media. The Akamai solution provides 100% availability, significant performance benefits, and scalable on-demand network. Akamai also offers Luna Control Center (customer portal), NetStorage, Edgecomputing, Enhanced DNS, DNSSEC, IPv6, and “always-on” defenses for maximum protection of uptime of customer's Web sites. Additional Akamai services can be integrated to offer a robust set of defenses against a variety of attack vectors that threaten complex Web infrastructures.",
         "Announcement_Date": "2013-08-23T04:00:00.000Z",
-        "CSP_POC_Name": "Joe Vehemente",
+        "CSP_POC_Name": "Danielle Mouritzen",
         "CSP_POC_Email": "fedramp_info@akamai.com",
         "FedRAMP_In-Process_Date": "2012-07-19T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
@@ -325,6 +325,26 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Veris Group, LLC",
             "Announcement_Date": "2016-03-17T04:00:00.000Z"
+          },
+          {
+            "Letter_Expiration_Date": "2016-10-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2016-07-14T04:00:00.000Z",
+            "Authorizing_Agency": "United States Agency for International Development",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/USAID-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2016-07-14T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-09-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "Federal Energy Regulatory Commission",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2016-09-26T04:00:00.000Z"
           }
         ]
       },
@@ -2673,6 +2693,16 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Veris Group, LLC",
             "Announcement_Date": "2016-08-04T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-09-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "Federal Energy Regulatory Commission",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2016-09-26T04:00:00.000Z"
           }
         ]
       },
@@ -3409,6 +3439,16 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Veris Group, LLC",
             "Announcement_Date": "2016-08-22T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-09-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "Federal Energy Regulatory Commission",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2016-09-26T04:00:00.000Z"
           }
         ]
       },
@@ -4558,31 +4598,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "eCPIC",
-        "Cloud_Service_Provider_Package": "Electronic Capital Planning and Investment Control (eCPIC)",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "F1506226770",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Private Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "General Services Administration",
-        "Sponsoring_Agency_Logo": "https://www.fedramp.gov/files/2016/08/GSAlogo.png",
-        "Authorizing_Agency": "General Services Administration",
-        "CSP_URL": "https://www.fedramp.gov/files/2016/09/eCPIC-Logo.jpg",
-        "Independent_Assessor": "GSA Independent Assessment Team",
-        "CSP_Website": "www.ecpic.gov",
-        "CSO_Description": "The Electronic Capital Planning and Investment Control (eCPIC) application is a web-based, Government-owned technology solution that Federal Agencies use to support their internal Portfolio Management, IT Capital Planning, and IT Governance processes and also to meet their external reporting requirements to the Office of Management and Budget (OMB). eCPIC was developed to address agency needs for a more organized and transparent approach to IT Capital Planning. It was conceived on the principles that agencies should work together to improve the maturity of IT Governance and IT Capital Planning across the Federal government. While GSA has led the dedicated eCPIC Program Management Office (PMO) since 2009, all functional enhancements and service offerings are driven by the community of Agencies that use the tool.",
-        "Expected_Compliance_Date": "2016-10-31T04:00:00.000Z",
-        "CSP_POC_Name": "Daniel York",
-        "CSP_POC_Email": "Daniel.York@gsa.gov",
-        "FedRAMP_In-Process_Date": "2016-09-20T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Equinix, Inc.",
         "Cloud_Service_Provider_Package": "Equinix Cloud Exchange",
         "Path": "Agency",
@@ -4630,6 +4645,30 @@
         "CSP_POC_Name": "SK Bhachech",
         "CSP_POC_Email": "FedRAMPinfo@everbridge.com",
         "FedRAMP_In-Process_Date": "2015-07-21T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Ex Libris",
+        "Cloud_Service_Provider_Package": "Alma and Primo",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "TBD",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Private Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "CSP_URL": "https://www.fedramp.gov/files/2016/10/ExLibris-Logo.jpg",
+        "Independent_Assessor": "TBD",
+        "CSP_Website": "http://www.exlibrisgroup.com/",
+        "CSO_Description": "Ex Libris, a ProQuest company, is a global provider of library automation solutions, offering the only comprehensive product suite for the discovery, management, and distribution of all materials, regardless of format or location. The Ex Libris Alma/Primo SaaS solution allows libraries to manage all of their resource types – print, electronic and digital - within a single interface. The solution promotes library collaboration and helps libraries optimize their users’ experience by leveraging rich data analytics.",
+        "CSP_POC_Name": "Ellen Amsel",
+        "CSP_POC_Email": "Ellen.Amsel@exlibrisgroup.com",
+        "FedRAMP_In-Process_Date": "2016-09-23T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
