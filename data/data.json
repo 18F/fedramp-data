@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2016-10-14T04:51:04.406Z",
+    "Created_At": "2016-10-15T04:51:04.170Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4129,6 +4129,34 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "AirWatch",
+        "Cloud_Service_Provider_Package": "Airwatch by VMware Government Services (AGS)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1408135194",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2016-10-11T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Commerce",
+        "Sponsoring_Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfCommerce-Seal.png",
+        "Authorizing_Agency": "Department of Commerce",
+        "Authorizing_Subagency": "United States Census Bureau",
+        "CSP_URL": "https://www.fedramp.gov/files/2016/04/VMware_AirWatch_blue_bg_rgb_1000x200-300x60.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/airwatch-airwatch-by-vmware-government-services-ags/",
+        "CSP_Website": "www.air-watch.com",
+        "CSO_Description": "AirWatch simplifies mobility for organizations, while empowering end users. With AirWatch, organizations can easily deploy, configure, secure, manage and support smartphones, tablets, laptops and other devices across multiple mobile applications and operating systems. AirWatch includes industry-leading mobile device, email, application, content and browser management solutions. Whether enabling a Bring Your Own Device (BYOD) program or corporate-owned and line-of-business devices, organizations can implement these solutions standalone, in a dual persona containerized solution or as a comprehensive solution based on device type, use case and user role in the organization. This integrated solution helps companies reduce costs and increase efficiency, while mitigating security risks and preventing data loss.",
+        "Announcement_Date": "2016-10-14T04:00:00.000Z",
+        "CSP_POC_Name": "Thomas Simmons",
+        "CSP_POC_Email": "infosec@Air-Watch.com",
+        "FedRAMP_In-Process_Date": "2016-04-06T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "18F",
         "Cloud_Service_Provider_Package": "18F Cloud.gov",
         "Path": "JAB",
@@ -4189,34 +4217,6 @@
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
         ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "AirWatch",
-        "Cloud_Service_Provider_Package": "Airwatch by VMware Government Services (AGS)",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "F1408135194",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Commerce",
-        "Sponsoring_Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfCommerce-Seal.png",
-        "Authorizing_Agency": "Department of Commerce",
-        "Authorizing_Subagency": "United States Census Bureau",
-        "CSP_URL": "https://www.fedramp.gov/files/2016/04/VMware_AirWatch_blue_bg_rgb_1000x200-300x60.png",
-        "Stage": "TBD",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/airwatch-airwatch-by-vmware-government-services-ags/",
-        "CSP_Website": "www.air-watch.com",
-        "CSO_Description": "AirWatch simplifies mobility for organizations, while empowering end users. With AirWatch, organizations can easily deploy, configure, secure, manage and support smartphones, tablets, laptops and other devices across multiple mobile applications and operating systems. AirWatch includes industry-leading mobile device, email, application, content and browser management solutions. Whether enabling a Bring Your Own Device (BYOD) program or corporate-owned and line-of-business devices, organizations can implement these solutions standalone, in a dual persona containerized solution or as a comprehensive solution based on device type, use case and user role in the organization. This integrated solution helps companies reduce costs and increase efficiency, while mitigating security risks and preventing data loss.",
-        "Expected_Compliance_Date": "2016-09-30T04:00:00.000Z",
-        "CSP_POC_Name": "Thomas Simmons",
-        "CSP_POC_Email": "infosec@Air-Watch.com",
-        "FedRAMP_In-Process_Date": "2016-04-06T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "Autodesk",
