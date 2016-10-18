@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2016-10-17T04:51:03.924Z",
+    "Created_At": "2016-10-18T04:51:04.328Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4490,6 +4490,7 @@
         "Expected_Compliance_Date": "2016-11-01T04:00:00.000Z",
         "CSP_POC_Name": "Garrett Bendel",
         "CSP_POC_Email": "government@cdslegal.com",
+        "FedRAMP_In-Process_Date": "2014-06-14T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -4568,6 +4569,7 @@
         "Expected_Compliance_Date": "2016-12-31T05:00:00.000Z",
         "CSP_POC_Name": "Aaron Stowell",
         "CSP_POC_Email": "fedramp@ctacorp.com",
+        "FedRAMP_In-Process_Date": "2014-01-01T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -4594,6 +4596,30 @@
         "CSP_POC_Name": "Edward Bondarev",
         "CSP_POC_Email": "compliance@cylance.com",
         "FedRAMP_In-Process_Date": "2016-06-15T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "DocuSign",
+        "Cloud_Service_Provider_Package": "DocuSign Federal",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "TBD",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Federal Communications Commission",
+        "Sponsoring_Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-FCC-Seal.png",
+        "Authorizing_Agency": "Federal Communications Commission",
+        "CSP_URL": "https://www.fedramp.gov/files/2016/10/DocuSign-Logo.jpg",
+        "Independent_Assessor": "Veris Group, LLC",
+        "CSP_Website": "www.docusign.com",
+        "CSO_Description": "DocuSign Federal provides government customers with an enterprise signing service to facilitate paperless workflow management.",
+        "CSP_POC_Name": "Kathy Ahuja",
+        "CSP_POC_Email": "kathy.ahuja@docusign.com",
+        "FedRAMP_In-Process_Date": "2016-10-17T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -5046,6 +5072,7 @@
         "CSO_Description": "PowerTrain is an on-line application development, implementation, and hosting provider for a range of federal government agencies through an Office of Personnel Management contract. PowerTrain currently runs systems under an assessment and authorization to operate through the Office of Personnel Management security team.",
         "CSP_POC_Name": "Courtney Cox",
         "CSP_POC_Email": "ccox@powertrain.com",
+        "FedRAMP_In-Process_Date": "2014-01-01T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
