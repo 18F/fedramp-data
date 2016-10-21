@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2016-10-20T04:51:04.879Z",
+    "Created_At": "2016-10-21T04:51:04.050Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3661,7 +3661,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Compusearch Software Systems, Inc.",
-        "Cloud_Service_Provider_Package": "Compusearch FedConnect",
+        "Cloud_Service_Provider_Package": "FedConnect",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "F1510017461",
@@ -4152,6 +4152,7 @@
         "Announcement_Date": "2016-10-19T04:00:00.000Z",
         "CSP_POC_Name": "Timothy Clinton",
         "CSP_POC_Email": "securityteam@compusearch.com",
+        "FedRAMP_In-Process_Date": "2014-09-01T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -4306,17 +4307,17 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Government Community Cloud",
+        "Deployment_Model": "Hybrid Cloud",
         "Impact_Level": "Moderate",
         "Sponsoring_Agency": "Department of Transportation",
         "Sponsoring_Agency_Logo": "https://www.fedramp.gov/files/2016/08/768px-US-DeptOfTransportation-Seal.svg_.png",
         "Authorizing_Agency": "Department of Transportation",
         "Authorizing_Subagency": "Federal Aviation Administration",
-        "CSP_URL": "https://www.fedramp.gov/files/2016/09/BlackBerry-Logo.jpg",
+        "CSP_URL": "https://www.fedramp.gov/files/2016/10/BlackBerry-Logo.jpg",
         "Stage": "Assessment",
         "Independent_Assessor": "Kratos SecureInfo",
-        "CSP_Website": "www.athoc.com",
-        "CSO_Description": "BlackBerry AtHoc Services for Government enable government organizations to communicate and collaborate securely with their personnel and with other organizations through multiple devices during crises. BlackBerry Cloud - AtHoc Services for Government empower organizations to ALERT the people they care about, COLLECT information from the field for situational awareness, ACCOUNT for people before, during and after an event, and CONNECT with external organizations to empower the connected community to manage events.",
+        "CSP_Website": " http://blackberry.athoc.com",
+        "CSO_Description": "BlackBerry’s AtHoc is a networked crisis communication platform enabling corporations and government agencies to communicate and collaborate securely with their personnel and with other organizations through multiple devices during times of crises. BlackBerry’s AtHoc platform addresses critical communications needs including:\n\nAccount: AtHoc Account enables real-time visibility into location and status for effective personnel accountability and crisis handling before, during, and after emergencies. This integrated approach to personnel accountability enables inputs from managers about their team, call center operators, data streams from HR and travel systems, as well as self-reporting by individuals.\n\nAlert: AtHoc Alert provides a comprehensive crisis communication solution that unifies all channels and devices, empowering organizations, people, and communities to collaborate during critical events. AtHoc’s flexible deployment options safeguards important personal information and enables enterprise-level command and control.\n\nConnect: AtHoc Connect empowers organizations to create their own permission-based network to establish interoperable communication and information sharing with organizations in their community.\n\nCollect: AtHoc Collect empowers your personnel in the field to be the \"eyes and ears\" of the operations center. AtHoc Collect enables on-scene personnel to report events, work progress, along with rich geo-tagged media that are worth a thousand words.",
         "CSP_POC_Name": "Aviv Siegel",
         "CSP_POC_Email": "fedrampinfo@blackberry.com",
         "FedRAMP_In-Process_Date": "2016-09-14T04:00:00.000Z",
