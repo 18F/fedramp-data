@@ -166,8 +166,22 @@
     "type": "Date"
   },
   {
+    "field": "FedRAMP Ready Date",
+    "description": "Date that a package was determined to be FedRAMP Ready",
+    "source": "FedRAMP PMO",
+    "type": "Date"
+  },
+  {
+    "field": "FedRAMP In-Process Date",
+    "description": "Date that a package was determined to be FedRAMP In-Process",
+    "source": "FedRAMP PMO",
+    "type": "Date"
+  },
+  {
     "field": "Dependent CSPs",
-    "description": "PackageID of FedRAMP-Authorized packages used by this package.  Some FedRAMP packages use (at a lower layer) other FedRAMP-authorized packages.  For example, Microsoft  Dynamics CRM Online for Government (CRMOL) uses Microsoft Azure and Microsoft Global Foundation Services (GFS) Cloud Infrastructure, both of which are FedRAMP Authorized."
+    "description": "PackageID of FedRAMP-Authorized packages used by this package.  Some FedRAMP packages use (at a lower layer) other FedRAMP-authorized packages.  For example, Microsoft  Dynamics CRM Online for Government (CRMOL) uses Microsoft Azure and Microsoft Global Foundation Services (GFS) Cloud Infrastructure, both of which are FedRAMP Authorized.",
+    "source": "SSP",
+    "type": "Text"
   },
   {
     "field": "Logo",
