@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2016-11-01T04:51:04.214Z",
+    "Created_At": "2016-11-02T04:51:04.233Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3767,10 +3767,12 @@
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/qualys-qualys-cloud-platform/#",
         "CSP_Website": "www.qualys.com",
         "CSO_Description": "The Qualys Cloud Platform (QCP) is a multi-tenant shared cloud service environment. Its unique computing power is capable of continuously analyzing and correlating information, to assist IT management with identifying and homing-in on threats and eliminating vulnerabilities.\n\nWith its Qualys sensors, a core service of the Qualys Cloud Platform, make it easy to extend your security throughout your global enterprise. These sensors, which can be in the form of appliances or lightweight agents, are remotely deployable, centrally managed and self-updating. They collect data automatically and seamlessly sending it to the Qualys Cloud Platform.\n\nSubscribers simply use the Qualys software without the burden of licensing, maintenance and costs for owning the software itself.   ",
+        "Expected_Compliance_Date": "2016-11-30T05:00:00.000Z",
         "Announcement_Date": "2016-06-13T04:00:00.000Z",
         "CSP_POC_Name": "Mark Dorsi",
         "CSP_POC_Email": "fedramp@qualys.com",
         "Fedramp_Ready_Date": "2016-05-05T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2015-08-26T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -5192,32 +5194,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Qualys",
-        "Cloud_Service_Provider_Package": "Qualys Cloud Platform",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "F1508207205",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "CSP_URL": "https://www.fedramp.gov/files/2015/08/qualyslogo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/qualys-qualys-cloud-platform/",
-        "CSP_Website": "www.qualys.com",
-        "CSO_Description": "PTC Cloud Services enables you to focus on your mission while we rapidly deploy, manage and optimize your PTC solutions by providing PTC software expertise with a full breadth of coverage including application administration and platform management in a secure infrastructure.",
-        "Expected_Compliance_Date": "2016-11-30T05:00:00.000Z",
-        "CSP_POC_Name": "Mark Dorsi",
-        "CSP_POC_Email": "fedramp@qualys.com",
-        "FedRAMP_In-Process_Date": "2015-08-26T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "QuestionMark",
         "Cloud_Service_Provider_Package": "Questionmark OnDemand for Government",
         "Path": "Agency",
@@ -5830,8 +5806,8 @@
       {
         "Name": "Information Technology Company, LLC",
         "Accreditation_Date": "2015-05-26T04:00:00.000Z",
-        "Logo": "https://www.fedramp.gov/files/2016/08/ITC-LLC-Logo.jpg",
-        "Description": "Full range of services from initial gap assessments through formal readiness assessments to independent assessments for FedRAMP package preparation.",
+        "Logo": "https://www.fedramp.gov/files/2016/11/ITC-LLC-Logo.jpg",
+        "Description": "ITC, LLC is an 8(a), Small Disadvantaged Business with over two decades of progressive experience with large-scale enterprise computing environments supporting both commerical and Federal Government clients. We understand that a proactive approach and a proven methodology for identifying and measuring risk is necessary to fully protect an organization's information and infrastructure. The experience we have gained from our work with federal government agencies and commercial entities alike has enabled us to create a knowledgebase which provides our entire team with up-to-date information on regulations, best practices, templates, tools , and rapidly changing and evolving cyber threats and vulnerabilities. These resources allow our staff to provide invaluable and unparalleled services to our clients. Moreover, this increased value is the cornerstone of ITC's success in delivering innovative alternatives and solutions to customers.",
         "POC_Name": "Manny Mangilit",
         "POC_Email": "fedramp@itconline.com",
         "website": "www.itconline.com",
@@ -5840,9 +5816,9 @@
         "Primary_Office_Locations": "7389 Lee Highway Suite 210, Falls Church, VA 22042",
         "FedRAMP_Assessed": "None",
         "Provide_Consulting_Services": "Y",
-        "Description_of_Consulting_Services": "Gap analysis with remdiation recommendations; project planning and execution either as the lead or in an advisory role to companies who have managers; similar for subject matter experts, we can take the lead in implementing required technical, management and operational controls or assist customer staff in an advisory role.",
+        "Description_of_Consulting_Services": "ITC has a proven approach to providing advisory and assessment services by leveraging our deep understanding of various regulatory compliance frameworks (DIACAP, NIST RMF, and FedRAMP SAF). We offer the following services to assist federal agencies and CSPs in preparing for FedRAMP authorization:\n\n* FedRAMP Readiness Assessment\n* FedRAMP Advisory and Consulting Services\n* 3PAO Assessment\n* Continuous Monitoring\n* Penetration Testing",
         "Consulting_Services_To": "None",
-        "Additional_Cyber_Frameworks": "None"
+        "Additional_Cyber_Frameworks": "* NIST RMF\n* ISO 17020"
       },
       {
         "Name": "JD Biggs & Associates, Inc.",
