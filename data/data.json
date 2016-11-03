@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2016-11-02T04:51:04.233Z",
+    "Created_At": "2016-11-03T04:51:04.970Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3750,33 +3750,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Qualys",
-        "Cloud_Service_Provider_Package": "Qualys Cloud Platform",
-        "Path": "CSP",
-        "Designation": "Compliant",
-        "Package_ID": "F1508207205",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "CSP Supplied",
-        "Authorizing_Agency": "CSP Supplied",
-        "CSP_URL": "https://www.fedramp.gov/files/2015/08/qualyslogo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/qualys-qualys-cloud-platform/#",
-        "CSP_Website": "www.qualys.com",
-        "CSO_Description": "The Qualys Cloud Platform (QCP) is a multi-tenant shared cloud service environment. Its unique computing power is capable of continuously analyzing and correlating information, to assist IT management with identifying and homing-in on threats and eliminating vulnerabilities.\n\nWith its Qualys sensors, a core service of the Qualys Cloud Platform, make it easy to extend your security throughout your global enterprise. These sensors, which can be in the form of appliances or lightweight agents, are remotely deployable, centrally managed and self-updating. They collect data automatically and seamlessly sending it to the Qualys Cloud Platform.\n\nSubscribers simply use the Qualys software without the burden of licensing, maintenance and costs for owning the software itself.   ",
-        "Expected_Compliance_Date": "2016-11-30T05:00:00.000Z",
-        "Announcement_Date": "2016-06-13T04:00:00.000Z",
-        "CSP_POC_Name": "Mark Dorsi",
-        "CSP_POC_Email": "fedramp@qualys.com",
-        "Fedramp_Ready_Date": "2016-05-05T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2015-08-26T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Skyhigh",
         "Cloud_Service_Provider_Package": "Cloud Access Security Broker for Government",
         "Path": "CSP",
@@ -4221,6 +4194,35 @@
             "Announcement_Date": "2016-03-17T04:00:00.000Z"
           }
         ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Qualys",
+        "Cloud_Service_Provider_Package": "Qualys Cloud Platform",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1508207205",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2016-11-01T04:00:00.000Z",
+        "Original_Expiration_Date": "2019-11-01T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "CSP_URL": "https://www.fedramp.gov/files/2015/08/qualyslogo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/qualys-qualys-cloud-platform/",
+        "CSP_Website": "www.qualys.com",
+        "CSO_Description": "The Qualys Cloud Platform (QCP) is a multi-tenant shared cloud service environment. Its unique computing power is capable of continuously analyzing and correlating information, to assist IT management with identifying and homing-in on threats and eliminating vulnerabilities.\n\nWith its Qualys sensors, a core service of the Qualys Cloud Platform, make it easy to extend your security throughout your global enterprise. These sensors, which can be in the form of appliances or lightweight agents, are remotely deployable, centrally managed and self-updating. They collect data automatically and seamlessly sending it to the Qualys Cloud Platform.\n\nSubscribers simply use the Qualys software without the burden of licensing, maintenance and costs for owning the software itself.   ",
+        "Announcement_Date": "2016-11-02T04:00:00.000Z",
+        "CSP_POC_Name": "Mark Dorsi",
+        "CSP_POC_Email": "fedramp@qualys.com",
+        "Fedramp_Ready_Date": "2016-05-05T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2015-08-26T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "18F",
