@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2016-11-16T05:51:04.154Z",
+    "Created_At": "2016-11-17T05:51:04.686Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1640,6 +1640,17 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc.",
             "Announcement_Date": "2016-09-27T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-05-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2016-05-31T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Housing Finance Agency",
+            "Authorizing_Subagency": "FHFA Office of Inspector General",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://www.fedramp.gov/files/2016/11/FHFA-Logo.jpg",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2016-05-31T04:00:00.000Z"
           }
         ]
       },
@@ -3451,16 +3462,6 @@
             "Announcement_Date": "2016-02-17T05:00:00.000Z"
           },
           {
-            "Letter_Date": "2015-10-02T04:00:00.000Z",
-            "Letter_Expiration_Date": "2018-10-02T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2016-02-17T05:00:00.000Z"
-          },
-          {
             "Letter_Date": "2016-04-01T04:00:00.000Z",
             "Letter_Expiration_Date": "2019-04-01T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2016-04-01T04:00:00.000Z",
@@ -3523,6 +3524,16 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Veris Group, LLC",
             "Announcement_Date": "2016-09-26T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-09-23T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Institute of Standards and Technology",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2016-09-23T04:00:00.000Z"
           },
           {
             "Letter_Date": "2016-10-21T04:00:00.000Z",
@@ -4180,7 +4191,7 @@
         ],
         "Deployment_Model": "Hybrid Cloud",
         "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2016-10-26T04:00:00.000Z",
+        "Original_Authorization_Date": "2015-12-29T05:00:00.000Z",
         "Sponsoring_Agency": "General Services Administration",
         "Sponsoring_Agency_Logo": "https://www.fedramp.gov/files/2016/08/GSAlogo.png",
         "Authorizing_Agency": "General Services Administration",
@@ -4188,9 +4199,9 @@
         "Independent_Assessor": "Veris Group, LLC",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/google-google-services/",
         "CSP_Website": "https://gsuite.google.com/",
-        "CSO_Description": "Google Services is comprised of Google’s multi-tenant public and hybrid Google Apps cloud instances and multi-tenant public cloud [Google Apps Engine](https://cloud.google.com/appengine/). These services are built atop the Google Common Infrastructure. Google Apps is a Software-as-a-Service (SaaS) cloud deployment model that allows customers the ability to communicate, store files and collaborate with Gmail, Hangouts, Talk, Calendar, Drive, Docs, Sheets, Slides, Vault, Sites, Groups, Contacts and Classroom while managing their domain with the Admin Console. Google App Engine is a Platform-as-a-Service (PaaS) cloud deployment model, providing customers an environment to easily build, run and manage their applications on Google’s infrastructure.",
+        "CSO_Description": "Google Services is comprised of Google’s multi-tenant public and hybrid G Suite (formerly Google Apps) cloud instances and multi-tenant public cloud Google Apps Engine. These services are built atop the Google Common Infrastructure. G Suite is a Software-as-a-Service (SaaS) cloud deployment model that allows customers the ability to communicate, store files and collaborate.\n\nThe following G Suite editions are FedRAMP authorized: G Suite Basic, G Suite Business, G Suite for Education, G Suite for Nonprofits and G Suite for Governments.\n\nThe following G Suite services are FedRAMP authorized: Gmail (incl. Talk), Hangouts, Calendar, Drive, Docs, Sheets, Slides, Forms, Drawings, Vault, Sites, Groups, Contacts, Classroom, Cloud Search (formerly Springboard), Keep and Admin Console.\n\nGoogle App Engine is a Platform-as-a-Service (PaaS) cloud deployment model, providing customers an environment to easily build, run and manage their applications on Google’s infrastructure.\n\nThe following Google Cloud Platform services are FedRAMP authorized: App Engine, Cloud Datastore, Cloud Storage (limited to operation with Google App Engine) and Developers Console.",
         "Announcement_Date": "2016-10-26T04:00:00.000Z",
-        "CSP_POC_Name": "Bill Burns",
+        "CSP_POC_Name": "Google FedRAMP Team",
         "CSP_POC_Email": "fedramp@google.com",
         "FedRAMP_In-Process_Date": "2014-05-11T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
@@ -4327,6 +4338,31 @@
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
         ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Apptio",
+        "Cloud_Service_Provider_Package": "The Apptio Technology Business Management (TBM)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "F1603157879",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Housing and Urban Development",
+        "Sponsoring_Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfHUD-Seal.png",
+        "Authorizing_Agency": "Department of Housing and Urban Development",
+        "CSP_URL": "https://www.fedramp.gov/files/2016/11/Apptio-Logo.jpg",
+        "Stage": "TBD",
+        "Independent_Assessor": "Veris Group, LLC",
+        "CSP_Website": "www.apptio.com",
+        "CSO_Description": "Apptio is a SaaS provider of Technology Business Management (TBM) solutions that help IT leaders measure, manage and communicate the cost, quality, consumption, and value of IT.  IT leaders leverage Apptio's TBM suite of applications, including cost transparency, benchmarking, showback/chargeback and planning, to optimize costs, consolidate infrastructure and applications, price and recover shared services, and execute cloud-first strategies.  With FITARA mandates in place and growing, now more than ever, Federal IT leaders need transparency into their IT spend - what they have, what it's costing them, how it's being consumed, and the value it's delivering to federal program and mission objectives.",
+        "CSP_POC_Name": "Richard Benack",
+        "CSP_POC_Email": "rbenack@apptio.com",
+        "FedRAMP_In-Process_Date": "2016-10-24T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "Autodesk",
@@ -5258,6 +5294,31 @@
         "CSP_POC_Name": "David Hunt",
         "CSP_POC_Email": "david.hunt@questionmark.com",
         "FedRAMP_In-Process_Date": "2016-07-11T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Replicon",
+        "Cloud_Service_Provider_Package": "Replicon Cloud Platform",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "F1606087903",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Low",
+        "Sponsoring_Agency": "Department of Agriculture",
+        "Sponsoring_Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfAgriculture-Seal2.png",
+        "Authorizing_Agency": "Department of Agriculture",
+        "CSP_URL": "https://www.fedramp.gov/files/2016/11/Replicon-Logo.jpg",
+        "Stage": "TBD",
+        "Independent_Assessor": "Earthling Securit, LLC",
+        "CSP_Website": "www.replicon.com",
+        "CSO_Description": "Replicon Inc. provides cloud time tracking applications including timesheet and expense management software, using SaaS, for automating employee time tracking, project time tracking, expense tracking and resource scheduling. ",
+        "CSP_POC_Name": "Alfred Wong",
+        "CSP_POC_Email": "alfred.wong@replicon.com",
+        "FedRAMP_In-Process_Date": "2016-06-08T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -6285,8 +6346,12 @@
       {},
       {},
       {},
-      {},
-      {},
+      {
+        "Logo": "A2LA PoC: Ashley Kamauf"
+      },
+      {
+        "Logo": "A2LA PoC Email: akamauf@a2la.org"
+      },
       {},
       {}
     ]
