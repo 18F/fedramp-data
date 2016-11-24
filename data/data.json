@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2016-11-23T05:51:04.176Z",
+    "Created_At": "2016-11-24T05:51:04.050Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -99,6 +99,17 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Knowledge Consulting Group, a wholly owned subsidiary of ManTech Advanced Systems International, Inc",
             "Announcement_Date": "2016-04-13T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-07-26T04:00:00.000Z",
+            "Letter_Expiration_Date": "2019-07-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of State",
+            "Authorizing_Subagency": "State Office of the Inspector General",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/DoS-Logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Knowledge Consulting Group, a wholly owned subsidiary of ManTech Advanced Systems International, Inc",
+            "Announcement_Date": "2016-07-26T04:00:00.000Z"
           },
           {
             "Authorizing_Letter_Last_Sign_Date": "2016-10-02T04:00:00.000Z",
@@ -803,6 +814,17 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Kratos SecureInfo",
             "Announcement_Date": "2016-03-17T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-07-26T04:00:00.000Z",
+            "Letter_Expiration_Date": "2019-07-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of State",
+            "Authorizing_Subagency": "State Office of the Inspector General",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/DoS-Logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Kratos SecureInfo",
+            "Announcement_Date": "2016-07-26T04:00:00.000Z"
           },
           {
             "Letter_Date": "2016-10-25T04:00:00.000Z",
@@ -1599,6 +1621,14 @@
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": [
           {
+            "Letter_Date": "2009-11-09T05:00:00.000Z",
+            "Authorizing_Agency": "National Endowment for the Humanities",
+            "Agency_POC": "Coming Soon",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2014-02-26T05:00:00.000Z"
+          },
+          {
             "Letter_Date": "2014-09-30T04:00:00.000Z",
             "Letter_Expiration_Date": "2017-09-30T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2014-09-30T04:00:00.000Z",
@@ -1675,6 +1705,17 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc.",
             "Announcement_Date": "2015-10-30T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-03-27T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2016-05-05T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Bureau of the Fiscal Service",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2016-05-05T04:00:00.000Z"
           }
         ]
       },
@@ -2782,6 +2823,17 @@
             "Announcement_Date": "2016-09-26T04:00:00.000Z"
           },
           {
+            "Letter_Date": "2016-07-26T04:00:00.000Z",
+            "Letter_Expiration_Date": "2019-07-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of State",
+            "Authorizing_Subagency": "State Office of the Inspector General",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/DoS-Logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2016-07-26T04:00:00.000Z"
+          },
+          {
             "Letter_Date": "2016-11-22T05:00:00.000Z",
             "Authorizing_Agency": "Council of the Inspectors General on Integrity and Efficiency",
             "Agency_POC": "Coming Soon",
@@ -3223,7 +3275,7 @@
         "Cloud_Service_Provider_Name": "Proofpoint",
         "Cloud_Service_Provider_Package": "Proofpoint Email Archive",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "F1304222071",
         "Service_Model": [
           "SaaS"
@@ -3241,6 +3293,7 @@
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/proofpoint-inc-proofpoint-email-archive/",
         "CSP_Website": "www.proofpoint.com",
         "CSO_Description": "The Federal Production Environment provides a complete message archiving solution that can protect an organization from legal liabilities and regulatory risks while improving email storage management and end-user productivity. Its web interface offers fully secure email archiving with robust search and discovery, supervision, and enforcement features. The solution securely stores electronic messages for a specified retention period, while keeping the messages fully searchable and retrievable in real-time or with a batch process. This allows archived messages to be easily viewed, retrieved to a user’s email inbox or exported to an Outlook data file.\n\nThe Archiving Customer Premise Equipment (CPE) is software-based, a hardware-based version is also available, and is installed within the Microsoft Office 365 ITAR environment behind the firewall to provide the tight integration and security typically only afforded to internal systems. The CPE integrates with Microsoft Exchange to ensure reliable, native format message archiving. Its integration with Active Directory facilitates unified login and access control management. Since the CPE is the only holder of the encryption keys used with *Proofpoint’s DoubleBlind™ Encryption* technology, any processing that involves encryption or decryption happens on the CPE.\n\n*Proofpoint’s DoubleBlind™ Encryption* technology guarantees the security of data, ensuring that no one outside the organization can access archived data. When a message reaches the CPE, it is encrypted before being sent outside the Microsoft Office 365 ITAR firewall over a secure connection to the Proofpoint Federal Production Environment. Messages are only decrypted when an authorized user on the customer network conducts a search from Outlook or from the CPE’s web-based user interface. Data can never be viewed without access to both the archiving CPE within the Microsoft Office 365 ITAR environment and the Proofpoint Federal Production Environment.",
+        "Announcement_Date": "2016-11-23T05:00:00.000Z",
         "CSP_POC_Name": "Information System Security Manager",
         "CSP_POC_Email": "fedramp@proofpoint.com",
         "FedRAMP_In-Process_Date": "2015-12-04T05:00:00.000Z",
