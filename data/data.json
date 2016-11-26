@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2016-11-25T05:51:03.821Z",
+    "Created_At": "2016-11-26T05:51:03.714Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3719,7 +3719,7 @@
             "Authorizing_Subagency": "Defense Information Systems Agency",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://www.fedramp.gov/files/2016/08/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y",
+            "Include_In_Marketplace": "N",
             "Independent_Assessor": "Veris Group, LLC",
             "Announcement_Date": "2016-10-02T04:00:00.000Z"
           }
@@ -4966,6 +4966,30 @@
         "CSP_POC_Name": "Stacey Zeigler",
         "CSP_POC_Email": "stacey.zeigler@FireEye.com",
         "FedRAMP_In-Process_Date": "2015-12-02T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "IdeaScale",
+        "Cloud_Service_Provider_Package": "IdeaScale Gov",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "F1512017638",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Homeland Security ",
+        "Sponsoring_Agency_Logo": "https://www.fedramp.gov/files/2016/08/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+        "Authorizing_Agency": "Department of Homeland Security ",
+        "Authorizing_Subagency": "Transportation Security Administration",
+        "Independent_Assessor": "TBD",
+        "CSP_Website": "www.ideascale.com",
+        "CSO_Description": "IdeaScale is an innovation management SaaS provider that uses crowdsourcing to help organizations find and develop the next big thing, whether it's new policies and services or new cost-savings and employee engagement measures, IdeaScale allows organizations to solicit input from personnel and other stakeholders and collaboratively transform that input into actionable project plans.\n\nThe IdeaScale Gov offering provides these innovation management and crowdsourcing capabilities in a secure environment for federal agency use and benefit, allowing agencies to make the most of the collective knowledge of their numbers.",
+        "CSP_POC_Name": "IdeaScale Security Team",
+        "CSP_POC_Email": "fedramp@ideascale.com",
+        "FedRAMP_In-Process_Date": "2016-11-23T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
