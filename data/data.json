@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2016-12-07T05:51:04.304Z",
+    "Created_At": "2016-12-08T05:51:04.069Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -377,7 +377,7 @@
         "Service_Model": [
           "IaaS"
         ],
-        "Deployment_Model": "Public Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2013-07-18T04:00:00.000Z",
         "Sponsoring_Agency": "JAB Authorization",
@@ -489,7 +489,7 @@
         "Independent_Assessor": "Kratos SecureInfo",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/cgi-federal/",
         "CSP_Website": "www.cgi.com",
-        "CSO_Description": "CGI delivers centralized, simplified, highly secure and fully managed solutions specifically designed to support Federal agencies, local and state governments, and tribal organizations needs. solution-focused services such as web content management solutions, content delivery network solutions, and co-location–enabling side-by-side hosting of virtualized and physical environments to meet transactional and/or specialized performance requirements.\r\n\r\nCGI DIFFENTIATORS\r\n\r\n- FedRAMP P-ATO and DISA P-ATO\r\n- High-touch, customer-centric service model with global presence\r\n- Business-centric analysis and transition planning\r\n- Automated cloud service management via secure portal\r\n- Enabling IT professional services to meet business and mission needs\r\n- Continental United States (CONUS) data centers staffed by U.S. citizens\r\n- Flexible, secure cloud infrastructure designed and built for government\r\n- Standards-based cloud technology supports interoperability",
+        "CSO_Description": "CGI delivers centralized, simplified, highly secure and fully managed solutions specifically designed to support Federal agencies, local and state governments, and tribal organizations needs. solution-focused services such as web content management solutions, content delivery network solutions, and co-location–enabling side-by-side hosting of virtualized and physical environments to meet transactional and/or specialized performance requirements.\n\nCGI DIFFENTIATORS\n\n- FedRAMP P-ATO and DISA P-ATO\n- High-touch, customer-centric service model with global presence\n- Business-centric analysis and transition planning\n- Automated cloud service management via secure portal\n- Enabling IT professional services to meet business and mission needs\n- Continental United States (CONUS) data centers staffed by U.S. citizens\n- Flexible, secure cloud infrastructure designed and built for government\n- Standards-based cloud technology supports interoperability",
         "Announcement_Date": "2013-01-31T05:00:00.000Z",
         "CSP_POC_Name": "John Nemoto",
         "CSP_POC_Email": "federalcloud@cgifederal.com",
@@ -3708,9 +3708,20 @@
             "Authorizing_Subagency": "Defense Information Systems Agency",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://www.fedramp.gov/files/2016/08/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "N",
+            "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Veris Group, LLC",
             "Announcement_Date": "2016-10-02T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-10-04T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2016-10-04T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Agency for Healthcare Research and Quality",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2016-10-04T04:00:00.000Z"
           }
         ]
       },
