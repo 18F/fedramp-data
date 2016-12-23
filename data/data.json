@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2016-12-22T05:51:03.926Z",
+    "Created_At": "2016-12-23T05:51:03.999Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2914,6 +2914,16 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Veris Group, LLC",
             "Announcement_Date": "2016-11-22T05:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-12-21T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "National Nuclear Security Administration / Lawrence Livermore National Laboratory",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2016-12-21T05:00:00.000Z"
           }
         ]
       },
@@ -5122,7 +5132,6 @@
         "Sponsoring_Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfTheInterior-Seal.png",
         "Authorizing_Agency": "Department of the Interior",
         "CSP_URL": "https://www.fedramp.gov/files/2015/11/FireEye_logo_CMYK-300x87.jpg",
-        "Stage": "TBD",
         "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/fireye-fireye-email-threat-prevention-etp-service/",
         "CSP_Website": "www.FireEye.com",
@@ -5209,6 +5218,29 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Jive Software",
+        "Cloud_Service_Provider_Package": "Jive FedRAMP",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1708142305",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "National Aeronautics and Space Administration",
+        "Sponsoring_Agency_Logo": "https://www.fedramp.gov/files/2016/08/NASA_logo.png",
+        "Authorizing_Agency": "National Aeronautics and Space Administration",
+        "Independent_Assessor": "Lunarline",
+        "CSP_Website": "www.jivesoftware.com",
+        "CSO_Description": "Jive Software is a provider of communication and collaboration solutions for business, including a suite of collaboration software and an intranet back-end.",
+        "CSP_POC_Name": "David Cook",
+        "CSP_POC_Email": "david.cook@jivesoftware.com",
+        "FedRAMP_In-Process_Date": "2016-12-22T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "mLINQS",
         "Cloud_Service_Provider_Package": "mLINQS Hosting Service",
         "Path": "Agency",
@@ -5250,7 +5282,6 @@
         "Authorizing_Agency": "Department of Commerce",
         "Authorizing_Subagency": "National Technical Information Service",
         "CSP_URL": "https://fedramp.sites.usa.gov/files/2015/03/NTIS_logo_lrg.gif",
-        "Stage": "TBD",
         "Independent_Assessor": "Department of Transportation (DOT) Enterprise Services Center (ESC)",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/national-technical-information-service-ntis-data-center-and-hosting-services-ntis-fedramp-infrastructure-system-nfis/",
         "CSP_Website": "www.ntis.gov",
@@ -5302,7 +5333,6 @@
         "Sponsoring_Agency_Logo": "https://www.fedramp.gov/files/2016/08/USPS-Logo.png",
         "Authorizing_Agency": "United States Postal Service",
         "CSP_URL": "https://www.fedramp.gov/files/2016/09/NowForce-Logo.jpg",
-        "Stage": "TBD",
         "Independent_Assessor": "TBD",
         "CSP_Website": "www.nowforce.com",
         "CSO_Description": "NowForce offers [personal safety apps](http://www.nowforce.com/solution/features/), cloud-based [computer aided dispatch](http://www.nowforce.com/solution/features/?type=dispatching), and [mobile response tools](http://www.nowforce.com/solution/features/?type=responding) for any organization, enabling reduced response times, full situational awareness, and enhanced communications. Our comprehensive emergency response software and apps make it simple for agencies to locate personnel and people in distress and dispatch the closest available responder to any incident.",
@@ -6528,8 +6558,9 @@
         "Name": "TECH LOCK",
         "Accreditation_Date": "2015-04-08T04:00:00.000Z",
         "Logo": "https://www.fedramp.gov/files/2016/08/TECH-LOCK-Logo.jpg",
-        "POC_Name": "Todd Langusch",
-        "POC_Email": "Coming Soon"
+        "POC_Name": "Michael Wright",
+        "POC_Email": "info@techlockinc.com",
+        "website": "www.techlockinc.com"
       },
       {
         "Name": "The Cadence Group",
