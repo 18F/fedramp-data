@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2017-01-13T05:51:04.178Z",
+    "Created_At": "2017-01-14T05:51:03.858Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3905,6 +3905,16 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Veris Group, LLC",
             "Announcement_Date": "2016-11-18T05:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2017-01-10T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Authorizing_Subagency": "National Institute of Food and Agriculture",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://www.fedramp.gov/files/2016/08/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2017-01-10T05:00:00.000Z"
           }
         ]
       },
@@ -4732,6 +4742,25 @@
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
         ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "American Institutes for Research",
+        "Cloud_Service_Provider_Package": "Secure Analytics Workbench (SAW)",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "F1609277946",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Independent_Assessor": "Veris Group, LLC",
+        "CSP_Website": "www.air.org",
+        "CSO_Description": "AIR’s Secure Analytics Workbench (SAW) is a high performance, cloud based data analytics platform that securely receives, stores, and manages customer data sets.\r\nThe SAW allows researchers and data scientists to perform complex data analytics across multiple data sets containing Personally Identifiable Information (PII) and electronic Protected Health Information (ePHI) and to securely report the results of those analyses to authorized report viewers. The SAW can easily accommodate many rapid cycle monitoring projects, large program evaluations, and very large analyses of nation-wide, multi-year databases. \r\n \r\nDesigned to analyze very large data sets (“big data”), the SAW can perform sophisticated analyses (General Linear Models, logistic regression, complex sorts) with datasets of hundreds of millions of records. The SAW is designed to handle complex dataset linkage (using deterministic or probabilistic protocols) for instance across large administrative service and cost data sets. The SAW can also perform extensive and sophisticated data cleansing, record de-duplication, and record reconciliation and remediation.",
+        "CSP_POC_Name": "Tim Beymer",
+        "CSP_POC_Email": "sawinfo@air.org",
+        "Fedramp_Ready_Date": "2017-01-11T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "Apptio",
