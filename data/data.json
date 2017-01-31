@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2017-01-30T05:51:04.910Z",
+    "Created_At": "2017-01-31T05:51:04.085Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -418,7 +418,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Autonomic Resources a wholly-owned subsidiary of CSRA LLC",
-        "Cloud_Service_Provider_Package": "ARC-P",
+        "Cloud_Service_Provider_Package": "CSRA / ARC-P Cloud",
         "Path": "JAB",
         "Designation": "Compliant",
         "Package_ID": "F1206141381",
@@ -5373,6 +5373,26 @@
         "CSP_POC_Name": "Stacey Zeigler",
         "CSP_POC_Email": "stacey.zeigler@FireEye.com",
         "FedRAMP_In-Process_Date": "2015-12-02T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Hewlett Packard Enterprise",
+        "Cloud_Service_Provider_Package": "Cloud File Management (CFM) for Public Sector",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "F1412045756",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://www.fedramp.gov/files/2015/02/hpe_pri_grn_pos_rgb-300x126.png",
+        "Independent_Assessor": "Veris Group, LLC",
+        "CSP_Website": "http://h20195.www2.hpe.com/v2/getpdf.aspx/4aa5-4613enw.pdf",
+        "CSO_Description": "HPE Cloud File Management for Public Sector is an on demand, secure enterprise file sharing and synchronization SaaS built from the Blackberry® Workspaces technology (formerly known as WatchDox by Blackberry). CFM allows users to securely store and access user-generated content (common office files and images) from any PC operating system and Apple, Android, Windows, and Blackberry phones and tablets in a manner that isolates the data from other system or user data. The secure content gateway encrypts and decrypts content with digital rights management (DRM) to assert specific-use controls on top of access control, such as copy prevention, expiration date, and remote delete. The customer administrator has full control over the data and the ability to remotely wipe data from devices. The service is fully managed by HPE. ",
+        "CSP_POC_Name": "Marilyn Hays",
+        "CSP_POC_Email": "fedramp@hpe.com",
+        "Fedramp_Ready_Date": "2017-01-27T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
