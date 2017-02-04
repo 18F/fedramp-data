@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2017-02-03T05:51:03.938Z",
+    "Created_At": "2017-02-04T05:51:04.206Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -6016,6 +6016,7 @@
         "Service_Model": [
           "SaaS"
         ],
+        "Deployment_Model": "Private Cloud",
         "Impact_Level": "Moderate",
         "Sponsoring_Agency": "Pension Benefit Guaranty Corporation",
         "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/PBGC-logo.png",
@@ -6183,6 +6184,30 @@
         "CSP_POC_Name": "Will Ackerly ",
         "CSP_POC_Email": "willackerly@virtru.com",
         "FedRAMP_In-Process_Date": "2016-05-04T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Workspot",
+        "Cloud_Service_Provider_Package": "Workspot Gov",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1712164712",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "United States Army",
+        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/10/US-Army-Logo.jpg",
+        "Authorizing_Agency": "United States Army",
+        "Authorizing_Subagency": "U.S. Military Entrance Processing Command",
+        "Independent_Assessor": "TBD",
+        "CSP_Website": "www.workspot.com",
+        "CSO_Description": "Workspot Gov is the next generation, cloud-native end user computing platform – including VDI 2.0 and DaaS 2.0 – and designed specifically to meet Federal Agency requirements. The Workspot solution enables agencies to virtualize applications and desktops (VDI) on-premises, in the cloud, or both. A workspace client brings together all the apps and desktops end users need and ensures secure access to them from any device. ",
+        "CSP_POC_Name": "Jimmy Chang",
+        "CSP_POC_Email": "federal@workspot.com",
+        "FedRAMP_In-Process_Date": "2017-01-30T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       }
