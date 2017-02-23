@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2017-02-22T05:51:04.267Z",
+    "Created_At": "2017-02-23T05:51:04.033Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1199,6 +1199,16 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Veris Group, LLC",
             "Announcement_Date": "2016-08-10T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2017-02-14T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "United States Census Bureau",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2017-02-14T05:00:00.000Z"
           }
         ]
       },
@@ -4789,6 +4799,35 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Cisco Systems Inc.",
+        "Cloud_Service_Provider_Package": "Cisco Hosted Collaboration Solution for Government (HCS-G)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1604017885",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2017-02-01T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/04/Cisco-logo-300x158.jpg",
+        "Stage": "Audit Prep ",
+        "Independent_Assessor": "Kratos SecureInfo",
+        "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/cisco-cisco-hosted-collaboration-solution-for-government-hcs-g/",
+        "CSP_Website": "www.cisco.com",
+        "CSO_Description": "Cisco Hosted Collaboration Solution for Government (HCS-G) is a complete unified communications service from the Cisco cloud. It is built to provide government-level security so that organizations can collaborate with anyone, anywhere, on any device. The service is hosted by Cisco, sold by Cisco Powered partners. Cisco HCS-G provides these core services:\n\n**Voice and Video Calling**  \nSimplify with industry-leading voice and video as a service. Cisco HCS-G provides voice and video call control and supports Cisco’s newest voice and video endpoints ranging from desktop phones to immersive video rooms to mobile and desktop clients.\n\n**Voicemail and Integrated Messaging**  \nAccess messages the way you prefer from your desk phone, mobile phone, or desktop client.\n\n**Instant Messaging and Presence**  \nCisco Jabber lets you find the right people, see if and how they are available, and collaborate using your preferred method. Use Cisco Jabber for presence, instant messaging (IM), voice and video calling, voice messaging, desktop sharing, and conferencing.\n\n**Conferencing**  \nUse Cisco conferencing solutions to meet and manage meetings and projects in real time, to present, share, or collaborate from anywhere, anytime, on any device.\n\n**Mobility**  \nCisco HCS-G gives your teams the freedom to be productive from anywhere, on any device. Give users one number to dial, redirect incoming calls to designated phones, move calls between a Cisco desktop and mobile phones, create personalized access lists, and give access to all your corporate collaboration features from mobile phones using Cisco Jabber.",
+        "Expected_Compliance_Date": "2016-11-30T05:00:00.000Z",
+        "Announcement_Date": "2017-02-21T05:00:00.000Z",
+        "CSP_POC_Name": "Cisco Collaboration FedRAMP Team",
+        "CSP_POC_Email": "collab-usgov@cisco.com",
+        "FedRAMP_In-Process_Date": "2016-05-09T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Accellion",
         "Cloud_Service_Provider_Package": "Kiteworks Federal Cloud",
         "Path": "Agency",
@@ -5057,34 +5096,6 @@
         "CSP_POC_Name": "Terry Redding",
         "CSP_POC_Email": "tredding@cfigroup.com",
         "FedRAMP_In-Process_Date": "2016-08-25T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Cisco Systems Inc.",
-        "Cloud_Service_Provider_Package": "Cisco Hosted Collaboration Solution for Government (HCS-G)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1604017885",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/04/Cisco-logo-300x158.jpg",
-        "Stage": "Audit Prep ",
-        "Independent_Assessor": "Kratos SecureInfo",
-        "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/cisco-cisco-hosted-collaboration-solution-for-government-hcs-g/",
-        "CSP_Website": "www.cisco.com",
-        "CSO_Description": "Cisco Hosted Collaboration Solution for Government (HCS-G) is a complete unified communications service from the Cisco cloud. It is built to provide government-level security so that organizations can collaborate with anyone, anywhere, on any device. The service is hosted by Cisco, sold by Cisco Powered partners. Cisco HCS-G provides these core services:\n\n**Voice and Video Calling**  \nSimplify with industry-leading voice and video as a service. Cisco HCS-G provides voice and video call control and supports Cisco’s newest voice and video endpoints ranging from desktop phones to immersive video rooms to mobile and desktop clients.\n\n**Voicemail and Integrated Messaging**  \nAccess messages the way you prefer from your desk phone, mobile phone, or desktop client.\n\n**Instant Messaging and Presence**  \nCisco Jabber lets you find the right people, see if and how they are available, and collaborate using your preferred method. Use Cisco Jabber for presence, instant messaging (IM), voice and video calling, voice messaging, desktop sharing, and conferencing.\n\n**Conferencing**  \nUse Cisco conferencing solutions to meet and manage meetings and projects in real time, to present, share, or collaborate from anywhere, anytime, on any device.\n\n**Mobility**  \nCisco HCS-G gives your teams the freedom to be productive from anywhere, on any device. Give users one number to dial, redirect incoming calls to designated phones, move calls between a Cisco desktop and mobile phones, create personalized access lists, and give access to all your corporate collaboration features from mobile phones using Cisco Jabber.",
-        "Expected_Compliance_Date": "2016-11-30T05:00:00.000Z",
-        "Announcement_Date": "2017-02-21T05:00:00.000Z",
-        "CSP_POC_Name": "Cisco Collaboration FedRAMP Team",
-        "CSP_POC_Email": "collab-usgov@cisco.com",
-        "FedRAMP_In-Process_Date": "2016-05-09T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -6982,23 +6993,6 @@
         "Description_of_Consulting_Services": "SecureIT partners with CSP's to help them navigate the challenges of achieving FedRAMP compliance.  Our consultants have years of expertise helping clients navigate the process from end to end.  We deliver services in the areas of boundary definition, architecture review, readiness assessment, documentation development and technical remediation assistance.",
         "Consulting_Services_To": "* Accellion\n* Salesforce\n* Visionary Integration Professionals (VIP)",
         "Additional_Cyber_Frameworks": "* ISO 27001\n* SOC1\n* SOC2\n* HIPAA\n* FISCAM\n* FISMA\n* SOX"
-      },
-      {
-        "Name": "Sunera, LLC",
-        "Accreditation_Date": "2016-04-07T04:00:00.000Z",
-        "Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/Sunera-Logo.jpg",
-        "Description": "As an accredited 3PAO, Sunera is authorized to perform the end-to-end assessment for FedRAMP compliance, including developing the security assessment plan, conducting the full assessment, performing all required security testing, performing mandatory annual re-testing and developing the Security Assessment Report and all other related documentation.",
-        "POC_Name": "Andrew Cannata",
-        "POC_Email": "3pao@sunera.com",
-        "website": "www.sunera.com",
-        "Remediation": "N",
-        "Founded": 2005,
-        "Primary_Office_Locations": "* 201 E Kennedy Boulevard Suite 1750, Tampa, FL 33602\n* 31 W 34th Street Suite 7036, New York, NY 10001\n* 4590 MacArthur Boulevard Suite 500, Newport Beach, CA 92660",
-        "FedRAMP_Assessed": "None",
-        "Provide_Consulting_Services": "Y",
-        "Description_of_Consulting_Services": "Sunera provides FedRAMP pre-assessments to ensure that CSPs are in the best possible position prior to beginning a FedRAMP final assessment.  Sunera also provides FedRAMP-focused gap analyses to benchmark the current state of a CSP's security practices, personnel, documentation, and policies against the requirements of FedRAMP.  The full range of Sunera's cyber security services - including infrastructure, governance, and security assessments - are also available to CSPs considering pursuing FedRAMP accreditation.",
-        "Consulting_Services_To": "DocuSign Inc.",
-        "Additional_Cyber_Frameworks": "* PCI QSA\n* PCI ASV\n* SOC"
       },
       {
         "Name": "TalaTek, LLC",
