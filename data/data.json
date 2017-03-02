@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2017-03-01T05:51:04.327Z",
+    "Created_At": "2017-03-02T05:51:04.656Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -384,6 +384,15 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Veris Group, LLC",
             "Announcement_Date": "2017-02-06T05:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2017-01-06T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/Seal_of_the_United_States_Department_of_Veterans_Affairs_1989-2012.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2017-01-06T05:00:00.000Z"
           }
         ]
       },
@@ -484,6 +493,17 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Veris Group, LLC",
             "Announcement_Date": "2016-09-26T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2017-01-18T05:00:00.000Z",
+            "Letter_Expiration_Date": "2018-01-18T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-01-18T05:00:00.000Z",
+            "Authorizing_Agency": "Office of Personnel Management",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-OfficeOfPersonnelManagement-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2017-01-18T05:00:00.000Z"
           }
         ]
       },
@@ -2012,6 +2032,15 @@
             "Announcement_Date": "2016-09-09T04:00:00.000Z"
           },
           {
+            "Letter_Date": "2016-02-15T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Housing and Urban Development",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfHUD-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2016-02-15T05:00:00.000Z"
+          },
+          {
             "Letter_Date": "2016-10-07T04:00:00.000Z",
             "Authorizing_Agency": "Department of Veterans Affairs",
             "Agency_POC": "Coming Soon",
@@ -3076,6 +3105,15 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Veris Group, LLC",
             "Announcement_Date": "2016-12-21T05:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-10-07T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/Seal_of_the_United_States_Department_of_Veterans_Affairs_1989-2012.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2016-10-07T04:00:00.000Z"
           }
         ]
       },
@@ -3836,7 +3874,6 @@
         ],
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2015-12-17T05:00:00.000Z",
         "Original_Expiration_Date": "2018-12-17T05:00:00.000Z",
         "Sponsoring_Agency": "Environmental Protection Agency",
         "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/Environmental_Protection_Agency_logo.png",
@@ -4074,36 +4111,6 @@
         "CSP_POC_Name": "Jeff Bivens",
         "CSP_POC_Email": "fed.cloud@nttdata.com",
         "FedRAMP_In-Process_Date": "2014-07-30T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "General Dynamics Information Technology (GDIT)",
-        "Cloud_Service_Provider_Package": "Customer eXperience Platform",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1509307433",
-        "Service_Model": [
-          "PaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2015-11-03T05:00:00.000Z",
-        "Sponsoring_Agency": "Office of Personnel Management",
-        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-OfficeOfPersonnelManagement-Seal.png",
-        "Authorizing_Agency": "Office of Personnel Management",
-        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/05/GDIT-Logo_Colour-300x38.jpg",
-        "Independent_Assessor": "Veris Group, LLC",
-        "Underlying_CSP_Package_ID": [
-          "F1303191948"
-        ],
-        "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/gdit-gdit-customer-experience-platform-gdit-cxp-in-pmo-review/",
-        "CSP_Website": "www.gdit.com/cloudsolutions",
-        "CSO_Description": "The General Dynamics IT Customer eXperience Platform (CXP) is designed for government agencies and organizations that require scalable and tailorable contact center operations.\n\nA FedRAMP-certified cloud-based solution, the CXP provides a full range of technology capabilities to customize and operate contact centers of any size, supporting organizations’ security and privacy requirements. The CXP leverages Genesys technology to deliver the functionality required by contact centers of varying needs for an enhanced customer experience. The CXP enables quick and easy modernization of contact centers with options for cloud and on-premise deployment. Most importantly, the solution ensures customers can receive the information they need at the time they want it and in a way they want to access it.\n\nThe CXP has the following key features:\n\n* Standardized Multi-site “virtual” call/contact centers on an open network and enterprise solution\n* Multi-channel contact points with a single solution\n  * Voice and Web Service\n  * Email management\n  * Web Chat live help service\n* Position Environment for multi-media Virtual Contact Center\n* Intelligent multi-channel load-balancing across sites\n* Integrated CRM “Soft-phone” and “Screen-pop” for customer service and productivity\n* Web service management and tracking for third-party system integration\n* Contact center reporting and workforce management tools",
-        "Announcement_Date": "2016-10-03T04:00:00.000Z",
-        "CSP_POC_Name": "Daniel Lee",
-        "CSP_POC_Email": "info@gdit.com",
-        "FedRAMP_In-Process_Date": "2016-05-12T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -4854,6 +4861,36 @@
         "CSP_POC_Name": "Cisco Collaboration FedRAMP Team",
         "CSP_POC_Email": "collab-usgov@cisco.com",
         "FedRAMP_In-Process_Date": "2016-05-09T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "General Dynamics Information Technology (GDIT)",
+        "Cloud_Service_Provider_Package": "Customer eXperience Platform",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1509307433",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2017-02-16T05:00:00.000Z",
+        "Sponsoring_Agency": "Office of Personnel Management",
+        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-OfficeOfPersonnelManagement-Seal.png",
+        "Authorizing_Agency": "Office of Personnel Management",
+        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/05/GDIT-Logo_Colour-300x38.jpg",
+        "Independent_Assessor": "Veris Group, LLC",
+        "Underlying_CSP_Package_ID": [
+          "F1303191948"
+        ],
+        "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/gdit-gdit-customer-experience-platform-gdit-cxp-in-pmo-review/",
+        "CSP_Website": "www.gdit.com/cloudsolutions",
+        "CSO_Description": "The General Dynamics IT Customer eXperience Platform (CXP) is designed for government agencies and organizations that require scalable and tailorable contact center operations.\n\nA FedRAMP-certified cloud-based solution, the CXP provides a full range of technology capabilities to customize and operate contact centers of any size, supporting organizations’ security and privacy requirements. The CXP leverages Genesys technology to deliver the functionality required by contact centers of varying needs for an enhanced customer experience. The CXP enables quick and easy modernization of contact centers with options for cloud and on-premise deployment. Most importantly, the solution ensures customers can receive the information they need at the time they want it and in a way they want to access it.\n\nThe CXP has the following key features:\n\n* Standardized Multi-site “virtual” call/contact centers on an open network and enterprise solution\n* Multi-channel contact points with a single solution\n  * Voice and Web Service\n  * Email management\n  * Web Chat live help service\n* Position Environment for multi-media Virtual Contact Center\n* Intelligent multi-channel load-balancing across sites\n* Integrated CRM “Soft-phone” and “Screen-pop” for customer service and productivity\n* Web service management and tracking for third-party system integration\n* Contact center reporting and workforce management tools",
+        "Announcement_Date": "2016-10-03T04:00:00.000Z",
+        "CSP_POC_Name": "Daniel Lee",
+        "CSP_POC_Email": "info@gdit.com",
+        "FedRAMP_In-Process_Date": "2016-05-12T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
