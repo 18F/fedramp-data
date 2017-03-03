@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2017-03-02T05:51:04.656Z",
+    "Created_At": "2017-03-03T05:51:04.154Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -111,6 +111,15 @@
             "Announcement_Date": "2016-07-26T04:00:00.000Z"
           },
           {
+            "Letter_Date": "2016-02-15T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Housing and Urban Development",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfHUD-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2016-02-15T05:00:00.000Z"
+          },
+          {
             "Authorizing_Letter_Last_Sign_Date": "2016-10-02T04:00:00.000Z",
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Defense Information Systems Agency",
@@ -119,280 +128,6 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc.",
             "Announcement_Date": "2016-10-02T04:00:00.000Z"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Amazon",
-        "Cloud_Service_Provider_Package": "AWS US East/West ",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "AGENCYAMAZONEW",
-        "Service_Model": [
-          "IaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2013-05-01T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/02/AmazonWebservices_Logo.svg_-300x120.png",
-        "Independent_Assessor": "Veris Group, LLC",
-        "FedRAMP_Website_URL": "https://www.fedramp.gov/?p=12972",
-        "CSP_Website": "www.aws.amazon.com",
-        "CSO_Description": "Amazon US East/West is a multi-tenant public cloud for Federal, State and Local Government customers, as well as commercial customers, designed to meet a wide range of regulatory requirements, to include government compliance and security requirements. AWS leverages the Infrastructure-as-a-Service (IaaS) cloud computing model, which enables convenient, on-demand Internet access to a shared pool of configurable computing resources such as servers, storage, network infrastructure, and various other web services. Customers can rapidly provision or release computing resources on demand.",
-        "Announcement_Date": "2013-05-01T04:00:00.000Z",
-        "CSP_POC_Name": "AWS Compliance Team",
-        "CSP_POC_Email": "awscompliance@amazon.com",
-        "FedRAMP_In-Process_Date": "2012-11-02T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2014-02-24T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2014-04-11T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Health Resources and Services Administration",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2014-04-11T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2014-02-05T05:00:00.000Z",
-            "Letter_Expiration_Date": "2017-03-12T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2014-03-12T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2014-03-12T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2014-11-19T05:00:00.000Z",
-            "Letter_Expiration_Date": "2018-01-20T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2015-01-20T05:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2015-01-20T05:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2014-11-25T05:00:00.000Z",
-            "Letter_Expiration_Date": "2017-11-25T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Authorizing_Subagency": "Energy Information Administration",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2014-11-25T05:00:00.000Z"
-          },
-          {
-            "Letter_Expiration_Date": "2017-12-24T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2014-12-24T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Housing and Urban Development",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfHUD-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2014-12-24T05:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2015-08-26T04:00:00.000Z",
-            "Letter_Expiration_Date": "2017-05-30T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Institute of Standards and Technology",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2015-08-26T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2015-06-26T04:00:00.000Z",
-            "Letter_Expiration_Date": "2017-05-06T04:00:00.000Z",
-            "Authorizing_Agency": "Tennessee Valley Authority",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-TennesseeValleyAuthority-Logo.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2015-06-26T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2015-05-18T04:00:00.000Z",
-            "Letter_Expiration_Date": "2018-05-18T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2015-05-19T04:00:00.000Z",
-            "Authorizing_Agency": "Consumer Financial Protection Bureau",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/CFPB_Logo.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2015-05-19T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2015-07-17T04:00:00.000Z",
-            "Authorizing_Agency": "General Services Administration",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/GSAlogo.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2015-07-17T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2015-09-30T04:00:00.000Z",
-            "Letter_Expiration_Date": "2018-10-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2015-10-01T04:00:00.000Z",
-            "Authorizing_Agency": "Social Security Administration",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-SocialSecurityAdmin-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2015-10-01T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2015-11-25T05:00:00.000Z",
-            "Letter_Expiration_Date": "2018-11-25T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2015-11-25T05:00:00.000Z",
-            "Authorizing_Agency": "National Aeronautics and Space Administration",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/NASA_logo.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2015-11-25T05:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2016-06-14T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-06-14T04:00:00.000Z",
-            "Authorizing_Agency": "Surface Transportation Board",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-SurfaceTransportationBoard-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2016-06-14T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2016-05-12T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2016-05-12T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2016-06-30T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-06-30T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Labor",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfLabor-Seal-AltColors.svg_.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2016-06-30T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2016-07-21T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Labor",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfLabor-Seal-AltColors.svg_.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2016-07-21T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2016-03-25T04:00:00.000Z",
-            "Authorizing_Agency": "National Science Foundation",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/NSF.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2016-03-25T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2016-04-13T04:00:00.000Z",
-            "Letter_Expiration_Date": "2017-04-13T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2016-04-13T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2016-08-28T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-08-28T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Information Systems Agency",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2016-08-28T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2016-03-17T04:00:00.000Z",
-            "Letter_Expiration_Date": "2017-04-01T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2016-03-17T04:00:00.000Z"
-          },
-          {
-            "Letter_Expiration_Date": "2016-10-31T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-07-14T04:00:00.000Z",
-            "Authorizing_Agency": "United States Agency for International Development",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/USAID-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2016-07-14T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2016-09-26T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Authorizing_Subagency": "Federal Energy Regulatory Commission",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2016-09-26T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2016-10-17T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-10-31T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Food and Drug Administration",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2016-10-31T04:00:00.000Z"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2017-02-06T05:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Authorizing_Subagency": "Internal Revenue Service",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2017-02-06T05:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2017-01-06T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Veterans Affairs",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/Seal_of_the_United_States_Department_of_Veterans_Affairs_1989-2012.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2017-01-06T05:00:00.000Z"
           }
         ]
       },
@@ -1382,59 +1117,6 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "SecureIT",
             "Announcement_Date": "2016-12-01T05:00:00.000Z"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Edge Hosting, LLC ",
-        "Cloud_Service_Provider_Package": "Edge FedRAMP Compliant CloudPlus",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1404304159",
-        "Service_Model": [
-          "IaaS ",
-          " PaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2014-08-08T04:00:00.000Z",
-        "Original_Expiration_Date": "2017-08-07T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Labor",
-        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfLabor-Seal-AltColors.svg_.png",
-        "Authorizing_Agency": "Department of Labor",
-        "Authorizing_Subagency": "Office of Workers’ Compensation Programs",
-        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/09/EDGE_Logos_Claim_WhiteBG.png",
-        "Independent_Assessor": "Lockheed Martin",
-        "FedRAMP_Website_URL": "https://www.fedramp.gov/?p=13082",
-        "CSP_Website": "https://www.edgehosting.com/business-solutions/government/",
-        "CSO_Description": "Edge’s CloudPlus transforms traditional enterprise applications delivering secure FedRAMP complaint 100% uptime cloud hosting solutions.  Focused on public, dedicated private, and hybrid Cloud computing platforms designed to meet a wide range regulatory requirements including FISMA, FedRAMP, HIPAA and PCI.\n\nSaaS providers, federal agencies and System Integrators who require FedRAMP can significantly lower operating costs, eliminate capital expenditures and drastically improve service delivery at a predictable monthly cost. By combining the latest scalable Cloud technology Edge can you reduce the time it takes to adopt new cloud IT capabilities. CloudPlus delivers highly availability and secured cloud hosting, which includes monitoring, backups and recovery and 24x7x365 technical support.\n\nCloudPlus includes all of the hardware infrastructure, software licenses, bandwidth, load balancers, clustering infrastructure, storage, security software and tools along with the experts responsible for installing, configuring and maintaining global scale application platforms with support for the majority of Windows and Linux application stacks and database platforms.\n\nPartnered with a number of purchasing vehicles to make cloud procurement easy.",
-        "Announcement_Date": "2014-08-08T04:00:00.000Z",
-        "CSP_POC_Name": "Vlad Friedman",
-        "CSP_POC_Email": "govsales@edgehosting.com",
-        "FedRAMP_In-Process_Date": "2014-02-04T05:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2015-03-26T04:00:00.000Z",
-            "Letter_Expiration_Date": "2017-08-08T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2015-03-26T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Information Systems Agency",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Lockheed Martin",
-            "Announcement_Date": "2015-03-26T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2017-01-12T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Authorizing_Subagency": "Federal Energy Regulatory Commission",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Lockheed Martin",
-            "Announcement_Date": "2017-01-12T05:00:00.000Z"
           }
         ]
       },
@@ -3745,17 +3427,6 @@
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Date": "2015-07-08T04:00:00.000Z",
-            "Letter_Expiration_Date": "2018-07-08T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2015-07-08T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Retirement Thrift Investment Board",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/02/FRTIB-Logo.jpg",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2016-02-17T05:00:00.000Z"
-          },
-          {
             "Letter_Date": "2016-04-01T04:00:00.000Z",
             "Letter_Expiration_Date": "2019-04-01T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2016-04-01T04:00:00.000Z",
@@ -3860,6 +3531,16 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Veris Group, LLC",
             "Announcement_Date": "2016-10-28T04:00:00.000Z"
+          },
+          {
+            "Letter_Expiration_Date": "2017-11-30T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-02-13T05:00:00.000Z",
+            "Authorizing_Agency": "Federal Retirement Thrift Investment Board",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/02/FRTIB-Logo.jpg",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2017-02-13T05:00:00.000Z"
           }
         ]
       },
@@ -4770,6 +4451,48 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Edge Hosting, LLC",
+        "Cloud_Service_Provider_Package": "Edge FedRAMP Compliant CloudPlus",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1404304159",
+        "Service_Model": [
+          "IaaS ",
+          " PaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2014-08-08T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Energy",
+        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfEnergy-Seal.png",
+        "Authorizing_Agency": "Department of Energy",
+        "Authorizing_Subagency": "Federal Energy Regulatory Commission",
+        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/09/EDGE_Logos_Claim_WhiteBG.png",
+        "Independent_Assessor": "Lockheed Martin",
+        "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/edge-hosting-llc-cloudplus-managed-cloud-for-secure-windows-and-linux-application-hosting/",
+        "CSP_Website": "https://www.edgehosting.com/business-solutions/government/",
+        "CSO_Description": "Edge’s CloudPlus transforms traditional enterprise applications delivering secure FedRAMP complaint 100% uptime cloud hosting solutions.  Focused on public, dedicated private, and hybrid Cloud computing platforms designed to meet a wide range regulatory requirements including FISMA, FedRAMP, HIPAA and PCI.\n\nSaaS providers, federal agencies and System Integrators who require FedRAMP can significantly lower operating costs, eliminate capital expenditures and drastically improve service delivery at a predictable monthly cost. By combining the latest scalable Cloud technology Edge can you reduce the time it takes to adopt new cloud IT capabilities. CloudPlus delivers highly availability and secured cloud hosting, which includes monitoring, backups and recovery and 24x7x365 technical support.\n\nCloudPlus includes all of the hardware infrastructure, software licenses, bandwidth, load balancers, clustering infrastructure, storage, security software and tools along with the experts responsible for installing, configuring and maintaining global scale application platforms with support for the majority of Windows and Linux application stacks and database platforms.\n\nPartnered with a number of purchasing vehicles to make cloud procurement easy.",
+        "Announcement_Date": "2014-08-08T04:00:00.000Z",
+        "CSP_POC_Name": "Vlad Friedman",
+        "CSP_POC_Email": "govsales@edgehosting.com",
+        "FedRAMP_In-Process_Date": "2014-02-04T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2015-03-26T04:00:00.000Z",
+            "Letter_Expiration_Date": "2017-08-08T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2015-03-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Information Systems Agency",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Lockheed Martin",
+            "Announcement_Date": "2015-03-26T04:00:00.000Z"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "Deloitte",
         "Cloud_Service_Provider_Package": "Deloitte Federal Technology Center",
         "Path": "Agency",
@@ -4893,6 +4616,280 @@
         "FedRAMP_In-Process_Date": "2016-05-12T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Amazon",
+        "Cloud_Service_Provider_Package": "AWS US East/West ",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "AGENCYAMAZONEW",
+        "Service_Model": [
+          "IaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2017-01-04T05:00:00.000Z",
+        "Original_Expiration_Date": "2020-01-04T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/02/AmazonWebservices_Logo.svg_-300x120.png",
+        "Independent_Assessor": "Veris Group, LLC",
+        "CSP_Website": "www.aws.amazon.com",
+        "CSO_Description": "Amazon US East/West is a multi-tenant public cloud for Federal, State and Local Government customers, as well as commercial customers, designed to meet a wide range of regulatory requirements, to include government compliance and security requirements. AWS leverages the Infrastructure-as-a-Service (IaaS) cloud computing model, which enables convenient, on-demand Internet access to a shared pool of configurable computing resources such as servers, storage, network infrastructure, and various other web services. Customers can rapidly provision or release computing resources on demand.",
+        "Announcement_Date": "2013-05-01T04:00:00.000Z",
+        "CSP_POC_Name": "AWS Compliance Team",
+        "CSP_POC_Email": "awscompliance@amazon.com",
+        "FedRAMP_In-Process_Date": "2012-11-02T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2014-02-24T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2014-04-11T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Health Resources and Services Administration",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2014-04-11T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2014-02-05T05:00:00.000Z",
+            "Letter_Expiration_Date": "2017-03-12T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2014-03-12T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2014-03-12T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2014-11-19T05:00:00.000Z",
+            "Letter_Expiration_Date": "2018-01-20T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2015-01-20T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2015-01-20T05:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2014-11-25T05:00:00.000Z",
+            "Letter_Expiration_Date": "2017-11-25T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "Energy Information Administration",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2014-11-25T05:00:00.000Z"
+          },
+          {
+            "Letter_Expiration_Date": "2017-12-24T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2014-12-24T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Housing and Urban Development",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfHUD-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2014-12-24T05:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2015-08-26T04:00:00.000Z",
+            "Letter_Expiration_Date": "2017-05-30T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Institute of Standards and Technology",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2015-08-26T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2015-06-26T04:00:00.000Z",
+            "Letter_Expiration_Date": "2017-05-06T04:00:00.000Z",
+            "Authorizing_Agency": "Tennessee Valley Authority",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-TennesseeValleyAuthority-Logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2015-06-26T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2015-05-18T04:00:00.000Z",
+            "Letter_Expiration_Date": "2018-05-18T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2015-05-19T04:00:00.000Z",
+            "Authorizing_Agency": "Consumer Financial Protection Bureau",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/CFPB_Logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2015-05-19T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2015-07-17T04:00:00.000Z",
+            "Authorizing_Agency": "General Services Administration",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/GSAlogo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2015-07-17T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2015-09-30T04:00:00.000Z",
+            "Letter_Expiration_Date": "2018-10-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2015-10-01T04:00:00.000Z",
+            "Authorizing_Agency": "Social Security Administration",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-SocialSecurityAdmin-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2015-10-01T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2015-11-25T05:00:00.000Z",
+            "Letter_Expiration_Date": "2018-11-25T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2015-11-25T05:00:00.000Z",
+            "Authorizing_Agency": "National Aeronautics and Space Administration",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/NASA_logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2015-11-25T05:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-06-14T04:00:00.000Z",
+            "Letter_Expiration_Date": "2019-06-14T04:00:00.000Z",
+            "Authorizing_Agency": "Surface Transportation Board",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-SurfaceTransportationBoard-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2016-06-14T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-05-12T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2016-05-12T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-06-30T04:00:00.000Z",
+            "Letter_Expiration_Date": "2019-06-30T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Labor",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfLabor-Seal-AltColors.svg_.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2016-06-30T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-07-21T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Labor",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfLabor-Seal-AltColors.svg_.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2016-07-21T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-03-25T04:00:00.000Z",
+            "Authorizing_Agency": "National Science Foundation",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/NSF.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2016-03-25T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-04-13T04:00:00.000Z",
+            "Letter_Expiration_Date": "2017-04-13T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2016-04-13T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-08-28T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2016-08-28T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Information Systems Agency",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2016-08-28T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-03-17T04:00:00.000Z",
+            "Letter_Expiration_Date": "2017-04-01T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2016-03-17T04:00:00.000Z"
+          },
+          {
+            "Letter_Expiration_Date": "2016-10-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2016-07-14T04:00:00.000Z",
+            "Authorizing_Agency": "United States Agency for International Development",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/USAID-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2016-07-14T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-09-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "Federal Energy Regulatory Commission",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2016-09-26T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-10-17T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2016-10-31T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2016-10-31T04:00:00.000Z"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2017-02-06T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Internal Revenue Service",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2017-02-06T05:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2017-01-06T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/Seal_of_the_United_States_Department_of_Veterans_Affairs_1989-2012.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2017-01-06T05:00:00.000Z"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Accellion",
@@ -6057,7 +6054,7 @@
         "Stage": "Documentation",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/qualtrics-qualtrics-insight-platform/",
         "CSP_Website": "www.qualtrics.com",
-        "CSO_Description": "The PTC SaaS solution provides a comprehensive suite of applications which allow its users to create and collaborate in a secure and reliable manner; sharing product development, operation, manufacturing, service and support information.",
+        "CSO_Description": "Qualtrics is the world’s leading insight platform, and we assist federal government entities and executives with collecting and providing real time access to the data and insights needed to make impactful decisions, and to enable action and improvements. Whether dealing with the impact of citizen facing programs, the improvement of existing services (digital and otherwise), or the engagement of federal employees, we help our customers close the gaps between the data they have and the data they need to meet their missions. ",
         "Expected_Compliance_Date": "2017-10-31T04:00:00.000Z",
         "CSP_POC_Name": "Alan Mark",
         "CSP_POC_Email": "notice@qualtrics.com",
