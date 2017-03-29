@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2017-03-28T04:51:04.630Z",
+    "Created_At": "2017-03-29T04:51:04.237Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -965,47 +965,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "AINS",
-        "Cloud_Service_Provider_Package": "eCase ",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "AGENCYHUDSAAS",
-        "Service_Model": [
-          "PaaS ",
-          " SaaS"
-        ],
-        "Deployment_Model": "Private Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2014-02-21T05:00:00.000Z",
-        "Sponsoring_Agency": "Department of Housing and Urban Development",
-        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfHUD-Seal.png",
-        "Authorizing_Agency": "Department of Housing and Urban Development",
-        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/02/ains_logo.png",
-        "Independent_Assessor": "Veris Group, LLC",
-        "FedRAMP_Website_URL": "https://www.fedramp.gov/?p=12482",
-        "CSP_Website": "www.ains.com",
-        "CSO_Description": "eCase is a robust Platform as a Service for implementing multiple, coexisting adaptive case management SaaS solutions including eCase-Correspondence, eCase-HR, eCase-Audit and FOIAXpress (the industry leading purpose-built FOIA case processing software) within a single commercial off-the-shelf (COTS) solution. eCase provides a dynamic case management framework with the capability to power a wide range of workflow-driven processes and core case management functions, tracking and reporting around a wide range of business process verticals and can help agencies manage their business information efficiently and automate workflow processes, gaining a valuable competitive advantage.",
-        "Announcement_Date": "2014-02-21T05:00:00.000Z",
-        "CSP_POC_Name": "Cliff Sink",
-        "CSP_POC_Email": "info@ains.com",
-        "FedRAMP_In-Process_Date": "2012-12-18T05:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2015-03-26T04:00:00.000Z",
-            "Letter_Expiration_Date": "2017-02-21T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2015-03-26T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Information Systems Agency",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Veris Group, LLC",
-            "Announcement_Date": "2015-03-26T04:00:00.000Z"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Economic Systems ",
         "Cloud_Service_Provider_Package": "Economic Systems Federal Human Resources Navigator ",
         "Path": "JAB",
@@ -1420,7 +1379,6 @@
           },
           {
             "Letter_Date": "2015-03-26T04:00:00.000Z",
-            "Letter_Expiration_Date": "2017-02-24T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2015-03-26T04:00:00.000Z",
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Defense Information Systems Agency",
@@ -3161,7 +3119,6 @@
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/connectsolutions-connectsolutions-fedramp-meetingcloud/",
         "CSP_Website": "www.connectsolutions.com",
         "CSO_Description": "CoSo's Private FedRAMP Compliant Cloud for Adobe Connect is a powerful and proven platform, enabling agencies to excel in their missions.   It provides 99.99% uptime to ensure government agencies have reliable collaboration for critical communications. CoSo's platform and services have been used to facilitate crisis-communications regarding food tampering, drug recalls, and international disasters & emergencies. Additionally, both the military and many federal agencies utilize CoSo's platform to provide secure training around the globe.",
-        "Expected_Compliance_Date": "2016-09-15T04:00:00.000Z",
         "CSP_POC_Name": "Cyrus Mirakhor",
         "CSP_POC_Email": "security@ConnectSolutions.com",
         "FedRAMP_In-Process_Date": "2012-09-12T04:00:00.000Z",
@@ -3602,6 +3559,16 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
             "Announcement_Date": "2017-02-16T05:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2017-02-22T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Institute of Standards and Technology",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
+            "Announcement_Date": "2017-02-22T05:00:00.000Z"
           }
         ]
       },
@@ -3921,7 +3888,7 @@
         "Independent_Assessor": "Veris Group, LLC",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/amazon-web-services-aws-government-community-cloud-govcloud/",
         "CSP_Website": "www.aws.amazon.com",
-        "CSO_Description": "AWS GovCloud (US) is an AWS Region designed to allow US government agencies and customers supporting the US government to move more sensitive workloads into the cloud. In addition to complying with FedRAMP requirements, the AWS GovCloud (US) framework adheres to U.S. International Traffic in Arms Regulations (ITAR) regulations. Additional information is available at [http://aws.amazon.com/govcloud-us/](http://aws.amazon.com/govcloud-us/).\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: S3, EC2, EBS, VPC, IAM, RDS(Oracle, MySQL, PostgreSQL), CloudWatch Logs, CloudTrail.",
+        "CSO_Description": "AWS GovCloud (US) is an AWS Region designed to allow US government agencies and customers supporting the US government to move more sensitive workloads into the cloud. In addition to complying with FedRAMP requirements, the AWS GovCloud (US) framework adheres to U.S. International Traffic in Arms Regulations (ITAR) regulations. Additional information is available at [http://aws.amazon.com/govcloud-us/](http://aws.amazon.com/govcloud-us/).\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: S3, EC2, EBS, VPC, IAM, RDS(Oracle, MySQL, PostgreSQL), CloudWatch Logs, CloudTrail.Cloud Formation, Amazon Glacier, Amazon Web Services Key Management Service, Amazon Simple Workflow Service, Amazon Simple Queue Service, Amazon Simple Notification Service, Amazon DynamoDB, Amazon Elastice Map Reduce, Amazon Redshift.",
         "Announcement_Date": "2016-06-21T04:00:00.000Z",
         "CSP_POC_Name": "AWS Compliance Team",
         "CSP_POC_Email": "awscompliance@amazon.com",
@@ -4952,6 +4919,47 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "AINS",
+        "Cloud_Service_Provider_Package": "eCase ",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "AGENCYHUDSAAS",
+        "Service_Model": [
+          "PaaS ",
+          " SaaS"
+        ],
+        "Deployment_Model": "Private Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2017-01-18T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Housing and Urban Development",
+        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfHUD-Seal.png",
+        "Authorizing_Agency": "Department of Housing and Urban Development",
+        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/02/ains_logo.png",
+        "Independent_Assessor": "Veris Group, LLC",
+        "FedRAMP_Website_URL": "https://www.fedramp.gov/?p=12482",
+        "CSP_Website": "www.ains.com",
+        "CSO_Description": "eCase is a robust Platform as a Service for implementing multiple, coexisting adaptive case management SaaS solutions including eCase-Correspondence, eCase-HR, eCase-Audit and FOIAXpress (the industry leading purpose-built FOIA case processing software) within a single commercial off-the-shelf (COTS) solution. eCase provides a dynamic case management framework with the capability to power a wide range of workflow-driven processes and core case management functions, tracking and reporting around a wide range of business process verticals and can help agencies manage their business information efficiently and automate workflow processes, gaining a valuable competitive advantage.",
+        "Announcement_Date": "2014-02-21T05:00:00.000Z",
+        "CSP_POC_Name": "Cliff Sink",
+        "CSP_POC_Email": "info@ains.com",
+        "FedRAMP_In-Process_Date": "2012-12-18T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2015-03-26T04:00:00.000Z",
+            "Letter_Expiration_Date": "2017-02-21T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2015-03-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Information Systems Agency",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2015-03-26T04:00:00.000Z"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "Accellion",
         "Cloud_Service_Provider_Package": "Kiteworks Federal Cloud",
         "Path": "Agency",
@@ -5227,7 +5235,7 @@
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/cloudlock-cloudlock-security-fabric-for-federal/",
         "CSP_Website": "www.cloudlock.com",
         "CSO_Description": "The CloudLock® Security Fabric™ is the cloud-native Cloud Access Security Broker (CASB) and Cloud Cybersecurity Platform that helps federal agencies securely leverage the cloud for apps they buy and build. CloudLock delivers security for any cloud application and platform, including IaaS, PaaS, and IDaaS and orchestrates security across your existing investments.\n\nCloudLock is a frictionless solution that deploys in minutes to protect cloud applications and provides codeless security for custom-built apps, while having zero impact on end users. CloudLock provides actionable cybersecurity intelligence across an organization’s entire cloud infrastructure.\n\nCloudLock provides organizations capabilities such as:\n - Compromised Accounts (UEBA) - CloudLock uses advanced machine  learning to detect anomalies in account usage, in addition to identifying activities outside of whitelisted countries and actions across distances in an impossible amount of time. \n - Data Breaches (Cloud DLP) - CloudLock protects organizations against data breaches in any cloud environment and app through a  highly-configurable data  loss prevention engine. Featuring countless out-of-the-box policies  and a wide range of automated, policy-driven response actions such as  file-level encryption and  quarantine, and end-user notifications,    CloudLock provides unparalleled coverage of cloud traffic.   \n - Cloud-Native Malware (Apps Firewall) - The CloudLock Apps Firewall    discovers and controls malicious cloud apps connected to your  corporate environment, and   provides a crowd-sourced Community Trust Rating to identify individual app risk. \n - Compliance (Reporting/Policy) - CloudLock enables organizations to satisfy compliance mandates within any cloud environment through countless out-of-the-box policies designed to address regulations including NIST 800-53, as well as highly-configurable custom policies.",
-        "Expected_Compliance_Date": "2016-12-31T05:00:00.000Z",
+        "Expected_Compliance_Date": "2017-07-31T04:00:00.000Z",
         "CSP_POC_Name": "Ian Riopel",
         "CSP_POC_Email": "cl-fedramp@cloudlock.com",
         "FedRAMP_In-Process_Date": "2016-05-05T04:00:00.000Z",
@@ -5346,7 +5354,6 @@
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/complete-discovery-source-federal-cloud-discovery-services-fcds/",
         "CSP_Website": "www.cdslegal.com",
         "CSO_Description": "Complete Discovery Source (CDS) is a pioneer in the eDiscovery industry, providing litigation technology and hosting, advisory services, and managed services to support complex discovery matters. With a team of seasoned legal experts and technicians, we provide leading-edge technology, advanced analytics, and a secure, scalable infrastructure to support the data initiatives of State and Federal agencies and departments. CDS is the first choice of the Am Law 100 and Fortune 500 and is recognized as Best in End-to-End eDiscovery by the National Law Journal and New York Law Journal. CDS supports more than 25 eDiscovery technologies including Relativity and Clearwell. CDS is headquartered in New York with regional offices in Washington DC, Chicago, and Houston. The company maintains highly secure ISO 27001 certified hosting and SSAE 16 Type 2 audited data centers in the US and EU.",
-        "Expected_Compliance_Date": "2016-11-01T04:00:00.000Z",
         "CSP_POC_Name": "Garrett Bendel",
         "CSP_POC_Email": "government@cdslegal.com",
         "FedRAMP_In-Process_Date": "2014-06-14T04:00:00.000Z",
@@ -5425,7 +5432,6 @@
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/ctac-content-management-platform-cmp/",
         "CSP_Website": "www.ctacorp.com",
         "CSO_Description": "CTAC’s PaaS CMP is an innovative solution to support customer’s needs in the areas of content and publishing APIs and overall content and taxonomy strategies.  The PaaS solution is sufficiently flexible to meet the unique needs of client web properties, as well as establishing infrastructure and building blocks for the future.  CTAC’s PaaS has a predictable cost model and provides a service-based architecture for internal and external web properties with both isolated and multi-tenant models, and provides a turnkey, on-demand, expandable, cloud-based platform.\r\n\r\nThe CTAC CMP is a single, integrated platform that has been developed to addresses client’s needs using extendable open source offerings that will not limit future capacity to a single Content Management System (CMS) vendor.  It is powered by an automated, container-based hosting infrastructure and a unified set of content services and metadata available to all web properties.  This homogenous and scalable architecture enables efficient migration and onboarding of web properties and the reuse of data structures, content, metadata, back-end services, and visualization components, while at the same time providing avenues for innovative content solutions across the full-spectrum of content management technology stacks.\r\n\r\nThe CTAC CMP is a unified platform solution with the ability to support multiple application framework products, as well as providing a forward-looking architecture to support the content engines of tomorrow. The CTAC CMP provides out-of-the-box API compatibility.  All open source and Commercial of the Shelf (COTS) technologies selected for the platform provide API developer- focused interfaces, and the core CMP has been developed to provide a content API that supports base content types, taxonomies, and a unified base search. The core CMP can be customized and configured to meet client’s needs.",
-        "Expected_Compliance_Date": "2016-12-31T05:00:00.000Z",
         "CSP_POC_Name": "Aaron Stowell",
         "CSP_POC_Email": "fedramp@ctacorp.com",
         "FedRAMP_In-Process_Date": "2014-01-01T05:00:00.000Z",
@@ -6439,7 +6445,6 @@
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/trapwire-threat-detection-and-analysis-system/",
         "CSP_Website": "www.trapwire.com",
         "CSO_Description": "TRAPWIRE is the preeminent software platform for detecting and alerting on threats against your assets and personnel in real-time. It provides a comprehensive suite of tools all synchronized and accessible in one centralized, highly secure and encrypted platform, including:\n\n - Incident reporting \n - Pattern analysis and threat detection    \n - Originator-controlled information sharing \n - Mass warning and notifications    \n - Cross-organizational collaboration \n - Mobile applications for reporting and alerts\n\nThe TRAPWIRE Threat Detection and Analysis System brings security organizations into a protection network that detects and alerts on mutual threats spanning time and geography, allowing users to break down stovepipes and interdict threats before they materialize into successful criminal or terrorist acts. The network encapsulates thousands of protected facilities and personnel spanning Federal, State, and Local Law Enforcement; Anti-Terrorism/Force Protection personnel; private/commercial security organizations; and community protection programs. Bringing all sectors together with modern technology and expert analytical support services, while maintaining “originator control” principles for each owner’s data, empowers a tangible force multiplier effect.",
-        "Expected_Compliance_Date": "2016-11-15T05:00:00.000Z",
         "CSP_POC_Name": "Paul Chadha",
         "CSP_POC_Email": "info@trapwire.com",
         "FedRAMP_In-Process_Date": "2016-02-05T05:00:00.000Z",
@@ -6464,7 +6469,6 @@
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/fedramp-ready-systems/unisys-unisys-edge-for-government/",
         "CSP_Website": "www.unisys.com",
         "CSO_Description": "Unisys Edge Service Management features a modern Information Technology Service Management (ITSM) Core that bundles our deep expertise with business-ready BMC Remedy technology and pre-built functionality. Edge is delivered through a SaaS model, thus avoiding large capital outlays while delivering rapid time to savings to achieve greater value to the business.\n\n - Every component of Service Management is driven by data\n - Greater visibility for faster incident remediation\n - Optimized resource allocation\n - Analysis tools and techniques and customizable service views\n\nUnisys Edge consolidates data streams from across the enterprise and applies Service Management best practices to ensure that service data is flowing into the ITSM Core where it can be properly analyzed and acted upon. The Unisys Edge Integration Engine includes pre-built connections to a wide variety of monitoring tools, eliminating the hidden time and costs associated with API development and integration common among solutions from platform vendors.\n\nAll of this is bundled and delivered in a flexible and scalable SaaS model, eliminating large capital expenditures and hidden integration and maintenance costs often experienced with other platform vendors. When everything is up and running  we use the Unisys VantagePoint executive dashboard to deliver quantifiable results right to the IT leader’s desktop or tablet screen.",
-        "Expected_Compliance_Date": "2016-12-21T05:00:00.000Z",
         "CSP_POC_Name": "Casey Coleman",
         "CSP_POC_Email": "Casey.Coleman@unisys.com",
         "Fedramp_Ready_Date": "2016-01-12T05:00:00.000Z",
@@ -6491,7 +6495,6 @@
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/fedramp-ready-systems/unisys-unisys-spcg-secure-private-cloud-for-government/",
         "CSP_Website": "www.unisys.com",
         "CSO_Description": "Unisys Secure Private Cloud for Government (SPCG) is an Infrastructure-as-a-Service (IaaS) and Platform-as-a-Service (PaaS) that provides a community cloud to host Government workloads in a secure caged environment. The SPCG cloud environment leverages NIST controls and standards, NIST Risk Management Framework (RMF), Federal Risk and Authorization Management Program (FedRAMP) assessment framework, as well as Department of Defense (DoD) standards to keep Government confidential and proprietary information safe and secure. By enhancing the application of the key cloud characteristics, Unisys SPCG promotes, optimizes, and assures the customer’s vision for secure, agile and flexible cloud hosting.",
-        "Expected_Compliance_Date": "2016-12-21T05:00:00.000Z",
         "CSP_POC_Name": "Casey Coleman",
         "CSP_POC_Email": "Casey.Coleman@unisys.com",
         "Fedramp_Ready_Date": "2016-01-12T05:00:00.000Z",
