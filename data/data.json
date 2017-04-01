@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2017-03-31T04:51:04.505Z",
+    "Created_At": "2017-04-01T04:51:04.163Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -624,6 +624,15 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Kratos SecureInfo",
             "Announcement_Date": "2016-10-28T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2017-03-31T04:00:00.000Z",
+            "Authorizing_Agency": "National Science Foundation",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/NSF.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Kratos SecureInfo",
+            "Announcement_Date": "2017-03-31T04:00:00.000Z"
           }
         ]
       },
@@ -651,7 +660,17 @@
         "CSP_POC_Email": "AzureFedRAMP@microsoft.com",
         "FedRAMP_In-Process_Date": "2012-10-03T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2017-03-31T04:00:00.000Z",
+            "Authorizing_Agency": "National Science Foundation",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/NSF.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Kratos SecureInfo",
+            "Announcement_Date": "2017-03-31T04:00:00.000Z"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "United States Department of Agriculture",
@@ -2800,6 +2819,16 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Veris Group, LLC",
             "Announcement_Date": "2017-03-01T05:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2017-03-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-03-30T04:00:00.000Z",
+            "Authorizing_Agency": "United States Equal Employment Opportunity Commission",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/03/EEOC-Logo.jpg",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2017-03-30T04:00:00.000Z"
           }
         ]
       },
@@ -5192,6 +5221,29 @@
         "CSP_POC_Name": "Sanjiev Chattopadhya",
         "CSP_POC_Email": "sanjiev.chattopadhya@blackboard.com",
         "FedRAMP_In-Process_Date": "2015-08-11T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "BMC Software",
+        "Cloud_Service_Provider_Package": "BMC Remedyforce",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "F1506166767",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Education",
+        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfEducation-Seal.png",
+        "Authorizing_Agency": "Department of Education",
+        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/03/BMC-Remedyforce-Logo.jpg",
+        "CSP_Website": "http://www.bmc.com/it-solutions/remedyforce.html?vu=remedyforce",
+        "CSO_Description": "**PRODUCT DESCRIPTION**\n\nRemedyforce is an IT service management solution built on the Salesforce.com platform that combines best-practice aligned process automation with a simple, easy-to-use experience for maximum IT productivity and innovation. Remedyforce is designed to remove complexity and help you quickly realize value.\n\n**BUSINESS CHALLENGE**\n\nToday’s businesses are completely dependent on technology to gain and maintain a competitive advantage. This increased reliance on technology means there’s greater pressure on IT service organizations to keep pace with an unprecedented degree of business change. However, many IT organizations are struggling to meet these new demands because the technology and processes they have in place are inflexible and\naligned to business operations of the past. \n\nTo keep up with the evolving needs of the business, IT service organizations need modern, flexible, and intuitive service and support technology that facilitates the flow of information among people, teams, and departments. The solution must be fast to deploy, easy to maintain, and painless to adapt and integrate.\n\n**BMC SOLUTION**\n\nBuilt with speed and flexibility in mind, Remedyforce is the ideal service and support solution for the modern IT ecosystem. For organizations looking to simplify their infrastructures and run high-speed IT with a focus on value, Remedyforce is the perfect fit.\n\n**KEY FEATURES**\n\nRemedyforce provides comprehensive IT service management and ITIL© functionality to help IT run at the speed of business.\n - Key ITIL processes, including incident, problem, change, service level management, self-service, discovery, and asset management\n -  Social, mobile, and collaborative capabilities make connecting people and information easy\n -  Innovative asset lifecycle management capabilities for proactive management to reduce costs and improve data consistency while mitigating risks\n - The stability of the world’s leading cloud platform, Salesforce.com, helps you realize value and reduce ongoing maintenance\n - Out of the box integrations to today’s core business technologies, including BMC solutions and Salesforce.com offerings, as well as 2,500+ Salesforce.com AppExchange solutions\n",
+        "CSP_POC_Name": "Virginia Leandro",
+        "CSP_POC_Email": "bmc_remedyforce@bmc.com",
+        "FedRAMP_In-Process_Date": "2017-03-30T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
