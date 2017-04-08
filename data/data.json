@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2017-04-07T04:51:04.541Z",
+    "Created_At": "2017-04-08T04:51:04.175Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3048,7 +3048,7 @@
         "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-SmallBusinessAdmin-Seal.png",
         "Authorizing_Agency": "Small Business Administration",
         "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/02/Logo1901-300x161.png",
-        "Independent_Assessor": "Knowledge Consulting Group, a wholly owned subsidiary of ManTech Advanced Systems International, Inc",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/1901-group-llc-in3sight-service-system-i3ss-in3sight/",
         "CSP_Website": " www.1901group.com",
         "CSO_Description": "1901 Group’s In3Sight Service System (I3SS) is a consumption-based as-a-service cloud delivery capability providing Information Technology (IT) managed services for federal customer environments that span cloud, customer site, and hybrid configurations. I3SS is inclusive of 1901 Group’s 24×7 Operations Center in Blacksburg, Virginia where their software as a service (SaaS) platform is used to monitor, manage, and optimize enterprise IT environments. Services are securely extended into customer environments over FIPS140-2 Certified AES encrypted Virtual Private Network tunnels, and the I3SS customer facing capability used for ITIL-based service requests is supported by a FedRAMP FISMA Moderate multi-tenant ServiceNow instance. The 1901 Group SaaS Managed Service Provider (MSP) offering is described within 1901 Group’s Information Technology Service Catalog that encompasses network, unified communications, security, storage, compute and application solutions on an “as a Service” basis. I3SS provides standardized processes, services and technology to customers via an accredited platform, resulting in stable and reliable IT environments, as well as timely, accurate and meaningful monitoring and management information for decision making, and integrated analytics that improve efficiency.",
@@ -3925,7 +3925,8 @@
         "Designation": "Compliant",
         "Package_ID": "F1603047866",
         "Service_Model": [
-          "IaaS"
+          "IaaS ",
+          " PaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "High",
@@ -3936,7 +3937,7 @@
         "Independent_Assessor": "Veris Group, LLC",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/amazon-web-services-aws-government-community-cloud-govcloud/",
         "CSP_Website": "www.aws.amazon.com",
-        "CSO_Description": "AWS GovCloud (US) is an AWS Region designed to allow US government agencies and customers supporting the US government to move more sensitive workloads into the cloud. In addition to complying with FedRAMP requirements, the AWS GovCloud (US) framework adheres to U.S. International Traffic in Arms Regulations (ITAR) regulations. Additional information is available at [http://aws.amazon.com/govcloud-us/](http://aws.amazon.com/govcloud-us/).\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: S3, EC2, EBS, VPC, IAM, RDS(Oracle, MySQL, PostgreSQL), CloudWatch Logs, CloudTrail.Cloud Formation, Amazon Glacier, Amazon Web Services Key Management Service, Amazon Simple Workflow Service, Amazon Simple Queue Service, Amazon Simple Notification Service, Amazon DynamoDB, Amazon Elastice Map Reduce, Amazon Redshift.",
+        "CSO_Description": "AWS GovCloud (US) is an AWS Region designed to allow US government agencies and customers supporting the US government to move more sensitive workloads into the cloud. In addition to complying with FedRAMP requirements, the AWS GovCloud (US) framework adheres to U.S. International Traffic in Arms Regulations (ITAR) regulations. Additional information is available at [http://aws.amazon.com/govcloud-us/](http://aws.amazon.com/govcloud-us/).\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: S3, EC2, EBS, VPC, IAM, RDS(Oracle, MySQL, PostgreSQL), CloudWatch Logs, CloudTrail, Cloud Formation, Amazon Glacier, Amazon Web Services Key Management Service, Amazon Simple Workflow Service, Amazon Simple Queue Service, Amazon Simple Notification Service, Amazon DynamoDB, Amazon Elastice Map Reduce, Amazon Redshift.",
         "Announcement_Date": "2016-06-21T04:00:00.000Z",
         "CSP_POC_Name": "AWS Compliance Team",
         "CSP_POC_Email": "awscompliance@amazon.com",
@@ -4074,7 +4075,7 @@
         "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-FCC-Seal.png",
         "Authorizing_Agency": "Federal Communications Commission",
         "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/12/Collab9-Logo-300x152.png",
-        "Independent_Assessor": "Knowledge Consulting Group, a wholly owned subsidiary of ManTech Advanced Systems International, Inc",
+        "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/collab9-secure-voice-and-collaboration/",
         "CSP_Website": "www.collab9.com",
         "CSO_Description": "Collab9 is a cloud-based Cisco Hosted Collaboration Solution (HCS) service provider offering voice and collaboration services. Collab9 Secure HCS delivers a full set of Cisco Unified Communications and Collaboration services, including:\n\n- Voice and Call Control \n- Voicemail and Unified Messaging (voicemail delivery to the user’s email) \n- Integration with Microsoft Exchange, Office 365, and Gmail (for the Unified Messaging) \n- Presence and Instant Messaging    \n- Mobility Services, or the ability to use multiple types of devices to access phone services; includes laptop softphones, Apple iOS and Android devices \n- Meet-Me and Ad Hoc Voice Conferencing \n- Contact Center (call queuing and    distribution for customer support services)  \n- E911 call routing with device and phone tracking using Emergency Responder\n\nIn simple terms, Collab9 Secure HCS replaces an organization’s on-premises phone system (PBX) with a feature-rich collaboration system in the cloud, providing extended features and capabilities.\n\nCollab9 Secure HCS is a turnkey cloud solution delivering:\n\n- A dedicated environment for each agency, built in the cloud using Cisco’s voice collaboration appliances and third-party voice applications as required \n-  Voice applications designed, deployed and    fully managed by Collab9, including all adds/moves/changes \n- Service customizations based on agency requirements and implemented by Collab9 Agency    administration functionality for managing user adds/moves/changes (if desired) or 24x7 Collab9 Network Operations Center (NOC) support\n\nCollab9 Secure HCS addresses these key business needs: \n\n- Substantial cost savings over traditional build and operate solutions \n- Rapid deployment with continual upgrading of the solution and infrastructure Reduced capital expenditures for critical phone infrastructure and its maintenance/upgrades \n- Migration away from obsolete or aging communications systems\n- Delivery of feature-rich, cloud-based voice services managed outside the organization \n- Reduced staffing costs for specialized administrators to run on-premises  systems \n- Reduced cost of compliance through FedRAMP mandated continuous monitoring\n\nThe Collab9 Secure HCS service is offered by over forty federal contractors, VARs, and telecommunications service providers, and it is available through our partners’ federal contract vehicles.\n\nPlease visit [https://www.collab9.com/partners/channel-partners](https://www.collab9.com/partners/channel-partners) for an up-to-date list of these partners.",
