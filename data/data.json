@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2017-04-26T04:51:04.827Z",
+    "Created_At": "2017-04-27T04:51:04.680Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3661,7 +3661,7 @@
         "CSP_Website": "http://americas.nttdata.com/industries/industries/public%20sector/federal-services-cloud-infrastructure",
         "CSO_Description": "If your journey to the cloud is being driven by a desire for stronger security and compliance, then NTT DATA has a cloud solution for you. The NTT DATA Cloud for Government is delivered as an infrastructure-as-a-service (IaaS) using a multi-tenant community cloud deployment model. It is available to U.S. federal, tribal, state, and local government customers, higher education, government contractors, and Federally Funded Research and Development Centers (FFRDCs).\n\nOur on-demand IaaS and management services provide the assistance you need to establish security and compliance and the operational excellence to stay secure. With a FedRAMP Moderate Joint Authorization Board Provisional Authority to Operate (JAB p-ATO) and a DoD Impact Level 2 Provisional Authorization for IaaS, we support FedRAMP, FISMA and DIACAP/RMF requirements. We can host your sensitive workloads in one of our data centers or in your designated site and we can provide a way to migrate everyday office applications, data and workloads to a FedRAMP-accredited cloud. Furthermore, we can help you assess your security posture and compliance requirements, achieve your ATO with the same proven process we used to achieve our JAB p-ATO, and perform continuous monitoring and compliance reporting with our battle-hardened tools and processes. Learn more at [http://americas.nttdata.com/industries/industries/public%20sector/federal-services-cloud-infrastructure](http://americas.nttdata.com/industries/industries/public%20sector/federal-services-cloud-infrastructure).",
         "Announcement_Date": "2016-04-21T04:00:00.000Z",
-        "CSP_POC_Name": "Jeff Bivens",
+        "CSP_POC_Name": "Darren Eastman",
         "CSP_POC_Email": "fed.cloud@nttdata.com",
         "FedRAMP_In-Process_Date": "2014-07-30T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
@@ -5058,6 +5058,38 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Okta",
+        "Cloud_Service_Provider_Package": "Identity as a Service (IDaaS)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1512167750",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2017-04-21T04:00:00.000Z",
+        "Original_Expiration_Date": "2018-04-21T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Justice",
+        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/Seal_of_the_United_States_Department_of_Justice.png",
+        "Authorizing_Agency": "Department of Justice",
+        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/12/Okta_Logo_BrightBlue_Large-300x101.png",
+        "Stage": "Audit",
+        "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
+        "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/okta-idaas/",
+        "CSP_Website": "www.okta.com",
+        "CSO_Description": "Okta is the foundation for secure connections between people and technology. Okta’s products manage identity and access for millions of people on millions of devices. By harnessing the power of the cloud, Okta allows people to access applications on any device at any time, while still enforcing strong security policies. It integrates directly with an organization’s existing directories and identity systems, as well as 4,000+ applications.\n\nOkta offers products in two lines: for IT and developers. Okta’s IT products are geared toward IT and security leaders and are designed to simplify the way people connect to enterprise technology, while increasing efficiency and keeping IT environments secure. Okta’s IT products include Universal Directory, Single Sign-On, Provisioning, Adaptive Multi-factor Authentication and Mobility Management. Okta’s developer and platform products allow product teams to layer Okta’s powerful identity services into their applications and portals. Okta’s Platform makes it easy for customers to authentication, manage and secure their users. Okta’s Platform products include Universal Directory, Single Sign-On, Provisioning, Adaptive Multi-factor Authentication, Social Authentication, Inbound Federation, and AD and LDAP Integration.",
+        "Announcement_Date": "2017-04-26T04:00:00.000Z",
+        "CSP_POC_Name": "Chris Niggel",
+        "CSP_POC_Email": "fedramp@okta.com",
+        "FedRAMP_In-Process_Date": "2015-12-17T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Accenture",
         "Cloud_Service_Provider_Package": "Accenture Federal Cloud AIP",
         "Designation": "FedRAMP Ready",
@@ -5245,6 +5277,26 @@
         "CSP_POC_Name": "Virginia Leandro",
         "CSP_POC_Email": "bmc_remedyforce@bmc.com",
         "FedRAMP_In-Process_Date": "2017-03-30T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Bytegrid",
+        "Cloud_Service_Provider_Package": "ByteGrid IaaS Platform",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR1720550106",
+        "Service_Model": [
+          "IaaS"
+        ],
+        "Deployment_Model": "Private Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/04/Bytegrid-Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
+        "CSP_Website": "https://www.bytegrid.com/",
+        "CSO_Description": "The ByteGrid IaaS Platform is a secure, compliant storage and compute private cloud infrastructure for Federal Agencies. The ByteGrid IaaS Platform consists of firewalls, switches, servers, network appliances, storage, virtualization software, anti-virus/security servers, and centralized logging systems. All of these components together comprise a private cloud environment suitable for all sizes of federal entities. The core makeup of the cloud is built to a specification that is easily scalable for smaller or much larger enterprise cloud computing needs. A significant feature of the ByteGrid IaaS Platform is that the hardware, security and compliance framework is setup to meet the needs of many different agencies with FedRAMP Requirements.\n\nByteGrid is a trusted and leading provider of highly secure and compliant solutions serving the most demanding requirements of enterprise and government customers, including those in the Federal, Life Sciences and Health IT industries. ByteGrid focuses on technology solutions and services that ensure that regulatory expectations are always met. ByteGrid’s robust, scalable and highly secure offerings in Colocation, Managed Hosting, Hybrid, Private and Community Cloud solutions as well as compliance services are delivered from an interconnected national platform of validated Tier 3 / 4 data centers. For more information visit www.ByteGrid.com.",
+        "CSP_POC_Name": "Jason Silva",
+        "CSP_POC_Email": "fedramp@bytegrid.com",
+        "Fedramp_Ready_Date": "2017-04-14T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -6155,32 +6207,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Okta",
-        "Cloud_Service_Provider_Package": "IDaaS",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "F1512167750",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Justice",
-        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/Seal_of_the_United_States_Department_of_Justice.png",
-        "Authorizing_Agency": "Department of Justice",
-        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/12/Okta_Logo_BrightBlue_Large-300x101.png",
-        "Stage": "Audit",
-        "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
-        "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/okta-idaas/",
-        "CSP_Website": "www.okta.com",
-        "CSO_Description": "Okta is the foundation for secure connections between people and technology. Okta’s products manage identity and access for millions of people on millions of devices. By harnessing the power of the cloud, Okta allows people to access applications on any device at any time, while still enforcing strong security policies. It integrates directly with an organization’s existing directories and identity systems, as well as 4,000+ applications.\n\nOkta offers products in two lines: for IT and developers. Okta’s IT products are geared toward IT and security leaders and are designed to simplify the way people connect to enterprise technology, while increasing efficiency and keeping IT environments secure. Okta’s IT products include Universal Directory, Single Sign-On, Provisioning, Adaptive Multi-factor Authentication and Mobility Management. Okta’s developer and platform products allow product teams to layer Okta’s powerful identity services into their applications and portals. Okta’s Platform makes it easy for customers to authentication, manage and secure their users. Okta’s Platform products include Universal Directory, Single Sign-On, Provisioning, Adaptive Multi-factor Authentication, Social Authentication, Inbound Federation, and AD and LDAP Integration.",
-        "CSP_POC_Name": "Chris Niggel",
-        "CSP_POC_Email": "fedramp@okta.com",
-        "FedRAMP_In-Process_Date": "2015-12-17T05:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "OnWire",
         "Cloud_Service_Provider_Package": "OnCloud",
         "Designation": "FedRAMP Ready",
@@ -6749,7 +6775,7 @@
         "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/04/Zscaler-Logo.jpg",
         "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
         "CSP_Website": "www.zscaler.com",
-        "CSO_Description": "**ZSCALER PRIVATE ACCESS**\n**The first major breakthrough in secure remote access since the VPN**\nZscaler is a leader in securing Internet traffic for enterprises around the globe, with a cloud-based security platform designed to protect enterprise Internet traffic with Secure Web Gateway, Cloud Application Visibility and Control, Cloud Sandboxing, Data Loss Prevention, and more. Zscaler Private Access builds from the same cloud-based, elastically scalable infrastructure to deliver seamless connectivity to private internal applications and assets.\n\nZscaler Private Access solves the challenges posed by a traditional VPN infrastructure by decoupling your internal assets and applications from the limitations, cost, and complexity of direct IP network connections. Zscaler Private Access delivers seamless connectivity to private internal applications and assets whether they are in the cloud, the data center, or both. Policy-driven access adjusts dynamically to network changes, enabling enterprise agility while improving user experience.\n\nWith Zscaler Private Access, there is no need to provision VPN termination hardware, or to ensure that such a deployment is globally distributed and redundant. Users no longer need to go through a termination appliance in the data center to get to apps in the cloud. In fact, there is no hardware to buy at all, because Zscaler Private Access, like our Cloud Security Platform, functions as a service.\n\nZscaler maintains all hardware and software, freeing both your IT team and your budget even as we reduce latency and boost scalability. Zscaler Private Access is tied directly to your existing authentication infrastructure, leveraging single sign-on to further reduce complexity. The result is that unlike traditional, network-based remote access solutions, Zscaler Private Access can be deployed in a matter of hours instead of taking weeks or months.\n\n**Improve your security posture even as you provide seamless access**\nThe reductions in overall cost and complexity are compelling on their own, but the paramount feature of the Zscaler Private Access solution is security. Once a connection is established between the asset and the client, the traffic traversing the solution remains completely isolated; because Zscaler Private Access is built on the premise of zero trust for your private applications, the traffic is isolated from us, as well. And because Zscaler Private Access abstracts the asset from the network, it not only ensures seamless access regardless of physical location, it dramatically increases your overall security posture by effectively making your most sensitive material invisible. Any attempt to route back to the application/asset meets a dead end.\n\n**Connect by application, not by IP address**\nVPNs have been designed to deliver access to a network, not to an application. Once on a network, malware can propagate and users may be able to get access to adjacent applications from which they should be restricted. In addition, because VPN concentrators must listen for inbound connection attempts, they present an attack surface which may be exploited by such things as Distributed Denial of Service attacks.\n\nEliminate the cost of VPNs and associated equipment\n\nAs part of our global, cloud-based security platform, Zscaler maintains all hardware and software, which frees both your IT staff and your budget and enables deployment in a matter of hours. Even better, Zscaler Private Access is deployed via the same Zscaler App you use to access our cloud security platform, which greatly reduces your “client sprawl” by delivering a\nsingle app that provisions Zscaler Remote Access, Secure Web Gateway, Data Loss Prevention, Cloud Sandboxing, Cloud Firewall, and more.\n\nTake your applications from “on-net” to “dark- net,” at the same time YOU get complete visibility.  Zscaler Private Access renders your applications invisible to all but authorized users, and unroutable to anyone.  But because the solution works at the application layer, we also deliver a level of visibility to you that has never before been possible. Once you provision a Connector in front of a bank of assets, you can use a wildcard attribute to discover exactly what applications are actually running there. Some customers have found almost ten times as many applications in use as they had expected! And once you know what applications are running, you can easily create granular access rules for them.\n\nApp Discovery makes deployment easy.",
+        "CSO_Description": "**ZSCALER PRIVATE ACCESS**\n\n**The first major breakthrough in secure remote access since the VPN**\n\nZscaler is a leader in securing Internet traffic for enterprises around the globe, with a cloud-based security platform designed to protect enterprise Internet traffic with Secure Web Gateway, Cloud Application Visibility and Control, Cloud Sandboxing, Data Loss Prevention, and more. Zscaler Private Access builds from the same cloud-based, elastically scalable infrastructure to deliver seamless connectivity to private internal applications and assets.\n\nZscaler Private Access solves the challenges posed by a traditional VPN infrastructure by decoupling your internal assets and applications from the limitations, cost, and complexity of direct IP network connections. Zscaler Private Access delivers seamless connectivity to private internal applications and assets whether they are in the cloud, the data center, or both. Policy-driven access adjusts dynamically to network changes, enabling enterprise agility while improving user experience.\n\nWith Zscaler Private Access, there is no need to provision VPN termination hardware, or to ensure that such a deployment is globally distributed and redundant. Users no longer need to go through a termination appliance in the data center to get to apps in the cloud. In fact, there is no hardware to buy at all, because Zscaler Private Access, like our Cloud Security Platform, functions as a service.\n\nZscaler maintains all hardware and software, freeing both your IT team and your budget even as we reduce latency and boost scalability. Zscaler Private Access is tied directly to your existing authentication infrastructure, leveraging single sign-on to further reduce complexity. The result is that unlike traditional, network-based remote access solutions, Zscaler Private Access can be deployed in a matter of hours instead of taking weeks or months.\n\n**Improve your security posture even as you provide seamless access**\n\nThe reductions in overall cost and complexity are compelling on their own, but the paramount feature of the Zscaler Private Access solution is security. Once a connection is established between the asset and the client, the traffic traversing the solution remains completely isolated; because Zscaler Private Access is built on the premise of zero trust for your private applications, the traffic is isolated from us, as well. And because Zscaler Private Access abstracts the asset from the network, it not only ensures seamless access regardless of physical location, it dramatically increases your overall security posture by effectively making your most sensitive material invisible. Any attempt to route back to the application/asset meets a dead end.\n\n**Connect by application, not by IP address**\n\nVPNs have been designed to deliver access to a network, not to an application. Once on a network, malware can propagate and users may be able to get access to adjacent applications from which they should be restricted. In addition, because VPN concentrators must listen for inbound connection attempts, they present an attack surface which may be exploited by such things as Distributed Denial of Service attacks.\n\nEliminate the cost of VPNs and associated equipment\n\nAs part of our global, cloud-based security platform, Zscaler maintains all hardware and software, which frees both your IT staff and your budget and enables deployment in a matter of hours. Even better, Zscaler Private Access is deployed via the same Zscaler App you use to access our cloud security platform, which greatly reduces your “client sprawl” by delivering a\nsingle app that provisions Zscaler Remote Access, Secure Web Gateway, Data Loss Prevention, Cloud Sandboxing, Cloud Firewall, and more.\n\nTake your applications from “on-net” to “dark- net,” at the same time YOU get complete visibility.  Zscaler Private Access renders your applications invisible to all but authorized users, and unroutable to anyone.  But because the solution works at the application layer, we also deliver a level of visibility to you that has never before been possible. Once you provision a Connector in front of a bank of assets, you can use a wildcard attribute to discover exactly what applications are actually running there. Some customers have found almost ten times as many applications in use as they had expected! And once you know what applications are running, you can easily create granular access rules for them.\n\nApp Discovery makes deployment easy.",
         "CSP_POC_Name": "Stephen Kovac",
         "CSP_POC_Email": "fedramp@zscaler.com",
         "FedRAMP_In-Process_Date": "2017-04-14T04:00:00.000Z",
@@ -6773,7 +6799,7 @@
         "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/04/Zscaler-Logo.jpg",
         "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
         "CSP_Website": "www.zscaler.com",
-        "CSO_Description": "Zscaler Internet Access delivers your security stack as a service from the cloud, eliminating the cost and complexity of traditional secure web gateway approaches. By moving security to a globally distributed cloud, Zscaler brings the Internet gateway closer to the user for a faster experience. Organizations can easily scale protection to all offices or users, regardless of location, and minimize network and appliance infrastructure.\n\n**The Cloud and Mobility Have Broken Perimeter Security**\nThe data center used to be the center of gravity. When applications resided there, it made sense to backhaul traffic from branch offices over a hub-and-spoke network. As traffic patterns shifted to the Internet, gateways were built with stacks of security appliances to allow secure Internet access. These gateways were also centralized to minimize the cost and complexity of securing multiple locations.\n\nHowever, as applications have moved to the cloud, the center of gravity has moved with it. User traffic often goes straight to the cloud, bypassing the security perimeter. Additionally, today’s complex threats have triggered an explosion of new security appliances, all finding their way into your overworked gateway. Administrators are in a constant battle to keep up with required security updates for their appliances. The complexity of deploying and managing all these appliances — and their associated costs — are out of control. Furthermore, it’s all associated with what is now an outdated architecture.\n\n**Zscaler Internet Access**\nZscaler Internet Access is a secure Internet and web gateway delivered as a service from the cloud. Think of it as a secure Internet onramp — all you do is make Zscaler your next hop to the Internet. For offices, simply set up a router tunnel (GRE or IPsec) to the closest Zscaler data center. For mobile employees, you can forward traffic via our lightweight Zscaler App or PAC file. No matter where users connect — a coffee shop in Milan, a hotel in Hong Kong, or the office — they get identical protection.\n\nZscaler Internet Access sits between your users and the Internet, inspecting every byte of traffic inline across multiple security techniques, even within SSL. You get full protection from web and Internet threats. And with a cloud platform that supports Cloud Sandboxing, Next-Generation Firewall, Data Loss Prevention (DLP), and Cloud Application Visibility and Control, you can start with the services you need today and activate others as your needs grow.\n\nAll these capabilities are delivered from the Zscaler Cloud Security Platform, the world’s largest security cloud, which processes more than 30 billion requests a day. With over 100 patents, the Zscaler platform has been architected from the ground up as a truly distributed, multi-tenant cloud with enterprise performance and scale.",
+        "CSO_Description": "Zscaler Internet Access delivers your security stack as a service from the cloud, eliminating the cost and complexity of traditional secure web gateway approaches. By moving security to a globally distributed cloud, Zscaler brings the Internet gateway closer to the user for a faster experience. Organizations can easily scale protection to all offices or users, regardless of location, and minimize network and appliance infrastructure.\n\n**The Cloud and Mobility Have Broken Perimeter Security**\n\nThe data center used to be the center of gravity. When applications resided there, it made sense to backhaul traffic from branch offices over a hub-and-spoke network. As traffic patterns shifted to the Internet, gateways were built with stacks of security appliances to allow secure Internet access. These gateways were also centralized to minimize the cost and complexity of securing multiple locations.\n\nHowever, as applications have moved to the cloud, the center of gravity has moved with it. User traffic often goes straight to the cloud, bypassing the security perimeter. Additionally, today’s complex threats have triggered an explosion of new security appliances, all finding their way into your overworked gateway. Administrators are in a constant battle to keep up with required security updates for their appliances. The complexity of deploying and managing all these appliances — and their associated costs — are out of control. Furthermore, it’s all associated with what is now an outdated architecture.\n\n**Zscaler Internet Access**\n\nZscaler Internet Access is a secure Internet and web gateway delivered as a service from the cloud. Think of it as a secure Internet onramp — all you do is make Zscaler your next hop to the Internet. For offices, simply set up a router tunnel (GRE or IPsec) to the closest Zscaler data center. For mobile employees, you can forward traffic via our lightweight Zscaler App or PAC file. No matter where users connect — a coffee shop in Milan, a hotel in Hong Kong, or the office — they get identical protection.\n\nZscaler Internet Access sits between your users and the Internet, inspecting every byte of traffic inline across multiple security techniques, even within SSL. You get full protection from web and Internet threats. And with a cloud platform that supports Cloud Sandboxing, Next-Generation Firewall, Data Loss Prevention (DLP), and Cloud Application Visibility and Control, you can start with the services you need today and activate others as your needs grow.\n\nAll these capabilities are delivered from the Zscaler Cloud Security Platform, the world’s largest security cloud, which processes more than 30 billion requests a day. With over 100 patents, the Zscaler platform has been architected from the ground up as a truly distributed, multi-tenant cloud with enterprise performance and scale.",
         "CSP_POC_Name": "Stephen Kovac",
         "CSP_POC_Email": "fedramp@zscaler.com",
         "FedRAMP_In-Process_Date": "2017-04-14T04:00:00.000Z",
