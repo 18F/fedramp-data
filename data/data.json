@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2017-05-09T04:51:04.033Z",
+    "Created_At": "2017-05-10T04:51:04.340Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3061,7 +3061,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Proofpoint",
+        "Cloud_Service_Provider_Name": "Proofpoint, Inc.",
         "Cloud_Service_Provider_Package": "Proofpoint Email Archive",
         "Path": "Agency",
         "Designation": "Compliant",
@@ -3077,7 +3077,7 @@
         "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/768px-US-DeptOfTransportation-Seal.svg_.png",
         "Authorizing_Agency": "Department of Transportation",
         "Authorizing_Subagency": "Federal Aviation Administration",
-        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/03/Proofpoint-logo-300x159.jpg",
+        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/05/Proofpoint-Logo.jpg",
         "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/proofpoint-inc-proofpoint-email-archive/",
         "CSP_Website": "www.proofpoint.com",
@@ -3261,34 +3261,6 @@
             "Announcement_Date": "2017-03-16T04:00:00.000Z"
           }
         ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Microsoft",
-        "Cloud_Service_Provider_Package": "Parature Customer Service Application (CSA)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1602237855",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2016-03-11T05:00:00.000Z",
-        "Original_Expiration_Date": "2019-03-11T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Commerce",
-        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfCommerce-Seal.png",
-        "Authorizing_Agency": "Department of Commerce",
-        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/Microsoft-Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/microsoft-parature-customer-service-application-csa/",
-        "CSP_Website": "N/A",
-        "CSO_Description": "The Parature application is Web-based customer service and support software. The Parature Customer Service Application (CSA) integrates a customer portal, rich knowledgebase, ticketing application, service desk, and a host of additional modules in one dynamic, unified system that provides organizations with a comprehensive, multi-channel way to meet the growing expectations of their customers. The SaaS delivery and integrated, intuitive design enable organizations to get up and running quickly, easily and efficiently.",
-        "Announcement_Date": "2016-06-30T04:00:00.000Z",
-        "CSP_POC_Name": "Anwar Kibria",
-        "CSP_POC_Email": "akibria@microsoft.com",
-        "FedRAMP_In-Process_Date": "2016-03-02T05:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "ServiceNow",
@@ -4241,6 +4213,17 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Veris Group, LLC",
             "Announcement_Date": "2017-02-15T05:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2017-05-08T04:00:00.000Z",
+            "Letter_Expiration_Date": "2017-06-09T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-05-08T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Housing Finance Agency",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/11/FHFA-Logo.jpg",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Veris Group, LLC",
+            "Announcement_Date": "2017-05-08T04:00:00.000Z"
           }
         ]
       },
@@ -6249,6 +6232,30 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Northrop Grumman",
+        "Cloud_Service_Provider_Package": "Northrop Grumman Cloud Platform",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1716961549",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Broadcasting Board of Governors",
+        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/03/BBG-Logo.jpg",
+        "Authorizing_Agency": "Broadcasting Board of Governors",
+        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/05/Northrop-Grumman-Logo.jpg",
+        "Independent_Assessor": "Veris Group, LLC",
+        "CSP_Website": "www.northropgrumman.com",
+        "CSO_Description": "The Northrop Grumman Cloud Platform (NGCP) is as a FedRAMP compliant Platform-as-a-Service (PaaS) where it deploys multiple Software-as-a-Service (SaaS) solutions to federal, state and commercial customers. Initially, this includes three Application Modules: Employee Performance Management (ePerformance), Environmental Program Information Management System (EPIMS) / Enterprise Environmental Safety & Occupational Health (EESOH) system, and e.POWER for Business Process Management. Northrop Grumman is deploying multiple NG SaaS products on the same re-usable framework.",
+        "CSP_POC_Name": "Will Berry",
+        "CSP_POC_Email": "NGCPaaS@ngc.com",
+        "FedRAMP_In-Process_Date": "2017-02-23T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "NowForce",
         "Cloud_Service_Provider_Package": "NowForce",
         "Path": "Agency",
@@ -6464,6 +6471,30 @@
         "CSP_POC_Name": "Joe Iannacone",
         "CSP_POC_Email": "jiannacone@ptc.com",
         "FedRAMP_In-Process_Date": "2016-09-12T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Proofpoint, Inc.",
+        "Cloud_Service_Provider_Package": "Proofpoint Email and Information Protection Service",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1720461312",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Federal Communications Commission",
+        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-FCC-Seal.png",
+        "Authorizing_Agency": "Federal Communications Commission",
+        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/05/Proofpoint-Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
+        "CSP_Website": "https://www.proofpoint.com",
+        "CSO_Description": "The Proofpoint Email and Information Protection Service is a powerful cloud email security service that integrates threat protection, virus protection, spam detection, message encryption, data loss prevention (DLP), and digital asset protection technologies into an extensible message management platform. The service is designed to fit easily into existing messaging infrastructure, providing efficient performance, accurate message analysis, and a web-based interface for reporting, configuration, and management tasks.",
+        "CSP_POC_Name": "John Richards",
+        "CSP_POC_Email": "fedramp@proofpoint.com",
+        "FedRAMP_In-Process_Date": "2017-04-03T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
