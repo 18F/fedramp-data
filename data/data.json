@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2017-05-18T04:51:04.342Z",
+    "Created_At": "2017-05-19T04:51:04.348Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3591,7 +3591,7 @@
             "Announcement_Date": "2017-02-13T05:00:00.000Z"
           },
           {
-            "Letter_Date": "4/172017",
+            "Letter_Date": "2017-04-17T04:00:00.000Z",
             "Letter_Expiration_Date": "2018-04-29T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2017-04-28T04:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
@@ -4996,6 +4996,17 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Kratos SecureInfo",
             "Announcement_Date": "2017-03-10T05:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2015-05-15T04:00:00.000Z",
+            "Letter_Expiration_Date": "2018-06-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2015-06-01T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Kratos SecureInfo",
+            "Announcement_Date": "2017-03-10T05:00:00.000Z"
           }
         ]
       },
@@ -5221,13 +5232,16 @@
       {
         "Cloud_Service_Provider_Name": "Accenture",
         "Cloud_Service_Provider_Package": "Accenture Federal Cloud AIP",
-        "Designation": "FedRAMP Ready",
+        "Path": "JAB",
+        "Designation": "In Process",
         "Package_ID": "FR1704369518",
         "Service_Model": [
           "PaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
         "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/05/Accenture-Logo2.jpg",
         "Independent_Assessor": "Veris Group, LLC",
         "CSP_Website": "https://www.accenture.com/us-en/insight-accenture-insights-platform",
@@ -5235,6 +5249,7 @@
         "CSP_POC_Name": "Dorothy Swanson",
         "CSP_POC_Email": "FedRAMP@accenturefederal.com",
         "Fedramp_Ready_Date": "2017-01-19T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2017-05-18T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
