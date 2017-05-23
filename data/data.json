@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2017-05-22T04:51:04.241Z",
+    "Created_At": "2017-05-23T04:51:04.865Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1097,6 +1097,17 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Dynamics Research Corporation",
             "Announcement_Date": "2016-08-30T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2017-03-02T05:00:00.000Z",
+            "Letter_Expiration_Date": "2018-03-06T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-03-06T05:00:00.000Z",
+            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/PBGC-logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Dynamics Research Corporation",
+            "Announcement_Date": "2017-03-06T05:00:00.000Z"
           }
         ]
       },
@@ -2015,15 +2026,15 @@
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Date": "2016-05-12T04:00:00.000Z",
-            "Letter_Expiration_Date": "2017-05-11T04:00:00.000Z",
+            "Letter_Expiration_Date": "2018-05-10T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-05-10T04:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Technical Information Service",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
-            "Announcement_Date": "2016-05-12T04:00:00.000Z"
+            "Announcement_Date": "2017-05-10T04:00:00.000Z"
           }
         ]
       },
@@ -5174,7 +5185,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Socrata",
-        "Cloud_Service_Provider_Package": "Socrata Open Data Platform",
+        "Cloud_Service_Provider_Package": "Socrata Data Platform",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "SOCRATA",
@@ -5195,7 +5206,7 @@
         ],
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/socrata-socrata-open-data-platform/",
         "CSP_Website": "www.socrata.com",
-        "CSO_Description": "Data on its own has value, but that value is enhanced when the data is presented in a consumable, contextual way. Constituents want to know how data relates to them, their family, and their business. From elected officials seeking economic reports, to the young professional waiting for the next bus, or the business entrepreneur looking for a market opportunity that everyone else has missed, data has the power to transform the world we live in and make an impact on everyone’s life.\n\nSocrata Open Data provides an engaging, cloud-based solution for federal agencies and governments of all sizes to transform their data into this kind of vital and vibrant asset. It is the only solution that is dedicated to meeting the needs of data publishers as well as data consumers. With Socrata Open Data, your organization can support the entire lifecycle of data, empower internal employees as well as the overall community, and ensure that all the data shared will be consumed in the most impactful way possible.",
+        "CSO_Description": "Socrata is the market leader in making existing government data discoverable, usable, and actionable for government workers and the people they serve. Socrata provides a data-as-a-service data platform and cloud applications exclusively for city, county, state, and federal government organizations. Socrata delivers unprecedented data-driven innovation and cost-savings for hundreds of public sector leaders and millions of their constituents around the world.\n\nGovernment programs generate massive amounts of data, but most of it is locked away in hard-to-access data silos, including archaic databases. Socrata enables unprecedented data access by bringing together disparate systems and leveraging the cloud to dramatically enhance the effectiveness of government programs, to improve quality of life for residents, positively impact local economies, and achieve excellence in government operations. Socrata solutions are designed and developed to meet strict government standards. The technology is optimized on the Amazon Web Services (AWS) Public Sector cloud and delivered using the exclusive Socrata Blueprint Methodology.",
         "Announcement_Date": "2017-05-15T04:00:00.000Z",
         "CSP_POC_Name": "Jeffrey Newball",
         "CSP_POC_Email": "fedramp-l@socrata.com",
@@ -6627,6 +6638,31 @@
         "CSP_POC_Name": "David Hunt",
         "CSP_POC_Email": "david.hunt@questionmark.com",
         "FedRAMP_In-Process_Date": "2016-07-11T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Rave Mobile Safety",
+        "Cloud_Service_Provider_Package": "Rave Alert",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1722838693",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Energy",
+        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfEnergy-Seal.png",
+        "Authorizing_Agency": "Department of Energy",
+        "Authorizing_Subagency": "Office of Energy Efficiency & Renewable Energy",
+        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/05/Rave-Mobile-Logo.jpg",
+        "Independent_Assessor": "Quantech Services, Inc.",
+        "CSP_Website": " www.ravemobilesafety.com",
+        "CSO_Description": "Rave Mobile Safety is a leading SaaS-based provider of critical communication and emergency data solutions.  The Rave platform connects millions to those trusted to protect them, by providing innovative solutions to prepare better, respond faster, and communicate more effectively across different devices and locations during emergencies.",
+        "CSP_POC_Name": "Todd Piett",
+        "CSP_POC_Email": "fedramp@ravemobilesafety.com",
+        "FedRAMP_In-Process_Date": "2017-05-17T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
