@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2017-05-25T04:51:04.910Z",
+    "Created_At": "2017-05-26T04:51:04.194Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -6402,6 +6402,31 @@
         "CSP_POC_Name": "Assaf Shafran",
         "CSP_POC_Email": "fedramp@nowforce.com",
         "FedRAMP_In-Process_Date": "2016-09-12T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "OnStream Software",
+        "Cloud_Service_Provider_Package": "OneStream XF Cloud",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1721059275",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Private Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of the Treasury",
+        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfTheTreasury-Seal.png",
+        "Authorizing_Agency": "Department of the Treasury",
+        "Authorizing_Subagency": "Bureau of the Fiscal Service",
+        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/05/OneStream-Logo.jpg",
+        "Independent_Assessor": "First Information Technology Services, Inc.",
+        "CSP_Website": "www.onestreamsoftware.com",
+        "CSO_Description": "The OneStream XF Cloud Service Offering is a partnership OneStream Software and Microsoft Azure Cloud Services to provide environment setup services, support, monitoring and configuration services for the cloud software and other administration functions. The OneStream XF Cloud services include the following:\n\n* Monitor Licensee environmental health through Azure alerts.\n* Perform monthly Windows Server updates.\n* Perform OneStream XF Software upgrades.\n* Perform environment resizing (up/down if needed/requested)\n* Notify Licensee of any planned Azzure maintenance windows.\n* Azure configuration of the Site-to-Site VPN or Express Route Connection.",
+        "CSP_POC_Name": "Peter Mills",
+        "CSP_POC_Email": "fedramp_info@onestreamsoftware.com",
+        "FedRAMP_In-Process_Date": "2017-04-07T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
