@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2017-05-30T04:51:04.717Z",
+    "Created_At": "2017-05-31T04:51:04.846Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -127,6 +127,15 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc.",
             "Announcement_Date": "2017-05-12T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2017-05-30T04:00:00.000Z",
+            "Authorizing_Agency": "National Science Foundation",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/NSF.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2017-05-30T04:00:00.000Z"
           }
         ]
       },
@@ -415,7 +424,6 @@
         "Leveraged_ATO_Letters": [
           {
             "Letter_Date": "2014-06-07T04:00:00.000Z",
-            "Letter_Expiration_Date": "2017-06-07T04:00:00.000Z",
             "Authorizing_Agency": "Department of Homeland Security",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/Seal_of_the_United_States_Department_of_Homeland_Security.png",
@@ -1008,7 +1016,6 @@
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2014-06-06T04:00:00.000Z",
-        "Original_Expiration_Date": "2017-06-06T04:00:00.000Z",
         "Sponsoring_Agency": "Department of the Interior",
         "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfTheInterior-Seal.png",
         "Authorizing_Agency": "Department of the Interior",
@@ -1123,7 +1130,6 @@
         "Deployment_Model": "Hybrid Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2014-06-09T04:00:00.000Z",
-        "Original_Expiration_Date": "2017-06-09T04:00:00.000Z",
         "Sponsoring_Agency": "Executive Office of the President",
         "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/Seal_of_the_Executive_Office_of_the_President_of_the_United_States_2014.png",
         "Authorizing_Agency": "Executive Office of the President",
@@ -1166,7 +1172,6 @@
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2014-06-09T04:00:00.000Z",
-        "Original_Expiration_Date": "2017-06-09T04:00:00.000Z",
         "Sponsoring_Agency": "Executive Office of the President",
         "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/Seal_of_the_Executive_Office_of_the_President_of_the_United_States_2014.png",
         "Authorizing_Agency": "Executive Office of the President",
@@ -2244,7 +2249,6 @@
         "Leveraged_ATO_Letters": [
           {
             "Letter_Date": "2014-06-07T04:00:00.000Z",
-            "Letter_Expiration_Date": "2017-06-07T04:00:00.000Z",
             "Authorizing_Agency": "Department of Homeland Security",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/Seal_of_the_United_States_Department_of_Homeland_Security.png",
@@ -4241,7 +4245,6 @@
           },
           {
             "Letter_Date": "2017-05-08T04:00:00.000Z",
-            "Letter_Expiration_Date": "2017-06-09T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2017-05-08T04:00:00.000Z",
             "Authorizing_Agency": "Federal Housing Finance Agency",
             "Agency_POC": "Coming Soon",
@@ -5758,7 +5761,7 @@
         "Sponsoring_Agency": "Department of Health and Human Services",
         "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfHHS-Seal.png",
         "Authorizing_Agency": "Department of Health and Human Services",
-        "Authorizing_Subagency": "United States Federal Emergecy Management Agency",
+        "Authorizing_Subagency": "Federal Emergecy Management Agency",
         "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/05/csc_rgb_pos-300x197.jpg",
         "Stage": "Documentation",
         "Independent_Assessor": "Veris Group, LLC",
@@ -6406,7 +6409,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "OnStream Software",
+        "Cloud_Service_Provider_Name": "OneStream Software",
         "Cloud_Service_Provider_Package": "OneStream XF Cloud",
         "Path": "Agency",
         "Designation": "In Process",
@@ -6427,28 +6430,6 @@
         "CSP_POC_Name": "Peter Mills",
         "CSP_POC_Email": "fedramp_info@onestreamsoftware.com",
         "FedRAMP_In-Process_Date": "2017-04-07T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "OnWire",
-        "Cloud_Service_Provider_Package": "OnCloud",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "F1305072115",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/03/onwire-logo-150x150.png",
-        "Independent_Assessor": "Dakota Consulting, Inc.",
-        "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/fedramp-ready-systems/onwire-oncloud/",
-        "CSP_Website": "www.onwireco.com",
-        "CSO_Description": "OnCloud is an Identity and Access Management (IAM) Software as a Service (SaaS) Platform available to Federal Government and Commercial customers and designed to be hosted in a virtualized, cloud-computing environment. OnCloud user management capabilities include policy-based provisioning, workflow, reporting, auditing, recertification, and self-service.  OnCloud authentication and authorization services include single-sign-on, federation, and strong authentication.\n\nOnCloud can be offered as an Identity Provider (IDP), Service Provider (SP), Broker, or Proxy on behalf of customers.\n\nOnCloud is infrastructure agnostic and can be deployed in a customer’s infrastructure of choice.",
-        "CSP_POC_Name": "Chonly Wang",
-        "CSP_POC_Email": "operations@onwireco.com",
-        "Fedramp_Ready_Date": "2014-11-01T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2014-05-14T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -7205,6 +7186,23 @@
         "Description_of_Consulting_Services": "Dakota provides a comprehensive range of Cybersecurity Services. In an information age world, cyber strategies need to balance strict compliance with operational agility. Our focus is on providing our customers a rapid response that is both compliant and flexible. Our Cybersecurity staff maintain key industry certifications and Dakota is an accredited Federal Risk and Authorization Management Program (FedRAMP) Third Party Assessment Organization (3PAO). Our workforce understands the ever-expanding array of cybersecurity guidance and how to successfully tailor an implementation program to meet specific, unique requirements of various organizations.",
         "Consulting_Services_To": "* Smartronix, Inc\n* Acquia",
         "Additional_Cyber_Frameworks": "* ISO 9001 Registered Firm\n* American Association for Laboratory Accreditation (A2LA) accredited (Certificate No. 3777.01) for Inspection Body under the ISO 17020:2012 Standard"
+      },
+      {
+        "Name": "Deloitte & Touche, LLP",
+        "Accreditation_Date": "2017-03-21T04:00:00.000Z",
+        "Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/05/Deloitte-Logo.jpg",
+        "Description": "Leveraging cloud services to support core functions of a Federal agency’s extended enterprise plays a vital role in helping increase efficiency and drive performance. While the Cloud First Policy has evolved into a strategic initiative for Federal agencies, leveraging cloud service providers (CSPs) introduces new security risks and new challenges in maintaining compliance with FISMA requirements. Deloitte employs a risk-focused approach to support CSPs and Federal agencies in furthering the adoption of cloud services by:\n* Determining FedRAMP readiness\n* Helping to address FedRAMP compliance gaps\n* Preparing FedRAMP artifacts\n* Independently validating compliance with FedRAMP requirements",
+        "POC_Name": "David Strich",
+        "POC_Email": "fedramp@deloitte.com",
+        "website": "www.deloitte.com",
+        "Remediation": "N",
+        "Founded": 1845,
+        "Primary_Office_Locations": "1919 North Lynn Street, Arlington, VA 22209",
+        "FedRAMP_Assessed": "None",
+        "Provide_Consulting_Services": "Y",
+        "Description_of_Consulting_Services": "Deloitte has provided various FedRAMP-related consulting services to commercial CSPs and Federal Cloud environments related to FedRAMP, including FedRAMP readiness assessments and FedRAMP documentation preparation.",
+        "Consulting_Services_To": "Available Upon Request",
+        "Additional_Cyber_Frameworks": "* ISO 27001\n* COBIT\n* PCI\n* HIPAA/HITECH\n* SSAE 16 SOC1/2\n* FISMA/RMF\n* DIACAP\n* NSA Certified Incident Response Assistance Accreditation"
       },
       {
         "Name": "Department of Transportation (DOT) Enterprise Services Center (ESC)",
