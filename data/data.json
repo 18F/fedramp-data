@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2017-07-05T04:51:04.772Z",
+    "Created_At": "2017-07-06T04:51:03.998Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -5458,6 +5458,36 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "FireEye",
+        "Cloud_Service_Provider_Package": "FireEye Email Threat Prevention (ETP) Service",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1512017637",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2017-04-26T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of the Interior",
+        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfTheInterior-Seal.png",
+        "Authorizing_Agency": "Department of the Interior",
+        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/11/FireEye_logo_CMYK-300x87.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONGC"
+        ],
+        "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/fireye-fireye-email-threat-prevention-etp-service/",
+        "CSP_Website": "www.FireEye.com",
+        "CSO_Description": "The FireEye® Email Threat Prevention Cloud is a SaaS offering that not only combats against today’s advanced email attacks but also provides anti-spam and anti-virus protection. As organizations have embraced the cloud for email needs, the Email Threat Prevention Cloud provides complete email security for cloud mailboxes.\n\nOrganizations face an ever-increasing number of threats from email based spam, viruses, and advanced threats. Email-based attacks, in particular spear phishing, remain one of the primary methods used to initiate an advanced persistent threat (APT) attack because of the complexity involved in detecting them. To protect against malicious emails, organizations simply route messages to the Email Threat Prevention Cloud. The cloud analyzes the emails for spam and known viruses first. It then uses the signature-less FireEye Multi-vector Virtual Execution™ (MVX) engine to analyze attachments and URLs to detect threats and stop APT attacks in real time.\n\n**Easy deployment and cross-enterprise protection**\n\nWithout hardware or software to install, the Email Threat Prevention Cloud is a particularly good fit for organizations seeking to move their infrastructure into the cloud. This eliminates the complexity of procuring, installing, and managing a physical infrastructure.\n\nEmail Threat Prevention Cloud integrates with the entire FireEye portfolio for real-time threat intelligence sharing. This rich correlation of threat intelligence provides organizations several unique capabilities, such as:\n\n - Identifying previous targets of spear-phishing emails \n - Locating copies of the malicious email in target inboxes \n - Finding out if the message is being forwarded to new targets\n - Highlighting URLs that become malicious after message delivery\n\nFor added accessibility and ease-of-use, the dashboard shows region- and industry-based malware trends, and audit logging.",
+        "Announcement_Date": "2017-07-05T04:00:00.000Z",
+        "CSP_POC_Name": "Stacey Zeigler",
+        "CSP_POC_Email": "stacey.zeigler@FireEye.com",
+        "FedRAMP_In-Process_Date": "2015-12-02T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Accenture",
         "Cloud_Service_Provider_Package": "Accenture Insights Platform (AIP) For Government",
         "Path": "JAB",
@@ -6239,31 +6269,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "FireEye",
-        "Cloud_Service_Provider_Package": "FireEye Email Threat Prevention (ETP) Service",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "F1512017637",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of the Interior",
-        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfTheInterior-Seal.png",
-        "Authorizing_Agency": "Department of the Interior",
-        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/11/FireEye_logo_CMYK-300x87.jpg",
-        "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
-        "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/fireye-fireye-email-threat-prevention-etp-service/",
-        "CSP_Website": "www.FireEye.com",
-        "CSO_Description": "The FireEye® Email Threat Prevention Cloud is a SaaS offering that not only combats against today’s advanced email attacks but also provides anti-spam and anti-virus protection. As organizations have embraced the cloud for email needs, the Email Threat Prevention Cloud provides complete email security for cloud mailboxes.\n\nOrganizations face an ever-increasing number of threats from email based spam, viruses, and advanced threats. Email-based attacks, in particular spear phishing, remain one of the primary methods used to initiate an advanced persistent threat (APT) attack because of the complexity involved in detecting them. To protect against malicious emails, organizations simply route messages to the Email Threat Prevention Cloud. The cloud analyzes the emails for spam and known viruses first. It then uses the signature-less FireEye Multi-vector Virtual Execution™ (MVX) engine to analyze attachments and URLs to detect threats and stop APT attacks in real time.\n\n**Easy deployment and cross-enterprise protection**\n\nWithout hardware or software to install, the Email Threat Prevention Cloud is a particularly good fit for organizations seeking to move their infrastructure into the cloud. This eliminates the complexity of procuring, installing, and managing a physical infrastructure.\n\nEmail Threat Prevention Cloud integrates with the entire FireEye portfolio for real-time threat intelligence sharing. This rich correlation of threat intelligence provides organizations several unique capabilities, such as:\n\n - Identifying previous targets of spear-phishing emails \n - Locating copies of the malicious email in target inboxes \n - Finding out if the message is being forwarded to new targets\n - Highlighting URLs that become malicious after message delivery\n\nFor added accessibility and ease-of-use, the dashboard shows region- and industry-based malware trends, and audit logging.",
-        "CSP_POC_Name": "Stacey Zeigler",
-        "CSP_POC_Email": "stacey.zeigler@FireEye.com",
-        "FedRAMP_In-Process_Date": "2015-12-02T05:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Forcepoint",
         "Cloud_Service_Provider_Package": "Forcepoint Cloud Security",
         "Path": "Agency",
@@ -6907,7 +6912,7 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Public Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Sponsoring_Agency": "Department of Health and Human Services",
         "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfHHS-Seal.png",
