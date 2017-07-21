@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2017-07-20T04:51:04.418Z",
+    "Created_At": "2017-07-21T04:51:04.125Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -968,17 +968,6 @@
             "Announcement_Date": "2016-05-20T04:00:00.000Z"
           },
           {
-            "Letter_Expiration_Date": "2017-07-09T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-07-09T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Healthcare Management Systems",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2016-07-09T04:00:00.000Z"
-          },
-          {
             "Authorizing_Letter_Last_Sign_Date": "2016-10-07T04:00:00.000Z",
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Defense Information Systems Agency",
@@ -987,6 +976,17 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc.",
             "Announcement_Date": "2016-10-07T04:00:00.000Z"
+          },
+          {
+            "Letter_Expiration_Date": "2018-06-28T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-06-28T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Healthcare Management Systems",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2017-06-28T04:00:00.000Z"
           }
         ]
       },
@@ -7793,6 +7793,23 @@
         "Description_of_Consulting_Services": "When it comes to FedRAMP readiness, advanced preparation and having the right partner is key. Partnering with LBMC means partnering with information assurance experts. As trusted advisors in the FISMA/FedRAMP space, LBMC has the expertise to identify gaps in policy, procedures, processes and technology required for successful FedRAMP certification. LBMC examines the information system’s environment, reviews required documentation and evaluates the CSP against FedRAMP criteria for determining readiness. LBMC also assists CSP’s with developing required documentation including the FedRAMP System Security Plan (SSP) and other associated required documentation in a way that will be acceptable to FedRAMP, thereby avoiding documentation issues later in the process.\n\nDeliverables from the gap assessment include a completed FedRAMP System Security Plan, required policies and procedures, detailed recommendations and assistance with rapid remediation of outstanding issues. LBMC is uniquely qualified to assist CSP’s in every step of their FedRAMP certification journey.\n\n",
         "Consulting_Services_To": "* Druva\n* CollabNet",
         "Additional_Cyber_Frameworks": "* HIPAA\n* HITRUST\n* PCI Data Security Standards\n* Service Organization Control (SOC)\n* SOX/COSO/COBIT\n* FISMA/NIST\n* FedRAMP Assessments\n* CMS Information Security"
+      },
+      {
+        "Name": "Lindford & Company",
+        "Accreditation_Date": "2017-03-13T04:00:00.000Z",
+        "Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/04/Linford-Logo.jpg",
+        "Description": "Linford & Company performs FedRAMP compliance assessments for Cloud Service Providers (CSP) seeking an Agency or Joint Authorization Board (JAB) Authorization to Operate (ATO). Such activities include (but are not limited to) the following:\n\n- Pre-assessment/gap analysis of a CSP’s readiness for the FedRAMP process to include boundary definition review, documentation review and high-priority control implementation reviews\n- Assessment planning and development of the Security Assessment Plan (SAP)\n- Assessment/testing execution against the NIST 800-53 controls and FedRAMP control enhancements\n- Assessment reporting and development of the final package for submission to the FedRAMP Program Management Office (PMO)/Federal Agencies (as applicable)\n- Continuous monitoring of the system after achieving an ATO",
+        "POC_Name": "Ray Dunham",
+        "POC_Email": "fedramp@linfordco.com",
+        "website": "www.lindfordco.com",
+        "Remediation": "N",
+        "Founded": 2008,
+        "Primary_Office_Locations": "1550 Wewatta Street, 2nd Floor Denver, CO 80202",
+        "FedRAMP_Assessed": "None",
+        "Provide_Consulting_Services": "Y",
+        "Description_of_Consulting_Services": "Linford & Company personnel have extensive experience in developing security documentation, performing security engineering and testing activities, and successfully delivering highly complex systems to the federal government under NIST 800-53. Linford and Company will leverage this experience to assist you in achieving a FedRAMP authorization for your Cloud Service Offering (CSO).\n\nConsulting Services include (but are not limited to) the following:\n\n- FedRAMP gap assessment/assessment of CSP preparation to participate in the FedRAMP process with specific remediation recommendations\n- Develop FedRAMP required documentation (from latest FedRAMP templates) including system description, network architecture, and data flow diagrams\n- Design/develop Continuous Monitoring program (to include consulting on technical tools/automation to assist in the Continuous Monitoring process)\n- Other security services/consulting as required/requested (e.g. patch management, system hardening, penetration testing, vulnerability scanning, etc.)",
+        "Consulting_Services_To": "N/A",
+        "Additional_Cyber_Frameworks": "* System and Organization Control (SOC) Audits\n* Health Insurance Portability and Accountability Act (HIPAA)\n* Federal Information Security Management Act (FISMA)"
       },
       {
         "Name": "Logyx, LLC",
