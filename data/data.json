@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2017-08-01T04:51:04.067Z",
+    "Created_At": "2017-08-02T04:51:04.650Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1899,6 +1899,15 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc.",
             "Announcement_Date": "2017-02-09T05:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2017-05-09T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2017-05-09T04:00:00.000Z"
           }
         ]
       },
@@ -5709,6 +5718,31 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "BroadSoft Inc.",
+        "Cloud_Service_Provider_Package": "BroadSoft Government Cloud",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "F1509107286",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "United States Senate",
+        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/08/Senate-Logo.jpg",
+        "Authorizing_Agency": "United States Senate",
+        "Authorizing_Subagency": "Office of the Sergeant at Arms",
+        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/08/Broadsoft-Logo.jpg",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "CSP_Website": "www.broadsoft.com",
+        "CSO_Description": "BroadSoft Government Cloud is a comprehensive cloud-based Unified Communications (UCaaS) solution designed specifically to address the telecommunication and collaboration and needs of government agencies. Ranging from basic voice telephone services to high-definition multipoint video and mobile integration, BroadSoft Government Cloud redefines workplace efficiency in the public sector. Staff can be instantly available via desk phone, PC, tablet or mobile phone, while working from virtually anywhere.",
+        "CSP_POC_Name": "Burke Daidy",
+        "CSP_POC_Email": "fedramp-ug@broadsoft.com",
+        "FedRAMP_In-Process_Date": "2017-07-28T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "ByteGrid",
         "Cloud_Service_Provider_Package": "ByteGrid IaaS Platform",
         "Designation": "FedRAMP Ready",
@@ -6494,7 +6528,7 @@
         "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/NASA_logo.png",
         "Authorizing_Agency": "National Aeronautics and Space Administration",
         "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/02/Jive-Logo.jpg",
-        "Independent_Assessor": "Lunarline",
+        "Independent_Assessor": "Lunarline, Inc.",
         "CSP_Website": "www.jivesoftware.com",
         "CSO_Description": "Jive Software is a provider of communication and collaboration solutions for business, including a suite of collaboration software and an intranet back-end.",
         "CSP_POC_Name": "David Cook",
@@ -7818,7 +7852,7 @@
         "Additional_Cyber_Frameworks": "* HIPAA\n* HITRUST\n* PCI Data Security Standards\n* Service Organization Control (SOC)\n* SOX/COSO/COBIT\n* FISMA/NIST\n* FedRAMP Assessments\n* CMS Information Security"
       },
       {
-        "Name": "Lindford & Company",
+        "Name": "Linford & Company",
         "Accreditation_Date": "2017-03-13T04:00:00.000Z",
         "Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/04/Linford-Logo.jpg",
         "Description": "Linford & Company performs FedRAMP compliance assessments for Cloud Service Providers (CSP) seeking an Agency or Joint Authorization Board (JAB) Authorization to Operate (ATO). Such activities include (but are not limited to) the following:\n\n- Pre-assessment/gap analysis of a CSP’s readiness for the FedRAMP process to include boundary definition review, documentation review and high-priority control implementation reviews\n- Assessment planning and development of the Security Assessment Plan (SAP)\n- Assessment/testing execution against the NIST 800-53 controls and FedRAMP control enhancements\n- Assessment reporting and development of the final package for submission to the FedRAMP Program Management Office (PMO)/Federal Agencies (as applicable)\n- Continuous monitoring of the system after achieving an ATO",
