@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2017-08-04T04:51:04.021Z",
+    "Created_At": "2017-08-05T04:51:04.596Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4745,7 +4745,7 @@
         "CSP_Website": "www.mobileiron.com",
         "CSO_Description": "MobileIron Government Cloud provides Government agencies with a secure foundation to transform their mission-critical operations into Mobile First organizations. With MobileIron, Government agencies can secure and manage data on any device across multiple operating systems such as iOS, Android and Windows.\n\nMobileIron technology automatically provisions enterprise settings such as Wi-Fi and VPN, secures corporate email and email attachments, applications and content delivery for both GSE and BYOD programs. With MobileIron, IT departments can deliver the right resources to authorized personnel while protecting sensitive government data, preserving the privacy of end-user data, and maintaining the native device experience.\n\nMobileIron Government Cloud has been purpose built to provide a cloud-based, scalable architecture that enables rapid deployment and scales up to millions of users. The MobileIron Enterprise Mobility Management (EMM) platform incorporates identity, context, and privacy enforcement to set the appropriate level of access to data and services while allowing IT departments to securely manage their global mobile workforce from a single pane of glass.",
         "Announcement_Date": "2016-12-08T05:00:00.000Z",
-        "CSP_POC_Name": "Brian Mansfield",
+        "CSP_POC_Name": "Chirag Shah",
         "CSP_POC_Email": "fedramp@mobileiron.com",
         "FedRAMP_In-Process_Date": "2015-12-23T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
@@ -4834,6 +4834,16 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc.",
             "Announcement_Date": "2017-05-02T04:00:00.000Z"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2017-07-31T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Internal Revenue Service",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2017-07-31T04:00:00.000Z"
           }
         ]
       },
@@ -6606,6 +6616,26 @@
         "CSP_POC_Name": "David Cook",
         "CSP_POC_Email": "david.cook@jivesoftware.com",
         "FedRAMP_In-Process_Date": "2016-12-22T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Lifeline Data Centers, LLC",
+        "Cloud_Service_Provider_Package": "Lifeline Federal Hosting Services",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "F1605117899",
+        "Service_Model": [
+          "IaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/08/Lifeline-Logo.jpg",
+        "Independent_Assessor": "Price and Associates CPAs, LLC DBA A-LIGN",
+        "CSP_Website": "www.lifelinedatacenters.com",
+        "CSO_Description": "Lifeline Federal Hosting Services (LFHS) is provided as an Infrastructure as a Service (IaaS) or a Platform as a Service (PaaS) service to allow customers to take advantage of authorized LFHS services to meet agency requirements without major capital investments and with reduced technical staff.  LFHS provides a robust and fully managed cloud infrastructure that meets FedRAMP Moderate Baseline requirements.\n \nInfrastructure services offered include:\n\n* Professionally hosted virtual server containers.\n* Professionally managed Operating Systems instances.\n* Professionally managed Microsoft SQL DBMS instances.\n* Managed storage.\n* Managed Internet bandwidth\n* Network edge management or managed firewall services\n* All necessary associated management systems in support of the virtualized infrastructure environment\n* Connectivity to over 20 resident telecommunications/Internet carriers and providers. \n\nThese services are supported by a robust technical infrastructure provided by the hardware and communications components described in 9.2 Information System Components and Boundaries below and by the hosting environment with controls originating from Lifeline’s corporate processes and facilities, including: \n\n* Physical security.\n* Environmental protection: Construction designed to withstand most natural threats. Generators to provide long-term backup power. Uninterruptible power supplies to provide immediate short-term power until the generators are automatically brought on line.\n* Maintenance Connection™ software to support incident response, change management, configuration management, and system maintenance. \n",
+        "CSP_POC_Name": "Rich Banta",
+        "CSP_POC_Email": "fedramp@lldc.net",
+        "Fedramp_Ready_Date": "2017-08-04T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
