@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2017-09-04T04:51:04.241Z",
+    "Created_At": "2017-09-05T04:51:04.632Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -231,6 +231,18 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc.",
             "Announcement_Date": "2016-05-02T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-08-05T04:00:00.000Z",
+            "Letter_Expiration_Date": "2017-08-20T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2016-08-05T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "National Renewable Energy Laboratory",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2016-08-05T04:00:00.000Z"
           },
           {
             "Letter_Date": "2016-09-26T04:00:00.000Z",
@@ -722,6 +734,18 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc.",
             "Announcement_Date": "2016-08-23T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-08-05T04:00:00.000Z",
+            "Letter_Expiration_Date": "2017-08-20T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2016-08-05T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "National Renewable Energy Laboratory",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2016-08-05T04:00:00.000Z"
           },
           {
             "Letter_Date": "2016-09-16T04:00:00.000Z",
@@ -1622,6 +1646,63 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "United States Department of the Treasury",
+        "Cloud_Service_Provider_Package": "Workplace.gov Community Cloud (WC2) ",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "AGENCYWC2",
+        "Service_Model": [
+          "PaaS ",
+          " SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2014-05-06T04:00:00.000Z",
+        "Original_Expiration_Date": "2017-05-06T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of the Treasury",
+        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfTheTreasury-Seal.png",
+        "Authorizing_Agency": "Department of the Treasury",
+        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/02/Department-of-the-Treasury-Seal-300x300.png",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1206061353"
+        ],
+        "FedRAMP_Website_URL": "https://www.fedramp.gov/?p=14022",
+        "CSP_Website": "workplace.gov",
+        "CSO_Description": "The Workplace.gov Community Cloud (WC2) uses a government community cloud deployment model and the cloud computing service model for WC2 is both Platform as a Service (PaaS) and Software as a Service (SaaS). The Infrastructure as a Service (IaaS) provider services leveraged for this solution are Amazon Web Services (AWS) and Akamai Content Delivery Network (CDN). The WC2 system provides a platform for government customers’ systems and applications to allow them the capability to utilize cloud computing hosting environments. This platform supports a range of highly-available web services hosted within AWS and delivered to end-users via the Akamai Content Delivery Network (CDN). The WC2 infrastructure allows Treasury customers to focus on the operational and business aspects of their web presence such as usability, information architecture and content authoring without having to re-invent and configure the technical infrastructure each time.",
+        "Announcement_Date": "2014-05-06T04:00:00.000Z",
+        "CSP_POC_Name": "N/A",
+        "CSP_POC_Email": "N/A",
+        "FedRAMP_In-Process_Date": "2013-11-11T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2014-11-19T05:00:00.000Z",
+            "Letter_Expiration_Date": "2018-01-20T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2015-01-20T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Lunarline, Inc.",
+            "Announcement_Date": "2014-10-30T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2015-03-26T04:00:00.000Z",
+            "Letter_Expiration_Date": "2017-05-06T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2015-03-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Information Systems Agency",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Lunarline, Inc.",
+            "Announcement_Date": "2015-03-26T04:00:00.000Z"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "Adobe",
         "Cloud_Service_Provider_Package": "Adobe Connect Managed Services (ACMS-EW)",
         "Path": "Agency",
@@ -2045,7 +2126,7 @@
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/datapipe-government-solutions-federal-community-cloud-platform/",
         "CSP_Website": "www.datapipe.com/government",
-        "CSO_Description": "The Datapipe Government Solutions Federal Community Cloud Platform (FCCP) provides a unique approach to security that allows federal agencies to have more control and flexibility to meet their unique security needs. This platform is one of the first P-ATOs issued to a PaaS cloud service provider covering management through the virtual operating system.\n\nFCCP brings together the benefits of standardized cloud elements such as common tools, processes, and training while affording agencies a level of flexibility that is not normally available in existing public cloud environments. Government agencies can layer on agency-specific controls in addition to those certified by FedRAMP.\n\nDesigned from the ground up for security sensitive U.S. Government customers, FCCP provides customers with a fully managed cloud environment including:\n\n - Virtual Operating System Administration \n - Continuous Monitoring    \n - Disaster Recovery \n - World-Class Data Centers    \n - Backups \n - Vulnerability Scanning   \n - Multi-factor Authentication    \n - Change and Configuration Management \n - Network and Operating System Patching \n - Performance Monitoring in Real-Time \n - Antivirus    \n - FISMA/FedRAMPSM Security Documentation \n - Secure Cloud Module with the Ability to Support Agency-Specific Controls    \n - Zero-overlap Architecture Allowing for Faster Deployment and Auditing Times \n - Continuous Monitoring                \n - Software-as-a-Service (SaaS) Enablement",
+        "CSO_Description": "The Datapipe Government Solutions Federal Community Cloud Platform (FCCP) provides a unique approach to security that allows federal agencies to have more control and flexibility to meet their unique security needs. This platform is one of the first P-ATOs issued to a PaaS cloud service provider covering management through the virtual operating system.\n\nFCCP brings together the benefits of standardized cloud elements such as common tools, processes, and training while affording agencies a level of flexibility that is not normally available in existing public cloud environments. Government agencies can layer on agency-specific controls in addition to those certified by FedRAMP.\r\n\nDesigned from the ground up for security sensitive U.S. Government customers, FCCP provides customers with a fully managed cloud environment including:\n\n - Virtual Operating System Administration \r\n - Continuous Monitoring    \r\n - Disaster Recovery \r\n - World-Class Data Centers    \r\n - Backups \r\n - Vulnerability Scanning   \r\n - Multi-factor Authentication    \r\n - Change and Configuration  Management \r\n - Network and Operating System Patching \r\n - Performance Monitoring in Real-Time \r\n - Antivirus    \r\n - FISMA/FedRAMPSM Security  Documentation \r\n - Secure Cloud Module with the Ability to Support Agency-Specific Controls    \r\n - Zero-overlap Architecture Allowing for Faster Deployment and Auditing Times \r\n - Continuous Monitoring                \r\n - Software-as-a-Service (SaaS) Enablement",
         "Announcement_Date": "2015-10-09T04:00:00.000Z",
         "CSP_POC_Name": "Dan Tudahl",
         "CSP_POC_Email": "fedrampinfo@datapipe.com",
@@ -2801,17 +2882,6 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc.",
             "Announcement_Date": "2017-06-21T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2017-08-09T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-08-25T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Food and Drug Administration",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2017-08-25T04:00:00.000Z"
           }
         ]
       },
@@ -3095,7 +3165,7 @@
         ],
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/bmc-software-bmc-remedy-fed-saas-bmc-remedy-ondemand-for-public-sector/",
         "CSP_Website": "www.bmc.com",
-        "CSO_Description": "BMC Remedy OnDemand is a market-leading cloud-based ITSM solution that provides anytime, anywhere access to ITIL best practices including self-service, incident and problem management, change and release management, asset and configuration management, and service level management, so you can:\n\n - Deliver ITSM out-of-the-box and configure with drag-and-drop ease.\n - Deploy an intuitive self-service solution accessible on any device   \n - Mobilize the IT workforce with a rich multi-device experience across tablets, smartphones and browsers.\n\nBMC Remedy OnDemand is a leader in the Gartner Magic Quadrant for IT Service Support Management Tools and includes the #1 rated CMDB in the Gartner Critical Capabilities for Configuration Management Databases.\n\nDesigned specifically for government agencies, BMC Remedy OnDemand for Public Sector is hosted in the FedRAMP compliant Amazon Web Services (AWS) cloud and can be tailored to the needs of any agency with rapid implementations, flexible configuration, huge scalability and easy upgrades.",
+        "CSO_Description": "BMC Remedy OnDemand is a market-leading cloud-based ITSM solution that provides anytime, anywhere access to ITIL best practices including self-service, incident and problem management, change and release management, asset and configuration management, and service level management, so you can:\r\n\r\n - Deliver ITSM out-of-the-box and configure with drag-and-drop ease.\r\n - Deploy an intuitive self-service solution accessible on any device   \r\n - Mobilize the IT workforce with a rich multi-device experience across tablets, smartphones and browsers.\r\n\r\nBMC Remedy OnDemand is a leader in the Gartner Magic Quadrant for IT Service Support Management Tools and includes the #1 rated CMDB in the Gartner Critical Capabilities for Configuration Management Databases.\r\n\r\nDesigned specifically for government agencies, BMC Remedy OnDemand for Public Sector is hosted in the FedRAMP compliant Amazon Web Services (AWS) cloud and can be tailored to the needs of any agency with rapid implementations, flexible configuration, huge scalability and easy upgrades.",
         "Announcement_Date": "2016-05-05T04:00:00.000Z",
         "CSP_POC_Name": "Michelle Buckner",
         "CSP_POC_Email": "fedrampinfo@bmc.com",
@@ -3290,17 +3360,6 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Kratos SecureInfo",
             "Announcement_Date": "2016-02-02T05:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2017-08-09T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-08-25T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Food and Drug Administration",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Kratos SecureInfo",
-            "Announcement_Date": "2017-08-25T04:00:00.000Z"
           }
         ]
       },
@@ -3561,28 +3620,6 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc.",
             "Announcement_Date": "2017-02-13T05:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2017-08-22T04:00:00.000Z",
-            "Letter_Expiration_Date": "2018-02-23T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-08-23T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Justice",
-            "Authorizing_Subagency": "United States Marshals Service",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/Seal_of_the_United_States_Department_of_Justice.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2017-08-23T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2017-08-28T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Authorizing_Subagency": "National Nuclear Security Administration / Lawrence Livermore National Laboratory",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2017-08-28T04:00:00.000Z"
           }
         ]
       },
@@ -5202,18 +5239,6 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc.",
             "Announcement_Date": "2017-08-08T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2017-08-18T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-08-18T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-08-18T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Authorizing_Subagency": "National Renewable Energy Laboratory",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2017-08-18T04:00:00.000Z"
           }
         ]
       },
@@ -5686,8 +5711,8 @@
           "F1209051525",
           "F1206061353"
         ],
-        "CSP_Website": "www.docusign.com/federal",
-        "CSO_Description": "DocuSign is a San Francisco- and Seattle-based company that provides electronic signature technology and Digital Transaction Management services to facilitate electronic exchanges of contracts and signed documents. DocuSign’s features include authentication services, user identity management and workflow automation. Signatures processed by DocuSign are comparable to traditional signatures based on the product's compliance with the ESIGN Act as well as the European Union’s Directive 1999/93/EC on electronic signatures.\n\nDocuSign Federal is a SaaS application oriented towards federal government entities. Operated and managed as a government community cloud, DocuSign Federal provides government customers with an enterprise signing service to facilitate paperless workflow management. More information about DocuSign Federal can be found here: [https://www.docusign.com/federal](https://www.docusign.com/solutions/industries/government/federal)",
+        "CSP_Website": "www.docusign.com",
+        "CSO_Description": "DocuSign is a San Francisco- and Seattle-based company that provides electronic signature technology and Digital Transaction Management services to facilitate electronic exchanges of contracts and signed documents. DocuSign’s features include authentication services, user identity management and workflow automation. Signatures processed by DocuSign are comparable to traditional signatures based on the product's compliance with the ESIGN Act as well as the European Union’s Directive 1999/93/EC on electronic signatures.\n\nDocuSign Federal is a SaaS application oriented towards federal government entities. Operated and managed as a government community cloud, DocuSign Federal provides government customers with an enterprise signing service to facilitate paperless workflow management. More information about DocuSign Federal can be found here: [www.docusign.com](www.docusign.com)",
         "Announcement_Date": "2017-08-10T04:00:00.000Z",
         "CSP_POC_Name": "Kathy Ahuja",
         "CSP_POC_Email": "kathy.ahuja@docusign.com",
@@ -5724,93 +5749,36 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "SpringCM",
-        "Cloud_Service_Provider_Package": "SpringCM",
+        "Cloud_Service_Provider_Name": "Oracle",
+        "Cloud_Service_Provider_Package": "Taleo Cloud - U.S. Government Cloud",
         "Path": "Agency",
         "Designation": "Compliant",
-        "Package_ID": "F1605027893",
+        "Package_ID": "F1603227880",
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2017-05-19T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Agriculture",
-        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfAgriculture-Seal2.png",
-        "Authorizing_Agency": "Department of Agriculture",
-        "Authorizing_Subagency": "Animal and Plant Health Inspection Service",
-        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/05/springcm_rgb-300x70.png",
-        "Stage": "TBD",
-        "Independent_Assessor": "Price and Associates CPAs, LLC DBA A-LIGN",
-        "Underlying_CSP_Package_ID": [
-          "F1209051525 "
-        ],
-        "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/springcm-springcm/",
-        "CSP_Website": "https://www.springcm.com/",
-        "CSO_Description": "SpringCM is a secure cloud platform that manages contracts and all types of documents across desktop, mobile, and partner applications like Salesforce. SpringCM goes beyond standard contract and document management with advanced workflows that automate manual tasks and complex processes to speed time-to-revenue. Businesses use SpringCM to optimize collaboration and processes across internal departments, as well as with prospects and customers.",
-        "Announcement_Date": "2017-08-24T04:00:00.000Z",
-        "CSP_POC_Name": "Chris King",
-        "CSP_POC_Email": "cking@springcm.com",
-        "FedRAMP_In-Process_Date": "2015-05-03T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "United States Department of the Treasury",
-        "Cloud_Service_Provider_Package": "Workplace.gov Community Cloud (WC2) ",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "AGENCYWC2",
-        "Service_Model": [
-          "PaaS ",
-          " SaaS"
-        ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2017-08-01T04:00:00.000Z",
-        "Original_Expiration_Date": "2020-08-01T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of the Treasury",
-        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfTheTreasury-Seal.png",
-        "Authorizing_Agency": "Department of the Treasury",
-        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/02/Department-of-the-Treasury-Seal-300x300.png",
-        "Independent_Assessor": "Lunarline, Inc.",
+        "Original_Authorization_Date": "2017-06-13T04:00:00.000Z",
+        "Original_Expiration_Date": "2020-06-13T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Justice",
+        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/Seal_of_the_United_States_Department_of_Justice.png",
+        "Authorizing_Agency": "Department of Justice",
+        "Authorizing_Subagency": "Federal Bureau of Prisons",
+        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/02/Oracle-logo-300x59.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
         "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW",
-          "F1206061353"
+          "F1508277234 "
         ],
-        "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/united-states-department-of-the-treasury-workplace-gov-community-cloud-wc2/",
-        "CSP_Website": "workplace.gov",
-        "CSO_Description": "The Workplace.gov Community Cloud (WC2) uses a government community cloud deployment model and the cloud computing service model for WC2 is both Platform as a Service (PaaS) and Software as a Service (SaaS). The Infrastructure as a Service (IaaS) provider services leveraged for this solution are Amazon Web Services (AWS) and Akamai Content Delivery Network (CDN). The WC2 system provides a platform for government customers’ systems and applications to allow them the capability to utilize cloud computing hosting environments. This platform supports a range of highly-available web services hosted within AWS and delivered to end-users via the Akamai Content Delivery Network (CDN). The WC2 infrastructure allows Treasury customers to focus on the operational and business aspects of their web presence such as usability, information architecture and content authoring without having to re-invent and configure the technical infrastructure each time.",
-        "Announcement_Date": "2014-05-06T04:00:00.000Z",
-        "CSP_POC_Name": "N/A",
-        "CSP_POC_Email": "N/A",
-        "FedRAMP_In-Process_Date": "2013-11-11T05:00:00.000Z",
+        "CSP_Website": "www.oracle.com",
+        "CSO_Description": "Oracle Taleo Cloud services are Oracle’s Software as a Service (SaaS) solution, providing a comprehensive talent management and learning service. Taleo Enterprise Edition offers a comprehensive talent management suite that spans the entire employee lifecycle and helps companies hire, manage, reward, and develop their employees with a full talent management solution for recruiting and on boarding, performance management, employee development and succession planning. Since Taleo Enterprise Edition is built on a single unified platform and delivered on demand, you can implement a single module or the full solution based on your needs. Oracle’s Taleo Learn Cloud offers an employee development and training software solution that supports the learning challenges of large complex enterprises. Taleo Learn links human resources management to learning with Talent Intelligence. The Taleo Learn Cloud Service is a solution for delivering, tracking, managing, and reporting on formal and informal learning. Users have access to learning through a single platform for online, classroom, virtual, and on-the-job training, as well as assessments, blended learning, social learning, and self-reported training. Organizations can design a tailored user experience with complete control of the user interface.",
+        "Announcement_Date": "2017-08-21T04:00:00.000Z",
+        "CSP_POC_Name": "Aaron Erickson",
+        "CSP_POC_Email": "fedrampinfo_us@oracle.com",
+        "Fedramp_Ready_Date": "2016-08-30T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2017-02-17T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2014-11-19T05:00:00.000Z",
-            "Letter_Expiration_Date": "2018-01-20T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2015-01-20T05:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Lunarline, Inc.",
-            "Announcement_Date": "2014-10-30T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2015-03-26T04:00:00.000Z",
-            "Letter_Expiration_Date": "2017-05-06T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2015-03-26T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Information Systems Agency",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Lunarline, Inc.",
-            "Announcement_Date": "2015-03-26T04:00:00.000Z"
-          }
-        ]
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "Accenture",
@@ -6680,30 +6648,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "IBM",
-        "Cloud_Service_Provider_Package": "IBM Talent Management Solutions",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1720041616",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Peace Corps",
-        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/06/Peace-Corps-Logo.jpg",
-        "Authorizing_Agency": "Peace Corps",
-        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/02/IBM-300x120.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://www-03.ibm.com/software/products/en/category/talent-management",
-        "CSO_Description": "IBM Talent Management Solutions has taken a revolutionary step in talent acquisition, offering comprehensive and integrated recruiting software and solutions that are rooted in behavioral science and designed to attract, engage, hire and onboard the right talent. Coupled with strategic services and processes, these solutions incorporate precision into the equation, helping to remove guesswork from the recruitment process. You will be better equipped to predict fit, engagement and performance before you hire.\n\nYou can also foster employee learning and performance by implementing a recruitment strategy for hiring the talent that can to help grow your business. IBM Talent Management Solutions talent acquisition solutions provide the tools for hiring new employees like “your best”. These streamlined hiring efficiencies help to accelerate the new hire time to productivity and engagement, while providing a positive experience for candidates. ",
-        "CSP_POC_Name": "Christopher Baker",
-        "CSP_POC_Email": "ibmtalentmanagementsolutions@wwpdl.vnet.ibm.com",
-        "FedRAMP_In-Process_Date": "2017-06-16T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "IdeaScale",
         "Cloud_Service_Provider_Package": "IdeaScale Gov",
         "Path": "Agency",
@@ -6724,7 +6668,7 @@
         "CSP_POC_Name": "IdeaScale Security Team",
         "CSP_POC_Email": "fedramp@ideascale.com",
         "Fedramp_Ready_Date": "2017-07-13T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2017-07-25T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2016-11-23T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -6748,7 +6692,7 @@
         "CSP_Website": "www.incontact.com",
         "CSO_Description": "inContact, Inc. is the recognized market leader of Contact Center as a Service (CCaaS), helping organizations around the globe create high-quality customer experiences. As the only provider to combine cloud software with an enterprise-class telecommunications network for a complete customer interaction solution, inContact has deployed over 2000 cloud contact center instances. inContact offers a full suite of in-cloud solutions for contact center interactions including Automatic Call Distribution (ACD), Interactive Voice Response (IVR) including an integrated scripting engine, Computer Telephony Integration (CTI), Application Programming Interfaces (API) integration, and reporting.",
         "Expected_Compliance_Date": "2017-08-31T04:00:00.000Z",
-        "CSP_POC_Name": "Bryant Eastham",
+        "CSP_POC_Name": "Samuel Fisher",
         "CSP_POC_Email": "fedramp@incontact.com",
         "FedRAMP_In-Process_Date": "2016-11-17T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
@@ -7412,6 +7356,32 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "SpringCM",
+        "Cloud_Service_Provider_Package": "SpringCM",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "F1605027893",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Agriculture",
+        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfAgriculture-Seal2.png",
+        "Authorizing_Agency": "Department of Agriculture",
+        "Authorizing_Subagency": "Animal and Plant Health Inspection Service",
+        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/05/springcm_rgb-300x70.png",
+        "Stage": "TBD",
+        "Independent_Assessor": "Price and Associates CPAs, LLC DBA A-LIGN",
+        "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/springcm-springcm/",
+        "CSO_Description": "SpringCM is a secure cloud platform that manages contracts and all types of documents across desktop, mobile, and partner applications like Salesforce. SpringCM goes beyond standard contract and document management with advanced workflows that automate manual tasks and complex processes to speed time-to-revenue. Businesses use SpringCM to optimize collaboration and processes across internal departments, as well as with prospects and customers.",
+        "CSP_POC_Name": "Chris King",
+        "CSP_POC_Email": "cking@springcm.com",
+        "FedRAMP_In-Process_Date": "2015-05-03T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "TalaTek, LLC",
         "Cloud_Service_Provider_Package": "Enterprise Compliance Management Solution (ECMS)",
         "Path": "Agency",
@@ -7777,7 +7747,7 @@
         "Accreditation_Date": "2015-07-24T04:00:00.000Z",
         "Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/Dakota-Consulting-Inc-Logo-2016.jpg",
         "Description": "We have successfully completed a wide variety of security projects including:  assessment and authorization; enterprise and system risk management; creation of security program policy, procedures, and documentation; continuous monitoring; independent verification and validation; security training; gap assessments; requirements analysis; FISMA audit; information assurance; and additional activities in support of these broader services. Our expertise, staff certifications, and company credentials allow us to guide our customers’ cybersecurity strategies for maintaining cost effective programs for compliance with FedRAMP, FISMA, Office of Management and Budget (OMB), and other Federal civilian and Department of Defense (DoD) mandates.",
-        "POC_Name": "Felece Whitfield",
+        "POC_Name": "Gary Jacobs",
         "POC_Email": "3pao@dakota-consulting.com",
         "website": "www.dakota-consulting.com",
         "Remediation": "N",
