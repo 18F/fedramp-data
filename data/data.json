@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2017-09-06T19:49:42.850Z",
+    "Created_At": "2017-09-06T19:50:44.996Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -5783,6 +5783,63 @@
         "FedRAMP_In-Process_Date": "2015-05-03T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "United States Department of the Treasury",
+        "Cloud_Service_Provider_Package": "Workplace.gov Community Cloud (WC2)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "AGENCYWC2",
+        "Service_Model": [
+          "PaaS ",
+          " SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2017-08-01T04:00:00.000Z",
+        "Original_Expiration_Date": "2020-08-01T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of the Treasury",
+        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfTheTreasury-Seal.png",
+        "Authorizing_Agency": "Department of the Treasury",
+        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/02/Department-of-the-Treasury-Seal-300x300.png",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1206061353"
+        ],
+        "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/united-states-department-of-the-treasury-workplace-gov-community-cloud-wc2/",
+        "CSP_Website": "workplace.gov",
+        "CSO_Description": "The Workplace.gov Community Cloud (WC2) uses a government community cloud deployment model and the cloud computing service model for WC2 is both Platform as a Service (PaaS) and Software as a Service (SaaS). The Infrastructure as a Service (IaaS) provider services leveraged for this solution are Amazon Web Services (AWS) and Akamai Content Delivery Network (CDN). The WC2 system provides a platform for government customers’ systems and applications to allow them the capability to utilize cloud computing hosting environments. This platform supports a range of highly-available web services hosted within AWS and delivered to end-users via the Akamai Content Delivery Network (CDN). The WC2 infrastructure allows Treasury customers to focus on the operational and business aspects of their web presence such as usability, information architecture and content authoring without having to re-invent and configure the technical infrastructure each time.",
+        "Announcement_Date": "2014-05-06T04:00:00.000Z",
+        "CSP_POC_Name": "N/A",
+        "CSP_POC_Email": "N/A",
+        "FedRAMP_In-Process_Date": "2013-11-11T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2014-11-19T05:00:00.000Z",
+            "Letter_Expiration_Date": "2018-01-20T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2015-01-20T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Lunarline, Inc.",
+            "Announcement_Date": "2014-10-30T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2015-03-26T04:00:00.000Z",
+            "Letter_Expiration_Date": "2017-05-06T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2015-03-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Information Systems Agency",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Lunarline, Inc.",
+            "Announcement_Date": "2015-03-26T04:00:00.000Z"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Accenture",
