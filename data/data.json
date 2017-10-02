@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2017-09-29T04:40:50.576Z",
+    "Created_At": "2017-10-02T14:51:32.415Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -311,6 +311,17 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Kratos SecureInfo",
             "Announcement_Date": "2014-11-20T05:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2015-04-27T04:00:00.000Z",
+            "Letter_Expiration_Date": "2018-04-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2015-04-27T04:00:00.000Z",
+            "Authorizing_Agency": "Library of Congress",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/10/LoC-logo.jpg",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Kratos SecureInfo",
+            "Announcement_Date": "2015-04-27T04:00:00.000Z"
           },
           {
             "Letter_Date": "2016-05-31T04:00:00.000Z",
@@ -2450,7 +2461,6 @@
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "Underlying_CSP_Package_ID": [
           "F1209051525",
-          "F1305012101",
           "F1206061353"
         ],
         "FedRAMP_Website_URL": "https://www.fedramp.gov/?p=13342",
@@ -3277,8 +3287,8 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "VAZATA",
-        "Cloud_Service_Provider_Package": "Virtual Federal Image",
+        "Cloud_Service_Provider_Name": "SAIC",
+        "Cloud_Service_Provider_Package": "SAIC Cloud Infrastructure Service",
         "Path": "JAB",
         "Designation": "Compliant",
         "Package_ID": "F1306132188",
@@ -3293,11 +3303,11 @@
         "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/02/VAZATA-Logo-2.jpg",
         "Independent_Assessor": "Kratos SecureInfo",
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/copt-connect-llc-powered-by-vazata-virtual-federal-image/",
-        "CSP_Website": "www.vazata.com",
-        "CSO_Description": "VAZATA is a managed hosting and Infrastructure-as-a-Service (IaaS) company that provides a Managed Security Cloud Platform to Federal agencies, state and local government and global 1000 businesses. Our Virtual Secure Cloud Platform (VSCP) was designed as a result of changing national security and procurement policies and the growing threats to our nation’s Cybersecurity.  We partner with the leading security ISV’s and service providers to bring to market a fully managed FedRAMP certified marketplace of managed and shared security services that the agencies can buy in a subscription based OPEX model.\n\nWe are able to deliver cloud based solutions such as; managed firewall, endpoint, proxy, DDOS and other security services while maintaining the integrity of sensitive data, and delivering the highest levels of security and compute performance set by FedRAMP’s stringent compliance standards.\n\nVAZATA’s FedRAMP Rev 4 Compliant “Virtual Secure Cloud Platform” (VSP) leverages our long history of delivering proven managed hosting and security services to commercial and government accounts, and has been granted a Provisional Authority to Operate (P-ATO) from the Joint Authorization Board for the Federal Risk and Authorization Management Program (FedRAMP). ",
+        "CSP_Website": "http://www.saic.com/services-solutions/technology-solutions/cloud/",
+        "CSO_Description": "SAIC is a premier technology integration company providing full life-cycle services and solutions in enterprise information technology for federal agencies. We bring a wide range of services to the cloud transformation market, including SAIC Cloud Infrastructure Service, our FedRAMP-compliant secure public cloud platform. A fully hosted and managed Infrastructure-as-a-Service (IaaS), the service is available through a subscription-based OPEX model. \n\nSAIC Cloud Infrastructure Service meets FedRAMP’s stringent compliance standards as a result of evolving national security and procurement policies and the growing threats to our nation’s cybersecurity. The solution encompasses managed firewall, endpoint, proxy, and other security services while maintaining integrity of sensitive data and delivering the highest levels of compute performance in a highly secure cloud environment.\n\nSAIC Cloud Infrastructure Service is part of SAIC’s broad portfolio of cloud assessment, engineering, integration, operations, and managed services solutions. Granted a Provisional Authority to Operate (P-ATO) from FedRAMP’s Joint Authorization Board (JAB), and headquartered in Reston, Virginia, SAIC has a proven history of delivering effective technology solutions to government customers, understanding their unique budget challenges and operational impacts with our deep federal domain knowledge.  ",
         "Announcement_Date": "2016-01-08T05:00:00.000Z",
-        "CSP_POC_Name": "Stephen Kovac",
-        "CSP_POC_Email": "info@vazata.com",
+        "CSP_POC_Name": "Coby Holloway",
+        "CSP_POC_Email": "fedramp@saic.com",
         "FedRAMP_In-Process_Date": "2014-07-08T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
@@ -4379,8 +4389,7 @@
         "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/Microsoft-Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "Underlying_CSP_Package_ID": [
-          "F1603087869",
-          "F1603087868"
+          "F1603087869"
         ],
         "CSP_Website": "https://www.microsoft.com/en-us/dynamics/public-sector.aspx#GovernmentCloud",
         "CSO_Description": "Microsoft CRMOL for Government is a government-community cloud that delivers cloud-based public sector solutions to US federal, state, and local government customers, helping leaders, policymakers, and those they serve achieve greater impact within their communities. With core case management functionality out of the box and a variety of built-for-government solutions available, organizations can focus on tailoring Microsoft Dynamics CRM to meet their unique mission requirements. Agencies can track and manage their constituents online, increase cost efficiency, securely manage data, and offer convenient services and transactions around the clock.  As a Dynamics CRM Online customer, Microsoft values your trust and is committed to protect the privacy and security of your data. Please refer to [https://www.microsoft.com/en-us/TrustCenter/CloudServices/Dynamics](https://www.microsoft.com/en-us/TrustCenter/CloudServices/Dynamics) for more details.",
@@ -5689,9 +5698,6 @@
         "Authorizing_Agency": "JAB Authorization",
         "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/Microsoft-Logo.png",
         "Independent_Assessor": "Kratos SecureInfo",
-        "Underlying_CSP_Package_ID": [
-          "F1305012101"
-        ],
         "FedRAMP_Website_URL": "https://www.fedramp.gov/?p=14162",
         "CSP_Website": "http://azure.microsoft.com/en-us/",
         "CSO_Description": "[Microsoft Azure Government](http://azure.microsoft.com/en-us/features/gov/) is a government-community cloud that offers hyper-scale compute, storage, networking, and identity management services, with world-class [security](http://azure.microsoft.com/en-us/support/trust-center/security/). A physically and network-isolated instance of Microsoft Azure, operated by screened U.S. citizens, Azure Government provides [standards-compliant](http://azure.microsoft.com/en-us/support/trust-center/compliance/) IaaS and PaaS that has now received a [FedRAMP JAB P-ATO](http://azure.microsoft.com/en-us/support/trust-center/compliance/fedramp/).  All services are available immediately for supporting secure US government workloads, including CJIS, IRS 1075 FTI, HIPAA, DoD, and federal agency data.\n\nAzure Government infrastructure is provided by [Microsoft Global Foundation Services](http://www.microsoft.com/en-us/server-cloud/cloud-os/global-datacenters.aspx) (GFS), which has also achieved a FedRAMP JAB P-ATO supporting [in-scope services](http://azure.microsoft.com/en-us/support/trust-center/services/), including Azure Active Directory.\n\nIn addition, the Azure public cloud platform had previously received a FedRAMP JAB P-ATO, enabling government agencies and partners to deploy moderately sensitive data to the cloud. Customers can choose either compliant environment to best meet their needs for security and isolation, with assurance that control requirements are being met by comprehensive continuous monitoring and a standardized approach to risk management in both the public and government-community clouds.\n\nFor additional information, visit the [Microsoft Compliance blog](http://azure.microsoft.com/en-us/blog/azure-government-achieves-significant-compliance-milestones/) and [Azure Trust Center](http://azure.microsoft.com/en-us/support/trust-center/compliance/), or refer to Azure FedRAMP Package ID# F1209051525.\n\nThe following Microsoft services are FedRAMP Authorized and approved by the JAB: KeyVault, ExpressRoute, WebApps, Azure Site Recovery (ASR), Microsoft Azure Backup (MAB), Notification Hubs, Service Bus, StorSimple, Automation, Azure Resource Manager (ARM), Batch, Media Services, Policy Administration Services (PAS), Scheduler, Log Analytics, and Redis Cache.",
