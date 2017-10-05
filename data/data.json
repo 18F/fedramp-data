@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2017-10-04T13:33:21.428Z",
+    "Created_At": "2017-10-05T04:40:50.363Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3042,7 +3042,8 @@
         "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/02/Logo1901-300x161.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "Underlying_CSP_Package_ID": [
-          "F1305072116,AGENCYAMAZONEW"
+          "F1305072116",
+          "AGENCYAMAZONEW"
         ],
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/1901-group-llc-in3sight-service-system-i3ss-in3sight/",
         "CSP_Website": " www.1901group.com",
@@ -3105,33 +3106,6 @@
             "Announcement_Date": "2015-10-14T04:00:00.000Z"
           }
         ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Microsoft",
-        "Cloud_Service_Provider_Package": "Office 365 with International Traffic In Arms (ITAR) Support",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "F1402113099",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Private Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2015-05-13T04:00:00.000Z",
-        "Original_Expiration_Date": "2018-05-13T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Justice",
-        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/Seal_of_the_United_States_Department_of_Justice.png",
-        "Authorizing_Agency": "Department of Justice",
-        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/Microsoft-Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/microsoft-ms-o365-itar/",
-        "CSP_Website": "office.microsoft.com",
-        "CSO_Description": "Microsoft Office 365 with ITAR Support is a Software as a Service offering with government specific instances of several services including Exchange Online, SharePoint Online, and Skype for Business. The government specific instances are designated for the sole use of U.S federal, U.S. government contractors, and Federally Funded Research and Development Centers (FFRDCs). Office 365 delivers customers with familiar productivity, communication and collaboration capabilities all in a service that is reliable, secure and able to rapidly scale up or down to meet variable resource demands.",
-        "CSP_POC_Name": "Melodi Crowley",
-        "CSP_POC_Email": " ",
-        "FedRAMP_In-Process_Date": "2015-03-02T05:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "TIBCO",
@@ -6977,6 +6951,32 @@
         "CSP_POC_Name": "Scott Clarke",
         "CSP_POC_Email": "fedramp@maximus.com",
         "FedRAMP_In-Process_Date": "2017-07-14T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Microsoft",
+        "Cloud_Service_Provider_Package": "Office 365 with International Traffic In Arms (ITAR) Support",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "F1402113099",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Private Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Transportation",
+        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/768px-US-DeptOfTransportation-Seal.svg_.png",
+        "Authorizing_Agency": "Department of Transportation",
+        "Authorizing_Subagency": "Federal Aviation Administration",
+        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/Microsoft-Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/microsoft-ms-o365-itar/",
+        "CSP_Website": "office.microsoft.com",
+        "CSO_Description": "Microsoft Office 365 with ITAR Support is a Software as a Service offering with government specific instances of several services including Exchange Online, SharePoint Online, and Skype for Business. The government specific instances are designated for the sole use of U.S federal, U.S. government contractors, and Federally Funded Research and Development Centers (FFRDCs). Office 365 delivers customers with familiar productivity, communication and collaboration capabilities all in a service that is reliable, secure and able to rapidly scale up or down to meet variable resource demands.",
+        "CSP_POC_Name": "Melodi Crowley",
+        "CSP_POC_Email": " ",
+        "FedRAMP_In-Process_Date": "2015-03-02T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
