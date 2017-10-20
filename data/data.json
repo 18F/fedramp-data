@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2017-10-19T04:40:50.075Z",
+    "Created_At": "2017-10-20T04:40:49.875Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3122,7 +3122,6 @@
         "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/02/Logo1901-300x161.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "Underlying_CSP_Package_ID": [
-          "F1305072116",
           "AGENCYAMAZONEW"
         ],
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/compliant-systems/1901-group-llc-in3sight-service-system-i3ss-in3sight/",
@@ -3961,18 +3960,7 @@
         "CSP_POC_Email": "fedrampinfo@skyhighnetworks.com",
         "Fedramp_Ready_Date": "2016-04-20T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Expiration_Date": "2017-09-16T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Institute of Standards and Technology",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Kratos SecureInfo",
-            "Announcement_Date": "2017-07-18T04:00:00.000Z"
-          }
-        ]
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "Accenture",
@@ -4158,8 +4146,8 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Vasco",
-        "Cloud_Service_Provider_Package": "eSignLive provided by Project Hosts",
+        "Cloud_Service_Provider_Name": "VASCO",
+        "Cloud_Service_Provider_Package": "eSignLive, E-Signature and Digital Signature Service by Project Hosts",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "F1403283529A",
@@ -5026,6 +5014,16 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc.",
             "Announcement_Date": "2017-01-19T05:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2017-07-06T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-07-06T04:00:00.000Z",
+            "Authorizing_Agency": "Social Security Administration",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-SocialSecurityAdmin-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2017-07-06T04:00:00.000Z"
           }
         ]
       },
@@ -6079,7 +6077,7 @@
         "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/03/Druva-Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "Underlying_CSP_Package_ID": [
-          "F1603047866 "
+          "F1603047866"
         ],
         "CSP_Website": "www.druva.com",
         "CSO_Description": "Druva is the leader in cloud backup, data protection, and information management, leveraging the AWS GovCloud to offer a single pane of glass to protect, preserve and discover information - dramatically increasing the availability and visibility of business critical information, while reducing the risk, cost and complexity of managing and protecting it.  Druva’s award-winning solutions intelligently collect data, and unify backup, disaster recovery, archival and governance capabilities onto a single, optimized data set.   As the industry's fastest growing data protection provider, Druva is trusted by over 4,000 global organizations and protects over 25 PB of data.",
@@ -6087,6 +6085,36 @@
         "CSP_POC_Name": "Druva FedRAMP Team",
         "CSP_POC_Email": "fedramp@druva.com",
         "FedRAMP_In-Process_Date": "2017-03-01T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "IdeaScale",
+        "Cloud_Service_Provider_Package": "IdeaScale Gov",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1512017638",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2017-10-13T04:00:00.000Z",
+        "Sponsoring_Agency": "General Services Administration",
+        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/GSAlogo.png",
+        "Authorizing_Agency": "General Services Administration",
+        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/02/Ideascale-Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONGC"
+        ],
+        "CSP_Website": "www.ideascale.com",
+        "CSO_Description": "IdeaScale is an innovation management SaaS provider that uses crowdsourcing to help organizations find and develop the next big thing, whether it's new policies and services or new cost-savings and employee engagement measures, IdeaScale allows organizations to solicit input from personnel and other stakeholders and collaboratively transform that input into actionable project plans.\n\nThe IdeaScale Gov offering provides these innovation management and crowdsourcing capabilities in a secure environment for federal agency use and benefit, allowing agencies to make the most of the collective knowledge of their numbers.",
+        "Announcement_Date": "2017-10-19T04:00:00.000Z",
+        "CSP_POC_Name": "IdeaScale Security Team",
+        "CSP_POC_Email": "fedramp@ideascale.com",
+        "Fedramp_Ready_Date": "2017-07-13T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2017-07-25T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -6225,6 +6253,25 @@
         "CSP_POC_Name": "Virginia Leandro",
         "CSP_POC_Email": "bmc_remedyforce@bmc.com",
         "FedRAMP_In-Process_Date": "2017-03-30T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "BrightWork",
+        "Cloud_Service_Provider_Package": "FedRAMP Project Office JumpStart provided by Project Hosts",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "F1403283529B",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/10/Brightwork-Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.projecthosts.com",
+        "CSO_Description": "BrightWork is the most flexible project management solution with best-practice templates and portfolio management dashboards on SharePoint. BrightWork guarantees greater simplicity for project managers, better visibility for senior executives, and the ability to deliver better and more consistent organizational project management.\n\nThe BrightWork solution is built around a framework that helps organizations implement collaborative project management.  The BrightWork philosophy can be summarized as “Start, Evolve”. This approach to project management makes it easy for organizations to get started quickly with project management, delivering immediate visibility and control, with the flexibility to mature their project management practices as the needs of a project or team change.\n\nWith BrightWork, you can:\n\n**Track portfolios with reporting dashboards**\nPortfolio dashboards in BrightWork give you the visibility into project statuses, resource allocation and new project requests to successfully manage portfolios of projects.\n\n**Manage successful projects with intuitive project management templates**\nThe range of best-practice project management templates in BrightWork lets you get a project up and running very quickly, with the tools to track, manage and deliver better projects.\n\n**Collaborate efficiently with your team and deliver results**\nBrightWork project sites bring all project information together in one place and provide a simple work management system to manage tasks and track work.\n\n**Improve your project management practices**\nWith the BrightWork template management system, it is easy to capture, reuse and deploy new processes to support the continuous improvement of organizational project management.\n\nThe BrightWork [FedRAMP Project Office JumpStart](https://www.brightwork.com/get-started/fedramp-jumpstart) provided by Project Hosts enables their U.S. Federal and State Agency customers to accelerate the successful deployment of project and portfolio management in a secure and dedicated SharePoint environment.",
+        "CSP_POC_Name": "Scott Chapman",
+        "CSP_POC_Email": "info@projecthosts.com",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -6906,31 +6953,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "IdeaScale",
-        "Cloud_Service_Provider_Package": "IdeaScale Gov",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "F1512017638",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "General Services Administration",
-        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/GSAlogo.png",
-        "Authorizing_Agency": "General Services Administration",
-        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/02/Ideascale-Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.ideascale.com",
-        "CSO_Description": "IdeaScale is an innovation management SaaS provider that uses crowdsourcing to help organizations find and develop the next big thing, whether it's new policies and services or new cost-savings and employee engagement measures, IdeaScale allows organizations to solicit input from personnel and other stakeholders and collaboratively transform that input into actionable project plans.\n\nThe IdeaScale Gov offering provides these innovation management and crowdsourcing capabilities in a secure environment for federal agency use and benefit, allowing agencies to make the most of the collective knowledge of their numbers.",
-        "CSP_POC_Name": "IdeaScale Security Team",
-        "CSP_POC_Email": "fedramp@ideascale.com",
-        "Fedramp_Ready_Date": "2017-07-13T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2017-07-25T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "NICE inContact",
         "Cloud_Service_Provider_Package": "NICE inContact CXone Customer Experience Platform",
         "Path": "Agency",
@@ -6989,7 +7011,7 @@
         "Sponsoring_Agency": "Federal Trade Commission",
         "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-FederalTradeCommission-Seal.png",
         "Authorizing_Agency": "Federal Trade Commission",
-        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/10/Innovative-Discovery-Logo.jpg",
+        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/10/Innovative-Discovery-Logo1.jpg",
         "Independent_Assessor": "Lunarline, Inc.",
         "CSP_Website": "www.id-edd.com",
         "CSO_Description": "The Innovative Discovery Government Cloud (ID Gov-Cloud) is a Software as a Service (SaaS)\noffering that provides a secure and scalable environment for government legal document services.\nUtilizing the robust and feature-rich Relativity platform, ID Gov-Cloud offers software services to\nagencies within a secure, scalable, and compliant cloud environment. Agencies can leverage the full\nscope of eDiscovery services within one scalable platform, to include but not limited to: processing,\ndocument review, advanced analytics, assisted review, legal hold services, and production. All these\nservice packages are provided within a secure and user-friendly customer interface. Government\nagencies also leverage the added capabilities of Innovative Discovery’s government project\nmanagement teams and workflows, benefitting from years of experience supporting complex\ngovernment electronic discovery requests.",
@@ -7727,6 +7749,33 @@
         "CSP_POC_Name": "Paul Chadha",
         "CSP_POC_Email": "info@trapwire.com",
         "FedRAMP_In-Process_Date": "2016-02-05T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "United States Department of the Treasury",
+        "Cloud_Service_Provider_Package": "Workplace.gov Community Cloud High (WC2-H)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1801046750",
+        "Service_Model": [
+          "IaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Sponsoring_Agency": "Department of the Treasury",
+        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/02/Department-of-the-Treasury-Seal-300x300.png",
+        "Authorizing_Agency": "Department of the Treasury",
+        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/02/Department-of-the-Treasury-Seal-300x300.png",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "https://www.workplace.gov",
+        "CSO_Description": "The Workplace.gov Community Cloud High (WC2-H) uses a government community cloud deployment model and the cloud computing service model for WC2 is both Platform as a Service (PaaS) and Infrastructure as a Service (IaaS) provider.  Amazon Web Services Gov-cloud (AWS) is leveraged to provide service. The WC2 system provides a platform for government customers’ systems and applications to allow them the capability to utilize cloud computing hosting environments, implement continuous integration and development using modern DevOps tools. The WC2 infrastructure allows Treasury customers to focus on the operational and business aspects of their web presence such as usability, information architecture and content authoring without having to re-invent and configure the technical infrastructure each time.",
+        "CSP_POC_Name": "Kamil Kuza",
+        "CSP_POC_Email": "WC2HELPDESK@treasury.gov",
+        "FedRAMP_In-Process_Date": "2017-03-01T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
