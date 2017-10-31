@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2017-10-31T14:46:08.576Z",
+    "Created_At": "2017-10-31T14:51:06.765Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1375,6 +1375,7 @@
           },
           {
             "Letter_Date": "2014-11-25T05:00:00.000Z",
+            "Letter_Expiration_Date": "2017-11-13T05:00:00.000Z",
             "Authorizing_Agency": "Department of Energy",
             "Authorizing_Subagency": "Energy Information Administration",
             "Agency_POC": "Coming Soon",
@@ -2562,6 +2563,7 @@
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2014-11-13T05:00:00.000Z",
+        "Original_Expiration_Date": "2017-11-13T05:00:00.000Z",
         "Sponsoring_Agency": "Department of Health and Human Services",
         "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfHHS-Seal.png",
         "Authorizing_Agency": "Department of Health and Human Services",
@@ -3160,17 +3162,6 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc.",
             "Announcement_Date": "2015-06-11T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2015-07-13T04:00:00.000Z",
-            "Letter_Expiration_Date": "2018-07-13T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2015-07-13T04:00:00.000Z",
-            "Authorizing_Agency": "Corporation for National and Community Service",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/cncs_1.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2015-07-13T04:00:00.000Z"
           }
         ]
       },
@@ -7814,25 +7805,6 @@
         "CSP_POC_Name": "David Aderonpe",
         "CSP_POC_Email": "sec-compliance@splunk.com",
         "FedRAMP_In-Process_Date": "2017-03-22T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "SumTotal Systems",
-        "Cloud_Service_Provider_Package": "SumTotal Enterprise Learning Management System (ELMS)",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR1723260506",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/10/SumTotal-Logo.jpg",
-        "Independent_Assessor": "Paragon Technology Group",
-        "CSP_Website": "http://www.sumtotalsystems.com",
-        "CSO_Description": "SumTotal provides customers with web based employee and vendor training/educational assets, student assignments, personnel management and reporting capabilities. It also provides training.",
-        "CSP_POC_Name": "Edward Zaval",
-        "Fedramp_Ready_Date": "2017-10-26T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
