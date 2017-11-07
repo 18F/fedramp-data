@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2017-11-06T05:40:50.437Z",
+    "Created_At": "2017-11-07T05:40:49.951Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3093,16 +3093,16 @@
             "Announcement_Date": "2017-07-14T04:00:00.000Z"
           },
           {
-            "Letter_Date": "2017-03-29T04:00:00.000Z",
-            "Letter_Expiration_Date": "2017-10-02T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-03-31T04:00:00.000Z",
+            "Letter_Date": "2017-09-30T04:00:00.000Z",
+            "Letter_Expiration_Date": "2018-09-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-11-03T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Treasury",
             "Authorizing_Subagency": "Office of the Comptroller of the Currency",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfTheTreasury-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2017-03-29T04:00:00.000Z"
+            "Announcement_Date": "2017-11-03T04:00:00.000Z"
           }
         ]
       },
@@ -3633,18 +3633,6 @@
             "Announcement_Date": "2016-09-23T04:00:00.000Z"
           },
           {
-            "Letter_Date": "2016-10-21T04:00:00.000Z",
-            "Letter_Expiration_Date": "2017-10-24T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-10-21T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Authorizing_Subagency": "Office of the Comptroller of the Currency",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2016-10-21T04:00:00.000Z"
-          },
-          {
             "Letter_Date": "2017-01-03T05:00:00.000Z",
             "Letter_Expiration_Date": "2017-12-31T05:00:00.000Z",
             "Authorizing_Agency": "Department of State",
@@ -3707,6 +3695,18 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc.",
             "Announcement_Date": "2016-11-24T05:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2017-10-24T04:00:00.000Z",
+            "Letter_Expiration_Date": "2018-10-24T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-10-30T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Office of the Comptroller of the Currency",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2017-10-30T04:00:00.000Z"
           }
         ]
       },
@@ -7100,7 +7100,7 @@
         "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/09/ID.me-Logo.jpg",
         "Independent_Assessor": "Lunarline, Inc.",
         "CSP_Website": "https://www.id.me",
-        "CSO_Description": "The ID.me Identity Gateway provides a FICAM accredited Credential Service Provider (CSP) capability at Levels of Assurance 1, 2,3, a double-blinded credential broker capable of federating logins from external CSPs, and an attribute exchange capable of federating attributes from registration authorities. The Identity Gateway delivers assertions via standardized identity protocols: SAML 2.0, OAuth 2.0, and OpenID Connect. The service aligns to the principles of the National Strategy for Trusted Identities in Cyberspace and NIST SP 800-63-3. ",
+        "CSO_Description": "ID.me is the next-generation digital identity platform providing trusted and convenient interactions between individuals and organizations. Government agencies and commercial partners use ID.me for online identity proofing and authentication to ensure their platforms and users are protected from fraud and identity theft. The platform brings together best-in-class identity and fraud vendors into a comprehensive, easy-to-deploy solution for partners.\n\nID.me’s identity platform meets the highest standards for online identity proofing and authentication, without compromising access for hard-to-identify groups. The platform uses a combination of remote verification of physical IDs, mobile network operator data, fraud algorithms, and FIDO U2F capabilities to securely verify a user’s identity.\n\nThe ID.me Identity Gateway provides a FICAM accredited Credential Service Provider (CSP) capability at Levels of Assurance 1, 2,3, a double-blinded credential broker capable of federating logins from external CSPs, and an attribute exchange capable of federating attributes from registration authorities. The Identity Gateway delivers assertions via standardized identity protocols: SAML 2.0, OAuth 2.0, and OpenID Connect. The service aligns with the principles of the National Strategy for Trusted Identities in Cyberspace and NIST SP 800-63-3.",
         "CSP_POC_Name": "Lee Aber",
         "CSP_POC_Email": "leea@id.me",
         "Fedramp_Ready_Date": "2017-09-22T04:00:00.000Z",
@@ -7382,8 +7382,8 @@
         "FedRAMP_Website_URL": "https://www.fedramp.gov/marketplace/in-process-systems/new-relic/",
         "CSP_Website": "www.newrelic.com",
         "CSO_Description": "New Relic is a software analytics company that makes sense of billions of metrics about millions of applications in real time. New Relic’s comprehensive SaaS-based solution provides one powerful interface for web and native mobile applications and consolidates the performance monitoring data for any chosen technology in an environment. There are thousands of active customer accounts using New Relic’s cloud solution every day to optimize more than 200 billion metrics for 3 million applications. New Relic is pioneering a new category called Software Analytics.",
-        "Expected_Compliance_Date": "2017-10-31T04:00:00.000Z",
-        "CSP_POC_Name": "Ingrid Choy-Harris",
+        "Expected_Compliance_Date": "TBD",
+        "CSP_POC_Name": "Ray Cruz",
         "CSP_POC_Email": "fedrampinfo@newrelic.com",
         "FedRAMP_In-Process_Date": "2016-03-16T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
