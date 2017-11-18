@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2017-11-17T05:40:49.856Z",
+    "Created_At": "2017-11-18T05:40:49.794Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -6370,6 +6370,26 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Axon",
+        "Cloud_Service_Provider_Package": "Axon Evidence.com",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR1703752011",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/11/Axon-Logo.jpg",
+        "Independent_Assessor": "EY",
+        "CSP_Website": "www.axon.com",
+        "CSO_Description": "Axon Evidence.com is the central hub of the Axon Network and acts as a central repository for customers' digital evidence and a central management console for Axon products and devices. Axon Evidence.com enables cloud based workflows for the management and sharing of digital evidence to support the operational needs of the public safety market.",
+        "CSP_POC_Name": "Gregory Hewes",
+        "CSP_POC_Email": "infosec@axon.com",
+        "Fedramp_Ready_Date": "2017-11-17T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Axway, Inc.",
         "Cloud_Service_Provider_Package": "Syncplicity",
         "Path": "Agency",
@@ -7278,7 +7298,7 @@
         "Independent_Assessor": "EmeSec Incorporated",
         "CSP_Website": "www.lookout.com/gov",
         "CSO_Description": "Lookout Mobile Endpoint Security is an enterprise-grade mobile security solution that provides comprehensive risk management across mobile devices, including iOS and Android, to secure against application, device, and network-based threats while providing visibility and control over data leakage. The Lookout Mobile Endpoint Security suite enables government agencies to secure the organization from mobile threats, identify and control non-compliant mobile apps that pose data leakage risks, and gain visibility into mobile endpoints. Lookout empowers government agencies to adopt secure mobility across personal and GFE devices without compromising productivity.",
-        "CSP_POC_Name": "Joseph Leung",
+        "CSP_POC_Name": "Tim LeMaster",
         "CSP_POC_Email": "fedramp@lookout.com",
         "Fedramp_Ready_Date": "2017-01-13T05:00:00.000Z",
         "FedRAMP_In-Process_Date": "2017-03-08T05:00:00.000Z",
@@ -7345,7 +7365,7 @@
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
-        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/02/MIS-Sciences-Logo.jpg",
+        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/11/MIS-GovPoint-Logo.jpg",
         "Independent_Assessor": "LBMC",
         "CSP_Website": "http://govpoint.cloud/",
         "CSO_Description": "A veteran-owned small business, GovPoint Cloud Services Platform as a Service (PaaS) provides a fast track to achieving the benefits of utilizing FedRAMP authorized cloud environments. With GovPoint managed infrastructure and platform services, including network administration and incident response measures, agencies can avoid time and resource constraints while quickly moving systems and applications to a secure cloud.  \n\nGovPoint provides reduced infrastructure overhead PLUS reduced operational impact. Built on maintaining the most current knowledge base of industry best practices, security compliance standards and many years of real-world cloud migration experience, GovPoint delivers optimized cloud platforms customized to maximize agency cost efficiencies.\n\nSetting up and maintaining a cloud environment involves myriad tasks such as virtual machine and network provisioning, operating system hardening and maintenance, security patch updates and firewall rules management. Ensuring that a platform is configured for optimal system performance can be complex. These responsibilities may be time consuming and become a definitive drain on internal resources, especially when factoring in potential knowledge gaps. GovPoint PaaS will take on those responsibilities. Management and administration of the infrastructure is a major component of the GovPoint platform layer, allowing organizations to concentrate on other pressing priorities. And when issues of any kind arise, the GovPoint team is always available for prompt, reliable resolution support.\n\nGovPoint Cloud Services – Your Platform to Success.",
@@ -7950,29 +7970,6 @@
         "CSP_POC_Name": "Kamil Kuza",
         "CSP_POC_Email": "WC2HELPDESK@treasury.gov",
         "FedRAMP_In-Process_Date": "2017-03-01T05:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "VBrick",
-        "Cloud_Service_Provider_Package": "VBrick Rev",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "F1605107898",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Low",
-        "Sponsoring_Agency": "Department of Commerce",
-        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfCommerce-Seal.png",
-        "Authorizing_Agency": "Department of Commerce",
-        "Authorizing_Subagency": "United States Patent and Trademark Office",
-        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/05/vbrick-logo-300x71.png",
-        "CSO_Description": "Rev enables organizations to securely and efficiently deliver high quality live and on-demand video to huge audiences internally, using the organization’s wide area network, and externally via the cloud. Features of Rev include, the central management of video assets, user access and permissions, network delivery devices, and video publishing and distribution—in the most bandwidth-efficient way possible.",
-        "CSP_POC_Name": "Todd Kistner",
-        "CSP_POC_Email": "todd.kistner@vbrick.com",
-        "FedRAMP_In-Process_Date": "2016-05-11T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
