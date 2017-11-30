@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2017-11-29T05:40:50.325Z",
+    "Created_At": "2017-11-30T05:40:50.429Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4341,7 +4341,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Google",
-        "Cloud_Service_Provider_Package": "Google Services",
+        "Cloud_Service_Provider_Package": "Google G Suite",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "F1206081364",
@@ -4358,7 +4358,7 @@
         "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/02/Google_2015_logo.svg_.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "https://gsuite.google.com/",
-        "CSO_Description": "Google Services is comprised of Google’s multi-tenant public and hybrid G Suite (formerly Google Apps) cloud instances and multi-tenant public cloud Google Apps Engine. These services are built atop the Google Common Infrastructure. G Suite is a Software-as-a-Service (SaaS) cloud deployment model that allows customers the ability to communicate, store files and collaborate.\n\n**The FedRAMP in-process (tentative, subject to change, and approval does not include services currently authorized in the GSA ATO) Google Cloud Platform Services are:**\n\n1. **Big Data**: BigQuery, Genomics, Cloud Dataflow, Cloud Dataproc, Cloud Pubsub, Cloud Datalab.\n2. **Compute**: Compute Engine, Container Engine, Container Registry, App Engine flexible environment, Cloud Functions.\n3. **Storage & Databases**: Cloud Storage, Cloud SQL, Cloud Bigtable, Cloud Spanner\n4. **Machine Learning**: Machine Learning Platform, Cloud Jobs API, Natural Language API, Speech API, Translate API, Vision API, Cloud Video Intelligence API\n5. **Networking**: Cloud CDN (Content Delivery Network), Cloud DNS (Domain Name Service), Cloud Load Balancing, Cloud Virtual Network Core\n6. **Management Tools**: Stackdriver Logging, Error Reporting, Stackdriver Trace, Debugger, Deployment Manager, Cloud Endpoints, Cloud Shell, Cloud Mobile App, Cloud Billing API\n7. **Developer Tools**: Cloud SDK, Container Builder, Cloud Source Repositories, DLP API\n8. **Identity & Security Tools**: Cloud Identify-Aware Proxy, Cloud Resource Manager, Cloud Security Scanner, Cloud Key Management Service, Google Service Control (Chemist), Cloud Launcher, Cloud IAM\n\nThe following G Suite editions are FedRAMP authorized: G Suite Basic, G Suite Business, G Suite for Education, G Suite Enterprise, G Suite for Nonprofits and G Suite for Governments.\n\nThe following G Suite services are FedRAMP authorized: Gmail (incl. Talk), Hangouts, Calendar, Drive, Docs, Sheets, Slides, Forms, Drawings, Vault, Sites, Groups, Contacts, Classroom, Cloud Search (formerly Springboard), Keep and Admin Console.\n\nGoogle App Engine is a Platform-as-a-Service (PaaS) cloud deployment model, providing customers an environment to easily build, run and manage their applications on Google’s infrastructure.\n\nThe following Google Cloud Platform services are FedRAMP authorized: App Engine, Cloud Datastore, Cloud Storage (limited to operation with Google App Engine) and Developers Console.",
+        "CSO_Description": "Google G Suite (formerly, Google Apps) is comprised of Google’s multi-tenant public and hybrid cloud instances.\n\nThe following G Suite editions are FedRAMP authorized: G Suite Basic, G Suite Business, G Suite for Education, G Suite Enterprise, G Suite for Nonprofits and G Suite for Governments.\n\nThe following G Suite services are FedRAMP authorized: Gmail (incl. Talk), Hangouts, Calendar, Drive, Docs, Sheets, Slides, Forms, Drawings, Vault, Sites, Groups, Contacts, Classroom, Cloud Search, Keep, Admin Console, Admin SDK, Docs APIs, and Android and Chrome Device Management.\n\nGoogle App Engine is a Platform-as-a-Service (PaaS) cloud deployment model, providing customers an environment to easily build, run and manage their applications on Google’s infrastructure.\n\nThe following Google Cloud Platform services are FedRAMP authorized: App Engine, Cloud Datastore, Cloud Storage (limited to operation with Google App Engine) and Developers Console. All of Google Cloud Platform is currently going through a FedRAMP JAB P-ATO review.",
         "Announcement_Date": "2016-01-22T05:00:00.000Z",
         "CSP_POC_Name": "Google FedRAMP Team",
         "CSP_POC_Email": "fedramp@google.com",
@@ -7004,6 +7004,30 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Google",
+        "Cloud_Service_Provider_Package": "Google Services",
+        "Path": "JAB",
+        "Designation": "In Process",
+        "Package_ID": "FR1805751477",
+        "Service_Model": [
+          "IaaS, PaaS, ",
+          " SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Joint Authorization Board",
+        "Authorizing_Agency": "Joint Authorization Board",
+        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/02/Google_2015_logo.svg_.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://cloud.google.com",
+        "CSO_Description": "Google Services is comprised of Google’s multi-tenant public cloud Google Cloud Platform and built atop the Google Common Infrastructure. The Google Common Infrastructure powers Google worldwide.The in-scope Google Cloud Platform services are:\n\nThe in-scope Google Cloud Platform services are:\n\n**Big Data**: BigQuery, Genomics, Cloud Dataflow, Cloud Dataproc, Cloud Pubsub, Cloud Datalab.\n**Compute**: Compute Engine, Container Engine, Container Registry, App Engine flexible environment, Cloud Functions.\n**Storage & Databases**: Cloud Storage, Cloud SQL, Cloud Bigtable, Cloud Spanner\n**Machine Learning**: Machine Learning Platform, Cloud Jobs API, Natural Language API, Speech API, Translate API, Vision API, Cloud Video Intelligence API\n**Networking**: Cloud CDN (Content Delivery Network), Cloud DNS (Domain Name Service), Cloud Load Balancing, Cloud Virtual Network Core\n**Management Tools**: Stackdriver Logging, Error Reporting, Stackdriver Trace, Debugger, Deployment Manager, Cloud Endpoints, Cloud Shell, Cloud Mobile App, Cloud Billing API\n**Developer Tools**: Cloud SDK, Container Builder, Cloud Source Repositories, DLP API\n**Identity & Security Tools**: Cloud Identify-Aware Proxy, Cloud Resource Manager, Cloud Security Scanner, Cloud Key Management Service, Google Service Control (Chemist), Cloud Launcher, Cloud IAM",
+        "CSP_POC_Name": "Google FedRAMP Team",
+        "CSP_POC_Email": "fedramp@google.com",
+        "FedRAMP_In-Process_Date": "2017-11-17T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Hewlett Packard Enterprise",
         "Cloud_Service_Provider_Package": "Cloud File Management (CFM) for Public Sector",
         "Designation": "FedRAMP Ready",
@@ -7328,7 +7352,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Microsoft",
-        "Cloud_Service_Provider_Package": "Office 365 with International Traffic In Arms (ITAR) Support",
+        "Cloud_Service_Provider_Package": "Office 365 with International Traffic In Arms (ITAR) Support - Defense",
         "Path": "Agency",
         "Designation": "In Process",
         "Package_ID": "F1402113099",
@@ -7337,10 +7361,9 @@
         ],
         "Deployment_Model": "Private Cloud",
         "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Transportation",
+        "Sponsoring_Agency": "Department of Justice",
         "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/768px-US-DeptOfTransportation-Seal.svg_.png",
-        "Authorizing_Agency": "Department of Transportation",
-        "Authorizing_Subagency": "Federal Aviation Administration",
+        "Authorizing_Agency": "Department of Justice",
         "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/Microsoft-Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "office.microsoft.com",
@@ -8064,6 +8087,30 @@
         "CSP_POC_Name": "Jimmy Chang",
         "CSP_POC_Email": "federal@workspot.com",
         "FedRAMP_In-Process_Date": "2017-01-30T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Zapproved LLC",
+        "Cloud_Service_Provider_Package": "Legal Hold Pro",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1722561386",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of the Interior",
+        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/US-DeptOfTheInterior-Seal.png",
+        "Authorizing_Agency": "Department of the Interior",
+        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/11/Zapproved-Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.zapproved.com ",
+        "CSO_Description": "**Legal Hold Pro** by Zapproved is the leading SaaS e-discovery software solution designed to enable government agencies’ legal teams to streamline and strengthen the data preservation stage of e-discovery through the automation of legal hold notifications (“holds”) and compliance tracking. Legal Hold Pro’s multi-step process is scalable, repeatable, consistent and efficient from hold notification through custodian response and collection. The application has been designed from the ground up to ensure that data is safe and secure using industry best practices. Zapproved’s system has been evaluated for use by world-leading companies and it meets their demanding requirements of data security. \n\nLegal Hold Pro software provides an agency with capabilities such as:\n\n - **Draft and Issue Hold Notification** - Draft holds in minutes using customizable and pre-approved templates and easily add recipients to be notified.\n - **Collect Responses by Recipients** - Recipients are obliged to affirmatively acknowledge their compliance with the hold notification, which is made easy with Legal Hold Pro’s “one-click” acceptance.     \n - **Interview Recipients by Online Questionnaires** - Rather than calling or meeting with custodians individually, the legal team can “interview” recipients efficiently and in a timely manner.\n - **Send Routine Reminders and Updates** -  Legal Hold Pro also manages required reminders and updates over the life of legal hold, often lasting several years.   \n - **Maintain a Thorough Audit Trail** - The software time stamps each action and maintains detailed records, including revisions, so the legal team can demonstrate its good faith efforts and ensure defensibility.\n\nIn addition to the above-stated workflow, the software offers the following additional benefits:\n\n - **Data Security** - Designed and maintained to the highest levels of data security, including availability within Amazon Web Services GovCloud, and backed up with industry-leading SOC2 Type 2 certfication. \n - **Intuitive User Interface** - ADA compliant and accessible to non-technical users. Training takes just few hours.\n - **Connectivity** - The application's robust API enables it to seamlessly integrate with other business systems such as HR databases and data archives. \n - **Rapid Implementation** -  Many customers are fully operational in less than a week.   \n - **Scalability** - Cloud computing architecture scales with growth regardless of how many users need to access the software or the volume of holds change.\n - **Customer Experience** - Dedicated onboarding and ongoing support, multi-tiered implementation plans that suit any agency size and frequent updates with innovative features.\n",
+        "CSP_POC_Name": "Yupeng Ji",
+        "CSP_POC_Email": "fedramp@zapproved.com ",
+        "FedRAMP_In-Process_Date": "2017-11-29T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
