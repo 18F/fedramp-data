@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2017-12-01T05:40:50.649Z",
+    "Created_At": "2017-12-02T05:40:50.806Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -6302,6 +6302,33 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "PTC",
+        "Cloud_Service_Provider_Package": "PTC Cloud Services",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1608097919",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2017-10-27T04:00:00.000Z",
+        "Original_Expiration_Date": "2018-02-01T05:00:00.000Z",
+        "Sponsoring_Agency": "National Aeronautics and Space Administration",
+        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/NASA_logo.png",
+        "Authorizing_Agency": "National Aeronautics and Space Administration",
+        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/09/PTC-Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.ptc.com/services/cloud",
+        "CSO_Description": "PTC Cloud Services offers a SaaS solution that provides PLM (Product Lifecycle Management), SLM (Service Lifecycle Management), and IoT (Internet of Things) tools.\n\nThe PTC SaaS solution provides a comprehensive suite of applications which allow its users to create and collaborate in a secure and reliable manner; sharing product development, operation, manufacturing, service and support information.\n\nPTC Cloud Services enables you to focus on your mission while we rapidly deploy, manage and optimize your PTC solutions by providing PTC software expertise with a full breadth of coverage including application administration and platform management in a secure infrastructure.",
+        "Announcement_Date": "2017-12-01T05:00:00.000Z",
+        "CSP_POC_Name": "Tom Wollard",
+        "CSP_POC_Email": "twollard@ptc.com",
+        "FedRAMP_In-Process_Date": "2016-09-12T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Aconex Limited",
         "Cloud_Service_Provider_Package": "Aconex Collaboration Platform for Project Information and Process Management",
         "Path": "Agency",
@@ -6630,7 +6657,7 @@
           "F1206081364"
         ],
         "CSP_Website": "www.cloudlock.com",
-        "CSO_Description": "The CloudLock® Security Fabric™ is the cloud-native Cloud Access Security Broker (CASB) and Cloud Cybersecurity Platform that helps federal agencies securely leverage the cloud for apps they buy and build. CloudLock delivers security for any cloud application and platform, including IaaS, PaaS, and IDaaS and orchestrates security across your existing investments.\n\nCloudLock is a frictionless solution that deploys in minutes to protect cloud applications and provides codeless security for custom-built apps, while having zero impact on end users. CloudLock provides actionable cybersecurity intelligence across an organization’s entire cloud infrastructure.\n\nCloudLock provides organizations capabilities such as:\n - Compromised Accounts (UEBA) - CloudLock uses advanced machine  learning to detect anomalies in account usage, in addition to identifying activities outside of whitelisted countries and actions across distances in an impossible amount of time. \n - Data Breaches (Cloud DLP) - CloudLock protects organizations against data breaches in any cloud environment and app through a  highly-configurable data  loss prevention engine. Featuring countless out-of-the-box policies  and a wide range of automated, policy-driven response actions such as  file-level encryption and  quarantine, and end-user notifications,    CloudLock provides unparalleled coverage of cloud traffic.   \n - Cloud-Native Malware (Apps Firewall) - The CloudLock Apps Firewall    discovers and controls malicious cloud apps connected to your  corporate environment, and   provides a crowd-sourced Community Trust Rating to identify individual app risk. \n - Compliance (Reporting/Policy) - CloudLock enables organizations to satisfy compliance mandates within any cloud environment through countless out-of-the-box policies designed to address regulations including NIST 800-53, as well as highly-configurable custom policies.",
+        "CSO_Description": "Cisco Cloudlock is the cloud-native Cloud Access Security Broker (CASB) that helps accelerate use of the cloud. Cisco Cloudlock secures your cloud users, data, and apps, combating account compromises, data breaches, and cloud app ecosystem risks, while facilitating compliance through a simple, open, and automated API-driven approach.\n\nCisco Cloudlock is a simple, open, and automated solution that combats cloud account compromises, malicious insiders, data breaches, compliance violations, and cloud app ecosystem risks. With crowd-sourced security analytics across billions of data points, advanced machine learning, and the data scientist-led CyberLab, Cisco Cloudlock provides actionable cybersecurity intelligence that provides visibility and control over the most critical cloud security risks.\n\n**Cloud User Security:** Cross-platform User and Entity Behavior Analytics (UEBA) for SaaS, IaaS, PaaS, and IDaaS environments leverages advanced machine learning algorithms to detect anomalies. Cloudlock can also detect activities outside of whitelisted countries and actions across distances at impossible speeds. \n\n**Cloud Data Security:** Cloud Data Loss Prevention (DLP) continuously monitors cloud environments to detect and secure sensitive information through countless out-of-the-box policies as well as highly-tunable custom policies. Automated response actions can remediate risk in the event of a policy violation, including end-user notifications, encryption, transfer of ownership, quarantine, and more. \n\n**Cloud App Security:** The Cisco Cloudlock Apps Firewall discovers cloud apps connected via OAuth to your corporate environment, and provides a crowd-sourced Community Trust Rating for individual apps, as well as the ability to ban or whitelist them based on risk profile and access scope, increase employee awareness with email alerts, and revoke apps in bulk across the entire user base.",
         "Expected_Compliance_Date": "2017-09-29T04:00:00.000Z",
         "CSP_POC_Name": "Ian Riopel",
         "CSP_POC_Email": "cisco.cloudlock-fedramp@cisco.com",
@@ -7346,6 +7373,7 @@
         "CSO_Description": "The MAXIMUS Intelligent Assistant (MIA) is a Hosted Interactive Voice Response (HIVR) system that is designed to offer best in class automated voice service to the general public calling for assistance with Government applications. MIA utilizes automation to gather caller intent and questions, and provide responses. When the automation does not understand information received from the caller, the snippet of information is delivered instantaneously to a human Intent Analyst (IA). The IA will hear the “utterance”, inform the system of the caller’s response or intent, and allow the HIVR to continue through the Government’s defined application.",
         "CSP_POC_Name": "Scott Clarke",
         "CSP_POC_Email": "fedramp@maximus.com",
+        "Fedramp_Ready_Date": "2017-12-01T05:00:00.000Z",
         "FedRAMP_In-Process_Date": "2017-07-14T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
@@ -7650,30 +7678,6 @@
         "CSP_POC_Name": "Phill Bakker",
         "CSP_POC_Email": "CloudSales@pega.com",
         "FedRAMP_In-Process_Date": "2016-06-23T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "PTC",
-        "Cloud_Service_Provider_Package": "PTC Cloud Services",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "F1608097919",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "National Aeronautics and Space Administration",
-        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/NASA_logo.png",
-        "Authorizing_Agency": "National Aeronautics and Space Administration",
-        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/09/PTC-Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.ptc.com/services/cloud",
-        "CSO_Description": "PTC Cloud Services offers a SaaS solution that provides PLM (Product Lifecycle Management), SLM (Service Lifecycle Management), and IoT (Internet of Things) tools.\n\nThe PTC SaaS solution provides a comprehensive suite of applications which allow its users to create and collaborate in a secure and reliable manner; sharing product development, operation, manufacturing, service and support information.\n\nPTC Cloud Services enables you to focus on your mission while we rapidly deploy, manage and optimize your PTC solutions by providing PTC software expertise with a full breadth of coverage including application administration and platform management in a secure infrastructure.",
-        "CSP_POC_Name": "Joe Iannacone",
-        "CSP_POC_Email": "jiannacone@ptc.com",
-        "FedRAMP_In-Process_Date": "2016-09-12T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
