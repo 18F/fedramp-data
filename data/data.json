@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2017-12-04T05:40:49.926Z",
+    "Created_At": "2017-12-05T05:40:50.288Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2552,18 +2552,6 @@
             "Announcement_Date": "2015-03-24T04:00:00.000Z"
           },
           {
-            "Letter_Date": "2015-03-26T04:00:00.000Z",
-            "Letter_Expiration_Date": "2017-11-13T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2015-03-26T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Information Systems Agency",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2015-03-26T04:00:00.000Z"
-          },
-          {
             "Letter_Date": "2015-06-24T04:00:00.000Z",
             "Letter_Expiration_Date": "2018-06-24T04:00:00.000Z",
             "Authorizing_Agency": "Tennessee Valley Authority",
@@ -2867,6 +2855,17 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc.",
             "Announcement_Date": "2017-09-22T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2017-12-03T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-12-03T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Information Systems Agency",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2017-12-03T05:00:00.000Z"
           }
         ]
       },
@@ -6329,6 +6328,37 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Cisco Systems Inc.",
+        "Cloud_Service_Provider_Package": "Cisco Cloudlock for Government",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1605107897",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2017-11-14T05:00:00.000Z",
+        "Sponsoring_Agency": "General Services Administration",
+        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/GSAlogo.png",
+        "Authorizing_Agency": "General Services Administration",
+        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/09/CloudLock-Logo.jpg",
+        "Independent_Assessor": "Kratos SecureInfo",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1508207205",
+          "F1206081364"
+        ],
+        "CSP_Website": "www.cloudlock.com",
+        "CSO_Description": "Cisco Cloudlock is the cloud-native Cloud Access Security Broker (CASB) that helps accelerate use of the cloud. Cisco Cloudlock secures your cloud users, data, and apps, combating account compromises, data breaches, and cloud app ecosystem risks, while facilitating compliance through a simple, open, and automated API-driven approach.\n\nCisco Cloudlock is a simple, open, and automated solution that combats cloud account compromises, malicious insiders, data breaches, compliance violations, and cloud app ecosystem risks. With crowd-sourced security analytics across billions of data points, advanced machine learning, and the data scientist-led CyberLab, Cisco Cloudlock provides actionable cybersecurity intelligence that provides visibility and control over the most critical cloud security risks.\n\n**Cloud User Security:** Cross-platform User and Entity Behavior Analytics (UEBA) for SaaS, IaaS, PaaS, and IDaaS environments leverages advanced machine learning algorithms to detect anomalies. Cloudlock can also detect activities outside of whitelisted countries and actions across distances at impossible speeds. \n\n**Cloud Data Security:** Cloud Data Loss Prevention (DLP) continuously monitors cloud environments to detect and secure sensitive information through countless out-of-the-box policies as well as highly-tunable custom policies. Automated response actions can remediate risk in the event of a policy violation, including end-user notifications, encryption, transfer of ownership, quarantine, and more. \n\n**Cloud App Security:** The Cisco Cloudlock Apps Firewall discovers cloud apps connected via OAuth to your corporate environment, and provides a crowd-sourced Community Trust Rating for individual apps, as well as the ability to ban or whitelist them based on risk profile and access scope, increase employee awareness with email alerts, and revoke apps in bulk across the entire user base.",
+        "Announcement_Date": "2017-12-04T05:00:00.000Z",
+        "CSP_POC_Name": "Ian Riopel",
+        "CSP_POC_Email": "cisco.cloudlock-fedramp@cisco.com",
+        "FedRAMP_In-Process_Date": "2016-05-05T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Aconex Limited",
         "Cloud_Service_Provider_Package": "Aconex Collaboration Platform for Project Information and Process Management",
         "Path": "Agency",
@@ -6632,36 +6662,6 @@
         "CSP_POC_Name": "Terry Redding",
         "CSP_POC_Email": "tredding@cfigroup.com",
         "FedRAMP_In-Process_Date": "2016-08-25T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Cisco Systems Inc.",
-        "Cloud_Service_Provider_Package": "Cisco Cloudlock for Government",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "F1605107897",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "General Services Administration",
-        "Sponsoring_Agency_Logo": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2016/08/GSAlogo.png",
-        "Authorizing_Agency": "General Services Administration",
-        "CSP_URL": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2017/09/CloudLock-Logo.jpg",
-        "Independent_Assessor": "Kratos SecureInfo",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW",
-          "F1508207205",
-          "F1206081364"
-        ],
-        "CSP_Website": "www.cloudlock.com",
-        "CSO_Description": "Cisco Cloudlock is the cloud-native Cloud Access Security Broker (CASB) that helps accelerate use of the cloud. Cisco Cloudlock secures your cloud users, data, and apps, combating account compromises, data breaches, and cloud app ecosystem risks, while facilitating compliance through a simple, open, and automated API-driven approach.\n\nCisco Cloudlock is a simple, open, and automated solution that combats cloud account compromises, malicious insiders, data breaches, compliance violations, and cloud app ecosystem risks. With crowd-sourced security analytics across billions of data points, advanced machine learning, and the data scientist-led CyberLab, Cisco Cloudlock provides actionable cybersecurity intelligence that provides visibility and control over the most critical cloud security risks.\n\n**Cloud User Security:** Cross-platform User and Entity Behavior Analytics (UEBA) for SaaS, IaaS, PaaS, and IDaaS environments leverages advanced machine learning algorithms to detect anomalies. Cloudlock can also detect activities outside of whitelisted countries and actions across distances at impossible speeds. \n\n**Cloud Data Security:** Cloud Data Loss Prevention (DLP) continuously monitors cloud environments to detect and secure sensitive information through countless out-of-the-box policies as well as highly-tunable custom policies. Automated response actions can remediate risk in the event of a policy violation, including end-user notifications, encryption, transfer of ownership, quarantine, and more. \n\n**Cloud App Security:** The Cisco Cloudlock Apps Firewall discovers cloud apps connected via OAuth to your corporate environment, and provides a crowd-sourced Community Trust Rating for individual apps, as well as the ability to ban or whitelist them based on risk profile and access scope, increase employee awareness with email alerts, and revoke apps in bulk across the entire user base.",
-        "Expected_Compliance_Date": "2017-09-29T04:00:00.000Z",
-        "CSP_POC_Name": "Ian Riopel",
-        "CSP_POC_Email": "cisco.cloudlock-fedramp@cisco.com",
-        "FedRAMP_In-Process_Date": "2016-05-05T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -7032,7 +7032,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Google",
-        "Cloud_Service_Provider_Package": "Google Services",
+        "Cloud_Service_Provider_Package": "Google Services (Google Cloud Platform Products and underlying Infrastructure)",
         "Path": "JAB",
         "Designation": "In Process",
         "Package_ID": "FR1805751477",
