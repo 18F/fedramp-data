@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2017-12-22T05:40:50.529Z",
+    "Created_At": "2017-12-23T05:40:50.150Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -7913,6 +7913,29 @@
         "CSP_POC_Name": "Alfred Wong",
         "CSP_POC_Email": "alfred.wong@replicon.com",
         "FedRAMP_In-Process_Date": "2016-06-08T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Ricoh USA, Inc.",
+        "Cloud_Service_Provider_Package": "Ricoh Government Cloud (RGC)",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR1721260553",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Ricoh%20Logo.jpg",
+        "Independent_Assessor": "Kratos SecureInfo",
+        "Underlying_CSP_Package_ID": [
+          "F1603087869"
+        ],
+        "CSP_Website": "www.ricoh-usa.com/en/ediscovery",
+        "CSO_Description": "Ricoh USA, Inc. has been providing litigation support, document scanning, production and eDiscovery for the Federal Government, Fortune 500, Legal Industry and the AMLaw 200 for more than 25 years. We have supported organizations with offices and departments across the United States, hosting individual datasets of nearly two terabytes and accommodating over one hundred users concurrently. \n\nThe Ricoh Government Cloud (RGC) utilizes data hosting services in Microsoft’s Azure Government Cloud which is FedRAMP certified (Provisional Authorization (PA) for Microsoft – Azure Government Cloud, June 21, 2016) with a deployment of Relativity’s application suite supporting its eDiscovery review platform services. Ricoh is the proud recipient of the Relativity Orange Level Best in Service Award for 2013, 2014, 2015, 2016 and 2017 – successful in every certification audit since becoming eligible in 2013.\n\nVarious technologies and processes including data analysis, computer assisted review, customized workflow, comprehensive Electronically Stored Information (ESI) reporting, conceptual searches and clustering are utilized to assist in reviewing ESI in an efficient and defensible manner. Relativity offers an analytics index for email threading, near duplicates and concept clustering.  Relativity is an online review tool that is accessed through an Internet browser – all the current versions of Chrome, Firefox and Safari. No additional client side software installation is required.\n\nRicoh USA, Inc. has a very scalable solution for data storage with the ability to increase the storage environment within one business day of notification to meet any anticipated project requirements. The database system supports a multi-tier architecture with the ability to fully employ load-balancing and fail-over capabilities of the application. Logical segregation of client data and associated workspace is core to our multi-tenant SaaS environment.",
+        "CSP_POC_Name": "David Greetham",
+        "CSP_POC_Email": "ediscoverysales@ricoh-usa.com",
+        "Fedramp_Ready_Date": "2017-12-20T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
