@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-02-14T05:40:50.990Z",
+    "Created_At": "2018-02-15T05:40:50.029Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2319,16 +2319,6 @@
             "Announcement_Date": "2015-09-30T04:00:00.000Z"
           },
           {
-            "Letter_Date": "2016-06-02T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-06-03T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2016-06-02T04:00:00.000Z"
-          },
-          {
             "Letter_Date": "2017-03-03T05:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Institute of Standards and Technology",
@@ -3072,6 +3062,16 @@
             "Announcement_Date": "2017-07-14T04:00:00.000Z"
           },
           {
+            "Letter_Expiration_Date": "2019-11-10T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2016-11-10T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2016-11-10T05:00:00.000Z"
+          },
+          {
             "Letter_Date": "2017-09-30T04:00:00.000Z",
             "Letter_Expiration_Date": "2018-09-30T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2017-11-03T04:00:00.000Z",
@@ -3536,17 +3536,6 @@
             "Announcement_Date": "2016-05-19T04:00:00.000Z"
           },
           {
-            "Letter_Date": "2016-08-10T04:00:00.000Z",
-            "Letter_Expiration_Date": "2018-02-10T05:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Authorizing_Subagency": "Bureau of Safety and Enivronmental Enforcement",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2016-08-10T04:00:00.000Z"
-          },
-          {
             "Letter_Date": "2016-08-17T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2016-08-30T04:00:00.000Z",
             "Authorizing_Agency": "General Services Administration",
@@ -3693,6 +3682,16 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc.",
             "Announcement_Date": "2018-02-02T05:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2018-02-12T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Authorizing_Subagency": "Bureau of Safety and Enivronmental Enforcement",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2018-02-12T05:00:00.000Z"
           }
         ]
       },
@@ -6786,29 +6785,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "BMC Software",
-        "Cloud_Service_Provider_Package": "BMC Remedyforce",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "F1506166767",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Education",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-        "Authorizing_Agency": "Department of Education",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/BMC%20Remedyforce%20Logo.jpg",
-        "CSP_Website": "http://www.bmc.com/it-solutions/remedyforce.html?vu=remedyforce",
-        "CSO_Description": "**PRODUCT DESCRIPTION**\n\nRemedyforce is an IT service management solution built on the Salesforce.com platform that combines best-practice aligned process automation with a simple, easy-to-use experience for maximum IT productivity and innovation. Remedyforce is designed to remove complexity and help you quickly realize value.\n\n**BUSINESS CHALLENGE**\n\nToday’s businesses are completely dependent on technology to gain and maintain a competitive advantage. This increased reliance on technology means there’s greater pressure on IT service organizations to keep pace with an unprecedented degree of business change. However, many IT organizations are struggling to meet these new demands because the technology and processes they have in place are inflexible and\naligned to business operations of the past. \n\nTo keep up with the evolving needs of the business, IT service organizations need modern, flexible, and intuitive service and support technology that facilitates the flow of information among people, teams, and departments. The solution must be fast to deploy, easy to maintain, and painless to adapt and integrate.\n\n**BMC SOLUTION**\n\nBuilt with speed and flexibility in mind, Remedyforce is the ideal service and support solution for the modern IT ecosystem. For organizations looking to simplify their infrastructures and run high-speed IT with a focus on value, Remedyforce is the perfect fit.\n\n**KEY FEATURES**\n\nRemedyforce provides comprehensive IT service management and ITIL© functionality to help IT run at the speed of business.\n - Key ITIL processes, including incident, problem, change, service level management, self-service, discovery, and asset management\n -  Social, mobile, and collaborative capabilities make connecting people and information easy\n -  Innovative asset lifecycle management capabilities for proactive management to reduce costs and improve data consistency while mitigating risks\n - The stability of the world’s leading cloud platform, Salesforce.com, helps you realize value and reduce ongoing maintenance\n - Out of the box integrations to today’s core business technologies, including BMC solutions and Salesforce.com offerings, as well as 2,500+ Salesforce.com AppExchange solutions\n",
-        "CSP_POC_Name": "Virginia Leandro",
-        "CSP_POC_Email": "bmc_remedyforce@bmc.com",
-        "FedRAMP_In-Process_Date": "2017-03-30T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "BrightWork",
         "Cloud_Service_Provider_Package": "FedRAMP Project Office JumpStart provided by Project Hosts",
         "Designation": "FedRAMP Ready",
@@ -8335,7 +8311,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "VBrick",
+        "Cloud_Service_Provider_Name": "VBrick Systems, Inc.",
         "Cloud_Service_Provider_Package": "VBrick Rev",
         "Path": "Agency",
         "Designation": "In Process",
@@ -8756,7 +8732,7 @@
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Emesec%20Logo.jpg",
         "Description": "As a 3PAO, EmeSec Incorporated delivers testing services.  Our objective capabilities, certified by A2LA, meet the FedRAMP PMO requirements.  We offer to our clients the ability to obtain subscriptions services at a discount in addition to initial 3PAO testing.  We have developed a unique offering for FedRAMP Ready as a 3PAO and as a small business, our testing services provide valuable feedback to the CSP including the plans of actions and milestones for continual improvement in the CSP continuous monitoring process.",
         "POC_Name": "Maria Horton",
-        "POC_Email": "contact@emesec.net",
+        "POC_Email": "info@emesec.net",
         "website": "www.emesec.net",
         "Remediation": "N",
         "Founded": 2003,
