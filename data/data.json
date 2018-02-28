@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-02-27T05:40:50.178Z",
+    "Created_At": "2018-02-28T05:40:50.200Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2834,7 +2834,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Virtustream%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.virtustream.com",
-        "CSO_Description": "xStream, our secure, high-performance cloud software, is available as software, as an appliance, and as a managed service, enabling robust hybrid cloud deployments, tailored to the needs of enterprise users. xStream uses innovative and patented Virtustream µVMTM technology, which supports multiple hypervisors, enables granular billing and chargeback, and is up to 30% more efficient than traditional virtualization. xStream works with existing hardware and virtualization software.\n\nxStream enables enterprises to run private clouds, manage hybrid clouds and use managed services. xStream enables service providers to offer enterprise cloud services and governments to run secure public clouds – all backed by workload performance SLAs, consumption pricing and cloud efficiency.",
+        "CSO_Description": "Virtustream Federal Cloud is an Infrastructure as a Service that allows organizations to cut costs from their most expensive and time-consuming mission-critical applications. Powered by our innovative xStream cloud management platform, Virtustream’s true consumption-based pricing model allows federal government IT departments to only pay for what they use—improving economics beyond basic virtualization, and freeing up budgetary funding to be allocated to other areas.\n\nOur xStream cloud management software can also be deployed on any x86-based infrastructure, giving agencies the efficiency where it's needed—all with a single interface for management and control. Agencies can deploy applications where they are required, saving costs across the entire hybrid landscape.\n\nMore information can be found at [https://www.virtustream.com/cloud/virtustream-federal-cloud] (https://www.virtustream.com/cloud/virtustream-federal-cloud) ",
         "Announcement_Date": "2015-06-09T04:00:00.000Z",
         "CSP_POC_Name": "Kevin Bookman",
         "CSP_POC_Email": "kevin.bookman@virtustream.com",
@@ -3171,6 +3171,18 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Kratos SecureInfo",
             "Announcement_Date": "2017-08-25T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2018-02-26T05:00:00.000Z",
+            "Letter_Expiration_Date": "2021-02-26T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-02-27T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "Los Alamos National Laboratory",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Kratos SecureInfo",
+            "Announcement_Date": "2018-02-27T05:00:00.000Z"
           }
         ]
       },
@@ -3864,7 +3876,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Amazon",
-        "Cloud_Service_Provider_Package": "AWS GovCloud High",
+        "Cloud_Service_Provider_Package": "AWS GovCloud",
         "Path": "JAB",
         "Designation": "Compliant",
         "Package_ID": "F1603047866",
@@ -7131,6 +7143,30 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "DNAnexus, Inc.",
+        "Cloud_Service_Provider_Package": "DNAnexus Platform",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1814557199",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/DNAnexus%20Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
+        "CSP_Website": "https://www.dnanexus.com/",
+        "CSO_Description": "The DNAnexus Platform is a public cloud analysis and data management platform for processing high-throughput molecular data; for combining molecular, clinical, and real-world data to discover relationships relevant to patient and population health, precision medicine, drug discovery and regulatory approval; and for enabling a network of government, academic, and commercial collaborators to securely form research communities. DNAnexus presents a Platform-as-a-Service including a brandable, customizable web interface, and an API for integration with upstream and downstream systems such as Laboratory Information Management, Clinical Trial Management, Electronic Data Capture, and clinical interpretation and reporting systems.\n\n[https://precision.fda.gov/](https://precision.fda.gov/) the FDA's web service for collaborative advancement of regulatory standards for Next Generation Sequencing-based drugs and devices, is enabled by the DNAnexus Platform API, leveraging the Platform's secure and compliant analysis and data management services to deliver a fit-for-purpose interface to a secure community of researchers from government, academic, and commercial sectors.",
+        "CSP_POC_Name": "DNAnexus Compliance Team",
+        "CSP_POC_Email": "compliance@dnanexus.com",
+        "FedRAMP_In-Process_Date": "2018-02-21T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "DOMA Technologies, LLC",
         "Cloud_Service_Provider_Package": "DOMA Software Platform",
         "Designation": "FedRAMP Ready",
@@ -8011,7 +8047,7 @@
         "Designation": "In Process",
         "Package_ID": "F1503096502",
         "Service_Model": [
-          "IaaS"
+          "IaaS, SaaS"
         ],
         "Deployment_Model": "Hybrid Cloud",
         "Impact_Level": "Moderate",
@@ -8022,7 +8058,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/ORock%20Technologies%20Logo.jpg",
         "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
         "CSP_Website": "http://orocktech.com",
-        "CSO_Description": "ORockCloud provides a secure, highly scalable and available, bi-coastal cloud environment with elastic, on-demand access to computing, storage, virtualization, networking, performance monitoring, and applications in ORock’s service catalog. It is built on ORock’s private, carrier-grade encrypted dark fiber network to maximize security and performance. As a Red Hat® Certified Cloud & Service Provider (CCSP), ORock's “pure-play” open source environment delivers enhanced flexibility, security and control.   Additional information is available at [http://orocktech.com](http://orocktech.com).\n\nThe following services are In Process for FedRAMP authorization from the DoD:  Red Hat Enterprise Linux® along with OpenStack®, Ceph, CloudForms, Ansible Tower, Satellite and all associated cloud APIs, ORock FaaS, and ORock VirtualClouds.",
+        "CSO_Description": "ORockCloud provides a secure, highly scalable and available, bi-coastal cloud environment with elastic, on-demand access to computing, storage, virtualization, networking, performance monitoring, and applications in ORock’s service catalog. It is built on ORock’s private, carrier-grade encrypted dark fiber network to maximize security and performance. As a Red Hat® Certified Cloud & Service Provider (CCSP), ORock's “pure-play” Red Hat-supported open source environment delivers enhanced flexibility, security and control.   Additional information is available at [http://orocktech.co](http://orocktech.com). \n\nThe following services are In Process for FedRAMP authorization from the DoD:  the Red Hat Cloud Suite, including Enterprise Linux®, Red Hat Virtualization, OpenStack®, Ceph®, CloudForms®, Ansible Tower®, Satellite® and all associated cloud APIs.  In addition, ORock provides SaaS offering and services including ORock’s Federal Authorization Services (FaS) and ORock VirtualClouds.”",
         "CSP_POC_Name": "John Conniff",
         "CSP_POC_Email": "fedramp@orocktech.com",
         "FedRAMP_In-Process_Date": "2018-02-22T05:00:00.000Z",
@@ -9316,9 +9352,9 @@
         "Accreditation_Date": "2015-11-09T05:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Vencore%20Logo.jpg",
         "Description": "Services include:\n1. FedRAMP Pre-Assessment Review and Gap Analysis\n2. FedRAMP Security Assessment\n3. FedRAMP Ongoing Assessment & Authorization (Continuous Monitoring Services)",
-        "POC_Name": "Viswa Kumar",
-        "POC_Email": "3pao@vencore.com",
-        "website": "www.vencore.com",
+        "POC_Name": "LaTara Allen",
+        "POC_Email": "3PAO@vencore.com",
+        "website": "www.vencore.com/fedramp-3PAO",
         "Remediation": "N",
         "Founded": 2014,
         "Primary_Office_Locations": "* 15052 Conference Center Drive, Chantilly, VA 20151 (HQ) \n* 11091 Sunset Hills Road Suite 300, Reston, VA 20190  (3PAO Office)",
