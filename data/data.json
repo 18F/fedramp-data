@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-02-28T05:40:50.200Z",
+    "Created_At": "2018-03-01T05:40:49.877Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -626,6 +626,17 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "SecureIT",
             "Announcement_Date": "2016-12-01T05:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2018-02-12T05:00:00.000Z",
+            "Letter_Expiration_Date": "2021-02-16T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-02-16T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Transportation",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "SecureIT",
+            "Announcement_Date": "2018-02-16T05:00:00.000Z"
           }
         ]
       },
@@ -2245,6 +2256,17 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc.",
             "Announcement_Date": "2017-09-14T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2017-12-19T05:00:00.000Z",
+            "Letter_Expiration_Date": "2020-12-19T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-12-26T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Labor",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2017-12-26T05:00:00.000Z"
           }
         ]
       },
@@ -2653,6 +2675,17 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc.",
             "Announcement_Date": "2017-12-21T05:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2017-12-19T05:00:00.000Z",
+            "Letter_Expiration_Date": "2020-12-19T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-12-26T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Labor",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2017-12-26T05:00:00.000Z"
           }
         ]
       },
@@ -3324,6 +3357,17 @@
         "FedRAMP_In-Process_Date": "2014-04-07T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2013-06-12T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2013-07-11T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "Oak Ridge National Laboratory",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2016-02-17T05:00:00.000Z"
+          },
           {
             "Letter_Date": "2016-04-01T04:00:00.000Z",
             "Letter_Expiration_Date": "2019-04-01T04:00:00.000Z",
@@ -6650,6 +6694,30 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Symantec Corporation",
+        "Cloud_Service_Provider_Package": "Symantec™ Email Security Service – Government, powered by Datapipe",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "F1510137547A",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Joint Authorization Board",
+        "Authorizing_Agency": "Joint Authorization Board",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Symantec%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://www.symantec.com/",
+        "CSO_Description": "Symantec™ Email Security Service – Government delivers inbound and outbound email security, with effective and accurate real-time antispam and anti-malware protection, targeted attack protection, advanced content filtering, data loss prevention, and email encryption.  Symantec™ Email Security Service – Government catches more than 99% of spam with less than one in a million false positives. The service leverages intelligence, powered by the Symantec Global Intelligence Network and connection throttling using both global and self-learning local IP reputation. With Symantec™ Email Security Service – Government, organizations can effectively respond to new messaging threats, preserving employee productivity, and protecting company reputation.",
+        "Announcement_Date": "2018-01-09T05:00:00.000Z",
+        "CSP_POC_Name": "George Teas",
+        "CSP_POC_Email": "mail_fedramp@symantec.com",
+        "FedRAMP_In-Process_Date": "2017-08-01T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Acendre, Inc.",
         "Cloud_Service_Provider_Package": "Acendre Talent Management Solution Suite",
         "Path": "Agency",
@@ -6741,22 +6809,22 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Avaya, Inc.",
-        "Cloud_Service_Provider_Package": "Avaya Cloud Secure",
+        "Cloud_Service_Provider_Name": "Coras",
+        "Cloud_Service_Provider_Package": "CorasNow Federal",
         "Designation": "FedRAMP Ready",
-        "Package_ID": "F1506046708",
+        "Package_ID": "FR1722160191",
         "Service_Model": [
           "SaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Avaya%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CORAS%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://www.avaya.com/en/fedramp",
-        "CSO_Description": "Avaya Cloud Secure is a government community collaboration environment delivering mobility, voice, video, web, chat, presence, conferencing, voicemail, contextual collaboration, and a rich communication experience.\n\nThe solution is a dedicated Unified Communication (UC) cloud offering. Each agency is provided their own individual instance on a virtual platform that provides a highly customizable, reliable and secure environment.\n\nAvaya Cloud Secure provides a cloud solution for all real time communication needs that enable agencies to support their missions expediently and efficiently.",
-        "CSP_POC_Name": "Patrick Goins",
-        "CSP_POC_Email": "fedramp@avaya.com",
-        "Fedramp_Ready_Date": "2017-12-11T05:00:00.000Z",
+        "CSP_Website": "https://coras.com/fedramp/",
+        "CSO_Description": "CorasNow Federal is a cloud-based application development Platform as a Service (PaaS) with our flagship Software as a Service Work Management solution called CorasProject, both offerings are available within a Government Only Community Cloud model.  CorasNow Federal was created to significantly reduce the cost and complexity of designing, building, and deploying applications in the cloud. An enterprise platform built within Microsoft Azure Government Cloud, CorasNow Federal allows for application virtualization. This robust application features a user-friendly interface allowing organizations to access tools and features that help their specific role and support the mission of the enterprise. CorasNow Federal is designed to meet the requirements for a FIPS 199 Moderate information system.\n\nOrganizations around the world rely on Coras to help them solve complex business problems through software. Since 2003, we’ve developed innovative, agile, flexible solutions that transform businesses – making it easier and faster to collaborate and get results. We believe your business should define your applications, not the other way around. The Coras platform delivers immediate value and generates meaningful results. That’s why top telecom, pharmaceutical, manufacturing, and financial companies, as well as the federal government, have been partnering with us for over 10 years.",
+        "CSP_POC_Name": "Raphael Delgado",
+        "CSP_POC_Email": "FedRAMP@Coras.com",
+        "Fedramp_Ready_Date": "2017-11-08T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -7098,22 +7166,22 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Coras",
-        "Cloud_Service_Provider_Package": "CorasNow Federal",
+        "Cloud_Service_Provider_Name": "Avaya, Inc.",
+        "Cloud_Service_Provider_Package": "Avaya Cloud Secure",
         "Designation": "FedRAMP Ready",
-        "Package_ID": "FR1722160191",
+        "Package_ID": "F1506046708",
         "Service_Model": [
           "SaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CORAS%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Avaya%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://coras.com/fedramp/",
-        "CSO_Description": "CorasNow Federal is a cloud-based application development Platform as a Service (PaaS) with our flagship Software as a Service Work Management solution called CorasProject, both offerings are available within a Government Only Community Cloud model.  CorasNow Federal was created to significantly reduce the cost and complexity of designing, building, and deploying applications in the cloud. An enterprise platform built within Microsoft Azure Government Cloud, CorasNow Federal allows for application virtualization. This robust application features a user-friendly interface allowing organizations to access tools and features that help their specific role and support the mission of the enterprise. CorasNow Federal is designed to meet the requirements for a FIPS 199 Moderate information system.\n\nOrganizations around the world rely on Coras to help them solve complex business problems through software. Since 2003, we’ve developed innovative, agile, flexible solutions that transform businesses – making it easier and faster to collaborate and get results. We believe your business should define your applications, not the other way around. The Coras platform delivers immediate value and generates meaningful results. That’s why top telecom, pharmaceutical, manufacturing, and financial companies, as well as the federal government, have been partnering with us for over 10 years.",
-        "CSP_POC_Name": "Raphael Delgado",
-        "CSP_POC_Email": "FedRAMP@Coras.com",
-        "Fedramp_Ready_Date": "2017-11-08T05:00:00.000Z",
+        "CSP_Website": "https://www.avaya.com/en/fedramp",
+        "CSO_Description": "Avaya Cloud Secure is a government community collaboration environment delivering mobility, voice, video, web, chat, presence, conferencing, voicemail, contextual collaboration, and a rich communication experience.\n\nThe solution is a dedicated Unified Communication (UC) cloud offering. Each agency is provided their own individual instance on a virtual platform that provides a highly customizable, reliable and secure environment.\n\nAvaya Cloud Secure provides a cloud solution for all real time communication needs that enable agencies to support their missions expediently and efficiently.",
+        "CSP_POC_Name": "Patrick Goins",
+        "CSP_POC_Email": "fedramp@avaya.com",
+        "Fedramp_Ready_Date": "2017-12-11T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -7159,7 +7227,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/DNAnexus%20Logo.jpg",
         "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
         "CSP_Website": "https://www.dnanexus.com/",
-        "CSO_Description": "The DNAnexus Platform is a public cloud analysis and data management platform for processing high-throughput molecular data; for combining molecular, clinical, and real-world data to discover relationships relevant to patient and population health, precision medicine, drug discovery and regulatory approval; and for enabling a network of government, academic, and commercial collaborators to securely form research communities. DNAnexus presents a Platform-as-a-Service including a brandable, customizable web interface, and an API for integration with upstream and downstream systems such as Laboratory Information Management, Clinical Trial Management, Electronic Data Capture, and clinical interpretation and reporting systems.\n\n[https://precision.fda.gov/](https://precision.fda.gov/) the FDA's web service for collaborative advancement of regulatory standards for Next Generation Sequencing-based drugs and devices, is enabled by the DNAnexus Platform API, leveraging the Platform's secure and compliant analysis and data management services to deliver a fit-for-purpose interface to a secure community of researchers from government, academic, and commercial sectors.",
+        "CSO_Description": "The DNAnexus Platform is a public cloud analysis and data management platform for processing high-throughput molecular data; for combining molecular, clinical, and real-world data to discover relationships relevant to patient and population health, precision medicine, drug discovery and regulatory approval; and for enabling a network of government, academic, and commercial collaborators to securely form research communities. DNAnexus presents a Platform-as-a-Service including a brandable, customizable web interface, and an API for integration with upstream and downstream systems such as Laboratory Information Management, Clinical Trial Management, Electronic Data Capture, and clinical interpretation and reporting systems.\n\n[Precision.FDA.gov/](https://precision.fda.gov/) the FDA's web service for collaborative advancement of regulatory standards for Next Generation Sequencing-based drugs and devices, is enabled by the DNAnexus Platform API, leveraging the Platform's secure and compliant analysis and data management services to deliver a fit-for-purpose interface to a secure community of researchers from government, academic, and commercial sectors.",
         "CSP_POC_Name": "DNAnexus Compliance Team",
         "CSP_POC_Email": "compliance@dnanexus.com",
         "FedRAMP_In-Process_Date": "2018-02-21T05:00:00.000Z",
@@ -7167,22 +7235,25 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "DOMA Technologies, LLC",
-        "Cloud_Service_Provider_Package": "DOMA Software Platform",
+        "Cloud_Service_Provider_Name": "Ricoh USA, Inc.",
+        "Cloud_Service_Provider_Package": "Ricoh Government Cloud (RGC)",
         "Designation": "FedRAMP Ready",
-        "Package_ID": "FR1711248496",
+        "Package_ID": "FR1721260553",
         "Service_Model": [
           "SaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/DOMA%20Logo.jpg",
-        "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
-        "CSP_Website": "https://www.domaonline.com/federal-government-solutions/",
-        "CSO_Description": "The DOMA Software Platform is a powerful cloud based Intelligent Content Automation platform that is delivered as a Software as a Service (SaaS) solution. It offers organizations a data centric application to securely capture, manage, collaborate, and store content across the enterprise.  DOMA brings the unique expertise of 18 years of experience in delivering cloud-based software solutions coupled with the core focus of how ‘ease of use’ is the primary factor for driving user adoption.\n\nThere are considerable specific advantages to DOMA’s approach with delivering a highly configurable, rapidly deployed, non-license based pricing model centered around transactions.  The DOMA Software Platform gives customers more elastic options to expand, integrate other applications, and phase in more business processes without significant cost impacts.\n\nDOMA is continually focused on staying on the forefront of emerging technologies, keeping current with evolving standards in information security, and integrating software innovations through standard REST API. Our platform is internally developed and maintained by a team of scientists, software engineers, and IT professionals, allowing our project management staff to collaborate directly between customers and developers to implement software configurations that meet customers’ specific business needs.",
-        "CSP_POC_Name": "Ian Checcio",
-        "CSP_POC_Email": "fedramp@domaonline.com",
-        "Fedramp_Ready_Date": "2018-02-06T05:00:00.000Z",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Ricoh%20Logo.jpg",
+        "Independent_Assessor": "Kratos SecureInfo",
+        "Underlying_CSP_Package_ID": [
+          "F1603087869"
+        ],
+        "CSP_Website": "www.ricoh-usa.com/en/ediscovery",
+        "CSO_Description": "Ricoh USA, Inc. has been providing litigation support, document scanning, production and eDiscovery for the Federal Government, Fortune 500, Legal Industry and the AMLaw 200 for more than 25 years. We have supported organizations with offices and departments across the United States, hosting individual datasets of nearly two terabytes and accommodating over one hundred users concurrently. \n\nThe Ricoh Government Cloud (RGC) utilizes data hosting services in Microsoft’s Azure Government Cloud which is FedRAMP certified (Provisional Authorization (PA) for Microsoft – Azure Government Cloud, June 21, 2016) with a deployment of Relativity’s application suite supporting its eDiscovery review platform services. Ricoh is the proud recipient of the Relativity Orange Level Best in Service Award for 2013, 2014, 2015, 2016 and 2017 – successful in every certification audit since becoming eligible in 2013.\n\nVarious technologies and processes including data analysis, computer assisted review, customized workflow, comprehensive Electronically Stored Information (ESI) reporting, conceptual searches and clustering are utilized to assist in reviewing ESI in an efficient and defensible manner. Relativity offers an analytics index for email threading, near duplicates and concept clustering.  Relativity is an online review tool that is accessed through an Internet browser – all the current versions of Chrome, Firefox and Safari. No additional client side software installation is required.\n\nRicoh USA, Inc. has a very scalable solution for data storage with the ability to increase the storage environment within one business day of notification to meet any anticipated project requirements. The database system supports a multi-tier architecture with the ability to fully employ load-balancing and fail-over capabilities of the application. Logical segregation of client data and associated workspace is core to our multi-tenant SaaS environment.",
+        "CSP_POC_Name": "David Greetham",
+        "CSP_POC_Email": "ediscoverysales@ricoh-usa.com",
+        "Fedramp_Ready_Date": "2017-12-20T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -7806,23 +7877,22 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Navman Wireless North America Ltd. ",
-        "Cloud_Service_Provider_Package": "Teletrac Navman DIRECTOR",
-        "Path": "JAB",
+        "Cloud_Service_Provider_Name": "DOMA Technologies, LLC",
+        "Cloud_Service_Provider_Package": "DOMA Software Platform",
         "Designation": "FedRAMP Ready",
-        "Package_ID": "FR1807337642",
+        "Package_ID": "FR1711248496",
         "Service_Model": [
           "SaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Teletrac%20Navman%20Logo.jpg",
-        "Independent_Assessor": "Kratos SecureInfo",
-        "CSP_Website": "www.teletracnavman.com",
-        "CSO_Description": "Teletrac Navman DIRECTOR is a fleet management system that collects and analyzes data from vehicles and other assets, for oversight and control of day-to-day fleet operations. DIRECTOR monitors information such as location, speed, and advanced engine diagnostics so that agencies can track when assets are used most efficiently, if maintenance is required and when driver activity conforms to specified operating parameters. Additional capabilities provided by DIRECTOR include two-way messaging with drivers and dispatchers, automated vehicle routing with turn-by-turn directions and traffic/weather alert functions. Fleet management decisions based on DIRECTOR information help to improve performance, regulatory compliance, security, safety and productivity.\n\nThis telematics and asset management technology receives continuous support from software-as-a-solution (SaaS) provider Fleet Management Systems (FMS), a Teletrac Navman company. DIRECTOR is designed to meet the operational needs of the federal, state and local agencies that rely on it, who represent a significant portion of the more than 500,000 vehicles and 40,000 customers worldwide served by Teletrac Navman and FMS.",
-        "CSP_POC_Name": "Daren Lauda",
-        "CSP_POC_Email": "FedRAMP@teletracnavman.com",
-        "Fedramp_Ready_Date": "2018-02-07T05:00:00.000Z",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/DOMA%20Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
+        "CSP_Website": "https://www.domaonline.com/federal-government-solutions/",
+        "CSO_Description": "The DOMA Software Platform is a powerful cloud based Intelligent Content Automation platform that is delivered as a Software as a Service (SaaS) solution. It offers organizations a data centric application to securely capture, manage, collaborate, and store content across the enterprise.  DOMA brings the unique expertise of 18 years of experience in delivering cloud-based software solutions coupled with the core focus of how ‘ease of use’ is the primary factor for driving user adoption.\n\nThere are considerable specific advantages to DOMA’s approach with delivering a highly configurable, rapidly deployed, non-license based pricing model centered around transactions.  The DOMA Software Platform gives customers more elastic options to expand, integrate other applications, and phase in more business processes without significant cost impacts.\n\nDOMA is continually focused on staying on the forefront of emerging technologies, keeping current with evolving standards in information security, and integrating software innovations through standard REST API. Our platform is internally developed and maintained by a team of scientists, software engineers, and IT professionals, allowing our project management staff to collaborate directly between customers and developers to implement software configurations that meet customers’ specific business needs.",
+        "CSP_POC_Name": "Ian Checcio",
+        "CSP_POC_Email": "fedramp@domaonline.com",
+        "Fedramp_Ready_Date": "2018-02-06T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -8058,7 +8128,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/ORock%20Technologies%20Logo.jpg",
         "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
         "CSP_Website": "http://orocktech.com",
-        "CSO_Description": "ORockCloud provides a secure, highly scalable and available, bi-coastal cloud environment with elastic, on-demand access to computing, storage, virtualization, networking, performance monitoring, and applications in ORock’s service catalog. It is built on ORock’s private, carrier-grade encrypted dark fiber network to maximize security and performance. As a Red Hat® Certified Cloud & Service Provider (CCSP), ORock's “pure-play” Red Hat-supported open source environment delivers enhanced flexibility, security and control.   Additional information is available at [http://orocktech.co](http://orocktech.com). \n\nThe following services are In Process for FedRAMP authorization from the DoD:  the Red Hat Cloud Suite, including Enterprise Linux®, Red Hat Virtualization, OpenStack®, Ceph®, CloudForms®, Ansible Tower®, Satellite® and all associated cloud APIs.  In addition, ORock provides SaaS offering and services including ORock’s Federal Authorization Services (FaS) and ORock VirtualClouds.”",
+        "CSO_Description": "ORockCloud provides a secure, highly scalable and available, bi-coastal cloud environment with elastic, on-demand access to computing, storage, virtualization, networking, performance monitoring, and applications in ORock’s service catalog. It is built on ORock’s private, carrier-grade encrypted dark fiber network to maximize security and performance. As a Red Hat® Certified Cloud & Service Provider (CCSP), ORock's “pure-play” Red Hat-supported open source environment delivers enhanced flexibility, security and control.   Additional information is available at [http://orocktech.com](http://orocktech.com). \n\nThe following services are In Process for FedRAMP authorization from the DoD:  the Red Hat Cloud Suite, including Enterprise Linux®, Red Hat Virtualization, OpenStack®, Ceph®, CloudForms®, Ansible Tower®, Satellite® and all associated cloud APIs.  In addition, ORock provides SaaS offering and services including ORock’s Federal Authorization Services (FaS) and ORock VirtualClouds.”",
         "CSP_POC_Name": "John Conniff",
         "CSP_POC_Email": "fedramp@orocktech.com",
         "FedRAMP_In-Process_Date": "2018-02-22T05:00:00.000Z",
@@ -8237,25 +8307,23 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Ricoh USA, Inc.",
-        "Cloud_Service_Provider_Package": "Ricoh Government Cloud (RGC)",
+        "Cloud_Service_Provider_Name": "Navman Wireless North America Ltd. ",
+        "Cloud_Service_Provider_Package": "Teletrac Navman DIRECTOR",
+        "Path": "JAB",
         "Designation": "FedRAMP Ready",
-        "Package_ID": "FR1721260553",
+        "Package_ID": "FR1807337642",
         "Service_Model": [
           "SaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Ricoh%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Teletrac%20Navman%20Logo.jpg",
         "Independent_Assessor": "Kratos SecureInfo",
-        "Underlying_CSP_Package_ID": [
-          "F1603087869"
-        ],
-        "CSP_Website": "www.ricoh-usa.com/en/ediscovery",
-        "CSO_Description": "Ricoh USA, Inc. has been providing litigation support, document scanning, production and eDiscovery for the Federal Government, Fortune 500, Legal Industry and the AMLaw 200 for more than 25 years. We have supported organizations with offices and departments across the United States, hosting individual datasets of nearly two terabytes and accommodating over one hundred users concurrently. \n\nThe Ricoh Government Cloud (RGC) utilizes data hosting services in Microsoft’s Azure Government Cloud which is FedRAMP certified (Provisional Authorization (PA) for Microsoft – Azure Government Cloud, June 21, 2016) with a deployment of Relativity’s application suite supporting its eDiscovery review platform services. Ricoh is the proud recipient of the Relativity Orange Level Best in Service Award for 2013, 2014, 2015, 2016 and 2017 – successful in every certification audit since becoming eligible in 2013.\n\nVarious technologies and processes including data analysis, computer assisted review, customized workflow, comprehensive Electronically Stored Information (ESI) reporting, conceptual searches and clustering are utilized to assist in reviewing ESI in an efficient and defensible manner. Relativity offers an analytics index for email threading, near duplicates and concept clustering.  Relativity is an online review tool that is accessed through an Internet browser – all the current versions of Chrome, Firefox and Safari. No additional client side software installation is required.\n\nRicoh USA, Inc. has a very scalable solution for data storage with the ability to increase the storage environment within one business day of notification to meet any anticipated project requirements. The database system supports a multi-tier architecture with the ability to fully employ load-balancing and fail-over capabilities of the application. Logical segregation of client data and associated workspace is core to our multi-tenant SaaS environment.",
-        "CSP_POC_Name": "David Greetham",
-        "CSP_POC_Email": "ediscoverysales@ricoh-usa.com",
-        "Fedramp_Ready_Date": "2017-12-20T05:00:00.000Z",
+        "CSP_Website": "www.teletracnavman.com",
+        "CSO_Description": "Teletrac Navman DIRECTOR is a fleet management system that collects and analyzes data from vehicles and other assets, for oversight and control of day-to-day fleet operations. DIRECTOR monitors information such as location, speed, and advanced engine diagnostics so that agencies can track when assets are used most efficiently, if maintenance is required and when driver activity conforms to specified operating parameters. Additional capabilities provided by DIRECTOR include two-way messaging with drivers and dispatchers, automated vehicle routing with turn-by-turn directions and traffic/weather alert functions. Fleet management decisions based on DIRECTOR information help to improve performance, regulatory compliance, security, safety and productivity.\n\nThis telematics and asset management technology receives continuous support from software-as-a-solution (SaaS) provider Fleet Management Systems (FMS), a Teletrac Navman company. DIRECTOR is designed to meet the operational needs of the federal, state and local agencies that rely on it, who represent a significant portion of the more than 500,000 vehicles and 40,000 customers worldwide served by Teletrac Navman and FMS.",
+        "CSP_POC_Name": "Daren Lauda",
+        "CSP_POC_Email": "FedRAMP@teletracnavman.com",
+        "Fedramp_Ready_Date": "2018-02-07T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -8325,30 +8393,6 @@
         "CSP_POC_Name": "Edward Zaval",
         "CSP_POC_Email": "fedramp@sumtotalsystems.com",
         "Fedramp_Ready_Date": "2017-10-26T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Symantec Corporation",
-        "Cloud_Service_Provider_Package": "Symantec™ Email Security Service – Government, powered by Datapipe",
-        "Path": "JAB",
-        "Designation": "Compliant",
-        "Package_ID": "F1510137547A",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Joint Authorization Board",
-        "Authorizing_Agency": "Joint Authorization Board",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Symantec%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://www.symantec.com/",
-        "CSO_Description": "Symantec™ Email Security Service – Government delivers inbound and outbound email security, with effective and accurate real-time antispam and anti-malware protection, targeted attack protection, advanced content filtering, data loss prevention, and email encryption.  Symantec™ Email Security Service – Government catches more than 99% of spam with less than one in a million false positives. The service leverages intelligence, powered by the Symantec Global Intelligence Network and connection throttling using both global and self-learning local IP reputation. With Symantec™ Email Security Service – Government, organizations can effectively respond to new messaging threats, preserving employee productivity, and protecting company reputation.",
-        "Announcement_Date": "2018-01-09T05:00:00.000Z",
-        "CSP_POC_Name": "George Teas",
-        "CSP_POC_Email": "mail_fedramp@symantec.com",
-        "FedRAMP_In-Process_Date": "2017-08-01T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
