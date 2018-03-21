@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-03-20T04:40:50.425Z",
+    "Created_At": "2018-03-21T04:40:49.845Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4638,7 +4638,7 @@
         "CSP_Website": "www.qualys.com",
         "CSO_Description": "The Qualys Cloud Platform (QCP) is a multi-tenant shared cloud service environment. Its unique computing power is capable of continuously analyzing and correlating information, to assist IT management with identifying and homing-in on threats and eliminating vulnerabilities.\n\nWith its Qualys sensors, a core service of the Qualys Cloud Platform, make it easy to extend your security throughout your global enterprise. These sensors, which can be in the form of appliances or lightweight agents, are remotely deployable, centrally managed and self-updating. They collect data automatically and seamlessly sending it to the Qualys Cloud Platform.\n\nSubscribers simply use the Qualys software without the burden of licensing, maintenance and costs for owning the software itself.   ",
         "Announcement_Date": "2016-11-02T04:00:00.000Z",
-        "CSP_POC_Name": "Syamla Bandla",
+        "CSP_POC_Name": "Alan Nicholson",
         "CSP_POC_Email": "fedramp@qualys.com",
         "Fedramp_Ready_Date": "2016-05-05T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2015-08-26T04:00:00.000Z",
@@ -6764,6 +6764,32 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Google",
+        "Cloud_Service_Provider_Package": "Google Services (Google Cloud Platform Products and underlying Infrastructure)",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "FR1805751477",
+        "Service_Model": [
+          "IaaS, PaaS, ",
+          " SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2018-03-14T04:00:00.000Z",
+        "Sponsoring_Agency": "Joint Authorization Board",
+        "Authorizing_Agency": "Joint Authorization Board",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Google%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://cloud.google.com",
+        "CSO_Description": "Google Services is comprised of Google’s multi-tenant public cloud Google Cloud Platform and built atop the Google Common Infrastructure. The Google Common Infrastructure powers Google worldwide.The in-scope Google Cloud Platform services are:\n\nThe in-scope Google Cloud Platform services are:\n\n**Big Data**: BigQuery, Genomics, Cloud Dataflow, Cloud Dataproc, Cloud Pubsub, Cloud Datalab.\n\n**Compute**: Compute Engine, Container Engine, Container Registry, App Engine flexible environment, Cloud Functions.\n\n**Storage & Databases**: Cloud Storage, Cloud SQL, Cloud Bigtable, Cloud Spanner\n\n**Machine Learning**: Machine Learning Platform, Cloud Jobs API, Natural Language API, Speech API, Translate API, Vision API, Cloud Video Intelligence API\n\n**Networking**: Cloud CDN (Content Delivery Network), Cloud DNS (Domain Name Service), Cloud Load Balancing, Cloud Virtual Network Core\n\n**Management Tools**: Stackdriver Logging, Error Reporting, Stackdriver Trace, Debugger, Deployment Manager, Cloud Endpoints, Cloud Shell, Cloud Mobile App, Cloud Billing API\n\n**Developer Tools**: Cloud SDK, Container Builder, Cloud Source Repositories, DLP API\n\n**Identity & Security Tools**: Cloud Identify-Aware Proxy, Cloud Resource Manager, Cloud Security Scanner, Cloud Key Management Service, Google Service Control (Chemist), Cloud Launcher, Cloud IAM",
+        "Announcement_Date": "2018-03-14T04:00:00.000Z",
+        "CSP_POC_Name": "Google FedRAMP Team",
+        "CSP_POC_Email": "fedramp@google.com",
+        "FedRAMP_In-Process_Date": "2017-11-17T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Acendre, Inc.",
         "Cloud_Service_Provider_Package": "Acendre Talent Management Solution Suite",
         "Path": "Agency",
@@ -7480,30 +7506,6 @@
         "CSP_POC_Name": "Marc Padovani",
         "CSP_POC_Email": "fedramp@forcepoint.com",
         "FedRAMP_In-Process_Date": "2017-06-12T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Google",
-        "Cloud_Service_Provider_Package": "Google Services (Google Cloud Platform Products and underlying Infrastructure)",
-        "Path": "JAB",
-        "Designation": "In Process",
-        "Package_ID": "FR1805751477",
-        "Service_Model": [
-          "IaaS, PaaS, ",
-          " SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Joint Authorization Board",
-        "Authorizing_Agency": "Joint Authorization Board",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Google%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://cloud.google.com",
-        "CSO_Description": "Google Services is comprised of Google’s multi-tenant public cloud Google Cloud Platform and built atop the Google Common Infrastructure. The Google Common Infrastructure powers Google worldwide.The in-scope Google Cloud Platform services are:\n\nThe in-scope Google Cloud Platform services are:\n\n**Big Data**: BigQuery, Genomics, Cloud Dataflow, Cloud Dataproc, Cloud Pubsub, Cloud Datalab.\n\n**Compute**: Compute Engine, Container Engine, Container Registry, App Engine flexible environment, Cloud Functions.\n\n**Storage & Databases**: Cloud Storage, Cloud SQL, Cloud Bigtable, Cloud Spanner\n\n**Machine Learning**: Machine Learning Platform, Cloud Jobs API, Natural Language API, Speech API, Translate API, Vision API, Cloud Video Intelligence API\n\n**Networking**: Cloud CDN (Content Delivery Network), Cloud DNS (Domain Name Service), Cloud Load Balancing, Cloud Virtual Network Core\n\n**Management Tools**: Stackdriver Logging, Error Reporting, Stackdriver Trace, Debugger, Deployment Manager, Cloud Endpoints, Cloud Shell, Cloud Mobile App, Cloud Billing API\n\n**Developer Tools**: Cloud SDK, Container Builder, Cloud Source Repositories, DLP API\n\n**Identity & Security Tools**: Cloud Identify-Aware Proxy, Cloud Resource Manager, Cloud Security Scanner, Cloud Key Management Service, Google Service Control (Chemist), Cloud Launcher, Cloud IAM",
-        "CSP_POC_Name": "Google FedRAMP Team",
-        "CSP_POC_Email": "fedramp@google.com",
-        "FedRAMP_In-Process_Date": "2017-11-17T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -9299,7 +9301,7 @@
         "FedRAMP_Assessed": "* Blackmesh, Inc.",
         "Provide_Consulting_Services": "Y",
         "Description_of_Consulting_Services": "A-LIGN offers consulting services in order to prepare organizations prior to their FedRAMP assessment. Our experienced assessors can develop the required templates and supporting policies and procedures to prepare your company for the FedRAMP assessment. Additionally, A-LIGN can assist with POA&M remediation. Our consulting services help companies meet the rigorous FedRAMP requirements.",
-        "Consulting_Services_To": "* TIBCO Software Inc\n* CGI Technology and Solutions Inc\n* Armedia LLC",
+        "Consulting_Services_To": "* TIBCO Software Inc\n* CGI Technology and Solutions Inc",
         "Additional_Cyber_Frameworks": "* PCI DSS\n* ISO 27001\n* HITRUST\n* HIPAA/HITECH\n* FISMA\n* SOC 1/SSAE 16\n* SOC 2/AT 101\n* ISAE 3402"
       },
       {
