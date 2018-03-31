@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-03-30T04:40:50.199Z",
+    "Created_At": "2018-03-31T04:40:50.150Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -195,7 +195,8 @@
         "Designation": "Compliant",
         "Package_ID": "F1206141381",
         "Service_Model": [
-          "IaaS, PaaS"
+          "IaaS ",
+          " PaaS"
         ],
         "Deployment_Model": "Hybrid Cloud",
         "Impact_Level": "High",
@@ -3816,7 +3817,8 @@
         "Designation": "Compliant",
         "Package_ID": "F1311222650",
         "Service_Model": [
-          "IaaS, PaaS"
+          "IaaS ",
+          " PaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
@@ -6026,7 +6028,8 @@
         "Designation": "Compliant",
         "Package_ID": "AGENCYAMAZONEW",
         "Service_Model": [
-          "IaaS, PaaS"
+          "IaaS ",
+          " PaaS"
         ],
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
@@ -6677,7 +6680,7 @@
         "Designation": "Compliant",
         "Package_ID": "FR1805751477",
         "Service_Model": [
-          "IaaS, PaaS, ",
+          "IaaS, PaaS ",
           " SaaS"
         ],
         "Deployment_Model": "Public Cloud",
@@ -7512,30 +7515,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "GWAVA Cloud Services",
-        "Cloud_Service_Provider_Package": "GWAVA Micro Focus",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "F1610137952",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "United States International Boundary & Water Commission",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/International_Boundary_and_Water_Commission_logo.jpg",
-        "Authorizing_Agency": "United States International Boundary & Water Commission",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/GWAVA%20Logo.jpg",
-        "Independent_Assessor": "The Cadence Group",
-        "CSP_Website": "www.gwava.com",
-        "CSO_Description": "Retain Cloud Archiving provides multi-platform unified cloud message archiving of multi-platform email, social media, and mobile communication data for case assessment, search, and eDiscovery in the cloud.\n\nThe Unified Cloud Archive is accessible by end users and administrators directly through the Web Access Archive Viewer, an email plugin and the mobile app. This enables your organization to quickly access, search, and audit archived communication data. Easily place litigation holds, print, forward, save, redact, and export your message data. Retain Cloud Archiving reduces cost, mitigates risk, and manages complexity in the cloud.\n\nFive Unique Features of Retain Cloud Archiving:\n\n1. Retain provides customers a private cloud within our data centers, through our Cloud Providers, or Public Cloud Infrastructure. These options are available globally to meet geographic specific standards and requirements for data storage.\n\n2. The Retain Archive can be accessed, browsed, and searched directly within the end-user’s email client, the Retain mobile app, through a browser-based web access client, through the Offline Archive Viewer. Additionally, archived data can be exported to a portable stand-alone archive viewer.\n\n3. Retain Cloud Archiving offers enhanced granular archiving by taking advantage of the Microsoft Recoverable Items Folder or impersonation, and is not just limited to journaling.\n\n4. eDiscovery and case management is built-in, and is not an add-on or additional cost.\n\n5. Built-in Smart, Confidential &amp; Rule-based Tagging, allows for custom, searchable message tagging from within the archive.",
-        "CSP_POC_Name": "Dean Ormsby",
-        "CSP_POC_Email": "dormsby@gwava.com",
-        "FedRAMP_In-Process_Date": "2017-01-10T05:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Hootsuite",
         "Cloud_Service_Provider_Package": "Hootsuite Enterprise",
         "Path": "Agency",
@@ -7919,8 +7898,8 @@
         "Independent_Assessor": "The Cadence Group",
         "CSP_Website": " www.niceincontact.com/FedRAMP-compliant-contact-center",
         "CSO_Description": "NICE inContact is the cloud contact center software leader, with the most complete, easiest and most reliable solution to help organizations achieve their customer experience goals. Recognized as a market leader by Gartner, IDC, Frost & Sullivan, Ovum and DMG, NICE inContact continuously innovates in the cloud and is the only provider to offer a complete solution that includes NICE inContact CXone cloud, an expert service model and the broadest partner ecosystem. NICE inContact CXone combines best-in-class Omnichannel Routing, Workforce Optimization, Analytics, Automation and Artificial Intelligence—all on an Open Cloud Foundation. [www.niceincontact.com](www.niceincontact.com)",
-        "CSP_POC_Name": "Bryant Eastham",
-        "CSP_POC_Email": "bryant.eastham@niceincontact.com",
+        "CSP_POC_Name": "Chris Romeo",
+        "CSP_POC_Email": "chris.romeo@niceincontact.com",
         "FedRAMP_In-Process_Date": "2016-11-17T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
@@ -8073,7 +8052,8 @@
         "Designation": "In Process",
         "Package_ID": "F1503096502",
         "Service_Model": [
-          "IaaS, SaaS"
+          "IaaS ",
+          " SaaS"
         ],
         "Deployment_Model": "Hybrid Cloud",
         "Impact_Level": "Moderate",
