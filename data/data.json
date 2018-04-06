@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-04-05T04:40:50.025Z",
+    "Created_At": "2018-04-06T04:40:50.721Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1868,11 +1868,11 @@
         "Authorizing_Agency": "JAB Authorization",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Rackspace%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.datapipe.com/government",
-        "CSO_Description": "The Datapipe Government Solutions Federal Community Cloud Platform (FCCP) provides a unique approach to security that allows federal agencies to have more control and flexibility to meet their unique security needs. This platform is one of the first P-ATOs issued to a PaaS cloud service provider covering management through the virtual operating system.\n\nFCCP brings together the benefits of standardized cloud elements such as common tools, processes, and training while affording agencies a level of flexibility that is not normally available in existing public cloud environments. Government agencies can layer on agency-specific controls in addition to those certified by FedRAMP.\n\nDesigned from the ground up for security sensitive U.S. Government customers, FCCP provides customers with a fully managed cloud environment including:\n\n - Virtual Operating System Administration \n - Continuous Monitoring    \n - Disaster Recovery \n - World-Class Data Centers    \n - Backups \n - Vulnerability Scanning   \n - Multi-factor Authentication    \n - Change and Configuration Management \n - Network and Operating System Patching \n - Performance Monitoring in Real-Time \n - Antivirus    \n - FISMA/FedRAMPSM Security Documentation \n - Secure Cloud Module with the Ability to Support Agency-Specific Controls    \n - Zero-overlap Architecture Allowing for Faster Deployment and Auditing Times \n - Continuous Monitoring                \n - Software-as-a-Service (SaaS) Enablement",
+        "CSP_Website": "www.rackspace.com/government",
+        "CSO_Description": "The Rackspace Government Solutions Federal Community Cloud Platform (FCCP) provides a unique approach to security that allows federal agencies to have more control and flexibility to meet their unique security needs. This platform is one of the first P-ATOs issued to a PaaS cloud service provider covering management through the virtual operating system.\n\nFCCP brings together the benefits of standardized cloud elements such as common tools, processes, and training while affording agencies a level of flexibility that is not normally available in existing public cloud environments. Government agencies can layer on agency-specific controls in addition to those certified by FedRAMP.\n\nDesigned from the ground up for security sensitive U.S. Government customers, FCCP provides customers with a fully managed cloud environment including:\n\n - Virtual Operating System Administration \n - Continuous Monitoring    \n - Disaster Recovery \n - World-Class Data Centers    \n - Backups \n - Vulnerability Scanning   \n - Multi-factor Authentication    \n - Change and Configuration Management \n - Network and Operating System Patching \n - Performance Monitoring in Real-Time \n - Antivirus    \n - FISMA/FedRAMPSM Security Documentation \n - Secure Cloud Module with the Ability to Support Agency-Specific Controls    \n - Zero-overlap Architecture Allowing for Faster Deployment and Auditing Times \n - Continuous Monitoring                \n - Software-as-a-Service (SaaS) Enablement",
         "Announcement_Date": "2015-10-09T04:00:00.000Z",
         "CSP_POC_Name": "Dan Tudahl",
-        "CSP_POC_Email": "fedrampinfo@datapipe.com",
+        "CSP_POC_Email": "GovOps@rackspace.com",
         "FedRAMP_In-Process_Date": "2014-02-04T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": [
@@ -6818,6 +6818,35 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Apptio",
+        "Cloud_Service_Provider_Package": "The Apptio Technology Business Management (TBM)",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "F1603157879",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2018-04-03T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Apptio%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.apptio.com",
+        "CSO_Description": "Apptio is a SaaS provider of Technology Business Management (TBM) solutions that help IT leaders measure, manage and communicate the cost, quality, consumption, and value of IT.  IT leaders leverage Apptio's TBM suite of applications, including cost transparency, benchmarking, showback/chargeback and planning, to optimize costs, consolidate infrastructure and applications, price and recover shared services, and execute cloud-first strategies.  With FITARA mandates in place and growing, now more than ever, Federal IT leaders need transparency into their IT spend - what they have, what it's costing them, how it's being consumed, and the value it's delivering to federal program and mission objectives.",
+        "Announcement_Date": "2018-04-03T04:00:00.000Z",
+        "CSP_POC_Name": "Richard Benack",
+        "CSP_POC_Email": "rbenack@apptio.com",
+        "Fedramp_Ready_Date": "2017-01-27T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2017-12-19T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Acendre, Inc.",
         "Cloud_Service_Provider_Package": "Acendre Talent Management Solution Suite",
         "Path": "Agency",
@@ -6862,29 +6891,6 @@
         "CSP_POC_Name": "Surayansh Surana",
         "CSP_POC_Email": "aconexgov-external@aconex.com",
         "FedRAMP_In-Process_Date": "2017-02-07T05:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Apptio",
-        "Cloud_Service_Provider_Package": "The Apptio Technology Business Management (TBM)",
-        "Path": "JAB",
-        "Designation": "In Process",
-        "Package_ID": "F1603157879",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Apptio%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.apptio.com",
-        "CSO_Description": "Apptio is a SaaS provider of Technology Business Management (TBM) solutions that help IT leaders measure, manage and communicate the cost, quality, consumption, and value of IT.  IT leaders leverage Apptio's TBM suite of applications, including cost transparency, benchmarking, showback/chargeback and planning, to optimize costs, consolidate infrastructure and applications, price and recover shared services, and execute cloud-first strategies.  With FITARA mandates in place and growing, now more than ever, Federal IT leaders need transparency into their IT spend - what they have, what it's costing them, how it's being consumed, and the value it's delivering to federal program and mission objectives.",
-        "CSP_POC_Name": "Richard Benack",
-        "CSP_POC_Email": "rbenack@apptio.com",
-        "Fedramp_Ready_Date": "2017-01-27T05:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2017-12-19T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
