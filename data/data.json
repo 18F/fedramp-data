@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-04-06T04:40:50.721Z",
+    "Created_At": "2018-04-07T04:40:50.142Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -5814,7 +5814,7 @@
         "CSP_Website": "www.northropgrumman.com",
         "CSO_Description": "The Northrop Grumman Cloud Platform (NGCP) is as a FedRAMP compliant Platform-as-a-Service (PaaS) where it deploys multiple Software-as-a-Service (SaaS) solutions to federal, state and commercial customers. Initially, this includes three Application Modules: Employee Performance Management (ePerformance), Environmental Program Information Management System (EPIMS) / Enterprise Environmental Safety & Occupational Health (EESOH) system, and e.POWER for Business Process Management. Northrop Grumman is deploying multiple NG SaaS products on the same re-usable framework.",
         "Announcement_Date": "2018-03-02T05:00:00.000Z",
-        "CSP_POC_Name": "Will Berry",
+        "CSP_POC_Name": "Tim Braun",
         "CSP_POC_Email": "NGCPaaS@ngc.com",
         "FedRAMP_In-Process_Date": "2017-02-23T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
@@ -7734,6 +7734,31 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Ivanti",
+        "Cloud_Service_Provider_Package": "Ivanti Service Manager",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1816364586",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Defense",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+        "Authorizing_Agency": "Department of Defense",
+        "Authorizing_Subagency": "Defense Health Agency",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Ivanti%20Logo.jpg",
+        "Independent_Assessor": "Kratos SecureInfo",
+        "CSP_Website": "https://www.ivanti.com/",
+        "CSO_Description": "Ivanti Service Manager, powered by HEAT, helps IT teams meet today’s government and user demands for effective service delivery and support. The solution, with workflow automation, mobile and integrated Voice support, enables IT teams to quickly deploy and configure a world-class service management solution. Cloud deployment is available from FedRAMP compliant AWS data centers in North America.\r\n\r\nService Manager is designed to be the central point of contact between users, employees and the IT organization. It offers first and second line support to users, where incidents, problems or inaccuracies in IT systems are reported. The solution can also be an important source of management information for reporting and auditing purposes.\r\n\r\nIvanti Service Manager fully supports Incident, Problem, Change and Release Management, Self-Service, 3rd party integration and more, and is Pink Verified on 13 ITIL processes, to improve IT support performance and efficiency.\r\n\r\nIvanti is headquartered in Salt Lake City, Utah, and has offices all over the world. For more information, visit (www.ivanti.com)[http://www.ivanti.com]  and follow us at @GoIvanti.",
+        "CSP_POC_Name": "Brian Ortega",
+        "CSP_POC_Email": "security@ivanti.com",
+        "FedRAMP_In-Process_Date": "2018-04-05T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Jive Software",
         "Cloud_Service_Provider_Package": "Jive FedRAMP",
         "Path": "Agency",
@@ -8013,7 +8038,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "OnSolve",
-        "Cloud_Service_Provider_Package": "SWN Emergency Notification Service (ENS)",
+        "Cloud_Service_Provider_Package": "Send Word Now from OnSolve",
         "Path": "Agency",
         "Designation": "In Process",
         "Package_ID": "F1508037126",
@@ -8805,7 +8830,7 @@
         "Provide_Consulting_Services": "Y",
         "Description_of_Consulting_Services": "Coalfire provides FedRAMP Advisory Support Services to customers who are interested in becoming FedRAMP certified. The level of support can vary, depending on the customer’s overall readiness. For those CSPs who are unfamiliar with the FedRAMP program or are new to the Federal space, we generally start with a Compliance Review to set a baseline for them to obtain a FedRAMP authorization and to determine where their gaps are with achieving compliance. For those CSPs who already understand the FedRAMP requirements, we conduct a technical engineering review to determine if the mandatory requirements for FedRAMP are in fact met. Depending on the need, we can provide additional vulnerability scanning support to ensure inventoried assets are properly patched and configured prior to the 3PAO assessment. Once the system is fully built and operational, our team works with the CSP to document the implementation of the security controls in the System Security Plan and complete the necessary attachments required for FedRAMP submission.",
         "Consulting_Services_To": "Over 80 CSPs (Cannot disclose due to NDAs/contractual agreements)",
-        "Additional_Cyber_Frameworks": "* 800-171\n* CJIS\n* CSA STAR\n* GDPR\n* HIPAA\n* HITRUST\n* IRS 1075\n* ISO\n* MARS-E\n* PCI DSS\n* PCI PA-DSS\n* PCI P2PE\n* PCI PA-P2PE\n* SOC"
+        "Additional_Cyber_Frameworks": "* 800-171\n* CMS EDE\n* CJIS\n* CSA STAR\n* GDPR\n* HIPAA\n* HITRUST\n* IRS 1075\n* ISO\n* MARS-E\n* PCI DSS\n* PCI PA-DSS\n* PCI P2PE\n* PCI PA-P2PE\n* SOC"
       },
       {
         "Name": "Cylance Inc.",
