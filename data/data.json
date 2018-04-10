@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-04-09T04:40:49.937Z",
+    "Created_At": "2018-04-10T04:40:50.155Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1780,6 +1780,16 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Price and Associates CPAs, LLC DBA A-LIGN",
             "Announcement_Date": "2015-06-11T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2018-03-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-03-26T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Trade Commission",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
+            "Include_In_Marketplace": "N",
+            "Independent_Assessor": "Price and Associates CPAs, LLC DBA A-LIGN",
+            "Announcement_Date": "2018-03-26T04:00:00.000Z"
           }
         ]
       },
@@ -5821,6 +5831,36 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "NICE inContact",
+        "Cloud_Service_Provider_Package": "NICE inContact CXone Customer Experience Platform",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1704655535",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2017-08-22T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Defense",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+        "Authorizing_Agency": "Department of Defense",
+        "Authorizing_Subagency": "United States Army",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/NICE%20inContact%20Logo.jpg",
+        "Independent_Assessor": "The Cadence Group",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
+        "CSP_Website": " www.niceincontact.com/FedRAMP-compliant-contact-center",
+        "CSO_Description": "NICE inContact is the cloud contact center software leader, with the most complete, easiest and most reliable solution to help organizations achieve their customer experience goals. Recognized as a market leader by Gartner, IDC, Frost & Sullivan, Ovum and DMG, NICE inContact continuously innovates in the cloud and is the only provider to offer a complete solution that includes NICE inContact CXone cloud, an expert service model and the broadest partner ecosystem. NICE inContact CXone combines best-in-class Omnichannel Routing, Workforce Optimization, Analytics, Automation and Artificial Intelligence—all on an Open Cloud Foundation. [www.niceincontact.com](www.niceincontact.com)",
+        "Announcement_Date": "2018-04-09T04:00:00.000Z",
+        "CSP_POC_Name": "Chris Romeo",
+        "CSP_POC_Email": "chris.romeo@niceincontact.com",
+        "FedRAMP_In-Process_Date": "2016-11-17T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Druva, Inc. ",
         "Cloud_Service_Provider_Package": "Druva inSync",
         "Path": "Agency",
@@ -7940,30 +7980,6 @@
         "CSP_POC_Name": "Ray Cruz",
         "CSP_POC_Email": "fedrampinfo@newrelic.com",
         "FedRAMP_In-Process_Date": "2016-03-16T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "NICE inContact",
-        "Cloud_Service_Provider_Package": "NICE inContact CXone Customer Experience Platform",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1704655535",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "United States Army",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US%20Army%20Logo.jpg",
-        "Authorizing_Agency": "United States Army",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/NICE%20inContact%20Logo.jpg",
-        "Independent_Assessor": "The Cadence Group",
-        "CSP_Website": " www.niceincontact.com/FedRAMP-compliant-contact-center",
-        "CSO_Description": "NICE inContact is the cloud contact center software leader, with the most complete, easiest and most reliable solution to help organizations achieve their customer experience goals. Recognized as a market leader by Gartner, IDC, Frost & Sullivan, Ovum and DMG, NICE inContact continuously innovates in the cloud and is the only provider to offer a complete solution that includes NICE inContact CXone cloud, an expert service model and the broadest partner ecosystem. NICE inContact CXone combines best-in-class Omnichannel Routing, Workforce Optimization, Analytics, Automation and Artificial Intelligence—all on an Open Cloud Foundation. [www.niceincontact.com](www.niceincontact.com)",
-        "CSP_POC_Name": "Chris Romeo",
-        "CSP_POC_Email": "chris.romeo@niceincontact.com",
-        "FedRAMP_In-Process_Date": "2016-11-17T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
