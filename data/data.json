@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-04-19T04:40:50.133Z",
+    "Created_At": "2018-04-20T04:40:50.047Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -6965,7 +6965,19 @@
         "Fedramp_Ready_Date": "2017-01-27T05:00:00.000Z",
         "FedRAMP_In-Process_Date": "2017-12-19T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2018-01-04T05:00:00.000Z",
+            "Letter_Expiration_Date": "2019-01-10T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-01-10T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2018-01-10T05:00:00.000Z"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Acendre, Inc.",
@@ -7077,6 +7089,7 @@
         "CSP_POC_Name": "Gregory Hewes",
         "CSP_POC_Email": "infosec@axon.com",
         "Fedramp_Ready_Date": "2017-11-17T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2018-03-08T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -7273,6 +7286,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CircleCi%20Logo.jpg",
         "Independent_Assessor": "General Services Administration",
         "CSP_Website": "https://circleci.com/",
+        "CSO_Description": "CircleCI provides software and a cloud environment that helps software developers test their code and deploy changes to production.",
         "CSP_POC_Name": "Angela Eichner",
         "CSP_POC_Email": "government@circleci.com",
         "FedRAMP_In-Process_Date": "2018-04-17T04:00:00.000Z",
@@ -8112,6 +8126,30 @@
         "CSP_POC_Name": "Ray Cruz",
         "CSP_POC_Email": "fedrampinfo@newrelic.com",
         "FedRAMP_In-Process_Date": "2016-03-16T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "New York University",
+        "Cloud_Service_Provider_Package": "Administrative Data Research Facility (ADRF)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1819057982",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Commerce",
+        "Authorizing_Agency": "Department of Commerce",
+        "Authorizing_Subagency": "United States Census Bureau",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/NYU%20Logo.jpg",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "CSP_Website": "http://cusp.nyu.edu/coleridge-initiative/",
+        "CSO_Description": "The ADRF system is designed to promote access to and use of government administrative records across agency lines.  It provides access to collaborative tools and rich documentation so that knowledge and analysis can be shared and reused. It hosts confidential data for a range of agencies at the federal, state and local levels, and serves multiple domains – including criminal justice, welfare, labor, education, health, housing and transportation. ",
+        "CSP_POC_Name": "Julia Lane",
+        "CSP_POC_Email": "fedramp-adrf@nyu.edu",
+        "FedRAMP_In-Process_Date": "2018-04-09T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
