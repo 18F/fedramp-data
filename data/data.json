@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-04-20T04:40:50.047Z",
+    "Created_At": "2018-04-21T04:40:50.004Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1141,7 +1141,7 @@
           "F1206061353"
         ],
         "CSP_Website": "www.salesforce.com/industries/public-sector",
-        "CSO_Description": "The Salesforce Government Cloud is a partitioned instance of salesforce.com’s multi-tenant public cloud infrastructure, specifically for use by U.S federal, state, and local government customers, U.S. government contractors, and Federally Funded Research and Development Centers (FFRDCs).  The service model for the Salesforce Government Cloud is Platform-as-a-Service (PaaS) and Software-as-a-Service (SaaS). The Salesforce Government Cloud is comprised of the Salesforce Services (Sales Cloud, Service Cloud, Chatter, Analytics Cloud, Work.com), Force.com Platform, Industries Apps (Health Cloud, Financial Services Cloud), Platform Encryption, Communities and the backend infrastructure that support the operations of these products.",
+        "CSO_Description": "The Salesforce Government Cloud is a partitioned instance of Salesforce’s Platform-as-a-Service (PaaS) and Software-as-a-Service (SaaS), multi-tenant community cloud infrastructure specifically for use by U.S federal, state, and local government customers, U.S. government contractors, and Federally Funded Research and Development Centers (FFRDCs). The Salesforce Government Cloud is comprised of the Salesforce services: Lightning Platform, Sales, Service, Communities, Analytics, and Industry Solutions. Additional information is available at: (https://trust.salesforce.com/en/compliance/)[https://trust.salesforce.com/en/compliance/]. A complete list of current in-scope Salesforce products included in the authorization boundary is available upon request.",
         "Announcement_Date": "2014-05-23T04:00:00.000Z",
         "CSP_POC_Name": "N/A",
         "CSP_POC_Email": "fedramp@salesforce.com",
@@ -5235,7 +5235,18 @@
         "CSP_POC_Email": "compliance@cylance.com",
         "FedRAMP_In-Process_Date": "2016-06-15T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2018-04-20T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-04-20T04:00:00.000Z",
+            "Authorizing_Agency": "Surface Transportation Board",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SurfaceTransportationBoard-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Booz Allen Hamilton",
+            "Announcement_Date": "2018-04-20T04:00:00.000Z"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Box Inc.",
@@ -6794,6 +6805,15 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc.",
             "Announcement_Date": "2017-04-28T04:00:00.000Z"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2018-01-26T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2018-01-26T05:00:00.000Z"
           }
         ]
       },
@@ -7286,7 +7306,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CircleCi%20Logo.jpg",
         "Independent_Assessor": "General Services Administration",
         "CSP_Website": "https://circleci.com/",
-        "CSO_Description": "CircleCI provides software and a cloud environment that helps software developers test their code and deploy changes to production.",
+        "CSO_Description": "CircleCI is a highly configurable and powerful continuous integration and delivery platform that helps software teams confidently and securely release code by automating the build, test, and deploy process.  Our cloud offering removes operational overhead as we oversee the setup, security, and maintenance of your continuous integration instances. \r\n \r\nWith easy setup and configuration-as-code, CircleCI removes bottlenecks, allowing teams to focus on building great things, instead of waiting for great things to build. By enabling shorter iteration cycles and immediate feedback, innovation happens faster. The platform helps developers and QA find bugs and get fixes out quickly.   Operations teams use CircleCI to simplify their tool chains without having to manage additional plugins and services.  \n\nScale is where (https://circleci.com)[https://circleci.com] really shines.  We're proud to support our customers, from small startups to the largest enterprises and government agencies on earth.  ",
         "CSP_POC_Name": "Angela Eichner",
         "CSP_POC_Email": "government@circleci.com",
         "FedRAMP_In-Process_Date": "2018-04-17T04:00:00.000Z",
