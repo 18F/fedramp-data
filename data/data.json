@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-04-24T04:40:49.925Z",
+    "Created_At": "2018-04-25T04:40:50.009Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3127,7 +3127,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
         "Authorizing_Agency": "United States Agency for International Development",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/TIBCO%20Logo.jpg",
-        "Independent_Assessor": "Kratos SecureInfo",
+        "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW"
         ],
@@ -7000,6 +7000,35 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "IBM",
+        "Cloud_Service_Provider_Package": "IBM Connections Social",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1717348637",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2018-01-03T05:00:00.000Z",
+        "Sponsoring_Agency": "Peace Corps",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Peace%20Corps%20Logo.jpg",
+        "Authorizing_Agency": "Peace Corps",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/IBM%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1211011660 "
+        ],
+        "CSP_Website": "https://www.ibm.com/us-en/",
+        "CSO_Description": "IBM Connections Social is a set of web-based collaboration services combined with social network software. Delivered as software as a service from the IBM Cloud Marketplace, IBM Connections Social includes file networking and storage, activity management and social network software. The IBM Connections Social infrastructure is hosted by SoftLayer, an Infrastructure as a Service (IaaS) hosting provider based Richardson, TX and Ashburn, VA.  The deployment model of the SaaS Application System Collaborative Environment is that of a Community Cloud as defined by NIST Special Publication 800-145, The NIST Definition of Cloud Computing.  ",
+        "Announcement_Date": "2018-04-24T04:00:00.000Z",
+        "CSP_POC_Name": "Kevin Lynch",
+        "CSP_POC_Email": "Kevin_Lynch@us.ibm.com",
+        "FedRAMP_In-Process_Date": "2017-06-16T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Acendre, Inc.",
         "Cloud_Service_Provider_Package": "Acendre Talent Management Solution Suite",
         "Path": "Agency",
@@ -7776,30 +7805,6 @@
         "CSP_POC_Name": "Tom Riley",
         "CSP_POC_Email": "inquiries@hrworx.com",
         "FedRAMP_In-Process_Date": "2017-10-03T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "IBM",
-        "Cloud_Service_Provider_Package": "IBM Connections Social",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1717348637",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Peace Corps",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Peace%20Corps%20Logo.jpg",
-        "Authorizing_Agency": "Peace Corps",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/IBM%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://www.ibm.com/us-en/",
-        "CSO_Description": "IBM Connections Social is a set of web-based collaboration services combined with social network software. Delivered as software as a service from the IBM Cloud Marketplace, IBM Connections Social includes file networking and storage, activity management and social network software. The IBM Connections Social infrastructure is hosted by SoftLayer, an Infrastructure as a Service (IaaS) hosting provider based Richardson, TX and Ashburn, VA.  The deployment model of the SaaS Application System Collaborative Environment is that of a Community Cloud as defined by NIST Special Publication 800-145, The NIST Definition of Cloud Computing.  ",
-        "CSP_POC_Name": "Kevin Lynch",
-        "CSP_POC_Email": "Kevin_Lynch@us.ibm.com",
-        "FedRAMP_In-Process_Date": "2017-06-16T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
