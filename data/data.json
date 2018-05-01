@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-04-30T04:40:49.885Z",
+    "Created_At": "2018-05-01T04:40:50.114Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4300,6 +4300,17 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc.",
             "Announcement_Date": "2018-02-28T05:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2018-04-30T04:00:00.000Z",
+            "Letter_Expiration_Date": "2019-01-20T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-04-30T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Trade Commission",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2018-04-30T04:00:00.000Z"
           }
         ]
       },
@@ -6609,6 +6620,17 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc.",
             "Announcement_Date": "2018-03-09T05:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2018-04-30T04:00:00.000Z",
+            "Letter_Expiration_Date": "2019-01-20T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-04-30T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Trade Commission",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2018-04-30T04:00:00.000Z"
           }
         ]
       },
@@ -7174,7 +7196,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Adobe",
-        "Cloud_Service_Provider_Package": "Adobe Document Cloud",
+        "Cloud_Service_Provider_Package": "Adobe Document Cloud (PDF Services & Adobe Sign)",
         "Path": "Agency",
         "Designation": "In Process",
         "Package_ID": "FR1820435961",
@@ -7327,26 +7349,6 @@
         "CSP_POC_Name": "Burke Daidy",
         "CSP_POC_Email": "fedramp@broadsoft.com",
         "FedRAMP_In-Process_Date": "2017-07-28T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "ByteGrid",
-        "Cloud_Service_Provider_Package": "ByteGrid IaaS Platform",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR1720550106",
-        "Service_Model": [
-          "IaaS"
-        ],
-        "Deployment_Model": "Private Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Bytegrid%20Logo.jpg",
-        "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
-        "CSP_Website": "https://www.bytegrid.com/",
-        "CSO_Description": "The ByteGrid IaaS Platform is a secure, compliant storage and compute private cloud infrastructure for Federal Agencies. The ByteGrid IaaS Platform consists of firewalls, switches, servers, network appliances, storage, virtualization software, anti-virus/security servers, and centralized logging systems. All of these components together comprise a private cloud environment suitable for all sizes of federal entities. The core makeup of the cloud is built to a specification that is easily scalable for smaller or much larger enterprise cloud computing needs. A significant feature of the ByteGrid IaaS Platform is that the hardware, security and compliance framework is setup to meet the needs of many different agencies with FedRAMP Requirements.\n\nByteGrid is a trusted and leading provider of highly secure and compliant solutions serving the most demanding requirements of enterprise and government customers, including those in the Federal, Life Sciences and Health IT industries. ByteGrid focuses on technology solutions and services that ensure that regulatory expectations are always met. ByteGrid’s robust, scalable and highly secure offerings in Colocation, Managed Hosting, Hybrid, Private and Community Cloud solutions as well as compliance services are delivered from an interconnected national platform of validated Tier 3 / 4 data centers. For more information visit www.ByteGrid.com.",
-        "CSP_POC_Name": "Jason Silva",
-        "CSP_POC_Email": "fedramp@bytegrid.com",
-        "Fedramp_Ready_Date": "2017-04-14T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -8508,9 +8510,33 @@
         "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
         "CSP_Website": "https://www.proofpoint.com",
         "CSO_Description": "The Proofpoint Email and Information Protection Service is a powerful cloud email security service that integrates threat protection, virus protection, spam detection, message encryption, data loss prevention (DLP), and digital asset protection technologies into an extensible message management platform. The service is designed to fit easily into existing messaging infrastructure, providing efficient performance, accurate message analysis, and a web-based interface for reporting, configuration, and management tasks.",
-        "CSP_POC_Name": "John Richards",
+        "CSP_POC_Name": "Alexandra Rashdan",
         "CSP_POC_Email": "fedramp@proofpoint.com",
         "FedRAMP_In-Process_Date": "2017-04-03T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Proofpoint, Inc.",
+        "Cloud_Service_Provider_Package": "Proofpoint Targeted Attack Protection",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1819168894",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Federal Communications Commission",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
+        "Authorizing_Agency": "Federal Communications Commission",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Proofpoint%20Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
+        "CSP_Website": "https://www.proofpoint.com",
+        "CSO_Description": "Proofpoint Targeted Attack Protection (TAP) helps detect, mitigate, and block advanced threat that target people through email. It detects both known and new, never-before-seen attacks that use malicious attachments and URLs to install malware on a device or trick users to share their passwords or other sensitive information.",
+        "CSP_POC_Name": "Alexandra Rashdan",
+        "CSP_POC_Email": "fedramp@proofpoint.com",
+        "FedRAMP_In-Process_Date": "2018-04-27T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -8949,6 +8975,30 @@
         "CSP_POC_Name": "Jimmy Chang",
         "CSP_POC_Email": "federal@workspot.com",
         "FedRAMP_In-Process_Date": "2017-01-30T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Xerox Corporation",
+        "Cloud_Service_Provider_Package": "Managed Print Services for US Federal Government",
+        "Path": "JAB",
+        "Designation": "In Process",
+        "Package_ID": "FR1730334049",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Joint Authorization Board",
+        "Authorizing_Agency": "Joint Authorization Board",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Xerox%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.xerox.com",
+        "CSO_Description": "Xerox Managed Print Services (MPS) for US Federal Government is a cloud-based MPS solution developed specifically to help U.S. federal government agencies maximize productivity and security and reduce waste and risk.\r\n\r\nThe Xerox solution is the holistic and efficient management for Xerox and Non-Xerox printing/imaging devices such as printers, fax machines, copiers and multi-function devices.\r\n \r\nMPS focuses on the management of print output devices themselves, related supplies and service requirements.  MPS ensures proactive management resulting in maximum device uptime, device utilization/optimization, while providing flexible print capabilities and print policy management.",
+        "CSP_POC_Name": "Eric Wolf",
+        "CSP_POC_Email": "fedramp@xerox.com",
+        "Fedramp_Ready_Date": "2017-08-14T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2018-04-17T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
