@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-05-01T04:40:50.114Z",
+    "Created_At": "2018-05-02T04:40:50.132Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -7087,7 +7087,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/IBM%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "Underlying_CSP_Package_ID": [
-          "F1211011660 "
+          "F1211011660"
         ],
         "CSP_Website": "https://www.ibm.com/us-en/",
         "CSO_Description": "IBM Connections Social is a set of web-based collaboration services combined with social network software. Delivered as software as a service from the IBM Cloud Marketplace, IBM Connections Social includes file networking and storage, activity management and social network software. The IBM Connections Social infrastructure is hosted by SoftLayer, an Infrastructure as a Service (IaaS) hosting provider based Richardson, TX and Ashburn, VA.  The deployment model of the SaaS Application System Collaborative Environment is that of a Community Cloud as defined by NIST Special Publication 800-145, The NIST Definition of Cloud Computing.  ",
@@ -7585,7 +7585,7 @@
         "Cloud_Service_Provider_Name": "CrowdStrike, Inc.",
         "Cloud_Service_Provider_Package": "Falcon Platform",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "FedRAMP Ready",
         "Package_ID": "FR1807853629",
         "Service_Model": [
           "SaaS"
@@ -8684,6 +8684,31 @@
         "CSP_POC_Name": "David Greetham",
         "CSP_POC_Email": "ediscoverysales@ricoh-usa.com",
         "Fedramp_Ready_Date": "2017-12-20T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Saviynt, Inc.",
+        "Cloud_Service_Provider_Package": "Identity Governance as a Services (IGSaaS)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1821062403",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "Centers for Medicare and Medicaid Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Saviynt%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.saviynt.com",
+        "CSO_Description": "Saviynt delivers an intelligent Identity Governance and Administration (IGA) solution that enables its customers to effectively manage risk, address continuous compliance needs and securely adopt cloud technologies with confidence. The solution combines advanced analytics with fine-grained privilege management to secure critical data, infrastructure and application assets for Cloud and Enterprise in a unified platform.\n\nSaviynt’s completely managed and flexible IGA-as-a-Service platform ensures a worry-free adoption of Identity Management and Governance services such as user lifecycle management, access request and certification, SOD management, infrastructure access governance for IaaS providers (AWS & Azure), data access governance, privileged access management & monitoring to secure critical enterprise assets.",
+        "CSP_POC_Name": "Matt Schmidt",
+        "CSP_POC_Email": "fedramp@saviynt.com",
+        "FedRAMP_In-Process_Date": "2018-04-24T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
