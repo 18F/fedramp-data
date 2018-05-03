@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-05-02T04:40:50.132Z",
+    "Created_At": "2018-05-03T04:40:50.165Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2013,7 +2013,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
         "Authorizing_Agency": "Department of Commerce",
         "Authorizing_Subagency": "United States Census Bureau",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Esri%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Esri%20Logo2.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW"
@@ -5793,6 +5793,17 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Kratos SecureInfo",
             "Announcement_Date": "2017-08-03T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2018-04-30T04:00:00.000Z",
+            "Letter_Expiration_Date": "2019-01-20T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-04-30T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Trade Commission",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Kratos SecureInfo",
+            "Announcement_Date": "2018-04-30T04:00:00.000Z"
           }
         ]
       },
@@ -6631,6 +6642,17 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc.",
             "Announcement_Date": "2018-04-30T04:00:00.000Z"
+          },
+          {
+            "Letter_Expiration_Date": "2020-12-29T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-12-29T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Customs and Border Protection",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2017-12-29T05:00:00.000Z"
           }
         ]
       },
@@ -7355,13 +7377,18 @@
       {
         "Cloud_Service_Provider_Name": "CA Technologies Inc.",
         "Cloud_Service_Provider_Package": "CA Infrastructure General Support Systems (GSS)",
-        "Designation": "FedRAMP Ready",
+        "Path": "Agency",
+        "Designation": "In Process",
         "Package_ID": "FR1722462413",
         "Service_Model": [
           "PaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "National Cancer Institute",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CA%20Tech%20Logo.jpg",
         "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
         "CSP_Website": "www.ca.com",
@@ -7369,19 +7396,25 @@
         "CSP_POC_Name": "Sean Aryai",
         "CSP_POC_Email": "sean.aryai@ca.com",
         "Fedramp_Ready_Date": "2017-08-07T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2018-05-02T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "CA Technologies Inc.",
         "Cloud_Service_Provider_Package": "CA Project & Portfolio Management (PPM)",
-        "Designation": "FedRAMP Ready",
+        "Path": "Agency",
+        "Designation": "In Process",
         "Package_ID": "FR1722532017",
         "Service_Model": [
           "SaaS"
         ],
         "Deployment_Model": "Private Cloud",
         "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "National Cancer Institute",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CA%20Tech%20Logo.jpg",
         "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
         "CSP_Website": "www.ca.com",
@@ -7389,6 +7422,7 @@
         "CSP_POC_Name": "Steve Zorra",
         "CSP_POC_Email": "sean.aryai@ca.com",
         "Fedramp_Ready_Date": "2017-08-07T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2018-05-02T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -7782,6 +7816,30 @@
         "CSP_POC_Name": "Kathy Sorell",
         "CSP_POC_Email": "fedramp@equinix.com",
         "FedRAMP_In-Process_Date": "2016-08-17T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Esri",
+        "Cloud_Service_Provider_Package": "ArcGIS Online (AGO)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1811073663",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Low",
+        "Sponsoring_Agency": "Department of the Interior",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+        "Authorizing_Agency": "Department of the Interior",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Esri%20Logo2.jpg",
+        "Independent_Assessor": "Mars Technology",
+        "CSP_Website": "https://www.arcgis.com ",
+        "CSO_Description": "ArcGIS Online is a web-based GIS, hosted by Esri and delivered as SaaS (software-as-a-service). With ArcGIS Online, organizations can get up and running quickly, and securely create, organize, and manage geographic information in one system. It connects users in your organization with up-to-date content including ready-to-use apps, maps, 3D scenes, and layers so they can build useful information products and accomplish their work more efficiently. ArcGIS Online facilitates collaboration and sharing information with internal stakeholders, as well as your customers, contractors, and the public by providing access to maps, apps, and data from any device, anywhere, anytime. ArcGIS Online is built on open, scalable technology that automatically adjusts to meet peak demand periods without you having to worry about adding and managing additional resources.",
+        "CSP_POC_Name": "Michael Young",
+        "CSP_POC_Email": "FedRAMP@esri.com",
+        "FedRAMP_In-Process_Date": "2018-04-27T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -8689,7 +8747,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Saviynt, Inc.",
-        "Cloud_Service_Provider_Package": "Identity Governance as a Services (IGSaaS)",
+        "Cloud_Service_Provider_Package": "Identity Governance as a Service (IGAaaS)",
         "Path": "Agency",
         "Designation": "In Process",
         "Package_ID": "FR1821062403",
