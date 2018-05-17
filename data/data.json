@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-05-16T04:40:50.230Z",
+    "Created_At": "2018-05-17T04:40:50.137Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2473,16 +2473,6 @@
             "Announcement_Date": "2014-12-22T05:00:00.000Z"
           },
           {
-            "Letter_Date": "2015-05-01T04:00:00.000Z",
-            "Letter_Expiration_Date": "2018-05-15T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2015-05-01T04:00:00.000Z"
-          },
-          {
             "Letter_Date": "2015-04-13T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2015-04-13T04:00:00.000Z",
             "Authorizing_Agency": "Department of Homeland Security",
@@ -2590,6 +2580,16 @@
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc.",
             "Announcement_Date": "2016-06-29T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-09-29T04:00:00.000Z",
+            "Letter_Expiration_Date": "2019-09-29T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2016-09-29T04:00:00.000Z"
           },
           {
             "Letter_Date": "2016-11-22T05:00:00.000Z",
@@ -3972,23 +3972,25 @@
         "Cloud_Service_Provider_Name": "Knight Point Systems",
         "Cloud_Service_Provider_Package": "CloudSeed",
         "Path": "CSP",
-        "Designation": "Compliant",
+        "Designation": "In Process",
         "Package_ID": "F1502276491",
         "Service_Model": [
           "IaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "CSP Supplied",
-        "Authorizing_Agency": "CSP Supplied",
+        "Sponsoring_Agency": "Department of Homeland Security",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+        "Authorizing_Agency": "Department of Homeland Security",
+        "Authorizing_Subagency": "United States Coast Guard",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Knightpoint%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.knightpoint.com",
         "CSO_Description": "The KPS Federal Community Cloud, called CloudSeed®, is an off-premises IaaS solution that is FedRAMP compliant and meets DoD PA SRG Level 5 controls while leveraging Cisco hardware, world-class Equinix facilities, and open-source technology to provide compute, storage, and network resources to Federal customers in a secure manner. Customers can engage resources in an a la carte, and “pay for performance” model that allows them to know exactly what to expect – It’s the technology you need, when you need it.\n\nAll infrastructure resources are managed and monitored through the KPS tool “Zeus”, which is included within the boundaries of the CloudSeed system, and gives customers the ability to view and manage cloud resources across the full range of possible KPS cloud deployments – Public, Federal Community, and Private - as well as across multiple CSPs (AWS, Azure, etc.) and on-premise virtualization technologies (ESXi, KVM, etc.).  By providing customers this single pane of glass to both view and manage all of their infrastructure solutions, Zeus allows for true “hybrid” cloud solutions that can combine pre-existing customer solutions with new cloud-based solutions.  Zeus gives customers a truly \"holistic\" view into their infrastructure, and allows them to move workloads across solutions as-needed to address specific business requirements.\n\nThe technical architecture that makes up CloudSeed is also available via the KPS Public Cloud for both Federal and Commercial customers, as well as in private cloud deployments on a customer's premises or in KPS' FedRAMP compliant data center.  This architecture providers cheap, efficient, and reliable clouds by abstracting the underlying physical hardware and automatically and instantly recognizing every piece of hardware that is plugged into the system as simply Compute, Storage, or Network resources.  In other words, KPS customers are able to use their pre-existing equipment as the basis for their own private cloud deployment simply by connecting it to the system via ethernet or fiber cable.  Through this technology, customers are able to instantiate an entire cloud from scratch in under 20 minutes while re-using many of the same technical controls implemented in Knight Point's Federal Cloud, giving them previously unparalleled flexibility in their cloud deployments.",
-        "Announcement_Date": "2016-05-19T04:00:00.000Z",
         "CSP_POC_Name": "Ryan Lewis",
         "CSP_POC_Email": "info@knightpoint.com",
         "Fedramp_Ready_Date": "2016-03-04T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2018-05-16T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -7365,13 +7367,17 @@
       {
         "Cloud_Service_Provider_Name": "Avaya, Inc.",
         "Cloud_Service_Provider_Package": "Avaya Cloud Secure",
-        "Designation": "FedRAMP Ready",
+        "Path": "Agency",
+        "Designation": "In Process",
         "Package_ID": "F1506046708",
         "Service_Model": [
           "SaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "United States House of Representatives",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/House%20of%20Reps%20Logo.jpg",
+        "Authorizing_Agency": "United States House of Representatives",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Avaya%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "https://www.avaya.com/en/fedramp",
@@ -7379,6 +7385,7 @@
         "CSP_POC_Name": "Patrick Goins",
         "CSP_POC_Email": "fedramp@avaya.com",
         "Fedramp_Ready_Date": "2017-12-11T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2018-05-15T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -7636,9 +7643,6 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
         "Authorizing_Agency": "Department of Homeland Security ",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Collibra%20Logo.jpg",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW"
-        ],
         "CSP_Website": "www.collibra.com",
         "CSO_Description": "Collibra makes it easy for data citizens to find, understand and trust the organizational data they need to make business decisions every day. Unlike traditional data governance solutions, Collibra is a cross-organizational platform that breaks down the traditional data silos, freeing the data so all users have access.",
         "Expected_Compliance_Date": "2018-06-30T04:00:00.000Z",
@@ -9027,9 +9031,6 @@
         "Authorizing_Agency": "Department of the Treasury",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/DoT%20Logo.jpg",
         "Independent_Assessor": "Lunarline, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866"
-        ],
         "CSP_Website": "https://www.workplace.gov",
         "CSO_Description": "The Workplace.gov Community Cloud High (WC2-H) uses a government community cloud deployment model and the cloud computing service model for WC2 is both Platform as a Service (PaaS) and Infrastructure as a Service (IaaS) provider.  Amazon Web Services Gov-cloud (AWS) is leveraged to provide service. The WC2 system provides a platform for government customers’ systems and applications to allow them the capability to utilize cloud computing hosting environments, implement continuous integration and development using modern DevOps tools. The WC2 infrastructure allows Treasury customers to focus on the operational and business aspects of their web presence such as usability, information architecture and content authoring without having to re-invent and configure the technical infrastructure each time.",
         "CSP_POC_Name": "Kamil Kuza",
@@ -9055,7 +9056,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Valimail%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "https://www.valimail.com/solutions-for-government/",
-        "CSO_Description": "Valimail is the world's only automated Email Authentication platform. Valimail automates DMARC, an industry email authentication standard supported by all US service providers (Google, Yahoo, Microsoft, Amazon, etc). DMARC provides 100% protection from \"spoofing\" a domain (i.e. phishing, fraud, scams, etc). Valimail offers the only automated cloud-based service that can guarantee full DMARC enforcement in complex enterprises, and provides worldwide visibility to all email activity for a registered domain. In Oct 2017, the Department of Homeland Security issued Binding Operational Directive (BOD) 18-01 requiring all Federal executive agencies implement DMARC to stop fraud and phishing from .GOV domains. Valimail is delivering its DMARC monitoring, SPF management, and DMARC enforcement services via the FedRAMP program to meet the needs of Federal agencies implementing DMARC.",
+        "CSO_Description": "Valimail automates DMARC enforcement, an industry email authentication supported by all US service providers that provides 100% protection from phishing and domain “spoofing\". In Oct 2017, DHS issued Binding Operational Directive (BOD) 18-01 requiring all Federal executive agencies implement DMARC by Oct 2018 to protect .GOV domains from phishing and fraudulent use. \r\n\r\nValimail offers DMARC monitoring, SPF management, and DMARC enforcement services in a FedRAMP hosted environment for government agencies to easily comply with BOD 18-01. Valimail guarantees rapid DMARC enforcement in complex enterprises, and provides worldwide visibility to all authorized senders, “shadow IT”, and malicious email activity in a .GOV domain.",
         "CSP_POC_Name": "Benn Stratton",
         "CSP_POC_Email": "fedramp@valimail.com",
         "FedRAMP_In-Process_Date": "2018-04-13T04:00:00.000Z",
@@ -9252,6 +9253,31 @@
         "CSP_POC_Name": "Nate Palmore",
         "CSP_POC_Email": "fedramp@zendesk.com",
         "FedRAMP_In-Process_Date": "2018-05-09T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Zimperium",
+        "Cloud_Service_Provider_Package": "Zimperium Federal Cloud",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1731347234",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Low",
+        "Sponsoring_Agency": "Department of Homeland Security",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+        "Authorizing_Agency": "Department of Homeland Security",
+        "Authorizing_Subagency": "Immigration and Customs Enforcement",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Zimperium%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://www.zimperium.com",
+        "CSO_Description": "Zimperium Federal cloud (ZFC) is a Cloud based application deployed on the AWS GovCloud infrastructure which, when combined with the Zimperium mobile application (zIPS), provides a comprehensive Mobile Threat Defense (MTD) solution.  Zimperium's Amazon GovCloud based application provides security teams with visibility on the threats and vulnerabilities across all mobile devices in the organization to assess organization risk, identify security gaps and remediate.  The zIPS on-device app incorporates machine learning techniques to detect anomalies to the mobile device's operating system's statistics, memory, CPU and other system parameters and accurately identify not only the specific type of malicious attack, but also the forensics associated with the who, what, where, when, and how of an attack occurrence.",
+        "CSP_POC_Name": "Jerome Brock",
+        "CSP_POC_Email": "fedramp@zimperium.com",
+        "FedRAMP_In-Process_Date": "2018-05-01T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
