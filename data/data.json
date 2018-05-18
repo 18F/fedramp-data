@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-05-17T04:40:50.137Z",
+    "Created_At": "2018-05-18T04:40:49.927Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2413,376 +2413,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Microsoft",
-        "Cloud_Service_Provider_Package": "Office 365 Multi-Tenant & Supporting Services ",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "MSO365MT",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2014-11-13T05:00:00.000Z",
-        "Original_Expiration_Date": "2017-11-13T05:00:00.000Z",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "Authorizing_Subagency": "HHS Office of the Inspector General",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Microsoft%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1209051525",
-          "F1206061353"
-        ],
-        "CSP_Website": "www.microsoft.office.com",
-        "CSO_Description": "Office 365 MultiTenant is a Software as a Service offering with government specific instances of some services including Exchange Online, SharePoint Online, and Skype for Business. The government specific instances are designated for the sole use of U.S federal, tribal, state, and local government customers, U.S. government contractors, and Federally Funded Research and Development Centers (FFRDCs). Office 365 delivers customers with familiar productivity, communication and collaboration capabilities all in a service that is reliable, secure and able to rapidly scale up or down to meet variable resource demands.",
-        "Announcement_Date": "2014-11-20T05:00:00.000Z",
-        "CSP_POC_Name": "N/A",
-        "CSP_POC_Email": "O365FedRAMP@microsoft.com",
-        "FedRAMP_In-Process_Date": "2014-05-11T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2015-06-24T04:00:00.000Z",
-            "Letter_Expiration_Date": "2018-06-24T04:00:00.000Z",
-            "Authorizing_Agency": "Tennessee Valley Authority",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-TennesseeValleyAuthority-Logo.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2015-06-24T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2015-08-20T04:00:00.000Z",
-            "Letter_Expiration_Date": "2018-08-20T04:00:00.000Z",
-            "Authorizing_Agency": "National Capital Planning Commission",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NationalCapitalPlanningCommission-Logo.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2015-08-20T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2014-12-22T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Housing and Urban Development",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHUD-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2014-12-22T05:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2015-04-13T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2015-04-13T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2015-04-13T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2014-11-05T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "United States Census Bureau",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2014-11-05T05:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2014-10-24T04:00:00.000Z",
-            "Authorizing_Agency": "National Labor Relations Board",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/National_Labor_Relations_Board_logo_-_color.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2014-10-24T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2016-03-25T04:00:00.000Z",
-            "Authorizing_Agency": "National Science Foundation",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2016-03-25T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2016-06-14T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-06-14T04:00:00.000Z",
-            "Authorizing_Agency": "Surface Transportation Board",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SurfaceTransportationBoard-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2016-06-14T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2016-07-06T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2016-07-06T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2016-08-04T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-08-04T04:00:00.000Z",
-            "Authorizing_Agency": "Corporation for National and Community Service",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/cncs_1.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2016-08-04T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2016-09-26T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Authorizing_Subagency": "Federal Energy Regulatory Commission",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2016-09-26T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2016-07-26T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-07-26T04:00:00.000Z",
-            "Authorizing_Agency": "Department of State",
-            "Authorizing_Subagency": "State Office of the Inspector General",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2016-07-26T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2016-07-08T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-07-13T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-07-13T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2016-07-13T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2016-06-29T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-06-29T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Transportation",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2016-06-29T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2016-09-29T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-09-29T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2016-09-29T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2016-11-22T05:00:00.000Z",
-            "Authorizing_Agency": "Council of the Inspectors General on Integrity and Efficiency",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CIGIE%20Logo.jpg",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2016-11-22T05:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2016-12-21T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Authorizing_Subagency": "National Nuclear Security Administration / Lawrence Livermore National Laboratory",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2016-12-21T05:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2016-10-07T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Veterans Affairs",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2016-10-07T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2017-03-31T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Deposit Insurance Corporation",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2017-03-31T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2017-03-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-03-30T04:00:00.000Z",
-            "Authorizing_Agency": "United States Equal Employment Opportunity Commission",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/EEOC%20Logo.jpg",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2017-03-30T04:00:00.000Z"
-          },
-          {
-            "Letter_Expiration_Date": "2018-06-11T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-06-11T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Technical Information Service",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2017-06-11T04:00:00.000Z"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2017-06-21T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Authorizing_Subagency": "Internal Revenue Service",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2017-06-21T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2017-08-09T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-08-25T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Food and Drug Administration",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2017-08-25T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2017-08-30T04:00:00.000Z",
-            "Letter_Expiration_Date": "2018-08-30T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Telecommunications and Information Administration",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2017-08-30T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2017-07-14T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-07-14T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2017-07-14T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2017-09-13T04:00:00.000Z",
-            "Letter_Expiration_Date": "2018-09-12T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-09-14T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "FirstNet",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2017-09-14T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2017-06-15T04:00:00.000Z",
-            "Letter_Expiration_Date": "2018-08-07T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-08-02T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "United States Patent and Trademark Office",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2017-08-02T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2017-09-22T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-09-22T04:00:00.000Z",
-            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2017-09-22T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2017-02-14T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Institute of Standards and Technology",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2017-02-14T05:00:00.000Z"
-          },
-          {
-            "Letter_Expiration_Date": "2020-03-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-03-31T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "International Trade Administration",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2017-03-31T04:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2017-12-03T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-12-03T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Information Systems Agency",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2017-12-03T05:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2017-11-21T05:00:00.000Z",
-            "Letter_Expiration_Date": "2018-05-24T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-12-21T05:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Authorizing_Subagency": "Office of the Comptroller of the Currency",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2017-12-21T05:00:00.000Z"
-          },
-          {
-            "Letter_Date": "2017-12-19T05:00:00.000Z",
-            "Letter_Expiration_Date": "2020-12-19T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-12-26T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Labor",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc.",
-            "Announcement_Date": "2017-12-26T05:00:00.000Z"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Netcomm",
         "Cloud_Service_Provider_Package": "Beacon",
         "Path": "Agency",
@@ -3965,32 +3595,6 @@
         "CSP_POC_Name": "Timothy Clinton",
         "CSP_POC_Email": "securityteam@compusearch.com",
         "FedRAMP_In-Process_Date": "2015-10-20T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Knight Point Systems",
-        "Cloud_Service_Provider_Package": "CloudSeed",
-        "Path": "CSP",
-        "Designation": "In Process",
-        "Package_ID": "F1502276491",
-        "Service_Model": [
-          "IaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Homeland Security",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-        "Authorizing_Agency": "Department of Homeland Security",
-        "Authorizing_Subagency": "United States Coast Guard",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Knightpoint%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.knightpoint.com",
-        "CSO_Description": "The KPS Federal Community Cloud, called CloudSeed®, is an off-premises IaaS solution that is FedRAMP compliant and meets DoD PA SRG Level 5 controls while leveraging Cisco hardware, world-class Equinix facilities, and open-source technology to provide compute, storage, and network resources to Federal customers in a secure manner. Customers can engage resources in an a la carte, and “pay for performance” model that allows them to know exactly what to expect – It’s the technology you need, when you need it.\n\nAll infrastructure resources are managed and monitored through the KPS tool “Zeus”, which is included within the boundaries of the CloudSeed system, and gives customers the ability to view and manage cloud resources across the full range of possible KPS cloud deployments – Public, Federal Community, and Private - as well as across multiple CSPs (AWS, Azure, etc.) and on-premise virtualization technologies (ESXi, KVM, etc.).  By providing customers this single pane of glass to both view and manage all of their infrastructure solutions, Zeus allows for true “hybrid” cloud solutions that can combine pre-existing customer solutions with new cloud-based solutions.  Zeus gives customers a truly \"holistic\" view into their infrastructure, and allows them to move workloads across solutions as-needed to address specific business requirements.\n\nThe technical architecture that makes up CloudSeed is also available via the KPS Public Cloud for both Federal and Commercial customers, as well as in private cloud deployments on a customer's premises or in KPS' FedRAMP compliant data center.  This architecture providers cheap, efficient, and reliable clouds by abstracting the underlying physical hardware and automatically and instantly recognizing every piece of hardware that is plugged into the system as simply Compute, Storage, or Network resources.  In other words, KPS customers are able to use their pre-existing equipment as the basis for their own private cloud deployment simply by connecting it to the system via ethernet or fiber cable.  Through this technology, customers are able to instantiate an entire cloud from scratch in under 20 minutes while re-using many of the same technical controls implemented in Knight Point's Federal Cloud, giving them previously unparalleled flexibility in their cloud deployments.",
-        "CSP_POC_Name": "Ryan Lewis",
-        "CSP_POC_Email": "info@knightpoint.com",
-        "Fedramp_Ready_Date": "2016-03-04T05:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2018-05-16T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -7269,6 +6873,376 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Microsoft",
+        "Cloud_Service_Provider_Package": "Office 365 Multi-Tenant & Supporting Services",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "MSO365MT",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2018-04-30T04:00:00.000Z",
+        "Original_Expiration_Date": "2021-04-30T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "HHS Office of the Inspector General",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Microsoft%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1209051525",
+          "F1206061353"
+        ],
+        "CSP_Website": "www.microsoft.office.com",
+        "CSO_Description": "Office 365 MultiTenant is a Software as a Service offering with government specific instances of some services including Exchange Online, SharePoint Online, and Skype for Business. The government specific instances are designated for the sole use of U.S federal, tribal, state, and local government customers, U.S. government contractors, and Federally Funded Research and Development Centers (FFRDCs). Office 365 delivers customers with familiar productivity, communication and collaboration capabilities all in a service that is reliable, secure and able to rapidly scale up or down to meet variable resource demands.",
+        "Announcement_Date": "2014-11-20T05:00:00.000Z",
+        "CSP_POC_Name": "N/A",
+        "CSP_POC_Email": "O365FedRAMP@microsoft.com",
+        "FedRAMP_In-Process_Date": "2014-05-11T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2015-06-24T04:00:00.000Z",
+            "Letter_Expiration_Date": "2018-06-24T04:00:00.000Z",
+            "Authorizing_Agency": "Tennessee Valley Authority",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-TennesseeValleyAuthority-Logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2015-06-24T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2015-08-20T04:00:00.000Z",
+            "Letter_Expiration_Date": "2018-08-20T04:00:00.000Z",
+            "Authorizing_Agency": "National Capital Planning Commission",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NationalCapitalPlanningCommission-Logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2015-08-20T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2014-12-22T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Housing and Urban Development",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHUD-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2014-12-22T05:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2015-04-13T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2015-04-13T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2015-04-13T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2014-11-05T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "United States Census Bureau",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2014-11-05T05:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2014-10-24T04:00:00.000Z",
+            "Authorizing_Agency": "National Labor Relations Board",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/National_Labor_Relations_Board_logo_-_color.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2014-10-24T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-03-25T04:00:00.000Z",
+            "Authorizing_Agency": "National Science Foundation",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2016-03-25T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-06-14T04:00:00.000Z",
+            "Letter_Expiration_Date": "2019-06-14T04:00:00.000Z",
+            "Authorizing_Agency": "Surface Transportation Board",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SurfaceTransportationBoard-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2016-06-14T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-07-06T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2016-07-06T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-08-04T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2016-08-04T04:00:00.000Z",
+            "Authorizing_Agency": "Corporation for National and Community Service",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/cncs_1.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2016-08-04T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-09-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "Federal Energy Regulatory Commission",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2016-09-26T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-07-26T04:00:00.000Z",
+            "Letter_Expiration_Date": "2019-07-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of State",
+            "Authorizing_Subagency": "State Office of the Inspector General",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2016-07-26T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-07-08T04:00:00.000Z",
+            "Letter_Expiration_Date": "2019-07-13T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2016-07-13T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2016-07-13T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-06-29T04:00:00.000Z",
+            "Letter_Expiration_Date": "2019-06-29T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Transportation",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2016-06-29T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-09-29T04:00:00.000Z",
+            "Letter_Expiration_Date": "2019-09-29T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2016-09-29T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-11-22T05:00:00.000Z",
+            "Authorizing_Agency": "Council of the Inspectors General on Integrity and Efficiency",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CIGIE%20Logo.jpg",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2016-11-22T05:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-12-21T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "National Nuclear Security Administration / Lawrence Livermore National Laboratory",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2016-12-21T05:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2016-10-07T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2016-10-07T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2017-03-31T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Deposit Insurance Corporation",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2017-03-31T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2017-03-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-03-30T04:00:00.000Z",
+            "Authorizing_Agency": "United States Equal Employment Opportunity Commission",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/EEOC%20Logo.jpg",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2017-03-30T04:00:00.000Z"
+          },
+          {
+            "Letter_Expiration_Date": "2018-06-11T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-06-11T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Technical Information Service",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2017-06-11T04:00:00.000Z"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2017-06-21T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Internal Revenue Service",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2017-06-21T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2017-08-09T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-08-25T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2017-08-25T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2017-08-30T04:00:00.000Z",
+            "Letter_Expiration_Date": "2018-08-30T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Telecommunications and Information Administration",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2017-08-30T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2017-07-14T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-07-14T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2017-07-14T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2017-09-13T04:00:00.000Z",
+            "Letter_Expiration_Date": "2018-09-12T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-09-14T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "FirstNet",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2017-09-14T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2017-06-15T04:00:00.000Z",
+            "Letter_Expiration_Date": "2018-08-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-08-02T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "United States Patent and Trademark Office",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2017-08-02T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2017-09-22T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-09-22T04:00:00.000Z",
+            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2017-09-22T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2017-02-14T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Institute of Standards and Technology",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2017-02-14T05:00:00.000Z"
+          },
+          {
+            "Letter_Expiration_Date": "2020-03-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-03-31T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "International Trade Administration",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2017-03-31T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2017-12-03T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-12-03T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Information Systems Agency",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2017-12-03T05:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2017-11-21T05:00:00.000Z",
+            "Letter_Expiration_Date": "2018-05-24T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-12-21T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Office of the Comptroller of the Currency",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2017-12-21T05:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2017-12-19T05:00:00.000Z",
+            "Letter_Expiration_Date": "2020-12-19T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-12-26T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Labor",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc.",
+            "Announcement_Date": "2017-12-26T05:00:00.000Z"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "4tell Solutions",
         "Cloud_Service_Provider_Package": "4tell Platform for Government™ ",
         "Path": "Agency",
@@ -8253,6 +8227,32 @@
         "CSP_POC_Name": "David Cook",
         "CSP_POC_Email": "david.cook@jivesoftware.com",
         "FedRAMP_In-Process_Date": "2016-12-22T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Knight Point Systems",
+        "Cloud_Service_Provider_Package": "CloudSeed",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "F1502276491",
+        "Service_Model": [
+          "IaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Homeland Security",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+        "Authorizing_Agency": "Department of Homeland Security",
+        "Authorizing_Subagency": "United States Coast Guard",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Knightpoint%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.knightpoint.com",
+        "CSO_Description": "The KPS Federal Community Cloud, called CloudSeed®, is an off-premises IaaS solution that is FedRAMP compliant and meets DoD PA SRG Level 5 controls while leveraging Cisco hardware, world-class Equinix facilities, and open-source technology to provide compute, storage, and network resources to Federal customers in a secure manner. Customers can engage resources in an a la carte, and “pay for performance” model that allows them to know exactly what to expect – It’s the technology you need, when you need it.\n\nAll infrastructure resources are managed and monitored through the KPS tool “Zeus”, which is included within the boundaries of the CloudSeed system, and gives customers the ability to view and manage cloud resources across the full range of possible KPS cloud deployments – Public, Federal Community, and Private - as well as across multiple CSPs (AWS, Azure, etc.) and on-premise virtualization technologies (ESXi, KVM, etc.).  By providing customers this single pane of glass to both view and manage all of their infrastructure solutions, Zeus allows for true “hybrid” cloud solutions that can combine pre-existing customer solutions with new cloud-based solutions.  Zeus gives customers a truly \"holistic\" view into their infrastructure, and allows them to move workloads across solutions as-needed to address specific business requirements.\n\nThe technical architecture that makes up CloudSeed is also available via the KPS Public Cloud for both Federal and Commercial customers, as well as in private cloud deployments on a customer's premises or in KPS' FedRAMP compliant data center.  This architecture providers cheap, efficient, and reliable clouds by abstracting the underlying physical hardware and automatically and instantly recognizing every piece of hardware that is plugged into the system as simply Compute, Storage, or Network resources.  In other words, KPS customers are able to use their pre-existing equipment as the basis for their own private cloud deployment simply by connecting it to the system via ethernet or fiber cable.  Through this technology, customers are able to instantiate an entire cloud from scratch in under 20 minutes while re-using many of the same technical controls implemented in Knight Point's Federal Cloud, giving them previously unparalleled flexibility in their cloud deployments.",
+        "CSP_POC_Name": "Ryan Lewis",
+        "CSP_POC_Email": "info@knightpoint.com",
+        "Fedramp_Ready_Date": "2016-03-04T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2018-05-16T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
