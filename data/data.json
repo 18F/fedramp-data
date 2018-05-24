@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-05-23T04:40:50.378Z",
+    "Created_At": "2018-05-24T04:40:50.043Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -7253,6 +7253,35 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Knight Point Systems",
+        "Cloud_Service_Provider_Package": "CloudSeed",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1502276491",
+        "Service_Model": [
+          "IaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2018-05-22T04:00:00.000Z",
+        "Original_Expiration_Date": "2021-05-22T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Homeland Security",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+        "Authorizing_Agency": "Department of Homeland Security",
+        "Authorizing_Subagency": "United States Coast Guard",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Knightpoint%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.knightpoint.com",
+        "CSO_Description": "The KPS Federal Community Cloud, called CloudSeed®, is an off-premises IaaS solution that is FedRAMP compliant and meets DoD PA SRG Level 5 controls while leveraging Cisco hardware, world-class Equinix facilities, and open-source technology to provide compute, storage, and network resources to Federal customers in a secure manner. Customers can engage resources in an a la carte, and “pay for performance” model that allows them to know exactly what to expect – It’s the technology you need, when you need it.\n\nAll infrastructure resources are managed and monitored through the KPS tool “Zeus”, which is included within the boundaries of the CloudSeed system, and gives customers the ability to view and manage cloud resources across the full range of possible KPS cloud deployments – Public, Federal Community, and Private - as well as across multiple CSPs (AWS, Azure, etc.) and on-premise virtualization technologies (ESXi, KVM, etc.).  By providing customers this single pane of glass to both view and manage all of their infrastructure solutions, Zeus allows for true “hybrid” cloud solutions that can combine pre-existing customer solutions with new cloud-based solutions.  Zeus gives customers a truly \"holistic\" view into their infrastructure, and allows them to move workloads across solutions as-needed to address specific business requirements.\n\nThe technical architecture that makes up CloudSeed is also available via the KPS Public Cloud for both Federal and Commercial customers, as well as in private cloud deployments on a customer's premises or in KPS' FedRAMP compliant data center.  This architecture providers cheap, efficient, and reliable clouds by abstracting the underlying physical hardware and automatically and instantly recognizing every piece of hardware that is plugged into the system as simply Compute, Storage, or Network resources.  In other words, KPS customers are able to use their pre-existing equipment as the basis for their own private cloud deployment simply by connecting it to the system via ethernet or fiber cable.  Through this technology, customers are able to instantiate an entire cloud from scratch in under 20 minutes while re-using many of the same technical controls implemented in Knight Point's Federal Cloud, giving them previously unparalleled flexibility in their cloud deployments.",
+        "Announcement_Date": "2018-05-23T04:00:00.000Z",
+        "CSP_POC_Name": "Ryan Lewis",
+        "CSP_POC_Email": "info@knightpoint.com",
+        "Fedramp_Ready_Date": "2016-03-04T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2018-05-16T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "4tell Solutions",
         "Cloud_Service_Provider_Package": "4tell Platform for Government™ ",
         "Path": "Agency",
@@ -8241,32 +8270,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Knight Point Systems",
-        "Cloud_Service_Provider_Package": "CloudSeed",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "F1502276491",
-        "Service_Model": [
-          "IaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Homeland Security",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-        "Authorizing_Agency": "Department of Homeland Security",
-        "Authorizing_Subagency": "United States Coast Guard",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Knightpoint%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.knightpoint.com",
-        "CSO_Description": "The KPS Federal Community Cloud, called CloudSeed®, is an off-premises IaaS solution that is FedRAMP compliant and meets DoD PA SRG Level 5 controls while leveraging Cisco hardware, world-class Equinix facilities, and open-source technology to provide compute, storage, and network resources to Federal customers in a secure manner. Customers can engage resources in an a la carte, and “pay for performance” model that allows them to know exactly what to expect – It’s the technology you need, when you need it.\n\nAll infrastructure resources are managed and monitored through the KPS tool “Zeus”, which is included within the boundaries of the CloudSeed system, and gives customers the ability to view and manage cloud resources across the full range of possible KPS cloud deployments – Public, Federal Community, and Private - as well as across multiple CSPs (AWS, Azure, etc.) and on-premise virtualization technologies (ESXi, KVM, etc.).  By providing customers this single pane of glass to both view and manage all of their infrastructure solutions, Zeus allows for true “hybrid” cloud solutions that can combine pre-existing customer solutions with new cloud-based solutions.  Zeus gives customers a truly \"holistic\" view into their infrastructure, and allows them to move workloads across solutions as-needed to address specific business requirements.\n\nThe technical architecture that makes up CloudSeed is also available via the KPS Public Cloud for both Federal and Commercial customers, as well as in private cloud deployments on a customer's premises or in KPS' FedRAMP compliant data center.  This architecture providers cheap, efficient, and reliable clouds by abstracting the underlying physical hardware and automatically and instantly recognizing every piece of hardware that is plugged into the system as simply Compute, Storage, or Network resources.  In other words, KPS customers are able to use their pre-existing equipment as the basis for their own private cloud deployment simply by connecting it to the system via ethernet or fiber cable.  Through this technology, customers are able to instantiate an entire cloud from scratch in under 20 minutes while re-using many of the same technical controls implemented in Knight Point's Federal Cloud, giving them previously unparalleled flexibility in their cloud deployments.",
-        "CSP_POC_Name": "Ryan Lewis",
-        "CSP_POC_Email": "info@knightpoint.com",
-        "Fedramp_Ready_Date": "2016-03-04T05:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2018-05-16T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Lifeline Data Centers, LLC",
         "Cloud_Service_Provider_Package": "Lifeline Federal Hosting Services",
         "Designation": "FedRAMP Ready",
@@ -8845,7 +8848,7 @@
           "SaaS"
         ],
         "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Low",
+        "Impact_Level": "Moderate",
         "Sponsoring_Agency": "Department of Agriculture",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
         "Authorizing_Agency": "Department of Agriculture",
