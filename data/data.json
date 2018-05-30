@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-05-29T04:40:49.910Z",
+    "Created_At": "2018-05-30T04:40:50.053Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4719,6 +4719,7 @@
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2017-05-19T04:00:00.000Z",
+        "Original_Expiration_Date": "2020-05-19T04:00:00.000Z",
         "Sponsoring_Agency": "Department of Agriculture",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
         "Authorizing_Agency": "Department of Agriculture",
@@ -4735,7 +4736,18 @@
         "CSP_POC_Email": "cking@springcm.com",
         "FedRAMP_In-Process_Date": "2015-05-03T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Expiration_Date": "2020-05-17T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-07-13T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Price and Associates CPAs, LLC DBA A-LIGN",
+            "Announcement_Date": "2017-08-24T04:00:00.000Z"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "United States Department of the Treasury",
@@ -7619,6 +7631,30 @@
       },
       {
         "Cloud_Service_Provider_Name": "Cisco Systems Inc.",
+        "Cloud_Service_Provider_Package": "AppDynamics by Cisco",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1823368486",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Cisco%20Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
+        "CSP_Website": "www.appdynamics.com",
+        "CSO_Description": "AppDynamics by Cisco offers real-time, end-to-end management for distributed applications that encompasses application mapping, dynamic baselines and code-level diagnostics.",
+        "CSP_POC_Name": "Dave Morrison",
+        "CSP_POC_Email": "fedramp@appdynamics.com",
+        "FedRAMP_In-Process_Date": "2018-05-02T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Cisco Systems Inc.",
         "Cloud_Service_Provider_Package": "Cisco Spark",
         "Path": "Agency",
         "Designation": "In Process",
@@ -8503,30 +8539,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "NowForce",
-        "Cloud_Service_Provider_Package": "NowForce",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1719750553",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "United States Postal Service",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USPS%20Logo.png",
-        "Authorizing_Agency": "United States Postal Service",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/NowForce%20Logo.jpg",
-        "Independent_Assessor": "TBD",
-        "CSP_Website": "www.nowforce.com",
-        "CSO_Description": "NowForce offers [personal safety apps](http://www.nowforce.com/solution/features/), cloud-based [computer aided dispatch](http://www.nowforce.com/solution/features/?type=dispatching), and [mobile response tools](http://www.nowforce.com/solution/features/?type=responding) for any organization, enabling reduced response times, full situational awareness, and enhanced communications. Our comprehensive emergency response software and apps make it simple for agencies to locate personnel and people in distress and dispatch the closest available responder to any incident.",
-        "CSP_POC_Name": "Assaf Shafran",
-        "CSP_POC_Email": "fedramp@nowforce.com",
-        "FedRAMP_In-Process_Date": "2016-09-12T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "OneStream Software",
         "Cloud_Service_Provider_Package": "OneStream XF Cloud",
         "Path": "Agency",
@@ -8712,8 +8724,9 @@
         "Independent_Assessor": "Kratos SecureInfo",
         "CSP_Website": "www.pega.com",
         "CSO_Description": "Pegasystems develops strategic applications for sales, marketing, service and operations. Pega’s applications streamline critical business operations, connect organizations to their customers seamlessly in real time across channels, and adapt to meet rapidly changing requirements. Pega’s Global 2000 customers include many of world’s most sophisticated and successful organizations and government agencies. Pega’s applications are built on the industry leading Pega 7 unified platform and made available via Pega Cloud. Pega Cloud provides customers and government agencies the ability to create, deliver and run Pega 7 applications on the cloud with operational excellence, enterprise-grade infrastructure and continuous lifecycle support.",
-        "CSP_POC_Name": "Phill Bakker",
+        "CSP_POC_Name": "Chris Hoover",
         "CSP_POC_Email": "CloudSales@pega.com",
+        "Fedramp_Ready_Date": "2018-05-29T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2016-06-23T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
@@ -8988,7 +9001,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Smartronix",
+        "Cloud_Service_Provider_Name": "Smartronix, Inc.",
         "Cloud_Service_Provider_Package": "Cloud Assured Managed Services (CAMS)",
         "Designation": "FedRAMP Ready",
         "Package_ID": "F1603077867",
