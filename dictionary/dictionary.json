@@ -24,12 +24,6 @@
     "type": "Text"
   },
   {
-    "field": "FedRAMP Website URL",
-    "description": "The URL for the CSP-CSO's page on the FedRAMP.gov website.  Now OBSOLETE.",
-    "source": "FedRAMP website",
-    "type": "Text"
-  },
-  {
     "field": "Path",
     "description": "The type of FedRAMP authorization achieved by this CSO.  Can be JAB, Agency or CSP-Supplied.",
     "source": "ATO/P-ATO Letter",
@@ -120,12 +114,6 @@
   {
     "field": "Agency POC",
     "description": "The name of the point of contact for the Authorizing Agency.",
-    "source": "Via email",
-    "type": "Text"
-  },
-  {
-    "field": "Agency POC Email",
-    "description": "The email of the point of contact for the Authorizing Agency",
     "source": "Via email",
     "type": "Text"
   },
