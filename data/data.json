@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-05-31T04:40:50.064Z",
+    "Created_At": "2018-06-01T04:40:54.241Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1381,17 +1381,6 @@
         "FedRAMP_In-Process_Date": "2014-11-20T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2015-04-08T04:00:00.000Z",
-            "Letter_Expiration_Date": "2018-04-08T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2015-06-11T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Information Systems Agency",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Price and Associates CPAs, LLC DBA A-LIGN"
-          },
           {
             "Letter_Date": "2018-03-26T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-03-26T04:00:00.000Z",
@@ -3047,6 +3036,15 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PSA%20Logo.jpg",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2018-05-23T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Transportation",
+            "Authorizing_Subagency": "Federal Railroad Administration",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
           }
         ]
       },
@@ -3859,6 +3857,15 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FEC%20Logo.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2017-12-11T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Authorizing_Subagency": "United States Forest Service",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
           }
         ]
       },
@@ -4050,53 +4057,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Okta",
-        "Cloud_Service_Provider_Package": "Identity as a Service (IDaaS)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1512167750",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2017-04-21T04:00:00.000Z",
-        "Original_Expiration_Date": "2018-04-21T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Justice",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
-        "Authorizing_Agency": "Department of Justice",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Okta%20Logo.jpg",
-        "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW"
-        ],
-        "CSP_Website": "www.okta.com",
-        "CSO_Description": "Okta is the foundation for secure connections between people and technology. Okta’s products manage identity and access for millions of people on millions of devices. By harnessing the power of the cloud, Okta allows people to access applications on any device at any time, while still enforcing strong security policies. It integrates directly with an organization’s existing directories and identity systems, as well as 4,000+ applications.\n\nOkta offers products in two lines: for IT and developers. Okta’s IT products are geared toward IT and security leaders and are designed to simplify the way people connect to enterprise technology, while increasing efficiency and keeping IT environments secure. Okta’s IT products include Universal Directory, Single Sign-On, Provisioning, Adaptive Multi-factor Authentication and Mobility Management. Okta’s developer and platform products allow product teams to layer Okta’s powerful identity services into their applications and portals. Okta’s Platform makes it easy for customers to authentication, manage and secure their users. Okta’s Platform products include Universal Directory, Single Sign-On, Provisioning, Adaptive Multi-factor Authentication, Social Authentication, Inbound Federation, and AD and LDAP Integration.",
-        "Announcement_Date": "2017-04-26T04:00:00.000Z",
-        "CSP_POC_Name": "Chris Niggel",
-        "CSP_POC_Email": "fedramp@okta.com",
-        "FedRAMP_In-Process_Date": "2015-12-17T05:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2017-07-24T04:00:00.000Z",
-            "Authorizing_Agency": "Surface Transportation Board",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SurfaceTransportationBoard-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2017-12-07T05:00:00.000Z",
-            "Authorizing_Agency": "Federal Communications Commission",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "PowerTrain Inc.",
         "Cloud_Service_Provider_Package": "Web Development and Hosting",
         "Path": "Agency",
@@ -4179,6 +4139,16 @@
             "Authorizing_Agency": "General Services Administration",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2018-05-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-05-31T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Housing Finance Agency",
+            "Authorizing_Subagency": "FHFA Office of the Inspector General",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
@@ -5522,7 +5492,16 @@
             "Authorizing_Agency": "National Aeronautics and Space Administration",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NASA_logo.png",
-            "Include_In_Marketplace": "N",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2018-01-12T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Internal Revenue Service",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
         ]
@@ -6872,6 +6851,53 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Okta",
+        "Cloud_Service_Provider_Package": "Identity as a Service (IDaaS)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1512167750",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2018-05-11T04:00:00.000Z",
+        "Original_Expiration_Date": "2018-11-11T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Justice",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+        "Authorizing_Agency": "Department of Justice",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Okta%20Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
+        "CSP_Website": "www.okta.com",
+        "CSO_Description": "Okta is the foundation for secure connections between people and technology. Okta’s products manage identity and access for millions of people on millions of devices. By harnessing the power of the cloud, Okta allows people to access applications on any device at any time, while still enforcing strong security policies. It integrates directly with an organization’s existing directories and identity systems, as well as 4,000+ applications.\n\nOkta offers products in two lines: for IT and developers. Okta’s IT products are geared toward IT and security leaders and are designed to simplify the way people connect to enterprise technology, while increasing efficiency and keeping IT environments secure. Okta’s IT products include Universal Directory, Single Sign-On, Provisioning, Adaptive Multi-factor Authentication and Mobility Management. Okta’s developer and platform products allow product teams to layer Okta’s powerful identity services into their applications and portals. Okta’s Platform makes it easy for customers to authentication, manage and secure their users. Okta’s Platform products include Universal Directory, Single Sign-On, Provisioning, Adaptive Multi-factor Authentication, Social Authentication, Inbound Federation, and AD and LDAP Integration.",
+        "Announcement_Date": "2017-04-26T04:00:00.000Z",
+        "CSP_POC_Name": "Chris Niggel",
+        "CSP_POC_Email": "fedramp@okta.com",
+        "FedRAMP_In-Process_Date": "2015-12-17T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2017-07-24T04:00:00.000Z",
+            "Authorizing_Agency": "Surface Transportation Board",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SurfaceTransportationBoard-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2017-12-07T05:00:00.000Z",
+            "Authorizing_Agency": "Federal Communications Commission",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)"
           }
         ]
       },
@@ -8410,6 +8436,26 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "R&K Solutions, Inc",
+        "Cloud_Service_Provider_Package": "GoRPM (Geospatial Real Property Management)",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR1733061545",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/RK%20Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
+        "CSP_Website": "https://rksolutions.com/gorpm",
+        "CSO_Description": "GoRPM empowers organizations to collect, aggregate, analyze, manage and understand their real property, personal property, and facilities investments. GoRPM provides data driven decision making in many areas including asset inventory, strategic movement of assets (Basing), space utilization, condition assessment, sustainability, cost analysis, and budget planning and forecasting.  The GoRPM is highly configurable and can be quickly implemented and scaled to meet the needs of government agencies.",
+        "CSP_POC_Name": "Michael Nichols",
+        "CSP_POC_Email": "fedramp@rksolutions.com",
+        "Fedramp_Ready_Date": "2018-05-29T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Rave Mobile Safety",
         "Cloud_Service_Provider_Package": "Rave Alert",
         "Path": "Agency",
@@ -8516,7 +8562,7 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Public Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Sponsoring_Agency": "Department of Health and Human Services",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
