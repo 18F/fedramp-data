@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-06-05T04:40:50.440Z",
+    "Created_At": "2018-06-06T04:40:50.339Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -5577,16 +5577,6 @@
             "Independent_Assessor": "Coalfire Systems, Inc."
           },
           {
-            "Letter_Date": "2015-05-18T04:00:00.000Z",
-            "Letter_Expiration_Date": "2018-05-18T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2015-05-19T04:00:00.000Z",
-            "Authorizing_Agency": "Consumer Financial Protection Bureau",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFPB_Logo.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          },
-          {
             "Letter_Date": "2015-07-17T04:00:00.000Z",
             "Authorizing_Agency": "General Services Administration",
             "Agency_POC": "Coming Soon",
@@ -5895,8 +5885,47 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2018-03-16T04:00:00.000Z",
+            "Authorizing_Agency": "Consumer Financial Protection Bureau",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFPB_Logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
           }
         ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Cisco Systems Inc.",
+        "Cloud_Service_Provider_Package": "Cisco Cloudlock for Government",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1605107897",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2017-11-14T05:00:00.000Z",
+        "Sponsoring_Agency": "General Services Administration",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+        "Authorizing_Agency": "General Services Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CloudLock%20Logo.jpg",
+        "Independent_Assessor": "Kratos SecureInfo",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1508207205",
+          "F1206081364"
+        ],
+        "CSP_Website": "www.cloudlock.com",
+        "CSO_Description": "Cisco Cloudlock is the cloud-native Cloud Access Security Broker (CASB) that helps accelerate use of the cloud. Cisco Cloudlock secures your cloud users, data, and apps, combating account compromises, data breaches, and cloud app ecosystem risks, while facilitating compliance through a simple, open, and automated API-driven approach.\n\nCisco Cloudlock is a simple, open, and automated solution that combats cloud account compromises, malicious insiders, data breaches, compliance violations, and cloud app ecosystem risks. With crowd-sourced security analytics across billions of data points, advanced machine learning, and the data scientist-led CyberLab, Cisco Cloudlock provides actionable cybersecurity intelligence that provides visibility and control over the most critical cloud security risks.\n\n**Cloud User Security:** Cross-platform User and Entity Behavior Analytics (UEBA) for SaaS, IaaS, PaaS, and IDaaS environments leverages advanced machine learning algorithms to detect anomalies. Cloudlock can also detect activities outside of whitelisted countries and actions across distances at impossible speeds. \n\n**Cloud Data Security:** Cloud Data Loss Prevention (DLP) continuously monitors cloud environments to detect and secure sensitive information through countless out-of-the-box policies as well as highly-tunable custom policies. Automated response actions can remediate risk in the event of a policy violation, including end-user notifications, encryption, transfer of ownership, quarantine, and more. \n\n**Cloud App Security:** The Cisco Cloudlock Apps Firewall discovers cloud apps connected via OAuth to your corporate environment, and provides a crowd-sourced Community Trust Rating for individual apps, as well as the ability to ban or whitelist them based on risk profile and access scope, increase employee awareness with email alerts, and revoke apps in bulk across the entire user base.",
+        "Announcement_Date": "2017-12-04T05:00:00.000Z",
+        "CSP_POC_Name": "Ian Riopel",
+        "CSP_POC_Email": "cisco.cloudlock-fedramp@cisco.com",
+        "FedRAMP_In-Process_Date": "2016-05-05T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "PTC",
@@ -6373,37 +6402,6 @@
         "CSP_POC_Name": "Paul Faust",
         "CSP_POC_Email": "fedramp@adobe.com",
         "FedRAMP_In-Process_Date": "2018-04-23T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Cisco Systems Inc.",
-        "Cloud_Service_Provider_Package": "Cisco Cloudlock for Government",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1605107897",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2018-05-14T04:00:00.000Z",
-        "Sponsoring_Agency": "General Services Administration",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-        "Authorizing_Agency": "General Services Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CloudLock%20Logo.jpg",
-        "Independent_Assessor": "Kratos SecureInfo",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW",
-          "F1508207205",
-          "F1206081364"
-        ],
-        "CSP_Website": "www.cloudlock.com",
-        "CSO_Description": "Cisco Cloudlock is the cloud-native Cloud Access Security Broker (CASB) that helps accelerate use of the cloud. Cisco Cloudlock secures your cloud users, data, and apps, combating account compromises, data breaches, and cloud app ecosystem risks, while facilitating compliance through a simple, open, and automated API-driven approach.\n\nCisco Cloudlock is a simple, open, and automated solution that combats cloud account compromises, malicious insiders, data breaches, compliance violations, and cloud app ecosystem risks. With crowd-sourced security analytics across billions of data points, advanced machine learning, and the data scientist-led CyberLab, Cisco Cloudlock provides actionable cybersecurity intelligence that provides visibility and control over the most critical cloud security risks.\n\n**Cloud User Security:** Cross-platform User and Entity Behavior Analytics (UEBA) for SaaS, IaaS, PaaS, and IDaaS environments leverages advanced machine learning algorithms to detect anomalies. Cloudlock can also detect activities outside of whitelisted countries and actions across distances at impossible speeds. \n\n**Cloud Data Security:** Cloud Data Loss Prevention (DLP) continuously monitors cloud environments to detect and secure sensitive information through countless out-of-the-box policies as well as highly-tunable custom policies. Automated response actions can remediate risk in the event of a policy violation, including end-user notifications, encryption, transfer of ownership, quarantine, and more. \n\n**Cloud App Security:** The Cisco Cloudlock Apps Firewall discovers cloud apps connected via OAuth to your corporate environment, and provides a crowd-sourced Community Trust Rating for individual apps, as well as the ability to ban or whitelist them based on risk profile and access scope, increase employee awareness with email alerts, and revoke apps in bulk across the entire user base.",
-        "Announcement_Date": "2017-12-04T05:00:00.000Z",
-        "CSP_POC_Name": "Ian Riopel",
-        "CSP_POC_Email": "cisco.cloudlock-fedramp@cisco.com",
-        "FedRAMP_In-Process_Date": "2016-05-05T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -8617,7 +8615,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
         "Authorizing_Agency": "General Services Administration",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Slack%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
         "CSP_Website": "https://slack.com/",
         "CSO_Description": "Slack is the collaboration hub that brings the right people together with all the right information and tools to get work done. Launched in 2014, Slack is the fastest-growing business application in history. Millions of people around the world use Slack to connect their teams, unify their systems, and drive their business forward. From Fortune 100 companies to corner markets, Slack helps people communicate better.",
         "CSP_POC_Name": "Nick Hardy",
@@ -8689,8 +8687,8 @@
         "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
         "CSP_Website": "https://www.splunk.com/",
         "CSO_Description": "Splunk Cloud provides operational intelligence capabilities to organizations around the world.  It provides an easy and fast way to analyze the massive streams of machine-generated data coming from IT systems and applications, wherever they are deployed—on-premises, in virtualized environments or in the cloud.\n\nSplunk Cloud delivers the Splunk Enterprise software in a cloud environment where the setup and management of the support infrastructure is performed by Splunk Cloud Operations.  Splunk Enterprise is a software platform to search, analyze, and visualize the machine-generated data gathered from the websites, applications, sensors, devices, and so on, that comprise your IT infrastructure or business.\n\nAfter you define the data source, Splunk Cloud indexes the data stream and parses it into a series of individual events that you can view and search.  Organizations may use the search processing language or the interactive pivot feature to create reports and visualizations.",
-        "CSP_POC_Name": "David Aderonpe",
-        "CSP_POC_Email": "sec-compliance@splunk.com",
+        "CSP_POC_Name": "Splunk FedRAMP Team",
+        "CSP_POC_Email": "Fedramp-Cloud@splunk.com",
         "FedRAMP_In-Process_Date": "2017-03-22T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
@@ -9621,7 +9619,7 @@
         "Accreditation_Date": "2014-08-08T04:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Paragon%20Logo.jpg",
         "Description": "Paragon is fully equipped to assess cloud service providers undergoing FedRAMP certification. For those cloud service providers who want to provide services to the federal government, we can provide pre-assessments to give confidence going into the FedRAMP certification process. We also provide:\n* Network Vulnerability assessments\n* Physical Security Assessments\n* User/Employee Security Awareness Training\n* Security Program Development\n* Disaster Recovery Planning\n* IT Security Life Cycle Management\n* Independent Verification & Validation of Security Programs",
-        "POC_Name": "Bruce Card",
+        "POC_Name": "Greg Horine",
         "POC_Email": "3pao@paragontech.net",
         "website": "www.paragontech.net",
         "Remediation": "N",
