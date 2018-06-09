@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-06-08T04:40:50.053Z",
+    "Created_At": "2018-06-09T04:40:50.180Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -5284,6 +5284,45 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Edge Hosting, LLC",
+        "Cloud_Service_Provider_Package": "Edge FedRAMP Compliant CloudPlus",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1404304159",
+        "Service_Model": [
+          "IaaS ",
+          " PaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2017-09-29T04:00:00.000Z",
+        "Original_Expiration_Date": "2020-09-29T04:00:00.000Z",
+        "Sponsoring_Agency": "Farm Credit Administration",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FCA%20Logo.jpg",
+        "Authorizing_Agency": "Farm Credit Administration",
+        "Authorizing_Subagency": "Farm Credit System Insurance Corporation",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Edge%20Hosting%20Logo.jpg",
+        "Independent_Assessor": "Emagine IT",
+        "CSP_Website": "https://www.edgehosting.com/business-solutions/government/",
+        "CSO_Description": "Edge’s CloudPlus transforms traditional enterprise applications delivering secure FedRAMP complaint 100% uptime cloud hosting solutions.  Focused on public, dedicated private, and hybrid Cloud computing platforms designed to meet a wide range regulatory requirements including FISMA, FedRAMP, HIPAA and PCI.\n\nSaaS providers, federal agencies and System Integrators who require FedRAMP can significantly lower operating costs, eliminate capital expenditures and drastically improve service delivery at a predictable monthly cost. By combining the latest scalable Cloud technology Edge can you reduce the time it takes to adopt new cloud IT capabilities. CloudPlus delivers highly availability and secured cloud hosting, which includes monitoring, backups and recovery and 24x7x365 technical support.\n\nCloudPlus includes all of the hardware infrastructure, software licenses, bandwidth, load balancers, clustering infrastructure, storage, security software and tools along with the experts responsible for installing, configuring and maintaining global scale application platforms with support for the majority of Windows and Linux application stacks and database platforms.\n\nPartnered with a number of purchasing vehicles to make cloud procurement easy.",
+        "Announcement_Date": "2018-06-08T04:00:00.000Z",
+        "CSP_POC_Name": "Vlad Friedman",
+        "CSP_POC_Email": "govsales@edgehosting.com",
+        "FedRAMP_In-Process_Date": "2017-04-04T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2017-01-12T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "Federal Energy Regulatory Commission",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Emagine IT"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "Druva, Inc. ",
         "Cloud_Service_Provider_Package": "Druva inSync",
         "Path": "Agency",
@@ -5927,7 +5966,8 @@
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW",
           "F1508207205",
-          "F1206081364"
+          "F1206081364",
+          "FR1805751477"
         ],
         "CSP_Website": "www.cloudlock.com",
         "CSO_Description": "Cisco Cloudlock is the cloud-native Cloud Access Security Broker (CASB) that helps accelerate use of the cloud. Cisco Cloudlock secures your cloud users, data, and apps, combating account compromises, data breaches, and cloud app ecosystem risks, while facilitating compliance through a simple, open, and automated API-driven approach.\n\nCisco Cloudlock is a simple, open, and automated solution that combats cloud account compromises, malicious insiders, data breaches, compliance violations, and cloud app ecosystem risks. With crowd-sourced security analytics across billions of data points, advanced machine learning, and the data scientist-led CyberLab, Cisco Cloudlock provides actionable cybersecurity intelligence that provides visibility and control over the most critical cloud security risks.\n\n**Cloud User Security:** Cross-platform User and Entity Behavior Analytics (UEBA) for SaaS, IaaS, PaaS, and IDaaS environments leverages advanced machine learning algorithms to detect anomalies. Cloudlock can also detect activities outside of whitelisted countries and actions across distances at impossible speeds. \n\n**Cloud Data Security:** Cloud Data Loss Prevention (DLP) continuously monitors cloud environments to detect and secure sensitive information through countless out-of-the-box policies as well as highly-tunable custom policies. Automated response actions can remediate risk in the event of a policy violation, including end-user notifications, encryption, transfer of ownership, quarantine, and more. \n\n**Cloud App Security:** The Cisco Cloudlock Apps Firewall discovers cloud apps connected via OAuth to your corporate environment, and provides a crowd-sourced Community Trust Rating for individual apps, as well as the ability to ban or whitelist them based on risk profile and access scope, increase employee awareness with email alerts, and revoke apps in bulk across the entire user base.",
@@ -6029,6 +6069,15 @@
             "Authorizing_Agency": "Department of Energy",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2018-06-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-06-07T04:00:00.000Z",
+            "Authorizing_Agency": "Corporation for National and Community Service",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/cncs_1.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
@@ -7479,42 +7528,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Edge Hosting, LLC",
-        "Cloud_Service_Provider_Package": "Edge FedRAMP Compliant CloudPlus",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "F1404304159",
-        "Service_Model": [
-          "IaaS ",
-          " PaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Farm Credit Administration",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FCA%20Logo.jpg",
-        "Authorizing_Agency": "Farm Credit Administration",
-        "Authorizing_Subagency": "Farm Credit System Insurance Corporation",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Edge%20Hosting%20Logo.jpg",
-        "Independent_Assessor": "Emagine IT",
-        "CSP_Website": "https://www.edgehosting.com/business-solutions/government/",
-        "CSO_Description": "Edge’s CloudPlus transforms traditional enterprise applications delivering secure FedRAMP complaint 100% uptime cloud hosting solutions.  Focused on public, dedicated private, and hybrid Cloud computing platforms designed to meet a wide range regulatory requirements including FISMA, FedRAMP, HIPAA and PCI.\n\nSaaS providers, federal agencies and System Integrators who require FedRAMP can significantly lower operating costs, eliminate capital expenditures and drastically improve service delivery at a predictable monthly cost. By combining the latest scalable Cloud technology Edge can you reduce the time it takes to adopt new cloud IT capabilities. CloudPlus delivers highly availability and secured cloud hosting, which includes monitoring, backups and recovery and 24x7x365 technical support.\n\nCloudPlus includes all of the hardware infrastructure, software licenses, bandwidth, load balancers, clustering infrastructure, storage, security software and tools along with the experts responsible for installing, configuring and maintaining global scale application platforms with support for the majority of Windows and Linux application stacks and database platforms.\n\nPartnered with a number of purchasing vehicles to make cloud procurement easy.",
-        "CSP_POC_Name": "Vlad Friedman",
-        "CSP_POC_Email": "govsales@edgehosting.com",
-        "FedRAMP_In-Process_Date": "2017-04-04T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2017-01-12T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Authorizing_Subagency": "Federal Energy Regulatory Commission",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Lockheed Martin"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Emergency Reporting",
         "Cloud_Service_Provider_Package": "Emergency Reporting",
         "Path": "Agency",
@@ -8871,7 +8884,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Veritone",
+        "Cloud_Service_Provider_Name": "Veritone, Inc.",
         "Cloud_Service_Provider_Package": "aiWARE Government",
         "Path": "Agency",
         "Designation": "In Process",
