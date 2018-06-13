@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-06-12T04:40:50.250Z",
+    "Created_At": "2018-06-13T04:40:50.431Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -5302,8 +5302,8 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Edge Hosting, LLC",
-        "Cloud_Service_Provider_Package": "Edge FedRAMP Compliant CloudPlus",
+        "Cloud_Service_Provider_Name": "Edge Hosting, A DataBank Company",
+        "Cloud_Service_Provider_Package": "FedRAMP Compliant CloudPlus",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "F1404304159",
@@ -5319,13 +5319,13 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FCA%20Logo.jpg",
         "Authorizing_Agency": "Farm Credit Administration",
         "Authorizing_Subagency": "Farm Credit System Insurance Corporation",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Edge%20Hosting%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/DataBank%20Logo.jpg",
         "Independent_Assessor": "Emagine IT",
-        "CSP_Website": "https://www.edgehosting.com/business-solutions/government/",
+        "CSP_Website": "https://www.databank.com/",
         "CSO_Description": "Edge’s CloudPlus transforms traditional enterprise applications delivering secure FedRAMP complaint 100% uptime cloud hosting solutions.  Focused on public, dedicated private, and hybrid Cloud computing platforms designed to meet a wide range regulatory requirements including FISMA, FedRAMP, HIPAA and PCI.\n\nSaaS providers, federal agencies and System Integrators who require FedRAMP can significantly lower operating costs, eliminate capital expenditures and drastically improve service delivery at a predictable monthly cost. By combining the latest scalable Cloud technology Edge can you reduce the time it takes to adopt new cloud IT capabilities. CloudPlus delivers highly availability and secured cloud hosting, which includes monitoring, backups and recovery and 24x7x365 technical support.\n\nCloudPlus includes all of the hardware infrastructure, software licenses, bandwidth, load balancers, clustering infrastructure, storage, security software and tools along with the experts responsible for installing, configuring and maintaining global scale application platforms with support for the majority of Windows and Linux application stacks and database platforms.\n\nPartnered with a number of purchasing vehicles to make cloud procurement easy.",
         "Announcement_Date": "2018-06-08T04:00:00.000Z",
-        "CSP_POC_Name": "Vlad Friedman",
-        "CSP_POC_Email": "govsales@edgehosting.com",
+        "CSP_POC_Name": "Mark A. Houpt",
+        "CSP_POC_Email": "Compliance@DataBank.com",
         "FedRAMP_In-Process_Date": "2017-04-04T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": [
@@ -6978,6 +6978,37 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Blackboard",
+        "Cloud_Service_Provider_Package": "Blackboard Learn & Collaborate",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1506076709",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Li-SaaS",
+        "Original_Authorization_Date": "2018-06-08T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Defense",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+        "Authorizing_Agency": "Department of Defense",
+        "Authorizing_Subagency": "National Geospatial-Intelligence Agency",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Blackboard%20Logo.jpg",
+        "Independent_Assessor": "Deloitte & Touche LLP",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "F1512167750"
+        ],
+        "CSP_Website": "www.blackboard.com",
+        "CSO_Description": "Blackboard’s Learn and Collaborate SaaS solution offers government and military agencies next-generation online, social and mobile tools that create a continuous learning environment, built around peer-to-peer interaction, content and discussions.",
+        "Announcement_Date": "2018-06-12T04:00:00.000Z",
+        "CSP_POC_Name": "Sanjiev Chattopadhya",
+        "CSP_POC_Email": "sanjiev.chattopadhya@blackboard.com",
+        "FedRAMP_In-Process_Date": "2018-03-07T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "4tell Solutions",
         "Cloud_Service_Provider_Package": "4tell Platform for Government™ ",
         "Path": "Agency",
@@ -7117,30 +7148,6 @@
         "CSP_POC_Email": "infosec@axon.com",
         "Fedramp_Ready_Date": "2017-11-17T05:00:00.000Z",
         "FedRAMP_In-Process_Date": "2018-03-08T05:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Blackboard",
-        "Cloud_Service_Provider_Package": "Blackboard Learn & Collaborate",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "F1506076709",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Li-SaaS",
-        "Sponsoring_Agency": "Department of Defense",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-        "Authorizing_Agency": "Department of Defense",
-        "Authorizing_Subagency": "National Geospatial-Intelligence Agency",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Blackboard%20Logo.jpg",
-        "CSP_Website": "www.blackboard.com",
-        "CSO_Description": "Blackboard’s Learn and Collaborate SaaS solution offers government and military agencies next-generation online, social and mobile tools that create a continuous learning environment, built around peer-to-peer interaction, content and discussions.",
-        "CSP_POC_Name": "Sanjiev Chattopadhya",
-        "CSP_POC_Email": "sanjiev.chattopadhya@blackboard.com",
-        "FedRAMP_In-Process_Date": "2018-03-07T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
