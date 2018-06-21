@@ -112,12 +112,6 @@
     "type": "Text"
   },
   {
-    "field": "Agency POC",
-    "description": "The name of the point of contact for the Authorizing Agency.",
-    "source": "Via email",
-    "type": "Text"
-  },
-  {
     "field": "Independent Assessor",
     "description": "The name of the independent assessor that reviewed the cloud service offering. In most cases, the independent assessor is part of the FedRAMP 3rd Party Assessment Organization program.",
     "source": "SAR?",
@@ -148,6 +142,12 @@
     "type": "Text"
   },
   {
+    "field": "Underlying CSPs",
+    "description": "PackageID of FedRAMP-Authorized packages used by this package.  Some FedRAMP packages use (at a lower layer) other FedRAMP-authorized packages.  For example, Microsoft  Dynamics 365 uses Microsoft Azure Gov, both of which are FedRAMP Authorized.",
+    "source": "SSP",
+    "type": "Text"
+  },
+  {
     "field": "Expected Compliance Date",
     "description": "For Agency packages, this is the date that the Agency is expected to issue an ATO letter for the CSP.  For CSPs pursuing a P-ATO, this is the date of the projected P-ATO.",
     "source": "Agency ATOs: Agency\nP-ATOs: FedRAMP PMO",
@@ -164,12 +164,6 @@
     "description": "Date that a package was determined to be FedRAMP In-Process",
     "source": "FedRAMP PMO",
     "type": "Date"
-  },
-  {
-    "field": "Dependent CSPs",
-    "description": "PackageID of FedRAMP-Authorized packages used by this package.  Some FedRAMP packages use (at a lower layer) other FedRAMP-authorized packages.  For example, Microsoft  Dynamics CRM Online for Government (CRMOL) uses Microsoft Azure and Microsoft Global Foundation Services (GFS) Cloud Infrastructure, both of which are FedRAMP Authorized.",
-    "source": "SSP",
-    "type": "Text"
   },
   {
     "field": "Logo",
