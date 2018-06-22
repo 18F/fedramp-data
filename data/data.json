@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-06-21T04:40:50.015Z",
+    "Created_At": "2018-06-22T04:40:49.893Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3959,6 +3959,15 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Kratos SecureInfo"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2018-06-20T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Internal Revenue Service",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Kratos SecureInfo"
           }
         ]
       },
@@ -6824,6 +6833,17 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2018-04-24T04:00:00.000Z",
+            "Letter_Expiration_Date": "2019-05-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-04-24T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "United States Army",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
           }
         ]
       },
@@ -7837,6 +7857,26 @@
         "CSP_POC_Name": "Lisa Cooley",
         "CSP_POC_Email": "fedramp@gordian.com",
         "FedRAMP_In-Process_Date": "2018-02-27T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "GPS Insight, Inc.",
+        "Cloud_Service_Provider_Package": "GPS Insight SaaS Portal",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR1723969326",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/GPS%20Logo.jpg",
+        "Independent_Assessor": "Lazarus Alliance",
+        "CSP_Website": "www.gpsinsight.com",
+        "CSO_Description": "GPS Insight is a cloud-based GPS fleet and asset tracking solution for government agencies and businesses. The GPS Insight solution solves unique fleet challenges while increasing revenue and reducing both costs and risks. GPS Insight provides fleet managers a significant increase in efficiency by providing a highly flexible solution, which includes a wide range of customized reports, alerts, and other innovative features that can be tailored to meet specific customer requirements and ensure maximum return on investment. ",
+        "CSP_POC_Name": "Gary Fitzgerald",
+        "CSP_POC_Email": "fedramp@gpsinsight.com",
+        "Fedramp_Ready_Date": "2018-06-15T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -9185,6 +9225,7 @@
         "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
         "CSP_Website": "www.zoom.us ",
         "CSO_Description": "The **Zoom For Government** Platform unifies cloud video conferencing, simple online meetings and a software-defined conference room solution into one easy-to-use platform. The solution offers video, audio, and wireless screen-sharing across Windows, Mac, Linux, Chrome OS, iOS, Android, Blackberry, Zoom Rooms, and H.323/SIP room systems. Zoom Products include:\n\n* **Zoom Cloud Video Conferencing** – a cloud-based collaboration service which includes video, audio, content sharing and collaboration.\n* **Zoom Rooms** – software-based group video conferencing for conference and huddle rooms that run off-the-shelf hardware including a dedicated MAC or PC, camera, and speaker with an iPad controller.\n* **Zoom Room Connector** – a gateway allowing H.323 and Session Initiation Protocol (SIP) systems to connect to Zoom meetings. Room Connector is available in both cloud computing and as software (VM) for installation on the customer premise. \n* **Zoom Meeting Connector** – a software (VM) version of the Zoom Cloud infrastructure intended for installation on the customer premise. \n* **Zoom API** - provides the ability for developers to easily add Video, Voice and Screen Sharing to your application. Our API is a server side implementation designed around REST. The Zoom API helps manage the pre-meeting experience such as creating, editing and deleting resources like users, meetings and webinars.",
+        "Expected_Compliance_Date": "2018-12-31T05:00:00.000Z",
         "CSP_POC_Name": "Rick Drum",
         "CSP_POC_Email": "support.fedramp@zoom.us ",
         "FedRAMP_In-Process_Date": "2018-06-20T04:00:00.000Z",
