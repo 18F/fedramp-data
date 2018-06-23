@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-06-22T04:40:49.893Z",
+    "Created_At": "2018-06-23T04:40:50.128Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2098,6 +2098,15 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/cncs_1.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2018-06-19T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-06-19T04:00:00.000Z",
+            "Authorizing_Agency": "Corporation for National and Community Service",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/cncs_1.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
           }
         ]
       },
@@ -2819,6 +2828,14 @@
             "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)"
+          },
+          {
+            "Letter_Date": "2018-06-22T04:00:00.000Z",
+            "Authorizing_Agency": "Corporation for National and Community Service",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/cncs_1.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)"
           }
@@ -5009,16 +5026,6 @@
             "Independent_Assessor": "Coalfire Systems, Inc."
           },
           {
-            "Letter_Date": "2015-06-17T04:00:00.000Z",
-            "Letter_Expiration_Date": "2018-06-17T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Authorizing_Subagency": "Federal Student Aid",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          },
-          {
             "Letter_Date": "2015-07-29T04:00:00.000Z",
             "Letter_Expiration_Date": "2018-07-29T04:00:00.000Z",
             "Authorizing_Agency": "Department of Homeland Security",
@@ -6194,6 +6201,14 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2018-06-21T04:00:00.000Z",
+            "Authorizing_Agency": "Tennessee Valley Authority",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-TennesseeValleyAuthority-Logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
           }
         ]
       },
@@ -7052,20 +7067,26 @@
         "Cloud_Service_Provider_Name": "Workiva",
         "Cloud_Service_Provider_Package": "Wdesk",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "FR1726564822",
         "Service_Model": [
           "SaaS"
         ],
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Li-SaaS",
+        "Original_Authorization_Date": "2018-06-12T04:00:00.000Z",
         "Sponsoring_Agency": "Tennessee Valley Authority",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-TennesseeValleyAuthority-Logo.png",
         "Authorizing_Agency": "Tennessee Valley Authority",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Workiva%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "FR1805751477"
+        ],
         "CSP_Website": "https://www.workiva.com/",
         "CSO_Description": "Workiva delivers Wdesk, an intuitive cloud platform that modernizes how people work within\r\nthousands of organizations, including over 70 percent of the Fortune 500®.\n\nWdesk is built upon a data management engine, offering controlled collaboration, data integration,\r\ngranular permissions and a full audit trail. Wdesk helps mitigate risk, improves productivity and gives\r\nusers confidence in their data-driven decisions.\n\nComplex reports made easy— our customers create and connect data and narrative to consolidate and\r\npublish financial, performance, and regulatory reports. We provide confidence in the numbers and\r\nenable pride in the delivery.\n\nCompliance made simple— streamline documentation, testing, and reporting in a connected\r\nenvironment. Manage risk assessments, evidence requests, issues, and findings with real-time reports\r\nand dashboards.\n\nConnect your documents and data at enterprise scale in a collaborative work management platform.\r\nImport documents, sync with Excel®, or connect Wdesk to your ERP, CRM, or other operational\r\nsystems. Wdesk is built for the way you work.\n\r\nTrust your data from beginning to end. Wdesk can be used across every department to create a single\r\nsource of data for multiple business processes.",
+        "Announcement_Date": "2018-06-22T04:00:00.000Z",
         "CSP_POC_Name": "Jeff Bivens",
         "CSP_POC_Email": "fedramp@workiva.com",
         "FedRAMP_In-Process_Date": "2017-06-22T04:00:00.000Z",
@@ -8047,7 +8068,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Innovest Systems",
+        "Cloud_Service_Provider_Name": "Innovest Systems, LLC",
         "Cloud_Service_Provider_Package": "Trust & Wealth Management Solutions",
         "Path": "Agency",
         "Designation": "In Process",
@@ -9746,7 +9767,7 @@
         "Accreditation_Date": "2015-03-17T04:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Lunarline2%20Logo.jpg",
         "Description": "As one of the original FedRAMP-accredited 3PAOs, Lunarline is authorized to conduct assessments and report results to the FedRAMP PMO. Lunarline's team of expert assessors has conducted over 2,000 successful Security Assessments and Authorizations, using the same standards required by FedRAMP. No matter if the goal is a JAB P-ATO, Agency ATO, FedRAMP Ready, or Continuos Monitoring, we have mastered every piece of the compliance puzzle.\n \nLunarline's approach is designed to make the assessment process as painless and fair as possible. All testing is backed by detailed test plans developed in coordination with your team, and all requirements are clearly communicated, early in the process. We also take the time to understand your technical and business requirements, to give us the context we need to provide a fair assessment of security control implementation.",
-        "POC_Name": "Jeffrey Widom",
+        "POC_Name": "Jennifer Hawks",
         "POC_Email": "fedramp@lunarline.com",
         "website": "www.lunarline.com",
         "Remediation": "N",
