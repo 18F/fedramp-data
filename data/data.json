@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-06-27T04:40:49.937Z",
+    "Created_At": "2018-06-28T04:40:50.318Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3121,7 +3121,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Amazon%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.aws.amazon.com",
-        "CSO_Description": "AWS GovCloud (US) is an AWS Region designed to allow US government agencies and customers supporting the US government to move more sensitive workloads into the cloud. In addition to complying with FedRAMP requirements, the AWS GovCloud (US) framework adheres to U.S. International Traffic in Arms Regulations (ITAR) regulations. Additional information is available at [http://aws.amazon.com/govcloud-us/](http://aws.amazon.com/govcloud-us/).\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: S3, EC2, EBS, VPC, IAM, RDS(Oracle, MySQL, PostgreSQL), CloudWatch Logs, CloudTrail, Cloud Formation, Amazon Glacier, Amazon Web Services Key Management Service, Amazon Simple Workflow Service, Amazon Simple Queue Service, Amazon Simple Notification Service, Amazon DynamoDB, Amazon Elastice MapReduce, Amazon Redshift, Amazon Kinesis Streams.",
+        "CSO_Description": "AWS GovCloud (US) is an AWS Region designed to allow US government agencies and customers supporting the US government to move more sensitive workloads into the cloud. In addition to complying with FedRAMP requirements, the AWS GovCloud (US) framework adheres to U.S. International Traffic in Arms Regulations (ITAR) regulations. Additional information is available at [http://aws.amazon.com/govcloud-us/](http://aws.amazon.com/govcloud-us/).\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: S3, EC2, EBS, VPC, IAM, RDS(Oracle, MySQL, PostgreSQL), CloudWatch Logs, CloudTrail, Cloud Formation, Amazon Glacier, Amazon Web Services Key Management Service, Amazon Simple Workflow Service, Amazon Simple Queue Service, Amazon Simple Notification Service, Amazon DynamoDB, Amazon Elastice MapReduce, Amazon Redshift, Amazon Kinesis Streams, Database Migration Service (DMS).",
         "Announcement_Date": "2016-06-21T04:00:00.000Z",
         "CSP_POC_Name": "AWS Compliance Team",
         "CSP_POC_Email": "awscompliance@amazon.com",
@@ -5589,7 +5589,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Amazon%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.aws.amazon.com",
-        "CSO_Description": "Amazon US East/West is a multi-tenant public cloud for Federal, State and Local Government customers, as well as commercial customers, designed to meet a wide range of regulatory requirements, to include government compliance and security requirements. AWS leverages the Infrastructure-as-a-Service (IaaS) cloud computing model, which enables convenient, on-demand Internet access to a shared pool of configurable computing resources such as servers, storage, network infrastructure, and various other web services. Customers can rapidly provision or release computing resources on demand.\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: AWS CloudFormation, AWS CloudTrail, Amazon CloudWatch Logs, Amazon DynamoDB, Amazon Elastic Book Storage, Amazon Elastic Compute Cloud (EC2), Amazon Elastic MapReduce (EMR), Amazon Glacier, AWS Identity and Access Management (IAM), Amazon Kinesis Streams, Amazon KMS, Amazon RDS (Aurora, PostgresSQL, MySQL, Oracle), Amazon Redshift, Amazon Simple Storage Service (S3), Amazon SNS, Amazon SQS, Amazon SWF, Amazon Virtual Private Cloud (VPC)",
+        "CSO_Description": "Amazon US East/West is a multi-tenant public cloud for Federal, State and Local Government customers, as well as commercial customers, designed to meet a wide range of regulatory requirements, to include government compliance and security requirements. AWS leverages the Infrastructure-as-a-Service (IaaS) cloud computing model, which enables convenient, on-demand Internet access to a shared pool of configurable computing resources such as servers, storage, network infrastructure, and various other web services. Customers can rapidly provision or release computing resources on demand.\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: AWS CloudFormation, AWS CloudTrail, Amazon CloudWatch Logs, Amazon DynamoDB, Amazon Elastic Book Storage, Amazon Elastic Compute Cloud (EC2), Amazon Elastic MapReduce (EMR), Amazon Glacier, AWS Identity and Access Management (IAM), Amazon Kinesis Streams, Amazon KMS, Amazon RDS (Aurora, PostgresSQL, MySQL, Oracle), Amazon Redshift, Amazon Simple Storage Service (S3), Amazon SNS, Amazon SQS, Amazon SWF, Amazon Virtual Private Cloud (VPC), API Gateway, Cloud Directory/Directory Services, Cognito, Config, Database Migration Service (DMS), Lambda, Macie, QuickSight, Shield Advance, Web Application Firewall (WAF)",
         "Announcement_Date": "2013-05-01T04:00:00.000Z",
         "CSP_POC_Name": "AWS Compliance Team",
         "CSP_POC_Email": "awscompliance@amazon.com",
@@ -6017,35 +6017,6 @@
         "CSP_POC_Name": "Tom Wollard",
         "CSP_POC_Email": "twollard@ptc.com",
         "FedRAMP_In-Process_Date": "2016-09-12T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "TalaTek, LLC",
-        "Cloud_Service_Provider_Package": "Enterprise Compliance Management Solution (ECMS)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1712036920",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Private Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2017-06-30T04:00:00.000Z",
-        "Sponsoring_Agency": "Pension Benefit Guaranty Corporation",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
-        "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/TalaTek%20Logo.jpg",
-        "Independent_Assessor": "EmeSec Incorporated",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYBLACKMESH"
-        ],
-        "CSP_Website": "www.talatek.com",
-        "CSO_Description": "TalaTek’s ECMS efficiently provides cost-effective ‘Security as a Service’ and Compliance Risk Management. ECMS uses a Governance, Risk Management and Compliance (GRC) application to meet NIST Special Publications 800-37, 800-39, 800-53 and 800-137 guidelines for effective Continuous Monitoring and implementation of the NIST Risk Management Framework (RMF).",
-        "Announcement_Date": "2018-02-13T05:00:00.000Z",
-        "CSP_POC_Name": "N/A",
-        "CSP_POC_Email": "compliance@talatek.com",
-        "FedRAMP_In-Process_Date": "2017-01-24T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -7109,6 +7080,64 @@
         "CSP_POC_Name": "Jeff Bivens",
         "CSP_POC_Email": "fedramp@workiva.com",
         "FedRAMP_In-Process_Date": "2017-06-22T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "ORock Technologies",
+        "Cloud_Service_Provider_Package": "ORockCloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1503096502",
+        "Service_Model": [
+          "IaaS ",
+          " SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2018-06-21T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Defense",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+        "Authorizing_Agency": "Department of Defense",
+        "Authorizing_Subagency": "Joint Communications Support Element",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/ORock%20Technologies%20Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
+        "CSP_Website": "http://orocktech.com",
+        "CSO_Description": "ORockCloud provides a secure, highly scalable and available, bi-coastal cloud environment with elastic, on-demand access to computing, storage, virtualization, networking, performance monitoring, and applications in ORock’s service catalog. It is built on ORock’s private, carrier-grade encrypted dark fiber network to maximize security and performance. As a Red Hat® Certified Cloud & Service Provider (CCSP), ORock's “pure-play” Red Hat-supported open source environment delivers enhanced flexibility, security and control.   Additional information is available at [http://orocktech.com](http://orocktech.com). \n\nThe following services are In Process for FedRAMP authorization from the DoD:  the Red Hat Cloud Suite, including Enterprise Linux®, Red Hat Virtualization, OpenStack®, Ceph®, CloudForms®, Ansible Tower®, Satellite® and all associated cloud APIs.  In addition, ORock provides SaaS offering and services including ORock’s Federal Authorization Services (FaS) and ORock VirtualClouds.”",
+        "Announcement_Date": "2018-06-27T04:00:00.000Z",
+        "CSP_POC_Name": "John Conniff",
+        "CSP_POC_Email": "fedramp@orocktech.com",
+        "FedRAMP_In-Process_Date": "2018-02-22T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "TalaTek, LLC",
+        "Cloud_Service_Provider_Package": "Enterprise Compliance Management Solution (ECMS)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1712036920",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Private Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2018-06-26T04:00:00.000Z",
+        "Original_Expiration_Date": "2019-06-26T04:00:00.000Z",
+        "Sponsoring_Agency": "Pension Benefit Guaranty Corporation",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
+        "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/TalaTek%20Logo.jpg",
+        "Independent_Assessor": "EmeSec Incorporated",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYBLACKMESH"
+        ],
+        "CSP_Website": "www.talatek.com",
+        "CSO_Description": "TalaTek’s ECMS efficiently provides cost-effective ‘Security as a Service’ and Compliance Risk Management. ECMS uses a Governance, Risk Management and Compliance (GRC) application to meet NIST Special Publications 800-37, 800-39, 800-53 and 800-137 guidelines for effective Continuous Monitoring and implementation of the NIST Risk Management Framework (RMF).",
+        "Announcement_Date": "2018-02-13T05:00:00.000Z",
+        "CSP_POC_Name": "N/A",
+        "CSP_POC_Email": "compliance@talatek.com",
+        "FedRAMP_In-Process_Date": "2017-01-24T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -8502,32 +8531,6 @@
         "CSP_POC_Name": "A.J. Handy",
         "CSP_POC_Email": "a.j.handy@oracle.com",
         "FedRAMP_In-Process_Date": "2016-10-12T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "ORock Technologies",
-        "Cloud_Service_Provider_Package": "ORockCloud",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "F1503096502",
-        "Service_Model": [
-          "IaaS ",
-          " SaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Defense",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-        "Authorizing_Agency": "Department of Defense",
-        "Authorizing_Subagency": "Joint Communications Support Element",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/ORock%20Technologies%20Logo.jpg",
-        "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
-        "CSP_Website": "http://orocktech.com",
-        "CSO_Description": "ORockCloud provides a secure, highly scalable and available, bi-coastal cloud environment with elastic, on-demand access to computing, storage, virtualization, networking, performance monitoring, and applications in ORock’s service catalog. It is built on ORock’s private, carrier-grade encrypted dark fiber network to maximize security and performance. As a Red Hat® Certified Cloud & Service Provider (CCSP), ORock's “pure-play” Red Hat-supported open source environment delivers enhanced flexibility, security and control.   Additional information is available at [http://orocktech.com](http://orocktech.com). \n\nThe following services are In Process for FedRAMP authorization from the DoD:  the Red Hat Cloud Suite, including Enterprise Linux®, Red Hat Virtualization, OpenStack®, Ceph®, CloudForms®, Ansible Tower®, Satellite® and all associated cloud APIs.  In addition, ORock provides SaaS offering and services including ORock’s Federal Authorization Services (FaS) and ORock VirtualClouds.”",
-        "CSP_POC_Name": "John Conniff",
-        "CSP_POC_Email": "fedramp@orocktech.com",
-        "FedRAMP_In-Process_Date": "2018-02-22T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
