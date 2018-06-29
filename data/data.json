@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-06-28T04:40:50.318Z",
+    "Created_At": "2018-06-29T04:40:50.379Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1468,6 +1468,16 @@
             "Authorizing_Agency": "National Science Foundation",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Expiration_Date": "2019-12-22T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2016-12-22T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "United States Coast Guard",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
@@ -7091,7 +7101,7 @@
         "Package_ID": "F1503096502",
         "Service_Model": [
           "IaaS ",
-          " SaaS"
+          " PaaS"
         ],
         "Deployment_Model": "Hybrid Cloud",
         "Impact_Level": "Moderate",
@@ -7103,7 +7113,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/ORock%20Technologies%20Logo.jpg",
         "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
         "CSP_Website": "http://orocktech.com",
-        "CSO_Description": "ORockCloud provides a secure, highly scalable and available, bi-coastal cloud environment with elastic, on-demand access to computing, storage, virtualization, networking, performance monitoring, and applications in ORock’s service catalog. It is built on ORock’s private, carrier-grade encrypted dark fiber network to maximize security and performance. As a Red Hat® Certified Cloud & Service Provider (CCSP), ORock's “pure-play” Red Hat-supported open source environment delivers enhanced flexibility, security and control.   Additional information is available at [http://orocktech.com](http://orocktech.com). \n\nThe following services are In Process for FedRAMP authorization from the DoD:  the Red Hat Cloud Suite, including Enterprise Linux®, Red Hat Virtualization, OpenStack®, Ceph®, CloudForms®, Ansible Tower®, Satellite® and all associated cloud APIs.  In addition, ORock provides SaaS offering and services including ORock’s Federal Authorization Services (FaS) and ORock VirtualClouds.”",
+        "CSO_Description": "ORockCloud is the first and only Red Hat® OpenStack-based cloud to achieve a FedRAMP Moderate authorization for IaaS and PaaS. This secure, open source cloud provides a highly scalable, bi-coastal environment with elastic, on-demand access to computing, storage, virtualization, networking, performance monitoring, and applications in ORock’s service catalog.\n\nAs a Red Hat Premier Certified Cloud and Service Provider (CCSP), ORock Technologies architected ORockCloud as a “pure-play” Red Hat cloud and incorporated a full suite of open source solutions for enhanced flexibility, interoperability, security, and control.  The Red Hat Cloud Suite includes: Red Hat Enterprise Linux; Red Hat OpenStack Platform; Red Hat Virtualization; Red Hat Ceph Storage; Red Hat CloudForms; Red Hat Ansible Tower; Red Hat Satellite; and all associated cloud APIs. \n\nORockCloud utilizes ORock’s private, carrier-grade, fiber optic backbone network with dedicated connectivity between all points of presence and no upstream CSP to maximize security, autonomy, and performance. Managed services are provided entirely by U.S. citizens in a U.S.-based NOC and SOC.\n\nORock Technologies is a small business cloud service provider (CSP) serving enterprise customers in defense, government, and highly regulated industries. ORock’s secure IaaS and cloud solutions enable a range of hosting, migration, backup/recovery, connectivity, and mobility initiatives while supporting FedRAMP authorization and lowering total cost of ownership for government and commercial enterprises.\n\nAdditional information is available at  [http://orocktech.com](http://orocktech.com). ",
         "Announcement_Date": "2018-06-27T04:00:00.000Z",
         "CSP_POC_Name": "John Conniff",
         "CSP_POC_Email": "fedramp@orocktech.com",
@@ -7138,6 +7148,37 @@
         "CSP_POC_Name": "N/A",
         "CSP_POC_Email": "compliance@talatek.com",
         "FedRAMP_In-Process_Date": "2017-01-24T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Esri",
+        "Cloud_Service_Provider_Package": "ArcGIS Online (AGO)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1811073663",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Li-SaaS",
+        "Original_Authorization_Date": "2018-06-27T04:00:00.000Z",
+        "Original_Expiration_Date": "2023-06-27T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of the Interior",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+        "Authorizing_Agency": "Department of the Interior",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Esri%20Logo2.jpg",
+        "Independent_Assessor": "Mars Technology",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1209051525"
+        ],
+        "CSP_Website": "https://www.arcgis.com ",
+        "CSO_Description": "ArcGIS Online is a web-based GIS, hosted by Esri and delivered as SaaS (software-as-a-service). With ArcGIS Online, organizations can get up and running quickly, and securely create, organize, and manage geographic information in one system. It connects users in your organization with up-to-date content including ready-to-use apps, maps, 3D scenes, and layers so they can build useful information products and accomplish their work more efficiently. ArcGIS Online facilitates collaboration and sharing information with internal stakeholders, as well as your customers, contractors, and the public by providing access to maps, apps, and data from any device, anywhere, anytime. ArcGIS Online is built on open, scalable technology that automatically adjusts to meet peak demand periods without you having to worry about adding and managing additional resources.",
+        "Announcement_Date": "2018-06-28T04:00:00.000Z",
+        "CSP_POC_Name": "Michael Young",
+        "CSP_POC_Email": "FedRAMP@esri.com",
+        "FedRAMP_In-Process_Date": "2018-04-27T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -7781,30 +7822,6 @@
         "CSP_POC_Name": "Kathy Sorell",
         "CSP_POC_Email": "fedramp@equinix.com",
         "FedRAMP_In-Process_Date": "2016-08-17T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Esri",
-        "Cloud_Service_Provider_Package": "ArcGIS Online (AGO)",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1811073663",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Li-SaaS",
-        "Sponsoring_Agency": "Department of the Interior",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-        "Authorizing_Agency": "Department of the Interior",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Esri%20Logo2.jpg",
-        "Independent_Assessor": "Mars Technology",
-        "CSP_Website": "https://www.arcgis.com ",
-        "CSO_Description": "ArcGIS Online is a web-based GIS, hosted by Esri and delivered as SaaS (software-as-a-service). With ArcGIS Online, organizations can get up and running quickly, and securely create, organize, and manage geographic information in one system. It connects users in your organization with up-to-date content including ready-to-use apps, maps, 3D scenes, and layers so they can build useful information products and accomplish their work more efficiently. ArcGIS Online facilitates collaboration and sharing information with internal stakeholders, as well as your customers, contractors, and the public by providing access to maps, apps, and data from any device, anywhere, anytime. ArcGIS Online is built on open, scalable technology that automatically adjusts to meet peak demand periods without you having to worry about adding and managing additional resources.",
-        "CSP_POC_Name": "Michael Young",
-        "CSP_POC_Email": "FedRAMP@esri.com",
-        "FedRAMP_In-Process_Date": "2018-04-27T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
