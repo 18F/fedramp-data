@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-07-03T04:40:50.161Z",
+    "Created_At": "2018-07-04T04:40:50.205Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1831,7 +1831,7 @@
           "IaaS"
         ],
         "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
+        "Impact_Level": "Moderate (High In Process)",
         "Original_Authorization_Date": "2015-07-23T04:00:00.000Z",
         "Sponsoring_Agency": "JAB Authorization",
         "Authorizing_Agency": "JAB Authorization",
@@ -8024,30 +8024,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "HRworx",
-        "Cloud_Service_Provider_Package": "Intelliworx",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1724526654",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of the Interior",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-        "Authorizing_Agency": "Department of the Interior",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Intelliworx%20Logo.jpg",
-        "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
-        "CSP_Website": "www.hrworx.com",
-        "CSO_Description": "The Intelliworx Platform is a secure, cloud-based, Software as a Service (SaaS) environment which powers data collection and workflow process applications. The Intelliworx Platform is the engine behind multiple government workflows, such as FDonline - an automation of the OGE Financial Disclosure process. The Intelliworx Platform also is the engine behind HRIT applications for Onboarding, Offboarding and Telework management. The Intelliworx Platform transforms agency form-based business processes, making them simple to complete for the employee and efficient to review and approve for the staff, in a single secure environment.",
-        "CSP_POC_Name": "Tom Riley",
-        "CSP_POC_Email": "inquiries@hrworx.com",
-        "FedRAMP_In-Process_Date": "2017-10-03T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "IBM",
         "Cloud_Service_Provider_Package": "IBM Maximo and TRIRIGA",
         "Path": "Agency",
@@ -8185,6 +8161,30 @@
         "CSP_POC_Name": "Joanne Smith",
         "CSP_POC_Email": "fedramp@innovestsystems.com",
         "FedRAMP_In-Process_Date": "2018-06-13T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Intelliworx",
+        "Cloud_Service_Provider_Package": "Intelliworx Cloud",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1724526654",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of the Interior",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+        "Authorizing_Agency": "Department of the Interior",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Intelliworx%20Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
+        "CSP_Website": "www.hrworx.com",
+        "CSO_Description": "The Intelliworx Platform is a secure, cloud-based, Software as a Service (SaaS) environment which powers data collection and workflow process applications. The Intelliworx Platform is the engine behind multiple government workflows, such as FDonline - an automation of the OGE Financial Disclosure process. The Intelliworx Platform also is the engine behind HRIT applications for Onboarding, Offboarding and Telework management. The Intelliworx Platform transforms agency form-based business processes, making them simple to complete for the employee and efficient to review and approve for the staff, in a single secure environment.",
+        "CSP_POC_Name": "Tom Riley",
+        "CSP_POC_Email": "inquiries@hrworx.com",
+        "FedRAMP_In-Process_Date": "2017-10-03T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -9241,7 +9241,7 @@
         "CSP_Website": "www.zapproved.com ",
         "CSO_Description": "**Legal Hold Pro** by Zapproved is the leading SaaS e-discovery software solution designed to enable government agencies’ legal teams to streamline and strengthen the data preservation stage of e-discovery through the automation of legal hold notifications (“holds”) and compliance tracking. Legal Hold Pro’s multi-step process is scalable, repeatable, consistent and efficient from hold notification through custodian response and collection. The application has been designed from the ground up to ensure that data is safe and secure using industry best practices. Zapproved’s system has been evaluated for use by world-leading companies and it meets their demanding requirements of data security. \n\nLegal Hold Pro software provides an agency with capabilities such as:\n\n - **Draft and Issue Hold Notification** - Draft holds in minutes using customizable and pre-approved templates and easily add recipients to be notified.\n - **Collect Responses by Recipients** - Recipients are obliged to affirmatively acknowledge their compliance with the hold notification, which is made easy with Legal Hold Pro’s “one-click” acceptance.     \n - **Interview Recipients by Online Questionnaires** - Rather than calling or meeting with custodians individually, the legal team can “interview” recipients efficiently and in a timely manner.\n - **Send Routine Reminders and Updates** -  Legal Hold Pro also manages required reminders and updates over the life of legal hold, often lasting several years.   \n - **Maintain a Thorough Audit Trail** - The software time stamps each action and maintains detailed records, including revisions, so the legal team can demonstrate its good faith efforts and ensure defensibility.\n\nIn addition to the above-stated workflow, the software offers the following additional benefits:\n\n - **Data Security** - Designed and maintained to the highest levels of data security, including availability within Amazon Web Services GovCloud, and backed up with industry-leading SOC2 Type 2 certfication. \n - **Intuitive User Interface** - ADA compliant and accessible to non-technical users. Training takes just few hours.\n - **Connectivity** - The application's robust API enables it to seamlessly integrate with other business systems such as HR databases and data archives. \n - **Rapid Implementation** -  Many customers are fully operational in less than a week.   \n - **Scalability** - Cloud computing architecture scales with growth regardless of how many users need to access the software or the volume of holds change.\n - **Customer Experience** - Dedicated onboarding and ongoing support, multi-tiered implementation plans that suit any agency size and frequent updates with innovative features.\n",
         "CSP_POC_Name": "Yupeng Ji",
-        "CSP_POC_Email": "fedramp@zapproved.com ",
+        "CSP_POC_Email": "info@zapproved.com",
         "FedRAMP_In-Process_Date": "2017-11-29T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
