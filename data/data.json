@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-07-12T04:40:50.148Z",
+    "Created_At": "2018-07-13T04:40:50.143Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4638,7 +4638,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Microsoft%20Logo.jpg",
         "Independent_Assessor": "Kratos SecureInfo",
         "CSP_Website": "http://azure.microsoft.com/en-us/",
-        "CSO_Description": "Microsoft Azure Commercial Cloud is an open and flexible cloud platform that enables customers to quickly build, test, deploy, and manage their applications, services, and product development across a network of Microsoft-managed datacenters within the United States. The Microsoft Azure platform exports savings to the customer by delivering the software, platform, and IT infrastructure resources where and when it is needed via the Internet.  Microsoft Azure provides a multi-tenant public cloud services platform that offers functionality to support capacities such as Platform as a Service (PaaS), and Infrastructure as a Service (IaaS) cloud service models.  Azure maintains a P-ATO at the Moderate Impact Level.  Azure was the first public cloud with IaaS and PaaS services to receive a JAB P-ATO.\n\nFor additional information, visit the (Azure Trust Center)[https://www.microsoft.com/en-us/TrustCenter/Compliance/default.aspx] or refer to Azure FedRAMP Package ID# F1209051525.\n\nThe following Microsoft services are FedRAMP Authorized and approved by the JAB at the Moderate Impact Level: API Management, App Service: API Apps, Mobile Apps, and Web Apps, App Service Linux: Web Apps Linux and Web Apps for Containers , Application Gateway, Automation, Azure Active Directory (Free and Basic), Azure Analysis Services, Azure Cosmos DB, Azure DevTest Labs, Azure DNS, Azure Information Protection, Azure Monitor, Azure Resource Manager, Backup, Batch, Cloud Services, Cosmos DB, Event Hubs, ExpressRoute, Express v2, Functions, HDInsight, Import/Export, Intune, IoT Hub, Key Vault, Load Balancer, Log Analytics, Logic Apps, Marketplace, Media Services, Microsoft Azure Portal, Multi-Factor Authentication, Network Infrastructure, Network Performance Monitor, Network Watcher, Notification Hubs, Power BI, Redis Cache, Scheduler, Service Bus, Service Fabric, Site Recovery, SQL Data Warehouse, SQL Database, SQL Server Stretch Database, Storage (Blobs, Disks, Files, Queues, Tables) including Cool and Premium Storage, StorSimple, Traffic Manager, Virtual Machines, Virtual Machine Scale Sets, Virtual Network, VPN Gateway, Workflow, and supporting infrastructure and platform services",
+        "CSO_Description": "Microsoft Azure Commercial Cloud is an open and flexible cloud platform that enables customers to quickly build, test, deploy, and manage their applications, services, and product development across a network of Microsoft-managed datacenters within the United States. The Microsoft Azure platform exports savings to the customer by delivering the software, platform, and IT infrastructure resources where and when it is needed via the Internet.  Microsoft Azure provides a multi-tenant public cloud services platform that offers functionality to support capacities such as Platform as a Service (PaaS), and Infrastructure as a Service (IaaS) cloud service models.  Azure maintains a P-ATO at the Moderate Impact Level.  Azure was the first public cloud with IaaS and PaaS services to receive a JAB P-ATO.\n\nFor additional information, visit the (Azure Trust Center)[https://www.microsoft.com/en-us/TrustCenter/Compliance/default.aspx] or refer to Azure FedRAMP Package ID# F1209051525.\n\nThe following Microsoft services are FedRAMP Authorized and approved by the JAB at the Moderate Impact Level: Azure Active Directory, Application Gateway, Cloud Services, Intune, Key Vault, Multi-Factor Authentication, Load Balancer, SQL Database, Storage, Traffic Manager, Virtual Machines, Virtual Network, and VPN Gateway.",
         "Announcement_Date": "2016-06-21T04:00:00.000Z",
         "CSP_POC_Name": "Microsoft Azure FedRAMP Requests",
         "CSP_POC_Email": "AzureFedRAMP@microsoft.com",
@@ -4889,6 +4889,17 @@
             "Authorizing_Agency": "United States Equal Employment Opportunity Commission",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/EEOC%20Logo.jpg",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Kratos SecureInfo"
+          },
+          {
+            "Letter_Date": "2017-10-13T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-10-13T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-10-13T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Centers for Medicare and Medicaid Services",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Kratos SecureInfo"
           }
@@ -8058,6 +8069,27 @@
         "CSP_POC_Name": "Mark Rybchuk",
         "CSP_POC_Email": "enterprisehelp@hootsuite.com",
         "FedRAMP_In-Process_Date": "2017-07-06T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Human Resources Technologies, Inc. (HRTec)",
+        "Cloud_Service_Provider_Package": "Federal High Impact Virtualized Environment (FedHIVE)",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR1802451335",
+        "Service_Model": [
+          "IaaS ",
+          " PaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/FedHIVE%20Logo.jpg",
+        "Independent_Assessor": "Blue Canopy Group",
+        "CSP_Website": "http://www.hrtec.net/?page_id=2715",
+        "CSO_Description": "FedHIVE provides a Federal High Impact Virtualized Environment provision within a physical and logical boundary designed to provide Federal clients an Infrastructure as a Service (IaaS) / Platform as a Service (PaaS) solution that meets or exceeds the FIPS PUB 199 System Security Level of High (sensitive but unclassified information) security controls in which to implement organizational Software as a Service (SaaS) applications. The FedHIVE secure cloud service provides agencies a compliant, scalable, and secure infrastructure capability enabling and supporting platforms or software required for their business or mission success. FedHIVE implements over 420 High Baseline security controls within the boundary to support Federal cloud services requirements for protecting CUI and PII per agency application level ATO security requirements and is currently providing service to multiple Government Agencies (including DoD and TSA) and supporting vendor customers.",
+        "CSP_POC_Name": "Doug Sears",
+        "CSP_POC_Email": "fedhive@hrtec.net",
+        "Fedramp_Ready_Date": "2018-07-11T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
