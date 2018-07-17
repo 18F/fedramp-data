@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-07-16T04:40:50.119Z",
+    "Created_At": "2018-07-17T04:40:49.889Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -6115,7 +6115,7 @@
         "Original_Authorization_Date": "2018-03-14T04:00:00.000Z",
         "Sponsoring_Agency": "JAB Authorization",
         "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20GC%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.oracle.com",
         "CSO_Description": "The OGC-CC is a collection of common Oracle cloud information resources within the public sector cloud (Oracle Public Cloud) that support the Oracle applications, platforms, and services provided to U.S. Government/public sector customers (SaaS, PaaS, and IaaS). These include current service offerings (SaaS) such as Oracle Service Cloud, planned services offerings such as Fusion, PBCS, and Taleo, and any other service Oracle may implement in the future (SaaS, PaaS, and IaaS). The environment serves as a community cloud that supports current and future Oracle Cloud FedRAMP-compliant systems. The authorization boundary of the system includes the common hardware, software, information, data, applications, communications, facilities, and people that provide support for a variety of users and applications and will be leveraged by future Oracle Cloud authorization packages. The OGC-CC boundary starts at the premise router and ends with the physical cable that connects to each Oracle Cloud Service’s firewall. The dependent system boundaries start at each service’s firewall, and each service is responsible for all assets (hardware/software), policies, procedures, and any other item thereafter.",
@@ -8567,7 +8567,8 @@
         "Designation": "In Process",
         "Package_ID": "FR1715769196",
         "Service_Model": [
-          "PaaS"
+          "IaaS ",
+          " PaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "High",
@@ -9065,7 +9066,8 @@
         "Designation": "In Process",
         "Package_ID": "FR1801046750",
         "Service_Model": [
-          "IaaS, PaaS"
+          "IaaS ",
+          " PaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "High",
@@ -9356,7 +9358,7 @@
           "SaaS"
         ],
         "Deployment_Model": "Public Cloud",
-        "Impact_Level": "High",
+        "Impact_Level": "Moderate",
         "Sponsoring_Agency": "Federal Communications Commission",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
         "Authorizing_Agency": "Federal Communications Commission",
