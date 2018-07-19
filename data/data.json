@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-07-19T04:40:50.280Z",
+    "Created_At": "2018-07-19T17:51:51.292Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4102,77 +4102,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Project Hosts",
-        "Cloud_Service_Provider_Package": "Federal Private Cloud for Windows and Linux Applications",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1403283529",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2016-08-30T04:00:00.000Z",
-        "Sponsoring_Agency": "General Services Administration",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
-        "Authorizing_Agency": "Federal Housing Finance Agency",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Project%20Hosts%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1209051525"
-        ],
-        "CSP_Website": "www.projecthosts.com",
-        "CSO_Description": "Project Hosts offers a number of Microsoft and Linux applications for government agencies in a FedRAMP SaaS-compliant cloud. Compared to installing applications on a FedRAMP IaaS or PaaS platform, our SaaS solutions allow agencies to avoid the significant cost of implementing and assessing the 75% of FedRAMP controls that are Customer Responsibility with IaaS or PaaS. A hybrid cloud architecture allows agencies to leverage shared services for some functions (e.g. authentication, monitoring, scanning) while still having the option to choose dedicated servers for applications and databases. Our Federal Private Cloud (FPC) for Windows and Linux Applications provides cloud-based access to the following applications:\n\nVendor (Application)\n\n* AvePoint (DocAve, Compliance Guardian, Governance Automation, Perimeter Manager)\n* Birst (Birst)\n* BrightWork (BrightWork)\n* ConceptSearching (conceptClassifier for SharePoint)\n* Drupal (Drupal CMS)\n* Vasco (eSignLive)\n* Van Hoose Associates (FlowVU)\n* Gimmal (Governance Suite, Compliance Suite)\n* Innovative-e (PMOYT)\n* Joomla! (Joomla CMS)\n* Microsoft (Dynamics CRM, Project Server, SharePoint, TFS, Remote Desktop)\n* Nintex (Drawloop, Workflow for SharePoint, Workflow for Project Server)\n* RMS (RMSCloud)\n* UMT360 (UMT360)\n* Urban Turtle (Urban Turtle)\n* Veritas (Enterprise Vault, Enterprise Vault Discovery Accelerator, Clearwell)\n* WordPress (WordPress CMS)",
-        "Announcement_Date": "2016-03-11T05:00:00.000Z",
-        "CSP_POC_Name": "Scott Chapman",
-        "CSP_POC_Email": "info@projecthosts.com",
-        "FedRAMP_In-Process_Date": "2014-11-20T05:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2016-04-03T04:00:00.000Z",
-            "Letter_Expiration_Date": "2018-09-18T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-04-03T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Information Systems Agency",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          },
-          {
-            "Letter_Date": "2017-09-26T04:00:00.000Z",
-            "Letter_Expiration_Date": "2018-09-26T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-09-26T04:00:00.000Z",
-            "Authorizing_Agency": "General Services Administration",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          },
-          {
-            "Letter_Date": "2017-10-31T04:00:00.000Z",
-            "Letter_Expiration_Date": "2018-10-31T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-10-31T04:00:00.000Z",
-            "Authorizing_Agency": "General Services Administration",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          },
-          {
-            "Letter_Date": "2018-05-31T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-05-31T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Housing Finance Agency",
-            "Authorizing_Subagency": "FHFA Office of the Inspector General",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Skillsoft",
         "Cloud_Service_Provider_Package": "Private Cloud",
         "Path": "Agency",
@@ -6978,6 +6907,48 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Project Hosts",
+        "Cloud_Service_Provider_Package": "Federal Private Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1403283529",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2018-05-31T04:00:00.000Z",
+        "Sponsoring_Agency": "General Services Administration",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
+        "Authorizing_Agency": "Federal Housing Finance Agency",
+        "Authorizing_Subagency": "FHFA Office of the Inspector General",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Project%20Hosts%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603087869"
+        ],
+        "CSP_Website": "www.projecthosts.com",
+        "CSO_Description": "Project Hosts offers a number of Microsoft and Linux applications for government agencies in a FedRAMP SaaS-compliant cloud. Compared to installing applications on a FedRAMP IaaS or PaaS platform, our SaaS solutions allow agencies to avoid the significant cost of implementing and assessing the 75% of FedRAMP controls that are Customer Responsibility with IaaS or PaaS. A hybrid cloud architecture allows agencies to leverage shared services for some functions (e.g. authentication, monitoring, scanning) while still having the option to choose dedicated servers for applications and databases. Our Federal Private Cloud (FPC) for Windows and Linux Applications provides cloud-based access to the following applications:\n\nVendor (Application)\n\n* AvePoint (DocAve, Compliance Guardian, Governance Automation, Perimeter Manager)\n* Birst (Birst)\n* BrightWork (BrightWork)\n* ConceptSearching (conceptClassifier for SharePoint)\n* Drupal (Drupal CMS)\n* Vasco (eSignLive)\n* Van Hoose Associates (FlowVU)\n* Gimmal (Governance Suite, Compliance Suite)\n* Innovative-e (PMOYT)\n* Joomla! (Joomla CMS)\n* Microsoft (Dynamics CRM, Project Server, SharePoint, TFS, Remote Desktop)\n* Nintex (Drawloop, Workflow for SharePoint, Workflow for Project Server)\n* RMS (RMSCloud)\n* UMT360 (UMT360)\n* Urban Turtle (Urban Turtle)\n* Veritas (Enterprise Vault, Enterprise Vault Discovery Accelerator, Clearwell)\n* WordPress (WordPress CMS)",
+        "Announcement_Date": "2016-03-11T05:00:00.000Z",
+        "CSP_POC_Name": "Scott Chapman",
+        "CSP_POC_Email": "info@projecthosts.com",
+        "FedRAMP_In-Process_Date": "2014-11-20T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2016-04-03T04:00:00.000Z",
+            "Letter_Expiration_Date": "2018-09-18T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2016-04-03T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Information Systems Agency",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "Blackboard",
         "Cloud_Service_Provider_Package": "Blackboard Learn SaaS",
         "Path": "Agency",
@@ -8056,7 +8027,7 @@
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "High",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/FedHIVE%20Logo.jpg",
-        "Independent_Assessor": "Blue Canopy Group",
+        "Independent_Assessor": "Blue Canopy Group, LLC",
         "CSP_Website": "http://www.hrtec.net/?page_id=2715",
         "CSO_Description": "FedHIVE provides a Federal High Impact Virtualized Environment provision within a physical and logical boundary designed to provide Federal clients an Infrastructure as a Service (IaaS) / Platform as a Service (PaaS) solution that meets or exceeds the FIPS PUB 199 System Security Level of High (sensitive but unclassified information) security controls in which to implement organizational Software as a Service (SaaS) applications. The FedHIVE secure cloud service provides agencies a compliant, scalable, and secure infrastructure capability enabling and supporting platforms or software required for their business or mission success. FedHIVE implements over 420 High Baseline security controls within the boundary to support Federal cloud services requirements for protecting CUI and PII per agency application level ATO security requirements and is currently providing service to multiple Government Agencies (including DoD and TSA) and supporting vendor customers.",
         "CSP_POC_Name": "Doug Sears",
@@ -9193,6 +9164,30 @@
         "CSP_POC_Name": "Tony Mitchell",
         "CSP_POC_Email": "mitchell@waggl.com",
         "Fedramp_Ready_Date": "2018-06-28T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Workiva",
+        "Cloud_Service_Provider_Package": "Wdesk",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1726564822A",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Tennessee Valley Authority",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-TennesseeValleyAuthority-Logo.png",
+        "Authorizing_Agency": "Tennessee Valley Authority",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Workiva%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://www.workiva.com/",
+        "CSO_Description": "Workiva delivers Wdesk, an intuitive cloud platform that modernizes how people work within\r\nthousands of organizations, including over 70 percent of the Fortune 500®.\n\nWdesk is built upon a data management engine, offering controlled collaboration, data integration,\r\ngranular permissions and a full audit trail. Wdesk helps mitigate risk, improves productivity and gives\r\nusers confidence in their data-driven decisions.\n\nComplex reports made easy— our customers create and connect data and narrative to consolidate and\r\npublish financial, performance, and regulatory reports. We provide confidence in the numbers and\r\nenable pride in the delivery.\n\nCompliance made simple— streamline documentation, testing, and reporting in a connected\r\nenvironment. Manage risk assessments, evidence requests, issues, and findings with real-time reports\r\nand dashboards.\n\nConnect your documents and data at enterprise scale in a collaborative work management platform.\r\nImport documents, sync with Excel®, or connect Wdesk to your ERP, CRM, or other operational\r\nsystems. Wdesk is built for the way you work.\n\r\nTrust your data from beginning to end. Wdesk can be used across every department to create a single\r\nsource of data for multiple business processes.",
+        "CSP_POC_Name": "Jeff Bivens",
+        "CSP_POC_Email": "fedramp@workiva.com",
+        "FedRAMP_In-Process_Date": "2018-07-19T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
