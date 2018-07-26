@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-07-25T04:40:50.031Z",
+    "Created_At": "2018-07-26T04:40:49.862Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -792,6 +792,7 @@
           },
           {
             "Letter_Date": "2017-05-01T04:00:00.000Z",
+            "Letter_Expiration_Date": "2018-05-23T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2017-05-31T04:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "United States Patent and Trademark Office",
@@ -6175,7 +6176,7 @@
           "FR1805751477"
         ],
         "CSP_Website": "https://gsuite.google.com/",
-        "CSO_Description": "Google G Suite  is comprised of Google’s multi-tenant public and hybrid cloud instances and leverages Google Services (Google Cloud Platform Products)\n\nThe following **G Suite editions** are FedRAMP authorized: G Suite Basic, G Suite Business, G Suite for Education, G Suite Enterprise, G Suite for Nonprofits and G Suite for Governments.\n\nThe following **G Suite services** are FedRAMP authorized: Admin Console, Admin SDK, Android and Chrome Device Management, Calendar, Chrome Sync (for G Suite for Education domains only), Classroom, Cloud Identity, Cloud Search, Contacts, Docs, Docs APIs, Drawings, Drive, Forms, Gmail (incl. Talk), Groups, Hangouts Chat, Hangouts Classic, Hangouts Meet, Keep, Sheets, Sites, Slides, Vault\n\n**Admin SDK**: Admin Settings API, Apps Email Audit API, Calendar Resource API, Directory API (replaced Provisioning API), Domain Shared Contacts API, Email Settings API, Enterprise License Manager API, Groups Migration API, Groups Settings, Reports API, Reseller API\n\n**Docs APIs**: Apps Activity API, Calendar API, Contacts API, Drive REST API, (replaced Documents List API), Forms Service API, Gmail REST API (replaced Email Migration API), Sheets API, Sites API, Tasks API\n\nGoogle Cloud Platform services are now described on the Google Services (Google Cloud Platform Products and underlying Infrastructure) authorized FedRAMP Marketplace page.",
+        "CSO_Description": "Google G Suite  is comprised of Google’s multi-tenant public and hybrid cloud instances and leverages Google Services (Google Cloud Platform Products)\n\nThe following **G Suite editions** are FedRAMP authorized: G Suite Basic, G Suite Business, G Suite for Education, G Suite Enterprise, G Suite for Nonprofits and G Suite for Governments.\n\nThe following **G Suite services** are FedRAMP authorized: Admin Console, Admin SDK, Android and Chrome Device Management, Calendar, Chrome Sync (for G Suite for Education domains only), Classroom, Cloud Identity, Cloud Search, Contacts, Docs, Docs APIs, Drawings, Drive, Forms, Gmail (incl. Talk), Google Tasks, Groups, Hangouts Chat, Hangouts Classic, Hangouts Meet, Keep, Sheets, Sites, Slides, Vault\n\n**Admin SDK**: Admin Settings API, Apps Email Audit API, Calendar Resource API, Directory API (replaced Provisioning API), Domain Shared Contacts API, Email Settings API, Enterprise License Manager API, Groups Migration API, Groups Settings, Reports API, Reseller API\n\n**Docs APIs**: Apps Activity API, Calendar API, Contacts API, Drive REST API, (replaced Documents List API), Forms Service API, Gmail REST API (replaced Email Migration API), Sheets API, Sites API, Tasks API\n\nGoogle Cloud Platform services are now described on the Google Services (Google Cloud Platform Products and underlying Infrastructure) authorized FedRAMP Marketplace page.",
         "Announcement_Date": "2016-01-22T05:00:00.000Z",
         "CSP_POC_Name": "Google FedRAMP Team",
         "CSP_POC_Email": "fedramp@google.com",
@@ -7216,6 +7217,32 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Innovative Discovery, LLC",
+        "Cloud_Service_Provider_Package": "Innovative Discovery Government Cloud (IDGC)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1800263217",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2018-06-01T04:00:00.000Z",
+        "Sponsoring_Agency": "Federal Trade Commission",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
+        "Authorizing_Agency": "Federal Trade Commission",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Innovative%20Discovery%20Logo.jpg",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "CSP_Website": "www.id-edd.com",
+        "CSO_Description": "The Innovative Discovery Government Cloud (ID Gov-Cloud) is a Software as a Service (SaaS)\noffering that provides a secure and scalable environment for government legal document services.\nUtilizing the robust and feature-rich Relativity platform, ID Gov-Cloud offers software services to\nagencies within a secure, scalable, and compliant cloud environment. Agencies can leverage the full\nscope of eDiscovery services within one scalable platform, to include but not limited to: processing,\ndocument review, advanced analytics, assisted review, legal hold services, and production. All these\nservice packages are provided within a secure and user-friendly customer interface. Government\nagencies also leverage the added capabilities of Innovative Discovery’s government project\nmanagement teams and workflows, benefitting from years of experience supporting complex\ngovernment electronic discovery requests.",
+        "Announcement_Date": "2018-07-25T04:00:00.000Z",
+        "CSP_POC_Name": "James H. Perkins Jr.",
+        "CSP_POC_Email": "fedramp@id-edd.com",
+        "FedRAMP_In-Process_Date": "2017-10-18T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "4tell Solutions",
         "Cloud_Service_Provider_Package": "4tell Platform for Government™ ",
         "Path": "Agency",
@@ -8114,30 +8141,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Innovative Discovery, LLC",
-        "Cloud_Service_Provider_Package": "Innovative Discovery Government Cloud (IDGC)",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1800263217",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Federal Trade Commission",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
-        "Authorizing_Agency": "Federal Trade Commission",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Innovative%20Discovery%20Logo.jpg",
-        "Independent_Assessor": "Lunarline, Inc.",
-        "CSP_Website": "www.id-edd.com",
-        "CSO_Description": "The Innovative Discovery Government Cloud (ID Gov-Cloud) is a Software as a Service (SaaS)\noffering that provides a secure and scalable environment for government legal document services.\nUtilizing the robust and feature-rich Relativity platform, ID Gov-Cloud offers software services to\nagencies within a secure, scalable, and compliant cloud environment. Agencies can leverage the full\nscope of eDiscovery services within one scalable platform, to include but not limited to: processing,\ndocument review, advanced analytics, assisted review, legal hold services, and production. All these\nservice packages are provided within a secure and user-friendly customer interface. Government\nagencies also leverage the added capabilities of Innovative Discovery’s government project\nmanagement teams and workflows, benefitting from years of experience supporting complex\ngovernment electronic discovery requests.",
-        "CSP_POC_Name": "James H. Perkins Jr.",
-        "CSP_POC_Email": "fedramp@id-edd.com",
-        "FedRAMP_In-Process_Date": "2017-10-18T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Innovest Systems, LLC",
         "Cloud_Service_Provider_Package": "Trust & Wealth Management Solutions",
         "Path": "Agency",
@@ -8755,6 +8758,26 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Recovery Point Systems, Inc.",
+        "Cloud_Service_Provider_Package": "INCloud Gov",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR1806354023",
+        "Service_Model": [
+          "IaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Recovery%20Point%20Logo.jpg",
+        "Independent_Assessor": "SecureIT",
+        "CSP_Website": "www.recoverypoint.com",
+        "CSO_Description": "The RPS INcloudGov system provides IaaS / DRaaS services deployed as a federal government-only cloud. INcloudGov provides the necessary compute, storage, and networking capabilities to host our government customers’ disaster recovery environments. RPS provides Disaster Recovery as a Service (DRaaS) by providing government customers a solution for full and partial site failover to a virtual DR site, and failback to restore normal operations.",
+        "CSP_POC_Name": "Nancy Pettit",
+        "CSP_POC_Email": "incloudgov@recoverypoint.com",
+        "Fedramp_Ready_Date": "2018-07-23T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Replicon",
         "Cloud_Service_Provider_Package": "Replicon Cloud Platform",
         "Path": "Agency",
@@ -9348,6 +9371,23 @@
     ],
     "Assessors": [
       {
+        "Name": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Accreditation_Date": "2015-07-16T04:00:00.000Z",
+        "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/A-Lign%20Logo.JPG",
+        "Description": "As an accredited FedRAMP 3PAO, A-LIGN is able to conduct the FedRAMP pre-assessment and security assessment based on the published templates and testing guidance. A-LIGN offers a FedRAMP pre-assessment to identify potential non-conformities, prior to beginning the security assessment. A-LIGN's security assessors and dedicated penetration testing team execute the FedRAMP assessment in accordance with the FedRAMP requirements.  As an assessor firm originally accredited by FedRAMP and having performed a security assessment for a certified CSP, we have the experience required to execute a comprehenisve assessment.",
+        "POC_Name": "Gene Geiger",
+        "POC_Email": "fedramp.sales@a-lign.com",
+        "website": "www.a-lign.com",
+        "Remediation": "N",
+        "Founded": 2009,
+        "Primary_Office_Locations": "400 N Ashley Drive Suite 1325, Tampa, FL 33602",
+        "FedRAMP_Assessed": "* Blackmesh, Inc.",
+        "Provide_Consulting_Services": "Y",
+        "Description_of_Consulting_Services": "A-LIGN offers consulting services in order to prepare organizations prior to their FedRAMP assessment. Our experienced assessors can develop the required templates and supporting policies and procedures to prepare your company for the FedRAMP assessment. Additionally, A-LIGN can assist with POA&M remediation. Our consulting services help companies meet the rigorous FedRAMP requirements.",
+        "Consulting_Services_To": "* TIBCO Software Inc\n* CGI Technology and Solutions Inc",
+        "Additional_Cyber_Frameworks": "* PCI DSS\n* ISO 27001\n* HITRUST\n* HIPAA/HITECH\n* FISMA\n* SOC 1/SSAE 16\n* SOC 2/AT 101\n* ISAE 3402"
+      },
+      {
         "Name": "Aspiryon, LLC",
         "Accreditation_Date": "2015-09-30T04:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Aspiryon%20Logo.jpg",
@@ -9924,23 +9964,6 @@
         "Description_of_Consulting_Services": "Paragon provides security analysis and pre-assessment security preparation services. Clients can choose from a menu of security services. Paragon provides a high quality staff, very competitive pricing, and is responsive to client timelines.\n\nOur approach to security delivers a tangible return on investment by ensuring security and compliance are built into your environment from the beginning of its lifecycle and accurately assessing your system to help it gain accreditation. With Paragon, you receive the capability of a large company with the personalized customer service of a small company.",
         "Consulting_Services_To": "Available Upon Request",
         "Additional_Cyber_Frameworks": "None"
-      },
-      {
-        "Name": "Price and Associates CPAs, LLC DBA A-LIGN",
-        "Accreditation_Date": "2015-07-16T04:00:00.000Z",
-        "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/A-Lign%20Logo.JPG",
-        "Description": "As an accredited FedRAMP 3PAO, A-LIGN is able to conduct the FedRAMP pre-assessment and security assessment based on the published templates and testing guidance. A-LIGN offers a FedRAMP pre-assessment to identify potential non-conformities, prior to beginning the security assessment. A-LIGN's security assessors and dedicated penetration testing team execute the FedRAMP assessment in accordance with the FedRAMP requirements.  As an assessor firm originally accredited by FedRAMP and having performed a security assessment for a certified CSP, we have the experience required to execute a comprehenisve assessment.",
-        "POC_Name": "Gene Geiger",
-        "POC_Email": "fedramp.sales@a-lign.com",
-        "website": "www.a-lign.com",
-        "Remediation": "N",
-        "Founded": 2009,
-        "Primary_Office_Locations": "400 N Ashley Drive Suite 1325, Tampa, FL 33602",
-        "FedRAMP_Assessed": "* Blackmesh, Inc.",
-        "Provide_Consulting_Services": "Y",
-        "Description_of_Consulting_Services": "A-LIGN offers consulting services in order to prepare organizations prior to their FedRAMP assessment. Our experienced assessors can develop the required templates and supporting policies and procedures to prepare your company for the FedRAMP assessment. Additionally, A-LIGN can assist with POA&M remediation. Our consulting services help companies meet the rigorous FedRAMP requirements.",
-        "Consulting_Services_To": "* TIBCO Software Inc\n* CGI Technology and Solutions Inc",
-        "Additional_Cyber_Frameworks": "* PCI DSS\n* ISO 27001\n* HITRUST\n* HIPAA/HITECH\n* FISMA\n* SOC 1/SSAE 16\n* SOC 2/AT 101\n* ISAE 3402"
       },
       {
         "Name": "Quantech Services, Inc.",
