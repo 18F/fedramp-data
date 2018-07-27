@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-07-26T04:40:49.862Z",
+    "Created_At": "2018-07-27T04:40:49.906Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -5320,7 +5320,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
         "Authorizing_Agency": "General Services Administration",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Ideascale%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Independent_Assessor": "The Cadence Group",
         "Underlying_CSP_Package_ID": [
           "F1603047866"
         ],
@@ -5341,7 +5341,7 @@
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
+            "Independent_Assessor": "The Cadence Group"
           }
         ]
       },
@@ -7243,6 +7243,37 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Everbridge",
+        "Cloud_Service_Provider_Package": "Everbridge Suite",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1412165928",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2018-06-07T04:00:00.000Z",
+        "Sponsoring_Agency": "Federal Housing Finance Agency",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
+        "Authorizing_Agency": "Federal Housing Finance Agency",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Everbridge%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "MSO365MT",
+          "F1508207205"
+        ],
+        "CSP_Website": "www.everbridge.com",
+        "CSO_Description": "Everbridge is a global provider of SaaS-based unified critical communications solutions. During mission-critical business events or man-made or natural disasters, the Everbridge platform enables customers to quickly and reliably deliver the right message and reach the right people, on the right device, in the right location, at the right time. Utilizing sophisticated communications technologies, Everbridge has the ability to deliver and verify messages in near real-time to more than 100 different communication devices, in over 200 countries and territories, in multiple languages – all simultaneously.",
+        "Announcement_Date": "2018-07-26T04:00:00.000Z",
+        "CSP_POC_Name": "SK Bhachech",
+        "CSP_POC_Email": "FedRAMPinfo@everbridge.com",
+        "FedRAMP_In-Process_Date": "2018-02-06T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "4tell Solutions",
         "Cloud_Service_Provider_Package": "4tell Platform for Government™ ",
         "Path": "Agency",
@@ -7886,30 +7917,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Everbridge",
-        "Cloud_Service_Provider_Package": "Everbridge Suite",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "F1412165928",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Federal Housing Finance Agency",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
-        "Authorizing_Agency": "Federal Housing Finance Agency",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Everbridge%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.everbridge.com",
-        "CSO_Description": "Everbridge is a global provider of SaaS-based unified critical communications solutions. During mission-critical business events or man-made or natural disasters, the Everbridge platform enables customers to quickly and reliably deliver the right message and reach the right people, on the right device, in the right location, at the right time. Utilizing sophisticated communications technologies, Everbridge has the ability to deliver and verify messages in near real-time to more than 100 different communication devices, in over 200 countries and territories, in multiple languages – all simultaneously.",
-        "CSP_POC_Name": "SK Bhachech",
-        "CSP_POC_Email": "FedRAMPinfo@everbridge.com",
-        "FedRAMP_In-Process_Date": "2018-02-06T05:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Ex Libris",
         "Cloud_Service_Provider_Package": "Alma and Primo",
         "Path": "Agency",
@@ -8080,7 +8087,7 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Private Cloud",
+        "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
         "Sponsoring_Agency": "Department of Homeland Security",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
@@ -8985,7 +8992,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Symantec Corporation",
-        "Cloud_Service_Provider_Package": "Symantec™ Email Security Service – Government, powered by Datapipe",
+        "Cloud_Service_Provider_Package": "Symantec™ Email Security Service – Government, powered by Rackspace",
         "Path": "JAB",
         "Designation": "Compliant",
         "Package_ID": "F1510137547A",
