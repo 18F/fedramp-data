@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-08-06T04:40:50.242Z",
+    "Created_At": "2018-08-07T04:40:50.516Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3895,16 +3895,6 @@
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Date": "2015-05-15T04:00:00.000Z",
-            "Letter_Expiration_Date": "2018-06-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2015-06-01T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Kratos SecureInfo"
-          },
-          {
             "Letter_Date": "2017-09-27T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2017-09-27T04:00:00.000Z",
             "Authorizing_Agency": "Department of Justice",
@@ -3927,6 +3917,16 @@
             "Authorizing_Letter_Last_Sign_Date": "2018-06-20T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Treasury",
             "Authorizing_Subagency": "Internal Revenue Service",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Kratos SecureInfo"
+          },
+          {
+            "Letter_Date": "2018-06-22T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-07-24T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-07-24T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
             "Include_In_Marketplace": "Y",
@@ -9915,6 +9915,23 @@
         "Additional_Cyber_Frameworks": "None"
       },
       {
+        "Name": "Perspecta, Inc.",
+        "Accreditation_Date": "2015-11-09T05:00:00.000Z",
+        "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Perspecta%20Logo.jpg",
+        "Description": "An organization that is now a part of Perspecta is an accredited Federal Risk Authorization and Management Program (FedRAMP℠) Third Party Assessment Organization (3PAO) for conducting security assessments for Cloud Service Providers (CSP).  Perspecta 3PAO provides security assessment services for cloud products and services to comply with FedRAMP requirements and achieve a Provisional Authority to Operate (P-ATO) certification from the FedRAMP Joint Authorization Board (JAB) or Authority to Operate (ATO) certification from specific federal agencies, which can be leveraged by all federal agencies. \n\nServices include:\n1. FedRAMP Pre-Assessment Review and Gap Analysis\n2. FedRAMP Ready Assessments\n3. FedRAMP Security Assessments\n4. FedRAMP Annual Assessments (including Continuous Monitoring)",
+        "POC_Name": "LaTara Allen",
+        "POC_Email": "3PAO@perspecta.com",
+        "website": "https://perspecta.com/about-us/our-credentials",
+        "Remediation": "N",
+        "Founded": 2018,
+        "Primary_Office_Locations": "* 15052 Conference Center Drive, Chantilly, VA 20151 (HQ)",
+        "FedRAMP_Assessed": "iSite, LLC\nMAXIMUS Inc.",
+        "Provide_Consulting_Services": "Y",
+        "Description_of_Consulting_Services": "As an advisor, Perspecta 3PAO assists organizations to develop understanding of the requirements, impacts to their business and best practice approaches to obtaining compliance or (FedRAMP or Agency) ATO certifications.\n\nServices include:\n1. FedRAMP Training for FedRAMP Requirements and ATO Process; Security Controls and Implementation Guidelines; System Categorization and Security Configuration; Documentation Package, Technical Writing and Continuous Monitoring Requirements\n2. FedRAMP Authorization Document Package Development\n3. Security Control Implementation Subject Matter Expertise\n4. Cloud Cyber Testing, including full or targeted penetration testing\n5. Classification Alignment for Accreditation Areas ",
+        "Consulting_Services_To": "Sungard Availability Services, Inc",
+        "Additional_Cyber_Frameworks": "* NIST 800-171\n* FISMA"
+      },
+      {
         "Name": "Quantech Services, Inc.",
         "Accreditation_Date": "2016-04-29T04:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Quantech%20Logo.jpg",
@@ -10032,23 +10049,6 @@
         "Description_of_Consulting_Services": "We are comprised of both audit and compliance professionals, each with several years of experience. With our combined resources, we have significant experience in assisting and assessing the security of cloud-based environments across a multitude of requirements (e.g., SOC1, SOC2, PCI, HIPAA, and ISO27001). Specific to FedRAMP, we can work with cloud service providers to perform a series of services to help them prepare, including: \n* Assist with the scoping, including the preparation of data flow and system diagrams \n* Document the SSP (System Security Plan), policies or other application documents\n* Perform a gap analysis over the FedRAMP requirements\n* Execute vulnerability assessments and attack and penetration testing",
         "Consulting_Services_To": "Zendesk",
         "Additional_Cyber_Frameworks": "* PCI\n* SOC"
-      },
-      {
-        "Name": "Vencore, Inc",
-        "Accreditation_Date": "2015-11-09T05:00:00.000Z",
-        "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Vencore%20Logo.jpg",
-        "Description": "Services include:\n1. FedRAMP Pre-Assessment Review and Gap Analysis\n2. FedRAMP Security Assessment\n3. FedRAMP Ongoing Assessment & Authorization (Continuous Monitoring Services)",
-        "POC_Name": "LaTara Allen",
-        "POC_Email": "3PAO@vencore.com",
-        "website": "www.vencore.com/fedramp-3PAO",
-        "Remediation": "N",
-        "Founded": 2014,
-        "Primary_Office_Locations": "* 15052 Conference Center Drive, Chantilly, VA 20151 (HQ) \n* 11091 Sunset Hills Road Suite 300, Reston, VA 20190  (3PAO Office)",
-        "FedRAMP_Assessed": "iSite, LLC",
-        "Provide_Consulting_Services": "Y",
-        "Description_of_Consulting_Services": "Services include:\n1. FedRAMP Training for FedRAMP Requirements and ATO Process; Security Controls and Implementation Guidelines; System Categorization and Security Configuration; Documentation Package, Technical Writing and Continuous Monitoring Requirements\n2. FedRAMP Consulting Support, including technical compliance\n3. FedRAMP Package Development\n4. Cloud Cyber Testing, including full or targeted penetration testing",
-        "Consulting_Services_To": "Sungard Availability Services, Inc",
-        "Additional_Cyber_Frameworks": "None"
       },
       {},
       {
