@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-08-08T04:40:49.732Z",
+    "Created_At": "2018-08-09T04:40:50.340Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2784,6 +2784,15 @@
             "Authorizing_Agency": "Corporation for National and Community Service",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/cncs_1.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)"
+          },
+          {
+            "Letter_Date": "2018-03-06T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-03-08T05:00:00.000Z",
+            "Authorizing_Agency": "Commodity Futures Trading Commission",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFTC%20Logo.jpg",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)"
           }
@@ -7227,6 +7236,37 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "TRAPWIRE",
+        "Cloud_Service_Provider_Package": "TRAPWIRE Threat Detection and Analysis System",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1602057825",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2018-01-11T05:00:00.000Z",
+        "Original_Expiration_Date": "2021-01-11T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Defense",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+        "Authorizing_Agency": "Department of Defense",
+        "Authorizing_Subagency": "Pentagon Force Protection Agency",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Trapwire%20Logo.jpg",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
+        "CSP_Website": "www.trapwire.com",
+        "CSO_Description": "TRAPWIRE is the preeminent software platform for detecting and alerting on threats against your assets and personnel in real-time. It provides a comprehensive suite of tools all synchronized and accessible in one centralized, highly secure and encrypted platform, including:\n\n - Incident reporting \n - Pattern analysis and threat detection    \n - Originator-controlled information sharing \n - Mass warning and notifications    \n - Cross-organizational collaboration \n - Mobile applications for reporting and alerts\n\nThe TRAPWIRE Threat Detection and Analysis System brings security organizations into a protection network that detects and alerts on mutual threats spanning time and geography, allowing users to break down stovepipes and interdict threats before they materialize into successful criminal or terrorist acts. The network encapsulates thousands of protected facilities and personnel spanning Federal, State, and Local Law Enforcement; Anti-Terrorism/Force Protection personnel; private/commercial security organizations; and community protection programs. Bringing all sectors together with modern technology and expert analytical support services, while maintaining “originator control” principles for each owner’s data, empowers a tangible force multiplier effect.",
+        "Announcement_Date": "2018-08-08T04:00:00.000Z",
+        "CSP_POC_Name": "Paul Chadha",
+        "CSP_POC_Email": "info@trapwire.com",
+        "FedRAMP_In-Process_Date": "2016-02-05T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "4tell Solutions",
         "Cloud_Service_Provider_Package": "4tell Platform for Government™ ",
         "Path": "Agency",
@@ -7889,7 +7929,7 @@
         "CSO_Description": "Ex Libris, a ProQuest company, is a global provider of library automation solutions, offering the only comprehensive product suite for the discovery, management, and distribution of all materials, regardless of format or location. The Ex Libris Alma/Primo SaaS solution allows libraries to manage all of their resource types – print, electronic and digital - within a single interface. The solution promotes library collaboration and helps libraries optimize their users’ experience by leveraging rich data analytics.",
         "CSP_POC_Name": "Ellen Amsel",
         "CSP_POC_Email": "Ellen.Amsel@exlibrisgroup.com",
-        "FedRAMP_In-Process_Date": "2016-09-23T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2018-06-27T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -7914,6 +7954,26 @@
         "CSP_POC_Name": "Marc Padovani",
         "CSP_POC_Email": "fedramp@forcepoint.com",
         "FedRAMP_In-Process_Date": "2017-06-12T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Frame, Inc.",
+        "Cloud_Service_Provider_Package": "Frame Platform Government Edition",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR1824038232",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Frame%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://fra.me/gov-us",
+        "CSO_Description": "Frame is a secure cloud platform that lets organizations deliver amazing Windows and Linux applications and workflows to users on all connected devices. It’s the easiest way to centrally deliver and manage enterprise applications. All users need is a browser – no plugins or additional hardware required.\n\nFrame is used in hundreds of businesses, schools, agencies and some of the largest software vendors. Customers can use dozens of integrations to connect Frame to their existing storage, identity, security, and networking solutions - cutting the time to value from months to minutes.\n\nFrame Platform Government Edition is a cloud workspace purpose-built for public sector customers. Enhanced security, zero-client ubiquitous access, centralized management, hyper-scale with 10,000s of users are just some of the features. Our market leading Quality of Service (QOS) provides great user experience and interactivity on any network. Frame Platform Government Edition is operated and managed in the US AWS and Azure Government regions. the Frame provides public sector customers a secure cloud workspace with security and compliance built in. ",
+        "CSP_POC_Name": "David Reber",
+        "CSP_POC_Email": "security@fra.me",
+        "Fedramp_Ready_Date": "2018-08-07T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -8942,7 +9002,7 @@
         "CSO_Description": "Splunk Cloud provides operational intelligence capabilities to organizations around the world.  It provides an easy and fast way to analyze the massive streams of machine-generated data coming from IT systems and applications, wherever they are deployed—on-premises, in virtualized environments or in the cloud.\n\nSplunk Cloud delivers the Splunk Enterprise software in a cloud environment where the setup and management of the support infrastructure is performed by Splunk Cloud Operations.  Splunk Enterprise is a software platform to search, analyze, and visualize the machine-generated data gathered from the websites, applications, sensors, devices, and so on, that comprise your IT infrastructure or business.\n\nAfter you define the data source, Splunk Cloud indexes the data stream and parses it into a series of individual events that you can view and search.  Organizations may use the search processing language or the interactive pivot feature to create reports and visualizations.",
         "CSP_POC_Name": "Splunk FedRAMP Team",
         "CSP_POC_Email": "Fedramp-Cloud@splunk.com",
-        "FedRAMP_In-Process_Date": "2017-03-22T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2018-06-18T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -8987,31 +9047,6 @@
         "CSP_POC_Name": "George Teas",
         "CSP_POC_Email": "mail_fedramp@symantec.com",
         "FedRAMP_In-Process_Date": "2017-08-01T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "TRAPWIRE",
-        "Cloud_Service_Provider_Package": "TRAPWIRE Threat Detection and Analysis System",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "F1602057825",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Defense",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-        "Authorizing_Agency": "Department of Defense",
-        "Authorizing_Subagency": "Pentagon Force Protection Agency",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Trapwire%20Logo.jpg",
-        "Independent_Assessor": "Lunarline, Inc.",
-        "CSP_Website": "www.trapwire.com",
-        "CSO_Description": "TRAPWIRE is the preeminent software platform for detecting and alerting on threats against your assets and personnel in real-time. It provides a comprehensive suite of tools all synchronized and accessible in one centralized, highly secure and encrypted platform, including:\n\n - Incident reporting \n - Pattern analysis and threat detection    \n - Originator-controlled information sharing \n - Mass warning and notifications    \n - Cross-organizational collaboration \n - Mobile applications for reporting and alerts\n\nThe TRAPWIRE Threat Detection and Analysis System brings security organizations into a protection network that detects and alerts on mutual threats spanning time and geography, allowing users to break down stovepipes and interdict threats before they materialize into successful criminal or terrorist acts. The network encapsulates thousands of protected facilities and personnel spanning Federal, State, and Local Law Enforcement; Anti-Terrorism/Force Protection personnel; private/commercial security organizations; and community protection programs. Bringing all sectors together with modern technology and expert analytical support services, while maintaining “originator control” principles for each owner’s data, empowers a tangible force multiplier effect.",
-        "CSP_POC_Name": "Paul Chadha",
-        "CSP_POC_Email": "info@trapwire.com",
-        "FedRAMP_In-Process_Date": "2016-02-05T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
