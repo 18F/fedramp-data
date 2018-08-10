@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-08-09T04:40:50.340Z",
+    "Created_At": "2018-08-10T04:40:50.157Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1323,12 +1323,13 @@
         "Designation": "Compliant",
         "Package_ID": "F1311252651",
         "Service_Model": [
-          "PaaS, SaaS"
+          "PaaS ",
+          " SaaS"
         ],
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2015-08-06T04:00:00.000Z",
-        "Original_Expiration_Date": "2018-08-06T04:00:00.000Z",
+        "Original_Authorization_Date": "2015-09-04T04:00:00.000Z",
+        "Original_Expiration_Date": "2018-09-04T04:00:00.000Z",
         "Sponsoring_Agency": "Department of Commerce",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
         "Authorizing_Agency": "Department of Commerce",
@@ -1346,16 +1347,6 @@
         "FedRAMP_In-Process_Date": "2015-01-14T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2015-09-04T04:00:00.000Z",
-            "Letter_Expiration_Date": "2018-09-04T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "United States Census Bureau",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          },
           {
             "Letter_Date": "2015-10-13T04:00:00.000Z",
             "Letter_Expiration_Date": "2018-10-13T04:00:00.000Z",
@@ -3938,6 +3929,15 @@
             "Authorizing_Agency": "Department of the Treasury",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Kratos SecureInfo"
+          },
+          {
+            "Letter_Date": "2018-07-18T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-07-10T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Kratos SecureInfo"
           }
@@ -6988,7 +6988,7 @@
         "Announcement_Date": "2018-06-22T04:00:00.000Z",
         "CSP_POC_Name": "Jeff Bivens",
         "CSP_POC_Email": "fedramp@workiva.com",
-        "FedRAMP_In-Process_Date": "2017-06-22T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2018-03-01T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -7329,7 +7329,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
         "Authorizing_Agency": "Department of Energy",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Aconex%20Logo.jpg",
-        "Independent_Assessor": "EY",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "https://www.aconex.com/.",
         "CSO_Description": "Aconex provides the #1 cloud and mobile collaboration platform for the global construction industry. This highly secure platform connects asset owners, contractors, EPCs, project managers, and their teams in the construction, infrastructure, and energy and resources sectors, providing project-wide visibility and control between the many different organizations collaborating across their projects. Aconex supports all phases of the project lifecycle – feasibility, planning, bidding, design, construction, inspections, handover, and operation and maintenance – and is accessible from any device, anywhere, at any time. The platform integrates project controls for cost and schedule management, document control, structured communications, workflow management, BIM collaboration, predictive insights, and APIs for data exchange with other systems.\n\nWith more than 70,000 user organizations and over $1 trillion of project value delivered in more than 70 countries, Aconex is the construction industry’s most widely adopted and trusted platform. Founded in 2000, Aconex has 47 offices in 23 countries around the world. The company’s ordinary shares are traded on the Australian Securities Exchange (ASX) under the ticker code ACX and are included in the S&P/ASX 200 Index. For more information, please see [https://www.aconex.com/](https://www.aconex.com/). \n",
         "CSP_POC_Name": "Surayansh Surana",
@@ -7488,7 +7488,7 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Private Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Sponsoring_Agency": "Department of Health and Human Services",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
