@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-08-26T04:40:50.078Z",
+    "Created_At": "2018-08-27T04:40:50.095Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -399,8 +399,8 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "DXC Technology",
-        "Cloud_Service_Provider_Package": "DXC Cloud for Public Sector",
+        "Cloud_Service_Provider_Name": "Perspecta",
+        "Cloud_Service_Provider_Package": "Cloud for Public Sector",
         "Path": "JAB",
         "Designation": "Compliant",
         "Package_ID": "F1206131373",
@@ -412,13 +412,13 @@
         "Original_Authorization_Date": "2013-06-06T04:00:00.000Z",
         "Sponsoring_Agency": "JAB Authorization",
         "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/DXC%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Perspecta%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.dxc.technology",
-        "CSO_Description": "DXC Technology Cloud for Public Sector (formerly HPE Helion) is a Hybrid, Community   Infrastructure-as- a-Service (IaaS) and Platform-as- a-Service (PaaS) cloud service offering designed around the FedRAMP Risk Management Framework to fulfill the NIST requirements for U.S. government agencies. This infrastructure and platform service offering is a highly secure, enterprise-class, cloud computing environment enabling government agencies, contractors and non-government organizations governed by federal regulations (e.g.: educational institutions, HIPAA-governed entities, and critical infrastructure) to operate in the cloud with greater agility and flexibility while adhering to rigorous security, privacy, and IT governance controls required by the federal government.\n\nDXC Cloud for Public Sector consists of multiple components that can exist in a single cloud or operate within multiple clouds:\n\n- Infrastructure-as- a-Service (IaaS): allows consumers to build and manage Windows or Linux servers to host system middleware or applications they install and manage themselves. The fast provisioning service enables users to choose virtual servers in a consumption- based model and to co-locate customer-owned physical devices such as RISC chipset servers or hardware security modules (MSM) in the same data center as their cloud servers.\n- Platform-as- a-Service (PaaS): allows consumers to extend the shared security model and eliminate operational expenses associated with the management of operating systems, middleware, databases, and security. HPE manages client workloads, reducing the management burden and mitigating an overinvestment in infrastructure, while deploying new managed services securely within a FedRAMP-authorized environment.\n- Disaster Recovery-as- a-Service (DRaaS): enables consumers to implement a disaster recovery capability to meet federal, state, and local requirements for contingency planning. This solution automatically collects and maintains complete images of the servers and network in their cloud, and can restore the entire cloud without client intervention. The managed service also includes assistance with disaster recovery planning and annual DR rehearsals. Government agencies can benefit from DXC’s service excellence and over 50 years of public sector experience, with a solution built from the ground up with security and best practices in mind. DXC hosts the service exclusively in auditable data centers in the continental United States, staffed by U.S. persons.\n\nDXC Cloud for Public Sector complies with the following regulatory standards:\n\n- FIPS 140-2 encryption (Federal Information Processing Standards 140-2 encryption)\n- FedRAMP tailored CIS Level 1 configuration benchmarks (Center for Internet Security Level 1) \n- HIPAA/HITECH Security and Privacy (Health Insurance Portability and Accountability Act/ Health Information Technology for Economic and Clinical Health)\n- ITAR (International Traffic in Arms Regulations)\n- FERPA (Family Educational Rights and Privacy Act)\n- PCI-DSS (Payment Card Industry Data Security Standard)\n- FISMA (Federal Information Security Management Act)\n- DIACAP/DIARMF (DoD Information Assurance Certification and  Accreditation Process/Defense Information Assurance Risk Management Framework)\n- DoD Cloud Security Reference Guide (SRG) Information Impact level 2 (authorized 10/27/14)\n\nFor more information, visit our worldwide web site at [www.DXC.Technology](www.DXC.Technology).",
+        "CSP_Website": "www.Perspecta.com",
+        "CSO_Description": "Perspecta created Cloud for Public Sector for Federal Agency customers looking to lift and shift their existing client server application workloads to the Cloud without significant refactoring. Perspecta Cloud for Public Sector provides Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Replication-based disaster recovery Cloud Service Offering (CSO) services to U.S. Government entities at all levels; Private Sector Contractors doing business with U.S. government entities; and Non-Government Organizations subject to, or implementing, Federal IT Security and Privacy regulation and reporting. Cloud for Public Sector supplies 100% U.S.-based data storage and U.S. Persons support for customers with ITAR and US data sovereignty requirements.\n\nPaaS, called “Perspecta-Managed Service”, provides managed, standardized, secure, compliant IaaS servers on either Perspecta’s own or another Cloud Service Provider’s CSO for a full set of leveragable security, privacy, and IT governance administration services and options to support Federal Information Security Management Act (FISMA) and FedRAMP control baselines. Customers may mix IaaS and PaaS in a single cloud, operate more than one cloud, and combine cloud services with traditional data center hosted virtual and managed physical infrastructure components.\n\nPerspecta Cloud Continuity is an independently orderable, Cloud-based disaster recovery (DR) IaaS service to meet contingency planning requirements. The Perspecta Cloud Continuity solution collects and maintains complete replica of customer servers and network configurations to reconstitute the subscribed Consumer environment identical to the production data center original.\n\nFor more information, visit our worldwide web site at [www.Perspecta.com](www.Perspecta.com).",
         "Announcement_Date": "2013-06-06T04:00:00.000Z",
         "CSP_POC_Name": "Marilyn Hays",
-        "CSP_POC_Email": "dxc-fedramp@dxc.com",
+        "CSP_POC_Email": "fedramp@perspecta.com",
         "FedRAMP_In-Process_Date": "2013-01-10T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": [
@@ -8524,6 +8524,31 @@
         "CSP_POC_Name": "Daren Lauda",
         "CSP_POC_Email": "FedRAMP@teletracnavman.com",
         "Fedramp_Ready_Date": "2018-02-07T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Netskope",
+        "Cloud_Service_Provider_Package": "Netskope Security Cloud",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1831538827",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "High",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "Administration for Community Living",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Netskope%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://www.netskope.com/",
+        "CSO_Description": "Netskope is the leading cloud access security broker (CASB).  Our patented Cloud XD technology eliminates blind spots by going deeper than any other security provider to quickly target and control activities across thousands of cloud services and millions of websites. With full control from one cloud, the Netskope Security Cloud, our customers benefit from 360-degree data protection that guards data everywhere and advanced threat protection that stops elusive attacks. At Netskope, we call this smart cloud security.",
+        "CSP_POC_Name": "Beau Hutto",
+        "CSP_POC_Email": "fedramp@netskope.com",
+        "FedRAMP_In-Process_Date": "2018-08-16T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
