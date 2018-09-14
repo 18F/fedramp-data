@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-09-13T04:40:50.230Z",
+    "Created_At": "2018-09-14T04:40:51.252Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -989,32 +989,6 @@
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
         ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "The Arcanum Group Inc.",
-        "Cloud_Service_Provider_Package": "Infor SyteLine ERP Suite",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "F1607057911",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Low",
-        "Original_Authorization_Date": "2015-09-24T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Commerce",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-        "Authorizing_Agency": "Department of Commerce",
-        "Authorizing_Subagency": "United States Census Bureau",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Arcanum%20Logo.jpg",
-        "Independent_Assessor": "Kratos SecureInfo",
-        "CSP_Website": "www.thearcanumgroup.com",
-        "CSO_Description": "The Integrated Logistics Management System is a cloud-based, Software-as-a-Subscription solution, hosted and licensed by The Arcanum Group, Inc. ILMS provides the U.S. Census Bureau with inventory, warehousing, and customer service modules of the commercial off-the-shelf Infor SyteLine 9.00.30 Enterprise Resource Planning application. The system provides logistics support for censuses and surveys with real time, integrated logistics data for decision support, program control, and response to unplanned requirements. The ILMS system supports planning and execution of logistics activities as well as capturing logistics costs.",
-        "CSP_POC_Name": "Robert Fortier",
-        "CSP_POC_Email": "info@thearcanumgroup.com",
-        "FedRAMP_In-Process_Date": "2014-12-08T05:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "Appian",
@@ -3330,10 +3304,10 @@
         "Original_Authorization_Date": "2016-08-04T04:00:00.000Z",
         "Sponsoring_Agency": "JAB Authorization",
         "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Softlayer%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/IBM%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.softlayer.com",
-        "CSO_Description": "The SoftLayer Federal Cloud (SFC) is a high performance, high security, Infrastructure-as-a-Service Cloud provided by SoftLayer Technologies, Inc. SFC makes use of a unique managed and automated cloud service provider architecture layer (a multi-faceted Infrastructure-as-a-Service (IaaS) Cloud) that provides a variety of cloud-based services. Under SoftLayer’s unique managed/automated service provider architecture, its offerings include public, private, and hybrid cloud offerings. Services include orchestrated bare metal servers (dedicated and shared) and virtual servers (dedicated and shared) to support a variety of operational and security requirements of federal agencies.",
+        "CSP_Website": "https://www.ibm.com/cloud/federal",
+        "CSO_Description": "IBM Cloud for Government is a high performance, high security Cloud, providing both Infrastructure and Platform Cloud Services. IBM Cloud for Government delivers seamless integrated computing environments across multiple data centers. IBM integrates and automates infrastructure and platform services empowering federal agencies with complete control, security, scalability and ease-of-management via an Agency Portal and Secure Open API. The Agency portal and API provide administrators and developers with direct access to more than 100 backend systems, services and activities.  IBM Cloud for Government is designed for optimized network management, various performance levels and enhanced security. It provides automated provisioning of services in public, private, and hybrid cloud offerings with quick and easy access to developer tools. Services include orchestration of bare metal and virtual servers, networking services, VMWare, and development tools such as with object storage, auto scaling, and load balancing.",
         "Announcement_Date": "2016-08-04T04:00:00.000Z",
         "CSP_POC_Name": "Valarie Stinson",
         "CSP_POC_Email": "vstinson@us.ibm.com",
@@ -7170,7 +7144,7 @@
           {
             "Letter_Date": "2018-03-31T04:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Institutes of Standards and Technology",
+            "Authorizing_Subagency": "National Institute of Standards and Technology",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y",
@@ -7522,6 +7496,36 @@
         "CSP_POC_Name": "Julia Lane",
         "CSP_POC_Email": "fedramp-adrf@nyu.edu",
         "FedRAMP_In-Process_Date": "2018-04-09T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "The Arcanum Group Inc.",
+        "Cloud_Service_Provider_Package": "Integrated Logistics Management System",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1607057911",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Low",
+        "Original_Authorization_Date": "2018-07-13T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Commerce",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+        "Authorizing_Agency": "Department of Commerce",
+        "Authorizing_Subagency": "United States Census Bureau",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Arcanum%20Logo.jpg",
+        "Independent_Assessor": "Kratos SecureInfo",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.thearcanumgroup.com",
+        "CSO_Description": "The Integrated Logistics Management System is a cloud-based, Software-as-a-Subscription solution, hosted and licensed by The Arcanum Group, Inc. ILMS provides the U.S. Census Bureau with inventory, warehousing, and customer service modules of the commercial off-the-shelf Infor SyteLine 9.00.30 Enterprise Resource Planning application. The system provides logistics support for censuses and surveys with real time, integrated logistics data for decision support, program control, and response to unplanned requirements. The ILMS system supports planning and execution of logistics activities as well as capturing logistics costs.",
+        "Announcement_Date": "2018-09-13T04:00:00.000Z",
+        "CSP_POC_Name": "Robert Fortier",
+        "CSP_POC_Email": "info@thearcanumgroup.com",
+        "FedRAMP_In-Process_Date": "2014-12-08T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
