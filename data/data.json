@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-10-01T04:40:49.882Z",
+    "Created_At": "2018-10-02T04:40:50.043Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4538,6 +4538,16 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Kratos SecureInfo"
+          },
+          {
+            "Letter_Expiration_Date": "2021-08-08T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-08-08T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Customs and Border Protection",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Kratos SecureInfo"
           }
         ]
       },
@@ -4953,6 +4963,16 @@
             "Authorizing_Subagency": "United States Marshals Service",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Expiration_Date": "2021-03-07T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-03-07T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Customs and Border Protection",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
@@ -6568,6 +6588,16 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Expiration_Date": "2021-05-11T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-05-11T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Customs and Border Protection",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
           }
         ]
       },
@@ -7771,6 +7801,36 @@
             "Independent_Assessor": "USCIS Independent Assessment Team"
           }
         ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Slack Technologies",
+        "Cloud_Service_Provider_Package": "Slack",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1823447014",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Li-SaaS",
+        "Original_Authorization_Date": "2018-10-01T04:00:00.000Z",
+        "Sponsoring_Agency": "General Services Administration",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+        "Authorizing_Agency": "General Services Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Slack%20Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "FR1805751477"
+        ],
+        "CSP_Website": "https://slack.com/",
+        "CSO_Description": "Slack is the collaboration hub that brings the right people together with all the right information and tools to get work done. Launched in 2014, Slack is the fastest-growing business application in history. Millions of people around the world use Slack to connect their teams, unify their systems, and drive their business forward. From Fortune 100 companies to corner markets, Slack helps people communicate better.",
+        "Announcement_Date": "2018-10-01T04:00:00.000Z",
+        "CSP_POC_Name": "Nick Hardy",
+        "CSP_POC_Email": "fedramp@slack-corp.com",
+        "FedRAMP_In-Process_Date": "2018-05-25T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "4tell Solutions",
@@ -9278,30 +9338,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Slack Technologies",
-        "Cloud_Service_Provider_Package": "Slack",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1823447014",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Li-SaaS",
-        "Sponsoring_Agency": "General Services Administration",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-        "Authorizing_Agency": "General Services Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Slack%20Logo.jpg",
-        "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
-        "CSP_Website": "https://slack.com/",
-        "CSO_Description": "Slack is the collaboration hub that brings the right people together with all the right information and tools to get work done. Launched in 2014, Slack is the fastest-growing business application in history. Millions of people around the world use Slack to connect their teams, unify their systems, and drive their business forward. From Fortune 100 companies to corner markets, Slack helps people communicate better.",
-        "CSP_POC_Name": "Nick Hardy",
-        "CSP_POC_Email": "fedramp@slack-corp.com",
-        "FedRAMP_In-Process_Date": "2018-05-25T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Smarsh",
         "Cloud_Service_Provider_Package": "The Archiving Platform",
         "Path": "Agency",
@@ -10058,23 +10094,6 @@
         "Description_of_Consulting_Services": "ITC has a proven approach to providing advisory and assessment services by leveraging our deep understanding of various regulatory compliance frameworks (DIACAP, NIST RMF, and FedRAMP SAF). We offer the following services to assist federal agencies and CSPs in preparing for FedRAMP authorization:\n\n* FedRAMP Readiness Assessment\n* FedRAMP Advisory and Consulting Services\n* 3PAO Assessment\n* Continuous Monitoring\n* Penetration Testing",
         "Consulting_Services_To": "None",
         "Additional_Cyber_Frameworks": "* NIST RMF\n* ISO 17020"
-      },
-      {
-        "Name": "JD Biggs & Associates, Inc.",
-        "Accreditation_Date": "2014-11-04T05:00:00.000Z",
-        "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/JDBiggs%20Logo.jpg",
-        "Description": "JD Biggs & Associates was incorporated in Maryland in April 2004 and is a security and privacy, veteran-owned small business. FedRAMP accredited 3PAO in May 2012. Working with CSP’s, Federal Agencies and other commercial applications, to include Software as a Service (SaaS), has provided our firm with experience that differentiates us from our competitors.  Core service offerings encompass:\n\n* Preliminary and Full Assessments\n* Package Development\n* Penetration Testing / Social Engineering\n* Continuous Monitoring \n\nOur firm is experienced in completing FedRAMP assessments on IaaS / PaaS / SaaS and these efforts, have resulted in the development of beneficial methodologies, in-house templates as-well-as lessons learned. These methodologies are in-house strategies for educating stakeholders and uniform approach to each assessment:\n\n* Federal Risk and Authorization Management Program (FedRAMP)\n* FedRAMP Penetration Testing \n* FedRAMP ConMon\n* Federal Information Security Management Act (FISMA)\n* FISMA ConMon\n* Risk Management Framework (RMF)\n* Health Insurance Portability and Accountability Act (HIPAA)\n\nJD Biggs & Associates performed and completed the security assessment for Dell Federal Services for Government (now MIS Sciences GovPoint) to achieve their Provisional Authorization to Operate (P-ATO) from the FedRAMP Joint Authorization Board (JAB).",
-        "POC_Name": "Maureen Price",
-        "POC_Email": "3pao@jdbiggs.com",
-        "website": "www.jdbiggs.com",
-        "Remediation": "N",
-        "Founded": 2004,
-        "Primary_Office_Locations": "12602 Bear Creek Terrace, Beltsville, MD 20705",
-        "FedRAMP_Assessed": "Dell Services for Federal Government",
-        "Provide_Consulting_Services": "Y",
-        "Description_of_Consulting_Services": "JD Biggs & Associates consulting services provide federal agencies and commercial organizations, a catalogue of security and privacy services for designing, developing and implementing enterprise / business unit’s security programs.  Core services include:\n\n* Policies / Procedures / Plans development associated with individual systems, business units or enterprise level, incorporates federal / agency / CSP requirements.\n* Boundary scoping defines the accreditation boundary, encompassing hardware / software and detailing the inventory of these components.\n* Awareness & Training (End-Users / Role Based) performed annually and tailored for enforcing CSP or agency requirements.\n* Package Development / Analysis is the assembly of the security authorization package, in preparation for the 3PAO assessment.\n* Penetration Testing / Social Engineering.\n\n",
-        "Consulting_Services_To": "MIS Sciences Corporation",
-        "Additional_Cyber_Frameworks": "* FISMA\n* HIPAA"
       },
       {
         "Name": "KPMG, LLP",
