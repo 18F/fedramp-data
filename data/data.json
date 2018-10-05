@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-10-04T04:40:50.292Z",
+    "Created_At": "2018-10-05T04:40:49.928Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -431,6 +431,16 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2017-10-19T04:00:00.000Z",
+            "Letter_Expiration_Date": "2018-10-19T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-10-19T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Transportation",
+            "Authorizing_Subagency": "Federal Motor Carrier Safety Administration",
+            "Agency_POC": "Coming Soon",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
           }
         ]
       },
@@ -503,16 +513,6 @@
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "SecureIT"
-          },
-          {
-            "Letter_Date": "2016-11-30T05:00:00.000Z",
-            "Letter_Expiration_Date": "2017-12-01T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-12-01T05:00:00.000Z",
-            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
-            "Include_In_Marketplace": "N",
             "Independent_Assessor": "SecureIT"
           },
           {
@@ -1002,6 +1002,16 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2018-05-15T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-05-15T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-05-14T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Labor",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
           }
         ]
       },
@@ -1036,7 +1046,7 @@
             "Authorizing_Agency": "Federal Trade Commission",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
-            "Include_In_Marketplace": "N",
+            "Include_In_Marketplace": "Y",
             "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN"
           }
         ]
@@ -2382,6 +2392,15 @@
             "Authorizing_Agency": "United States Agency for International Development",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Expiration_Date": "2019-05-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-08-29T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Labor",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
@@ -4696,7 +4715,7 @@
           "PaaS ",
           " SaaS"
         ],
-        "Deployment_Model": "Public Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2017-07-06T04:00:00.000Z",
         "Original_Expiration_Date": "2020-07-06T04:00:00.000Z",
@@ -4709,7 +4728,7 @@
           "F1206061353"
         ],
         "CSP_Website": "www.salesforce.com/industries/public-sector",
-        "CSO_Description": "The Salesforce Government Cloud is a partitioned instance of Salesforce’s Platform-as-a-Service (PaaS) and Software-as-a-Service (SaaS), multi-tenant community cloud infrastructure specifically for use by U.S federal, state, and local government customers, U.S. government contractors, and Federally Funded Research and Development Centers (FFRDCs). The Salesforce Government Cloud is comprised of the Salesforce services: Lightning Platform, Sales, Service, Communities, Analytics, and Industry Solutions. Additional information is available at: (https://trust.salesforce.com/en/compliance/)[https://trust.salesforce.com/en/compliance/]. A complete list of current in-scope Salesforce products included in the authorization boundary is available upon request.",
+        "CSO_Description": "Salesforce Government Cloud is a partitioned instance of Salesforce’s industry-leading Platform-as-a-Service (PaaS) and Software-as-a-Service (SaaS), multi-tenant community cloud infrastructure specifically for use by U.S. federal, state, and local government customers, U.S. government contractors, and Federally Funded Research and Development Centers (FFRDCs). \n\nSalesforce Government Cloud is comprised of the following Salesforce services: Lightning Platform, Sales, Service, Communities, Analytics, and Industry Solutions. A list of current in-scope Salesforce products included in the authorization boundary is available at: (https://help.salesforce.com/articleView?id=000270080&language=en_US&type=1) [https://help.salesforce.com/articleView?id=000270080&language=en_US&type=1]\n\nAdditional information is available at: (http://pages.mail.salesforce.com/gettingstarted/government-cloud/)[http://pages.mail.salesforce.com/gettingstarted/government-cloud/]",
         "Announcement_Date": "2014-05-23T04:00:00.000Z",
         "CSP_POC_Name": "N/A",
         "CSP_POC_Email": "fedramp@salesforce.com",
@@ -6778,7 +6797,7 @@
         "Deployment_Model": "Hybrid Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2018-05-31T04:00:00.000Z",
-        "Sponsoring_Agency": "General Services Administration",
+        "Sponsoring_Agency": "Federal Housing Finance Agency",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
         "Authorizing_Agency": "Federal Housing Finance Agency",
         "Authorizing_Subagency": "FHFA Office of the Inspector General",
@@ -7510,7 +7529,7 @@
         "Authorizing_Agency": "Department of Commerce",
         "Authorizing_Subagency": "United States Census Bureau",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Arcanum%20Logo.jpg",
-        "Independent_Assessor": "Kratos SecureInfo",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
         "Underlying_CSP_Package_ID": [
           "F1603047866"
         ],
@@ -7866,6 +7885,35 @@
         "CSP_POC_Name": "Nick Hardy",
         "CSP_POC_Email": "fedramp@slack-corp.com",
         "FedRAMP_In-Process_Date": "2018-05-25T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "GitHub",
+        "Cloud_Service_Provider_Package": "GitHub Business Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1812058188",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Li-SaaS",
+        "Original_Authorization_Date": "2018-10-04T04:00:00.000Z",
+        "Sponsoring_Agency": "General Services Administration",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+        "Authorizing_Agency": "General Services Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/GitHub_Logo.jpg",
+        "Independent_Assessor": "The Cadence Group",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
+        "CSP_Website": "https://government.github.com",
+        "CSO_Description": "GitHub is a collaborative development platform inspired by the way you work. From open source [https://github.com/open-source](https://github.com/open-source) to business [https://github.com/business](https://github.com/business) , you can plan, build, review, and ship software at work—all while tracking bugs and discussing ideas. You can securely develop your organization's software on GitHub, whether you work for a small startup or a large agency.",
+        "Announcement_Date": "2018-10-04T04:00:00.000Z",
+        "CSP_POC_Name": "Dave Eide",
+        "CSP_POC_Email": "government@github.com",
+        "FedRAMP_In-Process_Date": "2018-04-02T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -8540,30 +8588,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "GitHub",
-        "Cloud_Service_Provider_Package": "GitHub Business Cloud",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1812058188",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Li-SaaS",
-        "Sponsoring_Agency": "General Services Administration",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-        "Authorizing_Agency": "General Services Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/GitHub_Logo.jpg",
-        "Independent_Assessor": "The Cadence Group",
-        "CSP_Website": "https://government.github.com",
-        "CSO_Description": "GitHub is a collaborative development platform inspired by the way you work. From open source [https://github.com/open-source](https://github.com/open-source) to business [https://github.com/business](https://github.com/business) , you can plan, build, review, and ship software at work—all while tracking bugs and discussing ideas. You can securely develop your organization's software on GitHub, whether you work for a small startup or a large agency.",
-        "CSP_POC_Name": "Dave Eide",
-        "CSP_POC_Email": "government@github.com",
-        "FedRAMP_In-Process_Date": "2018-04-02T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Gordian",
         "Cloud_Service_Provider_Package": "Gordian Federal Cloud powered by RSMeans Data",
         "Path": "Agency",
@@ -9054,7 +9078,7 @@
         "Impact_Level": "High",
         "Sponsoring_Agency": "Department of Health and Human Services",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Deparment of Health and Human Services",
+        "Authorizing_Agency": "Department of Health and Human Services",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.oracle.com",
@@ -9547,7 +9571,7 @@
         "Impact_Level": "Li-SaaS",
         "Sponsoring_Agency": "Department of the Interior",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-        "Authorizing_Agency": "Depatment of the Interior",
+        "Authorizing_Agency": "Department of the Interior",
         "Authorizing_Subagency": "Fish and Wildlife Service",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/VBrick%20Logo.jpg",
         "CSP_Website": "www.vbrick.com",
