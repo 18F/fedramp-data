@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-10-05T04:40:49.928Z",
+    "Created_At": "2018-10-06T04:40:50.150Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1936,6 +1936,16 @@
             "Authorizing_Subagency": "Customs and Border Protection",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Kratos SecureInfo"
+          },
+          {
+            "Letter_Date": "2018-09-21T04:00:00.000Z",
+            "Letter_Expiration_Date": "2019-09-27T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-09-27T04:00:00.000Z",
+            "Authorizing_Agency": "Library of Congress",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/LoC%20logo.jpg",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Kratos SecureInfo"
           }
@@ -4728,7 +4738,7 @@
           "F1206061353"
         ],
         "CSP_Website": "www.salesforce.com/industries/public-sector",
-        "CSO_Description": "Salesforce Government Cloud is a partitioned instance of Salesforce’s industry-leading Platform-as-a-Service (PaaS) and Software-as-a-Service (SaaS), multi-tenant community cloud infrastructure specifically for use by U.S. federal, state, and local government customers, U.S. government contractors, and Federally Funded Research and Development Centers (FFRDCs). \n\nSalesforce Government Cloud is comprised of the following Salesforce services: Lightning Platform, Sales, Service, Communities, Analytics, and Industry Solutions. A list of current in-scope Salesforce products included in the authorization boundary is available at: (https://help.salesforce.com/articleView?id=000270080&language=en_US&type=1) [https://help.salesforce.com/articleView?id=000270080&language=en_US&type=1]\n\nAdditional information is available at: (http://pages.mail.salesforce.com/gettingstarted/government-cloud/)[http://pages.mail.salesforce.com/gettingstarted/government-cloud/]",
+        "CSO_Description": "Salesforce Government Cloud is a partitioned instance of Salesforce’s industry-leading Platform-as-a-Service (PaaS) and Software-as-a-Service (SaaS), multi-tenant community cloud infrastructure specifically for use by U.S. federal, state, and local government customers, U.S. government contractors, and Federally Funded Research and Development Centers (FFRDCs). \n\nSalesforce Government Cloud is comprised of the following Salesforce services: Lightning Platform, Sales, Service, Communities, Analytics, and Industry Solutions. A list of current in-scope Salesforce products included in the authorization boundary is available at [https://help.salesforce.com/articleView?id=000270080&language=en_US&type=1](https://help.salesforce.com/articleView?id=000270080&language=en_US&type=1)\n\nAdditional information is available at: [http://pages.mail.salesforce.com/gettingstarted/government-cloud/](http://pages.mail.salesforce.com/gettingstarted/government-cloud/)",
         "Announcement_Date": "2014-05-23T04:00:00.000Z",
         "CSP_POC_Name": "N/A",
         "CSP_POC_Email": "fedramp@salesforce.com",
@@ -7353,6 +7363,16 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)"
+          },
+          {
+            "Letter_Date": "2018-09-20T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-10-03T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-10-03T04:00:00.000Z",
+            "Authorizing_Agency": "Overseas Private Investment Corporation",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/OPIC%20Logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)"
           }
         ]
       },
@@ -8588,6 +8608,30 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "General Services Administration",
+        "Cloud_Service_Provider_Package": "Login.gov",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1829538820",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "General Services Administration",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+        "Authorizing_Agency": "General Services Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Login.gov%20Logo.jpg",
+        "Independent_Assessor": "Kratos SecureInfo",
+        "CSP_Website": "https://www.login.gov",
+        "CSO_Description": "Login.gov offers the public secure and private online access to participating government programs. With one login.gov account, users can sign in to multiple government agencies. Our goal is to make managing federal benefits, services and applications easier and more secure.",
+        "CSP_POC_Name": "Alex Dalessio",
+        "CSP_POC_Email": "partners@login.gov",
+        "FedRAMP_In-Process_Date": "2018-07-26T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Gordian",
         "Cloud_Service_Provider_Package": "Gordian Federal Cloud powered by RSMeans Data",
         "Path": "Agency",
@@ -9673,6 +9717,30 @@
         "CSP_POC_Name": "Tony Mitchell",
         "CSP_POC_Email": "mitchell@waggl.com",
         "Fedramp_Ready_Date": "2018-06-28T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "XTec, Incorporated",
+        "Cloud_Service_Provider_Package": "AuthentX Cloud",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1714261912",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "High",
+        "Sponsoring_Agency": "Broadcasting Board of Governors",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/BBG%20Logo.jpg",
+        "Authorizing_Agency": "Broadcasting Board of Governors",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/AuthentX%20Cloud%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "http://www.xtec.com/",
+        "CSO_Description": "The AuthentX Cloud provides end-to-end identity, credential and access management to US Federal agencies, quasi-federal agencies, and private organizations that require interoperable identity authentication services with Federal systems and infrastructure. The primary use of AuthentX in the Federal government is to satisfy Homeland Security Presidential Directive #12 (HSPD-12), Federal Identity, Credential and Access Management (FICAM) and related policies, mandates and standards from the Office of Management and Budget (OMB), Department of Homeland Security (DHS), and National Institute of Standards and Technology (NIST) Special Publications (SP).  Therefore, the AuthentX Cloud solution offered is aligned with federal mandates and high assurance requirements regarding cybersecurity, multi-factor authentication, Federal interoperability, and secure solutions for consolidation of data centers.  \n\nThe AuthentX Cloud consists of COTS hardware, software, and network components assembled and connected in multiple data centers.  Hardware includes the XTec AuthentX XaNode appliances, the XTec AuthentX Secure Appliance (ASA) 2000 enrollment and issuance peripherals, the XTec XNode and XTec card readers, and SafeNet Hardware Security Modules. The software of the AuthentX system is built entirely from source to produce the AuthentX Linux Operating System (OS), customized embedded Microsoft OS, the AuthentX Enrollment Manager application, as well as other software packages. ",
+        "CSP_POC_Name": "Heather Brooks",
+        "CSP_POC_Email": "fedramp@xtec.com",
+        "FedRAMP_In-Process_Date": "2018-04-26T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
