@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-10-16T04:40:50.004Z",
+    "Created_At": "2018-10-16T13:26:21.881Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -8005,6 +8005,47 @@
             "Authorizing_Agency": "Department of Education",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Adobe",
+        "Cloud_Service_Provider_Package": "Adobe Experience Manager Managed Services (AEMMS-GC)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1509037239",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2018-10-05T04:00:00.000Z",
+        "Original_Expiration_Date": "2021-08-24T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Adobe%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.adobe.com",
+        "CSO_Description": "Create, manage and deliver digital experiences across websites, mobile sites and on-site screens that are global in reach, yet personally relevant and engaging.  Forrester ranks Adobe as the  leader in web content management;  Adobe received the highest scores possible for its current offering, strategy and market presence.  This software as a service (SaaS) capability is FedRAMP certified and allows customers to:\n\n - Increase Efficiency:  Build, share and deliver content from the same\n   place \n - Support Agile Delivery:  Quickly deliver personalized    experiences\n   across different screens, geos and channels Promote    \n - Consistency:     Use a library of content that can be easily reused  \n   enterprise-wide\n\nEntirely managed and maintained by Adobe; organizations can rely on Adobe’s expertise managing the most complex and mission-critical Experience Manager deployments all over the world. Adobe provides cloud hosting and expert application support enabling enterprises to concentrate on citizen engagement and digital transformation. A single, named point of contact (customer success engineer) is assigned to each customer to support “go-live” operations, as well as steady state continuous delivery and continuous diagnostics and mitigation.  Adobe Experienced Manager Managed Services (AEMMS) is available for GovCloud (AEMMS-GC) and US East-US West (AEMMS-EW).",
+        "Announcement_Date": "2016-01-26T05:00:00.000Z",
+        "CSP_POC_Name": "Brandon Benson",
+        "CSP_POC_Email": "brbenson@adobe.com",
+        "FedRAMP_In-Process_Date": "2015-10-30T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Expiration_Date": "2020-06-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-06-29T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "United States Citizenship and Immigration Services",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
