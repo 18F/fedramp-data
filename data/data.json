@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-10-16T13:26:21.881Z",
+    "Created_At": "2018-10-17T04:40:49.874Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1048,6 +1048,16 @@
             "Authorizing_Agency": "Department of Veterans Affairs",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2018-09-14T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-10-12T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-10-12T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
@@ -7087,6 +7097,9 @@
         "Authorizing_Agency": "JAB Authorization",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Infor%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
         "CSP_Website": "www.infor.com",
         "CSO_Description": "The Infor Government SaaS (IGS) system, including the Enterprise Asset Management (EAM) application, is a fully web-architected solution with an advanced integrated suite of modules that helps companies proactively manage assets, asset information, and maintenance activities. It combines a variety of asset management modules with advanced modules enabling customization for a customer’s asset management needs. \n\nIGS is a Cloud Software-as-a-Service (SaaS) offering hosted on the Amazon Web Services (AWS) Government Cloud environment, a community-cloud limited to federal, state, and local government. In conjunction with IGS common control environment, Government agencies can host sensitive workloads in the isolated AWS GovCloud (US) Region which is adherent to regulatory frameworks such as U.S. International Traffic in Arms Regulations (ITAR), Criminal Justice Information Services (CJIS) requirements, and Levels 2 and 4 of Department of Defense systems.",
         "Announcement_Date": "2018-07-10T04:00:00.000Z",
@@ -7326,7 +7339,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Intelliworx",
-        "Cloud_Service_Provider_Package": "Intelliworx Cloud",
+        "Cloud_Service_Provider_Package": "Intelliworx Cloud (FDOnline)",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "FR1724526654",
@@ -7371,6 +7384,14 @@
             "Authorizing_Agency": "Overseas Private Investment Corporation",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/OPIC%20Logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)"
+          },
+          {
+            "Letter_Date": "2018-10-12T04:00:00.000Z",
+            "Authorizing_Agency": "National Endowment for the Humanities",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NEH%20Logo.jpg",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)"
           }
@@ -8039,6 +8060,15 @@
         "FedRAMP_In-Process_Date": "2015-10-30T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2016-12-12T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2016-12-15T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
           {
             "Letter_Expiration_Date": "2020-06-29T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2017-06-29T04:00:00.000Z",
