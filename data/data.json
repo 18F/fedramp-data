@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-10-18T04:40:49.918Z",
+    "Created_At": "2018-10-19T04:40:49.871Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -773,6 +773,16 @@
             "Authorizing_Subagency": "Defense Information Systems Agency",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2015-09-18T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2015-09-18T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Authorizing_Subagency": "Federal Student Aid",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           },
@@ -5989,7 +5999,7 @@
           "FR1805751477"
         ],
         "CSP_Website": "https://gsuite.google.com/",
-        "CSO_Description": "Google G Suite is comprised of Google’s multi-tenant public and hybrid cloud instances and leverages Google Services (Google Cloud Platform Products)\n\nThe following **G Suite editions** are FedRAMP authorized: G Suite Basic, G Suite Business, G Suite for Education, G Suite Enterprise, G Suite for Nonprofits and G Suite for Governments.\n\nThe following **G Suite services** are FedRAMP authorized: Admin Console, Admin SDK, Android and Chrome Device Management, Calendar, Chrome Sync (for G Suite for Education domains only), Classroom, Cloud Identity, Cloud Search, Contacts, Docs, Docs APIs, Drawings, Drive, Forms, Gmail (incl. Talk), Google Tasks, Groups for Business, Hangouts Chat, Hangouts Classic, Hangouts Meet, Keep, Sheets, Sites, Slides, Vault\n\n**Admin SDK**: Admin Settings API, Apps Email Audit API, Calendar Resource API, Directory API (replaced Provisioning API), Domain Shared Contacts API, Email Settings API, Enterprise License Manager API, Groups Migration API, Groups Settings, Reports API, Reseller API\n\n**Docs APIs**: Apps Activity API, Calendar API, Contacts API, Drive REST API, (replaced Documents List API), Forms Service API, Gmail REST API (replaced Email Migration API), Sheets API, Sites API, Tasks API\n\nGoogle Cloud Platform services are now described on the Google Services (Google Cloud Platform Products and underlying Infrastructure) authorized FedRAMP Marketplace page.",
+        "CSO_Description": "Google G Suite is comprised of Google’s multi-tenant public and hybrid cloud instances and leverages Google Services (Google Cloud Platform Products)\n\nThe following **G Suite editions** are FedRAMP authorized: G Suite Basic, G Suite Business, G Suite for Education, G Suite Enterprise, G Suite for Nonprofits and G Suite for Governments.\n\nThe following **G Suite services** are FedRAMP authorized: Admin Console, Admin SDK, Android and Chrome Device Management, Calendar, Chrome Sync (for G Suite for Education domains only), Classroom, Cloud Identity, Cloud Search (not including Cloud Search Platform), Contacts, Docs, Docs APIs, Drawings, Drive, Forms, Gmail (incl. Talk), Google Tasks, Groups for Business, Hangouts Chat, Hangouts Classic, Hangouts Meet, Keep, Sheets, Sites, Slides, Vault\n\n**Admin SDK**: Admin Settings API, Apps Email Audit API, Calendar Resource API, Directory API (replaced Provisioning API), Domain Shared Contacts API, Email Settings API, Enterprise License Manager API, Groups Migration API, Groups Settings, Reports API, Reseller API\n\n**Docs APIs**: Apps Activity API, Calendar API, Contacts API, Drive REST API, (replaced Documents List API), Forms Service API, Gmail REST API (replaced Email Migration API), Sheets API, Sites API, Tasks API\n\nGoogle Cloud Platform services are now described on the Google Services (Google Cloud Platform Products and underlying Infrastructure) authorized FedRAMP Marketplace page.",
         "Announcement_Date": "2016-01-22T05:00:00.000Z",
         "CSP_POC_Name": "Google FedRAMP Team",
         "CSP_POC_Email": "fedramp@google.com",
@@ -7329,7 +7339,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Intelliworx",
-        "Cloud_Service_Provider_Package": "Intelliworx Cloud (FDOnline)",
+        "Cloud_Service_Provider_Package": "Intelliworx Cloud (FDonline)",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "FR1724526654",
