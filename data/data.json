@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-11-19T16:22:52.388Z",
+    "Created_At": "2018-11-20T05:40:50.194Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -431,16 +431,6 @@
             "Authorizing_Subagency": "Federal Student Aid",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          },
-          {
-            "Letter_Date": "2017-10-19T04:00:00.000Z",
-            "Letter_Expiration_Date": "2018-10-19T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-10-19T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Transportation",
-            "Authorizing_Subagency": "Federal Motor Carrier Safety Administration",
-            "Agency_POC": "Coming Soon",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
@@ -1733,46 +1723,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "BMC Software",
-        "Cloud_Service_Provider_Package": "BMC Remedy Fed-SaaS (BMC Remedy OnDemand for Public Sector)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1510057481",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Private Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2015-09-30T04:00:00.000Z",
-        "Original_Expiration_Date": "2018-09-30T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Agriculture",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-        "Authorizing_Agency": "Department of Agriculture",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/BMC%20Logo.jpg",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW"
-        ],
-        "CSP_Website": "www.bmc.com",
-        "CSO_Description": "BMC Remedy OnDemand is a market-leading cloud-based ITSM solution that provides anytime, anywhere access to ITIL best practices including self-service, incident and problem management, change and release management, asset and configuration management, and service level management, so you can:\n\n - Deliver ITSM out-of-the-box and configure with drag-and-drop ease.\n - Deploy an intuitive self-service solution accessible on any device   \n - Mobilize the IT workforce with a rich multi-device experience across tablets, smartphones and browsers.\n\nBMC Remedy OnDemand is a leader in the Gartner Magic Quadrant for IT Service Support Management Tools and includes the #1 rated CMDB in the Gartner Critical Capabilities for Configuration Management Databases.\n\nDesigned specifically for government agencies, BMC Remedy OnDemand for Public Sector is hosted in the FedRAMP compliant Amazon Web Services (AWS) cloud and can be tailored to the needs of any agency with rapid implementations, flexible configuration, huge scalability and easy upgrades.",
-        "Announcement_Date": "2016-05-05T04:00:00.000Z",
-        "CSP_POC_Name": "Michelle Buckner",
-        "CSP_POC_Email": "fedrampinfo@bmc.com",
-        "FedRAMP_In-Process_Date": "2015-10-01T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2015-10-14T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Agriculture",
-            "Authorizing_Subagency": "United States Forest Service",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Oracle",
         "Cloud_Service_Provider_Package": "Oracle Service Cloud (DOD)",
         "Path": "Agency",
@@ -2808,7 +2758,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Amazon%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.aws.amazon.com",
-        "CSO_Description": "AWS GovCloud (US) is an AWS Region designed to allow US government agencies and customers supporting the US government to move more sensitive workloads into the cloud. In addition to complying with FedRAMP requirements, the AWS GovCloud (US) framework adheres to U.S. International Traffic in Arms Regulations (ITAR) regulations. Additional information is available at [http://aws.amazon.com/govcloud-us/](http://aws.amazon.com/govcloud-us/).\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: S3, EC2, EBS, VPC, IAM, RDS(Oracle, MySQL, PostgreSQL), CloudWatch Logs, CloudTrail, Cloud Formation, Amazon Glacier, Amazon Web Services Key Management Service, Amazon Simple Workflow Service, Amazon Simple Queue Service, Amazon Simple Notification Service, Amazon DynamoDB, Amazon Elastice MapReduce, Amazon Redshift, Amazon Kinesis Streams, Database Migration Service (DMS), Elasticache, Snowball/Snowball Edge. ",
+        "CSO_Description": "AWS GovCloud (US) is an AWS Region designed to allow US government agencies and customers supporting the US government to move more sensitive workloads into the cloud. In addition to complying with FedRAMP requirements, the AWS GovCloud (US) framework adheres to U.S. International Traffic in Arms Regulations (ITAR) regulations. Additional information is available at [http://aws.amazon.com/govcloud-us/](http://aws.amazon.com/govcloud-us/).\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: Amazon CloudWatch Logs, Amazon DynamoDB, Amazon ElastiCache, Amazon Elastic Book Store (EBS), Amazon Elastic Compute Cloud (EC2), Amazon Elastic MapReduce, Amazon Glacier, Amazon Kinesis Data Streams, Amazon Redshift, Amazon RDS (MySQL, Oracle, Postgres), Amazon Simple Notification Service (SNS), Amazon Simple Queue Service (SQS), Amazon Simple Storage Service (S3), Amazon Simple Workflow Service (SWF), Amazon Virtual Private Cloud (VPC), AWS CloudFormation, AWS CloudTrail, AWS Database Migration Service, AWS Identity & Access Management (IAM), AWS Key Management Service (KMS), AWS Snowball, AWS Snowball Edge",
         "Announcement_Date": "2016-06-21T04:00:00.000Z",
         "CSP_POC_Name": "AWS Compliance Team",
         "CSP_POC_Email": "awscompliance@amazon.com",
@@ -5388,7 +5338,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Amazon%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.aws.amazon.com",
-        "CSO_Description": "Amazon US East/West is a multi-tenant public cloud for Federal, State and Local Government customers, as well as commercial customers, designed to meet a wide range of regulatory requirements, to include government compliance and security requirements. AWS leverages the Infrastructure-as-a-Service (IaaS) cloud computing model, which enables convenient, on-demand Internet access to a shared pool of configurable computing resources such as servers, storage, network infrastructure, and various other web services. Customers can rapidly provision or release computing resources on demand.\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: AWS CloudFormation, AWS CloudTrail, Amazon CloudWatch Logs, Amazon DynamoDB, Amazon Elastic Block Storage, Amazon Elastic Compute Cloud (EC2), Amazon Elastic MapReduce (EMR), Amazon Glacier, AWS Identity and Access Management (IAM), Amazon Kinesis Streams, Amazon KMS, Amazon RDS (Aurora, PostgresSQL, MySQL, Oracle), Amazon Redshift, Amazon Simple Storage Service (S3), Amazon SNS, Amazon SQS, Amazon SWF, Amazon Virtual Private Cloud (VPC), API Gateway, Cloud Directory/Directory Services, Cognito, Config, Database Migration Service (DMS), Elasticache, Inspector, Lambda, Macie, QuickSight, Route 53, Shield Advance, Snowball/Snowball Edge, Web Application Firewall (WAF)",
+        "CSO_Description": "Amazon US East/West is a multi-tenant public cloud for Federal, State and Local Government customers, as well as commercial customers, designed to meet a wide range of regulatory requirements, to include government compliance and security requirements. AWS leverages the Infrastructure-as-a-Service (IaaS) cloud computing model, which enables convenient, on-demand Internet access to a shared pool of configurable computing resources such as servers, storage, network infrastructure, and various other web services. Customers can rapidly provision or release computing resources on demand.\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: Amazon API Gateway, Amazon Aurora (MySQL), Amazon Cloud Directory, Amazon CloudWatch Logs, Amazon Cognito, Amazon DynamoDB, Amazon ElastiCache, Amazon Elastic Block Store (EBS), Amazon Elastic Compute Cloud (EC2), Amazon Elastic MapReduce, Amazon Glacier, Amazon Inspector, Amazon Kinesis Data Streams, Amazon Macie, Amazon QuickSight, Amazon Redshift, Amazon RDS (MySQL, Oracle, Postgres), Amazon Route 53, Amazon Simple Notification Service (SNS), Amazon Simple Queue Service (SQS), Amazon Simple Storage Service (S3), Amazon Simple Workflow Service (SWF), Amazon Virtual Private Cloud (VPC), AWS CloudFormation, AWS CloudTrail, AWS Config, AWS Database Migration Service, AWS Directory Service, AWS Identity & Access Management (IAM), AWS Key Management Service (KMS), AWS Lambda, AWS Shield Advanced, AWS Snowball, AWS Snowball Edge, AWS WAF",
         "Announcement_Date": "2013-05-01T04:00:00.000Z",
         "CSP_POC_Name": "AWS Compliance Team",
         "CSP_POC_Email": "awscompliance@amazon.com",
@@ -8013,6 +7963,46 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "BMC Software",
+        "Cloud_Service_Provider_Package": "BMC Remedy Fed-SaaS (BMC Remedy OnDemand for Public Sector)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1510057481",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Private Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2018-09-25T04:00:00.000Z",
+        "Original_Expiration_Date": "2021-09-20T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Agriculture",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+        "Authorizing_Agency": "Department of Agriculture",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/BMC%20Logo.jpg",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
+        "CSP_Website": "www.bmc.com",
+        "CSO_Description": "BMC Remedy OnDemand is a market-leading cloud-based ITSM solution that provides anytime, anywhere access to ITIL best practices including self-service, incident and problem management, change and release management, asset and configuration management, and service level management, so you can:\n\n - Deliver ITSM out-of-the-box and configure with drag-and-drop ease.\n - Deploy an intuitive self-service solution accessible on any device   \n - Mobilize the IT workforce with a rich multi-device experience across tablets, smartphones and browsers.\n\nBMC Remedy OnDemand is a leader in the Gartner Magic Quadrant for IT Service Support Management Tools and includes the #1 rated CMDB in the Gartner Critical Capabilities for Configuration Management Databases.\n\nDesigned specifically for government agencies, BMC Remedy OnDemand for Public Sector is hosted in the FedRAMP compliant Amazon Web Services (AWS) cloud and can be tailored to the needs of any agency with rapid implementations, flexible configuration, huge scalability and easy upgrades.",
+        "Announcement_Date": "2016-05-05T04:00:00.000Z",
+        "CSP_POC_Name": "Michelle Buckner",
+        "CSP_POC_Email": "fedrampinfo@bmc.com",
+        "FedRAMP_In-Process_Date": "2015-10-01T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2015-10-14T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Authorizing_Subagency": "United States Forest Service",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN"
           }
         ]
       },
