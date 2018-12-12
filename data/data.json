@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-12-12T05:40:49.873Z",
+    "Created_At": "2018-12-12T20:40:34.893Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4478,6 +4478,15 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Kratos SecureInfo"
+          },
+          {
+            "Letter_Date": "2017-10-11T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-10-11T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Labor",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Kratos SecureInfo"
           }
         ]
       },
@@ -7621,7 +7630,7 @@
           "F1603047866",
           "F1206081364",
           "FR1812058188",
-          "FR1805751477 "
+          "FR1805751477"
         ],
         "CSP_Website": "http://cusp.nyu.edu/coleridge-initiative/",
         "CSO_Description": "The ADRF system is designed to promote access to and use of government administrative records across agency lines.  It provides access to collaborative tools and rich documentation so that knowledge and analysis can be shared and reused. It hosts confidential data for a range of agencies at the federal, state and local levels, and serves multiple domains – including criminal justice, welfare, labor, education, health, housing and transportation. ",
@@ -9059,6 +9068,31 @@
         "CSP_POC_Name": "David Reber",
         "CSP_POC_Email": "security@fra.me",
         "Fedramp_Ready_Date": "2018-08-07T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "GDC Integration, Inc.",
+        "Cloud_Service_Provider_Package": "General Support System (GSS)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1834348080",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Private Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Agriculture",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+        "Authorizing_Agency": "Department of Agriculture",
+        "Authorizing_Subagency": "United States Forest Service",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/GDCII%20Logo.jpg",
+        "Independent_Assessor": "Paragon Technology Group, Inc.",
+        "CSP_Website": "www.gdcii.com",
+        "CSO_Description": "GDCI provides SaaS Federalized Human Resource Applications for on-boarding- separation;  labor and employee relations case management;  time-attendance-leave and workload management; personal action processing and management (PAR); performance management; workforce restructuring; medical/qualification management and human resource communication management.",
+        "CSP_POC_Name": "Mike Biggs",
+        "CSP_POC_Email": "fedramp@gdcii.com",
+        "FedRAMP_In-Process_Date": "2018-12-07T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
