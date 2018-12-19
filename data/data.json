@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-12-18T05:40:50.088Z",
+    "Created_At": "2018-12-19T05:40:49.909Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2300,6 +2300,15 @@
             "Authorizing_Agency": "Federal Trade Commission",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2018-12-14T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Justice",
+            "Authorizing_Subagency": "Bureau of Alcohol, Tobacco, FIrearms and Explosives",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
@@ -6041,7 +6050,19 @@
         "CSP_POC_Email": "fedramp@google.com",
         "FedRAMP_In-Process_Date": "2017-11-17T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2018-11-23T05:00:00.000Z",
+            "Letter_Expiration_Date": "2019-11-27T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-11-01T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "United States Patent and Trademark Office",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Google",
@@ -6101,17 +6122,6 @@
             "Letter_Date": "2017-02-17T05:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Institute of Standards and Technology",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          },
-          {
-            "Letter_Date": "2017-11-24T05:00:00.000Z",
-            "Letter_Expiration_Date": "2018-11-27T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-11-17T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "United States Patent and Trademark Office",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y",
@@ -9632,6 +9642,26 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Oversight Systems",
+        "Cloud_Service_Provider_Package": "Insights On Demand for Government (IODG)",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR1816453128",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oversight%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.oversightsystems.com",
+        "CSO_Description": "Oversight Insights On Demand® provides government agencies with an automated risk management and compliance monitoring solution that reduces program risks, while addressing requirements such as A-123 and IPERIA.\n\nPowered by Artificial Intelligence (AI) and machine learning technologies, Oversight Insights On Demand provides an automated, near real-time approach to detecting and stopping erroneous and fraudulent payments before they are disbursed.",
+        "CSP_POC_Name": "Ian McClendon",
+        "CSP_POC_Email": "fedramp@oversightsystems.com",
+        "Fedramp_Ready_Date": "2018-12-13T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Palo Alto Networks, Inc.",
         "Cloud_Service_Provider_Package": "Palo Alto Networks Government Cloud Services - WildFire",
         "Path": "Agency",
@@ -10058,7 +10088,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Snowflake%20Logo.jpg",
         "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
         "CSP_Website": "https://www.snowflake.net",
-        "CSO_Description": "Snowflake is a FedRAMP Ready data warehouse built for the cloud. Snowflake will enable Federal agencies to accelerate IT Modernization with a cloud-only service that enables data-driven agencies with instant elasticity, secure data sharing and per-second pricing. Snowflake combines the power of data warehousing, the flexibility of big data platforms and the elasticity of the cloud at a fraction of the cost of traditional solutions. Snowflake: Your data, no limits. Find out more at [snowflake.net](snowflake.net).",
+        "CSO_Description": "Snowflake is the only data warehouse built for the cloud, enabling the data-driven enterprise with instant elasticity, secure data sharing and per-second pricing, across multiple clouds. Snowflake combines the power of data warehousing, the flexibility of big data platforms and the elasticity of the cloud at a fraction of the cost of traditional solutions. Snowflake status is currently \"FedRAMP in Process.\" Find out more at [https://www.snowflake.com/](https://www.snowflake.com/).",
         "CSP_POC_Name": "Snowflake Computing",
         "CSP_POC_Email": "federalsales@snowflake.net",
         "Fedramp_Ready_Date": "2018-06-12T04:00:00.000Z",
