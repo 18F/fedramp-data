@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2018-12-20T05:40:50.144Z",
+    "Created_At": "2018-12-21T05:40:50.176Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1829,6 +1829,16 @@
             "Independent_Assessor": "Kratos SecureInfo"
           },
           {
+            "Letter_Date": "2017-05-26T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-05-25T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-05-26T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Reserve System",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRS%20Logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Kratos SecureInfo"
+          },
+          {
             "Letter_Date": "2018-02-26T05:00:00.000Z",
             "Letter_Expiration_Date": "2021-02-26T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-02-27T05:00:00.000Z",
@@ -3063,7 +3073,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Esri",
-        "Cloud_Service_Provider_Package": "Esri Managed Cloud Services",
+        "Cloud_Service_Provider_Package": "Esri Managed Cloud Services Advanced Plus",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "F1311252651",
@@ -3874,6 +3884,16 @@
             "Authorizing_Agency": "Department of Agriculture",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2018-09-24T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-09-24T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Treasury",
+            "Authorizing_Subagency": "Office of the Comptroller of the Currency",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           },
@@ -6812,6 +6832,16 @@
             "Independent_Assessor": "Coalfire Systems, Inc."
           },
           {
+            "Letter_Date": "2017-12-18T05:00:00.000Z",
+            "Letter_Expiration_Date": "2020-12-31T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-12-20T05:00:00.000Z",
+            "Authorizing_Agency": "Federal Reserve System",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRS%20Logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
             "Letter_Date": "2018-11-21T05:00:00.000Z",
             "Authorizing_Agency": "National Capital Planning Commission",
             "Agency_POC": "Coming Soon",
@@ -7052,33 +7082,6 @@
         "CSP_POC_Name": "Jeff Bivens",
         "CSP_POC_Email": "fedramp@workiva.com",
         "FedRAMP_In-Process_Date": "2018-03-01T05:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "ORock Technologies",
-        "Cloud_Service_Provider_Package": "ORockCloud",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1503096502",
-        "Service_Model": [
-          "IaaS, PaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2018-06-21T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Defense",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-        "Authorizing_Agency": "Department of Defense",
-        "Authorizing_Subagency": "Joint Communications Support Element",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/ORock%20Technologies%20Logo.jpg",
-        "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
-        "CSP_Website": "http://orocktech.com",
-        "CSO_Description": "ORockCloud is the first and only Red Hat® OpenStack-based cloud to achieve a FedRAMP Moderate authorization for IaaS and PaaS. This secure, open source cloud provides a highly scalable, bi-coastal environment with elastic, on-demand access to computing, storage, virtualization, networking, performance monitoring, and applications in ORock’s service catalog.\n\nAs a Red Hat Premier Certified Cloud and Service Provider (CCSP), ORock Technologies architected ORockCloud as a “pure-play” Red Hat cloud and incorporated a full suite of open source solutions for enhanced flexibility, interoperability, security, and control.  The Red Hat Cloud Suite includes: Red Hat Enterprise Linux; Red Hat OpenStack Platform; Red Hat Virtualization; Red Hat Ceph Storage; Red Hat CloudForms; Red Hat Ansible Tower; Red Hat Satellite; and all associated cloud APIs. \n\nORockCloud utilizes ORock’s private, carrier-grade, fiber optic backbone network with dedicated connectivity between all points of presence and no upstream CSP to maximize security, autonomy, and performance. Managed services are provided entirely by U.S. citizens in a U.S.-based NOC and SOC.\n\nORock Technologies is a small business cloud service provider (CSP) serving enterprise customers in defense, government, and highly regulated industries. ORock’s secure IaaS and cloud solutions enable a range of hosting, migration, backup/recovery, connectivity, and mobility initiatives while supporting FedRAMP authorization and lowering total cost of ownership for government and commercial enterprises.\n\nAdditional information is available at  [http://orocktech.com](http://orocktech.com). ",
-        "Announcement_Date": "2018-06-27T04:00:00.000Z",
-        "CSP_POC_Name": "John Conniff",
-        "CSP_POC_Email": "fedramp@orocktech.com",
-        "FedRAMP_In-Process_Date": "2018-02-22T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -8530,6 +8533,43 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "ORock Technologies",
+        "Cloud_Service_Provider_Package": "ORockCloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1503096502",
+        "Service_Model": [
+          "IaaS, PaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2018-12-19T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Defense",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+        "Authorizing_Agency": "Department of Commerce",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/ORock%20Technologies%20Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)",
+        "CSP_Website": "http://orocktech.com",
+        "CSO_Description": "ORockCloud is the first and only Red Hat® OpenStack-based cloud to achieve a FedRAMP Moderate authorization for IaaS and PaaS. This secure, open source cloud provides a highly scalable, bi-coastal environment with elastic, on-demand access to computing, storage, virtualization, networking, performance monitoring, and applications in ORock’s service catalog.\n\nAs a Red Hat Premier Certified Cloud and Service Provider (CCSP), ORock Technologies architected ORockCloud as a “pure-play” Red Hat cloud and incorporated a full suite of open source solutions for enhanced flexibility, interoperability, security, and control.  The Red Hat Cloud Suite includes: Red Hat Enterprise Linux; Red Hat OpenStack Platform; Red Hat Virtualization; Red Hat Ceph Storage; Red Hat CloudForms; Red Hat Ansible Tower; Red Hat Satellite; and all associated cloud APIs. \n\nORockCloud utilizes ORock’s private, carrier-grade, fiber optic backbone network with dedicated connectivity between all points of presence and no upstream CSP to maximize security, autonomy, and performance. Managed services are provided entirely by U.S. citizens in a U.S.-based NOC and SOC.\n\nORock Technologies is a small business cloud service provider (CSP) serving enterprise customers in defense, government, and highly regulated industries. ORock’s secure IaaS and cloud solutions enable a range of hosting, migration, backup/recovery, connectivity, and mobility initiatives while supporting FedRAMP authorization and lowering total cost of ownership for government and commercial enterprises.\n\nAdditional information is available at  [http://orocktech.com](http://orocktech.com). ",
+        "Announcement_Date": "2018-06-27T04:00:00.000Z",
+        "CSP_POC_Name": "John Conniff",
+        "CSP_POC_Email": "fedramp@orocktech.com",
+        "FedRAMP_In-Process_Date": "2018-02-22T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2018-06-21T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-06-21T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Joint Communications Support Element",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Schellman & Company, LLC (formerly Brightline)"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "4tell Solutions",
         "Cloud_Service_Provider_Package": "4tell Platform for Government™ ",
         "Path": "Agency",
@@ -8919,26 +8959,6 @@
         "CSP_POC_Name": "Jason Robinson",
         "CSP_POC_Email": "jason.robinson@collibra.com",
         "FedRAMP_In-Process_Date": "2018-11-16T05:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Companion Data Services",
-        "Cloud_Service_Provider_Package": "CDS Cloud Companion System",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "F1507307097",
-        "Service_Model": [
-          "IaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Companion%20Data%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.companiondataservices.com",
-        "CSO_Description": "Companion Data Services’ Cloud Companion® is a highly secure, multi-tenant, enterprise class cloud computing service offering. Our solutions enable government agencies and non-government organizations to operate in the cloud with greater agility and flexibility while adhering to rigorous security, privacy and information technology governance controls required by the federal government.\n\nCompanion Data Services (CDS) delivers fully managed end-to-end cloud integration, development, management and maintenance services. Cloud Companion Managed Services Solutions helps customers effectively create the best architecture and implementation plans for moving workloads to the cloud with confidence and security.\n\nOur cloud hosting services include the provisioning of compute, network, operating system and storage resources to meet customers’ production, development and test computing needs, in addition to the provisioning and administration of the operating system, system management, security, storage management and backup. By combining enterprise class technology, Cloud Companion delivers high-availability and secured cloud hosting including monitoring, backups and recovery, and 24/7/365 support.\n\nCustomers benefit from our health care industry expertise and superior customer service, with a solution built from the ground up with security and best practices.\n\nFor more information, visit our website [www.companiondataservices.com](http://www.companiondataservices.com/).",
-        "CSP_POC_Name": "David Harper",
-        "CSP_POC_Email": "CDS-Marketing@companiondataservices.com",
-        "Fedramp_Ready_Date": "2017-10-24T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -10224,26 +10244,6 @@
         "CSP_POC_Name": "Splunk FedRAMP Team",
         "CSP_POC_Email": "Fedramp-Cloud@splunk.com",
         "FedRAMP_In-Process_Date": "2018-06-18T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "SumTotal Systems",
-        "Cloud_Service_Provider_Package": "SumTotal Enterprise Learning Management System (ELMS)",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR1723260506",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/SumTotal%20Logo.jpg",
-        "Independent_Assessor": "Paragon Technology Group, Inc.",
-        "CSP_Website": "http://www.sumtotalsystems.com",
-        "CSO_Description": "SumTotal provides customers with web based employee and vendor training/educational assets, student assignments, personnel management and reporting capabilities. It also provides training.",
-        "CSP_POC_Name": "Edward Feldman",
-        "CSP_POC_Email": "Edi.feldman@skillsoft.com",
-        "Fedramp_Ready_Date": "2017-10-26T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
