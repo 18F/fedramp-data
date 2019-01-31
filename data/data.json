@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-01-30T05:40:50.407Z",
+    "Created_At": "2019-01-31T05:40:50.446Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -960,42 +960,6 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Contegix",
-        "Cloud_Service_Provider_Package": "SecureCloud",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1833967442",
-        "Service_Model": [
-          "PaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2015-04-08T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Energy",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-        "Authorizing_Agency": "Department of Energy",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Contegix%20Logo.jpg",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "CSP_Website": "www.Contegix.com",
-        "CSO_Description": "SecureCloud is provided by Contegix as a FedRAMP moderate Platform as a Service (PaaS) offering. The offering consists several managed services to facilitate hosting federal applications in a secure environment. The solution provided is a multi-tenant cloud-based environment, with the option for deployment of single-tenant environments if required by specific customers and system owners.\n\nContegix offers a managed hosting service that empowers customers to retain complete control over the application environment, while dramatically reducing the time and cost associated with in-house administration. Contegix solutions are designed to provide end-to-end managed hosting - from software, server, and network support, including setup, configuration, upgrades, monitoring, and troubleshooting. SecureCloud supports the following technologies within the tenant space: CentOS, Red Hat Enterprise Linux, Oracle Linux, Ubuntu, and Microsoft Windows Server. Contegix provisions customers’ instances with Apache, PHP, MySQL, IIS, .net, Active Directory, SQL Server, Oracle Database, LDAP and other technologies on behalf of the customer.\n\nContegix manages the customer tenant from the application down to the infrastructure as defined by Platform as a Service (PaaS). Within SecureCloud, tenants automatically get monitoring, security hardening, Operating System management and patching, managed backups, and managed firewalls. Contegix manages up to the application code including approved configuration changes for the system owner. Security is at the forefront of SecureCloud and with that focus, Contegix manages patching of operating systems as well as services that serve application code such as web services, database services, but does not patch the application code itself.\n\nDisaster recovery is done at the tenant level for SecureCloud customers as PaaS allows for this to be the most efficient. Other disaster recovery techniques can be used to meet requirements as needed however, the agency can define in a statement of work what level of recovery that is needed for the system.\n\nEnterprise managed hosting and services distributes applications across multiple servers and/or firewalls within the tenant environment. Enterprise managed hosting and services delivers optimum performance for high-volume, mission-critical business systems solutions that require the highest level of availability and scalability. The managed hosting solution provided by Contegix is based upon virtualized hosts, and provides support for on-demand creation of virtual machines. Individual tenant environments within SecureCloud are isolated from one another through security capabilities at both the network and host levels.",
-        "Announcement_Date": "2015-05-21T04:00:00.000Z",
-        "CSP_POC_Name": "Contegix Account Executive",
-        "CSP_POC_Email": "sales@contegix.com",
-        "FedRAMP_In-Process_Date": "2014-11-20T05:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2018-03-26T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-03-26T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Trade Commission",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN"
           }
         ]
       },
@@ -5378,16 +5342,6 @@
             "Independent_Assessor": "Coalfire Systems, Inc."
           },
           {
-            "Letter_Date": "2018-07-03T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-01-12T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-07-03T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          },
-          {
             "Letter_Date": "2018-04-25T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-05-07T04:00:00.000Z",
             "Authorizing_Agency": "Department of Homeland Security",
@@ -5436,6 +5390,24 @@
             "Authorizing_Agency": "Department of Labor",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2019-01-07T05:00:00.000Z",
+            "Letter_Expiration_Date": "2022-01-11T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-01-11T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2018-12-21T05:00:00.000Z",
+            "Authorizing_Agency": "Nuclear Regulatory Commission",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
@@ -8571,6 +8543,43 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Contegix",
+        "Cloud_Service_Provider_Package": "SecureCloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1833967442",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-01-15T05:00:00.000Z",
+        "Original_Expiration_Date": "2020-01-15T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Energy",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+        "Authorizing_Agency": "Department of Energy",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Contegix%20Logo.jpg",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "www.Contegix.com",
+        "CSO_Description": "SecureCloud is provided by Contegix as a FedRAMP moderate Platform as a Service (PaaS) offering. The offering consists several managed services to facilitate hosting federal applications in a secure environment. The solution provided is a multi-tenant cloud-based environment, with the option for deployment of single-tenant environments if required by specific customers and system owners.\n\nContegix offers a managed hosting service that empowers customers to retain complete control over the application environment, while dramatically reducing the time and cost associated with in-house administration. Contegix solutions are designed to provide end-to-end managed hosting - from software, server, and network support, including setup, configuration, upgrades, monitoring, and troubleshooting. SecureCloud supports the following technologies within the tenant space: CentOS, Red Hat Enterprise Linux, Oracle Linux, Ubuntu, and Microsoft Windows Server. Contegix provisions customers’ instances with Apache, PHP, MySQL, IIS, .net, Active Directory, SQL Server, Oracle Database, LDAP and other technologies on behalf of the customer.\n\nContegix manages the customer tenant from the application down to the infrastructure as defined by Platform as a Service (PaaS). Within SecureCloud, tenants automatically get monitoring, security hardening, Operating System management and patching, managed backups, and managed firewalls. Contegix manages up to the application code including approved configuration changes for the system owner. Security is at the forefront of SecureCloud and with that focus, Contegix manages patching of operating systems as well as services that serve application code such as web services, database services, but does not patch the application code itself.\n\nDisaster recovery is done at the tenant level for SecureCloud customers as PaaS allows for this to be the most efficient. Other disaster recovery techniques can be used to meet requirements as needed however, the agency can define in a statement of work what level of recovery that is needed for the system.\n\nEnterprise managed hosting and services distributes applications across multiple servers and/or firewalls within the tenant environment. Enterprise managed hosting and services delivers optimum performance for high-volume, mission-critical business systems solutions that require the highest level of availability and scalability. The managed hosting solution provided by Contegix is based upon virtualized hosts, and provides support for on-demand creation of virtual machines. Individual tenant environments within SecureCloud are isolated from one another through security capabilities at both the network and host levels.",
+        "Announcement_Date": "2015-05-21T04:00:00.000Z",
+        "CSP_POC_Name": "Contegix Account Executive",
+        "CSP_POC_Email": "sales@contegix.com",
+        "FedRAMP_In-Process_Date": "2014-11-20T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2018-03-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-03-26T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Trade Commission",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "4tell Solutions",
         "Cloud_Service_Provider_Package": "4tell Platform for Government™ ",
         "Path": "Agency",
@@ -9119,7 +9128,7 @@
         "Independent_Assessor": "Kratos SecureInfo",
         "CSP_Website": "https://www.envisagenow.com",
         "CSO_Description": "Envisage Technologies, LLC is the creator and developer of the Acadis Readiness Suite, a secure, enterprise solution that ensures our Law Enforcement, Government, Public Safety and Military personnel are trained, equipped and mission ready.  We offer secure hosting as part of our SaaS solution. Unlike generic platforms, Envisage's Acadis solution is designed specifically for government training operations.  In addition, Acadis is an operational and essential shared service for many DHS agencies for modernizing high-risk training operations.  As such, it meets the unique needs of the Federal, Public Safety, and Military workforce.",
-        "Expected_Compliance_Date": "2018-11-30T05:00:00.000Z",
+        "Expected_Compliance_Date": "2019-04-30T04:00:00.000Z",
         "CSP_POC_Name": "Scott Beauregard",
         "CSP_POC_Email": "info@envisagenow.com",
         "FedRAMP_In-Process_Date": "2017-04-13T04:00:00.000Z",
@@ -10241,6 +10250,30 @@
         "CSP_POC_Email": "federalsales@snowflake.net",
         "Fedramp_Ready_Date": "2018-06-12T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2018-11-13T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Sorc'd",
+        "Cloud_Service_Provider_Package": "Sorc'd",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1906337984",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Li-SaaS",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Sorcd%20Logo.jpg",
+        "Independent_Assessor": "EmeSec Incorporated",
+        "CSP_Website": "https://www.sorcd.com/gov-fedramp",
+        "CSO_Description": "Sorc’d is a cloud-hosted application whose purpose is to enhance a user’s existing research and writing processes with intuitive tools that seamlessly integrate with online research,  and content creation software. Sorc’d provides users with a way to create more relevant content, efficiently develop inbound marketing tools, and benefit from collective insight. Users snip relative content from a source and save it to their Sorc’d account; categorizing or tagging the snippet to be recalled later. Snippets may also be added directly to a Microsoft Office application such as Word, Excel, or PowerPoint. Snippets from those same applications may also be extracted and added to a user’s Sorc’d account. The same is also possible within Google Docs and Sheets.",
+        "CSP_POC_Name": "Emily Girolamo",
+        "CSP_POC_Email": "fedramp@sorcd.com",
+        "FedRAMP_In-Process_Date": "2019-01-28T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
