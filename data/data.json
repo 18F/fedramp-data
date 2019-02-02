@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-02-01T05:40:50.152Z",
+    "Created_At": "2019-02-02T05:40:50.317Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -8618,6 +8618,36 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "VBrick Systems, Inc.",
+        "Cloud_Service_Provider_Package": "VBrick Rev",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1605107898",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Li-SaaS",
+        "Original_Authorization_Date": "2018-11-21T05:00:00.000Z",
+        "Original_Expiration_Date": "2023-04-01T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of the Interior",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+        "Authorizing_Agency": "Department of the Interior",
+        "Authorizing_Subagency": "Fish and Wildlife Service",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/VBrick%20Logo.jpg",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
+        "CSP_Website": "www.vbrick.com",
+        "CSO_Description": "Rev enables organizations to securely and efficiently deliver high quality live and on-demand video to huge audiences internally, using the organization’s wide area network, and externally via the cloud. Features of Rev include, the central management of video assets, user access and permissions, network delivery devices, and video publishing and distribution—in the most bandwidth-efficient way possible.",
+        "Announcement_Date": "2019-02-01T05:00:00.000Z",
+        "CSP_POC_Name": "Todd Kistner",
+        "CSP_POC_Email": "fedramp@vbrick.com",
+        "FedRAMP_In-Process_Date": "2018-02-13T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "4tell Solutions",
         "Cloud_Service_Provider_Package": "4tell Platform for Government™ ",
         "Path": "Agency",
@@ -10415,6 +10445,26 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Terida LLC",
+        "Cloud_Service_Provider_Package": "Terida RegTech Framework - CLASsoft™",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR1901852210",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Terida%20Logo.jpg",
+        "Independent_Assessor": "Kratos SecureInfo",
+        "CSP_Website": "https://www.terida.com/",
+        "CSO_Description": "The Terida RegTech Framework - CLASsoft™ is a cloud-based claims and electronic-form (e-form) management  application, with an integrated optional e-signature module, to receive, evaluate, resolve and track registrations, applications, claims or cases.\n\nWith Terida CLASsoft™, persons, events, objects, operations, certifications, communications, documents and workflow are integrated into a single cloud application for application and review process management; credentialing, attestation and certification; compliance and risk management; claims, damages and settlements; incident registries; disaster and emergency management; document and forms management; procurement and supply chain management; litigation mitigation and litigation support.  ",
+        "CSP_POC_Name": "Teri Marlene Prince",
+        "CSP_POC_Email": "fedramp@terida.com",
+        "Fedramp_Ready_Date": "2019-01-31T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "United States Department of the Treasury",
         "Cloud_Service_Provider_Package": "Workplace.gov Community Cloud High (WC2-H)",
         "Path": "Agency",
@@ -10435,30 +10485,6 @@
         "CSP_POC_Name": "Kamil Kuza",
         "CSP_POC_Email": "WC2HELPDESK@treasury.gov",
         "FedRAMP_In-Process_Date": "2017-03-01T05:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "VBrick Systems, Inc.",
-        "Cloud_Service_Provider_Package": "VBrick Rev",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "F1605107898",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Li-SaaS",
-        "Sponsoring_Agency": "Department of the Interior",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-        "Authorizing_Agency": "Department of the Interior",
-        "Authorizing_Subagency": "Fish and Wildlife Service",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/VBrick%20Logo.jpg",
-        "CSP_Website": "www.vbrick.com",
-        "CSO_Description": "Rev enables organizations to securely and efficiently deliver high quality live and on-demand video to huge audiences internally, using the organization’s wide area network, and externally via the cloud. Features of Rev include, the central management of video assets, user access and permissions, network delivery devices, and video publishing and distribution—in the most bandwidth-efficient way possible.",
-        "CSP_POC_Name": "Todd Kistner",
-        "CSP_POC_Email": "fedramp@vbrick.com",
-        "FedRAMP_In-Process_Date": "2018-02-13T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
