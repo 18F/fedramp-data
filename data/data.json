@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-02-18T05:40:50.623Z",
+    "Created_At": "2019-02-19T05:40:50.253Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3865,20 +3865,10 @@
           {
             "Letter_Date": "2018-09-24T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-09-24T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Treasury",
+            "Authorizing_Agency": "Department of the Treasury",
             "Authorizing_Subagency": "Office of the Comptroller of the Currency",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          },
-          {
-            "Letter_Date": "2018-10-22T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-01-11T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-10-22T04:00:00.000Z",
-            "Authorizing_Agency": "Peace Corps",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Peace%20Corps%20Logo.jpg",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           },
@@ -3888,6 +3878,16 @@
             "Authorizing_Agency": "Department of Veterans Affairs",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2019-01-22T05:00:00.000Z",
+            "Letter_Expiration_Date": "2019-08-12T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-01-22T05:00:00.000Z",
+            "Authorizing_Agency": "Peace Corps",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Peace%20Corps%20Logo.jpg",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
@@ -5067,6 +5067,15 @@
             "Authorizing_Subagency": "Customs and Border Protection",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Expiration_Date": "2021-03-21T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-03-21T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           },
@@ -8829,7 +8838,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Agari",
+        "Cloud_Service_Provider_Name": "Agari Data, Inc.",
         "Cloud_Service_Provider_Package": "Customer Protect",
         "Path": "Agency",
         "Designation": "In Process",
@@ -9628,6 +9637,30 @@
         "CSP_POC_Email": "security@ivanti.com",
         "Fedramp_Ready_Date": "2018-09-05T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2018-04-05T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "KnowBe4, Inc.",
+        "Cloud_Service_Provider_Package": "KnowBe4 Security Awareness Training",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1912662229",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Li-SaaS",
+        "Sponsoring_Agency": "Department of Energy",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+        "Authorizing_Agency": "Department of Energy",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/KnowBe4%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://www.knowbe4.com/federal ",
+        "CSO_Description": "KnowBe4 is the world’s most popular integrated Security Awareness Training and Simulated Phishing platform with thousands of active enterprise accounts. You finally have a platform to better manage the **urgent IT security problems of social engineering, phishing and ransomware attacks.** KnowBe4 gives you self-service enrollment, and both pre-and post-training phishing security tests that show you the percentage of end-users that are Phish-prone. Our highly effective, frequent, \"double-random\" Phishing Security Tests provide several remedial options in case an employee falls for a simulated phishing attack.\n\n**KnowBe4 provides you with the world's largest library of 800+ security awareness training content**, including interactive modules, videos, games, posters and newsletters. You can schedule regular Phishing Security Tests from our large library of over 2,500 \"known-to-work\" templates or you can also create your own custom phishing templates. And with our powerful Smart Groups feature, you can use each employees’ behavior and user attributes to tailor phishing campaigns, training assignments, remedial learning and reporting.\n\nYour enterprise can get the KnowBe4 platform quickly deployed into production. Our Customer Success team gets you going in no time, without the need for consulting hours. And our Active Directory Integration (ADI) allows you to easily sync user data and saves you time by eliminating the need to manually manage user changes. Once the ADI is configured, users will be added, changed and archived in sync with changes made within AD automatically.\n\n**We use FedRAMP compliant Amazon Web Services East (AWS US East), which is maintained in an ISO certified facility.** There is no unauthorized external access to data, we only store just enough information to accomplish the services we are set to provide, which minimally are email addresses with recorded clicks. All email addresses are encrypted and kept private. And KnowBe4 has been PCI compliant from day one. KnowBe4 courses are SCORM compliant, so we can deliver courseware for your in-house LMS if needed.  However, KnowBe4 does have its own LMS that lives in the cloud, and we can report back to you about all enrolled employees, their status, completion, and many other parameters.",
+        "CSP_POC_Name": "Rosa Smothers",
+        "CSP_POC_Email": "federal@knowbe4.com",
+        "FedRAMP_In-Process_Date": "2019-02-12T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
