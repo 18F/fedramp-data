@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-02-25T05:40:50.077Z",
+    "Created_At": "2019-02-26T05:40:49.986Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2292,6 +2292,16 @@
             "Authorizing_Subagency": "Office of the Comptroller of the Currency",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2018-12-17T05:00:00.000Z",
+            "Letter_Expiration_Date": "2022-01-11T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-01-11T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
@@ -7058,7 +7068,7 @@
         "CSP_Website": "www.avuetech.com",
         "CSO_Description": "Avue is a web-based, outsourced, digital service delivery system offered by Avue Technologies Corporation; remotely-hosted in the Amazon GovCloud, and remotely-managed by Avue Technologies Corporation in Tacoma, Washington.  The Avue service is provided through a single interface to handle all aspects of human capital management.  Avue is a Software-as-a-Service (SaaS) cloud-based Human Capital Management and Operations Management platform.  Avue is the leader in federal talent acquisition, talent management, talent science, and human capital technology solutions.  The platform serves include a diverse array of agencies that include Title 5 and alternative personnel systems such as Title 38, Title 10, Title 32, and FIRREA.  Avue is a native-federal HCM platform offered as a SaaS/cloud solution, with 99.9% uptime, since 2001.\n\nAvue’s firm-fixed price offering includes a five component solution: (1) the native federal enterprise SaaS platform, (2) highly expert Avue staff available online and onsite to ensure the platform is responsive to the client’s operational needs, (3) embedded IT services that ensure all elements of the technology and data flow and operate seamlessly with the client’s IT environment, (4) social media, communications, and marketing services for online-, mobile-, and social-media based talent acquisition, and (5) on-demand HR staff augmentation to add capacity and assist agency HR staff with Avue HR experts, in any location at any time.  Avue’s database contains job duties, skills, and competencies, developmental activities, training courses, performance standards, recruitment criteria and applicant assessment criteria, along with a range of other associated content.  This database and its companion rules engines allow Avue to deliver services in a rapid and efficient manner while at the same time ensuring compliance with statutes and regulations, notably the Uniform Guidelines on Employee Selection Procedures, governing OPM and delegated examining regulations, and the federal Merit System.  Avue’s services are bundled with the database and technology platform in a manner that ensures delivery of the services are not only compliant but responsive to management’s needs, quick, and superior in quality and result.\n\nAvue is HRLOB certified by OPM, OMB, and GSA for both Core and Non-Core HR services including Classification, Staffing and Recruitment, Performance Management, Enterprise Learning Management, Worker Compensation, Payroll, Time and Attendance, Benefits and Retirement Management, Organization Optimization, and Workforce  Planning and Management – a total of 15 modules.  Avue Technologies is currently interconnected to electronically post vacancies to USAJOBs and receive online application and with the National Finance Center (NFC) for personnel actions and workforce management activities.",
         "Announcement_Date": "2015-04-17T04:00:00.000Z",
-        "CSP_POC_Name": "Rick Payne",
+        "CSP_POC_Name": "Karl Zajac",
         "CSP_POC_Email": "fedramp@avuetech.com",
         "FedRAMP_In-Process_Date": "2014-10-15T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
@@ -9910,7 +9920,7 @@
           "SaaS"
         ],
         "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "High",
+        "Impact_Level": "Moderate",
         "Sponsoring_Agency": "Department of Health and Human Services",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
         "Authorizing_Agency": "Department of Health and Human Services",
@@ -10877,30 +10887,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Zapproved LLC",
-        "Cloud_Service_Provider_Package": "Legal Hold Pro",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1722561386",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of the Interior",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-        "Authorizing_Agency": "Department of the Interior",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Zapproved%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.zapproved.com ",
-        "CSO_Description": "**Legal Hold Pro** by Zapproved is the leading SaaS e-discovery software solution designed to enable government agencies’ legal teams to streamline and strengthen the data preservation stage of e-discovery through the automation of legal hold notifications (“holds”) and compliance tracking. Legal Hold Pro’s multi-step process is scalable, repeatable, consistent and efficient from hold notification through custodian response and collection. The application has been designed from the ground up to ensure that data is safe and secure using industry best practices. Zapproved’s system has been evaluated for use by world-leading companies and it meets their demanding requirements of data security. \n\nLegal Hold Pro software provides an agency with capabilities such as:\n\n - **Draft and Issue Hold Notification** - Draft holds in minutes using customizable and pre-approved templates and easily add recipients to be notified.\n - **Collect Responses by Recipients** - Recipients are obliged to affirmatively acknowledge their compliance with the hold notification, which is made easy with Legal Hold Pro’s “one-click” acceptance.     \n - **Interview Recipients by Online Questionnaires** - Rather than calling or meeting with custodians individually, the legal team can “interview” recipients efficiently and in a timely manner.\n - **Send Routine Reminders and Updates** -  Legal Hold Pro also manages required reminders and updates over the life of legal hold, often lasting several years.   \n - **Maintain a Thorough Audit Trail** - The software time stamps each action and maintains detailed records, including revisions, so the legal team can demonstrate its good faith efforts and ensure defensibility.\n\nIn addition to the above-stated workflow, the software offers the following additional benefits:\n\n - **Data Security** - Designed and maintained to the highest levels of data security, including availability within Amazon Web Services GovCloud, and backed up with industry-leading SOC2 Type 2 certfication. \n - **Intuitive User Interface** - ADA compliant and accessible to non-technical users. Training takes just few hours.\n - **Connectivity** - The application's robust API enables it to seamlessly integrate with other business systems such as HR databases and data archives. \n - **Rapid Implementation** -  Many customers are fully operational in less than a week.   \n - **Scalability** - Cloud computing architecture scales with growth regardless of how many users need to access the software or the volume of holds change.\n - **Customer Experience** - Dedicated onboarding and ongoing support, multi-tiered implementation plans that suit any agency size and frequent updates with innovative features.\n",
-        "CSP_POC_Name": "Yupeng Ji",
-        "CSP_POC_Email": "info@zapproved.com",
-        "FedRAMP_In-Process_Date": "2017-11-29T05:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Zendesk Inc.",
         "Cloud_Service_Provider_Package": "Zendesk",
         "Path": "Agency",
@@ -11366,23 +11352,6 @@
         "Description_of_Consulting_Services": "Founded in 2000, Lazarus Alliance’s primary purpose is to help the global business community attain, maintain, and demonstrate compliance and information security excellence, in any jurisdiction. Lazarus Alliance specializes in IT Security, Audit & Compliance, IT Risk Assessment & Management, Governance & Policies, and Cyberspace law leadership solutions and is fully dedicated to global success in these disciplines. Contact us and learn more about Lazarus Alliance and why Lazarus Alliance is Proactive Cyber Security™!\n\nWith significant contributions and innovations such as the IT Audit Machine®, The Policy Machine®, Cybervisor®, Continuum GRC®, SafetyNET®, the Holistic Operational Readiness Security Evaluation (HORSE Project)®, the Security Trifecta®, Your Personal CXO® and other progressive initiatives, it’s no wonder that Lazarus Alliance has become a leading international name synonymous with incorruptible leadership, meaningful services, exceptional customer support and tangible innovations specifically to prevent damage to our clientele’s organizations.\nLazarus Alliance is a proud veteran owned business.",
         "Consulting_Services_To": "None",
         "Additional_Cyber_Frameworks": "* PCI DSS & SAQ\n* FedRAMP\n* HIPAA\n* NIST-FISMA\n* SSAE 16 (SOC 1)\n* AT 101 (SOC 2)\n* SysTrust / WebTrust (SOC 3)\n* ISO 27001, 27002, 27005 (Advisory)\n* NERC CIP\n* SOX"
-      },
-      {
-        "Name": "LBMC, PC - In Remediation",
-        "Accreditation_Date": "2015-04-03T04:00:00.000Z",
-        "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/LBMC%20Logo.jpg",
-        "Description": "LBMC Information Security separates itself from traditional information security firms by offering practical, cost-effective solutions that are customized to the CSP’s environment. We know FedRAMP and FISMA Auditing Requirements, and our experience in the government space has gained us a deep understanding of assessment methodologies and security requirements, allowing us to bring an unmatched team of resources to projects.\n\nLBMC’s FedRAMP audit services include development of the Security Assessment Plan, FedRAMP test cases, execution of technical and document based testing and interviews, and documentation of all test results in the Security Assessment Report. LBMC works with each CSP to coordinate all aspects of the engagement including logistics for site visits, personnel interviews, and schedules for when testing/scans will be performed. Deliverables from LBMC will include the Security Assessment Report, all supporting test documentation, and artifacts that are required as part of the FedRAMP ATO package submission.\n\n",
-        "POC_Name": "Thomas Lewis",
-        "POC_Email": "fedramp@lbmc.com",
-        "website": "www.lbmc.com",
-        "Remediation": "N",
-        "Founded": 1984,
-        "Primary_Office_Locations": "5250 Virginia Way, Brentwood, TN 37027",
-        "FedRAMP_Assessed": "None",
-        "Provide_Consulting_Services": "Y",
-        "Description_of_Consulting_Services": "When it comes to FedRAMP readiness, advanced preparation and having the right partner is key. Partnering with LBMC means partnering with information assurance experts. As trusted advisors in the FISMA/FedRAMP space, LBMC has the expertise to identify gaps in policy, procedures, processes and technology required for successful FedRAMP certification. LBMC examines the information system’s environment, reviews required documentation and evaluates the CSP against FedRAMP criteria for determining readiness. LBMC also assists CSP’s with developing required documentation including the FedRAMP System Security Plan (SSP) and other associated required documentation in a way that will be acceptable to FedRAMP, thereby avoiding documentation issues later in the process.\n\nDeliverables from the gap assessment include a completed FedRAMP System Security Plan, required policies and procedures, detailed recommendations and assistance with rapid remediation of outstanding issues. LBMC is uniquely qualified to assist CSP’s in every step of their FedRAMP certification journey.\n\n",
-        "Consulting_Services_To": "* Druva\n* CollabNet",
-        "Additional_Cyber_Frameworks": "* HIPAA\n* HITRUST\n* PCI Data Security Standards\n* Service Organization Control (SOC)\n* SOX/COSO/COBIT\n* FISMA/NIST\n* FedRAMP Assessments\n* CMS Information Security"
       },
       {
         "Name": "Linford & Company",
