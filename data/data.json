@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-02-27T05:40:50.246Z",
+    "Created_At": "2019-02-28T05:40:50.549Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4393,15 +4393,7 @@
           },
           {
             "Letter_Date": "2016-04-11T04:00:00.000Z",
-            "Authorizing_Agency": "Environmental Protection Agency",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Kratos SecureInfo"
-          },
-          {
-            "Letter_Expiration_Date": "2018-12-22T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2015-12-22T05:00:00.000Z",
+            "Letter_Expiration_Date": "2019-04-11T04:00:00.000Z",
             "Authorizing_Agency": "Environmental Protection Agency",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
@@ -4577,6 +4569,16 @@
             "Authorizing_Agency": "Department of Labor",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Kratos SecureInfo"
+          },
+          {
+            "Letter_Date": "2018-11-02T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-10-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-11-02T04:00:00.000Z",
+            "Authorizing_Agency": "Environmental Protection Agency",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Kratos SecureInfo"
           }
@@ -5505,6 +5507,16 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/cncs_1.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2019-02-19T05:00:00.000Z",
+            "Letter_Expiration_Date": "2020-02-28T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-02-19T05:00:00.000Z",
+            "Authorizing_Agency": "United States House of Representatives",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/House%20of%20Reps%20Logo.jpg",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
           }
         ]
       },
@@ -6379,35 +6391,6 @@
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
         ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "IBM",
-        "Cloud_Service_Provider_Package": "IBM Connections Social",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1717348637",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2018-01-03T05:00:00.000Z",
-        "Sponsoring_Agency": "Peace Corps",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Peace%20Corps%20Logo.jpg",
-        "Authorizing_Agency": "Peace Corps",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/IBM%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1211011660"
-        ],
-        "CSP_Website": "https://www.ibm.com/us-en/",
-        "CSO_Description": "IBM Connections Social is a set of web-based collaboration services combined with social network software. Delivered as software as a service from the IBM Cloud Marketplace, IBM Connections Social includes file networking and storage, activity management and social network software. The IBM Connections Social infrastructure is hosted by SoftLayer, an Infrastructure as a Service (IaaS) hosting provider based Richardson, TX and Ashburn, VA.  The deployment model of the SaaS Application System Collaborative Environment is that of a Community Cloud as defined by NIST Special Publication 800-145, The NIST Definition of Cloud Computing.  ",
-        "Announcement_Date": "2018-04-24T04:00:00.000Z",
-        "CSP_POC_Name": "Kevin Lynch",
-        "CSP_POC_Email": "Kevin_Lynch@us.ibm.com",
-        "FedRAMP_In-Process_Date": "2017-06-16T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "Adobe",
@@ -8110,7 +8093,7 @@
         "Sponsoring_Agency": "General Services Administration",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
         "Authorizing_Agency": "General Services Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Slack%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Slack%20Logo2.jpg",
         "Independent_Assessor": "Schellman & Company, LLC",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW",
@@ -10856,6 +10839,31 @@
         "CSP_POC_Name": "Peter Nancarrow",
         "CSP_POC_Email": "fedramp@virtru.com",
         "FedRAMP_In-Process_Date": "2017-06-23T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "VMware, Inc.",
+        "Cloud_Service_Provider_Package": "Workspace ONE",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1906353407",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Commerce",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+        "Authorizing_Agency": "Department of Commerce",
+        "Authorizing_Subagency": "United States Census Bureau",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/VMware%20Workspace%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://my.workspaceone.com/products/VMware-Workspace-ONE  ",
+        "CSO_Description": "Workspace ONE simplifies mobility for organizations, while empowering end users. With Workspace ONE, organizations can easily deploy, configure, secure, manage and support smartphones, tablets, laptops and other devices across multiple mobile applications and operating systems. Workspace ONE includes industry-leading mobile device, email, application, content and browser management solutions. Whether enabling a Bring Your Own Device (BYOD) program or corporate-owned and line-of-business devices, organizations can implement these solutions standalone, in a dual persona containerized solution or as a comprehensive solution based on device type, use case and user role in the organization. This integrated solution helps companies reduce costs and increase efficiency, while mitigating security risks and preventing data loss.",
+        "CSP_POC_Name": "Thomas Simmons ",
+        "CSP_POC_Email": "DL.InfoSec.Federal@vmware.com",
+        "FedRAMP_In-Process_Date": "2019-02-20T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
