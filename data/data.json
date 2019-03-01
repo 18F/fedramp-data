@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-02-28T05:40:50.549Z",
+    "Created_At": "2019-03-01T05:40:50.152Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2114,17 +2114,6 @@
             "Independent_Assessor": "Coalfire Systems, Inc."
           },
           {
-            "Letter_Date": "2016-09-27T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-02-17T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-10-12T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "International Trade Administration",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          },
-          {
             "Letter_Expiration_Date": "2019-09-29T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2017-09-29T04:00:00.000Z",
             "Authorizing_Agency": "Department of Homeland Security",
@@ -2321,6 +2310,17 @@
             "Authorizing_Agency": "Department of Education",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2019-02-04T05:00:00.000Z",
+            "Letter_Expiration_Date": "2019-05-15T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-02-13T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "International Trade Administration",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
@@ -7472,7 +7472,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
         "Authorizing_Agency": "Federal Housing Finance Agency",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Acendre%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Independent_Assessor": "SecureIT",
         "Underlying_CSP_Package_ID": [
           "F1603047866"
         ],
@@ -10737,7 +10737,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/TTEC%20Logo.jpg",
         "Independent_Assessor": "Schellman & Company, LLC",
         "CSP_Website": "https://www.ttec.com/industries/government-solutions",
-        "CSO_Description": "HUMANIFY ENTERPRISE FOR GOVERNMENT (HEP-G), Contact Center as a Service (CCaaS) -HEP-G omni-channel solution powered is architected on a Hosted Collaboration Solution (HCS).  Designed for agencies with up to 80,000 unified communications endpoints and 24,000 knowledge workers or agents per client instance, the omni-channel solution includes Inbound, and Outbound Voice, IVR and Workforce Optimization.",
+        "CSO_Description": "The TTEC solution is powered by Cisco’s Hosted Collaboration Solution for Contact Center (HCS-CC), Unified Communications (HCS-UC) and TTEC’s proprietary Humanify Portal.  The major services provided are Contact Center as a Service (CCaaS) and Unified Communications as a Service (UCaaS), Call Recording for Quality Assurance and WorkForce Management to optimize staff to customer requests.\n\n**Cisco Unified Communications Manager (CUCM)**\n\nCisco Unified Communications Manager (CUCM) is the core call processing software for the Cisco Unified Communications System. It builds call processing capabilities on top of a Cisco IP network infrastructure. CUCM software extends enterprise telephony features and capabilities to packet telephony network devices such as IP phones, media processing devices, voice gateways, and multimedia applications. Cisco Unified Communications delivers fully integrated communications by enabling data, voice, and video to be transmitted over a single network infrastructure. CUCM will be deployed in the Multisite WAN with centralized call processing model, with the CUCM residing in two TTEC Cloud data centers.\n\n**Cisco Unified Contact Center Enterprise (UCCE)**\n\nCisco Unified Contact Center Enterprise delivers intelligent contact routing, call treatment, network-to-desktop computer telephony integration (CTI), and multichannel contact management over an IP infrastructure. It combines multichannel automatic call distributor (ACD) functionality with IP telephony in a unified solution.\n\n**Cisco Unity Connection**\n\nCisco Unity® Connection is a unified messaging and voicemail solution that accelerates collaboration by providing flexible message access options management simplicity. Cisco Unity Connection is robust and secure and is designed for complex distributed global deployments with support for high availability, redundancy, and branch-office survivability. It is fully virtualized and runs on Cisco Unified Computing System™ (Cisco UCS®) or on hardware that meets minimum specifications prescribed by Cisco.\n\n**Cisco Emergency Responder (CER) - 911**\n\nCisco Emergency Responder provides IP phone tracking to ensure 911 emergency calls are routed correctly even when moved from its home location. Once a 911 call is made from a tracked phone, the CER system will deliver the call to the proper PSAP and alert onsite security staff. The CER cluster works in a redundant fashion with a server at each data center.\n\n**Cisco Voice Portal (CVP)**\n\nCisco Unified Customer Voice Portal (CVP) provides the Interactive Voice Response functions for the platform.  CVP will be deployed using the “Comprehensive” functional deployment model. This deployment model facilitates routing and transfers across the VoIP network, and in the future will allow CVP to act as a queuing point for calls when no agents are available in the requested skill group, as well as skill based warm transfers between Contact Center agents. \n\n**Cisco Unified Intelligence Center (CUIC)**\n\nCisco Unified Intelligence Center is a web-based reporting application that provides real-time and historical reporting in an easy-to-use, wizard-based application for Cisco Contact Center products. It allows contact center supervisors and business users to report on the details of every contact across all channels in the contact center from a single interface.\n\n**Cisco Finesse**\n\nThe Cisco Finesse agent and supervisor desktop for Cisco Unified Contact Center Enterprise integrates traditional contact center functions into a thin-client desktop. A critical characteristic is that every desktop is browser-based and implemented through a Web 2.0 interface. No client-side installations are required. This reduces the total cost of ownership (TCO). \n\nThe Cisco Finesse server is deployed on a dedicated VMware virtual machine (VM) that runs on the Cisco Voice Operating System (VOS) platform. The Cisco Finesse software is fault-tolerant and deploys on redundant VMs. Both Cisco Finesse servers are simultaneously active. One Cisco Finesse server acts as a publisher and replicates configuration data to the subscriber in the redundant pair.\n\n**Humanify Portal**\n\nHumanify Portal provides easy access to your contact center and unified communications administrative and management tools from a single interface. It is an exclusive application to TTEC’s Humanify Enterprise – Government (Humanify G) product that increases the flexibility of the Cisco Contact Center as a Service platform.  It allows end-user administrators to perform Move, Add, Change, and Delete (MACD) activities for phones, personnel, locations, skill groups, agent teams and many other elements of the system.  It also allows administrators to make changes to routing rules, IVR prompts, and call queues.  This customizable, user-friendly interface allows for the administration of contact center interactions, employees and productivity at your fingertips, enabling real-time control over customer experience outcomes. You can also increase the agility of managing your contact center operations with Humanify Portal Mobile, a 100% web-based application for on-the-move access.\n\n**Quality Assurance / Call Recording / Desktop Screen Recording**\n\nThe Humanify Enterprise for Government System records 100% of voice calls and 15% of contact center agent desktop screen recordings for compliance, transaction verification, and legal protection.  Data is stored in an FedRAMP encrypted format and available for playback and analysis, and for agent performance scoring.\n\n**Workforce Management**\n\nProvides forecasting, multi-skill scheduling, and real-time adherence for contact center agents.  Includes features for workflows, intra-day dynamic scheduling, audit trail reporting, and mentoring requests.",
         "CSP_POC_Name": "Kip James",
         "CSP_POC_Email": "FEDRAMPSOLUTIONS@TTEC.COM",
         "Fedramp_Ready_Date": "2019-02-13T05:00:00.000Z",
