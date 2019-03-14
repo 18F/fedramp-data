@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-03-13T04:40:50.367Z",
+    "Created_At": "2019-03-14T04:40:50.006Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1326,17 +1326,6 @@
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Date": "2016-01-29T05:00:00.000Z",
-            "Letter_Expiration_Date": "2019-01-29T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-01-29T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Centers for Medicare and Medicaid Services",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          },
-          {
             "Letter_Date": "2017-05-19T04:00:00.000Z",
             "Letter_Expiration_Date": "2020-05-18T04:00:00.000Z",
             "Authorizing_Agency": "Department of Veterans Affairs",
@@ -1372,6 +1361,16 @@
             "Authorizing_Agency": "Federal Mine Safety and Health Review Commission",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FMSHRC%20Logo.jpg",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2019-02-08T05:00:00.000Z",
+            "Letter_Expiration_Date": "2020-02-08T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Centers for Medicare and Medicaid Services",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
@@ -2948,6 +2947,16 @@
             "Authorizing_Subagency": "Food and Drug Administration",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2019-02-15T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-02-15T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Office of the Comptroller of the Currency",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
@@ -7092,7 +7101,7 @@
         "Sponsoring_Agency": "Pension Benefit Guaranty Corporation",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
         "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/TalaTek%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/TalaTek%20Logo2.jpg",
         "Independent_Assessor": "EmeSec Incorporated",
         "Underlying_CSP_Package_ID": [
           "FR1833967442"
@@ -7101,7 +7110,7 @@
         "CSO_Description": "TalaTek’s ECMS efficiently provides cost-effective ‘Security as a Service’ and Compliance Risk Management. ECMS uses a Governance, Risk Management and Compliance (GRC) application to meet NIST Special Publications 800-37, 800-39, 800-53 and 800-137 guidelines for effective Continuous Monitoring and implementation of the NIST Risk Management Framework (RMF).",
         "Announcement_Date": "2018-02-13T05:00:00.000Z",
         "CSP_POC_Name": "N/A",
-        "CSP_POC_Email": "compliance@talatek.com",
+        "CSP_POC_Email": "info@talatek.com",
         "FedRAMP_In-Process_Date": "2017-01-24T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
@@ -8161,6 +8170,119 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Acquia Inc.",
+        "Cloud_Service_Provider_Package": "Acquia Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1302201919",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2018-06-29T04:00:00.000Z",
+        "Original_Expiration_Date": "2021-06-29T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of the Treasury",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+        "Authorizing_Agency": "Department of the Treasury",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Acquia%20Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
+        "CSP_Website": "www.acquia.com",
+        "CSO_Description": "Acquia provides the leading cloud platform for building, delivering, and optimizing digital experiences.\n\nAcquia is the enterprise platform behind Drupal, the leading open-source content management system, recognized as a Magic Quadrant Leader by Gartner two years in a row. Our platform enables agencies to foster greater digital engagement with citizens and securely deliver mission essential information and services with greater speed, agility, and resiliency.\n\nThe City of LA, State of New York, FEMA, Department of Homeland Security and many other government agencies rely on the Acquia platform to build websites and digital experiences that meet the needs of their citizens, internal users and IT teams while moving their missions forward.\n\nThese agencies know that a citizen-centric government requires more than simply taking the existing physical structure and making it digital. Today the term “digital” has taken on a new meaning. In the private sector, consumers can shop, pay bills, and even conduct banking online, and now they’re expecting to conduct government business online in the same way. The most forward-thinking government IT managers are finding ways to meet expectations set by the private sector, and then going above and beyond to serve citizens.\n\nWith the Acquia Platform governments and agencies can use limited taxpayer dollars efficiently to build sites and experience that meet the needs of IT, deliver on the mission and give citizens crucial information they need.",
+        "Announcement_Date": "2016-04-13T04:00:00.000Z",
+        "CSP_POC_Name": "Matt Casperson",
+        "CSP_POC_Email": "fedramp@acquia.com",
+        "FedRAMP_In-Process_Date": "2014-05-11T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": [
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2016-08-11T04:00:00.000Z",
+            "Authorizing_Agency": "Social Security Administration",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Schellman & Company, LLC"
+          },
+          {
+            "Letter_Date": "2017-02-16T05:00:00.000Z",
+            "Letter_Expiration_Date": "2020-02-16T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Transportation",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Schellman & Company, LLC"
+          },
+          {
+            "Letter_Date": "2017-02-22T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Institute of Standards and Technology",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Schellman & Company, LLC"
+          },
+          {
+            "Letter_Date": "2017-06-14T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-06-13T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Schellman & Company, LLC"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2017-07-24T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Internal Revenue Service",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Schellman & Company, LLC"
+          },
+          {
+            "Letter_Date": "2017-11-01T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-11-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-11-03T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "National Institutes of Health",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Schellman & Company, LLC"
+          },
+          {
+            "Letter_Date": "2018-03-22T04:00:00.000Z",
+            "Letter_Expiration_Date": "2019-03-23T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-03-23T04:00:00.000Z",
+            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Schellman & Company, LLC"
+          },
+          {
+            "Letter_Date": "2018-06-22T04:00:00.000Z",
+            "Authorizing_Agency": "Corporation for National and Community Service",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/cncs_1.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Schellman & Company, LLC"
+          },
+          {
+            "Letter_Date": "2018-03-06T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-03-08T05:00:00.000Z",
+            "Authorizing_Agency": "Commodity Futures Trading Commission",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFTC%20Logo.jpg",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Schellman & Company, LLC"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "GitHub",
         "Cloud_Service_Provider_Package": "GitHub Enterprise Cloud",
         "Path": "Agency",
@@ -8767,119 +8889,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Acquia Inc.",
-        "Cloud_Service_Provider_Package": "Acquia Cloud",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1302201919",
-        "Service_Model": [
-          "PaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2018-06-29T04:00:00.000Z",
-        "Original_Expiration_Date": "2021-06-29T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of the Treasury",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-        "Authorizing_Agency": "Department of the Treasury",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Acquia%20Logo.jpg",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW"
-        ],
-        "CSP_Website": "www.acquia.com",
-        "CSO_Description": "Acquia provides the leading cloud platform for building, delivering, and optimizing digital experiences.\n\nAcquia is the enterprise platform behind Drupal, the leading open-source content management system, recognized as a Magic Quadrant Leader by Gartner two years in a row. Our platform enables agencies to foster greater digital engagement with citizens and securely deliver mission essential information and services with greater speed, agility, and resiliency.\n\nThe City of LA, State of New York, FEMA, Department of Homeland Security and many other government agencies rely on the Acquia platform to build websites and digital experiences that meet the needs of their citizens, internal users and IT teams while moving their missions forward.\n\nThese agencies know that a citizen-centric government requires more than simply taking the existing physical structure and making it digital. Today the term “digital” has taken on a new meaning. In the private sector, consumers can shop, pay bills, and even conduct banking online, and now they’re expecting to conduct government business online in the same way. The most forward-thinking government IT managers are finding ways to meet expectations set by the private sector, and then going above and beyond to serve citizens.\n\nWith the Acquia Platform governments and agencies can use limited taxpayer dollars efficiently to build sites and experience that meet the needs of IT, deliver on the mission and give citizens crucial information they need.",
-        "Announcement_Date": "2016-04-13T04:00:00.000Z",
-        "CSP_POC_Name": "Matt Casperson",
-        "CSP_POC_Email": "fedramp@acquia.com",
-        "FedRAMP_In-Process_Date": "2014-05-11T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": [
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2016-08-11T04:00:00.000Z",
-            "Authorizing_Agency": "Social Security Administration",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Schellman & Company, LLC"
-          },
-          {
-            "Letter_Date": "2017-02-16T05:00:00.000Z",
-            "Letter_Expiration_Date": "2020-02-16T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Transportation",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Schellman & Company, LLC"
-          },
-          {
-            "Letter_Date": "2017-02-22T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Institute of Standards and Technology",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Schellman & Company, LLC"
-          },
-          {
-            "Letter_Date": "2017-06-14T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-06-13T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Veterans Affairs",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Schellman & Company, LLC"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2017-07-24T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Authorizing_Subagency": "Internal Revenue Service",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Schellman & Company, LLC"
-          },
-          {
-            "Letter_Date": "2017-11-01T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-11-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-11-03T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "National Institutes of Health",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Schellman & Company, LLC"
-          },
-          {
-            "Letter_Date": "2018-03-22T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-03-23T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-03-23T04:00:00.000Z",
-            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Schellman & Company, LLC"
-          },
-          {
-            "Letter_Date": "2018-06-22T04:00:00.000Z",
-            "Authorizing_Agency": "Corporation for National and Community Service",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/cncs_1.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Schellman & Company, LLC"
-          },
-          {
-            "Letter_Date": "2018-03-06T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-03-08T05:00:00.000Z",
-            "Authorizing_Agency": "Commodity Futures Trading Commission",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFTC%20Logo.jpg",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Schellman & Company, LLC"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "IBM",
         "Cloud_Service_Provider_Package": "IBM Maximo and TRIRIGA on Cloud for U.S. Federal",
         "Path": "Agency",
@@ -9399,6 +9408,30 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Dell Boomi",
+        "Cloud_Service_Provider_Package": "AtomSphere",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1916254386",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "United States Agency for International Development",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
+        "Authorizing_Agency": "United States Agency for International Development",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Dell%20Boomi%20Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "www.boomi.com",
+        "CSO_Description": "Dell Boomi quickly and easily unites everything in your digital ecosystem so you can achieve better outcomes, faster. Our intelligent, flexible, scalable platform accelerates your business results by making it faster and easier to link your data, systems, applications, processes and people.\n\nBy harnessing the power of the cloud to unify everything inside and outside of your business, Dell Boomi liberates you from the shackles of legacy technology and gives you agility to lead the future.",
+        "CSP_POC_Name": "Cameron Hass",
+        "CSP_POC_Email": "Boomi_sales_fed@dell.com",
+        "FedRAMP_In-Process_Date": "2019-03-13T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Distributed Solutions, Inc.",
         "Cloud_Service_Provider_Package": "AEON",
         "Path": "Agency",
@@ -9538,6 +9571,30 @@
         "CSP_POC_Name": "Kathy Sorell",
         "CSP_POC_Email": "fedramp@equinix.com",
         "FedRAMP_In-Process_Date": "2016-08-17T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Everlaw",
+        "Cloud_Service_Provider_Package": "Everlaw",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1916055736",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Private Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Justice",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+        "Authorizing_Agency": "Department of Justice",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Everlaw%20Logo.jpg",
+        "Independent_Assessor": "Kratos SecureInfo",
+        "CSP_Website": "https://www.everlaw.com/",
+        "CSO_Description": "Everlaw is a collaborative, cloud-based litigation platform for corporate counsels, litigators and government attorneys that enables teams to discover, reveal, and act on information to better drive internal investigations and positively impact the outcome of litigation. Unlike slow, unwieldy, client-server software and expensive third-party service providers, only Everlaw combines speed, security, and ease-of-use into a unified, comprehensive solution that unlocks the collaborative power of teams and enables them to investigate issues more thoroughly, uncover truth more quickly, and present their findings more clearly.\n\nThe Everlaw platform provides three primary capabilities, enabling organizations to: \n\n* Discover: Ingest, organize, search through, and review massive troves of data in order to discover and produce relevant underlying information.\n* Reveal: Harness the power of modern computer science to expose the hidden details of documents at scale. \n* Act: Collaborate securely with colleagues, business partners, inside or outside counsel to craft narratives and efficiently manage the end-to-end process of investigations or litigation.\n\nSpecific product features include: \n\nData ingestion: Everlaw accelerates the document review process by enabling reviewers to upload their own documents, plugging in seamlessly with third-party cloud hosting platforms, and ingesting documents quickly. \n\nDocument Search: Everlaw's instantaneous search results occur with even the most complex search strings. The ability to visually build searches allows both novice and power users to narrow their searches without concern of the elusive missing parenthesis.\n\nDocument Review: Providing exceptionally fast 'doc-to-doc' review speeds and shortcuts like coding presets, users are able to complete their review significantly more quickly on Everlaw. \n\nProductions: Everlaw provides a cloud-based production environment that can generate, modify and share legal document productions at any time.\n\nHidden data analytics: Automatically translates, transcribes and converts hidden data, bringing to the surface the information that often remains hidden during document review.\n\nPredictive coding: Enables reviewers to use their standard workflow--assigning ratings, codes, and attributes to reviewed documents--in order to teach the system how to find more relevant documents on their behalf.\n\nData visualization: Interactive visualizations from any set of documents that provide key insights into document dates, metadata, contents, formats, review activity, and predicted relevance.\n\nSecure collaboration: Everlaw enables sharing and communication directly in the platform to promote secure, seamless collaboration. \n\nNarrative building: Story-building ensures collaborative alignment of investigative teams, improve workflow, reduce risk, and save time by organizing key documents into a compelling narrative. \n\nMatter management: Integrated project, user, and case matter management tools allow for more efficient project outcomes. ",
+        "CSP_POC_Name": "Joshua Buckler",
+        "CSP_POC_Email": "federal@everlaw.com",
+        "FedRAMP_In-Process_Date": "2019-03-13T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -10834,6 +10891,30 @@
         "CSP_POC_Name": "Jim Beckner III",
         "CSP_POC_Email": "fedramp@tmetrics.com",
         "Fedramp_Ready_Date": "2019-02-12T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "TalaTek, LLC",
+        "Cloud_Service_Provider_Package": "TalaTek intelligent Governance and Risk Integrated Solution (TiGRIS)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1913835324",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Private Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Pension Benefit Guaranty Corporation",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
+        "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/TalaTek%20Logo2.jpg",
+        "Independent_Assessor": "Earthling Security, LLC",
+        "CSP_Website": "www.talatek.com",
+        "CSO_Description": "The TalaTek intelligent Governance and Risk Integrated Solution (TiGRIS) Software-as-a-Service (Saas) manages a customer’s Governance, Risk and Compliance (GRC) needs for an information system or network throughout its entire lifecycle. From inception, through assessment and continuous monitoring, to decommissioning, the TiGRIS application has been developed, in house, by TalaTek’s team of security professionals, to provide a user-friendly, powerful tool for GRC management.",
+        "CSP_POC_Name": "Baan Alsinawi",
+        "CSP_POC_Email": "info@talatek.com",
+        "FedRAMP_In-Process_Date": "2019-03-13T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
