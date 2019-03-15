@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-03-14T04:40:50.006Z",
+    "Created_At": "2019-03-15T04:40:50.408Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1522,6 +1522,15 @@
             "Authorizing_Agency": "Federal Deposit Insurance Corporation",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Dynamics Research Corporation"
+          },
+          {
+            "Letter_Expiration_Date": "2021-11-15T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-11-15T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Labor",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Dynamics Research Corporation"
           }
@@ -8892,7 +8901,7 @@
         "Cloud_Service_Provider_Name": "IBM",
         "Cloud_Service_Provider_Package": "IBM Maximo and TRIRIGA on Cloud for U.S. Federal",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "FR1728053006",
         "Service_Model": [
           "SaaS"
@@ -9190,8 +9199,8 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "CA Technologies Inc.",
-        "Cloud_Service_Provider_Package": "CA Infrastructure General Support Systems (GSS)",
+        "Cloud_Service_Provider_Name": "Broadcom",
+        "Cloud_Service_Provider_Package": "General Support Systems (GSS)",
         "Path": "Agency",
         "Designation": "In Process",
         "Package_ID": "FR1722462413",
@@ -9216,8 +9225,8 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "CA Technologies Inc.",
-        "Cloud_Service_Provider_Package": "CA Project & Portfolio Management (PPM)",
+        "Cloud_Service_Provider_Name": "Broadcom",
+        "Cloud_Service_Provider_Package": "Clarity PPM",
         "Path": "Agency",
         "Designation": "In Process",
         "Package_ID": "FR1722532017",
@@ -11213,23 +11222,6 @@
         "Description_of_Consulting_Services": "A-LIGN offers consulting services in order to prepare organizations prior to their FedRAMP assessment. Our experienced assessors can develop the required templates and supporting policies and procedures to prepare your company for the FedRAMP assessment. Additionally, A-LIGN can assist with POA&M remediation. Our consulting services help companies meet the rigorous FedRAMP requirements.",
         "Consulting_Services_To": "* TIBCO Software Inc\n* CGI Technology and Solutions Inc",
         "Additional_Cyber_Frameworks": "* PCI DSS\n* ISO 27001\n* HITRUST\n* HIPAA/HITECH\n* FISMA\n* SOC 1/SSAE 16\n* SOC 2/AT 101\n* ISAE 3402"
-      },
-      {
-        "Name": "Aspiryon, LLC - In Remediation",
-        "Accreditation_Date": "2015-09-30T04:00:00.000Z",
-        "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Aspiryon%20Logo.jpg",
-        "Description": "Aspiryon has been a provider of strategic staffing, technology and business solutions since 2011. We are a SBA 8(a) Certified Hispanic Woman Owned Economically Disadvantaged Small Business that is committed to excellence that focuses on delivering solutions that meet client needs and provide value. Aspiryon has been authorized by the FedRAMP Program to provide 3PAO Assessment Services that independently assess a Cloud Service Provider’s (CSP) system to meet the requirements for obtaining a Provisional Authority to Operate (P-ATO). As part of the assessment process, we document vulnerabilities, weaknesses, other findings and conduct analysis of the results that assist in providing the assessment of security controls.  All assessments are backed by detailed processes and procedures that are coordinated with the CSP team and all requirements are clearly communicated from start to finish.",
-        "POC_Name": "Neil Crisman",
-        "POC_Email": "fedramp@aspiryon.com",
-        "website": "www.aspiryon.com",
-        "Remediation": "N",
-        "Founded": 2011,
-        "Primary_Office_Locations": "711 Nolana Suite 103-F, Mc Allen, TX 78504",
-        "FedRAMP_Assessed": "None",
-        "Provide_Consulting_Services": "Y",
-        "Description_of_Consulting_Services": "Aspiryon has been a provider of strategic staffing, technology and business solutions since 2011. We are a SBA 8(a) Certified Hispanic Woman Owned Economically Disadvantaged Small Business that is committed to excellence that focuses on delivering solutions that meet client needs and provide value. Aspiryon’s FedRAMP Advisory and Consulting Services are designed to  bring CSP services to market. Our Consulting Services provide highly experienced personnel with hands-on knowledge of the FedRAMP, FISMA and ISO standards to implement and document security controls that lead to ATO for your Cloud Service. Our Advisory Services consist of pre-assessments, gap analysis and customized analysis that ensure your CSP is ready for ATO.",
-        "Consulting_Services_To": "None",
-        "Additional_Cyber_Frameworks": "ISO 27001:2013"
       },
       {
         "Name": "Blue Canopy Group, LLC",
