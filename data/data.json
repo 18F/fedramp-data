@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-03-18T04:40:50.086Z",
+    "Created_At": "2019-03-19T04:40:50.653Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4317,7 +4317,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Microsoft%20Logo.jpg",
         "Independent_Assessor": "Kratos SecureInfo",
         "CSP_Website": "http://azure.microsoft.com/en-us/",
-        "CSO_Description": "Microsoft Azure Commercial Cloud is an open and flexible cloud platform that enables customers to quickly build, test, deploy, and manage their applications, services, and product development across a network of Microsoft-managed datacenters within the United States. The Microsoft Azure platform exports savings to the customer by delivering the software, platform, and IT infrastructure resources where and when it is needed via the Internet.  Microsoft Azure provides a multi-tenant public cloud services platform that offers functionality to support capacities such as Platform as a Service (PaaS), and Infrastructure as a Service (IaaS) cloud service models.  Azure maintains a P-ATO at the Moderate Impact Level.  Azure was the first public cloud with IaaS and PaaS services to receive a JAB P-ATO.\n\nFor additional information, visit the (Azure Trust Center)[https://www.microsoft.com/en-us/TrustCenter/Compliance/default.aspx] or refer to Azure FedRAMP Package ID# F1209051525.\n\nThe following Microsoft services are FedRAMP Authorized and approved by the JAB at the Moderate Impact Level: API Management,  Application Gateway,  Application Insights,  Automation,  Azure Active Directory (AAD) Free,  Azure Active Directory (AAD) Premium P1 + P2,  Azure Cosmos DB,  Azure DNS,  Azure Front Door, Azure Information Protection,  Azure IoT Hub,  Azure Import/Export ,  Azure Key Vault,  Azure Monitor,  Azure Portal,  Azure Resource Manager (ARM),  Azure Security Center,  Azure Service Manager (RDFE),  Azure Site Recovery,  Backup,  Batch,  Cloud Services,  Event Hubs,  ExpressRoute,  Flow,  HDInsight,  Intune, Load Balancer,  Log Analytics,  Logic Apps,  Media Services,  Microsoft Stream,  Multi-factor Authentication (MFA),  MySQL ,  Network Watcher,  Notification Hubs,  Postgre SQL,  Power BI,  Redis Cache,  Scheduler,  Service Bus,  Service Fabric,  SQL Data Warehouse,  SQL Database,  Storage (Blobs, Disks, Files, Queues, Tables),  Stream Analytics,  Traffic Manager,  Virtual Machines Scale Sets,  Virtual Machines,  Virtual Network,  VPN Gateway,  Web Apps (App Service) and supporting infrastructure and platform services.",
+        "CSO_Description": "Microsoft Azure Commercial Cloud is an open and flexible cloud platform that enables customers to quickly build, test, deploy, and manage their applications, services, and product development across a network of Microsoft-managed datacenters within the United States. The Microsoft Azure platform exports savings to the customer by delivering the software, platform, and IT infrastructure resources where and when it is needed via the Internet.  Microsoft Azure provides a multi-tenant public cloud services platform that offers functionality to support capacities such as Platform as a Service (PaaS), and Infrastructure as a Service (IaaS) cloud service models.  Azure maintains a P-ATO at the Moderate Impact Level.  Azure was the first public cloud with IaaS and PaaS services to receive a JAB P-ATO.\n\nFor additional information, visit the (Azure Trust Center)[https://www.microsoft.com/en-us/TrustCenter/Compliance/default.aspx] or refer to Azure FedRAMP Package ID# F1209051525.\n\nThe following Microsoft services are FedRAMP Authorized and approved by the JAB at the Moderate Impact Level: API Management,  Application Gateway,  Application Insights,  Automation,  Azure Active Directory (AAD) Free,  Azure Active Directory (AAD) Premium P1 + P2, Azure Bot Service, Azure Cosmos DB,  Azure DNS,  Azure Front Door, Azure Information Protection,  Azure IoT Hub,  Azure Import/Export ,  Azure Key Vault,  Azure Language Understanding, Azure Machine Learning Service, Azure Monitor,  Azure Portal,  Azure Resource Manager (ARM), Azure Search, Azure Security Center,  Azure Service Manager (RDFE),  Azure Site Recovery,  Backup,  Batch,  Cloud Services, Cognitive Services, Computer Vision, Content Moderator, Custom Vision, Event Hubs,  ExpressRoute,  Face, Flow,  HDInsight,  Intune, Load Balancer,  Log Analytics,  Logic Apps,  Media Services,  Microsoft Stream,  Multi-factor Authentication (MFA),  MySQL ,  Network Watcher,  Notification Hubs,  Postgre SQL,  Power BI, QnA Maker, Redis Cache,  Scheduler,  Service Bus,  Service Fabric,  Speech Services, SQL Data Warehouse,  SQL Database,  Storage (Blobs, Disks, Files, Queues, Tables),  Stream Analytics,  Text Analytics, Traffic Manager, Translator Text, Video Indexer, Virtual Machines Scale Sets,  Virtual Machines, Virtual Network, VPN Gateway, Web Apps (App Service), Windows Defender Advanced Threat Protection, and supporting infrastructure and platform services.",
         "Announcement_Date": "2016-06-21T04:00:00.000Z",
         "CSP_POC_Name": "Microsoft Azure FedRAMP Requests",
         "CSP_POC_Email": "AzureFedRAMP@microsoft.com",
@@ -8931,7 +8931,7 @@
         "Cloud_Service_Provider_Name": "Veritone, Inc.",
         "Cloud_Service_Provider_Package": "aiWARE Government",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "FR1804557312",
         "Service_Model": [
           "SaaS"
@@ -9649,7 +9649,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Everlaw",
+        "Cloud_Service_Provider_Name": "Everlaw, Inc.",
         "Cloud_Service_Provider_Package": "Everlaw",
         "Path": "Agency",
         "Designation": "In Process",
@@ -10390,6 +10390,30 @@
         "CSP_POC_Name": "Palantir FedRAMP Team",
         "CSP_POC_Email": "fedramp@palantir.com",
         "FedRAMP_In-Process_Date": "2019-02-14T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Palo Alto Networks, Inc.",
+        "Cloud_Service_Provider_Package": "Palo Alto Networks Government Cloud Services - Traps - Endpoint Protection and Response",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1913470600",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Federal Housing Finance Agency",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/cncs_1.png",
+        "Authorizing_Agency": "Federal Housing Finance Agency",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Palo%20Alto%20Logo.jpg",
+        "Independent_Assessor": "TBD",
+        "CSP_Website": "www.paloaltonetworks.com",
+        "CSO_Description": "Palo Alto Networks Traps endpoint protection and response stops threats and coordinates enforcement with network and cloud security to prevent successful cyberattacks. Traps blocks known and unknown malware, exploits, and ransomware by observing attack techniques and behaviors. Additionally, it enables organizations to automatically detect and respond to sophisticated attacks by using machine learning and artificial intelligence (AI) techniques from data collected on the endpoint, network, and cloud.",
+        "CSP_POC_Name": "Jake Bajic",
+        "CSP_POC_Email": "fedramp@paloaltonetworks.com",
+        "FedRAMP_In-Process_Date": "2019-03-14T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
