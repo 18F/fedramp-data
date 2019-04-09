@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-04-08T04:40:51.257Z",
+    "Created_At": "2019-04-09T04:40:50.455Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -676,6 +676,15 @@
             "Independent_Assessor": "Coalfire Systems, Inc."
           },
           {
+            "Letter_Expiration_Date": "2020-07-27T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-07-27T04:00:00.000Z",
+            "Authorizing_Agency": "Office of Personnel Management",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
             "Letter_Date": "2018-09-14T04:00:00.000Z",
             "Letter_Expiration_Date": "2021-09-25T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-09-25T04:00:00.000Z",
@@ -1346,6 +1355,15 @@
             "Independent_Assessor": "Dynamics Research Corporation"
           },
           {
+            "Letter_Date": "2016-09-21T04:00:00.000Z",
+            "Letter_Expiration_Date": "2019-09-21T04:00:00.000Z",
+            "Authorizing_Agency": "Office of Personnel Management",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Dynamics Research Corporation"
+          },
+          {
             "Letter_Date": "2017-07-21T04:00:00.000Z",
             "Letter_Expiration_Date": "2020-04-11T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2017-07-21T04:00:00.000Z",
@@ -1824,7 +1842,7 @@
         "CSP_Website": "http://www.saic.com/services-solutions/technology-solutions/cloud/",
         "CSO_Description": "SAIC is a premier technology integration company providing full life-cycle services and solutions in enterprise information technology for federal agencies. We bring a wide range of services to the cloud transformation market, including SAIC Cloud Infrastructure Service, our FedRAMP-compliant secure public cloud platform. A fully hosted and managed Infrastructure-as-a-Service (IaaS), the service is available through a subscription-based OPEX model. \n\nSAIC Cloud Infrastructure Service meets FedRAMP’s stringent compliance standards as a result of evolving national security and procurement policies and the growing threats to our nation’s cybersecurity. The solution encompasses managed firewall, endpoint, proxy, and other security services while maintaining integrity of sensitive data and delivering the highest levels of compute performance in a highly secure cloud environment.\n\nSAIC Cloud Infrastructure Service is part of SAIC’s broad portfolio of cloud assessment, engineering, integration, operations, and managed services solutions. Granted a Provisional Authority to Operate (P-ATO) from FedRAMP’s Joint Authorization Board (JAB), and headquartered in Reston, Virginia, SAIC has a proven history of delivering effective technology solutions to government customers, understanding their unique budget challenges and operational impacts with our deep federal domain knowledge.  ",
         "Announcement_Date": "2016-01-08T05:00:00.000Z",
-        "CSP_POC_Name": "Coby Holloway",
+        "CSP_POC_Name": "Matt Livingston",
         "CSP_POC_Email": "fedramp@saic.com",
         "FedRAMP_In-Process_Date": "2014-07-08T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
@@ -8191,6 +8209,36 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Distributed Solutions, Inc.",
+        "Cloud_Service_Provider_Package": "AEON",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1805752046",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2018-09-28T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Justice",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+        "Authorizing_Agency": "Department of Justice",
+        "Authorizing_Subagency": "Office of Justice Programs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/DSI%20Logo.jpg",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Underlying_CSP_Package_ID": [
+          "FR1805752046"
+        ],
+        "CSP_Website": "www.distributedinc.com",
+        "CSO_Description": "AEON is a powerful business process automation and management Software as a Service (SaaS) developed by Distributed Solutions, Inc. (DSI) that solves complex business process needs across the Government. AEON has been successfully deployed for Program Office Management, Project Budgeting and Planning, Document Generation, Complete Acquisition Lifecycle Management, Contract Writing, Invoice and Deliverable Tracking, Grants and Audit Management, Vendor Engagement, and Collaboration Portals.\n\nAEON solutions provide no-code dynamic configurations, rapid implementation, and on-demand customer business process change. AEON’s sophisticated modern software design enables seamless version upgrades guaranteed to maintain business process continuity and integration survivability while delivering new features. The AEON SaaS eliminates stovepipes across an enterprise by delivering common data standards, business processing rules, collaboration, and shared integrations; this design facilitates cost-effective scaling of multiple solutions on the same platform.\n\nAEON automates and modernizes business offices through the agile implementation of customer best practices, unique policies, Federal regulations (FAR/DFARS), stakeholder collaboration, digital signatures, workflows, evaluations, and other process management needs. Data can be accessed for real-time decision-making, business intelligence, interactive dashboards, and executive reporting.\n\nAvailable as an end-to-end solution, AEON is also capable of assisting customers seeking to improve their business process while maximizing existing investments in technology and human capital. AEON can leverage current customer environments to fill known gaps in legacy business tools and deliver significant process improvements.  \n\nDSI’s AEON software platform is built on the Microsoft stack for industry leading technology, performance, security, and maintenance. DSI partners with Project Hosts to deliver the AEON Solution in a FedRAMP compliant cloud hosted on Microsoft’s world-class Azure Government infrastructure.",
+        "Announcement_Date": "2019-04-08T04:00:00.000Z",
+        "CSP_POC_Name": "AEON SaaS Team",
+        "CSP_POC_Email": "aeonsaas@distributedinc.com",
+        "FedRAMP_In-Process_Date": "2018-05-24T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "GitHub",
         "Cloud_Service_Provider_Package": "GitHub Enterprise Cloud",
         "Path": "Agency",
@@ -9548,31 +9596,6 @@
         "CSP_POC_Name": "Cameron Hass",
         "CSP_POC_Email": "Boomi_sales_fed@dell.com",
         "FedRAMP_In-Process_Date": "2019-03-13T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Distributed Solutions, Inc.",
-        "Cloud_Service_Provider_Package": "AEON",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1805752046",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Justice",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
-        "Authorizing_Agency": "Department of Justice",
-        "Authorizing_Subagency": "Office of Justice Programs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/DSI%20Logo.jpg",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "CSP_Website": "www.distributedinc.com",
-        "CSO_Description": "AEON is a powerful business process automation and management Software as a Service (SaaS) developed by Distributed Solutions, Inc. (DSI) that solves complex business process needs across the Government. AEON has been successfully deployed for Program Office Management, Project Budgeting and Planning, Document Generation, Complete Acquisition Lifecycle Management, Contract Writing, Invoice and Deliverable Tracking, Grants and Audit Management, Vendor Engagement, and Collaboration Portals.\n\nAEON solutions provide no-code dynamic configurations, rapid implementation, and on-demand customer business process change. AEON’s sophisticated modern software design enables seamless version upgrades guaranteed to maintain business process continuity and integration survivability while delivering new features. The AEON SaaS eliminates stovepipes across an enterprise by delivering common data standards, business processing rules, collaboration, and shared integrations; this design facilitates cost-effective scaling of multiple solutions on the same platform.\n\nAEON automates and modernizes business offices through the agile implementation of customer best practices, unique policies, Federal regulations (FAR/DFARS), stakeholder collaboration, digital signatures, workflows, evaluations, and other process management needs. Data can be accessed for real-time decision-making, business intelligence, interactive dashboards, and executive reporting.\n\nAvailable as an end-to-end solution, AEON is also capable of assisting customers seeking to improve their business process while maximizing existing investments in technology and human capital. AEON can leverage current customer environments to fill known gaps in legacy business tools and deliver significant process improvements.  \n\nDSI’s AEON software platform is built on the Microsoft stack for industry leading technology, performance, security, and maintenance. DSI partners with Project Hosts to deliver the AEON Solution in a FedRAMP compliant cloud hosted on Microsoft’s world-class Azure Government infrastructure.",
-        "CSP_POC_Name": "AEON SaaS Team",
-        "CSP_POC_Email": "aeonsaas@distributedinc.com",
-        "FedRAMP_In-Process_Date": "2018-05-24T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
