@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-04-11T04:40:50.630Z",
+    "Created_At": "2019-04-12T04:40:50.308Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -6893,7 +6893,9 @@
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": [
           {
-            "Authorizing_Letter_Last_Sign_Date": "2018-12-05T05:00:00.000Z",
+            "Letter_Date": "2019-04-01T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-04-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-04-01T04:00:00.000Z",
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Defense Information Systems Agency",
             "Agency_POC": "Coming Soon",
@@ -8056,7 +8058,7 @@
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Date": "2015-10-14T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-06-18T04:00:00.000Z",
             "Authorizing_Agency": "Department of Agriculture",
             "Authorizing_Subagency": "United States Forest Service",
             "Agency_POC": "Coming Soon",
@@ -8208,7 +8210,7 @@
         "Cloud_Service_Provider_Name": "Distributed Solutions, Inc.",
         "Cloud_Service_Provider_Package": "AEON",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "FR1805752046",
         "Service_Model": [
           "SaaS"
@@ -8713,6 +8715,16 @@
             "Authorizing_Agency": "Federal Trade Commission",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN"
+          },
+          {
+            "Letter_Date": "2019-04-10T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-01-15T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-04-10T04:00:00.000Z",
+            "Authorizing_Agency": "United States House of Representatives",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/House%20of%20Reps%20Logo.jpg",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN"
           }
@@ -9362,31 +9374,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "BroadSoft Inc.",
-        "Cloud_Service_Provider_Package": "BroadSoft Government Cloud",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "F1509107286",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "United States Senate",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Senate%20Logo.jpg",
-        "Authorizing_Agency": "United States Senate",
-        "Authorizing_Subagency": "Office of the Sergeant at Arms",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Broadsoft%20Logo.jpg",
-        "Independent_Assessor": "Kratos SecureInfo",
-        "CSP_Website": "www.broadsoft.com",
-        "CSO_Description": "BroadSoft Government Cloud is a comprehensive cloud-based Unified Communications (UCaaS) solution designed specifically to address the telecommunication and collaboration and needs of government agencies. Ranging from basic voice telephone services to high-definition multipoint video and mobile integration, BroadSoft Government Cloud redefines workplace efficiency in the public sector. Staff can be instantly available via desk phone, PC, tablet or mobile phone, while working from virtually anywhere.",
-        "CSP_POC_Name": "Burke Daidy",
-        "CSP_POC_Email": "fedramp@broadsoft.com",
-        "FedRAMP_In-Process_Date": "2017-07-28T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Broadcom",
         "Cloud_Service_Provider_Package": "General Support Systems (GSS)",
         "Path": "Agency",
@@ -9981,17 +9968,13 @@
         "Cloud_Service_Provider_Name": "Ivanti",
         "Cloud_Service_Provider_Package": "Ivanti Service Manager",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "FedRAMP Ready",
         "Package_ID": "FR1816364586",
         "Service_Model": [
           "SaaS"
         ],
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Defense",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-        "Authorizing_Agency": "Department of Defense",
-        "Authorizing_Subagency": "Defense Health Agency",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Ivanti%20Logo.jpg",
         "Independent_Assessor": "Kratos SecureInfo",
         "CSP_Website": "https://www.ivanti.com/",
@@ -9999,7 +9982,6 @@
         "CSP_POC_Name": "Brian Ortega",
         "CSP_POC_Email": "security@ivanti.com",
         "Fedramp_Ready_Date": "2018-09-05T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2018-04-05T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -10673,30 +10655,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Replicon",
-        "Cloud_Service_Provider_Package": "Replicon Cloud Platform",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "F1606087903",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Agriculture",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-        "Authorizing_Agency": "Department of Agriculture",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Replicon%20Logo.jpg",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "CSP_Website": "www.replicon.com",
-        "CSO_Description": "Replicon Inc. provides cloud time tracking applications including timesheet and expense management software, using SaaS, for automating employee time tracking, project time tracking, expense tracking and resource scheduling. ",
-        "CSP_POC_Name": "Alfred Wong",
-        "CSP_POC_Email": "alfred.wong@replicon.com",
-        "FedRAMP_In-Process_Date": "2016-06-08T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Relocation Management Worldwide (RMW)",
         "Cloud_Service_Provider_Package": "Virtual Employee Relocation Network (VERN™)",
         "Path": "Agency",
@@ -11225,29 +11183,6 @@
         "CSP_POC_Name": "Heather Brooks",
         "CSP_POC_Email": "fedramp@xtec.com",
         "FedRAMP_In-Process_Date": "2018-04-26T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Zendesk Inc.",
-        "Cloud_Service_Provider_Package": "Zendesk",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1821856903",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Li-SaaS",
-        "Sponsoring_Agency": "General Services Administration",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-        "Authorizing_Agency": "General Services Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Zendesk%20Logo.jpg",
-        "CSP_Website": "https://www.zendesk.com",
-        "CSO_Description": "Zendesk is a cloud-based customer service platform, designed for companies that want to build customer relationships that are more meaningful, personal, and productive. Zendesk strives to bring businesses and customers closer together by enabling companies to provide great support and mature with self-service and proactive engagement. It is designed to be easy to use, customize, and scale.",
-        "CSP_POC_Name": "Chris Weiskirch",
-        "CSP_POC_Email": "fedramp@zendesk.com",
-        "FedRAMP_In-Process_Date": "2018-05-09T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
