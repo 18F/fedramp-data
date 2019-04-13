@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-04-12T04:40:50.308Z",
+    "Created_At": "2019-04-13T04:40:50.189Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1465,6 +1465,16 @@
             "Authorizing_Agency": "Federal Deposit Insurance Corporation",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Dynamics Research Corporation"
+          },
+          {
+            "Letter_Expiration_Date": "2019-07-05T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-07-05T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "United States Mint",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Dynamics Research Corporation"
           },
@@ -10698,6 +10708,30 @@
         "CSP_POC_Name": "David Greetham",
         "CSP_POC_Email": "ediscoverysales@ricoh-usa.com",
         "Fedramp_Ready_Date": "2017-12-20T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Sentinel Labs, Inc.",
+        "Cloud_Service_Provider_Package": "SentinelOne Endpoint Protection Platform and ActiveEDR",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1919071020",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Low",
+        "Sponsoring_Agency": "Office of Personnel Management",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
+        "Authorizing_Agency": "Office of Personnel Management",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Sentinel%20One%20Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "https://www.sentinelone.com/",
+        "CSO_Description": "The SentinelOne Endpoint Protection Platform (EPP) and Active Detection & Response (ActiveEDR) Solutions provide comprehensive endpoint malware protection, detection and remediation against all types of malware attacks against all operating systems, including autonomous threat detection and response.  The Solutions are driven by a number of Artificial Intelligence (AI) engines which allow for autonomous, constantly improving detection of known as well as previously unknown malware. The Solutions are offered in Software as a Service (SaaS) architecture with very simple, fully supported implementation and configuration, and can be installed and protect all types of endpoint devices including laptops, desktops and servers. ",
+        "CSP_POC_Name": "Efraim Harari",
+        "CSP_POC_Email": "fedramp@sentinelone.com",
+        "FedRAMP_In-Process_Date": "2019-04-10T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
