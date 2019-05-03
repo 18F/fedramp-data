@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-05-02T04:40:49.940Z",
+    "Created_At": "2019-05-03T04:40:50.101Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -6198,16 +6198,6 @@
             "Independent_Assessor": "Coalfire Systems, Inc."
           },
           {
-            "Letter_Date": "2016-04-27T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-04-26T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-05-12T04:00:00.000Z",
-            "Authorizing_Agency": "United States Agency for International Development",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          },
-          {
             "Letter_Date": "2017-02-17T05:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Institute of Standards and Technology",
@@ -6224,6 +6214,16 @@
             "Authorizing_Subagency": "Los Alamos National Laboratory",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2018-08-07T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-08-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-08-07T04:00:00.000Z",
+            "Authorizing_Agency": "United States Agency for International Development",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           },
@@ -9315,7 +9315,7 @@
         "Cloud_Service_Provider_Name": "Avaya, Inc.",
         "Cloud_Service_Provider_Package": "Avaya Cloud Secure",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "F1506046708",
         "Service_Model": [
           "SaaS"
@@ -9330,6 +9330,7 @@
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "https://www.avaya.com/en/fedramp",
         "CSO_Description": "Avaya Cloud Secure is a government community collaboration environment delivering mobility, voice, video, web, chat, presence, conferencing, voicemail, contextual collaboration, and a rich communication experience.\n\nThe solution is a dedicated Unified Communication (UC) cloud offering. Each agency is provided their own individual instance on a virtual platform that provides a highly customizable, reliable and secure environment.\n\nAvaya Cloud Secure provides a cloud solution for all real time communication needs that enable agencies to support their missions expediently and efficiently.",
+        "Announcement_Date": "2019-04-29T04:00:00.000Z",
         "CSP_POC_Name": "Patrick Goins",
         "CSP_POC_Email": "fedramp@avaya.com",
         "Fedramp_Ready_Date": "2017-12-11T05:00:00.000Z",
@@ -9777,6 +9778,7 @@
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
+        "Original_Expiration_Date": "2022-04-11T04:00:00.000Z",
         "Sponsoring_Agency": "Department of State",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
         "Authorizing_Agency": "Department of State",
