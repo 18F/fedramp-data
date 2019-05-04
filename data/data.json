@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-05-03T04:40:50.101Z",
+    "Created_At": "2019-05-04T04:40:50.114Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3032,56 +3032,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "VASCO",
-        "Cloud_Service_Provider_Package": "eSignLive, E-Signature and Digital Signature Service by Project Hosts",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1828848692",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2016-08-30T04:00:00.000Z",
-        "Sponsoring_Agency": "General Services Administration",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-        "Authorizing_Agency": "General Services Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/eSignLiveVasco%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1209051525"
-        ],
-        "CSP_Website": "www.projecthosts.com",
-        "CSO_Description": "VASCO’s eSignLive has been helping government organizations move to paperless signing since 1997, making it the longest standing electronic signature solution in the U.S. Federal Government. As the first e-signature and digital transaction management solution granted ATO under FedRAMP, eSignLive helps digitize and automate manual, paper-based processes in support of the government’s digital transformation efforts.\n\neSignLive features include templates, workflow automation, mobile and offline signing, transaction management and comprehensive audit trails. eSignLive also meets the government’s stringent authentication requirements with out-of-the-box support for signing with government-issued Common Access Cards (CAC), PIV smart cards and derived credentials.\n\nOur proven FedRAMP authorized solution in used by the U.S. Census Bureau, U.S. Small Business Administration (SBA), USDA Natural Resources Conservation Service (NRCS), GSA and many others. The FedRAMP Program Management Office (PMO) itself also uses our platform to sign off on internal authorizations.\n\neSignLive partners with Cloud Services Provider, Project Hosts, to deliver its e-signature solution in a FedRAMP compliant cloud hosted on Microsoft’s world-class Azure cloud infrastructure.\n\nMore information about eSignLive can be found here: [https://www.esignlive.com/fedramp/](https://www.esignlive.com/fedramp/)",
-        "Announcement_Date": "2016-08-30T04:00:00.000Z",
-        "CSP_POC_Name": "Scott Chapman",
-        "CSP_POC_Email": "info@projecthosts.com",
-        "FedRAMP_In-Process_Date": "2014-11-20T05:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2016-11-02T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-11-02T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "United States Census Bureau",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          },
-          {
-            "Letter_Expiration_Date": "2021-10-06T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-10-16T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Agriculture",
-            "Authorizing_Subagency": "Animal and Plant Health Inspection Service",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "IBM",
         "Cloud_Service_Provider_Package": "Cloud Managed Services for Government - DoD",
         "Path": "Agency",
@@ -5250,6 +5200,13 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Kratos SecureInfo"
+          },
+          {
+            "Authorizing_Agency": "Nuclear Regulatory Commission",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Kratos SecureInfo"
           }
         ]
       },
@@ -6874,6 +6831,13 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRTIB%20Logo.jpg",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Authorizing_Agency": "Nuclear Regulatory Commission",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
           }
         ]
       },
@@ -8391,6 +8355,57 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "OneSpan Inc.",
+        "Cloud_Service_Provider_Package": "OneSpan Sign, E-Signature and Digital Signature Service by Project Hosts",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1828848692",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2018-10-16T04:00:00.000Z",
+        "Original_Expiration_Date": "2021-10-06T04:00:00.000Z",
+        "Sponsoring_Agency": "General Services Administration",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+        "Authorizing_Agency": "Department of Agriculture",
+        "Authorizing_Subagency": "Animal and Plant Health Inspection Service",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Onespan%20Logo2.jpg",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Underlying_CSP_Package_ID": [
+          "F1403283529"
+        ],
+        "CSP_Website": "www.projecthosts.com",
+        "CSO_Description": "OneSpan Sign has been helping government organizations move to paperless signing since 1997, making it the longest standing electronic signature solution in the U.S. Federal Government. As the first e-signature and digital transaction management solution granted ATO under FedRAMP, OneSpan Sign helps digitize and automate manual, paper-based processes in support of the government’s digital transformation efforts.\n\nOneSpan Sign features include templates, workflow automation, mobile and offline signing, transaction management and comprehensive audit trails. OneSpan Sign also meets the government’s stringent authentication requirements with out-of-the-box support for signing with government-issued Common Access Cards (CAC), PIV smart cards and derived credentials.\n\nOur proven FedRAMP authorized solution in used by the U.S. Census Bureau, U.S. Small Business Administration (SBA), USDA Natural Resources Conservation Service (NRCS), GSA and many others. The FedRAMP Program Management Office (PMO) itself also uses our platform to sign off on internal authorizations.\n\nOneSpan partners with Cloud Services Provider, Project Hosts, to deliver its e-signature solution in a FedRAMP compliant cloud hosted on Microsoft’s world-class Azure cloud infrastructure.\n\nMore information about OneSpan Sign can be found here: [https://www.esignlive.com/fedramp/](https://www.esignlive.com/fedramp/)",
+        "Announcement_Date": "2019-05-03T04:00:00.000Z",
+        "CSP_POC_Name": "Scott Chapman",
+        "CSP_POC_Email": "info@projecthosts.com",
+        "FedRAMP_In-Process_Date": "2018-07-23T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2016-08-17T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2016-08-30T04:00:00.000Z",
+            "Authorizing_Agency": "General Services Administration",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN"
+          },
+          {
+            "Letter_Date": "2016-11-02T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2016-11-02T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "United States Census Bureau",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "Asure Software",
         "Cloud_Service_Provider_Package": "Resource Scheduler Room and Real Estate Utilization",
         "Path": "Agency",
@@ -9790,31 +9805,6 @@
         "CSP_POC_Name": "Scott Beauregard",
         "CSP_POC_Email": "info@envisagenow.com",
         "FedRAMP_In-Process_Date": "2018-05-09T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "EPAY Systems",
-        "Cloud_Service_Provider_Package": "EPAY Time and Labor Management",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "F1609287948",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "United States Army",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US%20Army%20Logo.jpg",
-        "Authorizing_Agency": "United States Army",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/EPAY%20Systems%20Logo.jpg",
-        "Independent_Assessor": "Dakota Consulting, Inc.",
-        "CSP_Website": "www.EPAYsystems.com",
-        "CSO_Description": "EPAY System’s Blueforce SaaS (Software as a Service) application allows U.S federal, state, and local government customers to administer time and labor tracking of workforce installations around the globe using numerous interoperable data collection methods (Biometric Time clocks, GPS/Facial Smartphone tracking, Web Punch, and IVR).  The Blueforce application seamlessly integrates with EPAY’s HCM or other payroll providers and human resource applications to manage employee hours, pay rules, and labor compliance. Blueforce provides the following functionality:\n\n1. Time and Attendance:  Customizable employee tracking, scheduling, timesheet generation, budgets, reporting and email/SMS messaging and alerting.\n2. Timecard & Timesheet:  Collection of timekeeping data and corresponding pay rule timesheet processing as employee’s clock in and out for work. \n3. Payroll:  View employee payroll hours, timesheet submission workflow, and integration with payroll systems.",
-        "CSP_POC_Name": "Brian Nowicki",
-        "CSP_POC_Email": "fedramp@epaysystems.com",
-        "Fedramp_Ready_Date": "2017-03-21T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2017-06-08T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
