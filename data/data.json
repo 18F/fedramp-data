@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-05-07T04:40:50.091Z",
+    "Created_At": "2019-05-08T04:40:50.229Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1493,6 +1493,13 @@
             "Authorizing_Agency": "Department of Labor",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Dynamics Research Corporation"
+          },
+          {
+            "Authorizing_Agency": "Nuclear Regulatory Commission",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Dynamics Research Corporation"
           }
@@ -3270,21 +3277,21 @@
             "Independent_Assessor": "Coalfire Systems, Inc."
           },
           {
-            "Letter_Date": "2018-12-06T05:00:00.000Z",
-            "Letter_Expiration_Date": "2019-05-05T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Veterans Affairs",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          },
-          {
             "Letter_Date": "2018-10-31T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-12-20T05:00:00.000Z",
             "Authorizing_Agency": "Department of the Treasury",
             "Authorizing_Subagency": "Office of the Comptroller of the Currency",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2019-04-11T04:00:00.000Z",
+            "Letter_Expiration_Date": "2019-07-10T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
@@ -7158,20 +7165,20 @@
             "Independent_Assessor": "Kratos SecureInfo"
           },
           {
-            "Letter_Date": "2018-12-06T05:00:00.000Z",
-            "Letter_Expiration_Date": "2019-05-05T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Veterans Affairs",
-            "Agency_POC": "Coming Soon",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Kratos SecureInfo"
-          },
-          {
             "Letter_Date": "2019-02-13T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-02-13T05:00:00.000Z",
             "Authorizing_Agency": "United States International Trade Commission",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USITC%20Logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Kratos SecureInfo"
+          },
+          {
+            "Letter_Date": "2019-04-11T04:00:00.000Z",
+            "Letter_Expiration_Date": "2019-07-10T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Kratos SecureInfo"
           }
@@ -11140,13 +11147,15 @@
         "Cloud_Service_Provider_Name": "TeleTech (TTEC) Services Corporation",
         "Cloud_Service_Provider_Package": "Humanify Enterprise - Government (Humanify Enterprise - G)",
         "Path": "JAB",
-        "Designation": "FedRAMP Ready",
+        "Designation": "In Process",
         "Package_ID": "FR1907847653",
         "Service_Model": [
           "SaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/TTEC%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "https://www.ttec.com/industries/government-solutions",
@@ -11154,6 +11163,7 @@
         "CSP_POC_Name": "Kip James",
         "CSP_POC_Email": "FEDRAMPSOLUTIONS@TTEC.COM",
         "Fedramp_Ready_Date": "2019-02-13T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2019-05-07T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
