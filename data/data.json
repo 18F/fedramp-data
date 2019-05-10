@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-05-09T04:40:50.313Z",
+    "Created_At": "2019-05-10T04:40:49.989Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1125,7 +1125,7 @@
           "F1206131373"
         ],
         "CSP_Website": "https://software.microfocus.com/en-us/home",
-        "CSO_Description": "The HPE Fortify on Demand (FoD) for US Public Sector performs security assessments of application code and web site/web services testing without any software to install or manage. Static Code Scanning of code such as Java, .NET, and other major programming languages for security defects are performed in the FoD System at the code layer followed by an audit review by an HPE Static auditor. Dynamic Web Site and Web Services testing use HPE’s WebInspect software as the scan engine, followed by a review from an HPE Dynamic tester.",
+        "CSO_Description": "The Micro Focus Fortify on Demand (FoD) for US Public Sector performs security assessments of application code and web site/web services testing without any software to install or manage. Static Code Scanning of code such as Java, .NET and other major programming languages for security defects are performed in the FoD System at the code layer followed by an audit review by a Micro Focus Fortify Static auditor. Dynamic Web Site and Web Services testing use Micro Focus Fortify’s WebInspect software as the scan engine, followed by a review from a Micro Focus Fortify Dynamic tester.",
         "Announcement_Date": "2015-02-04T05:00:00.000Z",
         "CSP_POC_Name": "Patrick Query",
         "CSP_POC_Email": "Patrick.Query@microfocus.com",
@@ -6855,6 +6855,15 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2019-03-18T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-03-18T04:00:00.000Z",
+            "Authorizing_Agency": "Social Security Administration",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
           }
         ]
       },
@@ -7181,6 +7190,15 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Kratos SecureInfo"
+          },
+          {
+            "Letter_Date": "2019-03-28T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-03-28T04:00:00.000Z",
+            "Authorizing_Agency": "Social Security Administration",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Kratos SecureInfo"
           }
         ]
       },
@@ -7297,6 +7315,15 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/cncs_1.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2019-03-26T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-03-26T04:00:00.000Z",
+            "Authorizing_Agency": "Social Security Administration",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
           }
         ]
       },
@@ -7362,7 +7389,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Zscaler",
-        "Cloud_Service_Provider_Package": "Zscaler Private Access - Government (VPN Replacement)",
+        "Cloud_Service_Provider_Package": "Zscaler Private Access – Government (Zero Trust Networking – VPN Replacement)",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "FR1719759604",
@@ -8656,7 +8683,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Zscaler",
-        "Cloud_Service_Provider_Package": "Zscaler Internet Access - Government",
+        "Cloud_Service_Provider_Package": "Zscaler Internet Access – Government (Secure Web Gateway – vTIC)",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "FR1720454205",
@@ -10443,7 +10470,7 @@
         "Designation": "In Process",
         "Package_ID": "FR1900048743",
         "Service_Model": [
-          "IaaS"
+          "IaaS, PaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
@@ -10792,6 +10819,30 @@
         "CSP_POC_Name": "Bob Burke",
         "CSP_POC_Email": "fedramp@relocationmw.com",
         "FedRAMP_In-Process_Date": "2018-12-03T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Replicon",
+        "Cloud_Service_Provider_Package": "Replicon Cloud Platform",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "F1606087903",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Agriculture",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+        "Authorizing_Agency": "Department of Agriculture",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Replicon%20Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "www.replicon.com",
+        "CSO_Description": "Replicon Inc. provides cloud time tracking applications including timesheet and expense management software, using SaaS, for automating employee time tracking, project time tracking, expense tracking and resource scheduling. ",
+        "CSP_POC_Name": "Alfred Wong",
+        "CSP_POC_Email": "alfred.wong@replicon.com",
+        "FedRAMP_In-Process_Date": "2019-05-07T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -11234,7 +11285,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/VMware%20Logo.jpg",
         "Independent_Assessor": "Schellman & Company, LLC",
         "CSP_Website": "www.cloud.vmware.com/govcloud",
-        "CSO_Description": "VMware CloudTM on AWS GovCloud (US) brings VMware’s rich Software-Defined Data Center software to the AWS GovCloud (US) Region, and enables U.S public sector agencies to securely run production applications across VMware vSphere®-based private, public and hybrid cloud environments, with optimized access to AWS services. Jointly engineered by VMware and AWS, this on-demand service enables IT teams to seamlessly extend, migrate and manage their cloud-based resources with familiar VMware tools – without the hassles of learning new skills or utilizing new tools. VMware Cloud on AWS GovCloud (US) integrates VMware’s flagship compute, storage and network virtualization products (VMware vSphere®, VMware vSANTM and VMware NSX®) along with VMware vCenter® management as well as robust disaster protection, and optimizes it to run on dedicated, elastic, Amazon EC2 bare-metal infrastructure that is fully integrated as part of the AWS GovCloud (US). This service is delivered, sold and supported by VMware and its partners. With the same architecture and operational experience on-premises and in the cloud, IT teams can now quickly derive instant business value from use of the AWS and VMware hybrid cloud experience.",
+        "CSO_Description": "**VMC is currently FedRAMP Ready at the Moderate level and is In Process at the High level.**\n\nVMware CloudTM on AWS GovCloud (US) brings VMware’s rich Software-Defined Data Center software to the AWS GovCloud (US) Region, and enables U.S public sector agencies to securely run production applications across VMware vSphere®-based private, public and hybrid cloud environments, with optimized access to AWS services. Jointly engineered by VMware and AWS, this on-demand service enables IT teams to seamlessly extend, migrate and manage their cloud-based resources with familiar VMware tools – without the hassles of learning new skills or utilizing new tools. VMware Cloud on AWS GovCloud (US) integrates VMware’s flagship compute, storage and network virtualization products (VMware vSphere®, VMware vSANTM and VMware NSX®) along with VMware vCenter® management as well as robust disaster protection, and optimizes it to run on dedicated, elastic, Amazon EC2 bare-metal infrastructure that is fully integrated as part of the AWS GovCloud (US). This service is delivered, sold and supported by VMware and its partners. With the same architecture and operational experience on-premises and in the cloud, IT teams can now quickly derive instant business value from use of the AWS and VMware hybrid cloud experience.",
         "CSP_POC_Name": "Rahul Dubey",
         "CSP_POC_Email": "fedramp-vmc@vmware.com",
         "Fedramp_Ready_Date": "2019-03-18T04:00:00.000Z",
@@ -11430,7 +11481,7 @@
         "Name": "COACT, Inc.",
         "Accreditation_Date": "2016-08-23T04:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/COACT%20Logo.jpg",
-        "Description": "COACT, Inc. is a Service Disabled Veteran Owned Small Business. \n\nSince 1990, COACT has evolved into a leading provider of high-reliance Governance, Risk, and Compliance (GRC) services across multiple frameworks to include:  FISMA, FedRAMP, SOX, HIPAA, ISO 27001, NIST SP 800-53, and NIST SP 800-171. In addition, COACT uniquely provides cost-effective Direct Engineering Support, Cyber Forensics, and Accredited Independent Testing. COACT has been a participant in the FedRAMP program since its inception and was one of the original certified Third Party Assessment Organizations (3PAOs). The COACT team of security, forensic, and compliance professionals conducts assessment activities using a combination of functional expertise and operational experience to ensure a consistent, accurate, and timely assessment process. With a thorough understanding of the FedRAMP security controls and NIST Risk Management Framework (RMF) overall, COACT professionals provide the services needed to assist Cloud Service Providers (CSPs) in obtaining an Agency or Provisional Authority to Operate (ATO).",
+        "Description": "COACT, Inc. is a Service Disabled Veteran Owned Small Business (SDVOSB) that has evolved into a leading provider of high-reliance Governance, Risk, and Compliance (GRC) services across multiple compliance frameworks. For over 25 years, COACT has provided consulting, Independent Verification and Validation (IV&V), and assessment services to both government and commercial clients to guide them in understanding and fulfilling their risk management and compliance needs.\n\nThe COACT Lab is an independent test facility accredited by the National Voluntary Laboratory Accreditation Program (NVLAP) to perform FIPS 140-2 validations and SCAP 1.3 compliance testing. COACT also provides records management services and support, performs Operations and Maintenance (O&M) tasks, and supports commercial and government clients in achieving compliance with multiple compliance frameworks. \n\nOur tiered service offerings range from focused efforts to address specific security objectives, to providing full information security programs for clients in commercial, healthcare, regulatory, defense, and intelligence domains. With unrivaled ethics, COACT remains free from real or perceived conflicts of interest and does not engineer, manufacture, or resell any products.",
         "POC_Name": "Brandon Ghrist",
         "POC_Email": "info@coact.com",
         "website": "www.COACT.com/services/FedRAMP ",
@@ -11439,9 +11490,9 @@
         "Primary_Office_Locations": "9140 Guilford Rd, Suite N, Columbia, MD 21046",
         "FedRAMP_Assessed": "None",
         "Provide_Consulting_Services": "Y",
-        "Description_of_Consulting_Services": "COACT leverages its quality system when providing consulting services to CSPs that require immediate support to improve their information security program and develop the appropriate documentation in preparation for the FedRAMP assessment and authorization process. COACT analysts are able to assist CSPs in the various phases of the system development life cycle in addition to migration to the cloud, if needed. COACT can assist in a wide spectrum of services including requirements analysis and traceability at the onset of the process to ensure developers keep in mind adherence to FedRAMP security controls. COACT can also document control implementations in the FedRAMP templates and develop those documents for which templates are not available. ",
-        "Consulting_Services_To": "* Social Solutions Global\n* SpringCM",
-        "Additional_Cyber_Frameworks": "* Federal Information Security Management Act (FISMA) Consulting and Assessment\n* Sarbanes-Oxley (SOX) Section 404 Consulting and Assessments\n* ISO 27001:2013 Implementation and Assessments\n* HIPAA - Covered Entities and Associates\n* NIST SP 800-53 Consulting and Assessments\n* NIST SP 800-171 Consulting and Assessments\n* Digital Forensic Investigations\n* eDiscovery & Litigation Support"
+        "Description_of_Consulting_Services": "COACT leverages its quality system when providing consulting services to Cloud Service Providers (CSPs) that require immediate support to improve their information security program and develop the appropriate documentation in preparation for the FedRAMP assessment and authorization process. COACT analysts are able to assist CSPs in the various phases of the system development life cycle in addition to migration to the cloud, if needed. COACT can assist in a wide spectrum of services including requirements analyses and traceability during the onset of the authorization process to ensure developers maintain awareness and adhere to FedRAMP security requirements. In addition, COACT can develop the required FedRAMP system and security documentation needed prior to the assessment of a cloud system.",
+        "Consulting_Services_To": "* Social Solutions Global\n* SpringCM\n* OnSolve\n* Relocation Management Worldwide",
+        "Additional_Cyber_Frameworks": "* FISMA - Consulting and Assessments\n* HIPAA Compliance (Covered Entities and Associates) - Consulting and Assessments\n* NIST SP 800-53 Information Security Program Development and Enterprise Risk Assessments\n* NIST SP 800-171 (DFARS/FAR CUI) Compliance and Assessments\n* Limited Access Death Master File - Consulting and Assessments"
       },
       {
         "Name": "Coalfire Systems, Inc.",
