@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-05-10T04:40:49.989Z",
+    "Created_At": "2019-05-11T04:40:50.041Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1163,7 +1163,7 @@
           "AGENCYAMAZONEW"
         ],
         "CSP_Website": "www.huddle.com",
-        "CSO_Description": "Huddle provides cloud based online collaboration and document sharing solutions for users and businesses. Using a Software as a Service (SaaS) service model, Huddle combines Enterprise Content Management (ECM) and social software allowing companies and communities to collaborate flexibly.\r\nThe key functionality that the Huddle system provides is:\n\n - A web-based workspace area where teams of individuals can access their content \r\n - Hierarchical file storage with clean document preview    \r\n - Document workflow such as reviews, comments and version history   \r\n - Permissions models around folders so access can be restricted to specific teams \r\n - Creation and tracking of tasks assigned to members of the team, with automatic reminders \r\n - Instant note taking facility with mark-down formatting\r\n - Dashboard feature to provide a quick overview of activity within the team",
+        "CSO_Description": "Huddle provides cloud based online collaboration and document sharing solutions for users and businesses. Using a Software as a Service (SaaS) service model, Huddle combines Enterprise Content Management (ECM) and social software allowing companies and communities to collaborate flexibly.\nThe key functionality that the Huddle system provides is:\n\n - A web-based workspace area where teams of individuals can access their content \n - Hierarchical file storage with clean document preview    \n - Document workflow such as reviews, comments and version history   \n - Permissions models around folders so access can be restricted to specific teams \n - Creation and tracking of tasks assigned to members of the team, with automatic reminders \n - Instant note taking facility with mark-down formatting\n - Dashboard feature to provide a quick overview of activity within the team",
         "Announcement_Date": "2015-04-17T04:00:00.000Z",
         "CSP_POC_Name": "David Holman",
         "CSP_POC_Email": "fedramp@huddle.com",
@@ -9398,6 +9398,31 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "HireVue",
+        "Cloud_Service_Provider_Package": "Recruitment Assessments and Video Interviewing",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1831429369",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-03-12T04:00:00.000Z",
+        "Sponsoring_Agency": "Peace Corps",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Peace%20Corps%20Logo.jpg",
+        "Authorizing_Agency": "Peace Corps",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/HireVue%20Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "www.hirevue.com",
+        "CSO_Description": "HireVue helps global enterprises gain a competitive advantage in the modern talent marketplace with video interviewing software and recruitment assessments. The HireVue platform is transforming the way organizations discover, hire, and develop talent. By combining video interviews with predictive, validated I-O science and artificial intelligence.\n\nBased in South Jordan, Utah, HireVue works with more than 700 customers across government and commercial industry, powering millions of annual interviews in over 180 countries. To learn more, visit us at (www.hirevue.com)[www.hirevue.com].",
+        "CSP_POC_Name": "Josh Dustin",
+        "CSP_POC_Email": "fedramp@hirevue.com",
+        "FedRAMP_In-Process_Date": "2018-08-15T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Adobe",
         "Cloud_Service_Provider_Package": "Adobe Analytics",
         "Path": "Agency",
@@ -9827,6 +9852,26 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "e-Builder, Inc.",
+        "Cloud_Service_Provider_Package": "e-Builder Enterprise Government Edition",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "F1603307884",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/eBuilder%20Logo.jpg",
+        "Independent_Assessor": "The Cadence Group",
+        "CSP_Website": "www.e-builder.net",
+        "CSO_Description": "e-Builder is a cloud-based, construction program management solution for capital projects that delivers trusted insight into performance across the entire project lifecycle. Facility owners improve project outcomes by streamlining business processes and centralizing project information. Business intelligence provides on-demand forecasts for informed decisions, improved change control and fewer unwanted surprises.\n\nDesigned to help facility owners, and those who act on their behalf, throughout the entire construction lifecycle, e-Builder Enterprise combines capital planning, cost management and controls, process automation, reports and dashboards, scheduling, document management, resource management and bid management in one integrated suite.\n\nEstablished in 1995, e-Builder’s software is used to manage key project data through the planning, design, procurement, and construction phases. With a focus on collaborative communication, e-Builder features modules that offer various levels of user accessibility, report generation and a configurable dashboard.",
+        "CSP_POC_Name": "Rafael Santos",
+        "CSP_POC_Email": "fedramp@e-builder.net",
+        "Fedramp_Ready_Date": "2019-05-08T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Envisage Technologies, LLC",
         "Cloud_Service_Provider_Package": "Acadis Readiness Suite",
         "Path": "Agency",
@@ -10060,30 +10105,6 @@
         "CSP_POC_Name": "Gary Fitzgerald",
         "CSP_POC_Email": "fedramp@gpsinsight.com",
         "Fedramp_Ready_Date": "2018-06-15T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "HireVue",
-        "Cloud_Service_Provider_Package": "Recruitment Assessments and Video Interviewing",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1831429369",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Peace Corps",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Peace%20Corps%20Logo.jpg",
-        "Authorizing_Agency": "Peace Corps",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/HireVue%20Logo.jpg",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "CSP_Website": "www.hirevue.com",
-        "CSO_Description": "HireVue helps global enterprises gain a competitive advantage in the modern talent marketplace with video interviewing software and recruitment assessments. The HireVue platform is transforming the way organizations discover, hire, and develop talent. By combining video interviews with predictive, validated I-O science and artificial intelligence.\n\nBased in South Jordan, Utah, HireVue works with more than 700 customers across government and commercial industry, powering millions of annual interviews in over 180 countries. To learn more, visit us at (www.hirevue.com)[www.hirevue.com].",
-        "CSP_POC_Name": "Josh Dustin",
-        "CSP_POC_Email": "fedramp@hirevue.com",
-        "FedRAMP_In-Process_Date": "2018-08-15T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -11283,7 +11304,7 @@
         "Authorizing_Agency": "Department of Justice",
         "Authorizing_Subagency": "United States Marshals Service",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/VMware%20Logo.jpg",
-        "Independent_Assessor": "Schellman & Company, LLC",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.cloud.vmware.com/govcloud",
         "CSO_Description": "**VMC is currently FedRAMP Ready at the Moderate level and is In Process at the High level.**\n\nVMware CloudTM on AWS GovCloud (US) brings VMware’s rich Software-Defined Data Center software to the AWS GovCloud (US) Region, and enables U.S public sector agencies to securely run production applications across VMware vSphere®-based private, public and hybrid cloud environments, with optimized access to AWS services. Jointly engineered by VMware and AWS, this on-demand service enables IT teams to seamlessly extend, migrate and manage their cloud-based resources with familiar VMware tools – without the hassles of learning new skills or utilizing new tools. VMware Cloud on AWS GovCloud (US) integrates VMware’s flagship compute, storage and network virtualization products (VMware vSphere®, VMware vSANTM and VMware NSX®) along with VMware vCenter® management as well as robust disaster protection, and optimizes it to run on dedicated, elastic, Amazon EC2 bare-metal infrastructure that is fully integrated as part of the AWS GovCloud (US). This service is delivered, sold and supported by VMware and its partners. With the same architecture and operational experience on-premises and in the cloud, IT teams can now quickly derive instant business value from use of the AWS and VMware hybrid cloud experience.",
         "CSP_POC_Name": "Rahul Dubey",
