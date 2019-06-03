@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-06-02T04:40:50.320Z",
+    "Created_At": "2019-06-03T04:40:50.445Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -11248,6 +11248,26 @@
         "CSP_POC_Name": "Splunk FedRAMP Team",
         "CSP_POC_Email": "Fedramp-Cloud@splunk.com",
         "FedRAMP_In-Process_Date": "2018-06-18T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Sumo Logic",
+        "Cloud_Service_Provider_Package": "Sumo Logic.fed",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR1918740338",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Sumo%20Logic%20Logo.jpg",
+        "Independent_Assessor": "Kratos SecureInfo",
+        "CSP_Website": "https://www.sumologic.com/public-sector/",
+        "CSO_Description": "Sumo Logic provides a cloud-based log management and machine data analytics service that uses an elastic infrastructure for ingesting, managing, and analyzing large volumes of audit log data from any application, cloud, server, network device or sensors. Sumo Logic is also used as a security incident and event management (SIEM) tool by organizations supplying customized real-time dashboards and automated alerting.",
+        "CSP_POC_Name": "Ben Baldi",
+        "CSP_POC_Email": "Public-sector@sumologic.com",
+        "Fedramp_Ready_Date": "2018-05-31T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
