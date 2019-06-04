@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-06-03T14:41:29.506Z",
+    "Created_At": "2019-06-04T04:40:50.129Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2736,7 +2736,6 @@
           },
           {
             "Letter_Date": "2017-04-08T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-06-15T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2017-04-08T04:00:00.000Z",
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Defense Information Systems Agency",
@@ -4184,7 +4183,6 @@
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Expiration_Date": "2019-06-30T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2016-06-22T04:00:00.000Z",
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Defense Information Systems Agency",
@@ -9507,7 +9505,7 @@
         "Authorizing_Agency": "Department of Health and Human Services",
         "Authorizing_Subagency": "Centers for Disease Control and Prevention",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Adobe%20Logo.jpg",
-        "Independent_Assessor": "Kratos SecureInfo",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.adobe.com/analytics/adobe-analytics.html",
         "CSO_Description": "Adobe Analytics ingests targeted website traffic and executes robust reporting and analytics based on customizable configurations. An array of functionality is available including custom dashboards, ad-hoc analytics, Microsoft Excel integration, bulk data import, data enrichment, tag management and data integrations between Adobe and select partners. Data can be exported for external purposes or integrated with other Adobe products to enrich existing datasets.",
         "CSP_POC_Name": "Brandon Griffeth",
@@ -9556,7 +9554,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
         "Authorizing_Agency": "Department of Veterans Affairs",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Adobe%20Logo.jpg",
-        "Independent_Assessor": "Kratos SecureInfo",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.adobe.com",
         "CSO_Description": "Adobe Captivate Prime is a cloud hosted Learning Management System that allows enterprise Learning and Development teams to drive personalized learning experiences for the employees and partners of their organization, across multiple devices.",
         "CSP_POC_Name": "Brandon Griffeth",
@@ -9636,6 +9634,26 @@
         "CSP_POC_Name": "Kenney Sharpton II",
         "CSP_POC_Email": "fedramp@armedia.com",
         "FedRAMP_In-Process_Date": "2018-04-11T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Axway, Inc.",
+        "Cloud_Service_Provider_Package": "Syncplicity Federal Government",
+        "Designation": "Fedramp Ready",
+        "Package_ID": "FR1727552755",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Axway%20Syncplicity%20Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "https://www.syncplicity.com/ ",
+        "CSO_Description": "Syncplicity by Axway (AMPLIFY Content Collaboration) is a secure, enterprise-grade file synchronization, sharing and collaboration platform that helps companies build a digital workplace that integrates with their digital business. It provides enterprises and organizations of all sizes and their users with access to all of their files across all of their devices and provides a secure way to share content and improve collaboration across teams and organizations internally and externally while the business maintains heightened security, compliance and audit over their data.",
+        "CSP_POC_Name": "Brian Levine",
+        "CSP_POC_Email": "fedramp@axway.com ",
+        "Fedramp_Ready_Date": "2019-05-31T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
@@ -11253,7 +11271,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Sumo Logic",
-        "Cloud_Service_Provider_Package": "Sumo Logic.fed",
+        "Cloud_Service_Provider_Package": "Sumo Logic",
         "Designation": "FedRAMP Ready",
         "Package_ID": "FR1918740338",
         "Service_Model": [
@@ -11267,7 +11285,7 @@
         "CSO_Description": "Sumo Logic provides a cloud-based log management and machine data analytics service that uses an elastic infrastructure for ingesting, managing, and analyzing large volumes of audit log data from any application, cloud, server, network device or sensors. Sumo Logic is also used as a security incident and event management (SIEM) tool by organizations supplying customized real-time dashboards and automated alerting.",
         "CSP_POC_Name": "Ben Baldi",
         "CSP_POC_Email": "Public-sector@sumologic.com",
-        "Fedramp_Ready_Date": "2018-05-31T04:00:00.000Z",
+        "Fedramp_Ready_Date": "2019-05-31T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
