@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-06-11T04:40:49.851Z",
+    "Created_At": "2019-06-12T04:40:50.416Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3312,6 +3312,15 @@
             "Authorizing_Agency": "Department of Veterans Affairs",
             "Agency_POC": "Coming Soon",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2019-06-10T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Internal Revenue Service",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
@@ -7427,7 +7436,18 @@
         "Fedramp_Ready_Date": "2018-05-01T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2017-12-19T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Expiration_Date": "2021-08-02T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-06-07T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Centers for Disease Control and Prevention",
+            "Agency_POC": "Coming Soon",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Schellman & Company, LLC"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "NetComm",
@@ -10378,7 +10398,7 @@
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.hackerone.com",
         "CSO_Description": "HackerOne is a multi-tenant Vulnerability Disclosure and crowdsourced Bug Bounty platform.  Organizations rely on HackerOne to detect unknown security vulnerabilities in public-facing systems as well as sensitive assets that are not publicly disclosed. This is done by giving customers access to the world’s largest community of  crowdsourced security researchers. Researchers then conduct remote, internet based, crowdsourced vulnerability discovery and disclosure services against internet-accessible assets, including public-facing websites, networks, systems, and applications.",
-        "CSP_POC_Name": "Scott McCormick",
+        "CSP_POC_Name": "Reed Loden",
         "CSP_POC_Email": "fedramp@hackerone.com",
         "FedRAMP_In-Process_Date": "2019-05-08T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
@@ -11015,6 +11035,30 @@
         "CSP_POC_Name": "Proofpoint Security Awareness Training",
         "CSP_POC_Email": "sat-fedramp@proofpoint.com",
         "FedRAMP_In-Process_Date": "2019-03-27T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "QGenda, LLC",
+        "Cloud_Service_Provider_Package": "QGenda",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1924942935",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Li-SaaS",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/QGenda%20Logo.jpg",
+        "Independent_Assessor": "The Cadence Group",
+        "CSP_Website": "www.QGenda.com/Federal",
+        "CSO_Description": "QGenda is the leader in [https://www.qgenda.com/customers/federal/](cloud-based call) and scheduling automation. Leading physician groups, hospitals, academic medical centers, and enterprise health systems use QGenda to optimize their workforce to allow them to provide the best possible patient care. ",
+        "CSP_POC_Name": "Rajpal Sagoo",
+        "CSP_POC_Email": "Federal@qgenda.com",
+        "FedRAMP_In-Process_Date": "2019-06-04T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
