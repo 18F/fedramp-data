@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-06-13T04:40:49.982Z",
+    "Created_At": "2019-06-14T04:40:50.032Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4875,8 +4875,8 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Skyhigh",
-        "Cloud_Service_Provider_Package": "Cloud Access Security Broker for Government",
+        "Cloud_Service_Provider_Name": "McAfee",
+        "Cloud_Service_Provider_Package": "MVision Cloud",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "F1506096710",
@@ -4889,16 +4889,16 @@
         "Sponsoring_Agency": "Department of Commerce",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
         "Authorizing_Agency": "Department of Commerce",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Skyhigh%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/McAfee%20Logo.jpg",
         "Independent_Assessor": "Kratos SecureInfo",
         "Underlying_CSP_Package_ID": [
           "F1603047866"
         ],
-        "CSP_Website": "www.skyhighnetworks.com",
-        "CSO_Description": "Skyhigh Cloud Access Security Broker for Government provides a Software as a Service (SaaS) offering which helps agencies gain visibility into their cloud usage and risks, meet compliance requirements, enforce security policies, and detect and respond to potential threats.\n\nUsing Skyhigh, agencies can:\n\n* Discover all shadow cloud services employees use in place of agency-approved services and their risk\n* Coach users on appropriate use of cloud services in real time and enforce risk-based access policies\n* Detect and respond to data exfiltration, insider threats, and compromised accounts in cloud environments\n* Perform forensic investigations with a complete audit trail of all user activity in the cloud\n* Identify sensitive or regulated data in motion or at rest and enforce data loss prevention (DLP) policies\n* Encrypt structured and unstructured data in the cloud using agency-controlled encryption keys",
+        "CSP_Website": "https://www.mcafee.com/enterprise/en-us/products/mvision-cloud.html",
+        "CSO_Description": "McAfee MVision Cloud is a cloud-native Cloud Access Security Broker (CASB) which enables agencies to accelerate their journey to the cloud by enabling visibility and protection of their data. \n\nUsing MVision Cloud, agencies can:\n\n* **Detect:** Gain complete visibility into data, context, and user behavior across all cloud services, users, and devices.\n* **Protect:** Take real-time action to enforce policies across cloud services and apply persistent data protection.\n* **Correct:** Remediate security threats by eliminating security misconfigurations and correcting high-risk user activities.\n\nSample agency use cases are:\n\n* Understand cloud services in use and their risk profile\n* Enforce data loss prevention (DLP) policies across data in the cloud\n* Prevent unauthorized sharing of sensitive data to the wrong people\n* Block sync/download of corporate data to personal devices\n* Detect compromised accounts, insider threats, and malware\n* Encrypt data in the cloud using agency-controlled encryption keys\n* Audit and tighten the security settings of cloud services",
         "Announcement_Date": "2017-11-16T05:00:00.000Z",
         "CSP_POC_Name": "Thyag Thyagarajan",
-        "CSP_POC_Email": "fedrampinfo@skyhighnetworks.com",
+        "CSP_POC_Email": "fedrampinfo_skyhigh@mcafee.com",
         "Fedramp_Ready_Date": "2016-04-20T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2017-03-31T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
@@ -9849,13 +9849,18 @@
       {
         "Cloud_Service_Provider_Name": "BlackBerry",
         "Cloud_Service_Provider_Package": "BlackBerry Government Mobility Suite",
-        "Designation": "FedRAMP Ready",
+        "Path": "Agency",
+        "Designation": "In Process",
         "Package_ID": "FR1921944861",
         "Service_Model": [
           "SaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Homeland Security ",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+        "Authorizing_Agency": "Department of Homeland Security",
+        "Authorizing_Subagency": "Immigration and Customs Enforcement",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/BlackBerry%20Logo.jpg",
         "Independent_Assessor": "Kratos SecureInfo",
         "CSP_Website": "https://www.blackberry.com",
@@ -9863,6 +9868,7 @@
         "CSP_POC_Name": "Rashad Munawar",
         "CSP_POC_Email": "bbfedcompliance@blackberry.com",
         "Fedramp_Ready_Date": "2019-05-15T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2019-06-13T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
