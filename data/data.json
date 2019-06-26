@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-06-25T04:40:50.179Z",
+    "Created_At": "2019-06-26T04:40:50.116Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -886,7 +886,8 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Appian%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW"
+          "AGENCYAMAZONEW",
+          "F1603047866"
         ],
         "CSP_Website": "www.appian.com",
         "CSO_Description": "Appian delivers an enterprise platform for digital transformation that enables agencies to revolutionize their constituent experience, optimize their operations, and enforce compliance initiatives. Powered by industry leading Business Process Management (BPM) and Case Management capabilities, Appian’s low-code approach can radically accelerate the time it takes to build and deploy powerful, modern applications in the cloud.",
@@ -2467,14 +2468,6 @@
             "Independent_Assessor": "Coalfire Systems, Inc."
           },
           {
-            "Letter_Date": "2016-09-16T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Authorizing_Subagency": "National Nuclear Security Administration / Lawrence Livermore National Laboratory",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          },
-          {
             "Letter_Date": "2017-02-14T05:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "United States Census Bureau",
@@ -2642,6 +2635,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2019-03-12T04:00:00.000Z",
             "Authorizing_Agency": "Federal Trade Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2019-05-22T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "National Nuclear Security Administration / Lawrence Livermore National Laboratory",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
@@ -6040,45 +6041,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Workiva",
-        "Cloud_Service_Provider_Package": "Wdesk",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1726564822",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Li-SaaS (Moderate In Process)",
-        "Original_Authorization_Date": "2018-06-12T04:00:00.000Z",
-        "Sponsoring_Agency": "Tennessee Valley Authority",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-TennesseeValleyAuthority-Logo.png",
-        "Authorizing_Agency": "Tennessee Valley Authority",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Workiva%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW",
-          "FR1805751477"
-        ],
-        "CSP_Website": "https://www.workiva.com/",
-        "CSO_Description": "Workiva delivers Wdesk, an intuitive cloud platform that modernizes how people work within\r\nthousands of organizations, including over 70 percent of the Fortune 500®.\n\nWdesk is built upon a data management engine, offering controlled collaboration, data integration,\r\ngranular permissions and a full audit trail. Wdesk helps mitigate risk, improves productivity and gives\r\nusers confidence in their data-driven decisions.\n\nComplex reports made easy— our customers create and connect data and narrative to consolidate and\r\npublish financial, performance, and regulatory reports. We provide confidence in the numbers and\r\nenable pride in the delivery.\n\nCompliance made simple— streamline documentation, testing, and reporting in a connected\r\nenvironment. Manage risk assessments, evidence requests, issues, and findings with real-time reports\r\nand dashboards.\n\nConnect your documents and data at enterprise scale in a collaborative work management platform.\r\nImport documents, sync with Excel®, or connect Wdesk to your ERP, CRM, or other operational\r\nsystems. Wdesk is built for the way you work.\n\r\nTrust your data from beginning to end. Wdesk can be used across every department to create a single\r\nsource of data for multiple business processes.",
-        "Announcement_Date": "2018-06-22T04:00:00.000Z",
-        "CSP_POC_Name": "Jeff Bivens",
-        "CSP_POC_Email": "fedramp@workiva.com",
-        "FedRAMP_In-Process_Date": "2018-03-01T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2019-03-07T05:00:00.000Z",
-            "Letter_Expiration_Date": "2020-10-05T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-03-07T05:00:00.000Z",
-            "Authorizing_Agency": "General Services Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Avue Technologies",
         "Cloud_Service_Provider_Package": "Avue Digital Services ",
         "Path": "Agency",
@@ -6135,6 +6097,74 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Workiva",
+        "Cloud_Service_Provider_Package": "Wdesk",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1726564822",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Li-SaaS (Moderate In Process)",
+        "Original_Authorization_Date": "2018-06-12T04:00:00.000Z",
+        "Sponsoring_Agency": "Tennessee Valley Authority",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-TennesseeValleyAuthority-Logo.png",
+        "Authorizing_Agency": "Tennessee Valley Authority",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Workiva%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "FR1805751477"
+        ],
+        "CSP_Website": "https://www.workiva.com/",
+        "CSO_Description": "Workiva delivers Wdesk, an intuitive cloud platform that modernizes how people work within\r\nthousands of organizations, including over 70 percent of the Fortune 500®.\n\nWdesk is built upon a data management engine, offering controlled collaboration, data integration,\r\ngranular permissions and a full audit trail. Wdesk helps mitigate risk, improves productivity and gives\r\nusers confidence in their data-driven decisions.\n\nComplex reports made easy— our customers create and connect data and narrative to consolidate and\r\npublish financial, performance, and regulatory reports. We provide confidence in the numbers and\r\nenable pride in the delivery.\n\nCompliance made simple— streamline documentation, testing, and reporting in a connected\r\nenvironment. Manage risk assessments, evidence requests, issues, and findings with real-time reports\r\nand dashboards.\n\nConnect your documents and data at enterprise scale in a collaborative work management platform.\r\nImport documents, sync with Excel®, or connect Wdesk to your ERP, CRM, or other operational\r\nsystems. Wdesk is built for the way you work.\n\r\nTrust your data from beginning to end. Wdesk can be used across every department to create a single\r\nsource of data for multiple business processes.",
+        "Announcement_Date": "2018-06-22T04:00:00.000Z",
+        "CSP_POC_Name": "Jeff Bivens",
+        "CSP_POC_Email": "fedramp@workiva.com",
+        "FedRAMP_In-Process_Date": "2018-03-01T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2019-03-07T05:00:00.000Z",
+            "Letter_Expiration_Date": "2020-10-05T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-03-07T05:00:00.000Z",
+            "Authorizing_Agency": "General Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "TalaTek, LLC",
+        "Cloud_Service_Provider_Package": "Enterprise Compliance Management Solution (ECMS)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1712036920",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2018-06-26T04:00:00.000Z",
+        "Original_Expiration_Date": "2019-06-26T04:00:00.000Z",
+        "Sponsoring_Agency": "Pension Benefit Guaranty Corporation",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
+        "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/TalaTek%20Logo2.jpg",
+        "Independent_Assessor": "EmeSec Incorporated",
+        "Underlying_CSP_Package_ID": [
+          "FR1833967442"
+        ],
+        "CSP_Website": "www.talatek.com",
+        "CSO_Description": "TalaTek’s ECMS efficiently provides cost-effective ‘Security as a Service’ and Compliance Risk Management. ECMS uses a Governance, Risk Management and Compliance (GRC) application to meet NIST Special Publications 800-37, 800-39, 800-53 and 800-137 guidelines for effective Continuous Monitoring and implementation of the NIST Risk Management Framework (RMF).",
+        "Announcement_Date": "2018-02-13T05:00:00.000Z",
+        "CSP_POC_Name": "N/A",
+        "CSP_POC_Email": "info@talatek.com",
+        "FedRAMP_In-Process_Date": "2017-01-24T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Esri",
         "Cloud_Service_Provider_Package": "ArcGIS Online (AGO)",
         "Path": "Agency",
@@ -6172,35 +6202,6 @@
             "Independent_Assessor": "Mars Technology"
           }
         ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "TalaTek, LLC",
-        "Cloud_Service_Provider_Package": "Enterprise Compliance Management Solution (ECMS)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1712036920",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2018-06-26T04:00:00.000Z",
-        "Original_Expiration_Date": "2019-06-26T04:00:00.000Z",
-        "Sponsoring_Agency": "Pension Benefit Guaranty Corporation",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
-        "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/TalaTek%20Logo2.jpg",
-        "Independent_Assessor": "EmeSec Incorporated",
-        "Underlying_CSP_Package_ID": [
-          "FR1833967442"
-        ],
-        "CSP_Website": "www.talatek.com",
-        "CSO_Description": "TalaTek’s ECMS efficiently provides cost-effective ‘Security as a Service’ and Compliance Risk Management. ECMS uses a Governance, Risk Management and Compliance (GRC) application to meet NIST Special Publications 800-37, 800-39, 800-53 and 800-137 guidelines for effective Continuous Monitoring and implementation of the NIST Risk Management Framework (RMF).",
-        "Announcement_Date": "2018-02-13T05:00:00.000Z",
-        "CSP_POC_Name": "N/A",
-        "CSP_POC_Email": "info@talatek.com",
-        "FedRAMP_In-Process_Date": "2017-01-24T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "Qualtrics",
@@ -6348,34 +6349,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Valimail",
-        "Cloud_Service_Provider_Package": "Valimail Enforce Platform",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1817874315",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Li-SaaS",
-        "Original_Authorization_Date": "2018-07-18T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Commerce",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-        "Authorizing_Agency": "Department of Commerce",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Valimail%20Logo2.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW"
-        ],
-        "CSP_Website": "https://www.valimail.com/solutions-for-government/",
-        "CSO_Description": "The Valimail Enforce platform provides automated monitoring and enforcement of Domain-based Message Authentication, Reporting & Conformance (DMARC). DMARC enforcement protects government domains from fraudulent use, and is required for federal agencies under the Department of Homeland Security Binding Operational Directive (BOD) 18-01.\n\nThe Department of Homeland Security’s BOD 18-01 mandates that federal agencies deploy DMARC at enforcement by October 16, 2018. An enforcement policy directs receiving mail servers to reject all non-authorized emails using those domains, eliminating phishers’ ability to impersonate those agencies by using their domains in fraudulent email messages.\n\nValimail provides DMARC monitoring, SPF management, and DMARC enforcement in a FedRAMP environment to support government domains that need to rapidly deploy, configure, and maintain DMARC enforcement and comply with DHS BOD 18-01. ",
-        "Announcement_Date": "2018-08-02T04:00:00.000Z",
-        "CSP_POC_Name": "Benn Stratton",
-        "CSP_POC_Email": "fedramp@valimail.com",
-        "FedRAMP_In-Process_Date": "2018-04-13T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Everbridge",
         "Cloud_Service_Provider_Package": "Everbridge Suite",
         "Path": "Agency",
@@ -6448,6 +6421,34 @@
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
         ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Valimail",
+        "Cloud_Service_Provider_Package": "Valimail Enforce Platform",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1817874315",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Li-SaaS",
+        "Original_Authorization_Date": "2018-07-18T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Commerce",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+        "Authorizing_Agency": "Department of Commerce",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Valimail%20Logo2.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
+        "CSP_Website": "https://www.valimail.com/solutions-for-government/",
+        "CSO_Description": "The Valimail Enforce platform provides automated monitoring and enforcement of Domain-based Message Authentication, Reporting & Conformance (DMARC). DMARC enforcement protects government domains from fraudulent use, and is required for federal agencies under the Department of Homeland Security Binding Operational Directive (BOD) 18-01.\n\nThe Department of Homeland Security’s BOD 18-01 mandates that federal agencies deploy DMARC at enforcement by October 16, 2018. An enforcement policy directs receiving mail servers to reject all non-authorized emails using those domains, eliminating phishers’ ability to impersonate those agencies by using their domains in fraudulent email messages.\n\nValimail provides DMARC monitoring, SPF management, and DMARC enforcement in a FedRAMP environment to support government domains that need to rapidly deploy, configure, and maintain DMARC enforcement and comply with DHS BOD 18-01. ",
+        "Announcement_Date": "2018-08-02T04:00:00.000Z",
+        "CSP_POC_Name": "Benn Stratton",
+        "CSP_POC_Email": "fedramp@valimail.com",
+        "FedRAMP_In-Process_Date": "2018-04-13T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "TRAPWIRE",
@@ -6690,6 +6691,34 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Xerox Corporation",
+        "Cloud_Service_Provider_Package": "Managed Print Services for US Federal Government",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "FR1730334049",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2018-09-10T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Xerox%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1301091856"
+        ],
+        "CSP_Website": "www.xerox.com",
+        "CSO_Description": "Xerox Managed Print Services (MPS) for US Federal Government is a cloud-based MPS solution developed specifically to help U.S. federal government agencies maximize productivity and security and reduce waste and risk.\r\n\r\nThe Xerox solution is the holistic and efficient management for Xerox and Non-Xerox printing/imaging devices such as printers, fax machines, copiers and multi-function devices.\r\n \r\nMPS focuses on the management of print output devices themselves, related supplies and service requirements.  MPS ensures proactive management resulting in maximum device uptime, device utilization/optimization, while providing flexible print capabilities and print policy management.",
+        "Announcement_Date": "2018-09-10T04:00:00.000Z",
+        "CSP_POC_Name": "Eric Wolf",
+        "CSP_POC_Email": "fedramp@xerox.com",
+        "Fedramp_Ready_Date": "2017-08-14T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2018-04-17T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "The Arcanum Group Inc.",
         "Cloud_Service_Provider_Package": "Integrated Logistics Management System",
         "Path": "Agency",
@@ -6716,34 +6745,6 @@
         "CSP_POC_Name": "Jason Zimmer",
         "CSP_POC_Email": "info@thearcanumgroup.com",
         "FedRAMP_In-Process_Date": "2014-12-08T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Xerox Corporation",
-        "Cloud_Service_Provider_Package": "Managed Print Services for US Federal Government",
-        "Path": "JAB",
-        "Designation": "Compliant",
-        "Package_ID": "FR1730334049",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2018-09-10T04:00:00.000Z",
-        "Sponsoring_Agency": "JAB Authorization",
-        "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Xerox%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1301091856"
-        ],
-        "CSP_Website": "www.xerox.com",
-        "CSO_Description": "Xerox Managed Print Services (MPS) for US Federal Government is a cloud-based MPS solution developed specifically to help U.S. federal government agencies maximize productivity and security and reduce waste and risk.\r\n\r\nThe Xerox solution is the holistic and efficient management for Xerox and Non-Xerox printing/imaging devices such as printers, fax machines, copiers and multi-function devices.\r\n \r\nMPS focuses on the management of print output devices themselves, related supplies and service requirements.  MPS ensures proactive management resulting in maximum device uptime, device utilization/optimization, while providing flexible print capabilities and print policy management.",
-        "Announcement_Date": "2018-09-10T04:00:00.000Z",
-        "CSP_POC_Name": "Eric Wolf",
-        "CSP_POC_Email": "fedramp@xerox.com",
-        "Fedramp_Ready_Date": "2017-08-14T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2018-04-17T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -6816,72 +6817,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Oracle",
-        "Cloud_Service_Provider_Package": "Enterprise Planning and Budgeting Cloud Services a component of Oracle Enterprise Performance Management (EPM)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1607077914",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Low",
-        "Original_Authorization_Date": "2018-06-26T04:00:00.000Z",
-        "Sponsoring_Agency": "Federal Deposit Insurance Corporation",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
-        "Authorizing_Agency": "Federal Deposit Insurance Corporation",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1508277234"
-        ],
-        "CSP_Website": "www.oracle.com",
-        "CSO_Description": "PBCS is a flexible planning application based on Oracle Hyperion Planning that supports enterprise wide planning, budgeting, and forecasting in a cloud-based deployment model. It provides a rich Web and Microsoft Office enabled planning and modeling framework that supports driver based planning to help connect operational assumptions to financial outcomes.\n\nAgencies should be aware that while the entire EPM suite was addressed in the authorization package, assessed by the Third Party Assessment Organization (3PAO), and was reviewed by the FedRAMP PMO, the scope of the initial authorization/Authorization to Operate (ATO) is limited to the Enterprise Planning and Budgeting Cloud Service (EPBCS), which is the  component of the EPM suite being used by the initial authorizing agency.  Other Agencies may authorize any individual component(s) of the EPM suite or the entire EPM suite, as desired, for their own particular use/mission requirements.",
-        "Announcement_Date": "2018-09-26T04:00:00.000Z",
-        "CSP_POC_Name": "AJ Handy",
-        "CSP_POC_Email": "saas_compliance_ww_grp@oracle.com",
-        "FedRAMP_In-Process_Date": "2016-10-12T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2019-05-01T04:00:00.000Z",
-            "Authorizing_Agency": "Nuclear Regulatory Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "CircleCI",
-        "Cloud_Service_Provider_Package": "CircleCI Cloud",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1814240140",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Li-SaaS",
-        "Original_Authorization_Date": "2018-09-24T04:00:00.000Z",
-        "Original_Expiration_Date": "2021-09-24T04:00:00.000Z",
-        "Sponsoring_Agency": "Small Business Administration",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SmallBusinessAdmin-Seal.png",
-        "Authorizing_Agency": "Small Business Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CircleCi%20Logo.jpg",
-        "Independent_Assessor": "The Cadence Group",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW",
-          "FR1805751477"
-        ],
-        "CSP_Website": "https://circleci.com/",
-        "CSO_Description": "CircleCI is a highly configurable and powerful continuous integration and delivery platform that helps software teams confidently and securely release code by automating the build, test, and deploy process.  Our cloud offering removes operational overhead as we oversee the setup, security, and maintenance of your continuous integration instances. \n \nWith easy setup and configuration-as-code, CircleCI removes bottlenecks, allowing teams to focus on building great things, instead of waiting for great things to build. By enabling shorter iteration cycles and immediate feedback, innovation happens faster. The platform helps developers and QA find bugs and get fixes out quickly.   Operations teams use CircleCI to simplify their tool chains without having to manage additional plugins and services.  \n\nScale is where [https://circleci.com](https://circleci.com) really shines.  We're proud to support our customers, from small startups to the largest enterprises and government agencies on earth.  ",
-        "Announcement_Date": "2018-09-26T04:00:00.000Z",
-        "CSP_POC_Name": "Chris Calkin",
-        "CSP_POC_Email": "government@circleci.com",
-        "FedRAMP_In-Process_Date": "2018-04-17T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "CrowdStrike, Inc.",
         "Cloud_Service_Provider_Package": "Falcon Platform",
         "Path": "Agency",
@@ -6949,6 +6884,72 @@
         "CSP_POC_Name": "Laurel Fielding",
         "CSP_POC_Email": "fedramp@netcomm.net",
         "FedRAMP_In-Process_Date": "2015-09-06T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Oracle",
+        "Cloud_Service_Provider_Package": "Enterprise Planning and Budgeting Cloud Services a component of Oracle Enterprise Performance Management (EPM)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1607077914",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Low",
+        "Original_Authorization_Date": "2018-06-26T04:00:00.000Z",
+        "Sponsoring_Agency": "Federal Deposit Insurance Corporation",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
+        "Authorizing_Agency": "Federal Deposit Insurance Corporation",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1508277234"
+        ],
+        "CSP_Website": "www.oracle.com",
+        "CSO_Description": "PBCS is a flexible planning application based on Oracle Hyperion Planning that supports enterprise wide planning, budgeting, and forecasting in a cloud-based deployment model. It provides a rich Web and Microsoft Office enabled planning and modeling framework that supports driver based planning to help connect operational assumptions to financial outcomes.\n\nAgencies should be aware that while the entire EPM suite was addressed in the authorization package, assessed by the Third Party Assessment Organization (3PAO), and was reviewed by the FedRAMP PMO, the scope of the initial authorization/Authorization to Operate (ATO) is limited to the Enterprise Planning and Budgeting Cloud Service (EPBCS), which is the  component of the EPM suite being used by the initial authorizing agency.  Other Agencies may authorize any individual component(s) of the EPM suite or the entire EPM suite, as desired, for their own particular use/mission requirements.",
+        "Announcement_Date": "2018-09-26T04:00:00.000Z",
+        "CSP_POC_Name": "AJ Handy",
+        "CSP_POC_Email": "saas_compliance_ww_grp@oracle.com",
+        "FedRAMP_In-Process_Date": "2016-10-12T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2019-05-01T04:00:00.000Z",
+            "Authorizing_Agency": "Nuclear Regulatory Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "CircleCI",
+        "Cloud_Service_Provider_Package": "CircleCI Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1814240140",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Li-SaaS",
+        "Original_Authorization_Date": "2018-09-24T04:00:00.000Z",
+        "Original_Expiration_Date": "2021-09-24T04:00:00.000Z",
+        "Sponsoring_Agency": "Small Business Administration",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SmallBusinessAdmin-Seal.png",
+        "Authorizing_Agency": "Small Business Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CircleCi%20Logo.jpg",
+        "Independent_Assessor": "The Cadence Group",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "FR1805751477"
+        ],
+        "CSP_Website": "https://circleci.com/",
+        "CSO_Description": "CircleCI is a highly configurable and powerful continuous integration and delivery platform that helps software teams confidently and securely release code by automating the build, test, and deploy process.  Our cloud offering removes operational overhead as we oversee the setup, security, and maintenance of your continuous integration instances. \n \nWith easy setup and configuration-as-code, CircleCI removes bottlenecks, allowing teams to focus on building great things, instead of waiting for great things to build. By enabling shorter iteration cycles and immediate feedback, innovation happens faster. The platform helps developers and QA find bugs and get fixes out quickly.   Operations teams use CircleCI to simplify their tool chains without having to manage additional plugins and services.  \n\nScale is where [https://circleci.com](https://circleci.com) really shines.  We're proud to support our customers, from small startups to the largest enterprises and government agencies on earth.  ",
+        "Announcement_Date": "2018-09-26T04:00:00.000Z",
+        "CSP_POC_Name": "Chris Calkin",
+        "CSP_POC_Email": "government@circleci.com",
+        "FedRAMP_In-Process_Date": "2018-04-17T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -9316,7 +9317,7 @@
         "CSO_Description": "The Canon Office Cloud will provide Federal Government customers with secure managed print services.",
         "CSP_POC_Name": "Jack Winters",
         "CSP_POC_Email": "fedramp@cusa.canon.com",
-        "FedRAMP_In-Process_Date": "2019-05-17T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2019-06-25T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
