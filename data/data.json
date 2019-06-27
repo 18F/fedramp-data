@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-06-26T04:40:50.116Z",
+    "Created_At": "2019-06-27T04:40:50.072Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2104,6 +2104,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2019-02-21T05:00:00.000Z",
             "Authorizing_Agency": "Department of Labor",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2019-05-10T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-05-10T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-05-10T04:00:00.000Z",
+            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
@@ -5719,14 +5728,6 @@
             "Independent_Assessor": "Coalfire Systems, Inc."
           },
           {
-            "Letter_Date": "2017-09-22T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-09-22T04:00:00.000Z",
-            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          },
-          {
             "Letter_Date": "2017-02-14T05:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Institute of Standards and Technology",
@@ -5937,6 +5938,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2019-06-07T04:00:00.000Z",
             "Authorizing_Agency": "United States International Trade Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USITC%20Logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2019-05-10T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-05-10T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-05-10T04:00:00.000Z",
+            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
@@ -6953,35 +6963,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Slack Technologies",
-        "Cloud_Service_Provider_Package": "Slack",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1823447014",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Li-SaaS",
-        "Original_Authorization_Date": "2018-10-01T04:00:00.000Z",
-        "Sponsoring_Agency": "General Services Administration",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-        "Authorizing_Agency": "General Services Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Slack%20Logo2.jpg",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW",
-          "FR1805751477"
-        ],
-        "CSP_Website": "https://slack.com/",
-        "CSO_Description": "Slack is the collaboration hub that brings the right people together with all the right information and tools to get work done. Launched in 2014, Slack is the fastest-growing business application in history. Millions of people around the world use Slack to connect their teams, unify their systems, and drive their business forward. From Fortune 100 companies to corner markets, Slack helps people communicate better.",
-        "Announcement_Date": "2018-10-01T04:00:00.000Z",
-        "CSP_POC_Name": "Nick Hardy",
-        "CSP_POC_Email": "fedramp@slack-corp.com",
-        "FedRAMP_In-Process_Date": "2018-05-25T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "DNAnexus, Inc.",
         "Cloud_Service_Provider_Package": "DNAnexus Platform",
         "Path": "Agency",
@@ -7809,7 +7790,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/ORock%20Technologies%20Logo.jpg",
         "Independent_Assessor": "Schellman & Company, LLC",
         "CSP_Website": "http://orocktech.com",
-        "CSO_Description": "ORockCloud is the first and only Red Hat® OpenStack-based cloud to achieve a FedRAMP Moderate authorization for IaaS and PaaS. This secure, open source cloud provides a highly scalable, bi-coastal environment with elastic, on-demand access to computing, storage, virtualization, networking, performance monitoring, and applications in ORock’s service catalog.\n\nAs a Red Hat Premier Certified Cloud and Service Provider (CCSP), ORock Technologies architected ORockCloud as a “pure-play” Red Hat cloud and incorporated a full suite of open source solutions for enhanced flexibility, interoperability, security, and control.  The Red Hat Cloud Suite includes: Red Hat Enterprise Linux; Red Hat OpenStack Platform; Red Hat Virtualization; Red Hat Ceph Storage; Red Hat CloudForms; Red Hat Ansible Tower; Red Hat Satellite; and all associated cloud APIs. \n\nORockCloud utilizes ORock’s private, carrier-grade, fiber optic backbone network with dedicated connectivity between all points of presence and no upstream CSP to maximize security, autonomy, and performance. Managed services are provided entirely by U.S. citizens in a U.S.-based NOC and SOC.\n\nORock Technologies is a small business cloud service provider (CSP) serving enterprise customers in defense, government, and highly regulated industries. ORock’s secure IaaS and cloud solutions enable a range of hosting, migration, backup/recovery, connectivity, and mobility initiatives while supporting FedRAMP authorization and lowering total cost of ownership for government and commercial enterprises.\n\nAdditional information is available at  [http://orocktech.com](http://orocktech.com). ",
+        "CSO_Description": "ORockCloud is the first and only Red Hat® OpenStack-based cloud to achieve a FedRAMP Moderate authorization for IaaS and PaaS. This secure, open source cloud provides a highly scalable, bi-coastal environment with elastic, on-demand access to computing, storage, virtualization, networking, performance monitoring, and applications in ORock’s service catalog.\n\nAs a Red Hat Premier Certified Cloud and Service Provider (CCSP), ORock Technologies architected ORockCloud as a “pure-play” Red Hat cloud and incorporated a full suite of open source solutions for enhanced flexibility, interoperability, security, and control. The Red Hat Cloud Suite includes: Red Hat Enterprise Linux; Red Hat OpenStack Platform; Red Hat OpenShift, Red Hat Virtualization; Red Hat Ceph Storage; Red Hat CloudForms; Red Hat Ansible Tower; Red Hat Satellite; and all associated cloud APIs.\n\nORockCloud utilizes ORock’s private, carrier-grade, fiber optic backbone network with dedicated connectivity between all points of presence and no upstream CSP to maximize security, autonomy, and performance. Managed services are provided entirely by U.S. citizens in a U.S.-based NOC and SOC.\n\nORock Technologies is a small business cloud service provider (CSP) serving enterprise customers in defense, government, and highly regulated industries. ORock’s secure IaaS and cloud solutions enable a range of hosting, migration, backup/recovery, connectivity, and mobility initiatives while supporting FedRAMP authorization and lowering total cost of ownership for government and commercial enterprises.\n\nAdditional information is available at  [http://orocktech.com](http://orocktech.com). ",
         "Announcement_Date": "2018-06-27T04:00:00.000Z",
         "CSP_POC_Name": "John Conniff",
         "CSP_POC_Email": "fedramp@orocktech.com",
@@ -8025,7 +8006,16 @@
         "CSP_POC_Name": "Andrew Lee",
         "CSP_POC_Email": "FedRAMP-AssetManagement@wwpdl.vnet.ibm.com",
         "FedRAMP_In-Process_Date": "2018-05-29T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2019-06-06T04:00:00.000Z",
+            "Authorizing_Agency": "Judicial Branch",
+            "Authorizing_Subagency": "Administrative Office of the United States Courts",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US%20Courts%20Logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Veritone, Inc.",
@@ -8716,6 +8706,15 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Kratos SecureInfo"
+          },
+          {
+            "Letter_Date": "2019-05-10T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-05-10T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-05-10T04:00:00.000Z",
+            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Kratos SecureInfo"
           }
         ]
       },
@@ -8973,6 +8972,35 @@
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
         ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Slack Technologies",
+        "Cloud_Service_Provider_Package": "Slack",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1823447014",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Li-SaaS",
+        "Original_Authorization_Date": "2018-10-01T04:00:00.000Z",
+        "Sponsoring_Agency": "General Services Administration",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+        "Authorizing_Agency": "General Services Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Slack%20Logo2.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "FR1805751477"
+        ],
+        "CSP_Website": "https://slack.com/",
+        "CSO_Description": "Slack is the collaboration hub that brings the right people together with all the right information and tools to get work done. Launched in 2014, Slack is the fastest-growing business application in history. Millions of people around the world use Slack to connect their teams, unify their systems, and drive their business forward. From Fortune 100 companies to corner markets, Slack helps people communicate better.",
+        "Announcement_Date": "2018-10-01T04:00:00.000Z",
+        "CSP_POC_Name": "Nick Hardy",
+        "CSP_POC_Email": "fedramp@slack-corp.com",
+        "FedRAMP_In-Process_Date": "2018-05-25T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "Symantec Corporation",
@@ -9368,25 +9396,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Coras",
-        "Cloud_Service_Provider_Package": "CorasNow Federal",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR1722160191",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CORAS%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://coras.com/fedramp/",
-        "CSO_Description": "CorasNow Federal is a cloud-based application development Platform as a Service (PaaS) with our flagship Software as a Service Work Management solution called CorasProject, both offerings are available within a Government Only Community Cloud model.  CorasNow Federal was created to significantly reduce the cost and complexity of designing, building, and deploying applications in the cloud. An enterprise platform built within Microsoft Azure Government Cloud, CorasNow Federal allows for application virtualization. This robust application features a user-friendly interface allowing organizations to access tools and features that help their specific role and support the mission of the enterprise. CorasNow Federal is designed to meet the requirements for a FIPS 199 Moderate information system.\n\nOrganizations around the world rely on Coras to help them solve complex business problems through software. Since 2003, we’ve developed innovative, agile, flexible solutions that transform businesses – making it easier and faster to collaborate and get results. We believe your business should define your applications, not the other way around. The Coras platform delivers immediate value and generates meaningful results. That’s why top telecom, pharmaceutical, manufacturing, and financial companies, as well as the federal government, have been partnering with us for over 10 years.",
-        "CSP_POC_Name": "Raphael Delgado",
-        "CSP_POC_Email": "FedRAMP@Coras.com",
-        "Fedramp_Ready_Date": "2017-11-08T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Databricks",
         "Cloud_Service_Provider_Package": "Databricks FedRAMP Unified Analytics Platform",
         "Path": "Agency",
@@ -9454,25 +9463,6 @@
         "CSP_POC_Name": "Cameron Hass",
         "CSP_POC_Email": "Boomi_sales_fed@dell.com",
         "FedRAMP_In-Process_Date": "2019-03-13T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "DOMA Technologies, LLC",
-        "Cloud_Service_Provider_Package": "DOMA Software Platform",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR1711248496",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/DOMA%20Logo.jpg",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "CSP_Website": "https://www.domaonline.com/federal-government-solutions/",
-        "CSO_Description": "The DOMA Software Platform is a powerful cloud based Intelligent Content Automation platform that is delivered as a Software as a Service (SaaS) solution. It offers organizations a data centric application to securely capture, manage, collaborate, and store content across the enterprise.  DOMA brings the unique expertise of 18 years of experience in delivering cloud-based software solutions coupled with the core focus of how ‘ease of use’ is the primary factor for driving user adoption.\n\nThere are considerable specific advantages to DOMA’s approach with delivering a highly configurable, rapidly deployed, non-license based pricing model centered around transactions.  The DOMA Software Platform gives customers more elastic options to expand, integrate other applications, and phase in more business processes without significant cost impacts.\n\nDOMA is continually focused on staying on the forefront of emerging technologies, keeping current with evolving standards in information security, and integrating software innovations through standard REST API. Our platform is internally developed and maintained by a team of scientists, software engineers, and IT professionals, allowing our project management staff to collaborate directly between customers and developers to implement software configurations that meet customers’ specific business needs.",
-        "CSP_POC_Name": "Ian Checcio",
-        "CSP_POC_Email": "fedramp@domaonline.com",
-        "Fedramp_Ready_Date": "2018-02-06T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -9701,25 +9691,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "GPS Insight, Inc.",
-        "Cloud_Service_Provider_Package": "GPS Insight SaaS Portal",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR1723969326",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/GPS%20Logo.jpg",
-        "Independent_Assessor": "Lazarus Alliance",
-        "CSP_Website": "www.gpsinsight.com",
-        "CSO_Description": "GPS Insight is a cloud-based GPS fleet and asset tracking solution for government agencies and businesses. The GPS Insight solution solves unique fleet challenges while increasing revenue and reducing both costs and risks. GPS Insight provides fleet managers a significant increase in efficiency by providing a highly flexible solution, which includes a wide range of customized reports, alerts, and other innovative features that can be tailored to meet specific customer requirements and ensure maximum return on investment. ",
-        "CSP_POC_Name": "Gary Fitzgerald",
-        "CSP_POC_Email": "fedramp@gpsinsight.com",
-        "Fedramp_Ready_Date": "2018-06-15T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "HackerOne Inc.",
         "Cloud_Service_Provider_Package": "Vulnerability Disclosure and Bug Bounty Program",
         "Path": "Agency",
@@ -9764,7 +9735,6 @@
       {
         "Cloud_Service_Provider_Name": "Ivanti",
         "Cloud_Service_Provider_Package": "Ivanti Service Manager",
-        "Path": "Agency",
         "Designation": "FedRAMP Ready",
         "Package_ID": "FR1816364586",
         "Service_Model": [
@@ -10513,25 +10483,6 @@
         "CSP_POC_Name": "Alfred Wong",
         "CSP_POC_Email": "alfred.wong@replicon.com",
         "FedRAMP_In-Process_Date": "2019-05-07T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Ricoh USA, Inc.",
-        "Cloud_Service_Provider_Package": "Ricoh Government Cloud (RGC)",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR1721260553",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Ricoh%20Logo.jpg",
-        "Independent_Assessor": "Kratos SecureInfo",
-        "CSP_Website": "www.ricoh-usa.com/en/ediscovery",
-        "CSO_Description": "Ricoh USA, Inc. has been providing litigation support, document scanning, production and eDiscovery for the Federal Government, Fortune 500, Legal Industry and the AMLaw 200 for more than 25 years. We have supported organizations with offices and departments across the United States, hosting individual datasets of nearly two terabytes and accommodating over one hundred users concurrently. \n\nThe Ricoh Government Cloud (RGC) utilizes data hosting services in Microsoft’s Azure Government Cloud which is FedRAMP certified (Provisional Authorization (PA) for Microsoft – Azure Government Cloud, June 21, 2016) with a deployment of Relativity’s application suite supporting its eDiscovery review platform services. Ricoh is the proud recipient of the Relativity Orange Level Best in Service Award for 2013, 2014, 2015, 2016 and 2017 – successful in every certification audit since becoming eligible in 2013.\n\nVarious technologies and processes including data analysis, computer assisted review, customized workflow, comprehensive Electronically Stored Information (ESI) reporting, conceptual searches and clustering are utilized to assist in reviewing ESI in an efficient and defensible manner. Relativity offers an analytics index for email threading, near duplicates and concept clustering.  Relativity is an online review tool that is accessed through an Internet browser – all the current versions of Chrome, Firefox and Safari. No additional client side software installation is required.\n\nRicoh USA, Inc. has a very scalable solution for data storage with the ability to increase the storage environment within one business day of notification to meet any anticipated project requirements. The database system supports a multi-tier architecture with the ability to fully employ load-balancing and fail-over capabilities of the application. Logical segregation of client data and associated workspace is core to our multi-tenant SaaS environment.",
-        "CSP_POC_Name": "David Greetham",
-        "CSP_POC_Email": "ediscoverysales@ricoh-usa.com",
-        "Fedramp_Ready_Date": "2017-12-20T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
