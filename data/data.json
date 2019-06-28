@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-06-27T04:40:50.072Z",
+    "Created_At": "2019-06-28T04:40:50.421Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -214,11 +214,11 @@
         "Authorizing_Agency": "JAB Authorization",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/ARC-P%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.autonomicresources.com",
+        "CSP_Website": "www.GDIT.com",
         "CSO_Description": "Autonomic Resources offers the ARC-P Government Community Cloud (GCC), ARC-P Government Private Cloud  (GPC), and ARC-P Secure Data Center (SDC) services from within the ARC-P FedRAMP JAB authorized Security Authorization Boundary.\n\n**ARC-P GCC** provides agencies and government contractors physical or virtual machines in a shared government only cloud stack. ARC-P is a KVM based cloud system that assures interoperability and support for multiple hypervisor images. Agency virtualized images can be imported and exported from the ARC-P environment at agency request. ARC-P can support large numbers of agency virtual machines with the ability to scale services up and down according to agency customers’ varying requirements. ARC-P IaaS offers additional resources such as a virtual-machine disk image library, raw (block) and file-based storage, customer virtual network (CVN) separation at layer 2, firewalls, load balancers, public facing IP addresses, and software bundles. ARC-P IaaS supplies elastic compute resources on-demand from ARC-P compute pools installed in our CONUS only data centers. For cloud environment connectivity, agencies can use available ARC-P VPN solutions over the Internet or dedicated carrier clouds and circuits.\n\n\n**ARC-P GPC** offers the same features as ARC-P GCC with additional logical and physical separation for private cloud environments that require a dedicated hardware stack.\n\n**ARC-P SDC** (Secure Data Center) service provides agencies and government contractors secure IT system colocation services to assist with federal data center consolidation mandates along with their cloud first requirements. ARC-P SDC allows government customers to collocate their non-virtualized and legacy IT systems, as well as IT systems and private cloud stacks in which an agency or government contractor wishes to develop, deploy, and manage the full IT stack within the ARC-P FedRAMP JAB authorized Security Authorization Boundary, with the ability to leverage and inherit those ARC-P security controls that apply specifically to the physical environment and physical security of our facilities. Autonomic Resources is responsible for the physical security and physical environmental controls associated with each provided private cage and provides space, power, and any needed network cross-connects to other environments or circuits provided by the customer, to their hosted virtual environments within the ARC-P IaaS Government Community Cloud or ARC-P Government Private Cloud stacks. Data Center facility providers can engage Autonomic Resources for accreditation of their space under ARC-P SDC.",
         "Announcement_Date": "2012-12-26T05:00:00.000Z",
-        "CSP_POC_Name": "Rachel Askew",
-        "CSP_POC_Email": "rachel.askew@csra.com",
+        "CSP_POC_Name": "James Bowman",
+        "CSP_POC_Email": "james.bowman@gdit.com",
         "FedRAMP_In-Process_Date": "2012-06-26T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
@@ -2368,32 +2368,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Collab9",
-        "Cloud_Service_Provider_Package": "Cloud Unified Communications, Contact Center and Collaboration",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1404163859",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2016-07-19T04:00:00.000Z",
-        "Sponsoring_Agency": "Federal Communications Commission",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
-        "Authorizing_Agency": "Federal Communications Commission",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Collab9%20Logo%202.jpg",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "CSP_Website": "www.collab9.com",
-        "CSO_Description": "Collab9 is a cloud service provider offering Best-of-Breed Secure Unified Communications. Collab9 Secure UC delivers a comprehensive suite of unified communications and collaboration services, including:\n\n- Voice and Call Control including Avaya Aura Communication Manager and Cisco Unified Communications Manager\n- Voicemail and Unified Messaging (voicemail delivery to the user’s email), including integration with multiple legacy VoIP and UC solutions including Avaya ESNA and Cisco Unity Connection\n- Interactive Voice Response, Voicemail, Unified Messaging and simultaneous integration with multiple call control platforms including Microsoft Skype for Business, Microsoft Lync, as well as legacy Digital PBX, Centrex, VOIP and UC through Applied Voice and Speech Technologies (AVST)\n- Integration with Microsoft Exchange, Office 365, and Gmail (for the Unified Messaging) \n- Presence and Instant Messaging including Avaya Equinox and Cisco Jabber \n- Mobility Services, or the ability to use multiple types of devices to access phone services; includes laptop soft clients (Equinox and Jabber), Apple iOS and Android native dialers, all through Avaya Extension to Cellular (EC 500) and Cisco Single Number Reach \n- Meet-Me and Ad Hoc Voice and Video Conferencing including Avaya Equinox \n- Contact Center (call queuing and distribution for customer support services) including Avaya Contact Center Elite and Cisco Unified Contact Center Express\n- E911 call routing with device and phone tracking\n\nIn simple terms, Collab9 Secure UC replaces an organization's on-premises phone system (PBX) with a feature-rich collaboration system in the cloud, providing extended features and capabilities.\n\nCollab9 Best-of-Breed Secure UC is a turnkey cloud solution delivering:\n\n- A dedicated environment for each agency, built in the cloud using voice collaboration appliances and voice applications as required \n-  Voice applications designed, deployed and fully managed by Collab9, including all adds/moves/changes \n- Service customizations based on agency requirements and implemented by Collab9 \n- Agency administration functionality for managing user adds/moves/changes (if desired) or 24x7 Collab9 Network Operations Center (NOC) support\n- Fully Integrated Multi-Vendor deployments\n\nCollab9 Best-of-Breed Secure UC addresses these key business needs: \n\n- Substantial cost savings over traditional build and operate solutions \n- Rapid deployment with continual upgrading of the solution and infrastructure \n- Reduced capital expenditures for critical phone infrastructure and its maintenance/upgrades \n- Migration away from obsolete or aging communications systems\n- Delivery of feature-rich, cloud-based voice services managed outside the organization \n- Reduced staffing costs for specialized administrators to run on-premises systems \n- Reduced cost of compliance through FedRAMP mandated continuous monitoring\n- Leverage investments in existing handsets (phones) gateways, video end points and software licensing\n- Accelerates Migration to the cloud through the availability of Call Control Independent Unified Messaging and Conferencing\n\nThe Collab9 Best-of-Breed Secure UC service is offered by more than forty federal contractors, Value Added Resellers (VARs), and telecommunications service providers. The service is available through multiple local and national federal contract vehicles.\n\nPlease visit [https://www.collab9.com/partners/channel-partners](https://www.collab9.com/partners/channel-partners) for an up-to-date list of these partners.",
-        "Announcement_Date": "2016-07-29T04:00:00.000Z",
-        "CSP_POC_Name": "Mustafa Baig",
-        "CSP_POC_Email": "sales@collab9.com",
-        "Fedramp_Ready_Date": "2015-12-10T05:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2016-01-14T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Amazon",
         "Cloud_Service_Provider_Package": "AWS GovCloud",
         "Path": "JAB",
@@ -2656,6 +2630,32 @@
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
         ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Collab9",
+        "Cloud_Service_Provider_Package": "Cloud Unified Communications, Contact Center and Collaboration",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1404163859",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2016-07-19T04:00:00.000Z",
+        "Sponsoring_Agency": "Federal Communications Commission",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
+        "Authorizing_Agency": "Federal Communications Commission",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Collab9%20Logo%202.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "www.collab9.com",
+        "CSO_Description": "Collab9 is a cloud service provider offering Best-of-Breed Secure Unified Communications. Collab9 Secure UC delivers a comprehensive suite of unified communications and collaboration services, including:\n\n- Voice and Call Control including Avaya Aura Communication Manager and Cisco Unified Communications Manager\n- Voicemail and Unified Messaging (voicemail delivery to the user’s email), including integration with multiple legacy VoIP and UC solutions including Avaya ESNA and Cisco Unity Connection\n- Interactive Voice Response, Voicemail, Unified Messaging and simultaneous integration with multiple call control platforms including Microsoft Skype for Business, Microsoft Lync, as well as legacy Digital PBX, Centrex, VOIP and UC through Applied Voice and Speech Technologies (AVST)\n- Integration with Microsoft Exchange, Office 365, and Gmail (for the Unified Messaging) \n- Presence and Instant Messaging including Avaya Equinox and Cisco Jabber \n- Mobility Services, or the ability to use multiple types of devices to access phone services; includes laptop soft clients (Equinox and Jabber), Apple iOS and Android native dialers, all through Avaya Extension to Cellular (EC 500) and Cisco Single Number Reach \n- Meet-Me and Ad Hoc Voice and Video Conferencing including Avaya Equinox \n- Contact Center (call queuing and distribution for customer support services) including Avaya Contact Center Elite and Cisco Unified Contact Center Express\n- E911 call routing with device and phone tracking\n\nIn simple terms, Collab9 Secure UC replaces an organization's on-premises phone system (PBX) with a feature-rich collaboration system in the cloud, providing extended features and capabilities.\n\nCollab9 Best-of-Breed Secure UC is a turnkey cloud solution delivering:\n\n- A dedicated environment for each agency, built in the cloud using voice collaboration appliances and voice applications as required \n-  Voice applications designed, deployed and fully managed by Collab9, including all adds/moves/changes \n- Service customizations based on agency requirements and implemented by Collab9 \n- Agency administration functionality for managing user adds/moves/changes (if desired) or 24x7 Collab9 Network Operations Center (NOC) support\n- Fully Integrated Multi-Vendor deployments\n\nCollab9 Best-of-Breed Secure UC addresses these key business needs: \n\n- Substantial cost savings over traditional build and operate solutions \n- Rapid deployment with continual upgrading of the solution and infrastructure \n- Reduced capital expenditures for critical phone infrastructure and its maintenance/upgrades \n- Migration away from obsolete or aging communications systems\n- Delivery of feature-rich, cloud-based voice services managed outside the organization \n- Reduced staffing costs for specialized administrators to run on-premises systems \n- Reduced cost of compliance through FedRAMP mandated continuous monitoring\n- Leverage investments in existing handsets (phones) gateways, video end points and software licensing\n- Accelerates Migration to the cloud through the availability of Call Control Independent Unified Messaging and Conferencing\n\nThe Collab9 Best-of-Breed Secure UC service is offered by more than forty federal contractors, Value Added Resellers (VARs), and telecommunications service providers. The service is available through multiple local and national federal contract vehicles.\n\nPlease visit [https://www.collab9.com/partners/channel-partners](https://www.collab9.com/partners/channel-partners) for an up-to-date list of these partners.",
+        "Announcement_Date": "2016-07-29T04:00:00.000Z",
+        "CSP_POC_Name": "Mustafa Baig",
+        "CSP_POC_Email": "sales@collab9.com",
+        "Fedramp_Ready_Date": "2015-12-10T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2016-01-14T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "Esri",
@@ -3465,7 +3465,16 @@
         "CSP_POC_Name": "Courtney Cox",
         "CSP_POC_Email": "ccox@powertrain.com",
         "FedRAMP_In-Process_Date": "2014-01-01T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2019-04-17T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-04-17T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "MindPoint Group, LLC"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Skillsoft",
@@ -6302,6 +6311,14 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Kratos SecureInfo"
+          },
+          {
+            "Letter_Date": "2019-04-17T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-04-17T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Kratos SecureInfo"
           }
         ]
       },
@@ -7319,6 +7336,35 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Slack Technologies",
+        "Cloud_Service_Provider_Package": "Slack",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1823447014",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Li-SaaS",
+        "Original_Authorization_Date": "2018-10-01T04:00:00.000Z",
+        "Sponsoring_Agency": "General Services Administration",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+        "Authorizing_Agency": "General Services Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Slack%20Logo2.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "FR1805751477"
+        ],
+        "CSP_Website": "https://slack.com/",
+        "CSO_Description": "Slack is the collaboration hub that brings the right people together with all the right information and tools to get work done. Launched in 2014, Slack is the fastest-growing business application in history. Millions of people around the world use Slack to connect their teams, unify their systems, and drive their business forward. From Fortune 100 companies to corner markets, Slack helps people communicate better.",
+        "Announcement_Date": "2018-10-01T04:00:00.000Z",
+        "CSP_POC_Name": "Nick Hardy",
+        "CSP_POC_Email": "fedramp@slack-corp.com",
+        "FedRAMP_In-Process_Date": "2018-05-25T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "GitHub",
         "Cloud_Service_Provider_Package": "GitHub Enterprise Cloud",
         "Path": "Agency",
@@ -7351,107 +7397,6 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "SecureIT"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Adobe",
-        "Cloud_Service_Provider_Package": "Adobe Connect Managed Services (ACMS-GC)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1509037236",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2018-10-05T04:00:00.000Z",
-        "Original_Expiration_Date": "2021-08-24T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Adobe%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866"
-        ],
-        "CSP_Website": "www.adobe.com",
-        "CSO_Description": "Adobe offers immersive online meeting experiences for collaboration, large scale webinars, and virtual classrooms.  This software as a service (SaaS) capability is FedRAMP certified and supports:\n\n - Instant Access:  Allow participants on desktop to enter hassle-free with no downloads \n - Security:  Choose an industry-leading solution used    across the intelligence community, federal civilian, and department of defense \n - Compliance:  Support your audience with Section 508      \n   accessibility standards features \n - Mobility:  Enjoy hosting, file sharing, whiteboarding, and\n   emoticons via mobile \n - Tracking:  Measure live learner participation with engagement\n   monitoring \n - Training:  Use the SCORM / AICC features of a Learning\n   Management System (LMS) at a  fraction of the cost\n\nEntirely managed and maintained by a single partner, organizations can rely on Adobe’s expertise managing the most complex and mission-critical collaboration and eLearning solutions.  Adobe provides cloud hosting and expert application support enabling enterprises to concentrate on collaboration and eLearning missions. A single, named point of contact (customer success engineer) is assigned to each customer to support “go-live” operations, as well as steady state continuous delivery and continuous diagnostics and mitigation.  Adobe Connect Managed Services (ACMS) is available for GovCloud (ACMS-GC) and US East-US West (ACMS-EW).",
-        "Announcement_Date": "2016-01-26T05:00:00.000Z",
-        "CSP_POC_Name": "Brandon Griffeth",
-        "CSP_POC_Email": "fedramp@adobe.com",
-        "FedRAMP_In-Process_Date": "2015-10-30T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2017-11-06T05:00:00.000Z",
-            "Letter_Expiration_Date": "2021-05-18T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-05-18T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          },
-          {
-            "Letter_Date": "2019-01-30T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-01-31T05:00:00.000Z",
-            "Authorizing_Agency": "Corporation for National and Community Service",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/cncs_1.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Adobe",
-        "Cloud_Service_Provider_Package": "Adobe Experience Manager Managed Services (AEMMS-GC)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1509037239",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2018-10-05T04:00:00.000Z",
-        "Original_Expiration_Date": "2021-08-24T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Adobe%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866"
-        ],
-        "CSP_Website": "www.adobe.com",
-        "CSO_Description": "Create, manage and deliver digital experiences across websites, mobile sites and on-site screens that are global in reach, yet personally relevant and engaging.  Forrester ranks Adobe as the  leader in web content management;  Adobe received the highest scores possible for its current offering, strategy and market presence.  This software as a service (SaaS) capability is FedRAMP certified and allows customers to:\n\n - Increase Efficiency:  Build, share and deliver content from the same\n   place \n - Support Agile Delivery:  Quickly deliver personalized    experiences\n   across different screens, geos and channels Promote    \n - Consistency:     Use a library of content that can be easily reused  \n   enterprise-wide\n\nEntirely managed and maintained by Adobe; organizations can rely on Adobe’s expertise managing the most complex and mission-critical Experience Manager deployments all over the world. Adobe provides cloud hosting and expert application support enabling enterprises to concentrate on citizen engagement and digital transformation. A single, named point of contact (customer success engineer) is assigned to each customer to support “go-live” operations, as well as steady state continuous delivery and continuous diagnostics and mitigation.  Adobe Experienced Manager Managed Services (AEMMS) is available for GovCloud (AEMMS-GC) and US East-US West (AEMMS-EW).",
-        "Announcement_Date": "2016-01-26T05:00:00.000Z",
-        "CSP_POC_Name": "Brandon Griffeth",
-        "CSP_POC_Email": "fedramp@adobe.com",
-        "FedRAMP_In-Process_Date": "2015-10-30T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2016-12-12T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-12-15T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          },
-          {
-            "Letter_Expiration_Date": "2020-06-29T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-06-29T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "United States Citizenship and Immigration Services",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          },
-          {
-            "Letter_Date": "2018-09-17T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Deposit Insurance Corporation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
           }
         ]
       },
@@ -8516,7 +8461,7 @@
         "Independent_Assessor": "Kratos SecureInfo",
         "CSP_Website": "http://azure.microsoft.com/en-us/",
         "CSO_Description": "Microsoft Azure Commercial Cloud is an open and flexible cloud platform that enables customers to quickly build, test, deploy, and manage their applications, services, and product development across a network of Microsoft-managed datacenters within the United States. The Microsoft Azure platform exports savings to the customer by delivering the software, platform, and IT infrastructure resources where and when it is needed via the Internet.  Microsoft Azure provides a multi-tenant public cloud services platform that offers functionality to support capacities such as Platform as a Service (PaaS), and Infrastructure as a Service (IaaS) cloud service models.  Azure maintains a P-ATO at the High Impact Level.  Azure was the first public cloud with IaaS and PaaS services to receive a JAB P-ATO.\n\nFor additional information, visit the (Azure Trust Center)[https://www.microsoft.com/en-us/TrustCenter/Compliance/default.aspx] or refer to Azure FedRAMP Package ID# F1209051525.\n\nThe following Microsoft services are FedRAMP Authorized and approved by the JAB at the High Impact Level: API Management,  Application Gateway,  Application Insights,  Automation,  Azure Active Directory (AAD) Free,  Azure Active Directory (AAD) Premium P1 + P2, Azure Advanced Threat Protection, Azure Advisor, Azure Analysis Services, Azure Bot Service, Azure Container Registry, Azure Cosmos DB, Azure Data Movement, Azure Database Migration Service, Azure DDoS Protection, Azure DNS, Azure Event Grid, Azure File Sync, Azure Front Door, Azure Information Protection,  Azure IoT Hub,  Azure Import/Export ,  Azure Key Vault,  Azure Language Understanding, Azure Machine Learning Service, Azure Migrate, Azure Monitor, Azure Policy, Azure Portal,  Azure Resource Manager (ARM), Azure Search, Azure Security Center,  Azure Service Manager (RDFE),  Azure Site Recovery, Azure Time Series Insights, Backup,  Batch,  Cloud Services, Cloud Shell, Cognitive Services, Computer Vision, Content Delivery Network, Content Moderator, Custom Vision, Event Hubs,  ExpressRoute,  Face, Flow,  HDInsight,  Intune, Load Balancer,  Log Analytics,  Logic Apps,  Media Services, Microsoft Cloud App Security, Microsoft Defender Advanced Threat Protection, Microsoft PowerApps, Microsoft Stream,  Multi-factor Authentication (MFA),  MySQL,  Network Watcher, Network Watcher Traffic Analytics, Notification Hubs,  Postgre SQL,  Power BI, QnA Maker, Redis Cache,  Scheduler,  Service Bus,  Service Fabric,  Speech Services, SQL Data Warehouse,  SQL Database,  SQL Server Stretch Database, Storage (Blobs, Disks, Files, Queues, Tables), StorSimple Service, Stream Analytics,  Text Analytics, Traffic Manager, Translator Text, Video Indexer, Virtual Machines Scale Sets,  Virtual Machines, Virtual Network, VPN Gateway, Web Apps (App Service), and supporting infrastructure and platform services.",
-        "Announcement_Date": "2019-05-15T04:00:00.000Z",
+        "Announcement_Date": "2016-06-21T04:00:00.000Z",
         "CSP_POC_Name": "Microsoft Azure FedRAMP Requests",
         "CSP_POC_Email": "AzureFedRAMP@microsoft.com",
         "FedRAMP_In-Process_Date": "2013-03-19T04:00:00.000Z",
@@ -8974,33 +8919,117 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Slack Technologies",
-        "Cloud_Service_Provider_Package": "Slack",
-        "Path": "Agency",
+        "Cloud_Service_Provider_Name": "Adobe",
+        "Cloud_Service_Provider_Package": "Adobe Connect Managed Services (ACMS-GC)",
+        "Path": "JAB",
         "Designation": "Compliant",
-        "Package_ID": "FR1823447014",
+        "Package_ID": "F1509037236",
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Li-SaaS",
-        "Original_Authorization_Date": "2018-10-01T04:00:00.000Z",
-        "Sponsoring_Agency": "General Services Administration",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-        "Authorizing_Agency": "General Services Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Slack%20Logo2.jpg",
-        "Independent_Assessor": "Schellman & Company, LLC",
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-06-27T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Adobe%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
         "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW",
-          "FR1805751477"
+          "F1603047866"
         ],
-        "CSP_Website": "https://slack.com/",
-        "CSO_Description": "Slack is the collaboration hub that brings the right people together with all the right information and tools to get work done. Launched in 2014, Slack is the fastest-growing business application in history. Millions of people around the world use Slack to connect their teams, unify their systems, and drive their business forward. From Fortune 100 companies to corner markets, Slack helps people communicate better.",
-        "Announcement_Date": "2018-10-01T04:00:00.000Z",
-        "CSP_POC_Name": "Nick Hardy",
-        "CSP_POC_Email": "fedramp@slack-corp.com",
-        "FedRAMP_In-Process_Date": "2018-05-25T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "CSP_Website": "www.adobe.com",
+        "CSO_Description": "Adobe offers immersive online meeting experiences for collaboration, large scale webinars, and virtual classrooms.  This software as a service (SaaS) capability is FedRAMP certified and supports:\n\n - Instant Access:  Allow participants on desktop to enter hassle-free with no downloads \n - Security:  Choose an industry-leading solution used    across the intelligence community, federal civilian, and department of defense \n - Compliance:  Support your audience with Section 508      \n   accessibility standards features \n - Mobility:  Enjoy hosting, file sharing, whiteboarding, and\n   emoticons via mobile \n - Tracking:  Measure live learner participation with engagement\n   monitoring \n - Training:  Use the SCORM / AICC features of a Learning\n   Management System (LMS) at a  fraction of the cost\n\nEntirely managed and maintained by a single partner, organizations can rely on Adobe’s expertise managing the most complex and mission-critical collaboration and eLearning solutions.  Adobe provides cloud hosting and expert application support enabling enterprises to concentrate on collaboration and eLearning missions. A single, named point of contact (customer success engineer) is assigned to each customer to support “go-live” operations, as well as steady state continuous delivery and continuous diagnostics and mitigation.  Adobe Connect Managed Services (ACMS) is available for GovCloud (ACMS-GC) and US East-US West (ACMS-EW).",
+        "Announcement_Date": "2016-01-26T05:00:00.000Z",
+        "CSP_POC_Name": "Brandon Griffeth",
+        "CSP_POC_Email": "fedramp@adobe.com",
+        "FedRAMP_In-Process_Date": "2019-02-19T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2017-11-06T05:00:00.000Z",
+            "Letter_Expiration_Date": "2021-05-18T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-05-18T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2018-10-05T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-08-24T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2019-01-30T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-01-31T05:00:00.000Z",
+            "Authorizing_Agency": "Corporation for National and Community Service",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/cncs_1.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Adobe",
+        "Cloud_Service_Provider_Package": "Adobe Experience Manager Managed Services (AEMMS-GC)",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "F1509037239",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-06-27T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Adobe%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.adobe.com",
+        "CSO_Description": "Create, manage and deliver digital experiences across websites, mobile sites and on-site screens that are global in reach, yet personally relevant and engaging.  Forrester ranks Adobe as the  leader in web content management;  Adobe received the highest scores possible for its current offering, strategy and market presence.  This software as a service (SaaS) capability is FedRAMP certified and allows customers to:\n\n - Increase Efficiency:  Build, share and deliver content from the same\n   place \n - Support Agile Delivery:  Quickly deliver personalized    experiences\n   across different screens, geos and channels Promote    \n - Consistency:     Use a library of content that can be easily reused  \n   enterprise-wide\n\nEntirely managed and maintained by Adobe; organizations can rely on Adobe’s expertise managing the most complex and mission-critical Experience Manager deployments all over the world. Adobe provides cloud hosting and expert application support enabling enterprises to concentrate on citizen engagement and digital transformation. A single, named point of contact (customer success engineer) is assigned to each customer to support “go-live” operations, as well as steady state continuous delivery and continuous diagnostics and mitigation.  Adobe Experienced Manager Managed Services (AEMMS) is available for GovCloud (AEMMS-GC) and US East-US West (AEMMS-EW).",
+        "Announcement_Date": "2016-01-26T05:00:00.000Z",
+        "CSP_POC_Name": "Brandon Griffeth",
+        "CSP_POC_Email": "fedramp@adobe.com",
+        "FedRAMP_In-Process_Date": "2019-02-19T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2016-12-12T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2016-12-15T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Expiration_Date": "2020-06-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-06-29T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "United States Citizenship and Immigration Services",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2018-09-17T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Deposit Insurance Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2018-10-05T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-08-24T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Symantec Corporation",
