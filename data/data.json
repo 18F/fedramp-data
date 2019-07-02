@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-07-01T04:40:50.354Z",
+    "Created_At": "2019-07-02T04:40:50.243Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -344,15 +344,6 @@
             "Independent_Assessor": "Kratos SecureInfo"
           },
           {
-            "Letter_Date": "2016-06-07T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-06-18T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-06-08T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Kratos SecureInfo"
-          },
-          {
             "Letter_Date": "2017-02-06T05:00:00.000Z",
             "Letter_Expiration_Date": "2020-02-06T05:00:00.000Z",
             "Authorizing_Agency": "Commission of Fine Arts",
@@ -382,6 +373,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2018-03-09T05:00:00.000Z",
             "Authorizing_Agency": "United States Agency for Global Media",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAGM%20Logo.jpg",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Kratos SecureInfo"
+          },
+          {
+            "Letter_Date": "2017-11-06T05:00:00.000Z",
+            "Letter_Expiration_Date": "2020-11-07T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-11-07T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Kratos SecureInfo"
           }
@@ -2516,6 +2516,16 @@
             "Independent_Assessor": "Coalfire Systems, Inc."
           },
           {
+            "Letter_Date": "2017-08-10T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-09-13T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-09-13T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Federal Emergency Management Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
             "Letter_Date": "2017-10-31T04:00:00.000Z",
             "Authorizing_Agency": "Council of the Inspectors General on Integrity and Efficiency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CIGIE%20Logo.jpg",
@@ -3937,6 +3947,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2019-05-03T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Interior",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Kratos SecureInfo"
+          },
+          {
+            "Letter_Date": "2018-12-14T05:00:00.000Z",
+            "Letter_Expiration_Date": "2021-12-20T05:00:00.000Z",
+            "Authorizing_Agency": "Environmental Protection Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Kratos SecureInfo"
           }
@@ -9035,7 +9053,7 @@
         "Cloud_Service_Provider_Name": "Zimperium",
         "Cloud_Service_Provider_Package": "Zimperium Federal Cloud",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "FR1731347234",
         "Service_Model": [
           "SaaS"
@@ -9049,8 +9067,12 @@
         "Authorizing_Subagency": "Immigration and Customs Enforcement",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Zimperium%20Logo.jpg",
         "Independent_Assessor": "Kratos SecureInfo",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
         "CSP_Website": "https://www.zimperium.com",
         "CSO_Description": "Zimperium Federal cloud (ZFC) is a Cloud based application deployed on the AWS GovCloud infrastructure which, when combined with the Zimperium mobile application (zIPS), provides a comprehensive Mobile Threat Defense (MTD) solution.  Zimperium's Amazon GovCloud based application provides security teams with visibility on the threats and vulnerabilities across all mobile devices in the organization to assess organization risk, identify security gaps and remediate.  The zIPS on-device app incorporates machine learning techniques to detect anomalies to the mobile device's operating system's statistics, memory, CPU and other system parameters and accurately identify not only the specific type of malicious attack, but also the forensics associated with the who, what, where, when, and how of an attack occurrence.",
+        "Announcement_Date": "2019-07-01T04:00:00.000Z",
         "CSP_POC_Name": "Jerome Brock",
         "CSP_POC_Email": "fedramp@zimperium.com",
         "FedRAMP_In-Process_Date": "2018-05-01T04:00:00.000Z",
