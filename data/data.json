@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-07-09T04:40:50.212Z",
+    "Created_At": "2019-07-10T04:40:50.536Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3354,6 +3354,15 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Kratos SecureInfo"
+          },
+          {
+            "Letter_Expiration_Date": "2022-05-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-05-29T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Transportation Security Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Kratos SecureInfo"
           }
         ]
       },
@@ -3955,6 +3964,15 @@
             "Letter_Expiration_Date": "2021-12-20T05:00:00.000Z",
             "Authorizing_Agency": "Environmental Protection Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Kratos SecureInfo"
+          },
+          {
+            "Letter_Date": "2019-06-10T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-07-03T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-07-03T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Kratos SecureInfo"
           }
@@ -9345,10 +9363,10 @@
         "Authorizing_Subagency": "National Cancer Institute",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Broadcom%20Logo.jpg",
         "Independent_Assessor": "Schellman & Company, LLC",
-        "CSP_Website": "www.ca.com",
+        "CSP_Website": "www.broadcom.com",
         "CSO_Description": "Broadcom General Support System (GSS) provides the foundational components that will support Broadcom cloud services. It is leveraged by multiple Broadcom SaaS services for common controls.",
-        "CSP_POC_Name": "Jeffrey Edelheit",
-        "CSP_POC_Email": "jeffrey.edelheit@broadcom.com",
+        "CSP_POC_Name": "Thomas Brown ",
+        "CSP_POC_Email": "fedramp-gss-contact@broadcom.com ",
         "Fedramp_Ready_Date": "2017-08-07T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2018-05-02T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
@@ -9370,10 +9388,10 @@
         "Authorizing_Subagency": "National Cancer Institute",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Broadcom%20Logo.jpg",
         "Independent_Assessor": "Schellman & Company, LLC",
-        "CSP_Website": "www.ca.com",
+        "CSP_Website": "www.broadcom.com",
         "CSO_Description": "Broadcom Clarity Project and Portfolio Management (Clarity PPM) offers US government agencies a highly secure and scalable platform to manage their entire project and portfolio lifecycle to better deliver services, projects and financials. Clarity PPM provides customers the confidence they need on a highly secure and compliant platform. Clarity PPM is a single platform that lets you manage multiple project portfolios and make data-driven investment decisions.\n\nThe solution gives you modern project management tools to help you prioritize requirements, maximize resources and optimize portfolios with ease.\n\n* One platform. Collect, prioritize, assess and deliver projects, portfolios and products, and empower people enterprise-wide, with a single system of record.\n* Complete solution. Manage your entire innovation lifecycle, including project and portfolio management, demands and resources, and financials and time tracking.\n* Persona-based user experience. Flattening the learning curve drives adoption and boosts staff productivity. Modules are specifically designed for project managers, resources managers and project coordinators to support anything from ad hoc work to complex programs.\n* Team collaboration. New tools let team members collaborate within the context of their current work, such as resource or financial management. At the portfolio level, the quality of planning and execution increases significantly when employees can crowdsource ideas and decisions.\n* Delivery. Clarity PPM SaaS. Reduce cost and accelerate time to benefit, drive adoption and ensure you’re always on the latest release with a user-based subscription service delivered across a secure, scalable infrastructure.",
-        "CSP_POC_Name": "Jeffrey Edelheit",
-        "CSP_POC_Email": "jeffrey.edelheit@broadcom.com",
+        "CSP_POC_Name": "Steve Zorra ",
+        "CSP_POC_Email": "fedramp-clarity-contact@broadcom.com ",
         "Fedramp_Ready_Date": "2017-08-07T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2018-05-02T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
@@ -9470,6 +9488,29 @@
         "CSP_POC_Name": "David Cook",
         "CSP_POC_Email": "fedramp@databricks.com",
         "FedRAMP_In-Process_Date": "2018-10-04T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Datadog",
+        "Cloud_Service_Provider_Package": "Datadog",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1912658130",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Li-SaaS",
+        "Sponsoring_Agency": "General Services Administration",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+        "Authorizing_Agency": "General Services Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/DataDog%20Logo.jpg",
+        "Independent_Assessor": "TBD",
+        "CSP_Website": "https://www.datadoghq.com/",
+        "CSO_Description": "Datadog is the essential monitoring platform for cloud applications. We bring together data from servers, containers, databases, and third-party services to make your stack entirely observable. These capabilities help DevOps teams avoid downtime, resolve performance issues, and ensure customers are getting the best user experience.\n\nDatadog is a monitoring service for modern cloud environments offering Infrastructure Metrics, Application Performance Monitoring (APM), and Log Management within a single platform.",
+        "CSP_POC_Name": "Phil Shea",
+        "CSP_POC_Email": "fedramp@datadoghq.com",
+        "FedRAMP_In-Process_Date": "2019-07-02T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
