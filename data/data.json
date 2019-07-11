@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-07-10T04:40:50.536Z",
+    "Created_At": "2019-07-11T04:40:50.364Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -6112,7 +6112,7 @@
         "Authorizing_Agency": "Department of Justice",
         "Authorizing_Subagency": "Office of Justice Programs",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Avue%20Logo.jpg",
-        "Independent_Assessor": "MBL Technologies",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
         "Underlying_CSP_Package_ID": [
           "F1603047866"
         ],
@@ -6130,7 +6130,7 @@
             "Authorizing_Subagency": "Food and Drug Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "MBL Technologies"
+            "Independent_Assessor": "Coalfire Systems, Inc."
           },
           {
             "Letter_Date": "2018-05-25T04:00:00.000Z",
@@ -6139,7 +6139,7 @@
             "Authorizing_Subagency": "Defense Information Systems Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "MBL Technologies"
+            "Independent_Assessor": "Coalfire Systems, Inc."
           },
           {
             "Letter_Date": "2019-05-07T04:00:00.000Z",
@@ -6147,7 +6147,7 @@
             "Authorizing_Agency": "United States Agency for Global Media",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAGM%20Logo.jpg",
             "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "MBL Technologies"
+            "Independent_Assessor": "Coalfire Systems, Inc."
           }
         ]
       },
@@ -9097,6 +9097,82 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Broadcom",
+        "Cloud_Service_Provider_Package": "General Support Systems (GSS)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1722462413",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-04-16T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "National Cancer Institute",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Broadcom%20Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "www.broadcom.com",
+        "CSO_Description": "Broadcom General Support System (GSS) provides the foundational components that will support Broadcom cloud services. It is leveraged by multiple Broadcom SaaS services for common controls.",
+        "CSP_POC_Name": "Thomas Brown ",
+        "CSP_POC_Email": "fedramp-gss-contact@broadcom.com ",
+        "Fedramp_Ready_Date": "2017-08-07T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2018-05-02T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Broadcom",
+        "Cloud_Service_Provider_Package": "Clarity PPM",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1722532017",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-04-16T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "National Cancer Institute",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Broadcom%20Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "www.broadcom.com",
+        "CSO_Description": "Broadcom Clarity Project and Portfolio Management (Clarity PPM) offers US government agencies a highly secure and scalable platform to manage their entire project and portfolio lifecycle to better deliver services, projects and financials. Clarity PPM provides customers the confidence they need on a highly secure and compliant platform. Clarity PPM is a single platform that lets you manage multiple project portfolios and make data-driven investment decisions.\n\nThe solution gives you modern project management tools to help you prioritize requirements, maximize resources and optimize portfolios with ease.\n\n* One platform. Collect, prioritize, assess and deliver projects, portfolios and products, and empower people enterprise-wide, with a single system of record.\n* Complete solution. Manage your entire innovation lifecycle, including project and portfolio management, demands and resources, and financials and time tracking.\n* Persona-based user experience. Flattening the learning curve drives adoption and boosts staff productivity. Modules are specifically designed for project managers, resources managers and project coordinators to support anything from ad hoc work to complex programs.\n* Team collaboration. New tools let team members collaborate within the context of their current work, such as resource or financial management. At the portfolio level, the quality of planning and execution increases significantly when employees can crowdsource ideas and decisions.\n* Delivery. Clarity PPM SaaS. Reduce cost and accelerate time to benefit, drive adoption and ensure you’re always on the latest release with a user-based subscription service delivered across a secure, scalable infrastructure.",
+        "CSP_POC_Name": "Steve Zorra ",
+        "CSP_POC_Email": "fedramp-clarity-contact@broadcom.com ",
+        "Fedramp_Ready_Date": "2017-08-07T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2018-05-02T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Leidos Digital Solutions, Inc.",
+        "Cloud_Service_Provider_Package": "IQ FedCloud",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1830842316",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-04-29T04:00:00.000Z",
+        "Sponsoring_Agency": "Executive Office of the President",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_Executive_Office_of_the_President_of_the_United_States_2014.png",
+        "Authorizing_Agency": "Other Executive Branch Agency",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Leidos%20Logo.JPG",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://www.intranetquorum.com/",
+        "CSO_Description": "IQ is a Software-as-a-Service (SaaS) application offering customer relationship management (CRM), correspondence management (CMS) and business process management (BPM) solutions designed specifically for the needs of government users.  IQ is made up of seven (7) fully integrated modules, each with a comprehensive set of ready-to-use tools that support the needs public sector offices. IQ modules share a common database, allowing management visibility across functional tasks and different lines of service delivery. At the same time, module, user, role and record level security ensures that sensitive data is protected and available to the appropriate groups. Core modules include: Contacts, Messages, Outreach, Services, Library and Events.  The configurable Services module allows a fully configurable workflow management tool to track processes routed across groups through any number of steps and approvals with full visibility.  Agency customers can pick and choose the modules that meet their needs.",
+        "CSP_POC_Name": "Jenny Manner",
+        "CSP_POC_Email": "R_DSI-Fedramp@leidos.com",
+        "FedRAMP_In-Process_Date": "2018-09-10T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Adobe",
         "Cloud_Service_Provider_Package": "Adobe Analytics",
         "Path": "Agency",
@@ -9344,56 +9420,6 @@
         "CSO_Description": "BrightWork is the most flexible project management solution with best-practice templates and portfolio management dashboards on SharePoint. BrightWork guarantees greater simplicity for project managers, better visibility for senior executives, and the ability to deliver better and more consistent organizational project management.\n\nThe BrightWork solution is built around a framework that helps organizations implement collaborative project management.  The BrightWork philosophy can be summarized as “Start, Evolve”. This approach to project management makes it easy for organizations to get started quickly with project management, delivering immediate visibility and control, with the flexibility to mature their project management practices as the needs of a project or team change.\n\nWith BrightWork, you can:\n\n**Track portfolios with reporting dashboards**\nPortfolio dashboards in BrightWork give you the visibility into project statuses, resource allocation and new project requests to successfully manage portfolios of projects.\n\n**Manage successful projects with intuitive project management templates**\nThe range of best-practice project management templates in BrightWork lets you get a project up and running very quickly, with the tools to track, manage and deliver better projects.\n\n**Collaborate efficiently with your team and deliver results**\nBrightWork project sites bring all project information together in one place and provide a simple work management system to manage tasks and track work.\n\n**Improve your project management practices**\nWith the BrightWork template management system, it is easy to capture, reuse and deploy new processes to support the continuous improvement of organizational project management.\n\nThe BrightWork [FedRAMP Project Office JumpStart](https://www.brightwork.com/get-started/fedramp-jumpstart) provided by Project Hosts enables their U.S. Federal and State Agency customers to accelerate the successful deployment of project and portfolio management in a secure and dedicated SharePoint environment.",
         "CSP_POC_Name": "Scott Chapman",
         "CSP_POC_Email": "info@projecthosts.com",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Broadcom",
-        "Cloud_Service_Provider_Package": "General Support Systems (GSS)",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1722462413",
-        "Service_Model": [
-          "PaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "Authorizing_Subagency": "National Cancer Institute",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Broadcom%20Logo.jpg",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "CSP_Website": "www.broadcom.com",
-        "CSO_Description": "Broadcom General Support System (GSS) provides the foundational components that will support Broadcom cloud services. It is leveraged by multiple Broadcom SaaS services for common controls.",
-        "CSP_POC_Name": "Thomas Brown ",
-        "CSP_POC_Email": "fedramp-gss-contact@broadcom.com ",
-        "Fedramp_Ready_Date": "2017-08-07T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2018-05-02T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Broadcom",
-        "Cloud_Service_Provider_Package": "Clarity PPM",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1722532017",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "Authorizing_Subagency": "National Cancer Institute",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Broadcom%20Logo.jpg",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "CSP_Website": "www.broadcom.com",
-        "CSO_Description": "Broadcom Clarity Project and Portfolio Management (Clarity PPM) offers US government agencies a highly secure and scalable platform to manage their entire project and portfolio lifecycle to better deliver services, projects and financials. Clarity PPM provides customers the confidence they need on a highly secure and compliant platform. Clarity PPM is a single platform that lets you manage multiple project portfolios and make data-driven investment decisions.\n\nThe solution gives you modern project management tools to help you prioritize requirements, maximize resources and optimize portfolios with ease.\n\n* One platform. Collect, prioritize, assess and deliver projects, portfolios and products, and empower people enterprise-wide, with a single system of record.\n* Complete solution. Manage your entire innovation lifecycle, including project and portfolio management, demands and resources, and financials and time tracking.\n* Persona-based user experience. Flattening the learning curve drives adoption and boosts staff productivity. Modules are specifically designed for project managers, resources managers and project coordinators to support anything from ad hoc work to complex programs.\n* Team collaboration. New tools let team members collaborate within the context of their current work, such as resource or financial management. At the portfolio level, the quality of planning and execution increases significantly when employees can crowdsource ideas and decisions.\n* Delivery. Clarity PPM SaaS. Reduce cost and accelerate time to benefit, drive adoption and ensure you’re always on the latest release with a user-based subscription service delivered across a secure, scalable infrastructure.",
-        "CSP_POC_Name": "Steve Zorra ",
-        "CSP_POC_Email": "fedramp-clarity-contact@broadcom.com ",
-        "Fedramp_Ready_Date": "2017-08-07T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2018-05-02T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -9885,29 +9911,6 @@
         "CSP_POC_Name": "Rosa Smothers",
         "CSP_POC_Email": "federal@knowbe4.com",
         "FedRAMP_In-Process_Date": "2019-02-12T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Leidos Digital Solutions, Inc.",
-        "Cloud_Service_Provider_Package": "IQ FedCloud",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1830842316",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Executive Office of the President",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_Executive_Office_of_the_President_of_the_United_States_2014.png",
-        "Authorizing_Agency": "Other Executive Branch Agency",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Leidos%20Logo.JPG",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://www.intranetquorum.com/",
-        "CSO_Description": "IQ is a Software-as-a-Service (SaaS) application offering customer relationship management (CRM), correspondence management (CMS) and business process management (BPM) solutions designed specifically for the needs of government users.  IQ is made up of seven (7) fully integrated modules, each with a comprehensive set of ready-to-use tools that support the needs public sector offices. IQ modules share a common database, allowing management visibility across functional tasks and different lines of service delivery. At the same time, module, user, role and record level security ensures that sensitive data is protected and available to the appropriate groups. Core modules include: Contacts, Messages, Outreach, Services, Library and Events.  The configurable Services module allows a fully configurable workflow management tool to track processes routed across groups through any number of steps and approvals with full visibility.  Agency customers can pick and choose the modules that meet their needs.",
-        "CSP_POC_Name": "Jenny Manner",
-        "CSP_POC_Email": "R_DSI-Fedramp@leidos.com",
-        "FedRAMP_In-Process_Date": "2018-09-10T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
