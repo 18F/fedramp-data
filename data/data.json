@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-07-12T04:40:50.165Z",
+    "Created_At": "2019-07-13T04:40:50.185Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4520,6 +4520,13 @@
             "Letter_Date": "2018-12-17T05:00:00.000Z",
             "Authorizing_Agency": "National Science Foundation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2019-06-11T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Deposit Insurance Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
@@ -9212,7 +9219,7 @@
         "Authorizing_Subagency": "National Cancer Institute",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Broadcom%20Logo.jpg",
         "Independent_Assessor": "Schellman & Company, LLC",
-        "CSP_Website": "www.broadcom.com",
+        "CSP_Website": "https://www.ca.com/us/products/project-portfolio-management-federal-government.html",
         "CSO_Description": "Broadcom Clarity Project and Portfolio Management (Clarity PPM) offers US government agencies a highly secure and scalable platform to manage their entire project and portfolio lifecycle to better deliver services, projects and financials. Clarity PPM provides customers the confidence they need on a highly secure and compliant platform. Clarity PPM is a single platform that lets you manage multiple project portfolios and make data-driven investment decisions.\n\nThe solution gives you modern project management tools to help you prioritize requirements, maximize resources and optimize portfolios with ease.\n\n* One platform. Collect, prioritize, assess and deliver projects, portfolios and products, and empower people enterprise-wide, with a single system of record.\n* Complete solution. Manage your entire innovation lifecycle, including project and portfolio management, demands and resources, and financials and time tracking.\n* Persona-based user experience. Flattening the learning curve drives adoption and boosts staff productivity. Modules are specifically designed for project managers, resources managers and project coordinators to support anything from ad hoc work to complex programs.\n* Team collaboration. New tools let team members collaborate within the context of their current work, such as resource or financial management. At the portfolio level, the quality of planning and execution increases significantly when employees can crowdsource ideas and decisions.\n* Delivery. Clarity PPM SaaS. Reduce cost and accelerate time to benefit, drive adoption and ensure you’re always on the latest release with a user-based subscription service delivered across a secure, scalable infrastructure.",
         "CSP_POC_Name": "Steve Zorra ",
         "CSP_POC_Email": "fedramp-clarity-contact@broadcom.com ",
@@ -9224,7 +9231,7 @@
         "Cloud_Service_Provider_Name": "Leidos Digital Solutions, Inc.",
         "Cloud_Service_Provider_Package": "IQ FedCloud",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "FR1830842316",
         "Service_Model": [
           "SaaS"
@@ -9237,8 +9244,12 @@
         "Authorizing_Agency": "Other Executive Branch Agency",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Leidos%20Logo.JPG",
         "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1510137547"
+        ],
         "CSP_Website": "https://www.intranetquorum.com/",
         "CSO_Description": "IQ is a Software-as-a-Service (SaaS) application offering customer relationship management (CRM), correspondence management (CMS) and business process management (BPM) solutions designed specifically for the needs of government users.  IQ is made up of seven (7) fully integrated modules, each with a comprehensive set of ready-to-use tools that support the needs public sector offices. IQ modules share a common database, allowing management visibility across functional tasks and different lines of service delivery. At the same time, module, user, role and record level security ensures that sensitive data is protected and available to the appropriate groups. Core modules include: Contacts, Messages, Outreach, Services, Library and Events.  The configurable Services module allows a fully configurable workflow management tool to track processes routed across groups through any number of steps and approvals with full visibility.  Agency customers can pick and choose the modules that meet their needs.",
+        "Announcement_Date": "2019-07-10T04:00:00.000Z",
         "CSP_POC_Name": "Jenny Manner",
         "CSP_POC_Email": "R_DSI-Fedramp@leidos.com",
         "FedRAMP_In-Process_Date": "2018-09-10T04:00:00.000Z",
