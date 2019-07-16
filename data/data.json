@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-07-15T04:40:49.946Z",
+    "Created_At": "2019-07-16T04:40:50.136Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -7455,6 +7455,14 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Schellman & Company, LLC"
+          },
+          {
+            "Letter_Date": "2019-06-25T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-06-25T04:00:00.000Z",
+            "Authorizing_Agency": "United States International Trade Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USITC%20Logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Schellman & Company, LLC"
           }
         ]
       },
@@ -9264,6 +9272,34 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "General Services Administration",
+        "Cloud_Service_Provider_Package": "Login.gov",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1829538820",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-07-08T04:00:00.000Z",
+        "Sponsoring_Agency": "General Services Administration",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+        "Authorizing_Agency": "General Services Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Login.gov%20Logo.jpg",
+        "Independent_Assessor": "Kratos SecureInfo",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
+        "CSP_Website": "https://www.login.gov",
+        "CSO_Description": "Login.gov offers the public secure and private online access to participating government programs. With one login.gov account, users can sign in to multiple government agencies. Our goal is to make managing federal benefits, services and applications easier and more secure.",
+        "Announcement_Date": "2019-07-15T04:00:00.000Z",
+        "CSP_POC_Name": "Alex Dalessio",
+        "CSP_POC_Email": "partners@login.gov",
+        "FedRAMP_In-Process_Date": "2018-07-27T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Adobe",
         "Cloud_Service_Provider_Package": "Adobe Analytics",
         "Path": "Agency",
@@ -9871,29 +9907,6 @@
         "CSP_POC_Name": "Mike Biggs",
         "CSP_POC_Email": "fedramp@gdcii.com",
         "FedRAMP_In-Process_Date": "2018-12-07T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "General Services Administration",
-        "Cloud_Service_Provider_Package": "Login.gov",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1829538820",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "General Services Administration",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-        "Authorizing_Agency": "General Services Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Login.gov%20Logo.jpg",
-        "Independent_Assessor": "Kratos SecureInfo",
-        "CSP_Website": "https://www.login.gov",
-        "CSO_Description": "Login.gov offers the public secure and private online access to participating government programs. With one login.gov account, users can sign in to multiple government agencies. Our goal is to make managing federal benefits, services and applications easier and more secure.",
-        "CSP_POC_Name": "Alex Dalessio",
-        "CSP_POC_Email": "partners@login.gov",
-        "FedRAMP_In-Process_Date": "2018-07-27T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
