@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-07-24T04:40:50.070Z",
+    "Created_At": "2019-07-25T04:40:50.880Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2844,15 +2844,6 @@
         "FedRAMP_In-Process_Date": "2016-04-06T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Date": "2016-07-08T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-07-13T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-07-13T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          },
-          {
             "Letter_Date": "2017-12-21T05:00:00.000Z",
             "Letter_Expiration_Date": "2020-12-22T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2017-12-22T05:00:00.000Z",
@@ -2865,6 +2856,15 @@
             "Letter_Date": "2018-12-17T05:00:00.000Z",
             "Authorizing_Agency": "National Science Foundation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2019-03-21T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-04-15T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-04-15T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
@@ -6053,7 +6053,7 @@
           "SaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Li-SaaS",
+        "Impact_Level": "Li-SaaS (Moderate In Process)",
         "Original_Authorization_Date": "2018-06-08T04:00:00.000Z",
         "Sponsoring_Agency": "Department of Defense",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
@@ -6787,46 +6787,6 @@
         "CSP_POC_Email": "info@thearcanumgroup.com",
         "FedRAMP_In-Process_Date": "2014-12-08T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "OneStream Software",
-        "Cloud_Service_Provider_Package": "OneStream XF Cloud",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1721059275",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2018-06-08T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of the Treasury",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-        "Authorizing_Agency": "Department of the Treasury",
-        "Authorizing_Subagency": "Bureau of the Fiscal Service",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/OneStream%20Logo.jpg",
-        "Independent_Assessor": "First Information Technology Services, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1209051525",
-          "F1512167750"
-        ],
-        "CSP_Website": "www.onestreamsoftware.com",
-        "CSO_Description": "OneStream XF Cloud is a market-leading corporate performance management (CPM) that unifies and simplifies financial consolidation, planning, reporting, analytics and financial data quality for sophisticated organizations.\n\nOneStream’s unified platform enables organizations to modernize Finance, replace multiple legacy applications, and reduce the total cost of ownership of financial systems. OneStream unleashes Finance teams to spend less time on data integration and system maintenance – and more time focusing on driving business performance.\n\nPowered by Microsoft Azure, OneStream XF Cloud provides a secure platform for your most sacred financial data. OneStream’s robust cloud service is FedRAMP Moderate Authorized and complies with the most stringent industry regulations. Our flexible security model provides complete control over any intersection of data or user access, with unparalleled audit capabilities",
-        "Announcement_Date": "2018-09-18T04:00:00.000Z",
-        "CSP_POC_Name": "Ashleigh Costello",
-        "CSP_POC_Email": "fedramp_info@onestreamsoftware.com",
-        "FedRAMP_In-Process_Date": "2017-04-07T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2018-11-14T05:00:00.000Z",
-            "Letter_Expiration_Date": "2019-11-14T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Telecommunications and Information Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "First Information Technology Services, Inc."
-          }
-        ]
       },
       {
         "Cloud_Service_Provider_Name": "TIBCO Software Inc.",
@@ -9413,6 +9373,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Palo%20Alto%20Logo.jpg",
         "Independent_Assessor": "Kratos SecureInfo",
         "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
           "F1206061353",
           "F1212191840"
         ],
@@ -9424,6 +9385,46 @@
         "Fedramp_Ready_Date": "2018-10-17T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2018-03-12T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "OneStream Software",
+        "Cloud_Service_Provider_Package": "OneStream XF Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1721059275",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-07-19T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of the Treasury",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+        "Authorizing_Agency": "Department of the Treasury",
+        "Authorizing_Subagency": "Bureau of the Fiscal Service",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/OneStream%20Logo.jpg",
+        "Independent_Assessor": "First Information Technology Services, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1209051525",
+          "F1512167750"
+        ],
+        "CSP_Website": "www.onestreamsoftware.com",
+        "CSO_Description": "OneStream XF Cloud is a market-leading corporate performance management (CPM) that unifies and simplifies financial consolidation, planning, reporting, analytics and financial data quality for sophisticated organizations.\n\nOneStream’s unified platform enables organizations to modernize Finance, replace multiple legacy applications, and reduce the total cost of ownership of financial systems. OneStream unleashes Finance teams to spend less time on data integration and system maintenance – and more time focusing on driving business performance.\n\nPowered by Microsoft Azure, OneStream XF Cloud provides a secure platform for your most sacred financial data. OneStream’s robust cloud service is FedRAMP Moderate Authorized and complies with the most stringent industry regulations. Our flexible security model provides complete control over any intersection of data or user access, with unparalleled audit capabilities",
+        "Announcement_Date": "2018-09-18T04:00:00.000Z",
+        "CSP_POC_Name": "Ashleigh Costello",
+        "CSP_POC_Email": "fedramp_info@onestreamsoftware.com",
+        "FedRAMP_In-Process_Date": "2017-04-07T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2018-11-14T05:00:00.000Z",
+            "Letter_Expiration_Date": "2019-11-14T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Telecommunications and Information Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "First Information Technology Services, Inc."
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Adobe",
@@ -9654,7 +9655,7 @@
         "CSP_POC_Name": "Rashad Munawar",
         "CSP_POC_Email": "bbfedcompliance@blackberry.com",
         "Fedramp_Ready_Date": "2019-05-15T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2019-06-13T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2019-07-24T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -10351,7 +10352,7 @@
           "SaaS"
         ],
         "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Low",
+        "Impact_Level": "Li-SaaS",
         "Sponsoring_Agency": "Department of Commerce",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
         "Authorizing_Agency": "Department of Commerce",
