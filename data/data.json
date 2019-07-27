@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-07-26T04:40:50.310Z",
+    "Created_At": "2019-07-27T04:40:50.310Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -928,6 +928,15 @@
             "Authorizing_Agency": "Department of the Treasury",
             "Authorizing_Subagency": "Bureau of the Fiscal Service",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2019-07-01T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-07-11T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-07-11T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
@@ -6738,6 +6747,13 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/EXIM%20Logo.jpg",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Schellman & Company, LLC"
+          },
+          {
+            "Letter_Date": "2019-07-24T04:00:00.000Z",
+            "Authorizing_Agency": "Institute of Museum and Library Services",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/IMLS%20Logo.jpg",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Schellman & Company, LLC"
           }
         ]
       },
@@ -7369,8 +7385,8 @@
         "CSP_Website": "https://precision.heart.org  ",
         "CSO_Description": "The AHA Precision Medicine Platform is a cloud-based data resource that revolutionizes how the research community accelerates solutions for cardiovascular diseases. It provides unprecedented, open access to cardiovascular data sets, cutting-edge tools and forums for collaboration. Researchers can search, filter and unlock the data that matters most to their work - allowing them to find new solution for big health improvements faster than ever before. The Precision Medicine Platform is powered by Amazon Web Services and is a strategic initiative of the American Heart Association's Institute for Precision Cardiovascular Medicine.",
         "Announcement_Date": "2019-07-23T04:00:00.000Z",
-        "CSP_POC_Name": "Sean Finnerty",
-        "CSP_POC_Email": "fedramp@reancloud.com",
+        "CSP_POC_Name": "Joseph Schneider ",
+        "CSP_POC_Email": "complianceadvisoryservices@hitachivantara.com",
         "FedRAMP_In-Process_Date": "2017-06-15T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
@@ -10378,7 +10394,7 @@
         "CSO_Description": "OCLC is a nonprofit global library organization. Through OCLC, member libraries cooperatively produce and maintain WorldCat, the world’s most comprehensive global network of data about library collections and services. Libraries gain efficiencies through OCLC’s WorldShare Management Services (WMS), a cloud-based library services platform. With WorldCat as its foundation, WMS allows library staff to draw on the collaborative data and work of libraries worldwide for more efficient workflows, and to better manage and access resources in all formats. WMS offers all the applications needed to manage a library, including acquisitions, circulation, resource sharing, metadata and electronic resource management. WMS also offers analytics, including custom reports and visualizations, and a discovery service for library users. Stand-alone products supported within the WorldShare platform include Cataloging/Metadata Services, WorldShare ILL and WorldCat Discovery, which helps searchers find and get resources they need from a library nearby, or from member libraries worldwide.",
         "CSP_POC_Name": "Anthony Fisic",
         "CSP_POC_Email": "fedramp@oclc.org",
-        "FedRAMP_In-Process_Date": "2019-03-29T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2019-07-25T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -10398,31 +10414,6 @@
         "CSP_POC_Name": "Samantha Cowan",
         "CSP_POC_Email": "compliancemanager@onelogin.com",
         "Fedramp_Ready_Date": "2019-01-28T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "OnSolve",
-        "Cloud_Service_Provider_Package": "Send Word Now from OnSolve",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "F1508037126",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Private Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Expiration_Date": "2024-04-18T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of the Interior",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-        "Authorizing_Agency": "Department of the Interior",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/OnSolve%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://www.onsolve.com/",
-        "CSO_Description": "Send Word Now’s award-winning alerting service provides two-way, on-demand emergency and routine messaging to a designated group of recipients across a variety of platforms. From email to voicemail to mobile apps, alerts are transmitted to the communication device of each recipient’s choice. Leading organizations across a wide range of industries depend on Send Word Now to deliver thousands of messages across a broad range of recipients within just minutes.\n\nThe Send Word Now alerting service is an easy-to-use, member-activated interface that doesn’t require new hardware or technical expertise to master. Recipients can sign up for alerts via the communication device of their choice and update their personal profile as needed. Once an alert is sent, message recipients can respond via Send Word Now’s Get Word Back feature, providing managers with vital information as a situation develops. Within the alerting console, administrators can track and document responses, initiate conference calls and quickly reference all sent and received messages for auditing purposes. \n\nThrough the use of dynamic groups, multiple points of contact and unique features such as Get Word Back, AlertLinks, and push conferencing, customers can take advantage of Send Word Now’s customizable platform to maximize their crisis communication efforts.",
-        "Expected_Compliance_Date": "2019-03-31T04:00:00.000Z",
-        "CSP_POC_Name": "Andrew Baker",
-        "CSP_POC_Email": "fedramp@onsolve.com",
-        "FedRAMP_In-Process_Date": "2019-01-28T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -10703,7 +10694,7 @@
         "CSO_Description": "Questionmark OnDemand for Government is a Software-as-a-Service where United States Federal, State and Local government agencies and their contractors can safely and securely use a powerful tool for creating, delivering and reporting on assessments. Questionmark OnDemand for Government is hosted in a US-based, FedRAMP approved data center used by US government agencies and their service contractors. The service is targeted for data up to DoD Impact Level 4. Questionmark operates the software-as-a-service, including provisioning, scaling and maintaining hardware, operating systems, software, ensuring sufficient bandwidth and performance, installing upgrades and managing backups securely.",
         "CSP_POC_Name": "David Hunt",
         "CSP_POC_Email": "david.hunt@questionmark.com",
-        "FedRAMP_In-Process_Date": "2016-07-11T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2019-06-20T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -10954,7 +10945,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
         "Authorizing_Agency": "Department of Health and Human Services",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Sorcd%20Logo.jpg",
-        "Independent_Assessor": "EmeSec Incorporated",
+        "Independent_Assessor": "SecureIT",
         "CSP_Website": "https://www.sorcd.com/gov-fedramp",
         "CSO_Description": "Sorc’d is a cloud-hosted application whose purpose is to enhance a user’s existing research and writing processes with intuitive tools that seamlessly integrate with online research,  and content creation software. Sorc’d provides users with a way to create more relevant content, efficiently develop inbound marketing tools, and benefit from collective insight. Users snip relative content from a source and save it to their Sorc’d account; categorizing or tagging the snippet to be recalled later. Snippets may also be added directly to a Microsoft Office application such as Word, Excel, or PowerPoint. Snippets from those same applications may also be extracted and added to a user’s Sorc’d account. The same is also possible within Google Docs and Sheets.",
         "CSP_POC_Name": "Emily Girolamo",
