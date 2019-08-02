@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-08-01T04:40:49.910Z",
+    "Created_At": "2019-08-02T04:40:50.358Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1862,14 +1862,6 @@
             "Independent_Assessor": "Coalfire Systems, Inc."
           },
           {
-            "Letter_Expiration_Date": "2019-06-25T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-06-25T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Retirement Thrift Investment Board",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRTIB%20Logo.jpg",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          },
-          {
             "Letter_Date": "2018-05-08T04:00:00.000Z",
             "Letter_Expiration_Date": "2021-04-05T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-05-08T04:00:00.000Z",
@@ -2017,6 +2009,14 @@
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "Centers for Disease Control and Prevention",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Expiration_Date": "2019-11-30T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-06-05T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Retirement Thrift Investment Board",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRTIB%20Logo.jpg",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
@@ -3984,7 +3984,16 @@
         "CSP_POC_Name": "Tim Braun",
         "CSP_POC_Email": "NGCPaaS@ngc.com",
         "FedRAMP_In-Process_Date": "2017-02-23T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2019-07-30T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-04-02T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "NICE inContact",
@@ -7571,10 +7580,10 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CoSo%20Logo.jpg",
         "Independent_Assessor": "USCIS Independent Assessment Team",
         "CSP_Website": "https://www.cosocloud.com",
-        "CSO_Description": "CoSo's Private FedRAMP Compliant Cloud for Adobe Connect is a powerful and proven platform, enabling agencies to excel in their missions.   It provides 99.99% uptime to ensure government agencies have reliable collaboration for critical communications. CoSo's platform and services have been used to facilitate crisis-communications regarding food tampering, drug recalls, and international disasters & emergencies. Additionally, both the military and many federal agencies utilize CoSo's platform to provide secure training around the globe.",
+        "CSO_Description": "CoSo Cloud's Private FedRAMP Compliant Cloud for Adobe Connect and Adobe Captivate Prime is a powerful and proven platform, enabling agencies to excel in their missions. It provides 99.99% uptime to ensure government agencies have reliable collaboration for critical communications. It allows organizations to deliver modern, digital learning experiences for self-paced and real time training and skill development in a highly secure and reliable environment.\r\n\r\nAdobe Connect offers immersive online meeting experiences for collaboration, large scale webinars, and virtual classrooms. Adobe Captivate Prime is a Learning Management System that allows enterprise Learning and Development teams to drive personalized learning experiences for the employees and partners of their organization, across multiple devices.\r\n\r\nCoSo Cloud’s platform and services have been used to facilitate crisis-communications regarding food tampering, drug recalls, and international disasters & emergencies. Additionally, both the military and many federal agencies utilize CoSo Cloud's platform to provide secure training around the globe.",
         "Announcement_Date": "2017-06-21T04:00:00.000Z",
         "CSP_POC_Name": "Blake Loring",
-        "CSP_POC_Email": "security@ConnectSolutions.com",
+        "CSP_POC_Email": "security@cosocloud.com",
         "FedRAMP_In-Process_Date": "2012-09-12T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
@@ -10009,7 +10018,7 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Public Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Li-SaaS",
         "Sponsoring_Agency": "Department of Health and Human Services",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
@@ -10599,29 +10608,6 @@
         "CSP_POC_Name": "Jake Bajic",
         "CSP_POC_Email": "fedramp@paloaltonetworks.com",
         "FedRAMP_In-Process_Date": "2019-03-14T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "PEO Missiles and Space",
-        "Cloud_Service_Provider_Package": "PEOMSCLOUD",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1829532191",
-        "Service_Model": [
-          "IaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Defense",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-        "Authorizing_Agency": "Department of Defense",
-        "Authorizing_Subagency": "United States Army",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/PEOMS%20Logo.jpg",
-        "Independent_Assessor": "Army AMRDEC SCA-V Team Redstone Arsenal",
-        "CSO_Description": "PEO MS Cloud (PEOMSCLOUD) is an unclassified enclave consisting of Networks, VPN, firewall, etc. PEOMSCLOUD will provide Infrastructure as a Service (IAAS) on the DREN network to PEO Missiles and Space users along with potential DREN users.",
-        "CSP_POC_Name": "Don Brafford",
-        "CSP_POC_Email": "usarmy.redstone.peo-ms.mbx.2help@mail.mil",
-        "FedRAMP_In-Process_Date": "2018-07-26T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
