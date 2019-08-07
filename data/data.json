@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-08-06T04:40:50.429Z",
+    "Created_At": "2019-08-07T04:40:49.898Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -6805,35 +6805,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "The Arcanum Group Inc.",
-        "Cloud_Service_Provider_Package": "Integrated Logistics Management System",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1607057911",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Low",
-        "Original_Authorization_Date": "2018-07-13T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Commerce",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-        "Authorizing_Agency": "Department of Commerce",
-        "Authorizing_Subagency": "United States Census Bureau",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Arcanum%20Logo.jpg",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866"
-        ],
-        "CSP_Website": "www.thearcanumgroup.com",
-        "CSO_Description": "The Integrated Logistics Management System is a cloud-based, Software-as-a-Subscription solution, hosted and licensed by The Arcanum Group, Inc. ILMS provides the U.S. Census Bureau with inventory, warehousing, and customer service modules of the commercial off-the-shelf Infor SyteLine 9.00.30 Enterprise Resource Planning application. The system provides logistics support for censuses and surveys with real time, integrated logistics data for decision support, program control, and response to unplanned requirements. The ILMS system supports planning and execution of logistics activities as well as capturing logistics costs.",
-        "Announcement_Date": "2018-09-13T04:00:00.000Z",
-        "CSP_POC_Name": "Jason Zimmer",
-        "CSP_POC_Email": "info@thearcanumgroup.com",
-        "FedRAMP_In-Process_Date": "2014-12-08T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "TIBCO Software Inc.",
         "Cloud_Service_Provider_Package": "Tibbr",
         "Path": "Agency",
@@ -7407,6 +7378,32 @@
         "CSP_POC_Name": "Joseph Schneider ",
         "CSP_POC_Email": "complianceadvisoryservices@hitachivantara.com",
         "FedRAMP_In-Process_Date": "2017-06-15T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "XTec, Incorporated",
+        "Cloud_Service_Provider_Package": "AuthentX Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1714261912",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "High",
+        "Original_Authorization_Date": "2018-09-24T04:00:00.000Z",
+        "Original_Expiration_Date": "2021-09-24T04:00:00.000Z",
+        "Sponsoring_Agency": "United States Agency for Global Media",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAGM%20Logo.jpg",
+        "Authorizing_Agency": "United States Agency for Global Media",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/AuthentX%20Cloud%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "http://www.xtec.com/",
+        "CSO_Description": "The AuthentX Cloud provides end-to-end identity, credential and access management to US Federal agencies, quasi-federal agencies, and private organizations that require interoperable identity authentication services with Federal systems and infrastructure. The primary use of AuthentX in the Federal government is to satisfy Homeland Security Presidential Directive #12 (HSPD-12), Federal Identity, Credential and Access Management (FICAM) and related policies, mandates and standards from the Office of Management and Budget (OMB), Department of Homeland Security (DHS), and National Institute of Standards and Technology (NIST) Special Publications (SP).  Therefore, the AuthentX Cloud solution offered is aligned with federal mandates and high assurance requirements regarding cybersecurity, multi-factor authentication, Federal interoperability, and secure solutions for consolidation of data centers.  \n\nThe AuthentX Cloud consists of COTS hardware, software, and network components assembled and connected in multiple data centers.  Hardware includes the XTec AuthentX XaNode appliances, the XTec AuthentX Secure Appliance (ASA) 2000 enrollment and issuance peripherals, the XTec XNode and XTec card readers, and SafeNet Hardware Security Modules. The software of the AuthentX system is built entirely from source to produce the AuthentX Linux Operating System (OS), customized embedded Microsoft OS, the AuthentX Enrollment Manager application, as well as other software packages. ",
+        "Announcement_Date": "2019-08-02T04:00:00.000Z",
+        "CSP_POC_Name": "Heather Brooks",
+        "CSP_POC_Email": "fedramp@xtec.com",
+        "FedRAMP_In-Process_Date": "2018-04-26T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -8173,7 +8170,7 @@
         "Sponsoring_Agency": "JAB Authorization",
         "Authorizing_Agency": "JAB Authorization",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Axon%20Logo.jpg",
-        "Independent_Assessor": "EY",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
         "Underlying_CSP_Package_ID": [
           "F1603087869"
         ],
@@ -9532,6 +9529,67 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "The Arcanum Group Inc.",
+        "Cloud_Service_Provider_Package": "Integrated Logistics Management System",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1607057911",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Low",
+        "Original_Authorization_Date": "2019-07-09T04:00:00.000Z",
+        "Original_Expiration_Date": "2020-07-09T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Commerce",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+        "Authorizing_Agency": "Department of Commerce",
+        "Authorizing_Subagency": "United States Census Bureau",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Arcanum%20Logo.jpg",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.thearcanumgroup.com",
+        "CSO_Description": "The Integrated Logistics Management System is a cloud-based, Software-as-a-Subscription solution, hosted and licensed by The Arcanum Group, Inc. ILMS provides the U.S. Census Bureau with inventory, warehousing, and customer service modules of the commercial off-the-shelf Infor SyteLine 9.00.30 Enterprise Resource Planning application. The system provides logistics support for censuses and surveys with real time, integrated logistics data for decision support, program control, and response to unplanned requirements. The ILMS system supports planning and execution of logistics activities as well as capturing logistics costs.",
+        "Announcement_Date": "2018-09-13T04:00:00.000Z",
+        "CSP_POC_Name": "Jason Zimmer",
+        "CSP_POC_Email": "info@thearcanumgroup.com",
+        "FedRAMP_In-Process_Date": "2014-12-08T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "R&K Solutions, Inc",
+        "Cloud_Service_Provider_Package": "GoRPM (Geospatial Real Property Management)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1733061545",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-05-20T04:00:00.000Z",
+        "Original_Expiration_Date": "2020-05-21T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Defense",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+        "Authorizing_Agency": "Department of Defense",
+        "Authorizing_Subagency": "Defense Information Systems Agency",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/RK%20Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "https://rksolutions.com/gorpm",
+        "CSO_Description": "GoRPM empowers organizations to collect, aggregate, analyze, manage and understand their real property, personal property, and facilities investments. GoRPM provides data driven decision making in many areas including asset inventory, strategic movement of assets (Basing), space utilization, condition assessment, sustainability, cost analysis, and budget planning and forecasting.  The GoRPM is highly configurable and can be quickly implemented and scaled to meet the needs of government agencies.",
+        "Announcement_Date": "2019-08-06T04:00:00.000Z",
+        "CSP_POC_Name": "Michael Nichols",
+        "CSP_POC_Email": "fedramp@rksolutions.com",
+        "Fedramp_Ready_Date": "2018-05-29T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2018-10-22T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Adobe",
         "Cloud_Service_Provider_Package": "Adobe Analytics",
         "Path": "Agency",
@@ -10057,25 +10115,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Frame, Inc.",
-        "Cloud_Service_Provider_Package": "Frame Platform Government Edition",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR1824038232",
-        "Service_Model": [
-          "PaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Frame%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://fra.me/gov-us",
-        "CSO_Description": "Frame is a secure cloud platform that lets organizations deliver amazing Windows and Linux applications and workflows to users on all connected devices. It’s the easiest way to centrally deliver and manage enterprise applications. All users need is a browser – no plugins or additional hardware required.\n\nFrame is used in hundreds of businesses, schools, agencies and some of the largest software vendors. Customers can use dozens of integrations to connect Frame to their existing storage, identity, security, and networking solutions - cutting the time to value from months to minutes.\n\nFrame Platform Government Edition is a cloud workspace purpose-built for public sector customers. Enhanced security, zero-client ubiquitous access, centralized management, hyper-scale with 10,000s of users are just some of the features. Our market leading Quality of Service (QOS) provides great user experience and interactivity on any network. Frame Platform Government Edition is operated and managed in the US AWS and Azure Government regions. the Frame provides public sector customers a secure cloud workspace with security and compliance built in. ",
-        "CSP_POC_Name": "David Reber",
-        "CSP_POC_Email": "security@fra.me",
-        "Fedramp_Ready_Date": "2018-08-07T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Galvanize, Inc.",
         "Cloud_Service_Provider_Package": "HighBond",
         "Path": "Agency",
@@ -10425,6 +10464,30 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Nutanix",
+        "Cloud_Service_Provider_Package": "Nutanix Xi Government Cloud",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1824038232",
+        "Service_Model": [
+          "PaaS, SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Commerce",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+        "Authorizing_Agency": "Department of Commerce",
+        "Authorizing_Subagency": "United States Patent and Trademark Office",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Nutanix%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://www.nutanix.com/solutions/federal",
+        "CSO_Description": "Nutanix Xi Government Cloud provides US government agencies and supporting customers a single point of management and analysis across all of their clouds. Nutanix Government Cloud provides a suite of PaaS and SaaS services to enable streamline cloud management, application delivery and governance. Nutanix Government Cloud provides solutions to enable customers to adhere to U.S. International Traffic in Arms Regulations (ITAR) regulations. Nutanix Government Cloud consists of the following services: Xi Frame and Xi Beam.\n\nNutanix Frame is a secure cloud platform that lets organizations deliver amazing Windows and Linux applications and workflows to users on all connected devices.  Frame is a cloud Desktop as a Service (DaaS) and cloud orchestration platform purpose-built for public sector customers. Nutanix Frame is operated and managed in the US AWS and Azure Government regions and brokers secure connectivity into your enterprise hybrid cloud environment. Frame delivers public sector customers a secure cloud DaaS and cloud orchestration with security and compliance built in.\n\nBeam is a multi-cloud governance service that provides organizations with deep visibility and rich analytics detailing cloud consumption patterns. Beam proactively identifies idle and underutilized resources, and delivers specific recommendations to right-size infrastructure services to ensure optimal cloud consumption. Beam’s intelligent reserved instance purchase recommendations help drive deep cost savings. Beam also automates cloud security compliance using 250+ audit checks that identify security vulnerabilities in real-time. The solution uses policy based automation to resolve potential threats before they become concerns. Beam helps you certify and maintain compliance with regulatory policies such as HIPAA, ISO, PCI-DSS, CIS, NiST and SOC-2. With Beam you gain complete visibility, optimization and control over your cloud consumption to ensure cost governance and security compliance.",
+        "CSP_POC_Name": "Nutanix Compliance Team",
+        "CSP_POC_Email": "compliance@nutanix.com",
+        "FedRAMP_In-Process_Date": "2019-07-29T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "OCLC Incorporated",
         "Cloud_Service_Provider_Package": "WorldShare Management Services",
         "Path": "Agency",
@@ -10722,31 +10785,6 @@
         "CSP_POC_Name": "David Hunt",
         "CSP_POC_Email": "david.hunt@questionmark.com",
         "FedRAMP_In-Process_Date": "2019-06-20T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "R&K Solutions, Inc",
-        "Cloud_Service_Provider_Package": "GoRPM (Geospatial Real Property Management)",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1733061545",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Defense",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-        "Authorizing_Agency": "Department of Defense",
-        "Authorizing_Subagency": "Defense Information Systems Agency",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/RK%20Logo.jpg",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "CSP_Website": "https://rksolutions.com/gorpm",
-        "CSO_Description": "GoRPM empowers organizations to collect, aggregate, analyze, manage and understand their real property, personal property, and facilities investments. GoRPM provides data driven decision making in many areas including asset inventory, strategic movement of assets (Basing), space utilization, condition assessment, sustainability, cost analysis, and budget planning and forecasting.  The GoRPM is highly configurable and can be quickly implemented and scaled to meet the needs of government agencies.",
-        "CSP_POC_Name": "Michael Nichols",
-        "CSP_POC_Email": "fedramp@rksolutions.com",
-        "Fedramp_Ready_Date": "2018-05-29T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2018-10-22T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -11271,26 +11309,26 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "XTec, Incorporated",
-        "Cloud_Service_Provider_Package": "AuthentX Cloud",
+        "Cloud_Service_Provider_Name": "Wellspring Worldwide, Inc.",
+        "Cloud_Service_Provider_Package": "Sophia Knowledge Management System",
         "Path": "Agency",
         "Designation": "In Process",
-        "Package_ID": "FR1714261912",
+        "Package_ID": "FR1924344515",
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "High",
-        "Sponsoring_Agency": "United States Agency for Global Media",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAGM%20Logo.jpg",
-        "Authorizing_Agency": "United States Agency for Global Media",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/AuthentX%20Cloud%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "http://www.xtec.com/",
-        "CSO_Description": "The AuthentX Cloud provides end-to-end identity, credential and access management to US Federal agencies, quasi-federal agencies, and private organizations that require interoperable identity authentication services with Federal systems and infrastructure. The primary use of AuthentX in the Federal government is to satisfy Homeland Security Presidential Directive #12 (HSPD-12), Federal Identity, Credential and Access Management (FICAM) and related policies, mandates and standards from the Office of Management and Budget (OMB), Department of Homeland Security (DHS), and National Institute of Standards and Technology (NIST) Special Publications (SP).  Therefore, the AuthentX Cloud solution offered is aligned with federal mandates and high assurance requirements regarding cybersecurity, multi-factor authentication, Federal interoperability, and secure solutions for consolidation of data centers.  \n\nThe AuthentX Cloud consists of COTS hardware, software, and network components assembled and connected in multiple data centers.  Hardware includes the XTec AuthentX XaNode appliances, the XTec AuthentX Secure Appliance (ASA) 2000 enrollment and issuance peripherals, the XTec XNode and XTec card readers, and SafeNet Hardware Security Modules. The software of the AuthentX system is built entirely from source to produce the AuthentX Linux Operating System (OS), customized embedded Microsoft OS, the AuthentX Enrollment Manager application, as well as other software packages. ",
-        "CSP_POC_Name": "Heather Brooks",
-        "CSP_POC_Email": "fedramp@xtec.com",
-        "FedRAMP_In-Process_Date": "2018-04-26T04:00:00.000Z",
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Wellspring%20Logo.jpg",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "CSP_Website": "https://www.wellspring.com",
+        "CSO_Description": "Wellspring Sophia is a government compliant Software-as-a-Service (SaaS) solution to manage all of the initiatives and activities required in the technology transfer field. Sophia provides over 30 modules, plug-ins, and integrations that include IP management, contract management, reporting, disclosure and project submissions, and more. With more than 15 years in the tech transfer industry and more than 250 institutions using our solutions, Wellspring provides the most complete technology transfer management software available with unparalleled functionality, flexibility, and support staff to professionals in the technology transfer field worldwide.",
+        "CSP_POC_Name": "Matt Hamilton",
+        "CSP_POC_Email": "fedramp@wellspring.com",
+        "FedRAMP_In-Process_Date": "2019-08-02T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       }
     ],
