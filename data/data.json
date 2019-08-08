@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-08-07T04:40:49.898Z",
+    "Created_At": "2019-08-08T04:40:50.318Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2019,6 +2019,13 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRTIB%20Logo.jpg",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2019-06-27T04:00:00.000Z",
+            "Authorizing_Agency": "Tennessee Valley Authority",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-TennesseeValleyAuthority-Logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
           }
         ]
       },
@@ -2771,12 +2778,12 @@
       },
       {
         "Cloud_Service_Provider_Name": "United States Department of Agriculture",
-        "Cloud_Service_Provider_Package": "USDA National Information Technology Center",
+        "Cloud_Service_Provider_Package": "USDA Digital Infrastructure Services Center",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "AGENCYNITCIAAS",
         "Service_Model": [
-          "IaaS, PaaS"
+          "PaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
@@ -6870,6 +6877,13 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Schellman & Company, LLC"
+          },
+          {
+            "Letter_Date": "2019-06-27T04:00:00.000Z",
+            "Authorizing_Agency": "Tennessee Valley Authority",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-TennesseeValleyAuthority-Logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Schellman & Company, LLC"
           }
         ]
       },
@@ -7754,9 +7768,8 @@
             "Independent_Assessor": "Schellman & Company, LLC"
           },
           {
-            "Letter_Date": "2019-06-07T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-03-07T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-06-07T04:00:00.000Z",
+            "Letter_Date": "2019-08-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-08-07T04:00:00.000Z",
             "Authorizing_Agency": "Federal Trade Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
             "Include_In_Marketplace": "Y",
@@ -11745,17 +11758,17 @@
         "Name": "MBL Technologies",
         "Accreditation_Date": "2015-12-22T05:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/MBL%20LOGO.jpg",
-        "Description": "**Pre-Assessment**: Review and/or create FedRAMP compliant system security documentation, to include but not limited to System Security Plan (SSP), Contingency Plan, and a Control Implementation Summary. These documents may also be leveraged in support of the organization’s Authorization to Operate (ATO). \n\n**Full Assessment**: Review all system documentation to ensure all NIST SP 800-53 and organizational security controls are in place. The assessors will interview necessary organizational staff to confirm policy implementation and gather applicable evidence. This will also include vulnerability and penetration testing of the environment. At the conclusion of this phase, the package will be submitted to either the sponsoring federal agency or the Joint Authorization Board (JAB).\n\n**Continuous Monitoring**: Mitigate the assessment findings by working with system owners to update any policy or procedures that are non-compliant. MBL will also work with network administrators to recommend remediation processes for technical vulnerabilities. \n\n**Annual Assessment/Monthly Scanning**: Perform monthly scanning of the environment in support of the FedRAMP continuous monitoring requirements. This phase will also include an annual assessment of one-third of the information system’s security controls. \n\n**FedRAMP Readiness**: Conduct the readiness assessment, which would result in identified gaps for mitigation as an organization moves into the assessment preparation/pre-assessment phase.",
+        "Description": "**Pre-Assessment**: Review and/or create FedRAMP compliant system security documentation, to include but not limited to System Security Plan (SSP), Contingency Plan, and a Control Implementation Summary. These documents may also be leveraged in support of the organization’s Authorization to Operate (ATO). \n\n**Full Assessment**: Review all system documentation to ensure all NIST SP 800-53 and organizational security controls are in place. The assessors will interview necessary organizational staff to confirm policy implementation and gather applicable evidence. This will also include vulnerability and penetration testing of the environment. At the conclusion of this phase, the package will be submitted to either the sponsoring federal agency or the Joint Authorization Board (JAB).\n\n**Continuous Monitoring**: Mitigate the assessment findings by working with system owners to update any policy or procedures that are non-compliant. MBL will also work with network administrators to recommend remediation processes for technical vulnerabilities. \n\n**Annual Assessment/Monthly Scanning**: Perform monthly scanning of the environment in support of the FedRAMP continuous monitoring requirements. This phase will also include an annual assessment of one-third of the information system’s security controls. \n\n**FedRAMP Readiness**: Conduct the readiness assessment, which would result in identified gaps for mitigation as an organization moves into the assessment preparation/pre-assessment phase.\n\nPerformed Assessments for SAP NS2 (2018) & Avue Technologies (2016 & 2017)",
         "POC_Name": "Danielle Shostal",
         "POC_Email": "fedramp@mbltechnologies.com",
         "website": "www.mbltechnologies.com",
         "Remediation": "N",
         "Founded": 2007,
         "Primary_Office_Locations": "1100 N Glebe Road Suite 1010, Arlington, VA 22201",
-        "FedRAMP_Assessed": "Avue Technologies",
+        "FedRAMP_Assessed": "Avue Technologies\nSAP NS2",
         "Provide_Consulting_Services": "Y",
-        "Description_of_Consulting_Services": "Supported NS2 in creating their FedRAMP document to include SSP, SOPs and Contingency Plan and Test. Provided Subject Matter Experts on system boundary, encryption and data flow options to satisfy requirements.",
-        "Consulting_Services_To": "NS2",
+        "Description_of_Consulting_Services": "Supported Solvitur in creating their FedRAMP document to include SSP, SOPs and Contingency Plan and Test. Provided Subject Matter Experts on system boundary, encryption and data flow options to satisfy requirements.",
+        "Consulting_Services_To": "Solvitur",
         "Additional_Cyber_Frameworks": "None"
       },
       {
