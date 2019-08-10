@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-08-09T04:40:50.112Z",
+    "Created_At": "2019-08-10T04:40:50.125Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1396,6 +1396,15 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "United States Patent and Trademark Office",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2019-07-19T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-08-05T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-08-05T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
@@ -2857,8 +2866,8 @@
         "CSP_Website": "www.air-watch.com",
         "CSO_Description": "AirWatch simplifies mobility for organizations, while empowering end users. With AirWatch, organizations can easily deploy, configure, secure, manage and support smartphones, tablets, laptops and other devices across multiple mobile applications and operating systems. AirWatch includes industry-leading mobile device, email, application, content and browser management solutions. Whether enabling a Bring Your Own Device (BYOD) program or corporate-owned and line-of-business devices, organizations can implement these solutions standalone, in a dual persona containerized solution or as a comprehensive solution based on device type, use case and user role in the organization. This integrated solution helps companies reduce costs and increase efficiency, while mitigating security risks and preventing data loss.",
         "Announcement_Date": "2016-10-14T04:00:00.000Z",
-        "CSP_POC_Name": "Jeffrey Edelheit",
-        "CSP_POC_Email": "infosec2@vmware.com",
+        "CSP_POC_Name": "Thomas Simmons",
+        "CSP_POC_Email": "tsimmons@vmware.com",
         "FedRAMP_In-Process_Date": "2016-04-06T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
@@ -6648,7 +6657,16 @@
         "CSP_POC_Name": "Laurie Kelly ",
         "CSP_POC_Email": "fedramp@1901group.com ",
         "FedRAMP_In-Process_Date": "2015-07-24T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2019-07-19T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Justice",
+            "Authorizing_Subagency": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Intelliworx",
@@ -10796,9 +10814,10 @@
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of State",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
-        "Authorizing_Agency": "Department of State",
+        "Sponsoring_Agency": "Department of Homeland Security",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+        "Authorizing_Agency": "Department of Homeland Security",
+        "Authorizing_Subagency": "Customs and Border Protection",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/QuestionMark%20Logo.jpg",
         "Independent_Assessor": "Schellman & Company, LLC",
         "CSP_Website": "www.questionmark.com/",
@@ -11306,7 +11325,7 @@
         "CSP_Website": "https://my.workspaceone.com/products/VMware-Workspace-ONE  ",
         "CSO_Description": "Workspace ONE simplifies mobility for organizations, while empowering end users. With Workspace ONE, organizations can easily deploy, configure, secure, manage and support smartphones, tablets, laptops and other devices across multiple mobile applications and operating systems. Workspace ONE includes industry-leading mobile device, email, application, content and browser management solutions. Whether enabling a Bring Your Own Device (BYOD) program or corporate-owned and line-of-business devices, organizations can implement these solutions standalone, in a dual persona containerized solution or as a comprehensive solution based on device type, use case and user role in the organization. This integrated solution helps companies reduce costs and increase efficiency, while mitigating security risks and preventing data loss.",
         "CSP_POC_Name": "Thomas Simmons ",
-        "CSP_POC_Email": "DL.InfoSec.Federal@vmware.com",
+        "CSP_POC_Email": "tsimmons@vmware.com",
         "FedRAMP_In-Process_Date": "2019-02-20T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
