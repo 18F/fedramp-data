@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-08-26T04:40:49.948Z",
+    "Created_At": "2019-08-27T04:40:50.151Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -7039,7 +7039,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Centrify",
-        "Cloud_Service_Provider_Package": "Centrify Identity Services & Centrify Privilege Services",
+        "Cloud_Service_Provider_Package": "Centrify Privileged Access Service",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "F1606177905",
@@ -7052,14 +7052,14 @@
         "Sponsoring_Agency": "Overseas Private Investment Corporation",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/OPIC%20Logo.png",
         "Authorizing_Agency": "Overseas Private Investment Corporation",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Centrify%20Logo2.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Centrify%20Logo3.jpg",
         "Independent_Assessor": "Kratos SecureInfo",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW",
           "F1603087869"
         ],
         "CSP_Website": "www.centrify.com",
-        "CSO_Description": "Centrify Privilege Access Service (PAS) unifies identity and privilege management into an enterprise cloud service to secure and manage privileged access. Centrify PAS improves privileged user productivity and secures access to cloud and on-premises infrastructure via password vaulting, single sign-on, and multi-factor authentication. Centrify PAS allows agencies to securely access servers and infrastructure via their Active Directory accounts, as well as optionally via LDAP or cloud identity stores for contractors or outside partners whose identities will not be stored within SSA’s Active Directory. Centrify PAS provides security, simplicity, and control, as IT gets one place to manage all privileged accounts, while admins get single sign-on across cloud and on-premises workloads without the use of a VPN.",
+        "CSO_Description": "The Centrify Privileged Access Service (PAS) allows government agencies to establish the core privileged access controls across their growing attack surface as mandated by many regulations and industry standards (e.g., CIS, DHS CDM Phase 2, FISMA, HIPAA, NIST SP 800-Series, PCI DSS). Vaulting away shared account passwords, application passwords, and secrets is just one of the best practices to secure privileged access. Managing the vaulted credentials, leveraging secure administrative access via a distributed local jump box, establishing VPN-less privileged session to remotely access targeted infrastructure, and implementing multi-factor authentication are at the root of reducing threats, intentional or not. Centrify PAS allows for all the above, as well as enables agencies to authenticate internal and outsourced IT users through Active Directory, LDAP, or other cloud identity stores. Agencies can use one or any combination of these identity stores or grant granular, federated privileged access to resources for partners and third-party vendors. Ultimately, Centrify PAS grants access from a Web UI or mobile app and covers an agency’s entire attack surface, both on-premises and in the cloud. Centrify PAS minimizes the attack surface, improves audit and compliance visibility, and reduces risk, complexity, and costs. Centrify PAS seamlessly integrates with Centrify’s other solutions, namely the Centrify Authentication Service (which helps verify who requests privileged access by leveraging enterprise directory identities rather than local accounts) and Centrify Privilege Elevation Service (which enables host-based enforcement of just enough, just-in-time privileged access best practices).",
         "Announcement_Date": "2019-04-18T04:00:00.000Z",
         "CSP_POC_Name": "Greg Cranley",
         "CSP_POC_Email": "fedramp@centrify.com",
@@ -10748,29 +10748,6 @@
         "CSP_POC_Name": "Nutanix Compliance Team",
         "CSP_POC_Email": "compliance@nutanix.com",
         "FedRAMP_In-Process_Date": "2019-07-29T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "OCLC Incorporated",
-        "Cloud_Service_Provider_Package": "WorldShare Management Services",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1734750951",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Li-SaaS",
-        "Sponsoring_Agency": "Department of Commerce",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-        "Authorizing_Agency": "Department of Commerce",
-        "Authorizing_Subagency": "United States Census Bureau",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/OCLC%20Logo.jpg",
-        "CSP_Website": "http://oclc.org",
-        "CSO_Description": "OCLC is a nonprofit global library organization. Through OCLC, member libraries cooperatively produce and maintain WorldCat, the world’s most comprehensive global network of data about library collections and services. Libraries gain efficiencies through OCLC’s WorldShare Management Services (WMS), a cloud-based library services platform. With WorldCat as its foundation, WMS allows library staff to draw on the collaborative data and work of libraries worldwide for more efficient workflows, and to better manage and access resources in all formats. WMS offers all the applications needed to manage a library, including acquisitions, circulation, resource sharing, metadata and electronic resource management. WMS also offers analytics, including custom reports and visualizations, and a discovery service for library users. Stand-alone products supported within the WorldShare platform include Cataloging/Metadata Services, WorldShare ILL and WorldCat Discovery, which helps searchers find and get resources they need from a library nearby, or from member libraries worldwide.",
-        "CSP_POC_Name": "Anthony Fisic",
-        "CSP_POC_Email": "fedramp@oclc.org",
-        "FedRAMP_In-Process_Date": "2019-07-25T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
