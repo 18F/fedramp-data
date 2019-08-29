@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-08-28T04:40:50.963Z",
+    "Created_At": "2019-08-29T04:40:50.023Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1026,6 +1026,15 @@
             "Letter_Expiration_Date": "2022-06-26T04:00:00.000Z",
             "Authorizing_Agency": "Department of Veterans Affairs",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Expiration_Date": "2022-08-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-08-27T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Centers for Disease Control and Prevention",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
@@ -2323,7 +2332,7 @@
         "CSP_Website": "https://www.esri.com/en-us/arcgis/services/managed-cloud",
         "CSO_Description": "Esri is a leading provider of geographic information systems (GIS) with decades of experience hosting solutions for customers. Esri Managed Cloud Services provides organizations with ready-to-use instances of ArcGIS running in the cloud and includes the infrastructure (facilities, hardware, network, and security), the software (Esri and third party), application deployment, testing, ongoing data management (data updates, backup, and archive), technical support, monitoring, and supporting 24/7 Security Operations Center. The environment has been architected following FISMA, NIST, and CIS guidance to facilitate FedRAMP moderate geospatial Platform-as-a-Service (PaaS) and Software-as-a-Service (SaaS) authorizations of our customer environments. EMCS enables quickly sharing geospatial content and providing access to critical information while the organization maintains complete control over the access to their services and maps. EMCS leverages the Amazon Web Services East / West Regions FedRAMP moderate cloud infrastructure.",
         "Announcement_Date": "2015-08-20T04:00:00.000Z",
-        "CSP_POC_Name": "Ryan Kelly",
+        "CSP_POC_Name": "Erin Ross",
         "CSP_POC_Email": "EIST_Security@esri.com",
         "FedRAMP_In-Process_Date": "2015-01-14T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
@@ -9832,6 +9841,32 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Oracle",
+        "Cloud_Service_Provider_Package": "Oracle Cloud Infrastructure-Government Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1900048743",
+        "Service_Model": [
+          "IaaS, PaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-08-25T04:00:00.000Z",
+        "Original_Expiration_Date": "2020-08-23T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Defense",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+        "Authorizing_Agency": "Department of Defense",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20CI%20Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "https://cloud.oracle.com",
+        "CSO_Description": "Oracle Cloud Infrastructure's government regions provide public sector entities with best-in-class security and industry leading price-performance. With a deep understanding of the needs of the public sector built on decades of experience, Oracle enables government entities to move their most challenging workloads to the cloud, achieving significant benefits and return on investment. After moving to the cloud, agencies can use Oracle development tools to enhance existing applications while creating and integrating new cloud-native applications. With Oracle Cloud Infrastructure, public sector entities can bring their past and build their future.",
+        "Announcement_Date": "2019-08-27T04:00:00.000Z",
+        "CSP_POC_Name": "Rico McGee",
+        "CSP_POC_Email": "fedrampinfo_us@oracle.com",
+        "FedRAMP_In-Process_Date": "2019-01-31T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Adobe",
         "Cloud_Service_Provider_Package": "Adobe Analytics",
         "Path": "Agency",
@@ -10799,30 +10834,6 @@
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
         ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Oracle",
-        "Cloud_Service_Provider_Package": "Oracle Cloud Infrastructure-Government Cloud",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1900048743",
-        "Service_Model": [
-          "IaaS, PaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Defense",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-        "Authorizing_Agency": "Department of Defense",
-        "Authorizing_Subagency": "United States Air Force",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20CI%20Logo.jpg",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "CSP_Website": "https://cloud.oracle.com",
-        "CSO_Description": "Oracle Cloud Infrastructure's government regions provide public sector entities with best-in-class security and industry leading price-performance. With a deep understanding of the needs of the public sector built on decades of experience, Oracle enables government entities to move their most challenging workloads to the cloud, achieving significant benefits and return on investment. After moving to the cloud, agencies can use Oracle development tools to enhance existing applications while creating and integrating new cloud-native applications. With Oracle Cloud Infrastructure, public sector entities can bring their past and build their future.",
-        "CSP_POC_Name": "Rico McGee",
-        "CSP_POC_Email": "fedrampinfo_us@oracle.com",
-        "FedRAMP_In-Process_Date": "2019-01-31T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "Oracle",
