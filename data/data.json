@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-09-09T04:40:49.961Z",
+    "Created_At": "2019-09-10T04:40:50.753Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1162,15 +1162,6 @@
             "Independent_Assessor": "Coalfire Systems, Inc."
           },
           {
-            "Letter_Date": "2018-08-29T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-08-31T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Telecommunications and Information Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          },
-          {
             "Letter_Date": "2018-03-19T04:00:00.000Z",
             "Letter_Expiration_Date": "2021-03-13T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-03-19T04:00:00.000Z",
@@ -1204,6 +1195,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2019-03-28T04:00:00.000Z",
             "Authorizing_Agency": "General Services Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2019-08-29T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-08-31T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Telecommunications and Information Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
@@ -1961,7 +1961,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Amazon%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.aws.amazon.com",
-        "CSO_Description": "AWS GovCloud (US) is an AWS Region designed to allow US government agencies and customers supporting the US government to move more sensitive workloads into the cloud. In addition to complying with FedRAMP requirements, the AWS GovCloud (US) framework adheres to U.S. International Traffic in Arms Regulations (ITAR) regulations. Additional information is available at [http://aws.amazon.com/govcloud-us/](http://aws.amazon.com/govcloud-us/).\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: Amazon CloudWatch Logs, Amazon DynamoDB, Amazon ElastiCache, Amazon Elastic Block Store (EBS), Amazon Elastic Compute Cloud (EC2), Amazon Elastic MapReduce, Amazon Glacier, Amazon Kinesis Data Streams, Amazon Redshift, Amazon RDS (MariaDB, MySQL, Oracle, Postgres, SQL Server), Amazon Simple Notification Service (SNS), Amazon Simple Queue Service (SQS), Amazon Simple Storage Service (S3), Amazon Simple Workflow Service (SWF), Amazon Virtual Private Cloud (VPC), AWS CloudFormation, AWS CloudTrail, AWS Database Migration Service, AWS Identity & Access Management (IAM), AWS Key Management Service (KMS), AWS Snowball, AWS Snowball Edge",
+        "CSO_Description": "AWS GovCloud (US) is an AWS Region designed to allow US government agencies and customers supporting the US government to move more sensitive workloads into the cloud. In addition to complying with FedRAMP requirements, the AWS GovCloud (US) framework adheres to U.S. International Traffic in Arms Regulations (ITAR) regulations. Additional information is available at [http://aws.amazon.com/govcloud-us/](http://aws.amazon.com/govcloud-us/).\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: Amazon API Gateway, Amazon CloudWatch Logs, Amazon DynamoDB, Amazon ElastiCache, Amazon Elastic Block Store (EBS), Amazon Elastic Compute Cloud (EC2), Amazon Elastic MapReduce, Amazon Glacier, Amazon Inspector, Amazon Kinesis Data Streams, Amazon Polly, Amazon Redshift, Amazon RDS (MariaDB, MySQL, Oracle, Postgres, SQL Server), Amazon Simple Notification Service (SNS), Amazon Simple Queue Service (SQS), Amazon Simple Storage Service (S3), Amazon Simple Workflow Service (SWF), Amazon Virtual Private Cloud (VPC), AWS CloudFormation, AWS CloudTrail, AWS Config, AWS Database Migration Service, AWS Direct Connect, AWS Identity & Access Management (IAM), AWS Key Management Service (KMS), AWS Lambda, AWS Snowball, AWS Snowball Edge",
         "Announcement_Date": "2016-06-21T04:00:00.000Z",
         "CSP_POC_Name": "AWS FedRAMP Compliance Team",
         "CSP_POC_Email": "aws-compliance-fedramp@amazon.com",
@@ -4323,15 +4323,6 @@
             "Independent_Assessor": "Coalfire Systems, Inc."
           },
           {
-            "Letter_Date": "2018-04-25T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-05-07T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "United States Fire Association",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          },
-          {
             "Letter_Date": "2018-07-27T04:00:00.000Z",
             "Letter_Expiration_Date": "2021-07-26T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-07-27T04:00:00.000Z",
@@ -4435,6 +4426,16 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2019-08-26T04:00:00.000Z",
+            "Letter_Expiration_Date": "2019-12-06T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-08-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Federal Emergency Management Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
           }
         ]
       },
@@ -4455,7 +4456,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Amazon%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.aws.amazon.com",
-        "CSO_Description": "Amazon US East/West is a multi-tenant public cloud for Federal, State and Local Government customers, as well as commercial customers, designed to meet a wide range of regulatory requirements, to include government compliance and security requirements. AWS leverages the Infrastructure-as-a-Service (IaaS) cloud computing model, which enables convenient, on-demand Internet access to a shared pool of configurable computing resources such as servers, storage, network infrastructure, and various other web services. Customers can rapidly provision or release computing resources on demand.\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: Amazon API Gateway, Amazon Aurora (MySQL), Amazon Cloud Directory, Amazon CloudWatch Logs, Amazon Cognito, Amazon DynamoDB, Amazon ElastiCache, Amazon Elastic Block Store (EBS), Amazon Elastic Compute Cloud (EC2), Amazon Elastic MapReduce, Amazon Glacier, Amazon Inspector, Amazon Kinesis Data Streams, Amazon Macie, Amazon QuickSight, Amazon Redshift, Amazon RDS (MariaDB, MySQL, Oracle, Postgres, SQL Server), Amazon Route 53, Amazon Simple Notification Service (SNS), Amazon Simple Queue Service (SQS), Amazon Simple Storage Service (S3), Amazon Simple Workflow Service (SWF), Amazon Virtual Private Cloud (VPC), AWS CloudFormation, AWS CloudTrail, AWS Config, AWS Database Migration Service, AWS Directory Service, AWS Identity & Access Management (IAM), AWS Key Management Service (KMS), AWS Lambda, AWS Shield Advanced, AWS Snowball, AWS Snowball Edge, AWS WAF",
+        "CSO_Description": "Amazon US East/West is a multi-tenant public cloud for Federal, State and Local Government customers, as well as commercial customers, designed to meet a wide range of regulatory requirements, to include government compliance and security requirements. AWS leverages the Infrastructure-as-a-Service (IaaS) cloud computing model, which enables convenient, on-demand Internet access to a shared pool of configurable computing resources such as servers, storage, network infrastructure, and various other web services. Customers can rapidly provision or release computing resources on demand.\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: Amazon API Gateway, Amazon Aurora (MySQL), Amazon Cloud Directory, Amazon CloudFront, Amazon CloudWatch Logs, Amazon Cognito, Amazon DynamoDB, Amazon ElastiCache, Amazon Elastic Block Store (EBS), Amazon Elastic Compute Cloud (EC2), Amazon Elastic MapReduce, Amazon Glacier, Amazon Inspector, Amazon Kinesis Data Streams, Amazon Macie, Amazon Polly, Amazon QuickSight, Amazon Redshift, Amazon RDS (MariaDB, MySQL, Oracle, Postgres, SQL Server), Amazon Route 53, Amazon Simple Notification Service (SNS), Amazon Simple Queue Service (SQS), Amazon Simple Storage Service (S3), Amazon Simple Workflow Service (SWF), Amazon Virtual Private Cloud (VPC), AWS CloudFormation, AWS CloudTrail, AWS Config, AWS Database Migration Service, AWS Direct Connect, AWS Directory Service, AWS Identity & Access Management (IAM), AWS Key Management Service (KMS), AWS Lambda, AWS Service Catalog, AWS Shield Advanced, AWS Snowball, AWS Snowball Edge, AWS WAF, AWS WorkDocs, AWS WorkSpaces",
         "Announcement_Date": "2013-05-01T04:00:00.000Z",
         "CSP_POC_Name": "AWS FedRAMP Compliance Team",
         "CSP_POC_Email": "aws-compliance-fedramp@amazon.com",
@@ -5536,15 +5537,6 @@
             "Independent_Assessor": "Coalfire Systems, Inc."
           },
           {
-            "Letter_Date": "2018-08-29T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-08-31T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Telecommunications and Information Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          },
-          {
             "Letter_Date": "2018-08-30T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-08-30T04:00:00.000Z",
             "Authorizing_Agency": "Department of Energy",
@@ -5712,6 +5704,15 @@
             "Authorizing_Agency": "Department of State",
             "Authorizing_Subagency": "State Office of the Inspector General",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2019-08-29T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-08-31T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Telecommunications and Information Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
@@ -8275,6 +8276,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2019-07-02T04:00:00.000Z",
             "Authorizing_Agency": "Consumer Financial Protection Bureau",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFPB_Logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Schellman & Company, LLC"
+          },
+          {
+            "Letter_Date": "2019-09-03T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-09-03T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Trade Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Schellman & Company, LLC"
           }
