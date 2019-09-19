@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-09-18T04:40:50.552Z",
+    "Created_At": "2019-09-19T04:40:50.422Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1085,6 +1085,14 @@
             "Authorizing_Agency": "Department of State",
             "Authorizing_Subagency": "State Office of the Inspector General",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Lunarline, Inc."
+          },
+          {
+            "Letter_Date": "2019-09-13T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "United States Air Force",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Lunarline, Inc."
           }
@@ -10634,6 +10642,28 @@
         "CSP_POC_Name": "Agnes Onyango-Abuje",
         "CSP_POC_Email": "fedramp@mcdean.com",
         "Fedramp_Ready_Date": "2019-08-06T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "McAfee",
+        "Cloud_Service_Provider_Package": "MVision Cloud",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "F1506096710A",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "High",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/McAfee%20Logo.jpg",
+        "Independent_Assessor": "Kratos SecureInfo",
+        "CSP_Website": "https://www.mcafee.com/enterprise/en-us/products/mvision-cloud.html",
+        "CSO_Description": "McAfee MVision Cloud is a cloud-native Cloud Access Security Broker (CASB) which enables agencies to accelerate their journey to the cloud by enabling visibility and protection of their data. \n\nUsing MVision Cloud, agencies can:\n\n* **Detect:** Gain complete visibility into data, context, and user behavior across all cloud services, users, and devices.\n* **Protect:** Take real-time action to enforce policies across cloud services and apply persistent data protection.\n* **Correct:** Remediate security threats by eliminating security misconfigurations and correcting high-risk user activities.\n\nSample agency use cases are:\n\n* Understand cloud services in use and their risk profile\n* Enforce data loss prevention (DLP) policies across data in the cloud\n* Prevent unauthorized sharing of sensitive data to the wrong people\n* Block sync/download of corporate data to personal devices\n* Detect compromised accounts, insider threats, and malware\n* Encrypt data in the cloud using agency-controlled encryption keys\n* Audit and tighten the security settings of cloud services",
+        "CSP_POC_Name": "Thyag Thyagarajan",
+        "CSP_POC_Email": "fedrampinfo_skyhigh@mcafee.com",
+        "Fedramp_Ready_Date": "2019-09-06T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
