@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-10-01T04:40:50.579Z",
+    "Created_At": "2019-10-02T04:40:50.221Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2432,63 +2432,6 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/cncs_1.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "United States Department of Agriculture",
-        "Cloud_Service_Provider_Package": "USDA Digital Infrastructure Services Center",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "AGENCYNITCIAAS",
-        "Service_Model": [
-          "PaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2016-03-29T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Agriculture",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-        "Authorizing_Agency": "Department of Agriculture",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/USDA%20Logo.jpg",
-        "Independent_Assessor": "Emagine IT",
-        "CSP_Website": "http://www.ocio.usda.gov/about-ocio/data-center-operations/nitc-cloud-services",
-        "CSO_Description": "The USDA’s National Information Technology Center (NITC) is a federally-owned Cloud Service Provider for systems that are owned by Federal, State, and Local governments. The NITC offers both IaaS and PaaS services.   Additional information is available at:  [http://www.ocio.usda.gov/about-ocio/data-center-operations-dco](http://www.ocio.usda.gov/about-ocio/data-center-operations-dco). The NITC Service Catalog is available at :  [http://www.ocio.usda.gov/document/nitc-service-catalog](http://www.ocio.usda.gov/document/nitc-service-catalog)  The NITC’s Infrastructure as a Service (IaaS) cloud offering provides customers with the ability to deploy virtual systems using rapid on-demand self-service, flexible networking capabilities, resource pooling, rapid elasticity and a robust disaster recovery infrastructure within a Virtual Datacenter (VDC) construct on a hybrid cloud infrastructure. The IaaS VDC product is currently available in OpenStack and VMware based configurations.  The NITC’s Platform as a Service (PaaS) offering provides standard hardened virtualized operating systems leveraging advanced server virtualization technologies, compliant security and build standards, and economies of scale. The PaaS offering enablesrapid delivery of cost-effective, fully-managed operating platforms offering expanded controls to securely host customer’s mission critical applications. This NITC PaaS offering is currently available formultiple operating systems, including: RedHat Linux,Microsoft Windows, Oracle Solaris, and IBM AIX.  In addition to the FedRAMP Moderate security control baseline, the NITC has implemented FISMA High security controls within both service offerings.",
-        "Announcement_Date": "2013-09-16T04:00:00.000Z",
-        "CSP_POC_Name": "N/A",
-        "CSP_POC_Email": "NITCServiceDesk@ocio.usda.gov",
-        "FedRAMP_In-Process_Date": "2012-12-12T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2015-07-17T04:00:00.000Z",
-            "Authorizing_Agency": "General Services Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Emagine IT"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2016-10-01T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Information Systems Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Emagine IT"
-          },
-          {
-            "Letter_Date": "2016-09-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-10-28T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Food and Drug Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Emagine IT"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2018-09-18T04:00:00.000Z",
-            "Authorizing_Agency": "United States Office of Government Ethics",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfGovernmentEthics-Logo.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Emagine IT"
           }
         ]
       },
@@ -6236,6 +6179,7 @@
             "Letter_Date": "2019-09-30T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Interior",
             "Authorizing_Subagency": "Bureau of Safety and Environmental Enforcement",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
@@ -9236,7 +9180,16 @@
         "CSP_POC_Name": "N/A",
         "CSP_POC_Email": "fedramp@mulesoft.com",
         "FedRAMP_In-Process_Date": "2018-04-04T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Expiration_Date": "2022-10-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-10-01T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Schellman & Company, LLC"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "The Arcanum Group Inc.",
@@ -10071,6 +10024,63 @@
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "United States Department of Agriculture",
+        "Cloud_Service_Provider_Package": "USDA Digital Infrastructure Services Center",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "AGENCYNITCIAAS",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-07-01T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Agriculture",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+        "Authorizing_Agency": "Department of Agriculture",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/USDA%20Logo.jpg",
+        "Independent_Assessor": "Emagine IT",
+        "CSP_Website": "http://www.ocio.usda.gov/about-ocio/data-center-operations/nitc-cloud-services",
+        "CSO_Description": "The USDA’s National Information Technology Center (NITC) is a federally-owned Cloud Service Provider for systems that are owned by Federal, State, and Local governments. The NITC offers both IaaS and PaaS services.   Additional information is available at:  [http://www.ocio.usda.gov/about-ocio/data-center-operations-dco](http://www.ocio.usda.gov/about-ocio/data-center-operations-dco). The NITC Service Catalog is available at :  [http://www.ocio.usda.gov/document/nitc-service-catalog](http://www.ocio.usda.gov/document/nitc-service-catalog)  The NITC’s Infrastructure as a Service (IaaS) cloud offering provides customers with the ability to deploy virtual systems using rapid on-demand self-service, flexible networking capabilities, resource pooling, rapid elasticity and a robust disaster recovery infrastructure within a Virtual Datacenter (VDC) construct on a hybrid cloud infrastructure. The IaaS VDC product is currently available in OpenStack and VMware based configurations.  The NITC’s Platform as a Service (PaaS) offering provides standard hardened virtualized operating systems leveraging advanced server virtualization technologies, compliant security and build standards, and economies of scale. The PaaS offering enablesrapid delivery of cost-effective, fully-managed operating platforms offering expanded controls to securely host customer’s mission critical applications. This NITC PaaS offering is currently available formultiple operating systems, including: RedHat Linux,Microsoft Windows, Oracle Solaris, and IBM AIX.  In addition to the FedRAMP Moderate security control baseline, the NITC has implemented FISMA High security controls within both service offerings.",
+        "Announcement_Date": "2013-09-16T04:00:00.000Z",
+        "CSP_POC_Name": "N/A",
+        "CSP_POC_Email": "NITCServiceDesk@ocio.usda.gov",
+        "FedRAMP_In-Process_Date": "2012-12-12T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2015-07-17T04:00:00.000Z",
+            "Authorizing_Agency": "General Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Emagine IT"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2016-10-01T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Information Systems Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Emagine IT"
+          },
+          {
+            "Letter_Date": "2016-09-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2016-10-28T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Emagine IT"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2018-09-18T04:00:00.000Z",
+            "Authorizing_Agency": "United States Office of Government Ethics",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfGovernmentEthics-Logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Emagine IT"
           }
         ]
       },
@@ -11479,6 +11489,25 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Symantec",
+        "Cloud_Service_Provider_Package": "Symantec Web Security Service (WSS) Government",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR1934747675",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Symantec%20Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "https://www.symantec.com/products/web-security-service",
+        "CSO_Description": "**Consistently apply network security policies across web and cloud applications**\n\nProtect users with web and cloud security services that connect all devices to a FedRAMP Authorized intelligent control point for reliable, high-performance, cloud-based threat protection service. Configure and enforce powerful web and cloud application access-control policies.\n\n * Set policies based on website content-based classifications and threat risk levels.\n * Classify URLs in 70 categories covering more than 55 languages.\n * Authenticate users and enforce user, group, and location-based security controls.\n * Control employee access to Shadow IT cloud apps (unsanctioned cloud applications).\n * Enable application-level point-to-point connectivity, cloaking all resources from the end-user devices and the internet.\n\n**Advanced proxy architecture delivers SWG and Advanced Threat Protection capabilities**\n\nSymantec Web Security Service protects your organization from cyber-attacks using an advanced proxy architecture that terminates, inspects, and controls high volumes of web and cloud traffic, even when it's SSL/TLS encrypted. Our proxy architecture combats advanced threats, secures your information, and protects your users wherever they go. It's built to meet the challenges of the Cloud Generation.\n\n * **Advanced proxy architecture**—Enforce granular threat inspection policies for encrypted web traffic and traffic from cloud apps such as Box and Office 365.\n * **File threat prevention**—Block high-risk and advanced threats with multilayer file inspection and customizable sandboxing.\n * **Threat Risk Levels**—Set web access policies based on a URL’s relative level of threat risk.",
+        "CSP_POC_Name": "Diana Robinson",
+        "CSP_POC_Email": "diana_robinson@symantec.com",
+        "Fedramp_Ready_Date": "2019-09-17T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "T-Metrics, Inc.",
         "Cloud_Service_Provider_Package": "T-Metrics Cloud Contact Center (TCCC)",
         "Designation": "FedRAMP Ready",
@@ -11697,6 +11726,28 @@
         "CSP_POC_Name": "Matt Hamilton",
         "CSP_POC_Email": "fedramp@wellspring.com",
         "FedRAMP_In-Process_Date": "2019-08-02T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Zscaler",
+        "Cloud_Service_Provider_Package": "Zscaler Private Access – Government (Zero Trust Networking – VPN Replacement) - JAB",
+        "Path": "JAB",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR1719759604A",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Zscaler%20Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "www.zscaler.com",
+        "CSO_Description": "**ZSCALER PRIVATE ACCESS**\n\n**The first major breakthrough in secure remote access since the VPN**\n\nZscaler is a leader in securing Internet traffic for enterprises around the globe, with a cloud-based security platform designed to protect enterprise Internet traffic with Secure Web Gateway, Cloud Application Visibility and Control, Cloud Sandboxing, Data Loss Prevention, and more. Zscaler Private Access builds from the same cloud-based, elastically scalable infrastructure to deliver seamless connectivity to private internal applications and assets.\n\nZscaler Private Access solves the challenges posed by a traditional VPN infrastructure by decoupling your internal assets and applications from the limitations, cost, and complexity of direct IP network connections. Zscaler Private Access delivers seamless connectivity to private internal applications and assets whether they are in the cloud, the data center, or both. Policy-driven access adjusts dynamically to network changes, enabling enterprise agility while improving user experience.\n\nWith Zscaler Private Access, there is no need to provision VPN termination hardware, or to ensure that such a deployment is globally distributed and redundant. Users no longer need to go through a termination appliance in the data center to get to apps in the cloud. In fact, there is no hardware to buy at all, because Zscaler Private Access, like our Cloud Security Platform, functions as a service.\n\nZscaler maintains all hardware and software, freeing both your IT team and your budget even as we reduce latency and boost scalability. Zscaler Private Access is tied directly to your existing authentication infrastructure, leveraging single sign-on to further reduce complexity. The result is that unlike traditional, network-based remote access solutions, Zscaler Private Access can be deployed in a matter of hours instead of taking weeks or months.\n\n**Improve your security posture even as you provide seamless access**\n\nThe reductions in overall cost and complexity are compelling on their own, but the paramount feature of the Zscaler Private Access solution is security. Once a connection is established between the asset and the client, the traffic traversing the solution remains completely isolated; because Zscaler Private Access is built on the premise of zero trust for your private applications, the traffic is isolated from us, as well. And because Zscaler Private Access abstracts the asset from the network, it not only ensures seamless access regardless of physical location, it dramatically increases your overall security posture by effectively making your most sensitive material invisible. Any attempt to route back to the application/asset meets a dead end.\n\n**Connect by application, not by IP address**\n\nVPNs have been designed to deliver access to a network, not to an application. Once on a network, malware can propagate and users may be able to get access to adjacent applications from which they should be restricted. In addition, because VPN concentrators must listen for inbound connection attempts, they present an attack surface which may be exploited by such things as Distributed Denial of Service attacks.\n\nEliminate the cost of VPNs and associated equipment\n\nAs part of our global, cloud-based security platform, Zscaler maintains all hardware and software, which frees both your IT staff and your budget and enables deployment in a matter of hours. Even better, Zscaler Private Access is deployed via the same Zscaler App you use to access our cloud security platform, which greatly reduces your “client sprawl” by delivering a\nsingle app that provisions Zscaler Remote Access, Secure Web Gateway, Data Loss Prevention, Cloud Sandboxing, Cloud Firewall, and more.\n\nTake your applications from “on-net” to “dark- net,” at the same time YOU get complete visibility.  Zscaler Private Access renders your applications invisible to all but authorized users, and unroutable to anyone.  But because the solution works at the application layer, we also deliver a level of visibility to you that has never before been possible. Once you provision a Connector in front of a bank of assets, you can use a wildcard attribute to discover exactly what applications are actually running there. Some customers have found almost ten times as many applications in use as they had expected! And once you know what applications are running, you can easily create granular access rules for them.\n\nApp Discovery makes deployment easy.",
+        "CSP_POC_Name": "Stephen Kovac",
+        "CSP_POC_Email": "fedramp@zscaler.com",
+        "Fedramp_Ready_Date": "2019-08-30T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       }
     ],
