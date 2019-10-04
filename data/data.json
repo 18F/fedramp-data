@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-10-03T04:40:50.294Z",
+    "Created_At": "2019-10-04T04:40:50.913Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -326,15 +326,6 @@
             "Independent_Assessor": "Kratos SecureInfo"
           },
           {
-            "Letter_Expiration_Date": "2019-09-13T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-09-13T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "Immigration and Customs Enforcement",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Kratos SecureInfo"
-          },
-          {
             "Letter_Date": "2017-02-06T05:00:00.000Z",
             "Letter_Expiration_Date": "2020-02-06T05:00:00.000Z",
             "Authorizing_Agency": "Commission of Fine Arts",
@@ -373,6 +364,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2017-11-07T05:00:00.000Z",
             "Authorizing_Agency": "Department of Education",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Kratos SecureInfo"
+          },
+          {
+            "Letter_Date": "2019-09-16T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-09-16T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Immigration and Customs Enforcement",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Kratos SecureInfo"
           }
@@ -2378,32 +2378,6 @@
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
         ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "IBM",
-        "Cloud_Service_Provider_Package": "Cloud Managed Services for Government - DoD",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1206081363A",
-        "Service_Model": [
-          "IaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2016-08-23T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Defense",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-        "Authorizing_Agency": "Department of Defense",
-        "Authorizing_Subagency": "Defense Information Systems Agency",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/IBM%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.ibm.com",
-        "CSO_Description": "**IBM Cloud Managed Services for Government can onlyhost Federal Government workloads that are acquired/sponosored by DoD agencies due to its IL5 DoD classification.**\n\nThe IBM Cloud Managed Services for Government is a Public Sector focused infrastructure as a service (IaaS) community cloud that is designed to meet the unique security and compliance needs of IBM Public Sector customers. The cloud provides server and storage infrastructure services in the form of fully managed and/or customer-managed Windows and Linux virtual machines, as well as managed magnetic disk and sequential media storage. The IBM Cloud Managed Services for Government is a multi-tenant environment that currently supports production and development workloads for US Public Sector customers.",
-        "Announcement_Date": "2016-08-23T04:00:00.000Z",
-        "CSP_POC_Name": "Beth Stefanchik",
-        "CSP_POC_Email": "dodcloud@us.ibm.com",
-        "FedRAMP_In-Process_Date": "2014-05-30T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "Unison",
@@ -4663,15 +4637,6 @@
             "Independent_Assessor": "Coalfire Systems, Inc."
           },
           {
-            "Letter_Date": "2018-09-30T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-09-30T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Institute of Standards and Technology",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          },
-          {
             "Letter_Date": "2018-07-31T04:00:00.000Z",
             "Letter_Expiration_Date": "2021-07-31T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-07-31T04:00:00.000Z",
@@ -4775,6 +4740,14 @@
             "Authorizing_Agency": "Department of Justice",
             "Authorizing_Subagency": "Office of Justice Programs",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Date": "2019-09-30T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Institute of Standards and Technology",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
@@ -5350,14 +5323,6 @@
             "Independent_Assessor": "Coalfire Systems, Inc."
           },
           {
-            "Letter_Date": "2016-09-29T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-09-30T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          },
-          {
             "Letter_Date": "2016-11-22T05:00:00.000Z",
             "Authorizing_Agency": "Council of the Inspectors General on Integrity and Efficiency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CIGIE%20Logo.jpg",
@@ -5667,6 +5632,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2019-09-27T04:00:00.000Z",
             "Authorizing_Agency": "Department of Veterans Affairs",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Coalfire Systems, Inc."
+          },
+          {
+            "Letter_Expiration_Date": "2019-12-20T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-09-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           }
@@ -9401,7 +9374,6 @@
             "Independent_Assessor": "Coalfire Systems, Inc."
           },
           {
-            "Letter_Expiration_Date": "2019-09-29T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2017-09-29T04:00:00.000Z",
             "Authorizing_Agency": "Department of Homeland Security",
             "Authorizing_Subagency": "United States Citizenship and Immigration Services",
@@ -11016,6 +10988,47 @@
         "CSP_POC_Email": "saas_compliance_ww_grp@oracle.com",
         "FedRAMP_In-Process_Date": "2018-12-14T05:00:00.000Z",
         "Agency_POC_email": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Oracle",
+        "Cloud_Service_Provider_Package": "Oracle Cloud Infrastructure-Government Cloud - JAB",
+        "Path": "JAB",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR1900048743A",
+        "Service_Model": [
+          "IaaS, PaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20CI%20Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "https://cloud.oracle.com",
+        "CSO_Description": "Oracle Cloud Infrastructure's government regions provide public sector entities with best-in-class security and industry leading price-performance. With a deep understanding of the needs of the public sector built on decades of experience, Oracle enables government entities to move their most challenging workloads to the cloud, achieving significant benefits and return on investment. After moving to the cloud, agencies can use Oracle development tools to enhance existing applications while creating and integrating new cloud-native applications. With Oracle Cloud Infrastructure, public sector entities can bring their past and build their future.",
+        "CSP_POC_Name": "Rico McGee",
+        "CSP_POC_Email": "fedrampinfo_us@oracle.com",
+        "Fedramp_Ready_Date": "2019-10-03T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "ORock Technologies",
+        "Cloud_Service_Provider_Package": "ORock HighCloud",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "F1503096502A",
+        "Service_Model": [
+          "IaaS, PaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "High",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/ORock%20Technologies%20Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "http://orocktech.com",
+        "CSO_Description": "ORock HighCloud is an enterprise-grade open source cloud environment built specifically to meet the data security needs of U.S. Federal Government agencies. This Government-Only Community Cloud implements more than 421 High Baseline security controls to support Federal cloud services requirements for Infrastructure as a Service (IaaS) and Platform as a Service (PaaS). It provides secure, compliant, scalable access to computing, storage, virtualization, networking, and performance monitoring resources.\r\n\r\nArchitected to meet the most stringent requirements for security, performance, cost predictability, and control, ORock HighCloud utilizes ORock’s private, carrier-grade fiber optic backbone network with dedicated connectivity between all points of presence and no upstream cloud service provider (CSP). Additional security features include ORock’s use of Red Hat Security Enhanced Linux, FIPS 140-2 encryption, and SOC 2 Type II data centers. Managed services are provided entirely by U.S. citizens in ORock’s U.S.-based Network Operations Center (NOC) and Security Operations Center (SOC).\r\n\r\nAs a Red Hat Premier Certified Cloud and Service Provider (CCSP), ORock Technologies architected ORock HighCloud as a “pure-play” Red Hat cloud and incorporated a full suite of open source solutions for enhanced flexibility, interoperability, security, and control. The Red Hat Cloud Suite includes: Red Hat Enterprise Linux; Red Hat OpenStack Platform; Red Hat OpenShift, Red Hat Virtualization; Red Hat Ceph Storage; Red Hat Ansible Tower; Red Hat Satellite; and all associated cloud APIs. It is the first and only cloud environment built on Red Hat OpenStack Platform and Red Hat OpenShift Container Platform to achieve FedRAMP Ready status as a High Baseline cloud.\r\n\r\nA Federal Small Business, ORock Technologies provides infrastructure, cloud, and compliance services to U.S. government agencies and commercial organizations in highly regulated industries. ORock HighCloud services feature a flat-rate billing model for data transport with no egress fees for predictable costs and lower total cost of ownership, as well as extensive use of enterprise-grade open source technologies (hardened and supported by Red Hat) to increase flexibility and minimize vendor lock-in.\r\n\r\nAdditional information is available at [http://orocktech.com](http://orocktech.com/) .",
+        "CSP_POC_Name": "John Conniff",
+        "CSP_POC_Email": "fedramp@orocktech.com",
+        "Fedramp_Ready_Date": "2019-10-02T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
