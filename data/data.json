@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-10-17T04:40:50.671Z",
+    "Created_At": "2019-10-18T04:40:50.895Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -6062,7 +6062,17 @@
         "CSP_POC_Name": "James H. Perkins Jr.",
         "CSP_POC_Email": "fedramp@id-edd.com",
         "FedRAMP_In-Process_Date": "2017-10-18T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2019-10-16T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-10-16T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Office of the Comptroller of the Currency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Lunarline, Inc."
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Everbridge",
@@ -8391,14 +8401,6 @@
             "Independent_Assessor": "Kratos SecureInfo"
           },
           {
-            "Letter_Expiration_Date": "2019-09-29T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-03-29T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Kratos SecureInfo"
-          },
-          {
             "Letter_Date": "2019-05-10T04:00:00.000Z",
             "Letter_Expiration_Date": "2020-05-10T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-05-10T04:00:00.000Z",
@@ -8441,6 +8443,14 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "FirstNet",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Kratos SecureInfo"
+          },
+          {
+            "Letter_Expiration_Date": "2024-10-10T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-10-16T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Kratos SecureInfo"
           }
@@ -8959,7 +8969,16 @@
         "CSP_POC_Name": "Alex Dalessio",
         "CSP_POC_Email": "partners@login.gov",
         "FedRAMP_In-Process_Date": "2018-07-27T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Expiration_Date": "2022-09-23T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-10-15T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Kratos SecureInfo"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Cisco Systems Inc.",
@@ -10983,6 +11002,29 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Nintex",
+        "Cloud_Service_Provider_Package": "Nintex Drawloop DocGen",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2001462460",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Nintex%20Logo.jpg",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "CSP_Website": "www.nintex.com",
+        "CSO_Description": "Nintex Drawloop DocGen™ equips government organizations to generate precise and accurate documents. With just a few clicks users can instantly transform data from any standard or custom object in Salesforce into documents such as contracts, work orders, or recruitment documents. Nintex Drawloop DocGen allows users to create, manage and generate document packages in both Lightning or Classic, without losing the benefits of an easy-to-use and familiar user experience. Users can output data to a variety of endpoints and know their document data is secure and compliant throughout the process.\n\nMore information about Nintex Drawloop DocGen™ can be found at [https://www.nintex.com/docgen](https://www.nintex.com/docgen)",
+        "CSP_POC_Name": "Steve Witt",
+        "CSP_POC_Email": "sales@nintex.com",
+        "FedRAMP_In-Process_Date": "2019-10-15T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Nutanix",
         "Cloud_Service_Provider_Package": "Nutanix Xi Government Cloud",
         "Path": "Agency",
@@ -11023,6 +11065,25 @@
         "CSP_POC_Name": "Samantha Cowan",
         "CSP_POC_Email": "compliancemanager@onelogin.com",
         "Fedramp_Ready_Date": "2019-01-28T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Opus Interactive",
+        "Cloud_Service_Provider_Package": "OpusGov (OG)",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR1906574488",
+        "Service_Model": [
+          "IaaS, PaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Opus%20Logo.jpg",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "https://www.opusinteractive.com/",
+        "CSO_Description": "OpusGov (OG) is a Platform-as-a-Service (PaaS) and Infrastructure-as-a-Service (IaaS) compliance cloud service offering (CSO) that allows agencies to modernize and deliver optimization, performance, and cost savings for mission critical workloads.\n\nBased on proven cloud architecture utilized by Opus’ commercial customers since 2005, OpusGov is a custom environment that delivers. Agencies can deploy mission critical applications and workloads where they need with secure infrastructure on ENERGY STAR equipment deployed in FISMA High rated datacenters.\n\nMore information can be found at https [://www.opusinteractive.com/government/](://www.opusinteractive.com/government/]",
+        "CSP_POC_Name": "Eric Hulbert",
+        "CSP_POC_Email": "sales@opusinteractive.com",
+        "Fedramp_Ready_Date": "2019-10-17T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
