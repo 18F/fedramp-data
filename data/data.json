@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-10-24T04:40:50.825Z",
+    "Created_At": "2019-10-25T04:40:50.846Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1452,7 +1452,7 @@
         "CSO_Description": "The Oracle Service Cloud is Oracle’s premier Software as a Service (SaaS) solution providing the industry’s best in class customer service platform for enterprise customers. Oracle Service Cloud is deployed onto a robust, secure infrastructure hosting Oracle’s patented CX software applications in an environment accredited to FedRAMP-Moderate specifications. The Oracle Service Cloud leverages a fault-tolerant core application framework offering flexible add-on modules providing customers with a customizable, out-of-the-box feature set to support both customer-facing and customer service agent-facing functions. The Oracle Service Cloud is offered as a hosted cloud solution (i.e., operated and maintained by Oracle within its secure hosting environment at co-location facilities in the United States) providing customers with a modern, efficient and secure cloud solution via a proven Software as a Service (SaaS) delivery model.",
         "Announcement_Date": "2014-12-05T05:00:00.000Z",
         "CSP_POC_Name": "AJ Handy",
-        "CSP_POC_Email": "saas_compliance_ww_grp@oracle.com",
+        "CSP_POC_Email": "saas_fedramp_us_grp@oracle.com",
         "FedRAMP_In-Process_Date": "2013-09-13T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
@@ -1635,7 +1635,7 @@
         "CSO_Description": "**Oracle Service Cloud (DoD) has been authorized at the FedRAMP Moderate baseline + Impact Level (IL) 4 controls.**\n\nThe Oracle Service Cloud is Oracle’s premier Software as a Service (SaaS) solution providing the industry’s best in class customer service platform for enterprise customers. Oracle Service Cloud is deployed onto a robust, secure infrastructure hosting Oracle’s patented CX software applications in an environment accredited to FedRAMP-Moderate specifications. The Oracle Service Cloud leverages a fault-tolerant core application framework offering flexible add-on modules providing customers with a customizable, out-of-the-box feature set to support both customer-facing and customer service agent-facing functions. The Oracle Service Cloud is offered as a hosted cloud solution (i.e., operated and maintained by Oracle within its secure hosting environment at co-location facilities in the United States) providing customers with a modern, efficient and secure cloud solution via a proven Software as a Service (SaaS) delivery model.",
         "Announcement_Date": "2015-08-14T04:00:00.000Z",
         "CSP_POC_Name": "AJ Handy",
-        "CSP_POC_Email": "saas_compliance_ww_grp@oracle.com",
+        "CSP_POC_Email": "saas_fedramp_us_grp@oracle.com",
         "FedRAMP_In-Process_Date": "2015-02-10T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
@@ -3265,7 +3265,7 @@
         "CSO_Description": "Oracle Taleo Cloud services are Oracle’s Software as a Service (SaaS) solution, providing a comprehensive talent management and learning service. Taleo Enterprise Edition offers a comprehensive talent management suite that spans the entire employee lifecycle and helps companies hire, manage, reward, and develop their employees with a full talent management solution for recruiting and on boarding, performance management, employee development and succession planning. Since Taleo Enterprise Edition is built on a single unified platform and delivered on demand, you can implement a single module or the full solution based on your needs. Oracle’s Taleo Learn Cloud offers an employee development and training software solution that supports the learning challenges of large complex enterprises. Taleo Learn links human resources management to learning with Talent Intelligence. The Taleo Learn Cloud Service is a solution for delivering, tracking, managing, and reporting on formal and informal learning. Users have access to learning through a single platform for online, classroom, virtual, and on-the-job training, as well as assessments, blended learning, social learning, and self-reported training. Organizations can design a tailored user experience with complete control of the user interface.",
         "Announcement_Date": "2017-08-21T04:00:00.000Z",
         "CSP_POC_Name": "AJ Handy",
-        "CSP_POC_Email": "saas_compliance_ww_grp@oracle.com",
+        "CSP_POC_Email": "saas_fedramp_us_grp@oracle.com",
         "Fedramp_Ready_Date": "2016-08-30T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2017-02-17T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
@@ -6642,7 +6642,7 @@
         "CSO_Description": "PBCS is a flexible planning application based on Oracle Hyperion Planning that supports enterprise wide planning, budgeting, and forecasting in a cloud-based deployment model. It provides a rich Web and Microsoft Office enabled planning and modeling framework that supports driver based planning to help connect operational assumptions to financial outcomes.\n\nAgencies should be aware that while the entire EPM suite was addressed in the authorization package, assessed by the Third Party Assessment Organization (3PAO), and was reviewed by the FedRAMP PMO, the scope of the initial authorization/Authorization to Operate (ATO) is limited to the Enterprise Planning and Budgeting Cloud Service (EPBCS), which is the  component of the EPM suite being used by the initial authorizing agency.  Other Agencies may authorize any individual component(s) of the EPM suite or the entire EPM suite, as desired, for their own particular use/mission requirements.",
         "Announcement_Date": "2018-09-26T04:00:00.000Z",
         "CSP_POC_Name": "AJ Handy",
-        "CSP_POC_Email": "saas_compliance_ww_grp@oracle.com",
+        "CSP_POC_Email": "saas_fedramp_us_grp@oracle.com",
         "FedRAMP_In-Process_Date": "2016-10-12T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
@@ -10224,7 +10224,7 @@
         "Cloud_Service_Provider_Name": "Replicon",
         "Cloud_Service_Provider_Package": "Replicon Cloud Platform",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "F1606087903",
         "Service_Model": [
           "SaaS"
@@ -10237,8 +10237,15 @@
         "Authorizing_Agency": "Department of Agriculture",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Replicon%20Logo.jpg",
         "Independent_Assessor": "Schellman & Company, LLC",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1206061353",
+          "F1206081364",
+          "F1512167750"
+        ],
         "CSP_Website": "www.replicon.com",
         "CSO_Description": "Replicon Inc. provides cloud time tracking applications including timesheet and expense management software, using SaaS, for automating employee time tracking, project time tracking, expense tracking and resource scheduling. ",
+        "Announcement_Date": "2019-10-18T04:00:00.000Z",
         "CSP_POC_Name": "Alfred Wong",
         "CSP_POC_Email": "alfred.wong@replicon.com",
         "FedRAMP_In-Process_Date": "2019-05-07T04:00:00.000Z",
@@ -11239,7 +11246,7 @@
         "CSP_Website": "www.oracle.com",
         "CSO_Description": "The Oracle Fusion Cloud (OFC) is Oracle’s Software as a Service (SaaS) suite of Fusion Applications providing comprehensive financial, human resources, project management, procurement, and project management services. Oracle Fusion Cloud is deployed onto a robust, secure infrastructure hosting Oracle’s Fusion Applications and Middleware software. The Oracle Fusion Cloud is offered as a hosted cloud solution (i.e., operated and maintained by Oracle within its secure hosting environment at co-location facilities in the United States) providing customers with a modern, efficient, and secure cloud solution via a proven Software as a Service (SaaS) delivery model. Customers can purchase some or all of the Fusion Applications and common application selections are grouped into Oracle Cloud Service offerings called the Oracle Supply Chain Management (SCM) Cloud, Oracle Enterprise Resource Planning (ERP) Cloud, Oracle Human Capital Management (HCM) Cloud, and Oracle Engagement Cloud. The Oracle Fusion Cloud is hosted within the Oracle Government Cloud, a community-cloud limited to federal, state, and local agencies as well as select universities and federal contractors with a demonstrated need for FedRAMP-certified services. Access to the Oracle Government Cloud is restricted to United States citizens located within the United States or territories.",
         "CSP_POC_Name": "AJ Handy",
-        "CSP_POC_Email": "saas_compliance_ww_grp@oracle.com",
+        "CSP_POC_Email": "saas_fedramp_us_grp@oracle.com",
         "FedRAMP_In-Process_Date": "2018-12-14T05:00:00.000Z",
         "Agency_POC_email": "Coming Soon",
         "Leveraged_ATO_Letters": []
