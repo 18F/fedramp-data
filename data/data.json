@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-10-28T04:40:51.435Z",
+    "Created_At": "2019-10-29T04:40:50.690Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2801,16 +2801,6 @@
         "FedRAMP_In-Process_Date": "2016-09-14T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Date": "2016-09-04T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-09-03T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-09-23T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Authorizing_Subagency": "National Nuclear Security Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Kratos SecureInfo"
-          },
-          {
             "Letter_Date": "2017-09-27T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2017-09-27T04:00:00.000Z",
             "Authorizing_Agency": "Department of Justice",
@@ -3543,14 +3533,6 @@
             "Independent_Assessor": "Kratos SecureInfo"
           },
           {
-            "Letter_Expiration_Date": "2019-11-02T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-05-03T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Kratos SecureInfo"
-          },
-          {
             "Letter_Date": "2018-12-14T05:00:00.000Z",
             "Letter_Expiration_Date": "2021-12-20T05:00:00.000Z",
             "Authorizing_Agency": "Environmental Protection Agency",
@@ -3588,6 +3570,14 @@
             "Authorizing_Agency": "Department of State",
             "Authorizing_Subagency": "State Office of the Inspector General",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Kratos SecureInfo"
+          },
+          {
+            "Letter_Expiration_Date": "2024-10-24T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-10-28T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Kratos SecureInfo"
           }
@@ -4013,15 +4003,6 @@
             "Authorizing_Letter_Last_Sign_Date": "2019-03-28T04:00:00.000Z",
             "Authorizing_Agency": "General Services Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          },
-          {
-            "Letter_Date": "2019-05-28T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-09-27T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-05-28T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y",
             "Independent_Assessor": "Coalfire Systems, Inc."
           },
@@ -10229,6 +10210,35 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "KnowBe4, Inc.",
+        "Cloud_Service_Provider_Package": "KnowBe4 Security Awareness Training",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1912662229",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Li-SaaS",
+        "Original_Authorization_Date": "2019-09-30T04:00:00.000Z",
+        "Original_Expiration_Date": "2022-09-26T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Energy",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+        "Authorizing_Agency": "Department of Energy",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/KnowBe4%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
+        "CSP_Website": "https://www.knowbe4.com/federal ",
+        "CSO_Description": "KnowBe4 is the world’s most popular integrated Security Awareness Training and Simulated Phishing platform with thousands of active enterprise accounts. You finally have a platform to better manage the **urgent IT security problems of social engineering, phishing and ransomware attacks.** KnowBe4 gives you self-service enrollment, and both pre-and post-training phishing security tests that show you the percentage of end-users that are Phish-prone. Our highly effective, frequent, \"double-random\" Phishing Security Tests provide several remedial options in case an employee falls for a simulated phishing attack.\n\n**KnowBe4 provides you with the world's largest library of 800+ security awareness training content**, including interactive modules, videos, games, posters and newsletters. You can schedule regular Phishing Security Tests from our large library of over 2,500 \"known-to-work\" templates or you can also create your own custom phishing templates. And with our powerful Smart Groups feature, you can use each employees’ behavior and user attributes to tailor phishing campaigns, training assignments, remedial learning and reporting.\n\nYour enterprise can get the KnowBe4 platform quickly deployed into production. Our Customer Success team gets you going in no time, without the need for consulting hours. And our Active Directory Integration (ADI) allows you to easily sync user data and saves you time by eliminating the need to manually manage user changes. Once the ADI is configured, users will be added, changed and archived in sync with changes made within AD automatically.\n\n**We use FedRAMP compliant Amazon Web Services East (AWS US East), which is maintained in an ISO certified facility.** There is no unauthorized external access to data, we only store just enough information to accomplish the services we are set to provide, which minimally are email addresses with recorded clicks. All email addresses are encrypted and kept private. And KnowBe4 has been PCI compliant from day one. KnowBe4 courses are SCORM compliant, so we can deliver courseware for your in-house LMS if needed.  However, KnowBe4 does have its own LMS that lives in the cloud, and we can report back to you about all enrolled employees, their status, completion, and many other parameters.",
+        "Announcement_Date": "2019-10-25T04:00:00.000Z",
+        "CSP_POC_Name": "Rosa Smothers",
+        "CSP_POC_Email": "federal@knowbe4.com",
+        "FedRAMP_In-Process_Date": "2019-02-12T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Replicon",
         "Cloud_Service_Provider_Package": "Replicon Cloud Platform",
         "Path": "Agency",
@@ -10506,12 +10516,12 @@
         "Sponsoring_Agency": "Department of Homeland Security ",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
         "Authorizing_Agency": "Department of Homeland Security ",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Collibra%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Collibra%20Logo2.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.collibra.com",
         "CSO_Description": "Collibra makes it easy for data citizens to find, understand and trust the organizational data they need to make business decisions every day. Unlike traditional data governance solutions, Collibra is a cross-organizational platform that breaks down the traditional data silos, freeing the data so all users have access.",
-        "CSP_POC_Name": "Jason Robinson",
-        "CSP_POC_Email": "jason.robinson@collibra.com",
+        "CSP_POC_Name": "Ryan Swann",
+        "CSP_POC_Email": "ryan.swann@collibra.com",
         "FedRAMP_In-Process_Date": "2018-11-16T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
@@ -10853,29 +10863,6 @@
         "CSP_POC_Email": "security@ivanti.com",
         "Fedramp_Ready_Date": "2018-09-05T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2019-07-10T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "KnowBe4, Inc.",
-        "Cloud_Service_Provider_Package": "KnowBe4 Security Awareness Training",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1912662229",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Li-SaaS",
-        "Sponsoring_Agency": "Department of Energy",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-        "Authorizing_Agency": "Department of Energy",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/KnowBe4%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://www.knowbe4.com/federal ",
-        "CSO_Description": "KnowBe4 is the world’s most popular integrated Security Awareness Training and Simulated Phishing platform with thousands of active enterprise accounts. You finally have a platform to better manage the **urgent IT security problems of social engineering, phishing and ransomware attacks.** KnowBe4 gives you self-service enrollment, and both pre-and post-training phishing security tests that show you the percentage of end-users that are Phish-prone. Our highly effective, frequent, \"double-random\" Phishing Security Tests provide several remedial options in case an employee falls for a simulated phishing attack.\n\n**KnowBe4 provides you with the world's largest library of 800+ security awareness training content**, including interactive modules, videos, games, posters and newsletters. You can schedule regular Phishing Security Tests from our large library of over 2,500 \"known-to-work\" templates or you can also create your own custom phishing templates. And with our powerful Smart Groups feature, you can use each employees’ behavior and user attributes to tailor phishing campaigns, training assignments, remedial learning and reporting.\n\nYour enterprise can get the KnowBe4 platform quickly deployed into production. Our Customer Success team gets you going in no time, without the need for consulting hours. And our Active Directory Integration (ADI) allows you to easily sync user data and saves you time by eliminating the need to manually manage user changes. Once the ADI is configured, users will be added, changed and archived in sync with changes made within AD automatically.\n\n**We use FedRAMP compliant Amazon Web Services East (AWS US East), which is maintained in an ISO certified facility.** There is no unauthorized external access to data, we only store just enough information to accomplish the services we are set to provide, which minimally are email addresses with recorded clicks. All email addresses are encrypted and kept private. And KnowBe4 has been PCI compliant from day one. KnowBe4 courses are SCORM compliant, so we can deliver courseware for your in-house LMS if needed.  However, KnowBe4 does have its own LMS that lives in the cloud, and we can report back to you about all enrolled employees, their status, completion, and many other parameters.",
-        "CSP_POC_Name": "Rosa Smothers",
-        "CSP_POC_Email": "federal@knowbe4.com",
-        "FedRAMP_In-Process_Date": "2019-02-12T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -11298,6 +11285,30 @@
         "CSP_POC_Name": "John Conniff",
         "CSP_POC_Email": "fedramp@orocktech.com",
         "Fedramp_Ready_Date": "2019-10-02T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "ORock Technologies",
+        "Cloud_Service_Provider_Package": "Universal Design Platform as a Service (UDPaaS), powered by ORockCloud",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2002448150",
+        "Service_Model": [
+          "PaaS, SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "Office of the National Coordinator for Health Information Technology",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/UDPaaS%20Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "http://udpaas.com/",
+        "CSO_Description": "Universal Design Platform as a Service (UDPaaS) is an Intelligent Business Process Management Suite “a high productivity (low-code/no-code) application development platform” that uses actionable, real-time insights from operations intelligence to increase the agility and scalability of business operations.",
+        "CSP_POC_Name": "John Conniff",
+        "CSP_POC_Email": "fedramp@orocktech.com",
+        "FedRAMP_In-Process_Date": "2019-10-23T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
