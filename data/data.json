@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-11-05T05:40:51.193Z",
+    "Created_At": "2019-11-05T16:41:14.497Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4413,8 +4413,8 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2019-10-31T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-07-05T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-10-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-10-16T04:00:00.000Z",
             "Authorizing_Agency": "Department of Energy",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
@@ -5448,13 +5448,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2019-04-11T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-10-31T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-04-17T04:00:00.000Z",
             "Letter_Expiration_Date": "2022-04-17T04:00:00.000Z",
             "Authorizing_Agency": "Department of Energy",
@@ -5466,6 +5459,13 @@
             "Letter_Expiration_Date": "2021-05-31T04:00:00.000Z",
             "Authorizing_Agency": "Department of Veterans Affairs",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2022-10-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-11-03T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -6585,66 +6585,6 @@
             "Letter_Date": "2019-06-27T04:00:00.000Z",
             "Authorizing_Agency": "Tennessee Valley Authority",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-TennesseeValleyAuthority-Logo.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "CoSo Cloud, LLC.",
-        "Cloud_Service_Provider_Package": "CoSo Cloud FedRAMP Managed Service Platform",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1206111371",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2018-11-05T05:00:00.000Z",
-        "Original_Expiration_Date": "2021-11-05T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Homeland Security",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-        "Authorizing_Agency": "Department of Homeland Security",
-        "Authorizing_Subagency": "United States Citizenship and Immigration Services",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CoSo%20Logo.jpg",
-        "Independent_Assessor": "USCIS Independent Assessment Team",
-        "CSP_Website": "https://www.cosocloud.com",
-        "CSO_Description": "CoSo Cloud's Private FedRAMP Compliant Cloud for Adobe Connect and Adobe Captivate Prime is a powerful and proven platform, enabling agencies to excel in their missions. It provides 99.99% uptime to ensure government agencies have reliable collaboration for critical communications. It allows organizations to deliver modern, digital learning experiences for self-paced and real time training and skill development in a highly secure and reliable environment.\r\n\r\nAdobe Connect offers immersive online meeting experiences for collaboration, large scale webinars, and virtual classrooms. Adobe Captivate Prime is a Learning Management System that allows enterprise Learning and Development teams to drive personalized learning experiences for the employees and partners of their organization, across multiple devices.\r\n\r\nCoSo Cloud’s platform and services have been used to facilitate crisis-communications regarding food tampering, drug recalls, and international disasters & emergencies. Additionally, both the military and many federal agencies utilize CoSo Cloud's platform to provide secure training around the globe.",
-        "Announcement_Date": "2017-06-21T04:00:00.000Z",
-        "CSP_POC_Name": "Blake Loring",
-        "CSP_POC_Email": "security@cosocloud.com",
-        "FedRAMP_In-Process_Date": "2012-09-12T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Expiration_Date": "2020-08-31T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-08-26T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "Transportation Security Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-03-22T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-04-04T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Food and Drug Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-02-16T05:00:00.000Z",
-            "Letter_Expiration_Date": "2021-02-16T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-02-16T05:00:00.000Z",
-            "Authorizing_Agency": "United States Agency for International Development",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-02-01T05:00:00.000Z",
-            "Letter_Expiration_Date": "2022-02-28T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "United States Marine Corps",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -8530,6 +8470,58 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Telecommunications and Information Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "CoSo Cloud, LLC.",
+        "Cloud_Service_Provider_Package": "CoSo Cloud FedRAMP Managed Service Platform",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1206111371",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-02-01T05:00:00.000Z",
+        "Original_Expiration_Date": "2022-02-28T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Homeland Security",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+        "Authorizing_Agency": "Department of Defense",
+        "Authorizing_Subagency": "United States Marine Corps",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CoSo%20Logo.jpg",
+        "Independent_Assessor": "Kratos SecureInfo",
+        "CSP_Website": "https://www.cosocloud.com",
+        "CSO_Description": "CoSo Cloud's Private FedRAMP Compliant Cloud for Adobe Connect and Adobe Captivate Prime is a powerful and proven platform, enabling agencies to excel in their missions. It provides 99.99% uptime to ensure government agencies have reliable collaboration for critical communications. It allows organizations to deliver modern, digital learning experiences for self-paced and real time training and skill development in a highly secure and reliable environment.\r\n\r\nAdobe Connect offers immersive online meeting experiences for collaboration, large scale webinars, and virtual classrooms. Adobe Captivate Prime is a Learning Management System that allows enterprise Learning and Development teams to drive personalized learning experiences for the employees and partners of their organization, across multiple devices.\r\n\r\nCoSo Cloud’s platform and services have been used to facilitate crisis-communications regarding food tampering, drug recalls, and international disasters & emergencies. Additionally, both the military and many federal agencies utilize CoSo Cloud's platform to provide secure training around the globe.",
+        "Announcement_Date": "2017-06-21T04:00:00.000Z",
+        "CSP_POC_Name": "Blake Loring",
+        "CSP_POC_Email": "security@cosocloud.com",
+        "FedRAMP_In-Process_Date": "2012-09-12T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Expiration_Date": "2020-08-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-08-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Transportation Security Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2018-03-22T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-04-04T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2018-02-16T05:00:00.000Z",
+            "Letter_Expiration_Date": "2021-02-16T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-02-16T05:00:00.000Z",
+            "Authorizing_Agency": "United States Agency for International Development",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
