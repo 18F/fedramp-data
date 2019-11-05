@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-11-04T05:40:51.029Z",
+    "Created_At": "2019-11-05T05:40:51.193Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -742,14 +742,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2016-10-28T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-10-28T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-10-28T04:00:00.000Z",
-            "Authorizing_Agency": "United States Government Publishing Office",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USGPO%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2017-09-14T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2017-09-18T04:00:00.000Z",
             "Authorizing_Agency": "Department of Housing and Urban Development",
@@ -788,6 +780,14 @@
             "Authorizing_Agency": "Department of the Treasury",
             "Authorizing_Subagency": "Bureau of the Fiscal Service",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-10-22T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-03-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-10-22T04:00:00.000Z",
+            "Authorizing_Agency": "United States Government Publishing Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USGPO%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -1547,13 +1547,6 @@
         "FedRAMP_In-Process_Date": "2014-08-18T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Date": "2016-10-12T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-10-12T04:00:00.000Z",
-            "Authorizing_Agency": "Office of Personnel Management",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2017-03-16T04:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "United States Census Bureau",
@@ -1573,6 +1566,13 @@
             "Authorizing_Agency": "Department of Education",
             "Authorizing_Subagency": "Federal Student Aid",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2020-03-01T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-11-01T04:00:00.000Z",
+            "Authorizing_Agency": "Office of Personnel Management",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -5331,35 +5331,6 @@
             "Include_In_Marketplace": "Y"
           }
         ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "TalaTek, LLC",
-        "Cloud_Service_Provider_Package": "Enterprise Compliance Management Solution (ECMS)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1712036920",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2018-06-26T04:00:00.000Z",
-        "Original_Expiration_Date": "2019-12-31T05:00:00.000Z",
-        "Sponsoring_Agency": "Pension Benefit Guaranty Corporation",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
-        "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/TalaTek%20Logo2.jpg",
-        "Independent_Assessor": "EmeSec Incorporated",
-        "Underlying_CSP_Package_ID": [
-          "FR1833967442"
-        ],
-        "CSP_Website": "www.talatek.com",
-        "CSO_Description": "TalaTek’s ECMS efficiently provides cost-effective ‘Security as a Service’ and Compliance Risk Management. ECMS uses a Governance, Risk Management and Compliance (GRC) application to meet NIST Special Publications 800-37, 800-39, 800-53 and 800-137 guidelines for effective Continuous Monitoring and implementation of the NIST Risk Management Framework (RMF).",
-        "Announcement_Date": "2018-02-13T05:00:00.000Z",
-        "CSP_POC_Name": "N/A",
-        "CSP_POC_Email": "info@talatek.com",
-        "FedRAMP_In-Process_Date": "2017-01-24T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "Esri",
@@ -9584,7 +9555,7 @@
         "Cloud_Service_Provider_Name": "TalaTek, LLC",
         "Cloud_Service_Provider_Package": "TalaTek intelligent Governance and Risk Integrated Solution (TiGRIS)",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "FR1913835324",
         "Service_Model": [
           "SaaS"
@@ -9598,8 +9569,14 @@
         "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/TalaTek%20Logo2.jpg",
         "Independent_Assessor": "Earthling Security, LLC",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1512167750",
+          "F1508207205"
+        ],
         "CSP_Website": "www.talatek.com",
         "CSO_Description": "The TalaTek intelligent Governance and Risk Integrated Solution (TiGRIS) Software-as-a-Service (Saas) manages a customer’s Governance, Risk and Compliance (GRC) needs for an information system or network throughout its entire lifecycle. From inception, through assessment and continuous monitoring, to decommissioning, the TiGRIS application has been developed, in house, by TalaTek’s team of security professionals, to provide a user-friendly, powerful tool for GRC management.",
+        "Announcement_Date": "2019-11-01T04:00:00.000Z",
         "CSP_POC_Name": "Baan Alsinawi",
         "CSP_POC_Email": "info@talatek.com",
         "FedRAMP_In-Process_Date": "2019-03-13T04:00:00.000Z",
@@ -9903,9 +9880,9 @@
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Homeland Security ",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-        "Authorizing_Agency": "Department of Homeland Security ",
+        "Sponsoring_Agency": "Tennessee Valley Authority",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-TennesseeValleyAuthority-Logo.png",
+        "Authorizing_Agency": "Tennessee Valley Authority",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Collibra%20Logo2.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.collibra.com",
