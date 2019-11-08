@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-11-07T05:40:50.686Z",
+    "Created_At": "2019-11-08T05:40:50.839Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -210,19 +210,18 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2016-09-26T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-09-26T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-09-26T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2020-01-18T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-01-18T05:00:00.000Z",
             "Authorizing_Agency": "Office of Personnel Management",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-09-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-09-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -1079,13 +1078,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2019-10-07T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-10-07T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2017-12-19T05:00:00.000Z",
             "Letter_Expiration_Date": "2020-12-19T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2017-12-26T05:00:00.000Z",
@@ -1132,6 +1124,13 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Telecommunications and Information Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-06-18T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-06-18T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -1784,32 +1783,6 @@
             "Include_In_Marketplace": "Y"
           }
         ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Unison",
-        "Cloud_Service_Provider_Package": "FedConnect",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1510017461",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2016-05-18T04:00:00.000Z",
-        "Original_Expiration_Date": "2019-11-18T05:00:00.000Z",
-        "Sponsoring_Agency": "United States Agency for International Development",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
-        "Authorizing_Agency": "United States Agency for International Development",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Unison%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.unisonglobal.com",
-        "CSO_Description": "FedConnect® provides US Government Acquisition leaders and Contract Officers a secure, full-lifecycle, auditable approach to interacting with vendors and complying with Paperless Contracting mandates. FedConnect is a Federal acquisition and grants portal where vendors and grant applicants can find opportunities for federal contracts, grants, and other types of assistance funding. It was developed to bridge the gap between government agencies and their vendor and grant applicant/recipient communities in order to streamline the process of doing business with government. Through the FedConnect portal, Federal Government representatives are able to issue opportunity requests and make awards via the internet. Company representatives are able to review opportunities, submit bids or proposals, and receive awards. FedConnect provides an open channel of communication with the government that is both secure and auditable.\n\nThere are three types of government opportunities facilitated through FedConnect: traditional eRFX issuance, Reverse Auction events, and Financial Assistance opportunities, e.g. grants. For eRFX and Financial Assistance opportunities, FedConnect is offered by subscription fee to Federal Government agencies that are federally regulated. For Reverse Auction only, there is no subscription fee to Federal Government agencies. The bidding and winning vendor company is responsible for payment upon award.\n\nOn the government side, FedConnect is accessed through a system-to-system interface to the Unison Contracting and Grants software applications, where Government procurement and grant representatives become indirect users of FedConnect.\n\nOn the Vendor/Applicant side, FedConnect is accessed via the internet with a browser. Anyone can access the FedConnect web site and review public opportunities. However, to receive directed opportunities that are not publicly issued, respond electronically, and receive ongoing communications, a vendor/applicant must be registered.\n\nTo learn more about FedConnect and its capabilities, please visit the public portion of the FedConnect site.",
-        "Announcement_Date": "2016-10-19T04:00:00.000Z",
-        "CSP_POC_Name": "Clifton H. Poole",
-        "CSP_POC_Email": "securityteam@unisonglobal.com",
-        "FedRAMP_In-Process_Date": "2015-10-20T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "Amazon",
@@ -3666,6 +3639,14 @@
             "Include_In_Marketplace": "Y"
           },
           {
+            "Letter_Date": "2019-05-07T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-05-09T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-05-07T04:00:00.000Z",
+            "Authorizing_Agency": "United States Agency for International Development",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
             "Letter_Expiration_Date": "2022-10-07T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-10-08T04:00:00.000Z",
             "Authorizing_Agency": "Department of Health and Human Services",
@@ -4007,6 +3988,12 @@
             "Authorizing_Subagency": "Federal Emergency Management Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-11-07T05:00:00.000Z",
+            "Authorizing_Agency": "National Science Foundation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -4252,14 +4239,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2018-05-09T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-05-09T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-05-09T04:00:00.000Z",
-            "Authorizing_Agency": "United States Agency for International Development",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2018-10-05T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-10-09T04:00:00.000Z",
             "Authorizing_Agency": "Corporation for National and Community Service",
@@ -4342,6 +4321,14 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Institute of Standards and Technology",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-05-10T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-06-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-05-10T04:00:00.000Z",
+            "Authorizing_Agency": "United States Agency for International Development",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -7252,14 +7239,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2016-11-08T05:00:00.000Z",
-            "Letter_Expiration_Date": "2019-11-08T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-11-09T05:00:00.000Z",
-            "Authorizing_Agency": "United States Agency for International Development",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2018-06-14T04:00:00.000Z",
             "Letter_Expiration_Date": "2019-12-13T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-06-14T04:00:00.000Z",
@@ -9014,6 +8993,12 @@
             "Authorizing_Subagency": "Food and Drug Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-11-07T05:00:00.000Z",
+            "Authorizing_Agency": "National Science Foundation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -9580,6 +9565,83 @@
         "CSP_POC_Email": "info@talatek.com",
         "FedRAMP_In-Process_Date": "2019-03-13T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Unison",
+        "Cloud_Service_Provider_Package": "FedConnect",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1607067912",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-09-20T04:00:00.000Z",
+        "Original_Expiration_Date": "2022-09-20T04:00:00.000Z",
+        "Sponsoring_Agency": "United States Agency for International Development",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
+        "Authorizing_Agency": "United States Agency for International Development",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Unison%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.unisonglobal.com",
+        "CSO_Description": "FedConnect® provides US Government Acquisition leaders and Contract Officers a secure, full-lifecycle, auditable approach to interacting with vendors and complying with Paperless Contracting mandates. FedConnect is a Federal acquisition and grants portal where vendors and grant applicants can find opportunities for federal contracts, grants, and other types of assistance funding. It was developed to bridge the gap between government agencies and their vendor and grant applicant/recipient communities in order to streamline the process of doing business with government. Through the FedConnect portal, Federal Government representatives are able to issue opportunity requests and make awards via the internet. Company representatives are able to review opportunities, submit bids or proposals, and receive awards. FedConnect provides an open channel of communication with the government that is both secure and auditable.\n\nThere are three types of government opportunities facilitated through FedConnect: traditional eRFX issuance, Reverse Auction events, and Financial Assistance opportunities, e.g. grants. For eRFX and Financial Assistance opportunities, FedConnect is offered by subscription fee to Federal Government agencies that are federally regulated. For Reverse Auction only, there is no subscription fee to Federal Government agencies. The bidding and winning vendor company is responsible for payment upon award.\n\nOn the government side, FedConnect is accessed through a system-to-system interface to the Unison Contracting and Grants software applications, where Government procurement and grant representatives become indirect users of FedConnect.\n\nOn the Vendor/Applicant side, FedConnect is accessed via the internet with a browser. Anyone can access the FedConnect web site and review public opportunities. However, to receive directed opportunities that are not publicly issued, respond electronically, and receive ongoing communications, a vendor/applicant must be registered.\n\nTo learn more about FedConnect and its capabilities, please visit the public portion of the FedConnect site.",
+        "Announcement_Date": "2016-10-19T04:00:00.000Z",
+        "CSP_POC_Name": "Clifton H. Poole",
+        "CSP_POC_Email": "securityteam@unisonglobal.com",
+        "FedRAMP_In-Process_Date": "2015-10-20T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2017-01-23T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-01-24T05:00:00.000Z",
+            "Authorizing_Agency": "General Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2017-03-01T05:00:00.000Z",
+            "Authorizing_Agency": "Federal Deposit Insurance Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2017-05-02T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-05-02T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Information Systems Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2017-07-31T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Internal Revenue Service",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2018-02-07T05:00:00.000Z",
+            "Letter_Expiration_Date": "2020-11-07T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-02-07T05:00:00.000Z",
+            "Authorizing_Agency": "Environmental Protection Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-04-23T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-04-23T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Election Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FEC%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2017-12-11T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Authorizing_Subagency": "United States Forest Service",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Replicon",
