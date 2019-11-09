@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-11-08T05:40:50.839Z",
+    "Created_At": "2019-11-09T05:40:50.447Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2937,7 +2937,16 @@
         "CSP_POC_Email": "saas_fedramp_us_grp@oracle.com",
         "Fedramp_Ready_Date": "2016-08-30T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2017-02-17T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2019-08-22T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-09-25T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-09-25T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "SpringCM",
@@ -9707,6 +9716,29 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Accenture",
+        "Cloud_Service_Provider_Package": "Managed Detection and Response",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1834336116",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "National Gallery of Art",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NGA%20Logo.png",
+        "Authorizing_Agency": "National Gallery of Art",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Accenture%20Logo2.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://www.accenture.com/us-en/service-safeguard-secure",
+        "CSO_Description": "Defense Point Security (DPS) Managed Detection and Response (MDR) service is a proactive security platform designed for Federal agencies and customers. This scalable threat monitoring service enables all Continental United States (CONUS) government entities trusted and reliable cyber defense at a fraction of the cost of traditional 24/7 in-house incident response programs. MDR provides security monitoring using real-time threat intel and Security Orchestration, Automation and Response (SOAR) capabilities to decrease the mean time to resolution on all security incidents. MDR is built in the cloud to provide maximum availability and scalability.",
+        "CSP_POC_Name": "David Dalling",
+        "CSP_POC_Email": "MDR@accenturefederal.com",
+        "FedRAMP_In-Process_Date": "2018-12-10T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "AppDynamics (a Cisco company)",
         "Cloud_Service_Provider_Package": "AppDynamics GovAPM",
         "Path": "Agency",
@@ -9998,29 +10030,6 @@
         "CSP_POC_Name": "Phil Shea",
         "CSP_POC_Email": "fedramp@datadoghq.com",
         "FedRAMP_In-Process_Date": "2019-07-02T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Defense Point Security",
-        "Cloud_Service_Provider_Package": "Managed Detection and Response (MDRaaS)",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1834336116",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "National Gallery of Art",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NGA%20Logo.png",
-        "Authorizing_Agency": "National Gallery of Art",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/DPS%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.defpoint.com",
-        "CSO_Description": "Defense Point Security (DPS) Managed Detection and Response (MDR) service is a proactive security platform designed for Federal agencies and customers. This scalable threat monitoring service enables all Continental United States (CONUS) government entities trusted and reliable cyber defense at a fraction of the cost of traditional 24/7 in-house incident response programs. MDR provides security monitoring using real-time threat intel and Security Orchestration, Automation and Response (SOAR) capabilities to decrease the mean time to resolution on all security incidents. MDR is built in the cloud to provide maximum availability and scalability.",
-        "CSP_POC_Name": "Grayson Roberge",
-        "CSP_POC_Email": "fedramp@defensepoint.com",
-        "FedRAMP_In-Process_Date": "2018-12-10T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -11096,6 +11105,29 @@
         "CSP_POC_Name": "Siddique Chaudhry",
         "CSP_POC_Email": "FedRAMP@snowflake.com",
         "Fedramp_Ready_Date": "2019-10-07T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Software AG Government Solutions",
+        "Cloud_Service_Provider_Package": "Software AG Government Cloud",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2000945223",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Education",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+        "Authorizing_Agency": "Department of Education",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/SoftwareAG%20Logo.jpg",
+        "Independent_Assessor": "Kratos SecureInfo",
+        "CSP_Website": "https://www.softwareaggov.com",
+        "CSO_Description": "Software AG is a PaaS provider of market leading Enterprise Architecture and IT Planning and Portfolio Management solutions, ALFABET and ARIS.\n\nWhile enabling the business of Federal agencies and ensuring security protection of agency and citizen information assets is top of mind for government IT leaders, the adoption of more rigorous IT Enterprise Architecture and IT Planning is helping agencies gain a better overall picture of their IT environments in order to make better decisions. ALFABET and ARIS enable agencies to more reliably analyze and answer business questions about the value to be received from IT and develop more accurate pictures of mission gains and risks during project delivery. \n\nWith government agencies facing mandates today such as FITARA and TBM and new mandates in the future, the need for flexible visibility and transparency for not only IT spend but how IT is aligned to mission, has never been more critical.\n\n**Platform Implementation Details:**\n\n * Fast deployment into Azure Government Cloud P-ATO at FedRAMP Moderate\n * Central contact point for all issues including hosting, software deployment, and optionally end-user support. \n * Single Tenant deployments per customer providing peace of mind security while avoiding multi-tenant headaches and forced upgrade timelines\n * Shared Help Desk, Security, and Operations Staff to optimize cost and skillset management\n * Single-Sign On Capability leveraging approved SAML providers supporting PIV/CAC authentication\n * Environment provisioning and operations meeting NIST 800-53 Rev 4 FedRAMP Moderate.\n * All US Person staff\n\n**Platform Benefits:**\n\n * Faster time-to-value for the mission\n * Well-defined tenant boundary for streamlined agency ATO signoff\n * Simplified cost structure removing separate costs for hardware, software and hosting removing capital funding requirements\n * Reduced training and staffing requirements for software configuration and patch/upgrade cycles\n\n**Additional ALFABET Details** Assists organizations in IT planning, portfolio management, risk management and enterprise architecture.\n\nKey Solution Capabilities:\n\n 1. Accelerated deployment for government agencies\n 2. Support for TBM, FITARA, DODAF, and many other frameworks and standards, “out of the box”\n 3. Manage and reduce costs by rationalizing the IT landscape\n 4. Improve business and IT agility with a clear understanding of impacts and dependencies in your architecture\n 5. Enhance decision-making, drive innovation and reduce time-to-market \n 6. Plot your transformation success with road mapping capabilities across multiple dimensions\n 7. Create operational efficiencies by eliminating information silos\n 8. Improve compliance and reduce risk through the definition and effective analysis of compliance information\n\n**Additional ARIS Details** Assists organizations in following the Architecture of Integrated Information Systems approach to enterprise modeling. Agencies can analyze, process and take a holistic approach to design, management, workflow, and application processing.\n\nKey Solution Capabilities:\n\n 1. Business Modeling- Easily design your processes with a rich modeling environment supporting whatever notation or topic from BPMN 2.0 to customer journey mapping. \n 2. Business Analysis - Analyze your business from simple to complex. From easy search & queries, ad-hoc analysis, decision-making, reporting & macros\n 3. Central Repository - Based on a central repository and administration make sure you are in full control of your operations\n 4. Connected Operations - Design is tightly integrated with publishing and collaboration and integrated e.g. via interfaces to external tools like SAP\n 5. Business Clarity - A state-of the-art look-and-feel makes it fun to view processes. Innovative ways to publish process content enable anyone to understand processes\n 6. Process Improvement - By using social collaboration, you unlock the wisdom of the crowd for process improvement.\n 7. Direct Access - Access dedicated & up-to-date information to analyze and evaluate content, contribute to process improvements, view and share best practices.",
+        "CSP_POC_Name": "Jeff Estes",
+        "CSP_POC_Email": "fedramp@softwareaggov.com    ",
+        "FedRAMP_In-Process_Date": "2019-11-05T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
