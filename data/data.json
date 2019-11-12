@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-11-11T05:40:50.106Z",
+    "Created_At": "2019-11-12T05:40:50.391Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -779,6 +779,13 @@
             "Authorizing_Agency": "Department of the Treasury",
             "Authorizing_Subagency": "Bureau of the Fiscal Service",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-09-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-09-26T04:00:00.000Z",
+            "Authorizing_Agency": "Overseas Private Investment Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/OPIC%20Logo.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -6076,6 +6083,12 @@
             "Authorizing_Agency": "Nuclear Regulatory Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2019-09-25T04:00:00.000Z",
+            "Authorizing_Agency": "Overseas Private Investment Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/OPIC%20Logo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -10828,7 +10841,7 @@
         "CSO_Description": "Liberta Server manages the deployment, operations and hosting of a complex web and mobile presence. It is a SaaS digital experience management platform (DXP). \n\nThe open source content management system, concrete5, is provided as the default CMS but other tools can be incorporated as an Agency desires. Concrete5 makes it easy for people with any level of technical expertise to quickly add and maintain content on the web. Liberta Server makes it safe for Agency properties to keep their entire solution compliant. \n\nPII is carefully controlled to follow policies that keep an Agency’s digital presence compliant, while still meeting core business needs. The security experts behind Liberta can design, launch and maintain a digital presence that meets any Agency’s custom compliance controls. Liberta Server frees your content creators from the complexity of compliance and puts you back in the driver’s seat to focus on what matters -  easily creating content that meets you organizational goals.\n\nThe following LIberta services are FedRAMP Ready:  Liberta Server; Website and Mobile Application development/management/hosting; managed concrete5 CMS; SSL certificate and domain management; 24/7 Tier 3 technical support, SSO Employee Portal (Agency Access Management); Analytics Reporting; Marketing Automation; Headless CMS components (Ad Manager, Personalization Manager, Central Content Repository); Digital Asset Management System; Intranet/Extranet Hub",
         "CSP_POC_Name": "Lisa Nicholson",
         "CSP_POC_Email": "security@portlandlabs.com",
-        "FedRAMP_In-Process_Date": "2019-08-30T04:00:00.000Z",
+        "Fedramp_Ready_Date": "2019-08-30T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -10991,6 +11004,28 @@
         "CSP_POC_Name": "Kevin Kelly",
         "CSP_POC_Email": "fedramp@rescale.com",
         "FedRAMP_In-Process_Date": "2019-08-15T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Salesforce",
+        "Cloud_Service_Provider_Package": "Salesforce Government Cloud - JAB",
+        "Path": "JAB",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2003061248",
+        "Service_Model": [
+          "PaaS, SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Salesforce%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.salesforce.com/industries/public-sector",
+        "CSO_Description": "Salesforce Government Cloud is a partitioned instance of Salesforce’s industry-leading Platform-as-a-Service (PaaS) and Software-as-a-Service (SaaS), multi-tenant community cloud infrastructure specifically for use by U.S. federal, state, and local government customers, U.S. government contractors, and Federally Funded Research and Development Centers (FFRDCs). \n\nSalesforce Government Cloud is comprised of the following Salesforce services: Lightning Platform, Sales, Service, Communities, Analytics, and Industry Solutions. A list of current in-scope Salesforce products included in the authorization boundary is available at [https://help.salesforce.com/articleView?id=000270080&language=en_US&type=1](https://help.salesforce.com/articleView?id=000270080&language=en_US&type=1)\n\nAdditional information is available at: [http://pages.mail.salesforce.com/gettingstarted/government-cloud/](http://pages.mail.salesforce.com/gettingstarted/government-cloud/)",
+        "CSP_POC_Name": "N/A",
+        "CSP_POC_Email": "fedramp@salesforce.com",
+        "Fedramp_Ready_Date": "2019-11-08T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
