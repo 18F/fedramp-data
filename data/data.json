@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-11-12T05:40:50.391Z",
+    "Created_At": "2019-11-13T05:40:50.347Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -9357,8 +9357,9 @@
         "FedRAMP_In-Process_Date": "2015-01-14T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Date": "2016-11-04T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-11-04T05:00:00.000Z",
+            "Letter_Date": "2019-06-27T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-07-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-07-01T04:00:00.000Z",
             "Authorizing_Agency": "Department of Agriculture",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
             "Include_In_Marketplace": "Y"
@@ -9729,7 +9730,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Accenture",
+        "Cloud_Service_Provider_Name": "Accenture Federal Services",
         "Cloud_Service_Provider_Package": "Managed Detection and Response",
         "Path": "Agency",
         "Designation": "In Process",
@@ -9976,6 +9977,29 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Code42 Software Inc.",
+        "Cloud_Service_Provider_Package": "Code42 Next-Gen Data Loss Protection (DLP) Gov",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1910758409",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Energy",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+        "Authorizing_Agency": "Department of Energy",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Code42%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.code42.com",
+        "CSO_Description": "Code42 is a cloud based data loss protection solution designed to provide the ability to detect, investigate, and respond to Insider Threats. Code42 software provides the ability to recover critical files in seconds, collect file activity from endpoints and cloud, log user file activity, monitor exfiltration events, restore deleted or modified files, and recover files from lost and stolen endpoints. ",
+        "CSP_POC_Name": "Jadee Hanson",
+        "CSP_POC_Email": "security@code42.com",
+        "FedRAMP_In-Process_Date": "2019-11-12T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Collibra",
         "Cloud_Service_Provider_Package": "Data Governance Center",
         "Path": "Agency",
@@ -10057,7 +10081,7 @@
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Sponsoring_Agency": "Department of Energy",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
         "Authorizing_Agency": "Department of Energy",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Duo%20Logo.jpg",
         "Independent_Assessor": "Schellman & Company, LLC",
