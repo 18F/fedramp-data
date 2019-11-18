@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-11-17T05:40:50.353Z",
+    "Created_At": "2019-11-18T05:40:50.428Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -9688,6 +9688,31 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Duo Security",
+        "Cloud_Service_Provider_Package": "Duo Access",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1823149273",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-08-16T04:00:00.000Z",
+        "Original_Expiration_Date": "2022-08-13T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Energy",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+        "Authorizing_Agency": "Department of Energy",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Duo%20Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "https://duo.com",
+        "CSO_Description": "Duo's cloud-first secure access platform fuels your IT modernization journey by leveraging “zero trust” principles of identity, device, and application protection, while helping federal agencies and government customers mitigate the risk of data breaches. \n\nDuo verifies the identities of federal employees with one of the most secure and easy to use two-factor authentication methods, Duo Push, which offers authentication at an AAL1, AAL2, and AAL3 assurance level. Duo’s Unified Access Security solution helps federal agencies meet NIST 800-63-3 and 53/63/171 authentication requirements.\n\nFor federal agencies that have invested in Personal Identity Verification (PIV) cards and Common Access Cards (CAC), Duo’s solution works with your existing PIV and CAC solution to provide stronger access security. Duo is also a PIV/CAC alternative in use cases where access cards are not ideal or cannot be used.\n\nIn addition to verifying users’ identities, Duo's solution checks the security health of every device authenticating into your environment, at the time of access, without using an agent.\n\nFederal admins can use Duo to enforce stricter device access and application access policies, including blocking login requests based on location or anonymous networks, such as VPN proxies.\n\nDuo's Unified Access Security ensures only trusted users and trusted devices can access protected applications. This complete security solution prevents modern attackers that often target multiple areas - including credential theft and the exploitation of known software vulnerabilities affecting outdated software versions.",
+        "CSP_POC_Name": "Dennis O'Neill",
+        "CSP_POC_Email": "fedramp@duosecurity.com",
+        "FedRAMP_In-Process_Date": "2018-11-07T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Replicon",
         "Cloud_Service_Provider_Package": "Replicon Cloud Platform",
         "Path": "Agency",
@@ -10281,29 +10306,6 @@
         "CSP_POC_Name": "Phil Shea",
         "CSP_POC_Email": "fedramp@datadoghq.com",
         "FedRAMP_In-Process_Date": "2019-07-02T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Duo Security",
-        "Cloud_Service_Provider_Package": "Duo Access",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1823149273",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Energy",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-        "Authorizing_Agency": "Department of Energy",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Duo%20Logo.jpg",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "CSP_Website": "https://duo.com",
-        "CSO_Description": "Duo's cloud-first secure access platform fuels your IT modernization journey by leveraging “zero trust” principles of identity, device, and application protection, while helping federal agencies and government customers mitigate the risk of data breaches. \n\nDuo verifies the identities of federal employees with one of the most secure and easy to use two-factor authentication methods, Duo Push, which offers authentication at an AAL1, AAL2, and AAL3 assurance level. Duo’s Unified Access Security solution helps federal agencies meet NIST 800-63-3 and 53/63/171 authentication requirements.\n\nFor federal agencies that have invested in Personal Identity Verification (PIV) cards and Common Access Cards (CAC), Duo’s solution works with your existing PIV and CAC solution to provide stronger access security. Duo is also a PIV/CAC alternative in use cases where access cards are not ideal or cannot be used.\n\nIn addition to verifying users’ identities, Duo's solution checks the security health of every device authenticating into your environment, at the time of access, without using an agent.\n\nFederal admins can use Duo to enforce stricter device access and application access policies, including blocking login requests based on location or anonymous networks, such as VPN proxies.\n\nDuo's Unified Access Security ensures only trusted users and trusted devices can access protected applications. This complete security solution prevents modern attackers that often target multiple areas - including credential theft and the exploitation of known software vulnerabilities affecting outdated software versions.",
-        "CSP_POC_Name": "Dennis O'Neill",
-        "CSP_POC_Email": "fedramp@duosecurity.com",
-        "FedRAMP_In-Process_Date": "2018-11-07T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
