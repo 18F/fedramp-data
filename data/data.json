@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-11-20T05:40:50.806Z",
+    "Created_At": "2019-11-21T05:40:50.627Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -499,98 +499,6 @@
             "Authorizing_Letter_Last_Sign_Date": "2019-02-26T05:00:00.000Z",
             "Authorizing_Agency": "Department of Transportation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "IBM",
-        "Cloud_Service_Provider_Package": "SmartCloud for Government",
-        "Path": "JAB",
-        "Designation": "Compliant",
-        "Package_ID": "F1206081363",
-        "Service_Model": [
-          "IaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate (High In Process)",
-        "Original_Authorization_Date": "2013-11-07T05:00:00.000Z",
-        "Sponsoring_Agency": "JAB Authorization",
-        "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/IBM%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www-01.ibm.com/software/lotus/cloud/government/",
-        "CSO_Description": "IBM’s SmartCloud for Government (SCG) is a secure multi-tenant Infrastructure as a Service (IaaS) cloud computing environment for U.S. Federal customers. SCG services include provisioning of compute, memory, network, OS, and storage resources to meet client production and development/test computing needs. SCG IaaS services can be bundled with enterprise class, fully managed cloud hosting services, including OS Provisioning and Administration, Enterprise System Management,  Security Operation Center (SOC), Storage Management, and Backup.  These SCG IaaS capabilities can also be leveraged to support a broad range of IBM and 3rd party software offerings using a PaaS or SaaS delivery model.\n\nIBM’s portfolio of cloud security expertise spans multiple security domains including people, data, applications and infrastructure, with an emphasis on visibility, control, isolation and automation. The SCG solutions are delivered from IBM Federal Data Centers (FDC) that are expressly designed and managed to meet FISMA requirements. IBM SCG enables customers to choose cloud solutions and services that meet their workload requirements and helps Government agencies deliver business outcomes with faster time to value and a lower total cost of ownership.",
-        "Announcement_Date": "2013-11-07T05:00:00.000Z",
-        "CSP_POC_Name": "Jerome Giles ",
-        "CSP_POC_Email": "jerome.giles@us.ibm.com ",
-        "FedRAMP_In-Process_Date": "2012-12-07T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2015-07-17T04:00:00.000Z",
-            "Authorizing_Agency": "General Services Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2015-03-17T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2015-03-17T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Justice",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2016-05-20T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2016-10-07T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Information Systems Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2017-08-21T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-08-21T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-08-21T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "Federal Law Enforcement Training Centers",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2017-04-24T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-04-08T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-04-24T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Logistics Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2020-07-27T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-07-27T04:00:00.000Z",
-            "Authorizing_Agency": "Office of Personnel Management",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-09-14T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-09-25T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-09-25T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-05-09T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-11-09T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Health Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -2077,82 +1985,6 @@
         "Fedramp_Ready_Date": "2015-12-10T05:00:00.000Z",
         "FedRAMP_In-Process_Date": "2016-01-14T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "IBM",
-        "Cloud_Service_Provider_Package": "IBM Cloud for Government",
-        "Path": "JAB",
-        "Designation": "Compliant",
-        "Package_ID": "F1211011660",
-        "Service_Model": [
-          "IaaS, PaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate (High In Process)",
-        "Original_Authorization_Date": "2016-08-04T04:00:00.000Z",
-        "Sponsoring_Agency": "JAB Authorization",
-        "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/IBM%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://www.ibm.com/cloud/federal",
-        "CSO_Description": "Agency Customers: Agencies should fully understand the functions provided by the service offering. Please note the specific responsibilities for both the customer and cloud service provider associated with the PaaS. The delineation of these responsibilities can be found in the security authorization package within the Customer Implementation Summary (CIS) Workbook and System Security Plan (SSP).\n\nIBM Cloud for Government is a high performance, high security Cloud, providing both Infrastructure and Platform Cloud Services. IBM Cloud for Government delivers seamless integrated computing environments across multiple data centers. IBM integrates and automates infrastructure and platform services empowering federal agencies with complete control, security, scalability and ease-of-management via an Agency Portal and Secure Open API. The Agency portal and API provide administrators and developers with direct access to more than 100 backend systems, services and activities.  IBM Cloud for Government is designed for optimized network management, various performance levels and enhanced security. It provides automated provisioning of services in public, private, and hybrid cloud offerings with quick and easy access to developer tools. Services include orchestration of bare metal and virtual servers, networking services, VMWare, and development tools such as with object storage, auto scaling, and load balancing.",
-        "Announcement_Date": "2016-08-04T04:00:00.000Z",
-        "CSP_POC_Name": "Julie Bitzer",
-        "CSP_POC_Email": "jbitzer@us.ibm.com",
-        "FedRAMP_In-Process_Date": "2015-02-12T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2015-06-16T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Communications Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2016-08-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-08-10T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2016-10-21T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "United States Citizenship and Immigration Services",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2017-07-05T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Agriculture",
-            "Authorizing_Subagency": "United States Forest Service",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2017-08-21T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-08-21T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-08-21T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "Federal Law Enforcement Training Centers",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2023-05-31T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-02-14T05:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-09-25T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-09-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-09-25T04:00:00.000Z",
-            "Authorizing_Agency": "Pretrial Services Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PSA%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
       },
       {
         "Cloud_Service_Provider_Name": "AirWatch",
@@ -9817,6 +9649,174 @@
             "Authorizing_Letter_Last_Sign_Date": "2019-07-01T04:00:00.000Z",
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Missile Defense Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "IBM",
+        "Cloud_Service_Provider_Package": "IBM Cloud for Government",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "F1211011660",
+        "Service_Model": [
+          "IaaS, PaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "High",
+        "Original_Authorization_Date": "2019-11-14T05:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/IBM%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://www.ibm.com/cloud/federal",
+        "CSO_Description": "Agency Customers: Agencies should fully understand the functions provided by the service offering. Please note the specific responsibilities for both the customer and cloud service provider associated with the PaaS. The delineation of these responsibilities can be found in the security authorization package within the Customer Implementation Summary (CIS) Workbook and System Security Plan (SSP).\n\nIBM Cloud for Government is a high performance, high security Cloud, providing both Infrastructure and Platform Cloud Services. IBM Cloud for Government delivers seamless integrated computing environments across multiple data centers. IBM integrates and automates infrastructure and platform services empowering federal agencies with complete control, security, scalability and ease-of-management via an Agency Portal and Secure Open API. The Agency portal and API provide administrators and developers with direct access to more than 100 backend systems, services and activities.  IBM Cloud for Government is designed for optimized network management, various performance levels and enhanced security. It provides automated provisioning of services in public, private, and hybrid cloud offerings with quick and easy access to developer tools. Services include orchestration of bare metal and virtual servers, networking services, VMWare, and development tools such as with object storage, auto scaling, and load balancing.",
+        "Announcement_Date": "2016-08-04T04:00:00.000Z",
+        "CSP_POC_Name": "Julie Bitzer",
+        "CSP_POC_Email": "jbitzer@us.ibm.com",
+        "FedRAMP_In-Process_Date": "2015-02-12T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2015-06-16T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Communications Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2016-08-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2016-08-10T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2016-10-21T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "United States Citizenship and Immigration Services",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2017-07-05T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Authorizing_Subagency": "United States Forest Service",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2017-08-21T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-08-21T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-08-21T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Federal Law Enforcement Training Centers",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-05-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-02-14T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-09-25T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-09-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-09-25T04:00:00.000Z",
+            "Authorizing_Agency": "Pretrial Services Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PSA%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "IBM",
+        "Cloud_Service_Provider_Package": "SmartCloud for Government",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "F1206081363",
+        "Service_Model": [
+          "IaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Original_Authorization_Date": "2019-11-14T05:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/IBM%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www-01.ibm.com/software/lotus/cloud/government/",
+        "CSO_Description": "IBM’s SmartCloud for Government (SCG) is a secure multi-tenant Infrastructure as a Service (IaaS) cloud computing environment for U.S. Federal customers. SCG services include provisioning of compute, memory, network, OS, and storage resources to meet client production and development/test computing needs. SCG IaaS services can be bundled with enterprise class, fully managed cloud hosting services, including OS Provisioning and Administration, Enterprise System Management,  Security Operation Center (SOC), Storage Management, and Backup.  These SCG IaaS capabilities can also be leveraged to support a broad range of IBM and 3rd party software offerings using a PaaS or SaaS delivery model.\n\nIBM’s portfolio of cloud security expertise spans multiple security domains including people, data, applications and infrastructure, with an emphasis on visibility, control, isolation and automation. The SCG solutions are delivered from IBM Federal Data Centers (FDC) that are expressly designed and managed to meet FISMA requirements. IBM SCG enables customers to choose cloud solutions and services that meet their workload requirements and helps Government agencies deliver business outcomes with faster time to value and a lower total cost of ownership.",
+        "Announcement_Date": "2013-11-07T05:00:00.000Z",
+        "CSP_POC_Name": "Jerome Giles ",
+        "CSP_POC_Email": "jerome.giles@us.ibm.com ",
+        "FedRAMP_In-Process_Date": "2012-12-07T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2015-07-17T04:00:00.000Z",
+            "Authorizing_Agency": "General Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2015-03-17T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2015-03-17T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Justice",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2016-05-20T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2016-10-07T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Information Systems Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2017-08-21T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-08-21T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-08-21T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Federal Law Enforcement Training Centers",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2017-04-24T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-04-08T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-04-24T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Logistics Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2020-07-27T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-07-27T04:00:00.000Z",
+            "Authorizing_Agency": "Office of Personnel Management",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2018-09-14T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-09-25T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-09-25T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-05-09T04:00:00.000Z",
+            "Letter_Expiration_Date": "2019-11-09T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Health Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
