@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-11-21T23:11:58.968Z",
+    "Created_At": "2019-11-22T05:40:50.688Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1956,6 +1956,13 @@
             "Authorizing_Agency": "Department of the Treasury",
             "Authorizing_Subagency": "Bureau of the Fiscal Service",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-09-13T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-11-20T05:00:00.000Z",
+            "Authorizing_Agency": "National Aeronautics and Space Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NASA_logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -4178,6 +4185,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2019-05-10T04:00:00.000Z",
             "Authorizing_Agency": "United States Agency for International Development",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-09-13T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-11-20T05:00:00.000Z",
+            "Authorizing_Agency": "National Aeronautics and Space Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NASA_logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -9571,6 +9585,31 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "VMware, Inc.",
+        "Cloud_Service_Provider_Package": "Workspace ONE",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1906353407",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-08-01T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Commerce",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+        "Authorizing_Agency": "Department of Commerce",
+        "Authorizing_Subagency": "United States Census Bureau",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/VMware%20Workspace%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://my.workspaceone.com/products/VMware-Workspace-ONE  ",
+        "CSO_Description": "Workspace ONE simplifies mobility for organizations, while empowering end users. With Workspace ONE, organizations can easily deploy, configure, secure, manage and support smartphones, tablets, laptops and other devices across multiple mobile applications and operating systems. Workspace ONE includes industry-leading mobile device, email, application, content and browser management solutions. Whether enabling a Bring Your Own Device (BYOD) program or corporate-owned and line-of-business devices, organizations can implement these solutions standalone, in a dual persona containerized solution or as a comprehensive solution based on device type, use case and user role in the organization. This integrated solution helps companies reduce costs and increase efficiency, while mitigating security risks and preventing data loss.",
+        "CSP_POC_Name": "Thomas Simmons ",
+        "CSP_POC_Email": "tsimmons@vmware.com",
+        "FedRAMP_In-Process_Date": "2019-02-20T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Replicon",
         "Cloud_Service_Provider_Package": "Replicon Cloud Platform",
         "Path": "Agency",
@@ -9851,7 +9890,7 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Axway, Inc.",
+        "Cloud_Service_Provider_Name": "Accenture Federal Services",
         "Cloud_Service_Provider_Package": "Syncplicity Federal Government",
         "Designation": "FedRAMP Ready",
         "Package_ID": "FR1727552755",
@@ -9870,7 +9909,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "BrightWork",
+        "Cloud_Service_Provider_Name": "AppDynamics (a Cisco company)",
         "Cloud_Service_Provider_Package": "FedRAMP Project Office JumpStart provided by Project Hosts",
         "Designation": "FedRAMP Ready",
         "Package_ID": "F1403283529B",
@@ -9888,7 +9927,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "DXC Technology Company",
+        "Cloud_Service_Provider_Name": "AT&T Cybersecurity",
         "Cloud_Service_Provider_Package": "DXC Analytics and AI Platform",
         "Designation": "FedRAMP Ready",
         "Package_ID": "FR1915448919",
@@ -9907,7 +9946,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "e-Builder, Inc.",
+        "Cloud_Service_Provider_Name": "Axway, Inc.",
         "Cloud_Service_Provider_Package": "e-Builder Enterprise Government Edition",
         "Designation": "FedRAMP Ready",
         "Package_ID": "F1603307884",
@@ -9926,7 +9965,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Human Resources Technologies, Inc. (HRTec)",
+        "Cloud_Service_Provider_Name": "Bitglass, Inc.",
         "Cloud_Service_Provider_Package": "Federal High Impact Virtualized Environment (FedHIVE)",
         "Designation": "FedRAMP Ready",
         "Package_ID": "FR1802451335",
@@ -9945,7 +9984,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Lifeline Data Centers, LLC",
+        "Cloud_Service_Provider_Name": "Bizagi Corp.",
         "Cloud_Service_Provider_Package": "Lifeline Federal Hosting Services",
         "Designation": "FedRAMP Ready",
         "Package_ID": "F1605117899",
@@ -9964,7 +10003,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "M.C. Dean, Inc.",
+        "Cloud_Service_Provider_Name": "BlackBerry",
         "Cloud_Service_Provider_Package": "Infrastructure Maintenance Management System (IMMS) Cloud Computing Environment (CCE)",
         "Designation": "FedRAMP Ready",
         "Package_ID": "FR1927682057",
@@ -9983,7 +10022,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "McAfee",
+        "Cloud_Service_Provider_Name": "BrightWork",
         "Cloud_Service_Provider_Package": "MVision Cloud - JAB",
         "Path": "JAB",
         "Designation": "FedRAMP Ready",
@@ -10005,7 +10044,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Modus",
+        "Cloud_Service_Provider_Name": "Canon U.S.A., Inc.",
         "Cloud_Service_Provider_Package": "Modus Government Solutions (MGS)",
         "Designation": "FedRAMP Ready",
         "Package_ID": "FR1915765924",
@@ -10024,7 +10063,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "NeoSystems LLC",
+        "Cloud_Service_Provider_Name": "Check Point Software",
         "Cloud_Service_Provider_Package": "NeoSystems.Cloud",
         "Designation": "FedRAMP Ready",
         "Package_ID": "FR1813457235",
@@ -10043,7 +10082,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "OneLogin Inc.",
+        "Cloud_Service_Provider_Name": "Cisco Systems Inc.",
         "Cloud_Service_Provider_Package": "OneLogin",
         "Designation": "FedRAMP Ready",
         "Package_ID": "FR1907156894",
@@ -10062,7 +10101,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Opus Interactive",
+        "Cloud_Service_Provider_Name": "Code42 Software Inc.",
         "Cloud_Service_Provider_Package": "OpusGov (OG)",
         "Designation": "FedRAMP Ready",
         "Package_ID": "FR1906574488",
@@ -10081,7 +10120,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Accenture Federal Services",
+        "Cloud_Service_Provider_Name": "Collibra",
         "Cloud_Service_Provider_Package": "Managed Detection and Response",
         "Path": "Agency",
         "Designation": "In Process",
@@ -10104,7 +10143,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "AppDynamics (a Cisco company)",
+        "Cloud_Service_Provider_Name": "Databricks",
         "Cloud_Service_Provider_Package": "AppDynamics GovAPM",
         "Path": "Agency",
         "Designation": "In Process",
@@ -10127,7 +10166,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "AT&T Cybersecurity",
+        "Cloud_Service_Provider_Name": "Datadog",
         "Cloud_Service_Provider_Package": "AlienVault Unified Security Management Anywhere (USMA)",
         "Path": "Agency",
         "Designation": "In Process",
@@ -10150,7 +10189,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Bitglass, Inc.",
+        "Cloud_Service_Provider_Name": "DXC Technology Company",
         "Cloud_Service_Provider_Package": "Bitglass CASB",
         "Path": "Agency",
         "Designation": "In Process",
@@ -10173,7 +10212,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Bizagi Corp.",
+        "Cloud_Service_Provider_Name": "e-Builder, Inc.",
         "Cloud_Service_Provider_Package": "Bizagi Cloud for US Government",
         "Path": "Agency",
         "Designation": "In Process",
@@ -10196,7 +10235,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "BlackBerry",
+        "Cloud_Service_Provider_Name": "eTRANSERVICES",
         "Cloud_Service_Provider_Package": "BlackBerry Government Mobility Suite",
         "Path": "Agency",
         "Designation": "In Process",
@@ -10221,7 +10260,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Canon U.S.A., Inc.",
+        "Cloud_Service_Provider_Name": "Everlaw, Inc.",
         "Cloud_Service_Provider_Package": "Canon Office Cloud",
         "Path": "Agency",
         "Designation": "In Process",
@@ -10244,7 +10283,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Check Point Software",
+        "Cloud_Service_Provider_Name": "Exterro, Inc.",
         "Cloud_Service_Provider_Package": "SandBlast",
         "Path": "Agency",
         "Designation": "In Process",
@@ -10267,7 +10306,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Cisco Systems Inc.",
+        "Cloud_Service_Provider_Name": "GDC Integration, Inc.",
         "Cloud_Service_Provider_Package": "Cisco Webex Collaboration for U.S. Government",
         "Path": "Agency",
         "Designation": "In Process",
@@ -10291,7 +10330,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Code42 Software Inc.",
+        "Cloud_Service_Provider_Name": "Geotab",
         "Cloud_Service_Provider_Package": "Code42 Next-Gen Data Loss Protection (DLP) Gov",
         "Path": "Agency",
         "Designation": "In Process",
@@ -10314,7 +10353,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Collibra",
+        "Cloud_Service_Provider_Name": "Gordian",
         "Cloud_Service_Provider_Package": "Data Governance Center",
         "Path": "Agency",
         "Designation": "In Process",
@@ -10337,7 +10376,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Databricks",
+        "Cloud_Service_Provider_Name": "HackerOne",
         "Cloud_Service_Provider_Package": "Databricks FedRAMP Unified Analytics Platform",
         "Path": "Agency",
         "Designation": "In Process",
@@ -10361,7 +10400,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Datadog",
+        "Cloud_Service_Provider_Name": "Human Resources Technologies, Inc. (HRTec)",
         "Cloud_Service_Provider_Package": "Datadog",
         "Path": "Agency",
         "Designation": "In Process",
@@ -10384,7 +10423,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "eTRANSERVICES",
+        "Cloud_Service_Provider_Name": "Lifeline Data Centers, LLC",
         "Cloud_Service_Provider_Package": "Universal Design Platform as a Service (UDPaaS), powered by ORockCloud",
         "Path": "Agency",
         "Designation": "In Process",
@@ -10408,7 +10447,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Oracle",
+        "Cloud_Service_Provider_Name": "Lookout, Inc.",
         "Cloud_Service_Provider_Package": "Oracle Cloud Infrastructure-Government Cloud - JAB",
         "Path": "JAB",
         "Designation": "FedRAMP Ready",
@@ -10430,7 +10469,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Everlaw, Inc.",
+        "Cloud_Service_Provider_Name": "M.C. Dean, Inc.",
         "Cloud_Service_Provider_Package": "Everlaw",
         "Path": "Agency",
         "Designation": "In Process",
@@ -10453,7 +10492,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Exterro, Inc.",
+        "Cloud_Service_Provider_Name": "McAfee",
         "Cloud_Service_Provider_Package": "Exterro E-Discovery and Legal Software Platform",
         "Path": "Agency",
         "Designation": "In Process",
@@ -10477,7 +10516,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "GDC Integration, Inc.",
+        "Cloud_Service_Provider_Name": "McAfee",
         "Cloud_Service_Provider_Package": "General Support System (GSS)",
         "Path": "Agency",
         "Designation": "In Process",
@@ -10501,7 +10540,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Geotab",
+        "Cloud_Service_Provider_Name": "Medallia, Inc.",
         "Cloud_Service_Provider_Package": "Geotab Telematics Platform Government (GTP Gov)",
         "Path": "Agency",
         "Designation": "In Process",
@@ -10525,7 +10564,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Gordian",
+        "Cloud_Service_Provider_Name": "Microsoft",
         "Cloud_Service_Provider_Package": "Gordian Federal Cloud powered by RSMeans Data",
         "Path": "Agency",
         "Designation": "In Process",
@@ -10549,7 +10588,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "HackerOne",
+        "Cloud_Service_Provider_Name": "Modus",
         "Cloud_Service_Provider_Package": "HackerOne Bug Bounty & Vulnerability Disclosure Platform",
         "Path": "Agency",
         "Designation": "In Process",
@@ -10572,7 +10611,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Lookout, Inc.",
+        "Cloud_Service_Provider_Name": "NeoSystems LLC",
         "Cloud_Service_Provider_Package": "Lookout Mobile Endpoint Security",
         "Path": "Agency",
         "Designation": "In Process",
@@ -10596,7 +10635,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "McAfee",
+        "Cloud_Service_Provider_Name": "New Relic",
         "Cloud_Service_Provider_Package": "MVision for Endpoint",
         "Path": "Agency",
         "Designation": "In Process",
@@ -10620,7 +10659,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Medallia, Inc.",
+        "Cloud_Service_Provider_Name": "Newyu, Inc.",
         "Cloud_Service_Provider_Package": "Medallia GovCloud",
         "Path": "JAB",
         "Designation": "In Process",
@@ -10644,7 +10683,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Microsoft",
+        "Cloud_Service_Provider_Name": "Nintex",
         "Cloud_Service_Provider_Package": "Microsoft Office 365 GCC High",
         "Path": "Agency",
         "Designation": "In Process",
@@ -10667,7 +10706,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "New Relic",
+        "Cloud_Service_Provider_Name": "Nutanix",
         "Cloud_Service_Provider_Package": "New Relic",
         "Path": "Agency",
         "Designation": "In Process",
@@ -10692,7 +10731,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Newyu, Inc.",
+        "Cloud_Service_Provider_Name": "OneLogin Inc.",
         "Cloud_Service_Provider_Package": "LibreView for US Government",
         "Path": "Agency",
         "Designation": "In Process",
@@ -10715,7 +10754,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Nintex",
+        "Cloud_Service_Provider_Name": "Opus Interactive",
         "Cloud_Service_Provider_Package": "Nintex Drawloop DocGen",
         "Path": "Agency",
         "Designation": "In Process",
@@ -10738,7 +10777,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Nutanix",
+        "Cloud_Service_Provider_Name": "Oracle",
         "Cloud_Service_Provider_Package": "Nutanix Xi Government Cloud",
         "Path": "Agency",
         "Designation": "In Process",
@@ -10818,7 +10857,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "ORock Technologies",
+        "Cloud_Service_Provider_Name": "Oracle",
         "Cloud_Service_Provider_Package": "ORock HighCloud",
         "Designation": "FedRAMP Ready",
         "Package_ID": "F1503096502A",
@@ -10837,7 +10876,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Oversight Systems",
+        "Cloud_Service_Provider_Name": "ORock Technologies",
         "Cloud_Service_Provider_Package": "Insights On Demand for Government (IODG)",
         "Designation": "FedRAMP Ready",
         "Package_ID": "FR1816453128",
@@ -10856,7 +10895,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Palantir Technologies Inc.",
+        "Cloud_Service_Provider_Name": "Oversight Systems",
         "Cloud_Service_Provider_Package": "Palantir Federal Cloud Service",
         "Path": "Agency",
         "Designation": "In Process",
@@ -10879,7 +10918,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Palo Alto Networks, Inc.",
+        "Cloud_Service_Provider_Name": "Palantir Technologies Inc.",
         "Cloud_Service_Provider_Package": "Palo Alto Networks Government Cloud Services",
         "Path": "Agency",
         "Designation": "In Process",
@@ -10901,7 +10940,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "PortlandLabs Liberta Server",
+        "Cloud_Service_Provider_Name": "Palo Alto Networks, Inc.",
         "Cloud_Service_Provider_Package": "PortlandLabs Liberta Server - concrete5",
         "Designation": "FedRAMP Ready",
         "Package_ID": "FR1917744541",
@@ -10920,7 +10959,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Proofpoint, Inc.",
+        "Cloud_Service_Provider_Name": "PortlandLabs Liberta Server",
         "Cloud_Service_Provider_Package": "Proofpoint Email and Information Protection Service",
         "Path": "Agency",
         "Designation": "In Process",
@@ -10988,7 +11027,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "QGenda, LLC",
+        "Cloud_Service_Provider_Name": "Proofpoint, Inc.",
         "Cloud_Service_Provider_Package": "QGenda",
         "Path": "Agency",
         "Designation": "In Process",
@@ -11011,7 +11050,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Recovery Point Systems, Inc.",
+        "Cloud_Service_Provider_Name": "QGenda, LLC",
         "Cloud_Service_Provider_Package": "INCloud Gov",
         "Path": "Agency",
         "Designation": "In Process",
@@ -11036,7 +11075,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Relocation Management Worldwide (RMW)",
+        "Cloud_Service_Provider_Name": "Recovery Point Systems, Inc.",
         "Cloud_Service_Provider_Package": "Virtual Employee Relocation Network (VERN™)",
         "Path": "Agency",
         "Designation": "In Process",
@@ -11059,7 +11098,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Rescale",
+        "Cloud_Service_Provider_Name": "Relocation Management Worldwide (RMW)",
         "Cloud_Service_Provider_Package": "Rescale ScaleX Government",
         "Path": "Agency",
         "Designation": "In Process",
@@ -11082,7 +11121,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Salesforce",
+        "Cloud_Service_Provider_Name": "Rescale",
         "Cloud_Service_Provider_Package": "Salesforce Government Cloud - JAB",
         "Path": "JAB",
         "Designation": "FedRAMP Ready",
@@ -11104,7 +11143,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Sentinel Labs, Inc.",
+        "Cloud_Service_Provider_Name": "Salesforce",
         "Cloud_Service_Provider_Package": "SentinelOne Endpoint Protection Platform",
         "Path": "Agency",
         "Designation": "In Process",
@@ -11127,7 +11166,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Sirsi Corporation (SirsiDynix)",
+        "Cloud_Service_Provider_Name": "Sentinel Labs, Inc.",
         "Cloud_Service_Provider_Package": "EOS.Web",
         "Path": "Agency",
         "Designation": "In Process",
@@ -11150,7 +11189,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Smarsh",
+        "Cloud_Service_Provider_Name": "Sirsi Corporation (SirsiDynix)",
         "Cloud_Service_Provider_Package": "The Archiving Platform",
         "Path": "Agency",
         "Designation": "In Process",
@@ -11175,7 +11214,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Smartronix, Inc.",
+        "Cloud_Service_Provider_Name": "Smarsh",
         "Cloud_Service_Provider_Package": "Cloud Assured Managed Services (CAMS)",
         "Path": "Agency",
         "Designation": "In Process",
@@ -11199,7 +11238,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Snowflake, Inc.",
+        "Cloud_Service_Provider_Name": "Smartronix, Inc.",
         "Cloud_Service_Provider_Package": "Snowflake Service",
         "Designation": "FedRAMP Ready",
         "Package_ID": "FR1809360201",
@@ -11218,7 +11257,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Software AG Government Solutions",
+        "Cloud_Service_Provider_Name": "Snowflake, Inc.",
         "Cloud_Service_Provider_Package": "Software AG Government Cloud",
         "Path": "Agency",
         "Designation": "In Process",
@@ -11451,30 +11490,6 @@
         "CSP_POC_Email": "fedramp-vmc@vmware.com",
         "Fedramp_Ready_Date": "2019-03-18T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2019-05-07T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "VMware, Inc.",
-        "Cloud_Service_Provider_Package": "Workspace ONE",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1906353407",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Commerce",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-        "Authorizing_Agency": "Department of Commerce",
-        "Authorizing_Subagency": "United States Census Bureau",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/VMware%20Workspace%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://my.workspaceone.com/products/VMware-Workspace-ONE  ",
-        "CSO_Description": "Workspace ONE simplifies mobility for organizations, while empowering end users. With Workspace ONE, organizations can easily deploy, configure, secure, manage and support smartphones, tablets, laptops and other devices across multiple mobile applications and operating systems. Workspace ONE includes industry-leading mobile device, email, application, content and browser management solutions. Whether enabling a Bring Your Own Device (BYOD) program or corporate-owned and line-of-business devices, organizations can implement these solutions standalone, in a dual persona containerized solution or as a comprehensive solution based on device type, use case and user role in the organization. This integrated solution helps companies reduce costs and increase efficiency, while mitigating security risks and preventing data loss.",
-        "CSP_POC_Name": "Thomas Simmons ",
-        "CSP_POC_Email": "tsimmons@vmware.com",
-        "FedRAMP_In-Process_Date": "2019-02-20T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
