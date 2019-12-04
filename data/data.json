@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-12-03T05:40:56.871Z",
+    "Created_At": "2019-12-04T05:40:50.047Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2040,6 +2040,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2019-04-15T04:00:00.000Z",
             "Authorizing_Agency": "Department of Education",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-11-25T05:00:00.000Z",
+            "Letter_Expiration_Date": "2022-11-25T05:00:00.000Z",
+            "Authorizing_Agency": "United States Agency for International Development",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -5317,6 +5324,13 @@
             "Include_In_Marketplace": "Y"
           },
           {
+            "Letter_Date": "2019-03-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-03-28T04:00:00.000Z",
+            "Authorizing_Agency": "Consumer Financial Protection Bureau",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFPB_Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
             "Letter_Expiration_Date": "2022-10-31T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-11-03T04:00:00.000Z",
             "Authorizing_Agency": "Department of Energy",
@@ -6980,7 +6994,15 @@
         "CSP_POC_Email": "FedRAMP@teletracnavman.com",
         "Fedramp_Ready_Date": "2018-02-07T05:00:00.000Z",
         "FedRAMP_In-Process_Date": "2018-10-03T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2019-10-30T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "United States Air Force",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "IT-CNP",
@@ -7295,7 +7317,15 @@
         "CSP_POC_Email": "fedramp@avaya.com",
         "Fedramp_Ready_Date": "2017-12-11T05:00:00.000Z",
         "FedRAMP_In-Process_Date": "2018-05-15T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2019-11-26T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Justice",
+            "Authorizing_Subagency": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "HireVue",
@@ -8225,7 +8255,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CoSo%20Logo.jpg",
         "Independent_Assessor": "Kratos SecureInfo",
         "CSP_Website": "https://www.cosocloud.com",
-        "CSO_Description": "CoSo Cloud's Private FedRAMP Compliant Cloud for Adobe Connect and Adobe Captivate Prime is a powerful and proven platform, enabling agencies to excel in their missions. It provides 99.99% uptime to ensure government agencies have reliable collaboration for critical communications. It allows organizations to deliver modern, digital learning experiences for self-paced and real time training and skill development in a highly secure and reliable environment.\r\n\r\nAdobe Connect offers immersive online meeting experiences for collaboration, large scale webinars, and virtual classrooms. Adobe Captivate Prime is a Learning Management System that allows enterprise Learning and Development teams to drive personalized learning experiences for the employees and partners of their organization, across multiple devices.\r\n\r\nCoSo Cloud’s platform and services have been used to facilitate crisis-communications regarding food tampering, drug recalls, and international disasters & emergencies. Additionally, both the military and many federal agencies utilize CoSo Cloud's platform to provide secure training around the globe.",
+        "CSO_Description": "CoSo Cloud's Private FedRAMP Compliant Cloud for Adobe Connect and Adobe Captivate Prime is a powerful and proven platform, enabling agencies to excel in their missions. It provides 99.99% uptime to ensure government agencies have reliable collaboration for critical communications. It allows organizations to deliver modern, digital learning experiences for self-paced and real time training and skill development in a highly secure and reliable environment.\n\nAdobe Connect offers immersive online meeting experiences for collaboration, large scale webinars, and virtual classrooms. Adobe Captivate Prime is a Learning Management System that allows enterprise Learning and Development teams to drive personalized learning experiences for the employees and partners of their organization, across multiple devices.\n\nCoSo Cloud’s platform and services have been used to facilitate crisis-communications regarding food tampering, drug recalls, and international disasters & emergencies. Additionally, both the military and many federal agencies utilize CoSo Cloud's platform to provide secure training around the globe.",
         "Announcement_Date": "2017-06-21T04:00:00.000Z",
         "CSP_POC_Name": "Blake Loring",
         "CSP_POC_Email": "security@cosocloud.com",
@@ -8281,7 +8311,7 @@
         "CSO_Description": "MuleSoft’s Anypoint Platform is a hybrid platform for designing, developing and managing APIs and integrations. Uniquely built as a single solution, it includes integration Platform as a Service (iPaaS) functionality which provides users with enterprise messaging, advanced user and role based management, services/tools for providing API and integration analytics and management, API design and publishing tools, and the ability to share and collaborate on API specifications, code snippets and templates of best practices. ",
         "Announcement_Date": "2019-07-31T04:00:00.000Z",
         "CSP_POC_Name": "N/A",
-        "CSP_POC_Email": "fedramp@mulesoft.com",
+        "CSP_POC_Email": "fedramp@salesforce.com ",
         "FedRAMP_In-Process_Date": "2018-04-04T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
@@ -8728,6 +8758,13 @@
             "Authorizing_Agency": "Department of Energy",
             "Authorizing_Subagency": "National Nuclear Security Administration / Nevada Field Office",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-03-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-03-28T04:00:00.000Z",
+            "Authorizing_Agency": "Consumer Financial Protection Bureau",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFPB_Logo.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -9519,6 +9556,36 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Collibra",
+        "Cloud_Service_Provider_Package": "Data Governance Center",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1706403967",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-09-12T04:00:00.000Z",
+        "Sponsoring_Agency": "Tennessee Valley Authority",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-TennesseeValleyAuthority-Logo.png",
+        "Authorizing_Agency": "Tennessee Valley Authority",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Collibra%20Logo2.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "MSO365MT",
+          "F1508207205"
+        ],
+        "CSP_Website": "www.collibra.com",
+        "CSO_Description": "Collibra makes it easy for data citizens to find, understand and trust the organizational data they need to make business decisions every day. Unlike traditional data governance solutions, Collibra is a cross-organizational platform that breaks down the traditional data silos, freeing the data so all users have access.",
+        "Announcement_Date": "2019-11-27T05:00:00.000Z",
+        "CSP_POC_Name": "Ryan Swann",
+        "CSP_POC_Email": "ryan.swann@collibra.com",
+        "FedRAMP_In-Process_Date": "2018-11-16T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Replicon",
         "Cloud_Service_Provider_Package": "Replicon Cloud Platform",
         "Path": "Agency",
@@ -10102,29 +10169,6 @@
         "CSP_POC_Name": "Jadee Hanson",
         "CSP_POC_Email": "security@code42.com",
         "FedRAMP_In-Process_Date": "2019-11-12T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Collibra",
-        "Cloud_Service_Provider_Package": "Data Governance Center",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1706403967",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Tennessee Valley Authority",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-TennesseeValleyAuthority-Logo.png",
-        "Authorizing_Agency": "Tennessee Valley Authority",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Collibra%20Logo2.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.collibra.com",
-        "CSO_Description": "Collibra makes it easy for data citizens to find, understand and trust the organizational data they need to make business decisions every day. Unlike traditional data governance solutions, Collibra is a cross-organizational platform that breaks down the traditional data silos, freeing the data so all users have access.",
-        "CSP_POC_Name": "Ryan Swann",
-        "CSP_POC_Email": "ryan.swann@collibra.com",
-        "FedRAMP_In-Process_Date": "2018-11-16T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -10990,6 +11034,30 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Rave Mobile Safety",
+        "Cloud_Service_Provider_Package": "Rave Alert",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1722838693",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Energy",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+        "Authorizing_Agency": "Department of Energy",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Rave%20Mobile%20Logo.jpg",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": " www.ravemobilesafety.com",
+        "CSO_Description": "Rave Mobile Safety is a leading SaaS-based provider of critical communication and emergency data solutions.  The Rave platform connects millions to those trusted to protect them, by providing innovative solutions to prepare better, respond faster, and communicate more effectively across different devices and locations during emergencies.",
+        "CSP_POC_Name": "Todd Piett",
+        "CSP_POC_Email": "fedramp@ravemobilesafety.com",
+        "FedRAMP_In-Process_Date": "2019-12-03T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Recovery Point Systems, Inc.",
         "Cloud_Service_Provider_Package": "INCloud Gov",
         "Path": "Agency",
@@ -11147,7 +11215,6 @@
         "Independent_Assessor": "Schellman & Company, LLC",
         "CSP_Website": "www.smarsh.com",
         "CSO_Description": "Ease the burden of retaining and producing text message communications and respond to the challenges of FOIA requests with the Federal Archive from Smarsh. Deployed in AWS GovCloud and built to meet federal security requirements, Federal Archive enables agencies to capture, archive, access and produce text message communications quickly and efficiently.\n\nSupported channels include AT&T and Verizon, with additional communication channels on the roadmap.\n\nRecords Managers, CTOs, CIOs and IT staff will appreciate secure, centralized, automated digital content combined with powerful search and retrieval capabilities in a single solution. Onboarding is simple, scalable and cost-effi­cient. Federal Archive has been designed to protect agencies now and in the future, providing peace of mind in a constantly evolving regulatory landscape.\n\nKey capabilities to manage government communications records include:\n\n* Direct, Contextual Capture: All content is captured directly from AT&T and Verizon via API connections. Messages are captured with full context and metadata, rather than being flattened to email format. Upon ingestion into the archive, content is easily accessible and ready to be leveraged for high speed search and export.\n* Powerful Search: Industry-leading search speeds are supported, regardless of the volume of ingested data. Search results are displayed with message threading and attachments to maintain the full context of each conversation.\n* High Speed Exports: Any/all messages and message metadata can be exported from the platform at high speed. Exports are password protected and export history logs can be displayed in the platform for reference or repeat downloads. Messages can also be exported from search results – either the full search list or a subset of selected messages.\n* External Archive Functionality: In addition to its integrated archive, Federal Archive provides clients with the option to capture content and send it directly to an external archive in EML or SFTP format.\n* Advanced Admin & Permissions: Within the platform, identities are unified across supported channels and are searchable by profile. Profiles can be filtered based on whether they are internal or external, by person or organization and/or by channel. Admins have a dashboard view of their organization’s archived channels as well as the provisioning status of each channel for enhanced oversight.\n* Federal Grade Security: Federal Archive will be deployed in AWS GovCloud. Built specifically for government agencies, GovCloud hosts sensitive data and regulated workflows with the most stringent security and compliance controls. Amazon’s physical and other security controls have been architected to meet the specific requirements of government agencies. The platform adheres to top-tier security standards, with all captured data encrypted in transit and at rest.\n\nFor more information, visit [https://www.smarsh.com/products/connected-archive/federal-archive/](https://www.smarsh.com/products/connected-archive/federal-archive/)",
-        "Expected_Compliance_Date": "2019-11-30T05:00:00.000Z",
         "CSP_POC_Name": "John Rowe",
         "CSP_POC_Email": "fedramp@smarsh.com",
         "FedRAMP_In-Process_Date": "2019-04-03T04:00:00.000Z",
