@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-12-04T05:40:50.047Z",
+    "Created_At": "2019-12-05T05:40:50.252Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2976,7 +2976,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Microsoft%20Logo.jpg",
         "Independent_Assessor": "Kratos SecureInfo",
         "CSP_Website": "http://azure.microsoft.com/en-us/",
-        "CSO_Description": "Microsoft Azure Government is a government-community cloud that offers hyper-scale compute, storage, networking, and identity management services, with world-class security. A physically and network-isolated instance of Microsoft Azure, operated by screened U.S. citizens, Azure Government provides standards-compliant IaaS and PaaS that has now received a FedRAMP JAB P-ATO. All services are available immediately for supporting secure US government workloads, including CJIS, IRS 1075 FTI, HIPAA, DoD, and federal agency data.\n\nThe following Microsoft services are FedRAMP Authorized and approved by the JAB at the High Impact Level:  API Management,  Application Gateway,  Automation,  Azure Active Directory (AAD) Free, Azure Advisor, Azure Active Directory (AAD) Premium P1 + P2,  Azure Analysis Services, Azure Archive Storage, Azure Backup, Azure Blueprints, Azure Bot Service, Azure Cosmos DB,  Azure Database for MariaDB, Azure Database for MySQL, Azure Database for PostgreSQL, Azure Dedicated HSM, Azure DevTest Labs, Azure DNS,  Azure File Sync, Azure Front Door,  Azure Information Protection,  Azure Import/Export ,  Azure IoT Hub,  Azure Key Vault, Azure Lab Services, Azure Managed Applications, Azure Migrate, Azure Monitor,  Azure Policy, Azure Portal,  Azure Resource Manager (ARM),  Azure Security Center, Azure Service Manager (RDFE),  Azure Site Recovery,  Batch,  Cognitive Services - Computer Vision, Cognitive Services - Content Moderator, Cognitive Services - Face, Cognitive Services - Language Understanding, Cognitive Services - Text Analytics, Cognitive Services - Translator Text, Cloud Services, Container Registry, Cost Management, Data Factory,  Event Grid, Event Hubs,  ExpressRoute,  Functions,  HDInsight,  Intune,  Load Balancer,  Log Analytics,  Logic Apps,  Media Services,  Microsoft Azure Government Management Portal, Microsoft Defender Advanced Threat Protection (MDATP), Microsoft Flow, Microsoft Graph,  Microsoft PowerApps, Microsoft Stream,  Multi-factor Authentication (MFA),  Network Watcher,  Notification Hubs, Power BI Embedded,  Power BI,  Redis Cache,  Scheduler,  Service Fabric,  Services Bus,  SQL Data Warehouse,  SQL Database,  SQL Server Stretch Database,  StorSimple,  Storage (Blobs, Disks, Files, Queues, Tables), Stream Analytics, Traffic Manager,  Virtual Machines Scale Sets (VMSS),  Virtual Machines,  Virtual Network,  VPN Gateway,  Web Apps (App Service) and supporting infrastructure and platform services.",
+        "CSO_Description": "Microsoft Azure Government is a government-community cloud that offers hyper-scale compute, storage, networking, and identity management services, with world-class security. A physically and network-isolated instance of Microsoft Azure, operated by screened U.S. citizens, Azure Government provides standards-compliant IaaS and PaaS that has now received a FedRAMP JAB P-ATO. All services are available immediately for supporting secure US government workloads, including CJIS, IRS 1075 FTI, HIPAA, DoD, and federal agency data.\n\nThe following Microsoft services are FedRAMP Authorized and approved by the JAB at the High Impact Level:  API Management,  Application Gateway,  Automation,  Azure Active Directory (AAD) Free, Azure Advanced Threat Protection, Azure Advisor, Azure Active Directory (AAD) Premium P1 + P2,  Azure Analysis Services, Azure Archive Storage, Azure Backup, Azure Blueprints, Azure Bot Service, Azure Cosmos DB,  Azure Database for MariaDB, Azure Database for MySQL, Azure Database for PostgreSQL, Azure Dedicated HSM, Azure DevTest Labs, Azure DNS,  Azure File Sync, Azure Front Door,  Azure Information Protection,  Azure Import/Export ,  Azure IoT Hub,  Azure Key Vault, Azure Lab Services, Azure Managed Applications, Azure Migrate, Azure Monitor,  Azure Policy, Azure Portal,  Azure Resource Manager (ARM),  Azure Security Center, Azure Service Manager (RDFE),  Azure Site Recovery,  Batch,  Cognitive Services - Computer Vision, Cognitive Services - Content Moderator, Cognitive Services - Face, Cognitive Services - Language Understanding, Cognitive Services - Text Analytics, Cognitive Services - Translator Text, Cloud Services, Container Registry, Cost Management, Data Factory,  Event Grid, Event Hubs,  ExpressRoute,  Functions,  HDInsight, Interflow, Intune,  Load Balancer,  Log Analytics,  Logic Apps,  Media Services,  Microsoft Azure Government Management Portal, Microsoft Cloud App Security, Microsoft Defender Advanced Threat Protection (MDATP), Microsoft Flow, Microsoft Graph,  Microsoft PowerApps, Microsoft Stream,  Multi-factor Authentication (MFA),  Network Watcher,  Notification Hubs, Power BI Embedded,  Power BI,  Power Query Online, Redis Cache,  Scheduler,  Service Fabric,  Services Bus,  SQL Data Warehouse,  SQL Database,  SQL Server Stretch Database,  StorSimple,  Storage (Blobs, Disks, Files, Queues, Tables), Stream Analytics, Traffic Manager,  Virtual Machines Scale Sets (VMSS),  Virtual Machines,  Virtual Network,  VPN Gateway,  Web Apps (App Service) and supporting infrastructure and platform services.",
         "Announcement_Date": "2016-06-21T04:00:00.000Z",
         "CSP_POC_Name": "Microsoft Azure FedRAMP Requests",
         "CSP_POC_Email": "AzureFedRAMP@microsoft.com",
@@ -8253,7 +8253,7 @@
         "Authorizing_Agency": "Department of Defense",
         "Authorizing_Subagency": "United States Marine Corps",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CoSo%20Logo.jpg",
-        "Independent_Assessor": "Kratos SecureInfo",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "https://www.cosocloud.com",
         "CSO_Description": "CoSo Cloud's Private FedRAMP Compliant Cloud for Adobe Connect and Adobe Captivate Prime is a powerful and proven platform, enabling agencies to excel in their missions. It provides 99.99% uptime to ensure government agencies have reliable collaboration for critical communications. It allows organizations to deliver modern, digital learning experiences for self-paced and real time training and skill development in a highly secure and reliable environment.\n\nAdobe Connect offers immersive online meeting experiences for collaboration, large scale webinars, and virtual classrooms. Adobe Captivate Prime is a Learning Management System that allows enterprise Learning and Development teams to drive personalized learning experiences for the employees and partners of their organization, across multiple devices.\n\nCoSo Cloud’s platform and services have been used to facilitate crisis-communications regarding food tampering, drug recalls, and international disasters & emergencies. Additionally, both the military and many federal agencies utilize CoSo Cloud's platform to provide secure training around the globe.",
         "Announcement_Date": "2017-06-21T04:00:00.000Z",
@@ -9586,6 +9586,36 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Palantir Technologies Inc.",
+        "Cloud_Service_Provider_Package": "Palantir Federal Cloud Service",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1912671248",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-09-26T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Palantir%20Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "F1212191840",
+          "FR1823447014"
+        ],
+        "CSP_Website": "www.palantir.com",
+        "CSO_Description": "The Palantir Federal Cloud Service (PFCS) is a dedicated environment for the purpose of delivering Palantir software to federal government customers as a cloud service. Palantir enables organizations to integrate, manage, and secure all of their enterprise data, forming a single data asset that powers operations and decision making. Users of varying technical ability collaborate in Palantir to accelerate analysis and compound their data asset, while a defense-in-depth architecture keeps data secure. [Palantir Technologies](https://www.palantir.com/) has over a decade of experience deploying software to hundreds of government and commercial organizations, producing products that have been tested, hardened, and proven in the world's most complex and sensitive data environments. The PFCS allows customers to acquire Palantir in a matter of days to quickly deliver value against their hardest data problems.",
+        "Announcement_Date": "2019-12-04T05:00:00.000Z",
+        "CSP_POC_Name": "Palantir FedRAMP Team",
+        "CSP_POC_Email": "fedramp@palantir.com",
+        "FedRAMP_In-Process_Date": "2019-02-14T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Replicon",
         "Cloud_Service_Provider_Package": "Replicon Cloud Platform",
         "Path": "Agency",
@@ -10169,30 +10199,6 @@
         "CSP_POC_Name": "Jadee Hanson",
         "CSP_POC_Email": "security@code42.com",
         "FedRAMP_In-Process_Date": "2019-11-12T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Databricks",
-        "Cloud_Service_Provider_Package": "Databricks FedRAMP Unified Analytics Platform",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1834740315",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Databricks%20Logo.jpg",
-        "Independent_Assessor": "Earthling Security, LLC",
-        "CSP_Website": "www.databricks.com",
-        "CSO_Description": "Databricks accelerates innovation for its customers by unifying Data Science, Engineering and Business. Founded by the original creators of Apache Spark, Databricks provides a Unified Analytics Platform for data science teams to collaborate with data engineering and lines of business to build data products. Users achieve faster time-to-value with Databricks by creating analytic workflows that go from ETL and interactive exploration to production. The company also makes it easier for its users to focus on their data by providing a fully managed, scalable, and secure cloud infrastructure that reduces operational complexity and total cost of ownership.",
-        "CSP_POC_Name": "David Cook",
-        "CSP_POC_Email": "fedramp@databricks.com",
-        "FedRAMP_In-Process_Date": "2018-10-04T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -10879,29 +10885,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Palantir Technologies Inc.",
-        "Cloud_Service_Provider_Package": "Palantir Federal Cloud Service",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1912671248",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Palantir%20Logo.jpg",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "CSP_Website": "www.palantir.com",
-        "CSO_Description": "The Palantir Federal Cloud Service (PFCS) is a dedicated environment for the purpose of delivering Palantir software to federal government customers as a cloud service. Palantir enables organizations to integrate, manage, and secure all of their enterprise data, forming a single data asset that powers operations and decision making. Users of varying technical ability collaborate in Palantir to accelerate analysis and compound their data asset, while a defense-in-depth architecture keeps data secure. [Palantir Technologies](https://www.palantir.com/) has over a decade of experience deploying software to hundreds of government and commercial organizations, producing products that have been tested, hardened, and proven in the world's most complex and sensitive data environments. The PFCS allows customers to acquire Palantir in a matter of days to quickly deliver value against their hardest data problems.",
-        "CSP_POC_Name": "Palantir FedRAMP Team",
-        "CSP_POC_Email": "fedramp@palantir.com",
-        "FedRAMP_In-Process_Date": "2019-02-14T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Palo Alto Networks, Inc.",
         "Cloud_Service_Provider_Package": "Palo Alto Networks Government Cloud Services",
         "Path": "Agency",
@@ -11245,15 +11228,20 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Snowflake, Inc.",
-        "Cloud_Service_Provider_Package": "Snowflake Service",
-        "Designation": "FedRAMP Ready",
+        "Cloud_Service_Provider_Name": "Snowflake Inc.",
+        "Cloud_Service_Provider_Package": "The Snowflake Service on AWS",
+        "Path": "Agency",
+        "Designation": "In Process",
         "Package_ID": "FR1809360201",
         "Service_Model": [
           "SaaS"
         ],
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Snowflake%20Logo.jpg",
         "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
         "CSP_Website": "https://www.snowflake.com",
@@ -11261,6 +11249,31 @@
         "CSP_POC_Name": "Siddique Chaudhry",
         "CSP_POC_Email": "FedRAMP@snowflake.com",
         "Fedramp_Ready_Date": "2019-10-07T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2019-12-04T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Snowflake Inc.",
+        "Cloud_Service_Provider_Package": "The Snowflake Service on Azure Government",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1809360202",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Snowflake%20Logo.jpg",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "https://www.snowflake.com",
+        "CSO_Description": "Snowflake is the only data warehouse built for the cloud, enabling the data-driven enterprise with instant elasticity, secure data sharing and per-second pricing, across multiple clouds. Snowflake combines the power of data warehousing, the flexibility of big data platforms and the elasticity of the cloud at a fraction of the cost of traditional solutions. Find out more at [https://www.snowflake.com/](https://www.snowflake.com/).",
+        "CSP_POC_Name": "Siddique Chaudhry",
+        "CSP_POC_Email": "FedRAMP@snowflake.com",
+        "FedRAMP_In-Process_Date": "2019-12-04T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
