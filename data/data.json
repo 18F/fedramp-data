@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-12-06T05:40:50.228Z",
+    "Created_At": "2019-12-07T05:40:50.711Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1398,8 +1398,8 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "SAIC",
-        "Cloud_Service_Provider_Package": "SAIC Cloud Infrastructure Service",
+        "Cloud_Service_Provider_Name": "Vazata",
+        "Cloud_Service_Provider_Package": "Vazata Virtual Federal Image (VFI)",
         "Path": "JAB",
         "Designation": "Compliant",
         "Package_ID": "F1306132188",
@@ -1411,13 +1411,13 @@
         "Original_Authorization_Date": "2016-01-08T05:00:00.000Z",
         "Sponsoring_Agency": "JAB Authorization",
         "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/SAIC%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Vazata%20Logo.jpg",
         "Independent_Assessor": "Kratos SecureInfo",
-        "CSP_Website": "http://www.saic.com/services-solutions/technology-solutions/cloud/",
-        "CSO_Description": "SAIC is a premier technology integration company providing full life-cycle services and solutions in enterprise information technology for federal agencies. We bring a wide range of services to the cloud transformation market, including SAIC Cloud Infrastructure Service, our FedRAMP-compliant secure public cloud platform. A fully hosted and managed Infrastructure-as-a-Service (IaaS), the service is available through a subscription-based OPEX model. \n\nSAIC Cloud Infrastructure Service meets FedRAMP’s stringent compliance standards as a result of evolving national security and procurement policies and the growing threats to our nation’s cybersecurity. The solution encompasses managed firewall, endpoint, proxy, and other security services while maintaining integrity of sensitive data and delivering the highest levels of compute performance in a highly secure cloud environment.\n\nSAIC Cloud Infrastructure Service is part of SAIC’s broad portfolio of cloud assessment, engineering, integration, operations, and managed services solutions. Granted a Provisional Authority to Operate (P-ATO) from FedRAMP’s Joint Authorization Board (JAB), and headquartered in Reston, Virginia, SAIC has a proven history of delivering effective technology solutions to government customers, understanding their unique budget challenges and operational impacts with our deep federal domain knowledge.  ",
+        "CSP_Website": "www.vazata.com",
+        "CSO_Description": "The Vazata Virtual Federal Image offering which is to provide an amount of reouces per the specifications of the customer, which will be used by the customers within the Vazata Virtual Federal Image product, which is leveraged upon the FedRAMP compliant Infrastructure as a Service (IaaS) environment. \n\nThe purpose is to offer the Federal customer a simple, yet secure, IaaS environment without predetermining the OS type and functionality of the image (“OS-agnostic”), giving the customer the most flexible options possible in implementing their systems into Vazata’s government community cloud. The customer can then implement their own images, applications and/or databases and maintain the OS patching, user access, and other controls specific to the virtual images themselves. ",
         "Announcement_Date": "2016-01-08T05:00:00.000Z",
-        "CSP_POC_Name": "Matt Livingston",
-        "CSP_POC_Email": "fedramp@saic.com",
+        "CSP_POC_Name": "Lance Black",
+        "CSP_POC_Email": "info@vazata.com",
         "FedRAMP_In-Process_Date": "2014-07-08T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
@@ -1518,14 +1518,6 @@
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "Agency for Healthcare Research and Quality",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2016-11-18T05:00:00.000Z",
-            "Letter_Expiration_Date": "2019-11-18T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-11-18T05:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -5018,6 +5010,13 @@
             "Authorizing_Subagency": "United States Army",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-12-04T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-12-04T05:00:00.000Z",
+            "Authorizing_Agency": "Farm Credit Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FCA%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -7576,6 +7575,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2019-10-16T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Interior",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-12-04T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-12-04T05:00:00.000Z",
+            "Authorizing_Agency": "Farm Credit Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FCA%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
