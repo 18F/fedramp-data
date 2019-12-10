@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-12-09T05:40:50.380Z",
+    "Created_At": "2019-12-10T05:40:50.617Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4404,40 +4404,6 @@
             "Authorizing_Letter_Last_Sign_Date": "2019-03-25T04:00:00.000Z",
             "Authorizing_Agency": "Department of Transportation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Google",
-        "Cloud_Service_Provider_Package": "Google Services (Google Cloud Platform Products and underlying Infrastructure)",
-        "Path": "JAB",
-        "Designation": "Compliant",
-        "Package_ID": "FR1805751477",
-        "Service_Model": [
-          "IaaS, PaaS, SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate (High In Process)",
-        "Original_Authorization_Date": "2018-03-14T04:00:00.000Z",
-        "Sponsoring_Agency": "JAB Authorization",
-        "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Google%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://cloud.google.com",
-        "CSO_Description": "Google Services is comprised of Google’s multi-tenant public cloud Google Cloud Platform and built atop the Google Common Infrastructure. The Google Common Infrastructure powers Google worldwide\n\nThe in-scope Google Cloud Platform services are:\r\n\r\nApp Engine, BigQuery, BigQuery Data Transfer Service, Cloud Armor, Cloud AutoML Vision, Cloud AutoML Translation, Cloud AutoML Natural Language, Cloud Bigtable, Cloud Billing API, Cloud Build, Cloud CDN (Content Delivery Network), Cloud Data Loss Prevention API, Cloud Dataflow, Cloud Datalab, Cloud Dataproc, Cloud Datastore, Cloud Deployment Manager, Cloud DNS (Domain Name System), Cloud Endpoints, Cloud Firestore, Cloud Functions, Cloud HSM, Cloud IAM (Identity & Access Management), Cloud Identity-Aware Proxy, Cloud IoT Core, Cloud Talent Solution, Cloud Text-to-Speech, Cloud Key Management Service, Cloud Load Balancing, Cloud Machine Learning Engine, Google Cloud Platform Marketplace, Cloud Memorystore, Cloud Console Mobile App, Cloud Natural Language API, Cloud Pub/Sub, Cloud SDK, Cloud Security Scanner, Cloud Shell, Cloud Source Repositories, Cloud Storage Transfer Service, Cloud Console, Cloud Spanner, Cloud Speech-to-Text, Cloud SQL, Cloud Storage, Cloud Translation API, Cloud Video Intelligence API, Cloud Vision API, Compute Engine, Container Registry, Dialogflow, Google Genomics, Google Kubernetes Engine (formerly Google Container Engine), Persistent Disk, Resource Manager, Service Consumer Management API, Service Control, Service Management API, Stackdriver Debugger, Stackdriver Error Reporting, Stackdriver Logging, Stackdriver Profiler, Stackdriver Trace, Virtual Private Cloud (VPC)",
-        "Announcement_Date": "2018-03-14T04:00:00.000Z",
-        "CSP_POC_Name": "Google FedRAMP Team",
-        "CSP_POC_Email": "fedramp@google.com",
-        "FedRAMP_In-Process_Date": "2017-11-17T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2018-11-23T05:00:00.000Z",
-            "Letter_Expiration_Date": "2019-11-27T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-11-01T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "United States Patent and Trademark Office",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -9924,6 +9890,40 @@
             "Authorizing_Letter_Last_Sign_Date": "2019-10-15T04:00:00.000Z",
             "Authorizing_Agency": "Department of Agriculture",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Google",
+        "Cloud_Service_Provider_Package": "Google Services (Google Cloud Platform Products and underlying Infrastructure)",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "FR1805751477",
+        "Service_Model": [
+          "IaaS, PaaS, SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "High",
+        "Original_Authorization_Date": "2019-11-22T05:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Google%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://cloud.google.com",
+        "CSO_Description": "Google Services is comprised of Google’s multi-tenant public cloud Google Cloud Platform and built atop the Google Common Infrastructure. The Google Common Infrastructure powers Google worldwide\n\nThe in-scope Google Cloud Platform services Authorized at High are:\n\nApp Engine, BigQuery, Cloud Bigtable, Cloud Dataflow, Cloud Dataproc, Cloud Firestore, Cloud HSM, Cloud Key Management Service, Cloud Spanner, Cloud SQL, Cloud Storage, Compute Engine, Google Kubernetes Engine, Persistent Disk, Cloud Memorystore, Container Registry, Cloud Pub/Sub\n\nThe in-scope Google Cloud Platform services Authorized at Moderate are:\n\nBigQuery Data Transfer Service, Cloud Armor, Cloud AutoML Vision, Cloud AutoML Translation, Cloud AutoML Natural Language, Cloud Billing API, Cloud Build, Cloud CDN (Content Delivery Network), Cloud Data Loss Prevention API, Cloud Datalab, Cloud Datastore, Cloud Deployment Manager, Cloud DNS (Domain Name System), Cloud Endpoints, Cloud Functions, Cloud IAM (Identity & Access Management), Cloud Identity-Aware Proxy, Cloud IoT Core, Cloud Talent Solution, Cloud Text-to-Speech, Cloud Load Balancing, Cloud Machine Learning Engine, Google Cloud Platform Marketplace, Cloud Console Mobile App, Cloud Natural Language API, Cloud SDK, Cloud Security Scanner, Cloud Shell, Cloud Source Repositories, Cloud Storage Transfer Service, Cloud Console, Cloud Speech-to-Text, Cloud Translation API, Cloud Video Intelligence API, Cloud Vision API, Dialogflow, Google Genomics, Resource Manager, Service Consumer Management API, Service Control, Service Management API, Stackdriver Debugger, Stackdriver Error Reporting, Stackdriver Logging, Stackdriver Profiler, Stackdriver Trace, Virtual Private Cloud (VPC)",
+        "Announcement_Date": "2019-12-04T05:00:00.000Z",
+        "CSP_POC_Name": "Google FedRAMP Team",
+        "CSP_POC_Email": "fedramp@google.com",
+        "FedRAMP_In-Process_Date": "2017-11-17T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2018-11-23T05:00:00.000Z",
+            "Letter_Expiration_Date": "2019-11-27T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-11-01T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "United States Patent and Trademark Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
