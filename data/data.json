@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-12-10T05:40:50.617Z",
+    "Created_At": "2019-12-11T05:40:50.473Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -363,6 +363,9 @@
         "Authorizing_Agency": "JAB Authorization",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Perspecta%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1305072116"
+        ],
         "CSP_Website": "www.Perspecta.com",
         "CSO_Description": "Perspecta created Cloud for Public Sector for Federal Agency customers looking to lift and shift their existing client server application workloads to the Cloud without significant refactoring. Perspecta Cloud for Public Sector provides Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Replication-based disaster recovery Cloud Service Offering (CSO) services to U.S. Government entities at all levels; Private Sector Contractors doing business with U.S. government entities; and Non-Government Organizations subject to, or implementing, Federal IT Security and Privacy regulation and reporting. Cloud for Public Sector supplies 100% U.S.-based data storage and U.S. Persons support for customers with ITAR and US data sovereignty requirements.\n\nPaaS, called “Perspecta-Managed Service”, provides managed, standardized, secure, compliant IaaS servers on either Perspecta’s own or another Cloud Service Provider’s CSO for a full set of leveragable security, privacy, and IT governance administration services and options to support Federal Information Security Management Act (FISMA) and FedRAMP control baselines. Customers may mix IaaS and PaaS in a single cloud, operate more than one cloud, and combine cloud services with traditional data center hosted virtual and managed physical infrastructure components.\n\nPerspecta Cloud Continuity is an independently orderable, Cloud-based disaster recovery (DR) IaaS service to meet contingency planning requirements. The Perspecta Cloud Continuity solution collects and maintains complete replica of customer servers and network configurations to reconstitute the subscribed Consumer environment identical to the production data center original.\n\nFor more information, visit our worldwide web site at [www.Perspecta.com](www.Perspecta.com).",
         "Announcement_Date": "2013-06-06T04:00:00.000Z",
@@ -797,6 +800,10 @@
         "Authorizing_Agency": "JAB Authorization",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Rackspace%20Logo2.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1603047866"
+        ],
         "CSP_Website": "www.rackspace.com/government",
         "CSO_Description": "The Rackspace Government Cloud (RGC) provides a unique approach to security that allows federal agencies to have more control and flexibility to meet their unique security needs. This platform is one of the first P-ATOs issued to a PaaS cloud service provider covering management through the virtual operating system.",
         "Announcement_Date": "2015-10-09T04:00:00.000Z",
@@ -2667,7 +2674,8 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/FireEye%20Logo2.jpg",
         "Independent_Assessor": "Schellman & Company, LLC",
         "Underlying_CSP_Package_ID": [
-          "F1603047866"
+          "F1603047866",
+          "MSO365MT"
         ],
         "CSP_Website": "www.FireEye.com",
         "CSO_Description": "The FireEye® Email Threat Prevention Cloud is a SaaS offering that not only combats against today’s advanced email attacks but also provides anti-spam and anti-virus protection. As organizations have embraced the cloud for email needs, the Email Threat Prevention Cloud provides complete email security for cloud mailboxes.\n\nOrganizations face an ever-increasing number of threats from email based spam, viruses, and advanced threats. Email-based attacks, in particular spear phishing, remain one of the primary methods used to initiate an advanced persistent threat (APT) attack because of the complexity involved in detecting them. To protect against malicious emails, organizations simply route messages to the Email Threat Prevention Cloud. The cloud analyzes the emails for spam and known viruses first. It then uses the signature-less FireEye Multi-vector Virtual Execution™ (MVX) engine to analyze attachments and URLs to detect threats and stop APT attacks in real time.\n\n**Easy deployment and cross-enterprise protection**\n\nWithout hardware or software to install, the Email Threat Prevention Cloud is a particularly good fit for organizations seeking to move their infrastructure into the cloud. This eliminates the complexity of procuring, installing, and managing a physical infrastructure.\n\nEmail Threat Prevention Cloud integrates with the entire FireEye portfolio for real-time threat intelligence sharing. This rich correlation of threat intelligence provides organizations several unique capabilities, such as:\n\n - Identifying previous targets of spear-phishing emails \n - Locating copies of the malicious email in target inboxes \n - Finding out if the message is being forwarded to new targets\n - Highlighting URLs that become malicious after message delivery\n\nFor added accessibility and ease-of-use, the dashboard shows region- and industry-based malware trends, and audit logging.",
@@ -3137,7 +3145,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Northrop%20Grumman%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW"
+          "F1603047866"
         ],
         "CSP_Website": "www.northropgrumman.com",
         "CSO_Description": "The Northrop Grumman Cloud Platform (NGCP) is as a FedRAMP compliant Platform-as-a-Service (PaaS) where it deploys multiple Software-as-a-Service (SaaS) solutions to federal, state and commercial customers. Initially, this includes three Application Modules: Employee Performance Management (ePerformance), Environmental Program Information Management System (EPIMS) / Enterprise Environmental Safety & Occupational Health (EESOH) system, and e.POWER for Business Process Management. Northrop Grumman is deploying multiple NG SaaS products on the same re-usable framework.",
@@ -3230,9 +3238,6 @@
         "Authorizing_Agency": "Department of Health and Human Services",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Salesforce%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1206061353"
-        ],
         "CSP_Website": "www.salesforce.com/industries/public-sector",
         "CSO_Description": "Salesforce Government Cloud is a partitioned instance of Salesforce’s industry-leading Platform-as-a-Service (PaaS) and Software-as-a-Service (SaaS), multi-tenant community cloud infrastructure specifically for use by U.S. federal, state, and local government customers, U.S. government contractors, and Federally Funded Research and Development Centers (FFRDCs). \n\nSalesforce Government Cloud is comprised of the following Salesforce services: Lightning Platform, Sales, Service, Communities, Analytics, and Industry Solutions. A list of current in-scope Salesforce products included in the authorization boundary is available at [https://help.salesforce.com/articleView?id=000270080&language=en_US&type=1](https://help.salesforce.com/articleView?id=000270080&language=en_US&type=1)\n\nAdditional information is available at: [http://pages.mail.salesforce.com/gettingstarted/government-cloud/](http://pages.mail.salesforce.com/gettingstarted/government-cloud/)",
         "Announcement_Date": "2014-05-23T04:00:00.000Z",
@@ -3688,7 +3693,8 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/SAP%20NS2%20Logo1.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "Underlying_CSP_Package_ID": [
-          "F1603047866"
+          "F1603047866",
+          "F1206061353"
         ],
         "CSP_Website": "https://www.sapns2.com/cloud/",
         "CSO_Description": "Explore solutions for the SAP NS2 Cloud - Intelligent Enterprise – including a suite of intelligent applications and experience management tools. \n\nOur intelligent suite includes applications for managing the operational transactions, HR and people management, analytics and other innovative capabilities.  The applications are integration-ready, include embedded intelligence, and offer a consistent and intuitive user interface. \n\n**SuccessFactors** is an enterprise HR and People management Software as a Service (SaaS) solution. SuccessFactors delivers business results by driving business alignment, optimizing people performance and building a competitive advantage through people. The solution provides a comprehensive suite of solutions that improves executive insight and decision-making while ensuring the right people with the right skills are doing the right work. SuccessFactors includes: Learning, Performance & Goals, Succession & Development, Compensation, Recruiting, Onboarding, Workforce Planning, Workforce Analytics & Reporting, and Employee Central\n\n**Employee Central Payroll** - Secure, industry-based payroll engine that is seamlessly integrated to the core HR system\n\nIn addition, SAP NS2 offers customers with the enhanced availability, compliance and customer support to deliver that mission critical edge. Benefits include:  Enhanced Disaster Recovery/High Availability; U.S. Federal and Critical Infrastructure compliance and NS2 US Person Operation & Support",
@@ -4699,12 +4705,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2017-03-31T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Deposit Insurance Corporation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2017-03-30T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2017-03-30T04:00:00.000Z",
             "Authorizing_Agency": "United States Equal Employment Opportunity Commission",
@@ -4983,6 +4983,12 @@
             "Authorizing_Agency": "Farm Credit Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FCA%20Logo.jpg",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-12-02T05:00:00.000Z",
+            "Authorizing_Agency": "Federal Deposit Insurance Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -5087,8 +5093,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Blackboard%20Logo.jpg",
         "Independent_Assessor": "Deloitte & Touche LLP",
         "Underlying_CSP_Package_ID": [
-          "F1603047866",
-          "F1512167750"
+          "F1603047866"
         ],
         "CSP_Website": "www.blackboard.com",
         "CSO_Description": "Blackboard’s Learn and Collaborate SaaS solution offers government and military agencies next-generation online, social and mobile tools that create a continuous learning environment, built around peer-to-peer interaction, content and discussions.",
@@ -5313,7 +5318,8 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Infor%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "Underlying_CSP_Package_ID": [
-          "F1603047866"
+          "F1603047866",
+          "F1305072116"
         ],
         "CSP_Website": "www.infor.com",
         "CSO_Description": "Infor Government Software-as-a-Service (SaaS) is a web-architected solution powered by the **Infor Operating Service Platform (InforOS)**. IGS is comprised of integrated cloud suites that align to specific industries such as **Public Sector, Aerospace & Defense, Industrial, and Healthcare.**  These cloud suites support workloads for disciplines including **Asset & Maintenance Management, Human Capital Management, Financial & Supply Management and Manufacturing.** IGS is hosted in an isolated government-only region of AWS GovCloud (US). AWS GovCloud adheres to U.S. International Traffic in Arms Regulations (ITAR), Criminal Justice Information Services (CJIS) requirements, Levels 2 and 4 of Department of Defense systems.\n\nIGS offerings are categorized using the Federal Risk and Authorization Management Program (FedRAMP) baseline to withstand a moderate impact level. In addition to IGS’ FedRAMP Joint Authorization Board (JAB) authorization, IGS is also compliant for Health Insurance Portability and Accountability Act of 1996 (HIPAA) and NIST SP 800-171, rev 1, Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations.\n\n**Infor Platform: Infor Operating Service Platform (InforOS):** provides cloud computing architecture, open source software and in-memory computing technology, delivering high performance, support for open standards, enhanced productivity, responsive design, and mobile access via a wide range of devices. The various components of Infor OS work together to automate, anticipate, predict, and inform stakeholders, unifying the UX to support the mission.\n\n * **Infor Federated Security (IFS):** synchronizes customer multi-factor authentication (MFA) access to provisioned IGS applications using single sign on (SSO).\n * **Ming.le:** is a comprehensive platform for social collaboration, business process improvement and contextual analytics; it provides web portal access and display to all IGS applications available to the customer.\n * **Homepages:** provides customers the ability to build custom pages or select from Infor provided widgets. Homepages offers a flexible and highly configurable way to present IGS application information and analytics data to customer users. \n * **Intelligent Open Network (ION):** serves as the process integration middleware platform giving customers flexibility to make a complex web of enterprise systems work together, and long-term sustainability to optimize return on technology investments. \n * **ION API Gateway:** provides a single API gateway for all API calls and programmatic access to IGS applications.\n * **Infor Document Management (IDM):** enables customers to capture, create, manage and access organization-specific business documents and use contextual intelligence to display documents with relation to their business purpose.\n * **Dynamic Enterprise Performance Management (d/EPM) Platform:** an in-memory analytics platform that provides instant consolidation of data and immediate user feedback for HCM applications on Analytics, Financial Performance Management, Risk & Compliance.\n * **Data Lake:** delivers schema-on-read intelligence and a fast, flexible data consumption framework that provides customers with needed information when making key decisions.\n\n**Business Intelligence & Analytics: Infor Birst** is a native cloud business intelligence (BI) and business analytics platform helping organizations understand and optimize complex processes in less time than traditional BI solutions. Built with patented automation and machine learning technologies, Birst’s “networked BI” approach connects teams and applications across the enterprise via a trusted network of analytics and insights for smarter decisions.\n\n**Asset & Maintenance Management:** Infor Enterprise Asset Management (EAM) with Mobility** is a fully web-architected to help proactively manage assets, asset information, and maintenance activities. Infor’s best-in-class asset management modules and unique features automatically assign work orders, effectively forecast likely failure points, and automate purchasing and inventory management. EAM has built-in configuration and industry-specific features for last-mile functionality in manufacturing, facilities, life sciences, fleet/transportation, municipalities and public sector organizations. \n\n * **Facilities Management:** is configured with 14 separate workflows with out-of-the-box functionality. Infor EAM is pre-loaded with American Society of Heating, Refrigerating, and Air-Conditioning Engineers (ASHRAE) standards for equipment classifications, along with standard structures for mechanical, electrical, plumbing, and architectural systems.\n * **Maintenance, Repair & Overhaul (MRO):** is an intuitive solution to manage MRO activities holistically. Built in industry-specific editions address the unique needs of Fleets, Equipment, Labs and Utilities. Unlike niche solutions, or ERP add-on products requiring extensive customization Infor MRO can grow with you, or ERP add-on products that require extensive customization, Infor MRO is a purpose-built asset and maintenance management tool that’s able to scale and transform your organization.\n\n**Human Capital Management (HCM):** Infor HCM provides a powerful set of cloud-based human capital management solutions to replace complex processes, workflows, and systems. Sophisticated, yet intuitive technology, empowers your HR professionals to deliver streamlined workforce processes.\n\n * **Global HR:** empowers HR departments to unify both data and processes and has the industry's broadest feature set of configurable, simplified, flexible and personalized core HR capabilities. GHR helps manage the person system of record, absence management, time entry, and benefits administration workflows. Cloud-based, mobile-enabled HR software frees your global teams from time-consuming transactional tasks enabling timely, accurate, and insightful data to all of your relevant HR and business applications.\n * **Talent Management:** is an integrated set of applications and performance management software organically built to support your strategic people initiatives by unlocking the potential of your organization's talent. Identify, hire, develop, reward, and retain the best of the best, all using a single, unified user experience.\n * **Work Force Management:** is a comprehensive labor optimization, planning, and time and attendance solution managing employee resource demand, labor performance, and business analytics. WFM addresses all aspects of labor compliance and performance needs with time and attendance, demand-driven scheduling, workforce scheduling, and absence management tools, mitigating potential compliance errors and reducing costs.\n * **Talent Science:** is a predictive talent analytics and pre-employment testing solution that leverage large quantities of behavioral and performance data helping organizations build career pathing strategies with long-term engagement and development.\n * **Payroll:** is a scalable solution integrating personnel information seamlessly with compensation, benefits, absence, time-entry management, and employee self-services. Infor Payroll reduces administration workload and duplication of effort with a powerful control monitoring system. Update your payroll practices with a reliable and highly secure solution that meets the needs of complex pay job costing components.\n \n**Financial & Supply Management** Improve operations throughout your organization with the security, scalability, and financial sophistication of Infor’s financial management solutions. Configured to suit the unique needs of your industry, Infor’s innovative solutions can help you eliminate duplicate records and spreadsheets and improve financial performance across your entire organization. \r\n\n * **Financials & Supply Management:** is an integrated finance and supply management software suite that couples modern financial functionality with tools to track supplies and streamline order processes. End-to-end, fully integrated capabilities are designed specifically for today’s Public Sector users.\n * **Expense Management:** provides a flexible and configurable travel and entertainment (T&E) expense solution, built for mobile usage and social collaboration. It includes a suite of four integrated applications (Expense Reports, Travel Plans, Payment Requests, and Timesheets) can be used either individually or in any combination to automate expense-related business processes, enforce policy compliance, cut administrative costs, and reduce the risk of accidental errors and intentional fraud.\n\n**Manufacturing** Infor’s manufacturing choices offered provide a ready-to-run solutions, built specifically to meet the needs of Government, Industrial, and Aerospace & Defense companies and organizations. It provides deep, proven capabilities in key areas such as product design, program management, regulation compliance, supply chain visibility, manufacturing production, global finance, and maintenance, repair, and overhaul (MRO) service.\r\n\n * **CS Industrial:** Infor SyteLine provides an end-to-end ERP solution for both discrete and process manufacturers, which includes predictive analytics, collaboration, lean production tools, and integration options.\n * **CS Industrial: Factory Track™** is an end-to-end manufacturing automation solution, along with warehouse mobility, traceability, and tools for tracking labor and time. Designed to help companies streamline production, properly inventory materials, speed inventory operations, keep labor costs in control, and integrate with Infor's industrial manufacturing platform. Get the visibility and insight to understand true costs, improve cycle times, and respond to customer expectations for on-time delivery.",
@@ -5377,8 +5383,8 @@
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW",
-          "MSO365MT",
-          "F1508207205"
+          "F1508207205",
+          "FR1719759604"
         ],
         "CSP_Website": "www.everbridge.com",
         "CSO_Description": "Everbridge is a global provider of SaaS-based unified critical communications solutions. During mission-critical business events or man-made or natural disasters, the Everbridge platform enables customers to quickly and reliably deliver the right message and reach the right people, on the right device, in the right location, at the right time. Utilizing sophisticated communications technologies, Everbridge has the ability to deliver and verify messages in near real-time to more than 100 different communication devices, in over 200 countries and territories, in multiple languages – all simultaneously.",
@@ -5613,7 +5619,9 @@
         "Independent_Assessor": "Schellman & Company, LLC",
         "Underlying_CSP_Package_ID": [
           "F1603047866",
-          "F1508207205"
+          "FR1807853629",
+          "FR1823149273",
+          "F1206081364"
         ],
         "CSP_Website": "www.hrworx.com",
         "CSO_Description": "The Intelliworx Platform is a secure, cloud-based, Software as a Service (SaaS) environment which powers data collection and workflow process applications. The Intelliworx Platform is the engine behind multiple government workflows, such as FDonline - an automation of the OGE Financial Disclosure process. The Intelliworx Platform also is the engine behind HRIT applications for Onboarding, Offboarding and Telework management. The Intelliworx Platform transforms agency form-based business processes, making them simple to complete for the employee and efficient to review and approve for the staff, in a single secure environment.",
@@ -5898,8 +5906,10 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CircleCi%20Logo.jpg",
         "Independent_Assessor": "The Cadence Group",
         "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW",
-          "FR1805751477"
+          "F1603047866",
+          "FR1812058188",
+          "FR1805751477",
+          "FR1823447014"
         ],
         "CSP_Website": "https://circleci.com/",
         "CSO_Description": "CircleCI is a highly configurable and powerful continuous integration and delivery platform that helps software teams confidently and securely release code by automating the build, test, and deploy process.  Our cloud offering removes operational overhead as we oversee the setup, security, and maintenance of your continuous integration instances. \n \nWith easy setup and configuration-as-code, CircleCI removes bottlenecks, allowing teams to focus on building great things, instead of waiting for great things to build. By enabling shorter iteration cycles and immediate feedback, innovation happens faster. The platform helps developers and QA find bugs and get fixes out quickly.   Operations teams use CircleCI to simplify their tool chains without having to manage additional plugins and services.  \n\nScale is where [https://circleci.com](https://circleci.com) really shines.  We're proud to support our customers, from small startups to the largest enterprises and government agencies on earth.  ",
@@ -6012,7 +6022,8 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Acquia%20Logo.jpg",
         "Independent_Assessor": "Schellman & Company, LLC",
         "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW"
+          "AGENCYAMAZONEW",
+          "F1508207205"
         ],
         "CSP_Website": "www.acquia.com",
         "CSO_Description": "Acquia provides the leading cloud platform for building, delivering, and optimizing digital experiences.\n\nAcquia is the enterprise platform behind Drupal, the leading open-source content management system, recognized as a Magic Quadrant Leader by Gartner two years in a row. Our platform enables agencies to foster greater digital engagement with citizens and securely deliver mission essential information and services with greater speed, agility, and resiliency.\n\nThe City of LA, State of New York, FEMA, Department of Homeland Security and many other government agencies rely on the Acquia platform to build websites and digital experiences that meet the needs of their citizens, internal users and IT teams while moving their missions forward.\n\nThese agencies know that a citizen-centric government requires more than simply taking the existing physical structure and making it digital. Today the term “digital” has taken on a new meaning. In the private sector, consumers can shop, pay bills, and even conduct banking online, and now they’re expecting to conduct government business online in the same way. The most forward-thinking government IT managers are finding ways to meet expectations set by the private sector, and then going above and beyond to serve citizens.\n\nWith the Acquia Platform governments and agencies can use limited taxpayer dollars efficiently to build sites and experience that meet the needs of IT, deliver on the mission and give citizens crucial information they need.",
@@ -6741,7 +6752,8 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Virtru%20Logo.jpg",
         "Independent_Assessor": "Kratos SecureInfo",
         "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW"
+          "AGENCYAMAZONEW",
+          "FR1823447014"
         ],
         "CSP_Website": "https://www.virtru.com",
         "CSO_Description": "Virtru provides seamless end-to-end email encryption, powerful access controls, and unparalleled security - built for the enterprise, yet easy enough for everyone.\n\nGovernment agencies and large enterprises trust Virtru to protect and control sensitive information – such as regulated personal data and proprietary intellectual property – regardless of where it’s created, stored, or shared. Based on the Trusted Data Format (TDF) open standard, the Virtru Data Protection Platform allows users anywhere, on any device, to work the way they do today – without requiring a separate log-in, user interface, or application.\n\nEnforced through seamless integrations with G Suite, Office 365, and other SaaS business applications, Virtru is offered as a SaaS platform for access control, policy enforcement, and key management.",
@@ -7549,6 +7561,12 @@
             "Authorizing_Agency": "Farm Credit Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FCA%20Logo.jpg",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-12-02T05:00:00.000Z",
+            "Authorizing_Agency": "Federal Deposit Insurance Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -7571,7 +7589,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Decision%20Lens%20Logo.jpg",
         "Independent_Assessor": "Kratos SecureInfo",
         "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW"
+          "F1603047866"
         ],
         "CSP_Website": "www.decisionlens.com",
         "CSO_Description": "The Decision Lens Software is a cloud-based prioritization and resource optimization software solution. Decision Lens enables governmental organizations to make critical decisions in program and project prioritization and resourcing, modernization, resource allocation and optimization, and workforce planning. This cloud-based software, which is hosted on the FedRAMP-authorized Amazon Web Services (AWS) Infrastructure as a Service (IaaS), rapidly engages decision-makers to achieve better outcomes in a resource-constrained environment. Driven by sophisticated analytics, the Decision Lens Software empowers organizations to identify those investments that will deliver the best future outcomes.",
@@ -8373,7 +8391,9 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Dell%20Boomi%20Logo.jpg",
         "Independent_Assessor": "Schellman & Company, LLC",
         "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW"
+          "AGENCYAMAZONEW",
+          "F1206081364",
+          "FR1823447014"
         ],
         "CSP_Website": "www.boomi.com",
         "CSO_Description": "Dell Boomi quickly and easily unites everything in your digital ecosystem so you can achieve better outcomes, faster. Our intelligent, flexible, scalable platform accelerates your business results by making it faster and easier to link your data, systems, applications, processes and people.\n\nBy harnessing the power of the cloud to unify everything inside and outside of your business, Dell Boomi liberates you from the shackles of legacy technology and gives you agility to lead the future.",
@@ -10777,8 +10797,9 @@
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Sponsoring_Agency": "Department of Energy",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-        "Authorizing_Agency": "Department of Energy",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+        "Authorizing_Agency": "Department of Defense",
+        "Authorizing_Subagency": "United States Army Corps of Engineers",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20Aconex%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "https://www.oracle.com/industries/construction-engineering/aconex-products.html ",
@@ -10786,15 +10807,7 @@
         "CSP_POC_Name": "Surayansh Surana",
         "CSP_POC_Email": "aconexgov-external@aconex.com ",
         "FedRAMP_In-Process_Date": "2018-08-20T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "United States Army Corps of Engineers",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y",
-            "Independent_Assessor": "Coalfire Systems, Inc."
-          }
-        ]
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "Oracle",
