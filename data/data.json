@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-12-12T05:40:50.747Z",
+    "Created_At": "2019-12-13T05:40:50.124Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4410,6 +4410,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2019-03-25T04:00:00.000Z",
             "Authorizing_Agency": "Department of Transportation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-12-10T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "National Nuclear Security Administration / Lawrence Livermore National Laboratory",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -9347,7 +9354,7 @@
         "Cloud_Service_Provider_Package": "FedConnect",
         "Path": "Agency",
         "Designation": "Compliant",
-        "Package_ID": "F1607067912",
+        "Package_ID": "F1510017461",
         "Service_Model": [
           "SaaS"
         ],
@@ -9366,58 +9373,7 @@
         "CSP_POC_Name": "Clifton H. Poole",
         "CSP_POC_Email": "securityteam@unisonglobal.com",
         "FedRAMP_In-Process_Date": "2015-10-20T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2017-01-23T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-01-24T05:00:00.000Z",
-            "Authorizing_Agency": "General Services Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2017-03-01T05:00:00.000Z",
-            "Authorizing_Agency": "Federal Deposit Insurance Corporation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2017-05-02T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-05-02T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Information Systems Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2017-07-31T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Authorizing_Subagency": "Internal Revenue Service",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-02-07T05:00:00.000Z",
-            "Letter_Expiration_Date": "2020-11-07T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-02-07T05:00:00.000Z",
-            "Authorizing_Agency": "Environmental Protection Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2023-04-23T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-04-23T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Election Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FEC%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2017-12-11T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Agriculture",
-            "Authorizing_Subagency": "United States Forest Service",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "Duo Security",
@@ -10912,7 +10868,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Palo%20Alto%20Logo.jpg",
         "CSP_Website": "www.paloaltonetworks.com",
         "CSO_Description": "Palo Alto Networks Government Cloud Services include a variety of cloud-based cybersecurity offerings, including Cortex XDR, Cortex Data Lake, Traps, and Prisma Cloud.\n\nCortex XDR is a cloud-based detection and response service that integrates network, endpoint and cloud data to stop sophisticated attacks.\n\nCortex Data Lake collects, normalizes, and integrates data from Palo Alto Networks products with public cloud scale.\n\nTraps prevents malware, exploit techniques, and sophisticated threats on the endpoint.\n\nPrisma Cloud is a cloud native security platform that provides comprehensive visibility, threat prevention, compliance assurance and data protection consistently across hybrid and multi-cloud environments.",
-        "CSP_POC_Name": "Jake Bajic",
+        "CSP_POC_Name": "Brad Bartholomew",
         "CSP_POC_Email": "fedramp@paloaltonetworks.com",
         "FedRAMP_In-Process_Date": "2019-03-14T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
@@ -11370,6 +11326,25 @@
         "CSP_POC_Name": "Diana Robinson",
         "CSP_POC_Email": "diana_robinson@symantec.com",
         "Fedramp_Ready_Date": "2019-09-17T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Synergetics Incorporated",
+        "Cloud_Service_Provider_Package": "Open Federal Logistics Information System (OpenFLIS)",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR1901136437",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Synergetics%20Logo.jpg",
+        "Independent_Assessor": "Information Technology Company, LLC",
+        "CSP_Website": "https://synergetics.com/openflis",
+        "CSO_Description": "OpenFLIS is an easily customizable, FedRAMP Ready, cloud-based data collation, retrieval, and dissemination platform that enables users to search and display information across multiple databases, sources, and formats. When coupled with the Synergetics Craft Product Architecture (SCPA) application tool, OpenFLIS provides the ability to reach across technological generations and sources to provide access and visibility to any data in any format. The system consists of the SCPA collation and dissemination tool as well as provisioning, cataloging, search and discovery, Information Management / Knowledge Management (IM/KM), and administrator’s modules that comprise the platform.",
+        "CSP_POC_Name": "Bill Barton",
+        "CSP_POC_Email": "fedramp@synergetics.com",
+        "Fedramp_Ready_Date": "2019-12-09T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
