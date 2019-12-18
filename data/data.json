@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-12-17T05:40:50.471Z",
+    "Created_At": "2019-12-18T05:40:50.218Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3998,14 +3998,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2016-12-02T05:00:00.000Z",
-            "Letter_Expiration_Date": "2019-12-02T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-11-02T04:00:00.000Z",
-            "Authorizing_Agency": "Social Security Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2017-06-27T04:00:00.000Z",
             "Letter_Expiration_Date": "2020-06-27T04:00:00.000Z",
             "Authorizing_Agency": "Department of Labor",
@@ -4181,6 +4173,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2019-05-10T04:00:00.000Z",
             "Authorizing_Agency": "United States Agency for International Development",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-03-29T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-03-29T04:00:00.000Z",
+            "Authorizing_Agency": "Social Security Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -6466,80 +6465,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Okta",
-        "Cloud_Service_Provider_Package": "Identity as a Service (IDaaS)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1512167750",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2018-12-10T05:00:00.000Z",
-        "Original_Expiration_Date": "2019-12-10T05:00:00.000Z",
-        "Sponsoring_Agency": "Department of Justice",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
-        "Authorizing_Agency": "Department of Justice",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Okta%20Logo.jpg",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW"
-        ],
-        "CSP_Website": "www.okta.com",
-        "CSO_Description": "Okta is the foundation for secure connections between people and technology. Okta’s products manage identity and access for millions of people on millions of devices. By harnessing the power of the cloud, Okta allows people to access applications on any device at any time, while still enforcing strong security policies. It integrates directly with an organization’s existing directories and identity systems, as well as 4,000+ applications.\n\nOkta offers products in two lines: for IT and developers. Okta’s IT products are geared toward IT and security leaders and are designed to simplify the way people connect to enterprise technology, while increasing efficiency and keeping IT environments secure. Okta’s IT products include Universal Directory, Single Sign-On, Provisioning, Adaptive Multi-factor Authentication and Mobility Management. Okta’s developer and platform products allow product teams to layer Okta’s powerful identity services into their applications and portals. Okta’s Platform makes it easy for customers to authentication, manage and secure their users. Okta’s Platform products include Universal Directory, Single Sign-On, Provisioning, Adaptive Multi-factor Authentication, Social Authentication, Inbound Federation, and AD and LDAP Integration.",
-        "Announcement_Date": "2017-04-26T04:00:00.000Z",
-        "CSP_POC_Name": "Chris Niggel",
-        "CSP_POC_Email": "fedramp@okta.com",
-        "FedRAMP_In-Process_Date": "2015-12-17T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2017-07-24T04:00:00.000Z",
-            "Authorizing_Agency": "Surface Transportation Board",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SurfaceTransportationBoard-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2017-12-07T05:00:00.000Z",
-            "Authorizing_Agency": "Federal Communications Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-07-03T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-07-23T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Veterans Affairs",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-02-09T05:00:00.000Z",
-            "Letter_Expiration_Date": "2021-02-09T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-02-09T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-08-07T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-08-07T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Trade Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-10-04T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-10-11T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-10-11T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Food and Drug Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Zscaler",
         "Cloud_Service_Provider_Package": "Zscaler Internet Access – Government (Secure Web Gateway – vTIC)",
         "Path": "Agency",
@@ -6609,48 +6534,6 @@
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Joint Communications Support Element",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Contegix",
-        "Cloud_Service_Provider_Package": "SecureCloud",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1833967442",
-        "Service_Model": [
-          "PaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2019-01-15T05:00:00.000Z",
-        "Original_Expiration_Date": "2020-01-15T05:00:00.000Z",
-        "Sponsoring_Agency": "Department of Energy",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-        "Authorizing_Agency": "Department of Energy",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Contegix%20Logo.jpg",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "CSP_Website": "www.Contegix.com",
-        "CSO_Description": "SecureCloud is provided by Contegix as a FedRAMP moderate Platform as a Service (PaaS) offering. The offering consists several managed services to facilitate hosting federal applications in a secure environment. The solution provided is a multi-tenant cloud-based environment, with the option for deployment of single-tenant environments if required by specific customers and system owners.\n\nContegix offers a managed hosting service that empowers customers to retain complete control over the application environment, while dramatically reducing the time and cost associated with in-house administration. Contegix solutions are designed to provide end-to-end managed hosting - from software, server, and network support, including setup, configuration, upgrades, monitoring, and troubleshooting. SecureCloud supports the following technologies within the tenant space: CentOS, Red Hat Enterprise Linux, Oracle Linux, Ubuntu, and Microsoft Windows Server. Contegix provisions customers’ instances with Apache, PHP, MySQL, IIS, .net, Active Directory, SQL Server, Oracle Database, LDAP and other technologies on behalf of the customer.\n\nContegix manages the customer tenant from the application down to the infrastructure as defined by Platform as a Service (PaaS). Within SecureCloud, tenants automatically get monitoring, security hardening, Operating System management and patching, managed backups, and managed firewalls. Contegix manages up to the application code including approved configuration changes for the system owner. Security is at the forefront of SecureCloud and with that focus, Contegix manages patching of operating systems as well as services that serve application code such as web services, database services, but does not patch the application code itself.\n\nDisaster recovery is done at the tenant level for SecureCloud customers as PaaS allows for this to be the most efficient. Other disaster recovery techniques can be used to meet requirements as needed however, the agency can define in a statement of work what level of recovery that is needed for the system.\n\nEnterprise managed hosting and services distributes applications across multiple servers and/or firewalls within the tenant environment. Enterprise managed hosting and services delivers optimum performance for high-volume, mission-critical business systems solutions that require the highest level of availability and scalability. The managed hosting solution provided by Contegix is based upon virtualized hosts, and provides support for on-demand creation of virtual machines. Individual tenant environments within SecureCloud are isolated from one another through security capabilities at both the network and host levels.",
-        "Announcement_Date": "2015-05-21T04:00:00.000Z",
-        "CSP_POC_Name": "Contegix Account Executive",
-        "CSP_POC_Email": "sales@contegix.com",
-        "FedRAMP_In-Process_Date": "2014-11-20T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2018-03-26T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-03-26T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Trade Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-04-10T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-01-15T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-04-10T04:00:00.000Z",
-            "Authorizing_Agency": "United States House of Representatives",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/House%20of%20Reps%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -8498,15 +8381,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2016-11-01T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-10-11T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-11-24T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Administration for Children & Families",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Authorizing_Letter_Last_Sign_Date": "2017-09-29T04:00:00.000Z",
             "Authorizing_Agency": "Department of Homeland Security",
             "Authorizing_Subagency": "United States Citizenship and Immigration Services",
@@ -9824,14 +9698,6 @@
             "Authorizing_Agency": "Department of Education",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-05-09T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-11-09T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Health Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -9901,6 +9767,122 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "United States Patent and Trademark Office",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Contegix",
+        "Cloud_Service_Provider_Package": "SecureCloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1833967442",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-12-12T05:00:00.000Z",
+        "Original_Expiration_Date": "2020-07-31T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Energy",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+        "Authorizing_Agency": "Department of Energy",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Contegix%20Logo.jpg",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "www.Contegix.com",
+        "CSO_Description": "SecureCloud is provided by Contegix as a FedRAMP moderate Platform as a Service (PaaS) offering. The offering consists several managed services to facilitate hosting federal applications in a secure environment. The solution provided is a multi-tenant cloud-based environment, with the option for deployment of single-tenant environments if required by specific customers and system owners.\n\nContegix offers a managed hosting service that empowers customers to retain complete control over the application environment, while dramatically reducing the time and cost associated with in-house administration. Contegix solutions are designed to provide end-to-end managed hosting - from software, server, and network support, including setup, configuration, upgrades, monitoring, and troubleshooting. SecureCloud supports the following technologies within the tenant space: CentOS, Red Hat Enterprise Linux, Oracle Linux, Ubuntu, and Microsoft Windows Server. Contegix provisions customers’ instances with Apache, PHP, MySQL, IIS, .net, Active Directory, SQL Server, Oracle Database, LDAP and other technologies on behalf of the customer.\n\nContegix manages the customer tenant from the application down to the infrastructure as defined by Platform as a Service (PaaS). Within SecureCloud, tenants automatically get monitoring, security hardening, Operating System management and patching, managed backups, and managed firewalls. Contegix manages up to the application code including approved configuration changes for the system owner. Security is at the forefront of SecureCloud and with that focus, Contegix manages patching of operating systems as well as services that serve application code such as web services, database services, but does not patch the application code itself.\n\nDisaster recovery is done at the tenant level for SecureCloud customers as PaaS allows for this to be the most efficient. Other disaster recovery techniques can be used to meet requirements as needed however, the agency can define in a statement of work what level of recovery that is needed for the system.\n\nEnterprise managed hosting and services distributes applications across multiple servers and/or firewalls within the tenant environment. Enterprise managed hosting and services delivers optimum performance for high-volume, mission-critical business systems solutions that require the highest level of availability and scalability. The managed hosting solution provided by Contegix is based upon virtualized hosts, and provides support for on-demand creation of virtual machines. Individual tenant environments within SecureCloud are isolated from one another through security capabilities at both the network and host levels.",
+        "Announcement_Date": "2015-05-21T04:00:00.000Z",
+        "CSP_POC_Name": "Contegix Account Executive",
+        "CSP_POC_Email": "sales@contegix.com",
+        "FedRAMP_In-Process_Date": "2014-11-20T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2018-03-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-03-26T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Trade Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-04-10T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-01-15T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-04-10T04:00:00.000Z",
+            "Authorizing_Agency": "United States House of Representatives",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/House%20of%20Reps%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Okta",
+        "Cloud_Service_Provider_Package": "Identity as a Service (IDaaS)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1512167750",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-12-11T05:00:00.000Z",
+        "Original_Expiration_Date": "2020-06-11T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Justice",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+        "Authorizing_Agency": "Department of Justice",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Okta%20Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
+        "CSP_Website": "www.okta.com",
+        "CSO_Description": "Okta is the foundation for secure connections between people and technology. Okta’s products manage identity and access for millions of people on millions of devices. By harnessing the power of the cloud, Okta allows people to access applications on any device at any time, while still enforcing strong security policies. It integrates directly with an organization’s existing directories and identity systems, as well as 4,000+ applications.\n\nOkta offers products in two lines: for IT and developers. Okta’s IT products are geared toward IT and security leaders and are designed to simplify the way people connect to enterprise technology, while increasing efficiency and keeping IT environments secure. Okta’s IT products include Universal Directory, Single Sign-On, Provisioning, Adaptive Multi-factor Authentication and Mobility Management. Okta’s developer and platform products allow product teams to layer Okta’s powerful identity services into their applications and portals. Okta’s Platform makes it easy for customers to authentication, manage and secure their users. Okta’s Platform products include Universal Directory, Single Sign-On, Provisioning, Adaptive Multi-factor Authentication, Social Authentication, Inbound Federation, and AD and LDAP Integration.",
+        "Announcement_Date": "2017-04-26T04:00:00.000Z",
+        "CSP_POC_Name": "Chris Niggel",
+        "CSP_POC_Email": "fedramp@okta.com",
+        "FedRAMP_In-Process_Date": "2015-12-17T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2017-07-24T04:00:00.000Z",
+            "Authorizing_Agency": "Surface Transportation Board",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SurfaceTransportationBoard-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2017-12-07T05:00:00.000Z",
+            "Authorizing_Agency": "Federal Communications Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2018-07-03T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-07-23T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2018-02-09T05:00:00.000Z",
+            "Letter_Expiration_Date": "2021-02-09T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-02-09T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-08-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-08-07T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Trade Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-10-04T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-10-11T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-10-11T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -10754,7 +10736,7 @@
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Energy",
+        "Sponsoring_Agency": "Department of Defense",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
         "Authorizing_Agency": "Department of Defense",
         "Authorizing_Subagency": "United States Army Corps of Engineers",
