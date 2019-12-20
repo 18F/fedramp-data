@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-12-19T05:40:50.247Z",
+    "Created_At": "2019-12-20T05:40:50.803Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -8090,8 +8090,9 @@
         "FedRAMP_In-Process_Date": "2017-04-07T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Date": "2019-08-29T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-08-31T04:00:00.000Z",
+            "Letter_Date": "2019-12-18T05:00:00.000Z",
+            "Letter_Expiration_Date": "2020-12-18T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-12-19T05:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Telecommunications and Information Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
@@ -11051,6 +11052,30 @@
         "CSP_POC_Name": "Kevin Kelly",
         "CSP_POC_Email": "fedramp@rescale.com",
         "FedRAMP_In-Process_Date": "2019-08-15T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "SailPoint Technologies Holdings, Inc. ",
+        "Cloud_Service_Provider_Package": "IdentityIQ Cloud Managed Service (CMS) FedRAMP",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2001938710",
+        "Service_Model": [
+          "IaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Justice",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+        "Authorizing_Agency": "Department of Justice",
+        "Authorizing_Subagency": "Office of Justice Programs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/SailPoint%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://www.sailpoint.com/identity-for/government/",
+        "CSO_Description": "SailPoint IdentityIQ provides cloud identity governance, enabling customers to gain complete visibility and control of access for all users, applications, data, and infrastructure.  With the IdentityIQ FedRAMP Service, SailPoint manages the IdentityIQ Platform, allowing you to focus on fulfilling the identity governance requirements driving your organization.",
+        "CSP_POC_Name": "Chamon Gayton",
+        "CSP_POC_Email": "fedramp@sailpoint.com",
+        "FedRAMP_In-Process_Date": "2019-12-18T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
