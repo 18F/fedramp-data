@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2019-12-23T05:40:50.562Z",
+    "Created_At": "2019-12-24T05:40:50.592Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -466,13 +466,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2019-12-19T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-12-20T05:00:00.000Z",
-            "Authorizing_Agency": "Federal Trade Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Authorizing_Letter_Last_Sign_Date": "2018-10-10T04:00:00.000Z",
             "Authorizing_Agency": "Department of Transportation",
             "Authorizing_Subagency": "Federal Aviation Administration",
@@ -493,6 +486,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2019-02-26T05:00:00.000Z",
             "Authorizing_Agency": "Department of Transportation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-12-23T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-12-23T05:00:00.000Z",
+            "Authorizing_Agency": "Federal Trade Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -617,14 +617,6 @@
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Defense Information Systems Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2015-09-18T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2015-09-18T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Authorizing_Subagency": "Federal Student Aid",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -1691,7 +1683,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Amazon%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.aws.amazon.com",
-        "CSO_Description": "AWS GovCloud (US) is an AWS Region designed to allow US government agencies and customers supporting the US government to move more sensitive workloads into the cloud. In addition to complying with FedRAMP requirements, the AWS GovCloud (US) framework adheres to U.S. International Traffic in Arms Regulations (ITAR) regulations. Additional information is available at [http://aws.amazon.com/govcloud-us/](http://aws.amazon.com/govcloud-us/).\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: Amazon API Gateway, Amazon Athena, Amazon Aurora (MySQL), Amazon Aurora (Postgres), Amazon Cloudwatch, Amazon Cloudwatch Events, Amazon CloudWatch Logs, Amazon DynamoDB, Amazon ElastiCache, Amazon Elastic Block Store (EBS), Amazon Elastic Compute Cloud (EC2), Amazon Elastic Container Registry, Amazon Elastic Container Service, Amazon Elastic File System, Amazon Elastic MapReduce, Amazon Elasticsearch Service, Amazon Glacier, Amazon Guard Duty, Amazon Inspector, Amazon Kinesis Data Streams, Amazon Polly, Amazon Redshift, Amazon RDS (MariaDB, MySQL, Oracle, Postgres, SQL Server), Amazon Rekognition, Amazon Simple Notification Service (SNS), Amazon Simple Queue Service (SQS), Amazon Simple Storage Service (S3), Amazon Simple Workflow Service (SWF), Amazon Virtual Private Cloud (VPC), Amazon WorkSpace, AWS CodeDeploy, AWS CloudFormation, AWS CloudTrail, AWS Config, AWS Database Migration Service, AWS Direct Connect, AWS Directory Services, AWS Elastic Beanstalk, AWS Glue, AWS IoT Core, AWS IoT Device Manager, AWS Identity & Access Management (IAM), AWS Key Management Service (KMS), AWS Lambda, AWS Server Migration Service (SMS), AWS Snowball, AWS Snowball Edge, AWS Step Functions",
+        "CSO_Description": "AWS GovCloud (US) is an AWS Region designed to allow US government agencies and customers supporting the US government to move more sensitive workloads into the cloud. In addition to complying with FedRAMP requirements, the AWS GovCloud (US) framework adheres to U.S. International Traffic in Arms Regulations (ITAR) regulations. Additional information is available at [http://aws.amazon.com/govcloud-us/](http://aws.amazon.com/govcloud-us/).\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: Amazon API Gateway, Amazon Athena, Amazon Aurora (MySQL), Amazon Aurora (Postgres), Amazon Cloud Directory, Amazon Cloudwatch, Amazon Cloudwatch Events, Amazon CloudWatch Logs, Amazon Comprehend, Amazon DynamoDB, Amazon ElastiCache, Amazon Elastic Block Store (EBS), Amazon Elastic Compute Cloud (EC2), Amazon Elastic Container Registry, Amazon Elastic Container Service, Amazon Elastic File System, Amazon Elastic MapReduce, Amazon Elasticsearch Service, Amazon Glacier, Amazon Guard Duty, Amazon Inspector, Amazon Kinesis Data Firehose, Amazon Kinesis Data Streams, Amazon Polly, Amazon Redshift, Amazon RDS (MariaDB, MySQL, Oracle, Postgres, SQL Server), Amazon Rekognition, Amazon Route 53, Amazon Simple Notification Service (SNS), Amazon Simple Queue Service (SQS), Amazon Simple Storage Service (S3), Amazon Simple Workflow Service (SWF), Amazon Transcribe, Amazon Translate, Amazon Virtual Private Cloud (VPC), Amazon WorkSpace, AWS CodeDeploy, AWS CloudFormation, AWS CloudTrail, AWS CodeBuild, AWS CodeCommit, AWS Config, AWS Database Migration Service, AWS Data Sync, AWS Direct Connect, AWS Directory Services, AWS Elastic Beanstalk, AWS Glue, AWS IoT Core, AWS IoT Device Manager, AWS IoT Greengrass, AWS Identity & Access Management (IAM), AWS Key Management Service (KMS), AWS Lambda, AWS License Manager, AWS Organizations, AWS Server Migration Service (SMS), AWS Service Catalog, AWS Snowball, AWS Snowball Edge, AWS Step Functions, AWS Trusted Advisor, AWS WAF",
         "Announcement_Date": "2016-06-21T04:00:00.000Z",
         "CSP_POC_Name": "AWS FedRAMP Compliance Team",
         "CSP_POC_Email": "aws-compliance-fedramp@amazon.com",
@@ -3858,7 +3850,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Amazon%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.aws.amazon.com",
-        "CSO_Description": "Amazon US East/West is a multi-tenant public cloud for Federal, State and Local Government customers, as well as commercial customers, designed to meet a wide range of regulatory requirements, to include government compliance and security requirements. AWS leverages the Infrastructure-as-a-Service (IaaS) cloud computing model, which enables convenient, on-demand Internet access to a shared pool of configurable computing resources such as servers, storage, network infrastructure, and various other web services. Customers can rapidly provision or release computing resources on demand.\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: Amazon API Gateway, Amazon Athena, Amazon Aurora (MySQL), Amazon Cloud Directory, Amazon CloudFront, Amazon CloudWatch, Amazon CloudWatch Logs, Amazon Cognito, Amazon DynamoDB, Amazon ElastiCache, Amazon Elastic Block Store (EBS), Amazon Elastic Container Registry (ECR), Amazon Elastic Container Service (ECS), Amazon Elastic File System (EFS), Amazon Elastic Compute Cloud (EC2), Amazon Elastic MapReduce, Amazon Elasticsearch, Amazon Glacier, Amazon Inspector, Amazon Guard Duty, Amazon Kinesis Data Firehose, Amazon Kinesis Data Streams, Amazon Macie, Amazon Polly, Amazon QuickSight, Amazon Redshift, Amazon RDS (MariaDB, MySQL, Oracle, Postgres, SQL Server), Amazon Rekognition, Amazon Route 53, Amazon Simple Notification Service (SNS), Amazon Simple Queue Service (SQS), Amazon Simple Storage Service (S3), Amazon Simple Workflow Service (SWF), Amazon Virtual Private Cloud (VPC), AWS CloudFormation, AWS CloudTrail, AWS CodeBuild, AWS CodeCommit, AWS CodeDeploy, AWS Config, AWS Database Migration Service, AWS Direct Connect, AWS Directory Service, AWS Elastic Beanstalk, AWS Glue, AWS Identity & Access Management (IAM), AWS IoT Core, AWS IoT Device Manager, AWS IoT Greengrass, AWS Key Management Service (KMS), AWS Lambda, AWS Managed Service, AWS Organizations, AWS Service Catalog, AWS Server Migration Service (SMS), AWS Shield Advanced, AWS Snowball, AWS Snowball Edge, AWS Step Functions, AWS WAF, AWS WorkDocs, AWS WorkSpaces, CloudWatch Events",
+        "CSO_Description": "Amazon US East/West is a multi-tenant public cloud for Federal, State and Local Government customers, as well as commercial customers, designed to meet a wide range of regulatory requirements, to include government compliance and security requirements. AWS leverages the Infrastructure-as-a-Service (IaaS) cloud computing model, which enables convenient, on-demand Internet access to a shared pool of configurable computing resources such as servers, storage, network infrastructure, and various other web services. Customers can rapidly provision or release computing resources on demand.\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: Amazon API Gateway, Amazon Athena, Amazon Aurora (MySQL), Amazon Cloud Directory, Amazon CloudFront, Amazon CloudWatch, Amazon CloudWatch Logs, Amazon Cognito, Amazon Comprehend, Amazon DynamoDB, Amazon ElastiCache, Amazon Elastic Block Store (EBS), Amazon Elastic Container Registry (ECR), Amazon Elastic Container Service (ECS), Amazon Elastic File System (EFS), Amazon Elastic Compute Cloud (EC2), Amazon Elastic MapReduce, Amazon Elasticsearch, Amazon Glacier, Amazon Inspector, Amazon Guard Duty, Amazon Kinesis Data Firehose, Amazon Kinesis Data Streams, Amazon Macie, Amazon Polly, Amazon QuickSight, Amazon Redshift, Amazon RDS (MariaDB, MySQL, Oracle, Postgres, SQL Server), Amazon Rekognition, Amazon Route 53, Amazon Simple Notification Service (SNS), Amazon Simple Queue Service (SQS), Amazon Simple Storage Service (S3), Amazon Simple Workflow Service (SWF), Amazon Transcribe, Amazon Translate, Amazon Virtual Private Cloud (VPC), AWS Batch, AWS CloudFormation, AWS CloudTrail, AWS CodeBuild, AWS CodeCommit, AWS CodeDeploy, AWS Config, AWS Database Migration Service, AWS Data Sync, AWS Direct Connect, AWS Directory Service, AWS Elastic Beanstalk, AWS Glue, AWS Identity & Access Management (IAM), AWS IoT Core, AWS IoT Device Manager, AWS IoT Greengrass, AWS Key Management Service (KMS), AWS Lambda, AWS License Manager, AWS Managed Service, AWS Organizations, AWS Service Catalog, AWS Server Migration Service (SMS), AWS Shield Advanced, AWS Snowball, AWS Snowball Edge, AWS Step Functions, AWS Trusted Advisor, AWS WAF, AWS WorkDocs, AWS WorkSpaces, CloudWatch Events",
         "Announcement_Date": "2013-05-01T04:00:00.000Z",
         "CSP_POC_Name": "AWS FedRAMP Compliance Team",
         "CSP_POC_Email": "aws-compliance-fedramp@amazon.com",
@@ -4444,14 +4436,6 @@
             "Letter_Expiration_Date": "2021-03-26T04:00:00.000Z",
             "Authorizing_Agency": "Department of Veterans Affairs",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-06-25T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-07-31T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-07-31T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -7726,14 +7710,6 @@
         "FedRAMP_In-Process_Date": "2019-02-19T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Date": "2017-11-06T05:00:00.000Z",
-            "Letter_Expiration_Date": "2021-05-18T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-05-18T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2018-10-05T04:00:00.000Z",
             "Letter_Expiration_Date": "2021-08-24T04:00:00.000Z",
             "Authorizing_Agency": "Department of Health and Human Services",
@@ -7775,13 +7751,6 @@
         "CSP_POC_Email": "fedramp@adobe.com",
         "FedRAMP_In-Process_Date": "2019-02-19T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2016-12-12T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-12-15T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
           {
             "Letter_Expiration_Date": "2020-06-29T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2017-06-29T04:00:00.000Z",
@@ -9423,6 +9392,35 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "New Relic",
+        "Cloud_Service_Provider_Package": "New Relic",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1607057910",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Low",
+        "Original_Authorization_Date": "2019-09-19T04:00:00.000Z",
+        "Sponsoring_Agency": "Executive Office of the President",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_Executive_Office_of_the_President_of_the_United_States_2014.png",
+        "Authorizing_Agency": "Executive Office of the President",
+        "Authorizing_Subagency": "Office of Management and Budget",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/New%20Relic%20Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
+        "CSP_Website": "www.newrelic.com",
+        "CSO_Description": "New Relic is a software analytics company that makes sense of billions of metrics about millions of applications in real time. New Relic’s comprehensive SaaS-based solution provides one powerful interface for web and native mobile applications and consolidates the performance monitoring data for any chosen technology in an environment. There are thousands of active customer accounts using New Relic’s cloud solution every day to optimize more than 200 billion metrics for 3 million applications. New Relic is pioneering a new category called Software Analytics.",
+        "Announcement_Date": "2019-12-19T05:00:00.000Z",
+        "CSP_POC_Name": "Ray Cruz",
+        "CSP_POC_Email": "fedrampinfo@newrelic.com",
+        "FedRAMP_In-Process_Date": "2018-11-01T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Replicon",
         "Cloud_Service_Provider_Package": "Replicon Cloud Platform",
         "Path": "Agency",
@@ -9561,13 +9559,6 @@
             "Letter_Date": "2015-06-16T04:00:00.000Z",
             "Authorizing_Agency": "Federal Communications Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2016-08-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-08-10T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -10587,31 +10578,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "New Relic",
-        "Cloud_Service_Provider_Package": "New Relic",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1607057910",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Low",
-        "Sponsoring_Agency": "Executive Office of the President",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_Executive_Office_of_the_President_of_the_United_States_2014.png",
-        "Authorizing_Agency": "Executive Office of the President",
-        "Authorizing_Subagency": "Office of Management and Budget",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/New%20Relic%20Logo.jpg",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "CSP_Website": "www.newrelic.com",
-        "CSO_Description": "New Relic is a software analytics company that makes sense of billions of metrics about millions of applications in real time. New Relic’s comprehensive SaaS-based solution provides one powerful interface for web and native mobile applications and consolidates the performance monitoring data for any chosen technology in an environment. There are thousands of active customer accounts using New Relic’s cloud solution every day to optimize more than 200 billion metrics for 3 million applications. New Relic is pioneering a new category called Software Analytics.",
-        "Announcement_Date": "2019-12-19T05:00:00.000Z",
-        "CSP_POC_Name": "Ray Cruz",
-        "CSP_POC_Email": "fedrampinfo@newrelic.com",
-        "FedRAMP_In-Process_Date": "2018-11-01T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Newyu, Inc.",
         "Cloud_Service_Provider_Package": "LibreView for US Government",
         "Path": "Agency",
@@ -10847,7 +10813,7 @@
         "CSO_Description": "Palo Alto Networks Government Cloud Services include a variety of cloud-based cybersecurity offerings, including Cortex XDR, Cortex Data Lake, Traps, and Prisma Cloud.\n\nCortex XDR is a cloud-based detection and response service that integrates network, endpoint and cloud data to stop sophisticated attacks.\n\nCortex Data Lake collects, normalizes, and integrates data from Palo Alto Networks products with public cloud scale.\n\nTraps prevents malware, exploit techniques, and sophisticated threats on the endpoint.\n\nPrisma Cloud is a cloud native security platform that provides comprehensive visibility, threat prevention, compliance assurance and data protection consistently across hybrid and multi-cloud environments.",
         "CSP_POC_Name": "Brad Bartholomew",
         "CSP_POC_Email": "fedramp@paloaltonetworks.com",
-        "FedRAMP_In-Process_Date": "2019-03-14T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2019-11-07T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -11007,6 +10973,29 @@
         "CSP_POC_Email": "incloudgov@recoverypoint.com",
         "Fedramp_Ready_Date": "2018-07-23T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2019-07-16T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Relativity ODA LLC",
+        "Cloud_Service_Provider_Package": "RelativityOne Government ",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2004753002",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Environmental Protection Agency",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
+        "Authorizing_Agency": "Environmental Protection Agency",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Relativity%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://www.relativity.com/",
+        "CSO_Description": "When it comes to e-discovery, you need the truth to act quickly, whether it’s understanding your organization’s risk around an internal issue, preparing evidence for litigation or investigations, working through M&A activity, or even performing proactive compliance monitoring. \n\nBut with the tremendous amount of data out there, finding the truth isn’t easy. We’ve developed powerful technology to help. \n\nRelativityOne Government brings the entire e-discovery process together in one secure and extensible platform, connected to your organization’s most sensitive data—and supported by the community of experts you need to untangle it all. Start and finish e-discovery in one solution with best-in-class security, scale, and performance and extend the functionality of the platform to meet your unique needs by leaning on apps built by our ecosystem of Relativity developer partners or building them yourself.  \n\nWith the latest in advanced searching and analytics, machine learning, and visualizations all built in, RelativityOne Government is your complete platform for organizing data, discovering the truth, and acting on it. ",
+        "CSP_POC_Name": "Amanda Fennell",
+        "CSP_POC_Email": "security@relativity.com",
+        "FedRAMP_In-Process_Date": "2019-12-23T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
