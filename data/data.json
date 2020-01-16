@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-01-15T05:40:50.454Z",
+    "Created_At": "2020-01-16T05:40:52.696Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -9972,6 +9972,37 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Oracle",
+        "Cloud_Service_Provider_Package": "Fusion Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1603257882",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-10-16T04:00:00.000Z",
+        "Original_Expiration_Date": "2022-10-08T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Energy",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+        "Authorizing_Agency": "Department of Energy",
+        "Authorizing_Subagency": "Southwestern Power Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20Logo.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1508277234"
+        ],
+        "CSP_Website": "www.oracle.com",
+        "CSO_Description": "The Oracle Fusion Cloud (OFC) is Oracle’s Software as a Service (SaaS) suite of Fusion Applications providing comprehensive financial, human resources, project management, procurement, and project management services. Oracle Fusion Cloud is deployed onto a robust, secure infrastructure hosting Oracle’s Fusion Applications and Middleware software. The Oracle Fusion Cloud is offered as a hosted cloud solution (i.e., operated and maintained by Oracle within its secure hosting environment at co-location facilities in the United States) providing customers with a modern, efficient, and secure cloud solution via a proven Software as a Service (SaaS) delivery model. Customers can purchase some or all of the Fusion Applications and common application selections are grouped into Oracle Cloud Service offerings called the Oracle Supply Chain Management (SCM) Cloud, Oracle Enterprise Resource Planning (ERP) Cloud, Oracle Human Capital Management (HCM) Cloud, and Oracle Engagement Cloud. The Oracle Fusion Cloud is hosted within the Oracle Government Cloud, a community-cloud limited to federal, state, and local agencies as well as select universities and federal contractors with a demonstrated need for FedRAMP-certified services. Access to the Oracle Government Cloud is restricted to United States citizens located within the United States or territories.",
+        "Announcement_Date": "2020-01-13T05:00:00.000Z",
+        "CSP_POC_Name": "AJ Handy",
+        "CSP_POC_Email": "saas_fedramp_us_grp@oracle.com",
+        "FedRAMP_In-Process_Date": "2018-12-14T05:00:00.000Z",
+        "Agency_POC_email": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Accenture Federal Services",
         "Cloud_Service_Provider_Package": "Managed Detection and Response",
         "Path": "Agency",
@@ -10348,6 +10379,30 @@
         "CSP_POC_Name": "Chris Beckford",
         "CSP_POC_Email": "fedramp@udpaas.com",
         "FedRAMP_In-Process_Date": "2019-10-23T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Elastic",
+        "Cloud_Service_Provider_Package": "Elastic Cloud",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2004446306",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Homeland Security",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+        "Authorizing_Agency": "Department of Homeland Security",
+        "Authorizing_Subagency": "Customs and Border Protection",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Elastic%20Logo.jpg",
+        "Independent_Assessor": "Kratos SecureInfo",
+        "CSP_Website": "elastic.co",
+        "CSO_Description": "Elastic Cloud is our growing family of SaaS offerings that make it easy to deploy, operate, and scale Elastic products and solutions in the cloud. The Elasticsearch Service on Elastic Cloud provides Kibana, Elasticsearch as a managed service - accelerating your time to market, simplifying operations, and consumption-based billing. Our experts ensure that the Elasticsearch Service is the best way for government users to easily and securely deploy, operate, and scale Elastic Stack deployments in the cloud.  Only Elasticsearch Service on Elastic Cloud provides a single, integrated stack of solutions for logs, metrics, APM, and security analytics and features like machine learning, index lifecycle management, cross-cluster search, canvas, lens. ",
+        "CSP_POC_Name": "Elastic FedRAMP Team",
+        "CSP_POC_Email": "fedramp@elastic.co",
+        "FedRAMP_In-Process_Date": "2020-01-15T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -10811,33 +10866,6 @@
       },
       {
         "Cloud_Service_Provider_Name": "Oracle",
-        "Cloud_Service_Provider_Package": "Fusion Cloud",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "F1603257882",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2022-10-16T04:00:00.000Z",
-        "Original_Expiration_Date": "2022-10-08T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Energy",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-        "Authorizing_Agency": "Department of Energy",
-        "Authorizing_Subagency": "Southwestern Power Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20Logo.jpg",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.oracle.com",
-        "CSO_Description": "The Oracle Fusion Cloud (OFC) is Oracle’s Software as a Service (SaaS) suite of Fusion Applications providing comprehensive financial, human resources, project management, procurement, and project management services. Oracle Fusion Cloud is deployed onto a robust, secure infrastructure hosting Oracle’s Fusion Applications and Middleware software. The Oracle Fusion Cloud is offered as a hosted cloud solution (i.e., operated and maintained by Oracle within its secure hosting environment at co-location facilities in the United States) providing customers with a modern, efficient, and secure cloud solution via a proven Software as a Service (SaaS) delivery model. Customers can purchase some or all of the Fusion Applications and common application selections are grouped into Oracle Cloud Service offerings called the Oracle Supply Chain Management (SCM) Cloud, Oracle Enterprise Resource Planning (ERP) Cloud, Oracle Human Capital Management (HCM) Cloud, and Oracle Engagement Cloud. The Oracle Fusion Cloud is hosted within the Oracle Government Cloud, a community-cloud limited to federal, state, and local agencies as well as select universities and federal contractors with a demonstrated need for FedRAMP-certified services. Access to the Oracle Government Cloud is restricted to United States citizens located within the United States or territories.",
-        "CSP_POC_Name": "AJ Handy",
-        "CSP_POC_Email": "saas_fedramp_us_grp@oracle.com",
-        "FedRAMP_In-Process_Date": "2018-12-14T05:00:00.000Z",
-        "Agency_POC_email": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Oracle",
         "Cloud_Service_Provider_Package": "Oracle Cloud Infrastructure-Government Cloud - JAB",
         "Path": "JAB",
         "Designation": "FedRAMP Ready",
@@ -10948,6 +10976,7 @@
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-06-12T04:00:00.000Z",
         "Sponsoring_Agency": "Federal Communications Commission",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
         "Authorizing_Agency": "Federal Communications Commission",
@@ -10971,6 +11000,7 @@
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-06-12T04:00:00.000Z",
         "Sponsoring_Agency": "Federal Communications Commission",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
         "Authorizing_Agency": "Federal Communications Commission",
