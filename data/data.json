@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-01-21T05:40:50.357Z",
+    "Created_At": "2020-01-22T05:40:50.278Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -9361,6 +9361,63 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Proofpoint, Inc.",
+        "Cloud_Service_Provider_Package": "Proofpoint Email and Information Protection Service",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1720461312",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-06-12T04:00:00.000Z",
+        "Sponsoring_Agency": "Federal Communications Commission",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
+        "Authorizing_Agency": "Federal Communications Commission",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Proofpoint%20Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "Underlying_CSP_Package_ID": [
+          "F1304222071"
+        ],
+        "CSP_Website": "https://www.proofpoint.com",
+        "CSO_Description": "The Proofpoint Email and Information Protection Service is a powerful cloud email security service that integrates threat protection, virus protection, spam detection, message encryption, data loss prevention (DLP), and digital asset protection technologies into an extensible message management platform. The service is designed to fit easily into existing messaging infrastructure, providing efficient performance, accurate message analysis, and a web-based interface for reporting, configuration, and management tasks.",
+        "Announcement_Date": "2020-01-15T05:00:00.000Z",
+        "CSP_POC_Name": "Alexandra Rashdan",
+        "CSP_POC_Email": "fedramp@proofpoint.com",
+        "FedRAMP_In-Process_Date": "2018-10-31T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Proofpoint, Inc.",
+        "Cloud_Service_Provider_Package": "Proofpoint Targeted Attack Protection",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1819168894",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-06-12T04:00:00.000Z",
+        "Sponsoring_Agency": "Federal Communications Commission",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
+        "Authorizing_Agency": "Federal Communications Commission",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Proofpoint%20Logo.jpg",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1304222071"
+        ],
+        "CSP_Website": "https://www.proofpoint.com",
+        "CSO_Description": "Proofpoint Targeted Attack Protection (TAP) helps detect, mitigate, and block advanced threat that target people through email. It detects both known and new, never-before-seen attacks that use malicious attachments and URLs to install malware on a device or trick users to share their passwords or other sensitive information.",
+        "Announcement_Date": "2020-01-15T05:00:00.000Z",
+        "CSP_POC_Name": "Alexandra Rashdan",
+        "CSP_POC_Email": "fedramp@proofpoint.com",
+        "FedRAMP_In-Process_Date": "2018-04-27T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Replicon",
         "Cloud_Service_Provider_Package": "Replicon Cloud Platform",
         "Path": "Agency",
@@ -10160,7 +10217,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
         "Authorizing_Agency": "Federal Communications Commission",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Bizagi%20Logo.jpg",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Independent_Assessor": "Kratos SecureInfo",
         "CSP_Website": "www.bizagi.com",
         "CSO_Description": "Bizagi is a leading provider of digital process automation. We help customers transform their businesses faster by providing the most agile and powerful solution on the market.\rThis is backed up by the Bizagi cloud which comes with enterprise class security and scalability as standard. Ensuring every automation need is met no matter how complex or high in volume.\rOur commercial model delivers ultimate flexibility and choice to customers, only charging for what is used, and every project delivered utilizing our innovative SPARK framework, guaranteeing quick speed to value and strong ROI. This is why 40% of the Forbes Top 50 are using Bizagi today.\rBizagi Cloud for US Government provides all the power of the Bizagi Digital Business platform directly in the cloud, offering a high performing Platform-as-a-Service (PaaS).",
         "CSP_POC_Name": "Aamir Dehlavi",
@@ -10594,6 +10651,52 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Newyu, Inc.",
+        "Cloud_Service_Provider_Package": "LibreView for US Government",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2000174962",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Newyu%20Logo.jpg",
+        "Independent_Assessor": "Kratos SecureInfo",
+        "CSP_Website": "https://www.libreview.com",
+        "CSO_Description": "LibreView is intended for use by patients, caregivers and healthcare professionals to assist people with diabetes and their healthcare professionals in the review, analysis and evaluation of historical glucose meter data to support effective diabetes management. LibreView is developed, distributed, and supported by Newyu, Inc. (on behalf of Abbott, a major manufacturer of glucose monitoring devices). Trademarks are the property of their respective owners.",
+        "CSP_POC_Name": "Michael Helmick",
+        "CSP_POC_Email": "fedramp@newyu.com",
+        "FedRAMP_In-Process_Date": "2019-10-15T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Nintex",
+        "Cloud_Service_Provider_Package": "Nintex Drawloop DocGen",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2001462460",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Nintex%20Logo.jpg",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "CSP_Website": "www.nintex.com",
+        "CSO_Description": "Nintex Drawloop DocGen™ equips government organizations to generate precise and accurate documents. With just a few clicks users can instantly transform data from any standard or custom object in Salesforce into documents such as contracts, work orders, or recruitment documents. Nintex Drawloop DocGen allows users to create, manage and generate document packages in both Lightning or Classic, without losing the benefits of an easy-to-use and familiar user experience. Users can output data to a variety of endpoints and know their document data is secure and compliant throughout the process.\nMore information about Nintex Drawloop DocGen™ can be found at [https://www.nintex.com/docgen](https://www.nintex.com/docgen)",
+        "CSP_POC_Name": "Steve Witt",
+        "CSP_POC_Email": "sales@nintex.com",
+        "FedRAMP_In-Process_Date": "2019-10-15T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Lifeline Data Centers, LLC",
         "Cloud_Service_Provider_Package": "Lifeline Federal Hosting Services",
         "Designation": "FedRAMP Ready",
@@ -10757,52 +10860,6 @@
         "CSP_POC_Name": "Don Carnevale",
         "CSP_POC_Email": "growahead@neosystemscorp.com",
         "Fedramp_Ready_Date": "2019-12-05T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Newyu, Inc.",
-        "Cloud_Service_Provider_Package": "LibreView for US Government",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2000174962",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Veterans Affairs",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
-        "Authorizing_Agency": "Department of Veterans Affairs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Newyu%20Logo.jpg",
-        "Independent_Assessor": "Kratos SecureInfo",
-        "CSP_Website": "https://www.libreview.com",
-        "CSO_Description": "LibreView is intended for use by patients, caregivers and healthcare professionals to assist people with diabetes and their healthcare professionals in the review, analysis and evaluation of historical glucose meter data to support effective diabetes management. LibreView is developed, distributed, and supported by Newyu, Inc. (on behalf of Abbott, a major manufacturer of glucose monitoring devices). Trademarks are the property of their respective owners.",
-        "CSP_POC_Name": "Michael Helmick",
-        "CSP_POC_Email": "fedramp@newyu.com",
-        "FedRAMP_In-Process_Date": "2019-10-15T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Nintex",
-        "Cloud_Service_Provider_Package": "Nintex Drawloop DocGen",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2001462460",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Veterans Affairs",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
-        "Authorizing_Agency": "Department of Veterans Affairs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Nintex%20Logo.jpg",
-        "Independent_Assessor": "Lunarline, Inc.",
-        "CSP_Website": "www.nintex.com",
-        "CSO_Description": "Nintex Drawloop DocGen™ equips government organizations to generate precise and accurate documents. With just a few clicks users can instantly transform data from any standard or custom object in Salesforce into documents such as contracts, work orders, or recruitment documents. Nintex Drawloop DocGen allows users to create, manage and generate document packages in both Lightning or Classic, without losing the benefits of an easy-to-use and familiar user experience. Users can output data to a variety of endpoints and know their document data is secure and compliant throughout the process.\nMore information about Nintex Drawloop DocGen™ can be found at [https://www.nintex.com/docgen](https://www.nintex.com/docgen)",
-        "CSP_POC_Name": "Steve Witt",
-        "CSP_POC_Email": "sales@nintex.com",
-        "FedRAMP_In-Process_Date": "2019-10-15T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -10990,54 +11047,6 @@
         "CSP_POC_Name": "Lisa Nicholson",
         "CSP_POC_Email": "security@portlandlabs.com",
         "Fedramp_Ready_Date": "2019-08-30T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Proofpoint, Inc.",
-        "Cloud_Service_Provider_Package": "Proofpoint Email and Information Protection Service",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1720461312",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2019-06-12T04:00:00.000Z",
-        "Sponsoring_Agency": "Federal Communications Commission",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
-        "Authorizing_Agency": "Federal Communications Commission",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Proofpoint%20Logo.jpg",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "CSP_Website": "https://www.proofpoint.com",
-        "CSO_Description": "The Proofpoint Email and Information Protection Service is a powerful cloud email security service that integrates threat protection, virus protection, spam detection, message encryption, data loss prevention (DLP), and digital asset protection technologies into an extensible message management platform. The service is designed to fit easily into existing messaging infrastructure, providing efficient performance, accurate message analysis, and a web-based interface for reporting, configuration, and management tasks.",
-        "CSP_POC_Name": "Alexandra Rashdan",
-        "CSP_POC_Email": "fedramp@proofpoint.com",
-        "FedRAMP_In-Process_Date": "2018-10-31T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Proofpoint, Inc.",
-        "Cloud_Service_Provider_Package": "Proofpoint Targeted Attack Protection",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1819168894",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2019-06-12T04:00:00.000Z",
-        "Sponsoring_Agency": "Federal Communications Commission",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
-        "Authorizing_Agency": "Federal Communications Commission",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Proofpoint%20Logo.jpg",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "CSP_Website": "https://www.proofpoint.com",
-        "CSO_Description": "Proofpoint Targeted Attack Protection (TAP) helps detect, mitigate, and block advanced threat that target people through email. It detects both known and new, never-before-seen attacks that use malicious attachments and URLs to install malware on a device or trick users to share their passwords or other sensitive information.",
-        "CSP_POC_Name": "Alexandra Rashdan",
-        "CSP_POC_Email": "fedramp@proofpoint.com",
-        "FedRAMP_In-Process_Date": "2018-04-27T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
