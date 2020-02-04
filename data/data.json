@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-02-03T05:40:50.341Z",
+    "Created_At": "2020-02-04T05:40:50.623Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3363,15 +3363,6 @@
             "Authorizing_Agency": "Department of Homeland Security",
             "Authorizing_Subagency": "Transportation Security Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-10-03T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-11-28T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "1018-11-22T04:56:02.000Z",
-            "Authorizing_Agency": "Department of Transportation",
-            "Authorizing_Subagency": "Federal Highway Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -6903,16 +6894,7 @@
         "CSP_POC_Email": "fedramp@maximus.com",
         "Fedramp_Ready_Date": "2017-12-01T05:00:00.000Z",
         "FedRAMP_In-Process_Date": "2017-07-14T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Expiration_Date": "2020-01-16T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-07-16T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "United States Citizenship and Immigration Services",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "Innovest Systems, LLC",
@@ -11305,6 +11287,29 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "ServiceNow",
+        "Cloud_Service_Provider_Package": "ServiceNow Service Automation Government Cloud Suite - Mod",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "F1305072116A",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2016-02-07T05:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/ServiceNow%20Logo2.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.servicenow.com",
+        "CSO_Description": "The ServiceNow Service Automation Government Cloud Suite is a suite of natively integrated applications designed to support IT service automation, resource management and shared support services. ServiceNow is built on modern web technologies. The ServiceNow platform includes easy-to-use, point-and-click customization tools to help customers create solutions for unique business requirements. ServiceNow applications cover all Information Technology Infrastructure Library (ITIL) processes and are natively integrated on a single platform providing web intuitiveness and unprecedented process automation.\nThe ServiceNow Service Automation Government Cloud Suite uses Continental United States (CONUS)-based dedicated infrastructure (facilities, servers, databases, networking devices) to process, store, and transmit government information using a multi-instance architecture. This Government Community Cloud is available for use by United States Federal, State, Local, and Tribal Government with registered .gov or .mil domain addresses, Government Consultants, and Federally Funded Research and Development Centers (FFRDC).",
+        "Announcement_Date": "2016-02-17T05:00:00.000Z",
+        "CSP_POC_Name": "Carri Thompson",
+        "CSP_POC_Email": "carri.thompson@servicenow.com",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Sentinel Labs, Inc.",
         "Cloud_Service_Provider_Package": "SentinelOne Endpoint Protection Platform",
         "Path": "Agency",
@@ -11469,29 +11474,6 @@
         "CSP_POC_Name": "Jeff Estes",
         "CSP_POC_Email": "fedramp@softwareaggov.com",
         "FedRAMP_In-Process_Date": "2019-11-05T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Sorc'd",
-        "Cloud_Service_Provider_Package": "Sorc'd",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1906337984",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Li-SaaS",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Sorcd%20Logo.jpg",
-        "Independent_Assessor": "SecureIT",
-        "CSP_Website": "https://www.sorcd.com/gov-fedramp",
-        "CSO_Description": "Sorc’d is a cloud-hosted application whose purpose is to enhance a user’s existing research and writing processes with intuitive tools that seamlessly integrate with online research, and content creation software. Sorc’d provides users with a way to create more relevant content, efficiently develop inbound marketing tools, and benefit from collective insight. Users snip relative content from a source and save it to their Sorc’d account; categorizing or tagging the snippet to be recalled later. Snippets may also be added directly to a Microsoft Office application such as Word, Excel, or PowerPoint. Snippets from those same applications may also be extracted and added to a user’s Sorc’d account. The same is also possible within Google Docs and Sheets.",
-        "CSP_POC_Name": "Emily Girolamo",
-        "CSP_POC_Email": "fedramp@sorcd.com",
-        "FedRAMP_In-Process_Date": "2019-09-04T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
