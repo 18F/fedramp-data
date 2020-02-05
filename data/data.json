@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-02-05T17:32:57.602Z",
+    "Created_At": "2020-02-05T17:52:09.285Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -10938,25 +10938,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "OneLogin Inc.",
-        "Cloud_Service_Provider_Package": "OneLogin",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR1907156894",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/OneLogin%20Logo.jpg",
-        "Independent_Assessor": "Kratos SecureInfo",
-        "CSP_Website": "https://www.onelogin.com/solutions/federal-government",
-        "CSO_Description": "OneLogin is an identity access management solution that is accessible through any system that has Internet connectivity, including desktops, laptops, tablets, and smartphones. OneLogin provides a Single Sign-On (SSO) capability that allows users to sign in once to their local area network or the OneLogin application and gain one-click access to their web applications without having to enter a password again. OneLogin is pre-integrated with over 5,000 web applications for customer configuration and use.\nTo provide SSO, OneLogin is integrated with a customer’s Active Directory, LDAP, or other directory service in order to allow centralized authentication to multiple applications. OneLogin also supports SAML and OpenID to enable identity federation to web applications outside a customer’s corporate network. In addition, the service offers a software-based one-time password (OTP) multi-factor authentication (MFA) capability, which users can install on their mobile devices for use with any application. A Secure Notes feature enables users to securely store sensitive information encrypted.",
-        "CSP_POC_Name": "Samantha Cowan",
-        "CSP_POC_Email": "compliancemanager@onelogin.com",
-        "Fedramp_Ready_Date": "2019-01-28T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Opus Interactive",
         "Cloud_Service_Provider_Package": "OpusGov (OG)",
         "Designation": "FedRAMP Ready",
@@ -11709,13 +11690,17 @@
       {
         "Cloud_Service_Provider_Name": "WellHive Holdings, LLC",
         "Cloud_Service_Provider_Package": "WellHive",
-        "Designation": "FedRAMP Ready",
+        "Path": "Agency",
+        "Designation": "In Process",
         "Package_ID": "FR1825232355",
         "Service_Model": [
           "SaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/WellHive%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.wellhive.com",
@@ -11723,6 +11708,7 @@
         "CSP_POC_Name": "Christopher Reed",
         "CSP_POC_Email": "fedramp@wellhive.com",
         "Fedramp_Ready_Date": "2019-02-14T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2020-01-30T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
