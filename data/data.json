@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-02-05T05:40:50.214Z",
+    "Created_At": "2020-02-05T17:32:57.602Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -466,6 +466,13 @@
             "Include_In_Marketplace": "Y"
           },
           {
+            "Authorizing_Letter_Last_Sign_Date": "2018-10-10T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Transportation",
+            "Authorizing_Subagency": "Federal Aviation Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
             "Letter_Date": "2019-06-20T04:00:00.000Z",
             "Letter_Expiration_Date": "2020-06-25T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-06-25T04:00:00.000Z",
@@ -486,13 +493,6 @@
             "Authorizing_Letter_Last_Sign_Date": "2019-12-23T05:00:00.000Z",
             "Authorizing_Agency": "Federal Trade Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2019-10-24T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Transportation",
-            "Authorizing_Subagency": "Federal Aviation Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -4421,7 +4421,7 @@
         "CSP_Website": "https://www.adobe.com/creativecloud/business.html",
         "CSO_Description": "Adobe Creative Cloud for enterprise is a cloud-based offering which allows enterprise customers the ability to create and collaborate efficiently with connected desktop and mobile apps. The Creative Cloud for enterprise offering also includes options for flexible deployment, identity management including Federated ID with Single Sign-On, annual license true-ups, license management tools and enterprise-level customer support.",
         "Announcement_Date": "2018-05-14T04:00:00.000Z",
-        "CSP_POC_Name": "Rahat Sethi",
+        "CSP_POC_Name": "Brandon Griffeth",
         "CSP_POC_Email": "fedramp@adobe.com",
         "FedRAMP_In-Process_Date": "2018-04-23T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
@@ -4464,7 +4464,7 @@
         "CSP_Website": "https://acrobat.adobe.com",
         "CSO_Description": "Adobe Document Cloud is a complete portfolio of secure digital document solutions that speeds business and drives better customer experiences by making manual, paper-based processes 100% digital. Document Cloud includes PDF Services and Adobe Sign along with web and mobile apps that can be used standalone or integrated into your organizations’ existing document processes, business applications, or enterprise systems.",
         "Announcement_Date": "2018-05-14T04:00:00.000Z",
-        "CSP_POC_Name": "Rahat Sethi",
+        "CSP_POC_Name": "Brandon Griffeth",
         "CSP_POC_Email": "fedramp@adobe.com",
         "FedRAMP_In-Process_Date": "2018-04-23T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
@@ -8708,7 +8708,7 @@
         "CSP_Website": "https://www.adobe.com/marketing/campaign.html",
         "CSO_Description": "Adobe Campaign allows customers to configure, manage and customize email marketing campaigns. Adobe Campaign also enables reporting to gauge the effectiveness of marketing campaigns. Adobe Campaign runs as a customizable Managed Service solution on AWS US East. In Adobe Campaign Managed Services, Adobe, Inc. is the data custodian while the customer is the data owner of the custom environment.",
         "Announcement_Date": "2019-09-03T04:00:00.000Z",
-        "CSP_POC_Name": "Rahat Sethi",
+        "CSP_POC_Name": "Brandon Griffeth",
         "CSP_POC_Email": "fedramp@adobe.com",
         "FedRAMP_In-Process_Date": "2019-02-04T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
@@ -8875,7 +8875,7 @@
         "CSP_Website": "www.adobe.com/analytics/adobe-analytics.html",
         "CSO_Description": "Adobe Analytics ingests targeted website traffic and executes robust reporting and analytics based on customizable configurations. An array of functionality is available including custom dashboards, ad-hoc analytics, Microsoft Excel integration, bulk data import, data enrichment, tag management and data integrations between Adobe and select partners. Data can be exported for external purposes or integrated with other Adobe products to enrich existing datasets.",
         "Announcement_Date": "2019-09-18T04:00:00.000Z",
-        "CSP_POC_Name": "Rahat Sethi",
+        "CSP_POC_Name": "Brandon Griffeth",
         "CSP_POC_Email": "fedramp@adobe.com",
         "FedRAMP_In-Process_Date": "2018-06-20T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
@@ -9106,7 +9106,7 @@
         "CSP_Website": "www.adobe.com",
         "CSO_Description": "Adobe Captivate Prime is a cloud hosted Learning Management System that allows enterprise Learning and Development teams to drive personalized learning experiences for the employees and partners of their organization, across multiple devices.",
         "Announcement_Date": "2019-10-11T04:00:00.000Z",
-        "CSP_POC_Name": "Rahat Sethi",
+        "CSP_POC_Name": "Brandon Griffeth",
         "CSP_POC_Email": "fedramp@adobe.com",
         "FedRAMP_In-Process_Date": "2019-05-21T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
@@ -10096,7 +10096,7 @@
         "Cloud_Service_Provider_Name": "Accenture Federal Services",
         "Cloud_Service_Provider_Package": "Managed Detection and Response",
         "Path": "Agency",
-        "Designation": "Compliant",
+        "Designation": "In Process",
         "Package_ID": "FR1834336116",
         "Service_Model": [
           "SaaS"
@@ -10109,46 +10109,11 @@
         "Authorizing_Agency": "National Gallery of Art",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Accenture%20Logo2.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW. F1512167750",
-          "F1508207205"
-        ],
         "CSP_Website": "https://www.accenture.com/us-en/service-safeguard-secure",
         "CSO_Description": "Defense Point Security (DPS) Managed Detection and Response (MDR) service is a proactive security platform designed for Federal agencies and customers. This scalable threat monitoring service enables all Continental United States (CONUS) government entities trusted and reliable cyber defense at a fraction of the cost of traditional 24/7 in-house incident response programs. MDR provides security monitoring using real-time threat intel and Security Orchestration, Automation and Response (SOAR) capabilities to decrease the mean time to resolution on all security incidents. MDR is built in the cloud to provide maximum availability and scalability.",
-        "Announcement_Date": "2020-01-28T05:00:00.000Z",
         "CSP_POC_Name": "David Dalling",
         "CSP_POC_Email": "MDR@accenturefederal.com",
         "FedRAMP_In-Process_Date": "2018-12-10T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Relocation Management Worldwide (RMW)",
-        "Cloud_Service_Provider_Package": "Virtual Employee Relocation Network (VERN™)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1815547467",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2019-12-16T05:00:00.000Z",
-        "Original_Expiration_Date": "2024-12-16T05:00:00.000Z",
-        "Sponsoring_Agency": "Department of the Interior",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-        "Authorizing_Agency": "Department of the Interior",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/RMW%20Logo.jpg",
-        "Independent_Assessor": "Lunarline, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "FR1820435961",
-          "F1403283529"
-        ],
-        "CSP_Website": "https://www.relocationmw.com",
-        "CSO_Description": "Formed in 2002 for the government to be compliant with the FEAFA (Federal Enterprise Architecture Framework Act), the RMW Virtual Employee Relocation Network (VERN) system utilizes the most advanced relocation technology in the relocation industry. VERN is a modular, flexible, stable, and highly secure system that supports all critical relocation functions and end-to-end PCS (Permanent Change of Station} software from obligation, de-obligation to financial system interfaces. RMW continues to develop technology tools based on anticipated client needs and customer input in addition to changes in legislation (i.e.2017 tax cuts and jobs act). RMW IT professionals have built intuitive solutions into a fully comprehensive web-based platform.\nUsers have 24/7 access to the system, which is scalable to meet an Agency's information needs. The user friendly PCS Travel Voucher submissions are initiated by the employee via VERN through an automated work flow controlled by the Agency. VERN provides greater flexibility, capability, and protection of sensitive employee data than other systems.\n* Fully automates expenses, policy, and suppliers so teams can focus on what is most important, \"the Agency's mission\".\n* Fully automates all Federal regulations and laws pertaining to employee relocation.\n* New appointees, retirees, and transferees can access, enter, and submit PCS expenses, all while the Agency reviews or rejects, approves, certifies, and runs real-time reports.\n* Real-time information directly from suppliers with work-flows that ensure data integrity for much faster processing of data, documents, vouchers, and invoices, all with complete transparency.\n* Integration of Agency's specific documents completed by transferees with PIV card (Personal Identity Verification smart card) authentication of a digital signature.\n* All aspects of the system are digital and accomplished online by Agency staff and relocating employees. VERN™ assists Agencies on complying with the Paper Reduction Act and Green Initiatives.",
-        "Announcement_Date": "2020-01-31T05:00:00.000Z",
-        "CSP_POC_Name": "Bob Burke",
-        "CSP_POC_Email": "fedramp@relocationmw.com",
-        "FedRAMP_In-Process_Date": "2018-12-03T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -10781,15 +10746,13 @@
         "Cloud_Service_Provider_Name": "Lookout, Inc.",
         "Cloud_Service_Provider_Package": "Lookout Mobile Endpoint Security",
         "Path": "JAB",
-        "Designation": "In Process",
+        "Designation": "FedRAMP Ready",
         "Package_ID": "F1603297883",
         "Service_Model": [
           "SaaS"
         ],
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "JAB Authorization",
-        "Authorizing_Agency": "JAB Authorization",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Lookout%20Logo.jpg",
         "Independent_Assessor": "EmeSec Incorporated",
         "CSP_Website": "www.lookout.com/gov",
@@ -10797,7 +10760,6 @@
         "CSP_POC_Name": "Tim LeMaster",
         "CSP_POC_Email": "fedramp@lookout.com",
         "Fedramp_Ready_Date": "2019-07-02T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2020-01-31T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -10973,6 +10935,25 @@
         "CSP_POC_Name": "Anthony Fisic",
         "CSP_POC_Email": "fedramp@oclc.org",
         "FedRAMP_In-Process_Date": "2020-01-28T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "OneLogin Inc.",
+        "Cloud_Service_Provider_Package": "OneLogin",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR1907156894",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/OneLogin%20Logo.jpg",
+        "Independent_Assessor": "Kratos SecureInfo",
+        "CSP_Website": "https://www.onelogin.com/solutions/federal-government",
+        "CSO_Description": "OneLogin is an identity access management solution that is accessible through any system that has Internet connectivity, including desktops, laptops, tablets, and smartphones. OneLogin provides a Single Sign-On (SSO) capability that allows users to sign in once to their local area network or the OneLogin application and gain one-click access to their web applications without having to enter a password again. OneLogin is pre-integrated with over 5,000 web applications for customer configuration and use.\nTo provide SSO, OneLogin is integrated with a customer’s Active Directory, LDAP, or other directory service in order to allow centralized authentication to multiple applications. OneLogin also supports SAML and OpenID to enable identity federation to web applications outside a customer’s corporate network. In addition, the service offers a software-based one-time password (OTP) multi-factor authentication (MFA) capability, which users can install on their mobile devices for use with any application. A Secure Notes feature enables users to securely store sensitive information encrypted.",
+        "CSP_POC_Name": "Samantha Cowan",
+        "CSP_POC_Email": "compliancemanager@onelogin.com",
+        "Fedramp_Ready_Date": "2019-01-28T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -11237,6 +11218,29 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Relocation Management Worldwide (RMW)",
+        "Cloud_Service_Provider_Package": "Virtual Employee Relocation Network (VERN™)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1815547467",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of the Interior",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+        "Authorizing_Agency": "Department of the Interior",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/RMW%20Logo.jpg",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "CSP_Website": "https://www.relocationmw.com",
+        "CSO_Description": "Formed in 2002 for the government to be compliant with the FEAFA (Federal Enterprise Architecture Framework Act), the RMW Virtual Employee Relocation Network (VERN) system utilizes the most advanced relocation technology in the relocation industry. VERN is a modular, flexible, stable, and highly secure system that supports all critical relocation functions and end-to-end PCS (Permanent Change of Station} software from obligation, de-obligation to financial system interfaces. RMW continues to develop technology tools based on anticipated client needs and customer input in addition to changes in legislation (i.e.2017 tax cuts and jobs act). RMW IT professionals have built intuitive solutions into a fully comprehensive web-based platform.\nUsers have 24/7 access to the system, which is scalable to meet an Agency's information needs. The user friendly PCS Travel Voucher submissions are initiated by the employee via VERN through an automated work flow controlled by the Agency. VERN provides greater flexibility, capability, and protection of sensitive employee data than other systems.\n* Fully automates expenses, policy, and suppliers so teams can focus on what is most important, \"the Agency's mission\".\n* Fully automates all Federal regulations and laws pertaining to employee relocation.\n* New appointees, retirees, and transferees can access, enter, and submit PCS expenses, all while the Agency reviews or rejects, approves, certifies, and runs real-time reports.\n* Real-time information directly from suppliers with work-flows that ensure data integrity for much faster processing of data, documents, vouchers, and invoices, all with complete transparency.\n* Integration of Agency's specific documents completed by transferees with PIV card (Personal Identity Verification smart card) authentication of a digital signature.\n* All aspects of the system are digital and accomplished online by Agency staff and relocating employees. VERN™ assists Agencies on complying with the Paper Reduction Act and Green Initiatives.",
+        "CSP_POC_Name": "Bob Burke",
+        "CSP_POC_Email": "fedramp@relocationmw.com",
+        "FedRAMP_In-Process_Date": "2018-12-03T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Rescale",
         "Cloud_Service_Provider_Package": "Rescale ScaleX Government",
         "Path": "Agency",
@@ -11432,7 +11436,7 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Government Community Cloud",
+        "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
         "Sponsoring_Agency": "Department of Health and Human Services",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
@@ -11705,17 +11709,13 @@
       {
         "Cloud_Service_Provider_Name": "WellHive Holdings, LLC",
         "Cloud_Service_Provider_Package": "WellHive",
-        "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "FedRAMP Ready",
         "Package_ID": "FR1825232355",
         "Service_Model": [
           "SaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Veterans Affairs",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
-        "Authorizing_Agency": "Department of Veterans Affairs",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/WellHive%20Logo.jpg",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.wellhive.com",
@@ -11723,7 +11723,6 @@
         "CSP_POC_Name": "Christopher Reed",
         "CSP_POC_Email": "fedramp@wellhive.com",
         "Fedramp_Ready_Date": "2019-02-14T05:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2020-01-30T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
