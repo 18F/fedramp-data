@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-02-05T20:15:53.052Z",
+    "Created_At": "2020-02-06T05:40:50.637Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -9708,6 +9708,15 @@
             "Authorizing_Agency": "Department of Education",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-01-31T05:00:00.000Z",
+            "Letter_Expiration_Date": "2022-12-18T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-01-31T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Authorizing_Subagency": "Office of Natural Resources Revenue",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -11307,6 +11316,30 @@
         "CSP_POC_Name": "N/A",
         "CSP_POC_Email": "fedramp@salesforce.com",
         "Fedramp_Ready_Date": "2019-11-08T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "ServiceNow",
+        "Cloud_Service_Provider_Package": "ServiceNow Service Automation Government Cloud Suite - Mod",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "F1305072116A",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2016-02-17T05:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/ServiceNow%20Logo2.jpg",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.servicenow.com",
+        "CSO_Description": "The ServiceNow Service Automation Government Cloud Suite is a suite of natively integrated applications designed to support IT service automation, resource management and shared support services. ServiceNow is built on modern web technologies. The ServiceNow platform includes easy-to-use, point-and-click customization tools to help customers create solutions for unique business requirements. ServiceNow applications cover all Information Technology Infrastructure Library (ITIL) processes and are natively integrated on a single platform providing web intuitiveness and unprecedented process automation.\nThe ServiceNow Service Automation Government Cloud Suite uses Continental United States (CONUS)-based dedicated infrastructure (facilities, servers, databases, networking devices) to process, store, and transmit government information using a multi-instance architecture. This Government Community Cloud is available for use by United States Federal, State, Local, and Tribal Government with registered .gov or .mil domain addresses, Government Consultants, and Federally Funded Research and Development Centers (FFRDC).",
+        "Announcement_Date": "2016-02-17T05:00:00.000Z",
+        "CSP_POC_Name": "Carri Thompson",
+        "CSP_POC_Email": "carri.thompson@servicenow.com",
+        "FedRAMP_In-Process_Date": "2014-04-07T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
