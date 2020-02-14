@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-02-13T05:40:50.091Z",
+    "Created_At": "2020-02-14T05:40:50.261Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3147,7 +3147,7 @@
         "Sponsoring_Agency": "Department of Health and Human Services",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
         "Authorizing_Agency": "Department of Health and Human Services",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Salesforce%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Salesforce%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.salesforce.com/industries/public-sector",
         "CSO_Description": "Salesforce Government Cloud is a partitioned instance of Salesforce’s industry-leading Platform-as-a-Service (PaaS) and Software-as-a-Service (SaaS), multi-tenant community cloud infrastructure specifically for use by U.S. federal, state, and local government customers, U.S. government contractors, and Federally Funded Research and Development Centers (FFRDCs). Salesforce Government Cloud is comprised of the following Salesforce services: Lightning Platform, Sales, Service, Communities, Analytics, and Industry Solutions. A list of current in-scope Salesforce products included in the authorization boundary is available at [https://help.salesforce.com/articleView?id=000270080&language=en_US&type=1](https://help.salesforce.com/articleView?id=000270080&language=en_US&type=1)\nAdditional information is available at: [http://pages.mail.salesforce.com/gettingstarted/government-cloud/](http://pages.mail.salesforce.com/gettingstarted/government-cloud/)",
@@ -4104,7 +4104,7 @@
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2018-02-12T05:00:00.000Z",
-        "Sponsoring_Agency": "General Services Administration",
+        "Sponsoring_Agency": "Department of Health and Human Services",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
         "Authorizing_Agency": "Department of Health and Human Services",
         "Authorizing_Subagency": "Food and Drug Administration",
@@ -4120,7 +4120,14 @@
         "CSP_POC_Email": "fedramp@ideascale.com",
         "Fedramp_Ready_Date": "2017-07-13T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2017-07-25T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2020-02-13T05:00:00.000Z",
+            "Authorizing_Agency": "Nuclear Regulatory Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Accellion",
@@ -5428,7 +5435,7 @@
         "Sponsoring_Agency": "Federal Communications Commission",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
         "Authorizing_Agency": "Federal Communications Commission",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Zscaler%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Zscaler%20Logo.png",
         "Independent_Assessor": "Schellman & Company, LLC",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW",
@@ -6402,7 +6409,7 @@
         "Sponsoring_Agency": "Federal Communications Commission",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
         "Authorizing_Agency": "Federal Communications Commission",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Zscaler%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Zscaler%20Logo.png",
         "Independent_Assessor": "Schellman & Company, LLC",
         "Underlying_CSP_Package_ID": [
           "F1603047866",
@@ -6442,7 +6449,7 @@
         "Sponsoring_Agency": "Department of Defense",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
         "Authorizing_Agency": "Department of Commerce",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/ORock%20Technologies%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/ORock%20Technologies%20Logo.png",
         "Independent_Assessor": "Schellman & Company, LLC",
         "CSP_Website": "http://orocktech.com",
         "CSO_Description": "ORockCloud is the first and only Red Hat® OpenStack-based cloud to achieve a FedRAMP Moderate authorization for IaaS and PaaS. This secure, open source cloud provides a highly scalable, bi-coastal environment with elastic, on-demand access to computing, storage, virtualization, networking, performance monitoring, and applications in ORock’s service catalog.\nAs a Red Hat Premier Certified Cloud and Service Provider (CCSP), ORock Technologies architected ORockCloud as a “pure-play” Red Hat cloud and incorporated a full suite of open source solutions for enhanced flexibility, interoperability, security, and control. The Red Hat Cloud Suite includes: Red Hat Enterprise Linux; Red Hat OpenStack Platform; Red Hat OpenShift, Red Hat Virtualization; Red Hat Ceph Storage; Red Hat CloudForms; Red Hat Ansible Tower; Red Hat Satellite; and all associated cloud APIs.\nORockCloud utilizes ORock’s private, carrier-grade, fiber optic backbone network with dedicated connectivity between all points of presence and no upstream CSP to maximize security, autonomy, and performance. Managed services are provided entirely by U.S. citizens in a U.S.-based NOC and SOC.\nORock Technologies is a small business cloud service provider (CSP) serving enterprise customers in defense, government, and highly regulated industries. ORock’s secure IaaS and cloud solutions enable a range of hosting, migration, backup/recovery, connectivity, and mobility initiatives while supporting FedRAMP authorization and lowering total cost of ownership for government and commercial enterprises.\nAdditional information is available at [http://orocktech.com](http://orocktech.com).",
@@ -7202,13 +7209,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2016-10-28T04:00:00.000Z",
-            "Letter_Expiration_Date": "2019-10-28T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Transportation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2017-03-31T04:00:00.000Z",
             "Authorizing_Agency": "National Science Foundation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
@@ -7375,6 +7375,13 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "United States Patent and Trademark Office",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-02-11T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-02-11T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Transportation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -8737,7 +8744,14 @@
         "CSP_POC_Name": "Ellen Amsel",
         "CSP_POC_Email": "Ellen.Amsel@exlibrisgroup.com",
         "FedRAMP_In-Process_Date": "2018-06-27T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2020-02-13T05:00:00.000Z",
+            "Authorizing_Agency": "Nuclear Regulatory Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Box Inc.",
@@ -9877,6 +9891,14 @@
             "Authorizing_Subagency": "Food and Drug Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2021-11-28T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-11-29T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "United States Air Force",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -10149,7 +10171,7 @@
           "SaaS"
         ],
         "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Low",
+        "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2020-01-17T05:00:00.000Z",
         "Sponsoring_Agency": "Department of Agriculture",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
@@ -10250,7 +10272,7 @@
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Axway%20Syncplicity%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Axway%20Syncplicity%20Logo.png",
         "Independent_Assessor": "Schellman & Company, LLC",
         "CSP_Website": "https://www.syncplicity.com/",
         "CSO_Description": "Syncplicity by Axway (AMPLIFY Content Collaboration) is a secure, enterprise-grade file synchronization, sharing and collaboration platform that helps companies build a digital workplace that integrates with their digital business. It provides enterprises and organizations of all sizes and their users with access to all of their files across all of their devices and provides a secure way to share content and improve collaboration across teams and organizations internally and externally while the business maintains heightened security, compliance and audit over their data.",
@@ -10340,7 +10362,7 @@
         ],
         "Deployment_Model": "Hybrid Cloud",
         "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Brightwork%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Brightwork%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.projecthosts.com",
         "CSO_Description": "BrightWork is the most flexible project management solution with best-practice templates and portfolio management dashboards on SharePoint. BrightWork guarantees greater simplicity for project managers, better visibility for senior executives, and the ability to deliver better and more consistent organizational project management.\nThe BrightWork solution is built around a framework that helps organizations implement collaborative project management. The BrightWork philosophy can be summarized as “Start, Evolve”. This approach to project management makes it easy for organizations to get started quickly with project management, delivering immediate visibility and control, with the flexibility to mature their project management practices as the needs of a project or team change.\nWith BrightWork, you can:\n**Track portfolios with reporting dashboards**\nPortfolio dashboards in BrightWork give you the visibility into project statuses, resource allocation and new project requests to successfully manage portfolios of projects.\n**Manage successful projects with intuitive project management templates**\nThe range of best-practice project management templates in BrightWork lets you get a project up and running very quickly, with the tools to track, manage and deliver better projects.\n**Collaborate efficiently with your team and deliver results**\nBrightWork project sites bring all project information together in one place and provide a simple work management system to manage tasks and track work.\n**Improve your project management practices**\nWith the BrightWork template management system, it is easy to capture, reuse and deploy new processes to support the continuous improvement of organizational project management.\nThe BrightWork [FedRAMP Project Office JumpStart](https://www.brightwork.com/get-started/fedramp-jumpstart) provided by Project Hosts enables their U.S. Federal and State Agency customers to accelerate the successful deployment of project and portfolio management in a secure and dedicated SharePoint environment.",
@@ -10451,7 +10473,7 @@
         ],
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CloudCheckr%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CloudCheckr%20Logo.png",
         "Independent_Assessor": "Kratos SecureInfo",
         "CSP_Website": "https://cloudcheckr.com/fedramp",
         "CSO_Description": "CloudCheckr FedRAMP is a cloud management platform that makes the most complex cloud infrastructures easy to manage by delivering total visibility to your deployment.\n\r\nCustomers depend on CloudCheckr to secure, manage, and govern the most sensitive environments in the world—from government agencies to highly-regulated large enterprises and MSPs—with immediate results.\n\nCloudCheckr’s industry-leading solutions manage multiple cloud budgets concurrently while assisting agencies and MSPs to govern, secure, and maintain compliance of cloud resources using automation and industry best practices.",
@@ -10494,7 +10516,7 @@
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "High",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Cyxtera%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Cyxtera%20Logo.png",
         "Independent_Assessor": "Schellman & Company, LLC",
         "CSP_Website": "www.cyxtera.com",
         "CSO_Description": "The CXD Federal Edition IaaS is a software-defined architecture that combines software-defined network fabric and an on-demand service provisioning system to provide customers the capability to procure and consume data center services.",
@@ -10536,7 +10558,7 @@
         ],
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/DXC%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/DXC%20Logo.png",
         "Independent_Assessor": "Kratos SecureInfo",
         "CSP_Website": "https://www.dxc.technology/analytics",
         "CSO_Description": "The DXC Analytics Platform is a software-defined architecture that combines the gold standard security and compliance controls authorized by FedRAMP.gov with best-of-breed tooling to provide Analytics Platform as a Service (PaaS). The main PaaS components are:\n* Batch, event and API driven data pipeline/workflow engine\n* Master Person Indexing matching engine\n* High-speed analytics databases: Relational, and NOSQL\n* Unstructured data processing and repository engine\n* An advanced analytics workbench\n* An advanced data visualization platform\n* Easy to use self-service analytics abstraction layer",
@@ -10555,7 +10577,7 @@
         ],
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/eBuilder%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/eBuilder%20Logo.png",
         "Independent_Assessor": "The Cadence Group",
         "CSP_Website": "www.e-builder.net",
         "CSO_Description": "e-Builder is a cloud-based, construction program management solution for capital projects that delivers trusted insight into performance across the entire project lifecycle. Facility owners improve project outcomes by streamlining business processes and centralizing project information. Business intelligence provides on-demand forecasts for informed decisions, improved change control and fewer unwanted surprises.\nDesigned to help facility owners, and those who act on their behalf, throughout the entire construction lifecycle, e-Builder Enterprise combines capital planning, cost management and controls, process automation, reports and dashboards, scheduling, document management, resource management and bid management in one integrated suite.\nEstablished in 1995, e-Builder’s software is used to manage key project data through the planning, design, procurement, and construction phases. With a focus on collaborative communication, e-Builder features modules that offer various levels of user accessibility, report generation and a configurable dashboard.",
@@ -10740,7 +10762,7 @@
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "High",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/FedHIVE%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/FedHIVE%20Logo.png",
         "Independent_Assessor": "Lunarline, Inc.",
         "CSP_Website": "www.fedhive.com",
         "CSO_Description": "FedHIVE provides a Federal High Impact Virtualized Environment provision within a physical and logical boundary designed to provide Federal clients an Infrastructure as a Service (IaaS) / Platform as a Service (PaaS) solution that meets or exceeds the FIPS PUB 199 System Security Level of High (sensitive but unclassified information) security controls in which to implement organizational Software as a Service (SaaS) applications. The FedHIVE secure cloud service provides agencies a compliant, scalable, and secure infrastructure capability enabling and supporting platforms or software required for their business or mission success. FedHIVE implements over 420 High Baseline security controls within the boundary to support Federal cloud services requirements for protecting CUI and PII per agency application level ATO security requirements and is currently providing service to multiple Government Agencies (including DoD and TSA) and supporting vendor customers.",
@@ -10828,7 +10850,7 @@
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MC%20Dean%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MC%20Dean%20Logo.png",
         "Independent_Assessor": "Kratos SecureInfo",
         "CSP_Website": "https://www.mcdean.com/imms/",
         "CSO_Description": "IMMS is a robust lifecycle management and critical process automation platform. Developed by building systems experts who design, implement, operate and maintain complex, mission-critical facilities, IMMS streamlines management across your systems' lifecycle. IMMS supports configuration baselines, issues management, preventive maintenance, installation management, materials inventory, and reporting for a comprehensive assessment of your building systems.",
@@ -10917,7 +10939,7 @@
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Modus%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Modus%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.discovermodus.com",
         "CSO_Description": "Discovering data is only the tip of the iceberg. What really matters is the intelligence you gain from the data you retain. Modus provides a full suite of eDiscovery services to help government agencies plan, discover, interpret, manage and leverage raw data into Discovery Intelligence to help optimize their legal enterprise. Modus eDiscovery services span the entire EDRM, providing government agencies with hands-on expertise in all areas vital to their businesses.\n* eDiscovery Reporting\n* Data Collection and Forensics\n* eDiscovery Processing\n* Early Case Assessment\n* Hosting Options\n* eDiscovery Production\nModus is partners with Venio Systems and can offer our clients the VenioOne unified eDiscovery software platform. Venio One offers a powerful and scalable solution providing users the ability to process, analyze, review and produce with increased efficiency.\nVenioOne allows us to bring all phases of eDiscovery—from processing through production—under one platform. We can make the workflow as streamlined and productive as possible while leveraging VenioOne’s complete unified system, user-friendly interface and its fast and powerful data processing engine.\n**Data Governance**\nModus has the resources and technologies to provide a single-source data management service bringing order to data chaos. We know the individual components of data management aren’t used in isolation, so we take a holistic approach to managing your data. Modus solutions keep your data secure, healthy, and agile – exposing reliable data sets that empower you to make intelligent business decisions.\n**Artifical Intelligence (AI) in eDiscovery**\nModus is partnering with the most powerful AI providers in the industry to enable these powerful analytics tools for the eDiscovery environment. Government Agencies interested in this technology can utilize their relationship with Modus to pursue these powerful tools in your eDiscovery objectives.\n**Discovery Production**\nAs electronically stored information has become more diverse and voluminous, the specificity and complexity of production formats has similarly increased. Today, productions may be required in a variety of formats, including native, PDF, and TIFF, with or without intricate load files, extracted text, and other features. Conforming, precisely and consistently, to mandated production specifications is an essential component of eDiscovery success.\nModus’ production services include:\n* Native Production\n* PDF Production\n* TIFF Production\n* Hybrid Production\n* Custom Load File Creation\n* Slipsheet/Placeholder Generation\n* Endorsements and Bates Numbering\n**Data Collection and Forensics**\nThe collection of potentially relevant materials – whether physically or electronically stored – is a critical early step in the eDiscovery process. Successful execution of a collection requires the maintenance of both forensic soundness and the chain of custody from source to production, as well as the tools and experience to collect from today’s ever-multiplying range of sources. Modus’ collection services include: * Evidence Identification\n* Data Harvesting & Forensic Collection\n* Forensic Imaging\n* Live & Targeted Data Acquisitions\n* Preservation\n* Analysis\n**eDiscovery Processing**\nTo facilitate hosted review and production, all collected electronically stored information must be processed. Such materials can come in hundreds of different formats, with different properties, different metadata, and potentially, different nested content. Processing finds and expands nested content, captures and organizes metadata, and extracts and normalizes text for review and production. Modus processing services enable you to use our hosted review platform or your own. We’ve built processing templates for all of the leading ECA and review tools to ensure you get pristine loads and fast, accurate and consistent processing no matter which downstream tools you are using. And, we can quickly customize or build a new template to meet your requirements. Processing Types Including:\n* Native File\n* Full TIFF\n* Email\n* Others\nProcessing Services:\n* Analytical Reporting\n* File Type Analysis\n* De-NISTing\n* Date Filtering\n* File Type/Categorized Filtering/ StellentID\n* Standard and Search-Based Processing\n* Metadata Extraction\n* De-Duplication (Custodial or Global)\n* Near-Duplicate Identification and Handling\n* Email Threading\n* Foreign Language Identification (with Percentages and Rankings)",
@@ -10936,7 +10958,7 @@
         ],
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/NeoSystems%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/NeoSystems%20Logo.png",
         "Independent_Assessor": "EmeSec Incorporated",
         "CSP_Website": "www.neosystems.cloud",
         "CSO_Description": "NeoSystems.Cloud is a community cloud built and designed specifically for the Government Contracting community, offering FedRAMP Ready FISMA Moderate compliance exceeding the requirements for protecting Controlled Unclassified Information (CUI) and Controlled Defense Information (CDI). The offering consists of various managed services for secure multi-tenant hosting at a Platform (PaaS) or Infrastructure (IaaS) level. With the PaaS model, NeoSystems provides end-to-end management of hardened infrastructure (VMware Software Defined Data Center), operating systems (Microsoft Windows and various Linux variants), and databases (Oracle Database Server and Microsoft SQL Server). On top of the PaaS, we offer a managed hosting service for commercial applications from numerous software vendors including Deltek, IBM Cognos, Integrify, Hyland Onbase and others that are Government Contractor-focused.\nCommercial SaaS providers can avoid costly certification of their entire commercial offering by leveraging the NeoSystems.Cloud PaaS to deploy their software and quicken their path to a FedRAMP SaaS authorization.",
@@ -11003,7 +11025,7 @@
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Opus%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Opus%20Logo.png",
         "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
         "CSP_Website": "https://www.opusinteractive.com/",
         "CSO_Description": "OpusGov (OG) is a Platform-as-a-Service (PaaS) and Infrastructure-as-a-Service (IaaS) compliance cloud service offering (CSO) that allows agencies to modernize and deliver optimization, performance, and cost savings for mission critical workloads.\nBased on proven cloud architecture utilized by Opus’ commercial customers since 2005, OpusGov is a custom environment that delivers. Agencies can deploy mission critical applications and workloads where they need with secure infrastructure on ENERGY STAR equipment deployed in FISMA High rated datacenters.\nMore information can be found at https [://www.opusinteractive.com/government/](://www.opusinteractive.com/government/]",
@@ -11049,7 +11071,7 @@
         "Impact_Level": "High",
         "Sponsoring_Agency": "JAB Authorization",
         "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20CI%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20CI%20Logo.png",
         "Independent_Assessor": "Schellman & Company, LLC",
         "CSP_Website": "https://cloud.oracle.com",
         "CSO_Description": "Oracle Cloud Infrastructure's government regions provide public sector entities with best-in-class security and industry leading price-performance. With a deep understanding of the needs of the public sector built on decades of experience, Oracle enables government entities to move their most challenging workloads to the cloud, achieving significant benefits and return on investment. After moving to the cloud, agencies can use Oracle development tools to enhance existing applications while creating and integrating new cloud-native applications. With Oracle Cloud Infrastructure, public sector entities can bring their past and build their future.",
@@ -11068,7 +11090,7 @@
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "High",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/ORock%20Technologies%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/ORock%20Technologies%20Logo.png",
         "Independent_Assessor": "Schellman & Company, LLC",
         "CSP_Website": "http://orocktech.com",
         "CSO_Description": "ORock HighCloud is an enterprise-grade open source cloud environment built specifically to meet the data security needs of U.S. Federal Government agencies. This Government-Only Community Cloud implements more than 421 High Baseline security controls to support Federal cloud services requirements for Infrastructure as a Service (IaaS) and Platform as a Service (PaaS). It provides secure, compliant, scalable access to computing, storage, virtualization, networking, and performance monitoring resources.\rArchitected to meet the most stringent requirements for security, performance, cost predictability, and control, ORock HighCloud utilizes ORock’s private, carrier-grade fiber optic backbone network with dedicated connectivity between all points of presence and no upstream cloud service provider (CSP). Additional security features include ORock’s use of Red Hat Security Enhanced Linux, FIPS 140-2 encryption, and SOC 2 Type II data centers. Managed services are provided entirely by U.S. citizens in ORock’s U.S.-based Network Operations Center (NOC) and Security Operations Center (SOC).\rAs a Red Hat Premier Certified Cloud and Service Provider (CCSP), ORock Technologies architected ORock HighCloud as a “pure-play” Red Hat cloud and incorporated a full suite of open source solutions for enhanced flexibility, interoperability, security, and control. The Red Hat Cloud Suite includes: Red Hat Enterprise Linux; Red Hat OpenStack Platform; Red Hat OpenShift, Red Hat Virtualization; Red Hat Ceph Storage; Red Hat Ansible Tower; Red Hat Satellite; and all associated cloud APIs. It is the first and only cloud environment built on Red Hat OpenStack Platform and Red Hat OpenShift Container Platform to achieve FedRAMP Ready status as a High Baseline cloud.\rA Federal Small Business, ORock Technologies provides infrastructure, cloud, and compliance services to U.S. government agencies and commercial organizations in highly regulated industries. ORock HighCloud services feature a flat-rate billing model for data transport with no egress fees for predictable costs and lower total cost of ownership, as well as extensive use of enterprise-grade open source technologies (hardened and supported by Red Hat) to increase flexibility and minimize vendor lock-in.\rAdditional information is available at [http://orocktech.com](http://orocktech.com/) .",
@@ -11087,7 +11109,7 @@
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oversight%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oversight%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.oversightsystems.com",
         "CSO_Description": "Oversight Insights On Demand® provides government agencies with an automated risk management and compliance monitoring solution that reduces program risks, while addressing requirements such as A-123 and IPERIA.\nPowered by Artificial Intelligence (AI) and machine learning technologies, Oversight Insights On Demand provides an automated, near real-time approach to detecting and stopping erroneous and fraudulent payments before they are disbursed.",
@@ -11128,7 +11150,7 @@
         ],
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Liberta%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Liberta%20Logo.png",
         "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
         "CSP_Website": "https://libertaserver.com",
         "CSO_Description": "Liberta Server manages the deployment, operations and hosting of a complex web and mobile presence. It is a SaaS digital experience management platform (DXP). The open source content management system, concrete5, is provided as the default CMS but other tools can be incorporated as an Agency desires. Concrete5 makes it easy for people with any level of technical expertise to quickly add and maintain content on the web. Liberta Server makes it safe for Agency properties to keep their entire solution compliant. PII is carefully controlled to follow policies that keep an Agency’s digital presence compliant, while still meeting core business needs. The security experts behind Liberta can design, launch and maintain a digital presence that meets any Agency’s custom compliance controls. Liberta Server frees your content creators from the complexity of compliance and puts you back in the driver’s seat to focus on what matters - easily creating content that meets you organizational goals.\nThe following LIberta services are FedRAMP Ready: Liberta Server; Website and Mobile Application development/management/hosting; managed concrete5 CMS; SSL certificate and domain management; 24/7 Tier 3 technical support, SSO Employee Portal (Agency Access Management); Analytics Reporting; Marketing Automation; Headless CMS components (Ad Manager, Personalization Manager, Central Content Repository); Digital Asset Management System; Intranet/Extranet Hub",
@@ -11304,7 +11326,7 @@
         "Cloud_Service_Provider_Name": "Salesforce",
         "Cloud_Service_Provider_Package": "Salesforce Government Cloud - JAB",
         "Path": "JAB",
-        "Designation": "FedRAMP Ready",
+        "Designation": "In Process",
         "Package_ID": "FR2003061248",
         "Service_Model": [
           "PaaS, SaaS"
@@ -11313,13 +11335,14 @@
         "Impact_Level": "High",
         "Sponsoring_Agency": "JAB Authorization",
         "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Salesforce%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Salesforce%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.salesforce.com/industries/public-sector",
         "CSO_Description": "Salesforce Government Cloud is a partitioned instance of Salesforce’s industry-leading Platform-as-a-Service (PaaS) and Software-as-a-Service (SaaS), multi-tenant community cloud infrastructure specifically for use by U.S. federal, state, and local government customers, U.S. government contractors, and Federally Funded Research and Development Centers (FFRDCs). Salesforce Government Cloud is comprised of the following Salesforce services: Lightning Platform, Sales, Service, Communities, Analytics, and Industry Solutions. A list of current in-scope Salesforce products included in the authorization boundary is available at [https://help.salesforce.com/articleView?id=000270080&language=en_US&type=1](https://help.salesforce.com/articleView?id=000270080&language=en_US&type=1)\nAdditional information is available at: [http://pages.mail.salesforce.com/gettingstarted/government-cloud/](http://pages.mail.salesforce.com/gettingstarted/government-cloud/)",
         "CSP_POC_Name": "N/A",
         "CSP_POC_Email": "fedramp@salesforce.com",
         "Fedramp_Ready_Date": "2019-11-08T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2020-02-13T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -11523,7 +11546,7 @@
         ],
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Sumo%20Logic%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Sumo%20Logic%20Logo.png",
         "Independent_Assessor": "Kratos SecureInfo",
         "CSP_Website": "https://www.sumologic.com/public-sector/",
         "CSO_Description": "Sumo Logic provides a cloud-based log management and machine data analytics service that uses an elastic infrastructure for ingesting, managing, and analyzing large volumes of audit log data from any application, cloud, server, network device or sensors. Sumo Logic is also used as a security incident and event management (SIEM) tool by organizations supplying customized real-time dashboards and automated alerting.",
@@ -11542,7 +11565,7 @@
         ],
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Symantec%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Symantec%20Logo.png",
         "Independent_Assessor": "Schellman & Company, LLC",
         "CSP_Website": "https://www.symantec.com/products/web-security-service",
         "CSO_Description": "**Consistently apply network security policies across web and cloud applications**\nProtect users with web and cloud security services that connect all devices to a FedRAMP Authorized intelligent control point for reliable, high-performance, cloud-based threat protection service. Configure and enforce powerful web and cloud application access-control policies.\n* Set policies based on website content-based classifications and threat risk levels.\n* Classify URLs in 70 categories covering more than 55 languages.\n* Authenticate users and enforce user, group, and location-based security controls.\n* Control employee access to Shadow IT cloud apps (unsanctioned cloud applications).\n* Enable application-level point-to-point connectivity, cloaking all resources from the end-user devices and the internet.\n**Advanced proxy architecture delivers SWG and Advanced Threat Protection capabilities**\nSymantec Web Security Service protects your organization from cyber-attacks using an advanced proxy architecture that terminates, inspects, and controls high volumes of web and cloud traffic, even when it's SSL/TLS encrypted. Our proxy architecture combats advanced threats, secures your information, and protects your users wherever they go. It's built to meet the challenges of the Cloud Generation.\n* **Advanced proxy architecture**—Enforce granular threat inspection policies for encrypted web traffic and traffic from cloud apps such as Box and Office 365.\n* **File threat prevention**—Block high-risk and advanced threats with multilayer file inspection and customizable sandboxing.\n* **Threat Risk Levels**—Set web access policies based on a URL’s relative level of threat risk.",
@@ -11561,7 +11584,7 @@
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Synergetics%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Synergetics%20Logo.png",
         "Independent_Assessor": "Information Technology Company, LLC",
         "CSP_Website": "https://synergetics.com/openflis",
         "CSO_Description": "OpenFLIS is an easily customizable, FedRAMP Ready, cloud-based data collation, retrieval, and dissemination platform that enables users to search and display information across multiple databases, sources, and formats. When coupled with the Synergetics Craft Product Architecture (SCPA) application tool, OpenFLIS provides the ability to reach across technological generations and sources to provide access and visibility to any data in any format. The system consists of the SCPA collation and dissemination tool as well as provisioning, cataloging, search and discovery, Information Management / Knowledge Management (IM/KM), and administrator’s modules that comprise the platform.",
@@ -11580,7 +11603,7 @@
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/TMetrics%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/TMetrics%20Logo.png",
         "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
         "CSP_Website": "https://tmetrics.com/industries/fedramp",
         "CSO_Description": "As the primary point of contact an organization has with its customers and constituents, the T-Metrics TM-Cloud Contact Center provides a powerful skills-based routing platform to efficiently connect these people with the agents best equipped to effectively respond to their needs. The platform provides flexibility, scalability, lower total cost of ownership, improved agency service levels, and a superior customer experience. Service offerings include:\n* Skills-based and Priority Routing\n* Interactive Voice Response\n* Self-service Offerings\n* VIP Treatments\n* Omni-channel Communication\n* Customer Callbacks\n* Voice and Screen Recordings\n* Section 508 compliance (for agents and for callers)\n* Advanced Agent and Supervisory Dashboards\n* Standard and Custom Reporting\n* Administration Portals\n* ... [ask about more related capabilities!](https://tmetrics.com/support/sales-team)\nThe TM-Cloud Contact Center can be scaled to accommodate current and future contact center resource demands and requirements. The ability to obtain agent subscriptions in small or large quantities enables organizations to quickly scale to levels necessary to handle even the most dynamic volume, especially for emergencies or seasonal demand.\nThe contact center distributed architecture ensures that a high-available and high-performance system is deployed in the T-Metrics FedRAMP cloud. Resiliency, scalability, and advanced feature access had been traditionally available to only the largest of contact centers with a significant capital investment. Through the TM-Cloud Contact Center, these advantages are now available to every customer through flexible monthly subscriptions. Strategically designed, TM-Cloud Contact Center capitalizes on cloud architecture and fully utilizes customer telephony platforms, including FedRAMP authorized telephony platforms. For two decades, T-Metrics has provided government agencies with contact center solutions. Additionally, because the T Metrics Contact Center passes the Department of Defense (DoD) rigorous and selective security and interoperability demands for Joint Interoperability Test Command (JITC) certification, T-Metrics contact center solutions are widely deployed at DoD locations around the globe. By receiving FedRAMP Ready status, T Metrics expands the partnership scope to provide the most advanced cloud contact center platform that meets federal mandates for a standardized approach to security assessment, authorization, and continuous monitoring for cloud contact center services.",
@@ -11599,7 +11622,7 @@
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/TechTrend%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/TechTrend%20Logo.png",
         "Independent_Assessor": "Lazarus Alliance",
         "CSP_Website": "www.techtrend.us",
         "CSO_Description": "Federal GovCloud (FGC) provides U.S. federal government agencies with a common Platform-as-a-Service (PaaS) automating development, security, and operations (DevSecOps) approach to support the full software development life cycle. FGC DevSecOps PaaS will quickly and securely enable a continuous integration and continuous deployment (CI/CD) pipeline to deliver applications to customers frequently and with high software quality. It resides on Microsoft Azure Government cloud infrastructure and has been designed to leverage Azure’s FedRAMP compliant services while integrating a suite of tools and technologies that provide the foundational components to support DevSecOps. It is cloud service provider or landing zone agnostic and supports secure automation driven deployment to various providers including Azure, Amazon Web Services, low-code platforms (e.g., Salesforce), and on-premises. Federal agencies can focus on developing amazing applications to support their missions by utilizing a turnkey platform to speed the integration, testing, monitoring and deployment of their secure software to a customer defined landing zone’s agnostic test and/or production environments.",
@@ -11618,7 +11641,7 @@
         ],
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Terida%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Terida%20Logo.png",
         "Independent_Assessor": "Kratos SecureInfo",
         "CSP_Website": "https://www.terida.com/",
         "CSO_Description": "The Terida RegTech Framework - CLASsoft™ is a cloud-based claims and electronic-form (e-form) management application, with an integrated optional e-signature module, to receive, evaluate, resolve and track registrations, applications, claims or cases.\nWith Terida CLASsoft™, persons, events, objects, operations, certifications, communications, documents and workflow are integrated into a single cloud application for application and review process management; credentialing, attestation and certification; compliance and risk management; claims, damages and settlements; incident registries; disaster and emergency management; document and forms management; procurement and supply chain management; litigation mitigation and litigation support.",
@@ -11803,7 +11826,7 @@
         "Impact_Level": "High",
         "Sponsoring_Agency": "JAB Authorization",
         "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Zscaler%20Logo.jpg",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Zscaler%20Logo.png",
         "Independent_Assessor": "Schellman & Company, LLC",
         "CSP_Website": "www.zscaler.com",
         "CSO_Description": "**ZSCALER PRIVATE ACCESS**\n**The first major breakthrough in secure remote access since the VPN**\nZscaler is a leader in securing Internet traffic for enterprises around the globe, with a cloud-based security platform designed to protect enterprise Internet traffic with Secure Web Gateway, Cloud Application Visibility and Control, Cloud Sandboxing, Data Loss Prevention, and more. Zscaler Private Access builds from the same cloud-based, elastically scalable infrastructure to deliver seamless connectivity to private internal applications and assets.\nZscaler Private Access solves the challenges posed by a traditional VPN infrastructure by decoupling your internal assets and applications from the limitations, cost, and complexity of direct IP network connections. Zscaler Private Access delivers seamless connectivity to private internal applications and assets whether they are in the cloud, the data center, or both. Policy-driven access adjusts dynamically to network changes, enabling enterprise agility while improving user experience.\nWith Zscaler Private Access, there is no need to provision VPN termination hardware, or to ensure that such a deployment is globally distributed and redundant. Users no longer need to go through a termination appliance in the data center to get to apps in the cloud. In fact, there is no hardware to buy at all, because Zscaler Private Access, like our Cloud Security Platform, functions as a service.\nZscaler maintains all hardware and software, freeing both your IT team and your budget even as we reduce latency and boost scalability. Zscaler Private Access is tied directly to your existing authentication infrastructure, leveraging single sign-on to further reduce complexity. The result is that unlike traditional, network-based remote access solutions, Zscaler Private Access can be deployed in a matter of hours instead of taking weeks or months.\n**Improve your security posture even as you provide seamless access**\nThe reductions in overall cost and complexity are compelling on their own, but the paramount feature of the Zscaler Private Access solution is security. Once a connection is established between the asset and the client, the traffic traversing the solution remains completely isolated; because Zscaler Private Access is built on the premise of zero trust for your private applications, the traffic is isolated from us, as well. And because Zscaler Private Access abstracts the asset from the network, it not only ensures seamless access regardless of physical location, it dramatically increases your overall security posture by effectively making your most sensitive material invisible. Any attempt to route back to the application/asset meets a dead end.\n**Connect by application, not by IP address**\nVPNs have been designed to deliver access to a network, not to an application. Once on a network, malware can propagate and users may be able to get access to adjacent applications from which they should be restricted. In addition, because VPN concentrators must listen for inbound connection attempts, they present an attack surface which may be exploited by such things as Distributed Denial of Service attacks.\nEliminate the cost of VPNs and associated equipment\nAs part of our global, cloud-based security platform, Zscaler maintains all hardware and software, which frees both your IT staff and your budget and enables deployment in a matter of hours. Even better, Zscaler Private Access is deployed via the same Zscaler App you use to access our cloud security platform, which greatly reduces your “client sprawl” by delivering a\nsingle app that provisions Zscaler Remote Access, Secure Web Gateway, Data Loss Prevention, Cloud Sandboxing, Cloud Firewall, and more.\nTake your applications from “on-net” to “dark- net,” at the same time YOU get complete visibility. Zscaler Private Access renders your applications invisible to all but authorized users, and unroutable to anyone. But because the solution works at the application layer, we also deliver a level of visibility to you that has never before been possible. Once you provision a Connector in front of a bank of assets, you can use a wildcard attribute to discover exactly what applications are actually running there. Some customers have found almost ten times as many applications in use as they had expected! And once you know what applications are running, you can easily create granular access rules for them.\nApp Discovery makes deployment easy.",
