@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-02-18T05:40:50.331Z",
+    "Created_At": "2020-02-19T05:40:50.810Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2797,7 +2797,7 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Accenture",
+        "Cloud_Service_Provider_Name": "Accenture Federal Services",
         "Cloud_Service_Provider_Package": "Accenture Insights Platform (AIP) For Government",
         "Path": "JAB",
         "Designation": "Compliant",
@@ -2836,6 +2836,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2018-09-20T04:00:00.000Z",
             "Authorizing_Agency": "Department of Agriculture",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2021-02-05T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-02-14T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -6268,6 +6275,14 @@
             "Authorizing_Agency": "Department of Veterans Affairs",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2021-10-03T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-02-18T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Centers for Disease Control and Prevention",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -7531,7 +7546,7 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Accenture",
+        "Cloud_Service_Provider_Name": "Accenture Federal Services",
         "Cloud_Service_Provider_Package": "Accenture Federal Cloud ERP",
         "Path": "Agency",
         "Designation": "Compliant",
@@ -10438,6 +10453,49 @@
         "CSP_POC_Name": "Katherine Castro",
         "CSP_POC_Email": "fedramp@checkpoint.com",
         "FedRAMP_In-Process_Date": "2019-08-31T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Cisco Systems Inc.",
+        "Cloud_Service_Provider_Package": "Cisco Advanced Malware Protection (AMP)",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2013656943",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Cisco%20Logo.png",
+        "Independent_Assessor": "Kratos SecureInfo",
+        "CSP_Website": "https://www.cisco.com/c/en/us/solutions/industries/government/federal-government-solutions/fedramp.html",
+        "CSO_Description": "Cisco Advanced Malware Protection (AMP) is a cloud-based security solution that allows U.S. Government, State, Local, and Public Education Customers; U.S. Government Contractors; and Department of Homeland Security Presidential Policy Directive-21 Critical Infrastructure entities to address the full lifecycle of endpoint security and anti-malware security capabilities. \n\nAMP offers advanced threat protection, detection and response using a collective security intelligence cloud and big data analytics to discover, understand and block advanced malware outbreaks, advanced persistent threats (APTs) and targeted attacks. \n\nOrganizations have the ability to use AMP for:\r\n* next generation endpoint security; and\r\n* anti-malware security capabilities across the infrastructure policy enforcement points: Network devices, Content and Cloud Security.",
+        "CSP_POC_Name": "Cisco AMP FedRAMP Team",
+        "CSP_POC_Email": "cisco.amp-fedramp@cisco.com",
+        "Fedramp_Ready_Date": "2020-02-14T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Cisco Systems Inc.",
+        "Cloud_Service_Provider_Package": "SD-WAN for Government",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2012534927",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "HHS Office of the Inspector General",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Cisco%20Logo.png",
+        "Independent_Assessor": "Kratos SecureInfo",
+        "CSP_Website": "cisco.com/go/sdwan",
+        "CSO_Description": "Cisco SD-WAN for Government is a cloud scale application that simplifies and optimizes networking using controllers in the cloud with built in redundancy, consistency, and auditing with a high emphasis on security. The centralized management provided by the solution enables the government or its managed service providers to provision policy, optimize enterprise application performance, and implement new security capabilities. The Cisco SD-WAN for Government Application represents a multi-tenant IaaS and SaaS solution, as defined by NIST’s SP 800-145.",
+        "CSP_POC_Name": "Deepak Nair",
+        "CSP_POC_Email": "sdwan-g.info@cisco.com",
+        "FedRAMP_In-Process_Date": "2020-02-18T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
