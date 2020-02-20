@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-02-19T05:40:50.810Z",
+    "Created_At": "2020-02-20T05:40:50.258Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2216,7 +2216,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "MAXIMUS Inc.",
-        "Cloud_Service_Provider_Package": "MAXIMUS Engagement Platform",
+        "Cloud_Service_Provider_Package": "MAXIMUS Genesys Engagement Platform",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "F1509307433",
@@ -4962,7 +4962,7 @@
           "F1603087869"
         ],
         "CSP_Website": "www.projecthosts.com",
-        "CSO_Description": "The Project Hosts (PH) Federal Private Cloud (FPC) is a General Support System (GSS) platform (PaaS) built on Microsoft Azure Government. The GSS is composed of systems and services that manage access control, authentication, auditing, monitoring, scanning, patching, configuration management, malware prevention, intrusion prevention, incident response, backup, and disaster recovery for each Application deployed on the FPC. There are two main types of customers who use the FPC: (i) Independent Software Vendors (ISVs) deploying multitenant SaaS applications and (ii) Federal agencies deploying dedicated applications just for their agency (not multitenant). For both types of customer, their applications are deployed on customer-dedicated virtual servers (or Azure PaaS services) inside customer-dedicated subnets. Network security group access controls ensure that each customer’s subnet is completely isolated from and has no access to any other customer’s subnet. For agency customers, PH assists the Agency in the creation of their own SSP, manages annual 3PAO scanning and penetration testing of their dedicated applications, and provides monthly application-level POA&M and continuous monitoring artifacts. Following is a list of applications for which PH is providing services above the PH FPC platform: Accenture (TMT), AvePoint (DocAve, Compliance Guardian, Governance Automation, Perimeter Manager), Blue Prism (Digital Workforce), BrightWork (SharePoint-based Project Management), Checkmarx (CxSAST Source Code Scanner), Drupal (Drupal CMS), FlowVU (FlowVU Collaboration), Lexmark (Managed Print Service), Microsoft (Remote Desktop, Office, Dynamics, SSRS, Project Server, SharePoint), North Country (EMC/Simphony), RMS (RMS Booking and Guest Portal), Sopheon (Accolade Enterprise Innovation Management), Veritas (Enterprise Vault, eDiscovery Accelerator), WordPress (WordPress CMS).",
+        "CSO_Description": "The Project Hosts (PH) Federal Private Cloud (FPC) is a General Support System (GSS) platform (PaaS) built on Microsoft Azure Government. The GSS is composed of systems and services that manage access control, authentication, auditing, monitoring, scanning, patching, configuration management, malware prevention, intrusion prevention, incident response, backup, and disaster recovery for each Application deployed on the FPC. There are two main types of customers who use the FPC: (i) Independent Software Vendors (ISVs) deploying multitenant SaaS applications and (ii) Federal agencies deploying dedicated applications just for their agency (not multitenant). For both types of customer, their applications are deployed on customer-dedicated virtual servers (or Azure PaaS services) inside customer-dedicated subnets. Network security group access controls ensure that each customer’s subnet is completely isolated from and has no access to any other customer’s subnet. For agency customers, PH assists the Agency in the creation of their own SSP, manages annual 3PAO scanning and penetration testing of their dedicated applications, and provides monthly application-level POA&M and continuous monitoring artifacts. \n\nFollowing is a list of applications for which PH is providing services above the PH FPC platform: Accenture (TMT), AvePoint (DocAve, Compliance Guardian, Governance Automation, Perimeter Manager), Blue Prism (Digital Workforce), BrightWork (SharePoint-based Project Management), Checkmarx (CxSAST Source Code Scanner), Drupal (Drupal CMS), FlowVU (FlowVU Collaboration), Lexmark (Managed Print Service), Microsoft (Remote Desktop, Office, Dynamics, SSRS, Project Server, SharePoint), North Country (EMC/Simphony), RMS (RMS Booking and Guest Portal), Sopheon (Accolade Enterprise Innovation Management), Veritas (Enterprise Vault, eDiscovery Accelerator), WordPress (WordPress CMS).",
         "Announcement_Date": "2016-03-11T05:00:00.000Z",
         "CSP_POC_Name": "Scott Chapman",
         "CSP_POC_Email": "info@projecthosts.com",
@@ -6056,6 +6056,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2019-07-15T04:00:00.000Z",
             "Authorizing_Agency": "Nuclear Regulatory Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-01-10T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-01-17T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -10369,24 +10376,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "BrightWork",
-        "Cloud_Service_Provider_Package": "FedRAMP Project Office JumpStart provided by Project Hosts",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "F1403283529B",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Brightwork%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.projecthosts.com",
-        "CSO_Description": "BrightWork is the most flexible project management solution with best-practice templates and portfolio management dashboards on SharePoint. BrightWork guarantees greater simplicity for project managers, better visibility for senior executives, and the ability to deliver better and more consistent organizational project management.\nThe BrightWork solution is built around a framework that helps organizations implement collaborative project management. The BrightWork philosophy can be summarized as “Start, Evolve”. This approach to project management makes it easy for organizations to get started quickly with project management, delivering immediate visibility and control, with the flexibility to mature their project management practices as the needs of a project or team change.\nWith BrightWork, you can:\n**Track portfolios with reporting dashboards**\nPortfolio dashboards in BrightWork give you the visibility into project statuses, resource allocation and new project requests to successfully manage portfolios of projects.\n**Manage successful projects with intuitive project management templates**\nThe range of best-practice project management templates in BrightWork lets you get a project up and running very quickly, with the tools to track, manage and deliver better projects.\n**Collaborate efficiently with your team and deliver results**\nBrightWork project sites bring all project information together in one place and provide a simple work management system to manage tasks and track work.\n**Improve your project management practices**\nWith the BrightWork template management system, it is easy to capture, reuse and deploy new processes to support the continuous improvement of organizational project management.\nThe BrightWork [FedRAMP Project Office JumpStart](https://www.brightwork.com/get-started/fedramp-jumpstart) provided by Project Hosts enables their U.S. Federal and State Agency customers to accelerate the successful deployment of project and portfolio management in a secure and dedicated SharePoint environment.",
-        "CSP_POC_Name": "Scott Chapman",
-        "CSP_POC_Email": "info@projecthosts.com",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Canon U.S.A., Inc.",
         "Cloud_Service_Provider_Package": "Canon Office Cloud",
         "Path": "Agency",
@@ -10481,7 +10470,7 @@
         "Designation": "In Process",
         "Package_ID": "FR2012534927",
         "Service_Model": [
-          "SaaS"
+          "IaaS, SaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
@@ -10493,6 +10482,7 @@
         "Independent_Assessor": "Kratos SecureInfo",
         "CSP_Website": "cisco.com/go/sdwan",
         "CSO_Description": "Cisco SD-WAN for Government is a cloud scale application that simplifies and optimizes networking using controllers in the cloud with built in redundancy, consistency, and auditing with a high emphasis on security. The centralized management provided by the solution enables the government or its managed service providers to provision policy, optimize enterprise application performance, and implement new security capabilities. The Cisco SD-WAN for Government Application represents a multi-tenant IaaS and SaaS solution, as defined by NIST’s SP 800-145.",
+        "Expected_Compliance_Date": "2020-07-31T04:00:00.000Z",
         "CSP_POC_Name": "Deepak Nair",
         "CSP_POC_Email": "sdwan-g.info@cisco.com",
         "FedRAMP_In-Process_Date": "2020-02-18T05:00:00.000Z",
