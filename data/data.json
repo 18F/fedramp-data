@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-02-21T05:40:50.628Z",
+    "Created_At": "2020-02-22T05:40:50.329Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1918,6 +1918,12 @@
             "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2020-02-21T05:00:00.000Z",
+            "Authorizing_Agency": "Nuclear Regulatory Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -3425,6 +3431,13 @@
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-02-13T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-02-13T05:00:00.000Z",
+            "Authorizing_Agency": "U.S. International Finance Development Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DFC%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -6647,8 +6660,8 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2019-09-19T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-01-31T05:00:00.000Z",
+            "Letter_Date": "2020-02-19T05:00:00.000Z",
+            "Letter_Expiration_Date": "2020-04-30T04:00:00.000Z",
             "Authorizing_Agency": "National Archives and Records Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NARA_Logo.png",
             "Include_In_Marketplace": "Y"
@@ -8277,7 +8290,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "ServiceNow",
-        "Cloud_Service_Provider_Package": "ServiceNow Service Automation Government Cloud Suite",
+        "Cloud_Service_Provider_Package": "Government Community Cloud",
         "Path": "JAB",
         "Designation": "Compliant",
         "Package_ID": "F1305072116",
@@ -10580,7 +10593,6 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
         "Authorizing_Agency": "General Services Administration",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/DataDog%20Logo.png",
-        "Independent_Assessor": "TBD",
         "CSP_Website": "https://www.datadoghq.com/",
         "CSO_Description": "Datadog is the essential monitoring platform for cloud applications. We bring together data from servers, containers, databases, and third-party services to make your stack entirely observable. These capabilities help DevOps teams avoid downtime, resolve performance issues, and ensure customers are getting the best user experience.\nDatadog is a monitoring service for modern cloud environments offering Infrastructure Metrics, Application Performance Monitoring (APM), and Log Management within a single platform.",
         "CSP_POC_Name": "Phil Shea",
@@ -11386,7 +11398,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "ServiceNow",
-        "Cloud_Service_Provider_Package": "ServiceNow Service Automation Government Cloud Suite - Mod",
+        "Cloud_Service_Provider_Package": "Service Automation Government Cloud Suite (Legacy)",
         "Path": "JAB",
         "Designation": "Compliant",
         "Package_ID": "F1305072116A",
