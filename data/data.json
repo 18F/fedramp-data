@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-03-04T05:40:50.736Z",
+    "Created_At": "2020-03-05T05:40:50.062Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1567,6 +1567,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2019-09-26T04:00:00.000Z",
             "Authorizing_Agency": "Federal Trade Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-03-03T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-03-03T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -7706,6 +7713,14 @@
             "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-02-28T05:00:00.000Z",
+            "Letter_Expiration_Date": "2021-02-28T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-02-28T05:00:00.000Z",
+            "Authorizing_Agency": "Library of Congress",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/LoC%20logo.jpg",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -10312,7 +10327,7 @@
         "Independent_Assessor": "Schellman & Company, LLC",
         "CSP_Website": "www.appdynamics.com",
         "CSO_Description": "AppDynamics GovAPM is a software-as-a-service (SaaS) application performance monitoring (APM) solution. AppDynamics GovAPM provides end-to-end visibility into the performance of applications.",
-        "CSP_POC_Name": "Lori Spurlin",
+        "CSP_POC_Name": "San Buonassisi",
         "CSP_POC_Email": "fedramp@appdynamics.com",
         "FedRAMP_In-Process_Date": "2019-06-18T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
@@ -11736,25 +11751,6 @@
         "CSP_POC_Name": "Bill Barton",
         "CSP_POC_Email": "fedramp@synergetics.com",
         "Fedramp_Ready_Date": "2019-12-09T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "T-Metrics, Inc.",
-        "Cloud_Service_Provider_Package": "T-Metrics Cloud Contact Center (TCCC)",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR1730842236",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/TMetrics%20Logo.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "CSP_Website": "https://tmetrics.com/industries/fedramp",
-        "CSO_Description": "As the primary point of contact an organization has with its customers and constituents, the T-Metrics TM-Cloud Contact Center provides a powerful skills-based routing platform to efficiently connect these people with the agents best equipped to effectively respond to their needs. The platform provides flexibility, scalability, lower total cost of ownership, improved agency service levels, and a superior customer experience. Service offerings include:\n* Skills-based and Priority Routing\n* Interactive Voice Response\n* Self-service Offerings\n* VIP Treatments\n* Omni-channel Communication\n* Customer Callbacks\n* Voice and Screen Recordings\n* Section 508 compliance (for agents and for callers)\n* Advanced Agent and Supervisory Dashboards\n* Standard and Custom Reporting\n* Administration Portals\n* ... [ask about more related capabilities!](https://tmetrics.com/support/sales-team)\nThe TM-Cloud Contact Center can be scaled to accommodate current and future contact center resource demands and requirements. The ability to obtain agent subscriptions in small or large quantities enables organizations to quickly scale to levels necessary to handle even the most dynamic volume, especially for emergencies or seasonal demand.\nThe contact center distributed architecture ensures that a high-available and high-performance system is deployed in the T-Metrics FedRAMP cloud. Resiliency, scalability, and advanced feature access had been traditionally available to only the largest of contact centers with a significant capital investment. Through the TM-Cloud Contact Center, these advantages are now available to every customer through flexible monthly subscriptions. Strategically designed, TM-Cloud Contact Center capitalizes on cloud architecture and fully utilizes customer telephony platforms, including FedRAMP authorized telephony platforms. For two decades, T-Metrics has provided government agencies with contact center solutions. Additionally, because the T Metrics Contact Center passes the Department of Defense (DoD) rigorous and selective security and interoperability demands for Joint Interoperability Test Command (JITC) certification, T-Metrics contact center solutions are widely deployed at DoD locations around the globe. By receiving FedRAMP Ready status, T Metrics expands the partnership scope to provide the most advanced cloud contact center platform that meets federal mandates for a standardized approach to security assessment, authorization, and continuous monitoring for cloud contact center services.",
-        "CSP_POC_Name": "Jim Beckner III",
-        "CSP_POC_Email": "fedramp@tmetrics.com",
-        "Fedramp_Ready_Date": "2019-02-12T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
