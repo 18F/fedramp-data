@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-03-05T05:40:50.062Z",
+    "Created_At": "2020-03-06T05:40:50.140Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2465,6 +2465,13 @@
             "Authorizing_Agency": "Peace Corps",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Peace%20Corps%20Logo.jpg",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2020-02-24T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Internal Revenue Service",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -2491,17 +2498,7 @@
         "CSP_POC_Name": "Edi Feldman",
         "CSP_POC_Email": "edi.feldman@skillsoft.com",
         "FedRAMP_In-Process_Date": "2015-03-30T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2017-06-18T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-02-28T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-06-18T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Information Systems Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "BlackBerry",
@@ -3682,6 +3679,12 @@
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Washington Headquarters Services",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2018-07-19T04:00:00.000Z",
+            "Authorizing_Agency": "Tennessee Valley Authority",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-TennesseeValleyAuthority-Logo.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -6238,7 +6241,7 @@
         ],
         "CSP_Website": "https://www.workplace.gov",
         "CSO_Description": "Workplace.gov Community Cloud High (WC2-H) Platform is a federal agency managed hosting environment with capabilities to process High Impact level information. The WC2-H PaaS is owned and operated by the Department of the Treasury and hosted on Amazon Web Services GovCloud. Treasury customers can enable progressive tools and forward thinking IT solutions throughout the design, build, and maintenance phases of a cloud-based project. WC2-H offers the following services to fulfill business or mission requirements:\n* Public Web Hosting ensures the secure and high-availability of public-facing content to meet external communications needs\n* Authenticated/Restricted Web Hosting provides secure and restricted access enclaves with traffic routing through the Treasury TIC\n* Development and Testing Enclaves support the rapid development and testing of applications at the FedRAMP High Impact level.\nThe WC2-H PaaS has undergone rigorous 3PAO assessment and currently has no Critical or High findings. The results of this assessment were presented to the platform’s Authorizing Official in September 2018 and the package was subsequently approved for agency accreditation. WC2-H is fully authorized to onboard Treasury customers.\nThe WC2-H package includes the use of three (3) native AWS tools (Lambda, Config, and CloudWatch) that are pending JAB approval in the FedRAMP marketplace. Given that these tools are in process for CSP accreditation and that AWS is working with the JAB to expedite their approval, the WC2-H Authorizing Official issued an agency risk acceptance to allow use of the WC2-H platform while final accreditation is pending for these tools. Further information regarding this risk acceptance can be provided upon request by contacting the Compliance POC listed below.",
-        "Announcement_Date": "2020-03-03T05:00:00.000Z",
+        "Announcement_Date": "2020-03-02T05:00:00.000Z",
         "CSP_POC_Name": "Kamil Kuza",
         "CSP_POC_Email": "WC2HELPDESK@treasury.gov",
         "FedRAMP_In-Process_Date": "2018-09-21T04:00:00.000Z",
@@ -7235,17 +7238,7 @@
         "CSP_POC_Name": "Tom Wollard",
         "CSP_POC_Email": "twollard@ptc.com",
         "FedRAMP_In-Process_Date": "2016-09-12T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2018-02-10T05:00:00.000Z",
-            "Letter_Expiration_Date": "2020-02-28T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-02-10T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Information Systems Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "Microsoft",
@@ -9885,9 +9878,9 @@
         "FedRAMP_In-Process_Date": "2019-02-05T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Date": "2018-11-23T05:00:00.000Z",
-            "Letter_Expiration_Date": "2019-11-27T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-11-01T04:00:00.000Z",
+            "Letter_Date": "2020-02-05T05:00:00.000Z",
+            "Letter_Expiration_Date": "2020-11-27T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-02-12T05:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "United States Patent and Trademark Office",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
@@ -10341,7 +10334,7 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Government Community Cloud",
+        "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
         "Sponsoring_Agency": "National Transportation Safety Board",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NTSB%20Logo.jpg",
@@ -11294,7 +11287,7 @@
         "Authorizing_Agency": "Federal Housing Finance Agency",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Palo%20Alto%20Logo.png",
         "CSP_Website": "www.paloaltonetworks.com",
-        "CSO_Description": "Palo Alto Networks Government Cloud Services include a variety of cloud-based cybersecurity offerings, including Cortex XDR, Cortex Data Lake, Traps, and Prisma Cloud.\nCortex XDR is a cloud-based detection and response service that integrates network, endpoint and cloud data to stop sophisticated attacks.\nCortex Data Lake collects, normalizes, and integrates data from Palo Alto Networks products with public cloud scale.\nTraps prevents malware, exploit techniques, and sophisticated threats on the endpoint.\nPrisma Cloud is a cloud native security platform that provides comprehensive visibility, threat prevention, compliance assurance and data protection consistently across hybrid and multi-cloud environments.",
+        "CSO_Description": "Palo Alto Networks Government Cloud Services include a variety of cloud-based cybersecurity offerings, including Cortex XDR, Cortex Data Lake, and Prisma Cloud. Cortex XDR is an extended prevention, detection and response platform that integrates network, endpoint and cloud data to stop sophisticated attacks. Cortex Data Lake collects, normalizes, and integrates data from Palo Alto Networks products with public cloud scale. Prisma Cloud is a cloud native security platform that provides comprehensive visibility, threat prevention, compliance assurance and data protection consistently across hybrid and multi-cloud environments.",
         "CSP_POC_Name": "Brad Bartholomew",
         "CSP_POC_Email": "fedramp@paloaltonetworks.com",
         "FedRAMP_In-Process_Date": "2019-11-07T05:00:00.000Z",
