@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-03-13T04:51:09.232Z",
+    "Created_At": "2020-03-14T04:40:50.910Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1188,6 +1188,14 @@
             "Authorizing_Agency": "Department of Justice",
             "Authorizing_Subagency": "Justice Management Division",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-02-28T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-02-28T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "United States Mint",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -2895,13 +2903,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Authorizing_Letter_Last_Sign_Date": "2017-03-06T05:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Authorizing_Subagency": "Internal Revenue Service",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2017-03-09T05:00:00.000Z",
             "Authorizing_Agency": "Department of Veterans Affairs",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
@@ -3012,6 +3013,13 @@
             "Authorizing_Subagency": "National Nuclear Security Administration / Lawrence Livermore National Laboratory",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2020-03-13T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Internal Revenue Service",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -3088,7 +3096,17 @@
         "CSP_POC_Name": "Chris Romeo",
         "CSP_POC_Email": "chris.romeo@niceincontact.com",
         "FedRAMP_In-Process_Date": "2016-11-17T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2019-09-26T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-09-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-09-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Authorizing_Subagency": "Federal Student Aid",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "iSite LLC",
@@ -5908,7 +5926,7 @@
           "AGENCYAMAZONEW"
         ],
         "CSP_Website": "www.bmc.com",
-        "CSO_Description": "BMC Remedy OnDemand is a market-leading cloud-based ITSM solution that provides anytime, anywhere access to ITIL best practices including self-service, incident and problem management, change and release management, asset and configuration management, and service level management, so you can:\n- Deliver ITSM out-of-the-box and configure with drag-and-drop ease.\n- Deploy an intuitive self-service solution accessible on any device - Mobilize the IT workforce with a rich multi-device experience across tablets, smartphones and browsers.\nBMC Remedy OnDemand is a leader in the Gartner Magic Quadrant for IT Service Support Management Tools and includes the #1 rated CMDB in the Gartner Critical Capabilities for Configuration Management Databases.\nDesigned specifically for government agencies, BMC Remedy OnDemand for Public Sector is hosted in the FedRAMP compliant Amazon Web Services (AWS) cloud and can be tailored to the needs of any agency with rapid implementations, flexible configuration, huge scalability and easy upgrades.",
+        "CSO_Description": "BMC Helix ITSM is a powerful, industry leading service management platform that fuels your IT transformation with intelligent, people-centric user experiences helping you work smarter. BMC Helix ITSM is delivered in the cloud, or as a hybrid or on-premises solution:\r\n\r\n* Enables proactive service resolution, providing the ability to monitor, service, and remediate events as they occur\r\n\r\n* Modern persona-based UX optimized across devices\r\n\r\n* BMC Helix Multi-Cloud Service Management for a secure, seamless service experience across multi-cloud environments\r\n\r\n* Cognitive automation capabilities that transform the agent experience\r\n\r\n* Powerful, stunning reports and visualizations allowing data driven insights\r\n\r\n* Optimized for ITIL® 4\r\n\r\n* Leader in the Gartner Magic Quadrant for IT Service Support Management Tools\r\n\r\n* Designed specifically for government agencies, BMC Helix ITSM for Public Sector is hosted in the FedRAMP compliant Amazon Web Services (AWS) cloud and can be tailored to the needs of any agency with rapid implementations, flexible configuration, huge scalability and easy upgrades.",
         "Announcement_Date": "2016-05-05T04:00:00.000Z",
         "CSP_POC_Name": "Michelle Buckner",
         "CSP_POC_Email": "fedrampinfo@bmc.com",
@@ -10465,6 +10483,30 @@
         "CSP_POC_Email": "bbfedcompliance@blackberry.com",
         "Fedramp_Ready_Date": "2019-05-15T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2019-07-24T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Broad Institute, Inc.",
+        "Cloud_Service_Provider_Package": "Terra",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2000939520",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "National Institutes of Health",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Terra%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "app.terra.bio",
+        "CSO_Description": "Terra is a public, cloud-based platform that provides biomedical researchers with a flexible environment for doing secure and scalable analysis. Terra users can upload their data to the cloud or access datasets sponsored by partner organizations that are hosted through convenient data exploration interfaces. Users can prepare and process data with or without coding expertise, leveraging Terra’s repository of best-practice, ready-to-use bioinformatics workflows. Once data is processed, results can be explored in real-time with Terra’s in-app integration of interactive analysis tools such as JupyterLab and Jupyter Notebooks. Collaborating with other users is easy with Terra’s built-in capabilities for sharing work selectively, protecting data from unwanted re-distribution.",
+        "CSP_POC_Name": "Terra Compliance Team",
+        "CSP_POC_Email": "fedramp@broadinstitute.org",
+        "FedRAMP_In-Process_Date": "2020-03-10T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
