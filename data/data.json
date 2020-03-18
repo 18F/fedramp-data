@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-03-17T04:40:50.631Z",
+    "Created_At": "2020-03-18T04:40:50.633Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -7125,7 +7125,7 @@
         "CSP_Website": "https://www.avaya.com/en/fedramp",
         "CSO_Description": "Avaya Cloud Secure is a government only, FedRAMP Moderate Unified Communications collaboration (UCaaS) cloud offering the following features and benefits to government agencies:\n* **Government Only Cloud** - The Government Only Cloud is a preferred characteristics for Government wide solutions and it comes with lesser risk to Government agencies than other forms of cloud models (e.g. public).\n* **Better customization and security** - The Service is a dedicated (not multi-tenant) Unified Communication (UC) cloud offering. Each agency is provided their own individual instance on a virtual platform that provides a highly customizable, reliable and secure environment. The Service is monitored and managed 365 X 24 X7.\n* **Avaya industry recognized Unified Communications (UC) software** is at the heart of the Service providing __enterprise quality__ UC features including telephony, unified messaging, mobility, instant messaging, presence, and audio, web and video collaboration.\n* **Secure Full Featured Collaboration** provides a reservation-less “Meet-me” audio, video and web collaboration bridge with security code access and the ability to launch the bridge from any phone anywhere.\n* **Future technology acceleration** as technology refreshes are included and managed by Avaya as part of the service, eliminating capital expenditures associated with updating obsolete communications systems.\n* **Predictable Operational Expense (OPEX) Billing Model** offers cost savings over traditional build and operate solution.\nAvaya Cloud Secure provides a cloud solution for all real time communication needs that enable agencies to support their missions expediently and efficiently.",
         "Announcement_Date": "2019-04-29T04:00:00.000Z",
-        "CSP_POC_Name": "Patrick Goins",
+        "CSP_POC_Name": "Melinda Abee",
         "CSP_POC_Email": "fedramp@avaya.com",
         "Fedramp_Ready_Date": "2017-12-11T05:00:00.000Z",
         "FedRAMP_In-Process_Date": "2018-05-15T04:00:00.000Z",
@@ -10715,6 +10715,29 @@
         "CSP_POC_Email": "security@code42.com",
         "Fedramp_Ready_Date": "2020-01-22T05:00:00.000Z",
         "FedRAMP_In-Process_Date": "2019-11-12T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Cofense",
+        "Cloud_Service_Provider_Package": "Cofense PhishMe",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2013059515",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Cofense%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://cofense.com/federal-government",
+        "CSO_Description": "**Overview**\n\nCofense PhishMe™ is a cloud-based software solution that enables organizations to improve employee resiliency to phishing attacks by providing a turnkey platform for running simulated real-life phishing scenarios.\n\nCofense PhishMe has the largest installed base of Federal government users of any solution in the simulation and awareness training category. More than 2000 of world’s largest organizations in both public and private sector rely on Cofense PhishMe to condition employees to recognize and report phishing attacks.\n\nOnce certified, Cofense PhishMe will achieve FedRAMP Moderate Authorization, an important milestone meeting the security baselines for more than 300 controls.  According to FedRAMP, Moderate Impact Authorization “is most appropriate for CSOs where the loss of confidentiality, integrity, and availability would result in serious adverse effects on an agency’s operations, assets, or individuals […] including significant operational damage to agency assets, financial loss, or individual harm that is not loss of life or physical.”  For comparison, solutions achieving FedRAMP Low Authorization are only required to address 125 controls, while organizations obtaining the FedRAMP LI-SaaS Authorization are responsible for just 38 controls.\n\n**More about Cofense PhishMe**\n\nThe system enables trained awareness and compliance personnel to run simulated attacks using email templates that look like actual phishing attacks and includes on-the-spot educational content that displays when recipients click on one of the simulated phishing emails.\n \nFor example, a scenario email might alert recipients that their banking credentials were compromised and ask the recipients to click a link in the email to reset their password. If a recipient does click the link, Cofense PhishMe displays educational content to help that individual recognize the characteristics of a phishing email. Through these safe examples, PhishMe customers can help their employees develop an awareness of the risks that actual phishing emails pose and reduce their susceptibility of engaging with such emails in the future.\n\nTo maximize the effectiveness of simulation campaigns and reduce the burden on awareness teams, Cofense PhishMe provides a combination of unique capabilities:\n\n* PhishMe content is based on real phishing attacks gleaned from real threat intelligence. That means that the scenarios you run are as realistic as possible, ensuring your organization is conditioned to the latest threats.\n* Responsive Delivery: Cofense PhishMe allows simulation operators to deliver phishing simulations while the user is active in their inbox, which drives higher scenario engagement. \n* Playbooks: Cofense PhishMe includes predefined Playbooks, with scenario recommendations based on user behavior and best practices.\n\nCofense PhishMe helps organizations transform their employees into the last line of active defense against phishing attacks—the leading cause of data breaches—through education, ongoing simulations, and an easy to use reporting tool so organizations can swiftly detect, respond to and thwart phishing attacks in their tracks.",
+        "CSP_POC_Name": "Sylvain Lacroix",
+        "CSP_POC_Email": "federal@cofense.com",
+        "FedRAMP_In-Process_Date": "2020-03-16T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
