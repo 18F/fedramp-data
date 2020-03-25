@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-03-24T04:40:50.646Z",
+    "Created_At": "2020-03-25T04:40:50.605Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2031,65 +2031,6 @@
             "Letter_Expiration_Date": "2022-11-25T05:00:00.000Z",
             "Authorizing_Agency": "United States Agency for International Development",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Qualys",
-        "Cloud_Service_Provider_Package": "Qualys Cloud Platform",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1508207205",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2016-11-01T04:00:00.000Z",
-        "Original_Expiration_Date": "2019-11-01T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Qualys%20Logo3.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.qualys.com",
-        "CSO_Description": "The Qualys Cloud Platform (QCP) is a multi-tenant shared cloud service environment. Its unique computing power is capable of continuously analyzing and correlating information, to assist IT management with identifying and homing-in on threats and eliminating vulnerabilities.\nWith its Qualys sensors, a core service of the Qualys Cloud Platform, make it easy to extend your security throughout your global enterprise. These sensors, which can be in the form of appliances or lightweight agents, are remotely deployable, centrally managed and self-updating. They collect data automatically and seamlessly sending it to the Qualys Cloud Platform.\nSubscribers simply use the Qualys software without the burden of licensing, maintenance and costs for owning the software itself.",
-        "Announcement_Date": "2016-11-02T04:00:00.000Z",
-        "CSP_POC_Name": "Bernie Leung",
-        "CSP_POC_Email": "fedramp@qualys.com",
-        "Fedramp_Ready_Date": "2016-05-05T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2015-08-26T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2017-10-17T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-01-17T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Authorizing_Subagency": "Federal Student Aid",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-10-31T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-12-20T05:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Authorizing_Subagency": "Office of the Comptroller of the Currency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2019-06-10T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Authorizing_Subagency": "Internal Revenue Service",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-10-31T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-04-28T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-10-31T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Veterans Affairs",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -6145,6 +6086,57 @@
             "Authorizing_Agency": "Department of Energy",
             "Authorizing_Subagency": "Federal Energy Regulatory Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Qualys",
+        "Cloud_Service_Provider_Package": "Qualys Cloud Platform",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1508207205",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2018-01-17T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+        "Authorizing_Agency": "Department of Education",
+        "Authorizing_Subagency": "Federal Student Aid",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Qualys%20Logo3.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.qualys.com",
+        "CSO_Description": "The Qualys Cloud Platform (QCP) is a multi-tenant shared cloud service environment. Its unique computing power is capable of continuously analyzing and correlating information, to assist IT management with identifying and homing-in on threats and eliminating vulnerabilities.\nWith its Qualys sensors, a core service of the Qualys Cloud Platform, make it easy to extend your security throughout your global enterprise. These sensors, which can be in the form of appliances or lightweight agents, are remotely deployable, centrally managed and self-updating. They collect data automatically and seamlessly sending it to the Qualys Cloud Platform.\nSubscribers simply use the Qualys software without the burden of licensing, maintenance and costs for owning the software itself.",
+        "Announcement_Date": "2016-11-02T04:00:00.000Z",
+        "CSP_POC_Name": "Bernie Leung",
+        "CSP_POC_Email": "fedramp@qualys.com",
+        "Fedramp_Ready_Date": "2016-05-05T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2015-08-26T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2018-10-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-12-20T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Office of the Comptroller of the Currency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2019-06-10T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Internal Revenue Service",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-10-31T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-04-28T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-10-31T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -10237,7 +10229,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Relocation Management Worldwide (RMW)",
-        "Cloud_Service_Provider_Package": "Virtual Employee Relocation Network (VERN™)",
+        "Cloud_Service_Provider_Package": "Virtual Employee Network (VEN™)",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "FR1815547467",
