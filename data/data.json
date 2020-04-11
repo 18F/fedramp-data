@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-04-10T04:40:50.176Z",
+    "Created_At": "2020-04-11T04:40:50.943Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4087,7 +4087,14 @@
         "CSP_POC_Name": "Nicholas Smith",
         "CSP_POC_Email": "fedrampinfo_us@oracle.com",
         "FedRAMP_In-Process_Date": "2017-01-19T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2020-04-06T04:00:00.000Z",
+            "Authorizing_Agency": "Nuclear Regulatory Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Microsoft",
@@ -5448,7 +5455,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Intelliworx",
-        "Cloud_Service_Provider_Package": "Intelliworx Cloud (FDonline)",
+        "Cloud_Service_Provider_Package": "Intelliworx Cloud Workflow Platform",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "FR1724526654",
@@ -6018,6 +6025,14 @@
             "Authorizing_Agency": "Department of Energy",
             "Authorizing_Subagency": "Federal Energy Regulatory Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-03-23T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-03-23T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-03-23T04:00:00.000Z",
+            "Authorizing_Agency": "Library of Congress",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/LoC%20logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -8648,32 +8663,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Oracle",
-        "Cloud_Service_Provider_Package": "Oracle Cloud Infrastructure-Government Cloud",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1900048743",
-        "Service_Model": [
-          "IaaS, PaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2019-08-25T04:00:00.000Z",
-        "Original_Expiration_Date": "2020-08-23T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Defense",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-        "Authorizing_Agency": "Department of Defense",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20CI%20Logo.png",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "CSP_Website": "https://cloud.oracle.com",
-        "CSO_Description": "Oracle Cloud Infrastructure's government regions provide public sector entities with best-in-class security and industry leading price-performance. With a deep understanding of the needs of the public sector built on decades of experience, Oracle enables government entities to move their most challenging workloads to the cloud, achieving significant benefits and return on investment. After moving to the cloud, agencies can use Oracle development tools to enhance existing applications while creating and integrating new cloud-native applications. With Oracle Cloud Infrastructure, public sector entities can bring their past and build their future.",
-        "Announcement_Date": "2019-08-27T04:00:00.000Z",
-        "CSP_POC_Name": "Rico McGee",
-        "CSP_POC_Email": "fedrampinfo_us@oracle.com",
-        "FedRAMP_In-Process_Date": "2019-01-31T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Huddle US",
         "Cloud_Service_Provider_Package": "Huddle Enterprise Cloud Content Collaboration and File Sharing Portal for Government",
         "Path": "Agency",
@@ -10039,7 +10028,15 @@
         "CSP_POC_Email": "rgupta@medallia.com",
         "Fedramp_Ready_Date": "2018-03-23T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2019-07-15T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Expiration_Date": "2022-05-14T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-05-15T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "TeleTech (TTEC) Services Corporation",
@@ -10460,6 +10457,31 @@
         "CSP_POC_Name": "Chris Beckford",
         "CSP_POC_Email": "fedramp@udpaas.com",
         "FedRAMP_In-Process_Date": "2019-10-23T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Oracle",
+        "Cloud_Service_Provider_Package": "Oracle Cloud Infrastructure-Government Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1900048743",
+        "Service_Model": [
+          "IaaS, PaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Original_Authorization_Date": "2020-02-10T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of the Treasury",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+        "Authorizing_Agency": "Department of the Treasury",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20CI%20Logo.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "https://cloud.oracle.com",
+        "CSO_Description": "Oracle Cloud Infrastructure's government regions provide public sector entities with best-in-class security and industry leading price-performance. With a deep understanding of the needs of the public sector built on decades of experience, Oracle enables government entities to move their most challenging workloads to the cloud, achieving significant benefits and return on investment. After moving to the cloud, agencies can use Oracle development tools to enhance existing applications while creating and integrating new cloud-native applications. With Oracle Cloud Infrastructure, public sector entities can bring their past and build their future.",
+        "Announcement_Date": "2020-04-10T04:00:00.000Z",
+        "CSP_POC_Name": "Rico McGee",
+        "CSP_POC_Email": "fedrampinfo_us@oracle.com",
+        "FedRAMP_In-Process_Date": "2019-10-03T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -11522,6 +11544,29 @@
         "CSP_POC_Name": "Brad Bartholomew",
         "CSP_POC_Email": "fedramp@paloaltonetworks.com",
         "FedRAMP_In-Process_Date": "2019-11-07T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Palo Alto Networks, Inc.",
+        "Cloud_Service_Provider_Package": "Palo Alto Networks Government Cloud Services - Prisma Access",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2015148466",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "U.S. International Development Finance Corporation",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DFC%20Logo.jpg",
+        "Authorizing_Agency": "U.S. International Development Finance Corporation",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Palo%20Alto%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "CSP_Website": "www.paloaltonetworks.com",
+        "CSO_Description": "Prisma Access is a Secure Access Service Edge (SASE) that provides scalable, cloud-delivered networking and security to branch offices and remote users. With Prisma Access, agencies are able to rapidly enable consistent, secure connectivity for remote locations and employees.",
+        "CSP_POC_Name": "Brad Bartholomew",
+        "CSP_POC_Email": "fedramp@paloaltonetworks.com",
+        "FedRAMP_In-Process_Date": "2020-04-09T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
