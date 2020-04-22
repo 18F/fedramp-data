@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-04-21T04:40:50.692Z",
+    "Created_At": "2020-04-22T04:40:50.083Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -293,13 +293,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2020-03-13T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-03-13T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Agriculture",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2018-02-27T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-02-27T05:00:00.000Z",
             "Authorizing_Agency": "Department of Homeland Security",
@@ -328,6 +321,13 @@
             "Authorizing_Agency": "Department of Homeland Security",
             "Authorizing_Subagency": "Immigration and Customs Enforcement",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-03-09T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-03-09T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -3305,6 +3305,13 @@
             "Letter_Expiration_Date": "2023-03-25T04:00:00.000Z",
             "Authorizing_Agency": "General Services Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2020-06-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-02-26T05:00:00.000Z",
+            "Authorizing_Agency": "Social Security Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -10118,7 +10125,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Accenture Federal Services",
-        "Cloud_Service_Provider_Package": "Managed Detection and Response",
+        "Cloud_Service_Provider_Package": "Accenture Xtended Managed and Response (XDR) for Government",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "FR1834336116",
@@ -10141,8 +10148,8 @@
         "CSP_Website": "https://www.accenture.com/us-en/service-safeguard-secure",
         "CSO_Description": "Defense Point Security (DPS) Managed Detection and Response (MDR) service is a proactive security platform designed for Federal agencies and customers. This scalable threat monitoring service enables all Continental United States (CONUS) government entities trusted and reliable cyber defense at a fraction of the cost of traditional 24/7 in-house incident response programs. MDR provides security monitoring using real-time threat intel and Security Orchestration, Automation and Response (SOAR) capabilities to decrease the mean time to resolution on all security incidents. MDR is built in the cloud to provide maximum availability and scalability.",
         "Announcement_Date": "2020-01-28T05:00:00.000Z",
-        "CSP_POC_Name": "David Dalling",
-        "CSP_POC_Email": "MDR@accenturefederal.com",
+        "CSP_POC_Name": "Asha Nair",
+        "CSP_POC_Email": "xdr.compliance@accenturefederal.com",
         "FedRAMP_In-Process_Date": "2018-12-10T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
@@ -11702,29 +11709,6 @@
         "CSP_POC_Name": "Brad Bartholomew",
         "CSP_POC_Email": "fedramp@paloaltonetworks.com",
         "FedRAMP_In-Process_Date": "2020-04-09T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Palo Alto Networks, Inc.",
-        "Cloud_Service_Provider_Package": "ZingBox IoT Guardian",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1831150485",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Veterans Affairs",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
-        "Authorizing_Agency": "Department of Veterans Affairs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Palo%20Alto%20Logo.png",
-        "Independent_Assessor": "Kratos",
-        "CSP_Website": "www.paloaltonetworks.com",
-        "CSO_Description": "Zingbox® IoT Guardian discovers, identifies, secures, monitors and optimizes the use of connected medical devices, industrial control systems, physical security systems, and other non-traditional IT. Using Zingbox, federal agencies can safely enable IoT devices in their facilities while optimizing their lifecycle management.",
-        "CSP_POC_Name": "Brad Bartholomew",
-        "CSP_POC_Email": "fedramp@paloaltonetworks.com",
-        "FedRAMP_In-Process_Date": "2020-03-11T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
