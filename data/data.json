@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-04-29T04:40:50.666Z",
+    "Created_At": "2020-04-30T04:40:50.405Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2751,164 +2751,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Microsoft",
-        "Cloud_Service_Provider_Package": "Azure Government",
-        "Path": "JAB",
-        "Designation": "Compliant",
-        "Package_ID": "F1603087869",
-        "Service_Model": [
-          "IaaS, PaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "High",
-        "Original_Authorization_Date": "2017-09-25T04:00:00.000Z",
-        "Sponsoring_Agency": "JAB Authorization",
-        "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Microsoft%20Logo.png",
-        "Independent_Assessor": "Kratos",
-        "CSP_Website": "http://azure.microsoft.com/en-us/",
-        "CSO_Description": "Microsoft Azure Government is a government-community cloud that offers hyper-scale compute, storage, networking, and identity management services, with world-class security. A physically and network-isolated instance of Microsoft Azure, operated by screened U.S. citizens, Azure Government provides standards-compliant IaaS and PaaS that has now received a FedRAMP JAB P-ATO. All services are available immediately for supporting secure US government workloads, including CJIS, IRS 1075 FTI, HIPAA, DoD, and federal agency data.\n\nThe following Microsoft services are FedRAMP Authorized and approved by the JAB at the High Impact Level: API Management, Application Gateway, Automation, Azure Active Directory (AAD) Free, Azure Advanced Threat Protection, Azure Advisor, Azure Active Directory (AAD) Premium P1 + P2, Azure Analysis Services, Azure Archive Storage, Azure Backup, Azure Blueprints, Azure Bot Service, Azure Container Instances, Azure Cosmos DB, Azure Database for MariaDB, Azure Database for MySQL, Azure Database for PostgreSQL, Azure Data Explorer, Azure Database Migration Service, Azure Dedicated HSM, Azure DevTest Labs, Azure DNS, Azure File Sync, Azure Firewall, Azure Front Door, Azure Information Protection, Azure Import/Export , Azure IoT Hub, Azure Key Vault, Azure Kubernetes Service, Azure Lab Services, Azure LockBox, Azure Machine Learning, Azure Managed Applications, Azure Managed Services – Azure Light House, Azure Maps, Azure Migrate, Azure Monitor, Azure Policy, Azure Portal, Azure Resource Graph, Azure Resource Manager (ARM), Azure Search, Azure Security Center, Azure Security for IoT, Azure Sentinel, Azure Service Manager (RDFE), Azure SignalR Service, Azure Site Recovery, Batch, Cloud Shell, Cognitive Services - Computer Vision, Cognitive Services - Content Moderator, Cognitive Services - Face, Cognitive Services - Language Understanding, Cognitive Services - Text Analytics, Cognitive Services - Translator Text, Cloud Services, Container Registry, Cost Management, D365 Integrator APP, Data Factory, Dynamics 365 Forms Pro, Dynamics 365 Service Omni-Channel Engagement Hub, Event Grid, Event Hubs, ExpressRoute, Functions, Guest Configuration, HDInsight, Interflow, Intune, Load Balancer, Log Analytics, Logic Apps, Media Services, Microsoft Azure Government Management Portal, Microsoft Cloud App Security, Microsoft Defender Advanced Threat Protection (MDATP), Microsoft Flow, Microsoft Graph, Microsoft PowerApps, Microsoft Stream, Multi-factor Authentication (MFA), Network Watcher, Network Watcher-Traffic Analytics, Notification Hubs, Power BI Embedded, Power BI, Power Query Online, Redis Cache, Scheduler, Service Fabric, Services Bus, SIPS ML Detections Service, SQL Data Warehouse, SQL Database, SQL Server Stretch Database, Speech Services, StorSimple, Storage (Blobs, Disks, Files, Queues, Tables), Stream Analytics, Traffic Manager, Virtual Machines Scale Sets (VMSS), Virtual Machines, Virtual Network, VPN Gateway, Web Apps (App Service) and supporting infrastructure and platform services.",
-        "Announcement_Date": "2016-06-21T04:00:00.000Z",
-        "CSP_POC_Name": "Microsoft Azure FedRAMP Requests",
-        "CSP_POC_Email": "AzureFedRAMP@microsoft.com",
-        "FedRAMP_In-Process_Date": "2015-07-27T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2016-06-22T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Information Systems Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2016-10-25T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Authorizing_Subagency": "Federal Energy Regulatory Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2017-03-09T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Veterans Affairs",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2020-08-24T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-08-24T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Justice",
-            "Authorizing_Subagency": "Justice Management Division",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-06-06T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-06-06T04:00:00.000Z",
-            "Authorizing_Agency": "United States Equal Employment Opportunity Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/EEOC%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2017-10-13T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-10-13T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-10-13T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2021-08-08T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-08-08T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "Customs and Border Protection",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-10-30T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-12-11T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-12-11T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Centers for Disease Control and Prevention",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-12-14T05:00:00.000Z",
-            "Letter_Expiration_Date": "2021-12-20T05:00:00.000Z",
-            "Authorizing_Agency": "Environmental Protection Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-06-10T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-07-03T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-07-03T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-07-09T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-07-09T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Justice",
-            "Authorizing_Subagency": "Office of Justice Programs",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2019-07-17T04:00:00.000Z",
-            "Authorizing_Agency": "Nuclear Regulatory Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-08-19T04:00:00.000Z",
-            "Authorizing_Agency": "Department of State",
-            "Authorizing_Subagency": "State Office of the Inspector General",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2024-10-24T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-10-28T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-11-04T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Justice",
-            "Authorizing_Subagency": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-12-30T05:00:00.000Z",
-            "Letter_Expiration_Date": "2020-06-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-12-31T05:00:00.000Z",
-            "Authorizing_Agency": "United States Agency for International Development",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-01-16T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Authorizing_Subagency": "National Nuclear Security Administration / Lawrence Livermore National Laboratory",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2020-03-13T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Authorizing_Subagency": "Internal Revenue Service",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Complete Discovery Source",
         "Cloud_Service_Provider_Package": "Federal Cloud Discovery Services (FCDS)",
         "Path": "Agency",
@@ -3360,77 +3202,6 @@
             "Letter_Date": "2019-06-11T04:00:00.000Z",
             "Authorizing_Agency": "Federal Deposit Insurance Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "McAfee",
-        "Cloud_Service_Provider_Package": "MVision Cloud",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1506096710",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2017-10-26T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Commerce",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-        "Authorizing_Agency": "Department of Commerce",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/McAfee%20Logo.png",
-        "Independent_Assessor": "Kratos",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866"
-        ],
-        "CSP_Website": "https://www.mcafee.com/enterprise/en-us/products/mvision-cloud.html",
-        "CSO_Description": "McAfee MVision Cloud is a cloud-native Cloud Access Security Broker (CASB) which enables agencies to accelerate their journey to the cloud by enabling visibility and protection of their data. Using MVision Cloud, agencies can:\n* **Detect:** Gain complete visibility into data, context, and user behavior across all cloud services, users, and devices.\n* **Protect:** Take real-time action to enforce policies across cloud services and apply persistent data protection.\n* **Correct:** Remediate security threats by eliminating security misconfigurations and correcting high-risk user activities.\nSample agency use cases are:\n* Understand cloud services in use and their risk profile\n* Enforce data loss prevention (DLP) policies across data in the cloud\n* Prevent unauthorized sharing of sensitive data to the wrong people\n* Block sync/download of corporate data to personal devices\n* Detect compromised accounts, insider threats, and malware\n* Encrypt data in the cloud using agency-controlled encryption keys\n* Audit and tighten the security settings of cloud services",
-        "Announcement_Date": "2017-11-16T05:00:00.000Z",
-        "CSP_POC_Name": "Petko Stoyanov",
-        "CSP_POC_Email": "fedrampinfo_skyhigh@mcafee.com",
-        "Fedramp_Ready_Date": "2019-09-06T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2017-03-31T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2017-10-26T04:00:00.000Z",
-            "Authorizing_Agency": "National Aeronautics and Space Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NASA_logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-03-22T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-03-28T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Food and Drug Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2021-11-07T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-11-07T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "Customs and Border Protection",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-04-02T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Deposit Insurance Corporation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-04-22T04:00:00.000Z",
-            "Authorizing_Agency": "Nuclear Regulatory Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-05-22T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Authorizing_Subagency": "Idaho Operations Office",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -4076,121 +3847,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Microsoft",
-        "Cloud_Service_Provider_Package": "Dynamics 365 for Government",
-        "Path": "JAB",
-        "Designation": "Compliant",
-        "Package_ID": "F1310142515",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "High",
-        "Original_Authorization_Date": "2018-03-14T04:00:00.000Z",
-        "Sponsoring_Agency": "JAB Authorization",
-        "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Microsoft%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1603087869"
-        ],
-        "CSP_Website": "https://www.microsoft.com/en-us/dynamics/public-sector.aspx#GovernmentCloud",
-        "CSO_Description": "Microsoft Dynamics 365 (Sales, Customer Service, Field Service, Project Service Automation and Marketing) for Government is a government-community cloud that delivers cloud-based public sector solutions to US federal, state, and local government customers, helping leaders, policymakers, and those they serve achieve greater impact within their communities. With core case management functionality out of the box and a variety of built-for-government solutions available, organizations can focus on tailoring Microsoft Dynamics 365 to meet their unique mission requirements. Agencies can track and manage their constituents online, increase cost efficiency, securely manage data, and offer convenient services and transactions around the clock. As a Dynamics 365 Online customer, Microsoft values your trust and is committed to protect the privacy and security of your data. Please refer to [https://www.microsoft.com/en-us/TrustCenter/CloudServices/Dynamics](https://www.microsoft.com/en-us/TrustCenter/CloudServices/Dynamics) for more details.",
-        "Announcement_Date": "2018-03-14T04:00:00.000Z",
-        "CSP_POC_Name": "Shashank Jain",
-        "CSP_POC_Email": "CRMOLGOV@microsoft.com",
-        "FedRAMP_In-Process_Date": "2017-07-13T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2015-07-17T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Housing and Urban Development",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHUD-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2017-03-06T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Veterans Affairs",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2016-12-12T05:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Authorizing_Subagency": "Bureau of Indian Affairs",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2017-04-28T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-04-28T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-04-28T04:00:00.000Z",
-            "Authorizing_Agency": "Social Security Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2018-01-26T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Agriculture",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-06-21T04:00:00.000Z",
-            "Authorizing_Agency": "Tennessee Valley Authority",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-TennesseeValleyAuthority-Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-07-26T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-08-19T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-08-20T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Centers for Disease Control and Prevention",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-03-22T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-01-15T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-04-18T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Administration for Children & Families",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2017-10-17T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-01-17T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Authorizing_Subagency": "Federal Student Aid",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2021-03-13T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-12-17T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Veterans Affairs",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-07-09T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-07-09T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Justice",
-            "Authorizing_Subagency": "Office of Justice Programs",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-12-10T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Authorizing_Subagency": "National Nuclear Security Administration / Lawrence Livermore National Laboratory",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Apptio",
         "Cloud_Service_Provider_Package": "The Apptio Technology Business Management (TBM)",
         "Path": "JAB",
@@ -4229,6 +3885,14 @@
             "Letter_Expiration_Date": "2023-03-25T04:00:00.000Z",
             "Authorizing_Agency": "General Services Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2022-10-10T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-10-09T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "United States Strategic Command",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -4907,6 +4571,7 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-03-29T04:00:00.000Z",
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Defense Information Systems Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -5140,7 +4805,7 @@
         "CSO_Description": "Infor Regulated Industries Software-as-a-Service (SaaS) is a web-architected solution powered by the **Infor Operating Service Platform (InforOS).** IRIS is comprised of integrated cloud suites that align to specific industries such as **Public Sector, Aerospace & Defense, Industrial, and Healthcare.**  These cloud suites support workloads for disciplines including **Asset & Maintenance Management, Human Capital Management, Financial & Supply Management and Manufacturing.** IRIS is hosted in an isolated government-only region of AWS GovCloud (US). AWS GovCloud adheres to U.S. International Traffic in Arms Regulations (ITAR), Federal Risk and Authorization Management Program (FedRAMP), Criminal Justice Information Services (CJIS) requirements, and Department of Defense (DoD) Cloud Computing Security Requirements Guide (SRG) Impact Levels 2, 4, and 5.\n\nIRIS offerings are categorized using the Federal Risk and Authorization Management Program (FedRAMP) baseline to withstand a moderate impact level. In addition to IRIS’ FedRAMP Joint Authorization Board (JAB) authorization, IRIS is also compliant for Health Insurance Portability and Accountability Act of 1996 (HIPAA) and NIST SP 800-171, rev 1, *Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations.*\n\n**Infor Platform: Infor Operating Service Platform (InforOS):** provides cloud computing architecture, open source software and in-memory computing technology, delivering high performance, support for open standards, enhanced productivity, responsive design, and mobile access via a wide range of devices. The various components of Infor OS work together to automate, anticipate, predict, and inform stakeholders, unifying the UX to support the mission.\n\n* **Infor Federated Security (IFS):** synchronizes customer multi-factor authentication (MFA) access to provisioned IRIS applications using single sign on (SSO).\n* **Ming.le:** is a comprehensive platform for social collaboration, business process improvement and contextual analytics; it provides web portal access and display to all IRIS applications available to the customer.\n* **Homepages:** provides customers the ability to build custom pages or select from Infor provided widgets. Homepages offers a flexible and highly configurable way to present IRIS application information and analytics data to customer users.\n* **Intelligent Open Network (ION):** serves as the process integration middleware platform giving customers flexibility to make a complex web of enterprise systems work together, and long-term sustainability to optimize return on technology investments. \n* **ION API Gateway:** provides a single API gateway for all API calls and programmatic access to IRIS applications.\n* **Infor Document Management (IDM):** enables customers to capture, create, manage and access organization-specific business documents and use contextual intelligence to display documents with relation to their business purpose.\n* **Dynamic Enterprise Performance Management (d/EPM) Platform:** an in-memory analytics platform that provides instant consolidation of data and immediate user feedback for HCM applications on Analytics, Financial Performance Management, Risk & Compliance.\n* **Data Lake:** delivers schema-on-read intelligence and a fast, flexible data consumption framework that provides customers with needed information when making key decisions.\n\n**Business Intelligence & Analytics: Infor Birst** is a native cloud business intelligence (BI) and business analytics platform helping organizations understand and optimize complex processes in less time than traditional BI solutions. Built with patented automation and machine learning technologies, Birst’s “networked BI” approach connects teams and applications across the enterprise via a trusted network of analytics and insights for smarter decisions.\n\n**Asset & Maintenance Management: Infor Enterprise Asset Management (EAM) with Mobility** is a fully web-architected to help proactively manage assets, asset information, and maintenance activities. Infor’s best-in-class asset management modules and unique features automatically assign work orders, effectively forecast likely failure points, and automate purchasing and inventory management. EAM has built-in configuration and industry-specific features for last-mile functionality in manufacturing, facilities, life sciences, fleet/transportation, municipalities and public sector organizations. \n\n* **Facilities Management**: is configured with 14 separate workflows with out-of-the-box functionality. Infor EAM is pre-loaded with American Society of Heating, Refrigerating, and Air-Conditioning Engineers (ASHRAE) standards for equipment classifications, along with standard structures for mechanical, electrical, plumbing, and architectural systems.\n* **Maintenance, Repair & Overhaul (MRO):** is an intuitive solution to manage MRO activities holistically. Built in industry-specific editions address the unique needs of Fleets, Equipment, Labs and Utilities. Unlike niche solutions, or ERP add-on products requiring extensive customization Infor MRO can grow with you, or ERP add-on products that require extensive customization, Infor MRO is a purpose-built asset and maintenance management tool that’s able to scale and transform your organization.\n\n**Human Capital Management (HCM):** Infor HCM provides a powerful set of cloud-based human capital management solutions to replace complex processes, workflows, and systems. Sophisticated, yet intuitive technology, empowers your HR professionals to deliver streamlined workforce processes.\n\n* **Global HR:** empowers HR departments to unify both data and processes and has the industry's broadest feature set of configurable, simplified, flexible and personalized core HR capabilities. GHR helps manage the person system of record, absence management, time entry, and benefits administration workflows. Cloud-based, mobile-enabled HR software frees your global teams from time-consuming transactional tasks enabling timely, accurate, and insightful data to all of your relevant HR and business applications.\n* **Talent Management:** is an integrated set of applications and performance management software organically built to support your strategic people initiatives by unlocking the potential of your organization's talent. Identify, hire, develop, reward, and retain the best of the best, all using a single, unified user experience.\n* **Work Force Management:** is a comprehensive labor optimization, planning, and time and attendance solution managing employee resource demand, labor performance, and business analytics. WFM addresses all aspects of labor compliance and performance needs with time and attendance, demand-driven scheduling, workforce scheduling, and absence management tools, mitigating potential compliance errors and reducing costs.\n* **Talent Science:** is a predictive talent analytics and pre-employment testing solution that leverage large quantities of behavioral and performance data helping organizations build career pathing strategies with long-term engagement and development.\n* **Payroll:** is a scalable solution integrating personnel information seamlessly with compensation, benefits, absence, time-entry management, and employee self-services. Infor Payroll reduces administration workload and duplication of effort with a powerful control monitoring system. Update your payroll practices with a reliable and highly secure solution that meets the needs of complex pay job costing components.\n\n**Financial & Supply Management:** Improve operations throughout your organization with the security, scalability, and financial sophistication of Infor’s financial management solutions. Configured to suit the unique needs of your industry, Infor’s innovative solutions can help you eliminate duplicate records and spreadsheets and improve financial performance across your entire organization. \n\n* **Financials & Supply Management:** is an integrated finance and supply management software suite that couples modern financial functionality with tools to track supplies and streamline order processes. End-to-end, fully integrated capabilities are designed specifically for today’s Public Sector users.\n* **Expense Management:** provides a flexible and configurable travel and entertainment (T&E) expense solution, built for mobile usage and social collaboration. It includes a suite of four integrated applications (Expense Reports, Travel Plans, Payment Requests, and Timesheets) can be used either individually or in any combination to automate expense-related business processes, enforce policy compliance, cut administrative costs, and reduce the risk of accidental errors and intentional fraud.\n\n**Manufacturing:** Infor’s manufacturing choices offered provide a ready-to-run solutions, built specifically to meet the needs of Government, Industrial, and Aerospace & Defense companies and organizations. It provides deep, proven capabilities in key areas such as product design, program management, regulation compliance, supply chain visibility, manufacturing production, global finance, and maintenance, repair, and overhaul (MRO) service.\n\n* **CS Industrial:**  Infor SyteLine provides an end-to-end ERP solution for both discrete and process manufacturers, which includes predictive analytics, collaboration, lean production tools, and integration options.\n* **CS Industrial: Factory Track™** is an end-to-end manufacturing automation solution, along with warehouse mobility, traceability, and tools for tracking labor and time. Designed to help companies streamline production, properly inventory materials, speed inventory operations, keep labor costs in control, and integrate with Infor's industrial manufacturing platform. Get the visibility and insight to understand true costs, improve cycle times, and respond to customer expectations for on-time delivery.\n",
         "Announcement_Date": "2018-07-10T04:00:00.000Z",
         "CSP_POC_Name": "Joe Arthur",
-        "CSP_POC_Email": "govsaas@infor.com",
+        "CSP_POC_Email": "IRIS@Infor.com",
         "Fedramp_Ready_Date": "2017-07-25T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2018-04-18T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
@@ -5327,36 +4992,6 @@
         "CSP_POC_Name": "Paul Chadha",
         "CSP_POC_Email": "info@trapwire.com",
         "FedRAMP_In-Process_Date": "2016-02-05T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Zscaler",
-        "Cloud_Service_Provider_Package": "Zscaler Private Access – Government (Zero Trust Networking – VPN Replacement)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1719759604",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2018-08-10T04:00:00.000Z",
-        "Sponsoring_Agency": "Federal Communications Commission",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
-        "Authorizing_Agency": "Federal Communications Commission",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Zscaler%20Logo.png",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW",
-          "F1603047866"
-        ],
-        "CSP_Website": "www.zscaler.com",
-        "CSO_Description": "**ZSCALER PRIVATE ACCESS**\n**The first major breakthrough in secure remote access since the VPN**\nZscaler is a leader in securing Internet traffic for enterprises around the globe, with a cloud-based security platform designed to protect enterprise Internet traffic with Secure Web Gateway, Cloud Application Visibility and Control, Cloud Sandboxing, Data Loss Prevention, and more. Zscaler Private Access builds from the same cloud-based, elastically scalable infrastructure to deliver seamless connectivity to private internal applications and assets.\nZscaler Private Access solves the challenges posed by a traditional VPN infrastructure by decoupling your internal assets and applications from the limitations, cost, and complexity of direct IP network connections. Zscaler Private Access delivers seamless connectivity to private internal applications and assets whether they are in the cloud, the data center, or both. Policy-driven access adjusts dynamically to network changes, enabling enterprise agility while improving user experience.\nWith Zscaler Private Access, there is no need to provision VPN termination hardware, or to ensure that such a deployment is globally distributed and redundant. Users no longer need to go through a termination appliance in the data center to get to apps in the cloud. In fact, there is no hardware to buy at all, because Zscaler Private Access, like our Cloud Security Platform, functions as a service.\nZscaler maintains all hardware and software, freeing both your IT team and your budget even as we reduce latency and boost scalability. Zscaler Private Access is tied directly to your existing authentication infrastructure, leveraging single sign-on to further reduce complexity. The result is that unlike traditional, network-based remote access solutions, Zscaler Private Access can be deployed in a matter of hours instead of taking weeks or months.\n**Improve your security posture even as you provide seamless access**\nThe reductions in overall cost and complexity are compelling on their own, but the paramount feature of the Zscaler Private Access solution is security. Once a connection is established between the asset and the client, the traffic traversing the solution remains completely isolated; because Zscaler Private Access is built on the premise of zero trust for your private applications, the traffic is isolated from us, as well. And because Zscaler Private Access abstracts the asset from the network, it not only ensures seamless access regardless of physical location, it dramatically increases your overall security posture by effectively making your most sensitive material invisible. Any attempt to route back to the application/asset meets a dead end.\n**Connect by application, not by IP address**\nVPNs have been designed to deliver access to a network, not to an application. Once on a network, malware can propagate and users may be able to get access to adjacent applications from which they should be restricted. In addition, because VPN concentrators must listen for inbound connection attempts, they present an attack surface which may be exploited by such things as Distributed Denial of Service attacks.\nEliminate the cost of VPNs and associated equipment\nAs part of our global, cloud-based security platform, Zscaler maintains all hardware and software, which frees both your IT staff and your budget and enables deployment in a matter of hours. Even better, Zscaler Private Access is deployed via the same Zscaler App you use to access our cloud security platform, which greatly reduces your “client sprawl” by delivering a\nsingle app that provisions Zscaler Remote Access, Secure Web Gateway, Data Loss Prevention, Cloud Sandboxing, Cloud Firewall, and more.\nTake your applications from “on-net” to “dark- net,” at the same time YOU get complete visibility. Zscaler Private Access renders your applications invisible to all but authorized users, and unroutable to anyone. But because the solution works at the application layer, we also deliver a level of visibility to you that has never before been possible. Once you provision a Connector in front of a bank of assets, you can use a wildcard attribute to discover exactly what applications are actually running there. Some customers have found almost ten times as many applications in use as they had expected! And once you know what applications are running, you can easily create granular access rules for them.\nApp Discovery makes deployment easy.",
-        "Announcement_Date": "2018-08-10T04:00:00.000Z",
-        "CSP_POC_Name": "Stephen Kovac",
-        "CSP_POC_Email": "fedramp@zscaler.com",
-        "Fedramp_Ready_Date": "2019-08-30T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2017-04-14T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -8854,6 +8489,13 @@
             "Authorizing_Agency": "United States International Trade Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USITC%20Logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-01-31T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-02-07T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -10623,6 +10265,304 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Microsoft",
+        "Cloud_Service_Provider_Package": "Azure Government",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "F1603087869",
+        "Service_Model": [
+          "IaaS, PaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Original_Authorization_Date": "2020-04-17T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Microsoft%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "CSP_Website": "http://azure.microsoft.com/en-us/",
+        "CSO_Description": "Microsoft Azure Government is a government-community cloud that offers hyper-scale compute, storage, networking, and identity management services, with world-class security. A physically and network-isolated instance of Microsoft Azure, operated by screened U.S. citizens, Azure Government provides standards-compliant IaaS and PaaS that has now received a FedRAMP JAB P-ATO. All services are available immediately for supporting secure US government workloads, including CJIS, IRS 1075 FTI, HIPAA, DoD, and federal agency data.\n\nThe following Microsoft services are FedRAMP Authorized and approved by the JAB at the High Impact Level: API Management, Application Gateway, Automation, Azure Active Directory (AAD) Free, Azure Advanced Threat Protection, Azure Advisor, Azure Active Directory (AAD) Premium P1 + P2, Azure Analysis Services, Azure Archive Storage, Azure Backup, Azure Blueprints, Azure Bot Service, Azure Container Instances, Azure Cosmos DB, Azure Database for MariaDB, Azure Database for MySQL, Azure Database for PostgreSQL, Azure Data Explorer, Azure Database Migration Service, Azure Dedicated HSM, Azure DevTest Labs, Azure DNS, Azure File Sync, Azure Firewall, Azure Front Door, Azure Information Protection, Azure Import/Export , Azure IoT Hub, Azure Key Vault, Azure Kubernetes Service, Azure Lab Services, Azure LockBox, Azure Machine Learning, Azure Managed Applications, Azure Managed Services – Azure Light House, Azure Maps, Azure Migrate, Azure Monitor, Azure Policy, Azure Portal, Azure Resource Graph, Azure Resource Manager (ARM), Azure Search, Azure Security Center, Azure Security for IoT, Azure Sentinel, Azure Service Manager (RDFE), Azure SignalR Service, Azure Site Recovery, Batch, Cloud Shell, Cognitive Services - Computer Vision, Cognitive Services - Content Moderator, Cognitive Services - Face, Cognitive Services - Language Understanding, Cognitive Services - Text Analytics, Cognitive Services - Translator Text, Cloud Services, Container Registry, Cost Management, D365 Integrator APP, Data Factory, Dynamics 365 Forms Pro, Dynamics 365 Service Omni-Channel Engagement Hub, Event Grid, Event Hubs, ExpressRoute, Functions, Guest Configuration, HDInsight, Interflow, Intune, Load Balancer, Log Analytics, Logic Apps, Media Services, Microsoft Azure Government Management Portal, Microsoft Cloud App Security, Microsoft Defender Advanced Threat Protection (MDATP), Microsoft Flow, Microsoft Graph, Microsoft PowerApps, Microsoft Stream, Multi-factor Authentication (MFA), Network Watcher, Network Watcher-Traffic Analytics, Notification Hubs, Power BI Embedded, Power BI, Power Query Online, Redis Cache, Scheduler, Service Fabric, Services Bus, SIPS ML Detections Service, SQL Data Warehouse, SQL Database, SQL Server Stretch Database, Speech Services, StorSimple, Storage (Blobs, Disks, Files, Queues, Tables), Stream Analytics, Traffic Manager, Virtual Machines Scale Sets (VMSS), Virtual Machines, Virtual Network, VPN Gateway, Web Apps (App Service) and supporting infrastructure and platform services.",
+        "Announcement_Date": "2020-04-29T04:00:00.000Z",
+        "CSP_POC_Name": "Microsoft Azure FedRAMP Requests",
+        "CSP_POC_Email": "AzureFedRAMP@microsoft.com",
+        "FedRAMP_In-Process_Date": "2019-03-19T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2016-06-22T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Information Systems Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2016-10-25T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "Federal Energy Regulatory Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2017-03-09T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2020-08-24T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-08-24T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Justice",
+            "Authorizing_Subagency": "Justice Management Division",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2018-06-06T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-06-06T04:00:00.000Z",
+            "Authorizing_Agency": "United States Equal Employment Opportunity Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/EEOC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2017-10-13T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-10-13T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-10-13T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2021-08-08T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-08-08T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Customs and Border Protection",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2018-10-30T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-12-11T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-12-11T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Centers for Disease Control and Prevention",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2018-12-14T05:00:00.000Z",
+            "Letter_Expiration_Date": "2021-12-20T05:00:00.000Z",
+            "Authorizing_Agency": "Environmental Protection Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-06-10T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-07-03T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-07-03T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-07-09T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-07-09T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Justice",
+            "Authorizing_Subagency": "Office of Justice Programs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2019-07-17T04:00:00.000Z",
+            "Authorizing_Agency": "Nuclear Regulatory Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-08-19T04:00:00.000Z",
+            "Authorizing_Agency": "Department of State",
+            "Authorizing_Subagency": "State Office of the Inspector General",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2024-10-24T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-10-28T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-11-04T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Justice",
+            "Authorizing_Subagency": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-12-30T05:00:00.000Z",
+            "Letter_Expiration_Date": "2020-06-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-12-31T05:00:00.000Z",
+            "Authorizing_Agency": "United States Agency for International Development",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-01-16T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "National Nuclear Security Administration / Lawrence Livermore National Laboratory",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2020-03-13T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Internal Revenue Service",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Zscaler",
+        "Cloud_Service_Provider_Package": "Zscaler Private Access – Government (Zero Trust Networking – VPN Replacement)",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "FR1719759604",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Original_Authorization_Date": "2020-04-21T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Zscaler%20Logo.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.zscaler.com",
+        "CSO_Description": "**ZSCALER PRIVATE ACCESS**\n**The first major breakthrough in secure remote access since the VPN**\nZscaler is a leader in securing Internet traffic for enterprises around the globe, with a cloud-based security platform designed to protect enterprise Internet traffic with Secure Web Gateway, Cloud Application Visibility and Control, Cloud Sandboxing, Data Loss Prevention, and more. Zscaler Private Access builds from the same cloud-based, elastically scalable infrastructure to deliver seamless connectivity to private internal applications and assets.\nZscaler Private Access solves the challenges posed by a traditional VPN infrastructure by decoupling your internal assets and applications from the limitations, cost, and complexity of direct IP network connections. Zscaler Private Access delivers seamless connectivity to private internal applications and assets whether they are in the cloud, the data center, or both. Policy-driven access adjusts dynamically to network changes, enabling enterprise agility while improving user experience.\nWith Zscaler Private Access, there is no need to provision VPN termination hardware, or to ensure that such a deployment is globally distributed and redundant. Users no longer need to go through a termination appliance in the data center to get to apps in the cloud. In fact, there is no hardware to buy at all, because Zscaler Private Access, like our Cloud Security Platform, functions as a service.\nZscaler maintains all hardware and software, freeing both your IT team and your budget even as we reduce latency and boost scalability. Zscaler Private Access is tied directly to your existing authentication infrastructure, leveraging single sign-on to further reduce complexity. The result is that unlike traditional, network-based remote access solutions, Zscaler Private Access can be deployed in a matter of hours instead of taking weeks or months.\n**Improve your security posture even as you provide seamless access**\nThe reductions in overall cost and complexity are compelling on their own, but the paramount feature of the Zscaler Private Access solution is security. Once a connection is established between the asset and the client, the traffic traversing the solution remains completely isolated; because Zscaler Private Access is built on the premise of zero trust for your private applications, the traffic is isolated from us, as well. And because Zscaler Private Access abstracts the asset from the network, it not only ensures seamless access regardless of physical location, it dramatically increases your overall security posture by effectively making your most sensitive material invisible. Any attempt to route back to the application/asset meets a dead end.\n**Connect by application, not by IP address**\nVPNs have been designed to deliver access to a network, not to an application. Once on a network, malware can propagate and users may be able to get access to adjacent applications from which they should be restricted. In addition, because VPN concentrators must listen for inbound connection attempts, they present an attack surface which may be exploited by such things as Distributed Denial of Service attacks.\nEliminate the cost of VPNs and associated equipment\nAs part of our global, cloud-based security platform, Zscaler maintains all hardware and software, which frees both your IT staff and your budget and enables deployment in a matter of hours. Even better, Zscaler Private Access is deployed via the same Zscaler App you use to access our cloud security platform, which greatly reduces your “client sprawl” by delivering a\nsingle app that provisions Zscaler Remote Access, Secure Web Gateway, Data Loss Prevention, Cloud Sandboxing, Cloud Firewall, and more.\nTake your applications from “on-net” to “dark- net,” at the same time YOU get complete visibility. Zscaler Private Access renders your applications invisible to all but authorized users, and unroutable to anyone. But because the solution works at the application layer, we also deliver a level of visibility to you that has never before been possible. Once you provision a Connector in front of a bank of assets, you can use a wildcard attribute to discover exactly what applications are actually running there. Some customers have found almost ten times as many applications in use as they had expected! And once you know what applications are running, you can easily create granular access rules for them.\nApp Discovery makes deployment easy.",
+        "Announcement_Date": "2020-04-29T04:00:00.000Z",
+        "CSP_POC_Name": "Stephen Kovac",
+        "CSP_POC_Email": "fedramp@zscaler.com",
+        "Fedramp_Ready_Date": "2019-08-30T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2020-02-26T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2018-08-06T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-08-10T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Communications Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "McAfee",
+        "Cloud_Service_Provider_Package": "MVision Cloud",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "F1506096710",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Original_Authorization_Date": "2020-03-31T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/McAfee%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "https://www.mcafee.com/enterprise/en-us/products/mvision-cloud.html",
+        "CSO_Description": "McAfee MVision Cloud is a cloud-native Cloud Access Security Broker (CASB) which enables agencies to accelerate their journey to the cloud by enabling visibility and protection of their data. Using MVision Cloud, agencies can:\n* **Detect:** Gain complete visibility into data, context, and user behavior across all cloud services, users, and devices.\n* **Protect:** Take real-time action to enforce policies across cloud services and apply persistent data protection.\n* **Correct:** Remediate security threats by eliminating security misconfigurations and correcting high-risk user activities.\nSample agency use cases are:\n* Understand cloud services in use and their risk profile\n* Enforce data loss prevention (DLP) policies across data in the cloud\n* Prevent unauthorized sharing of sensitive data to the wrong people\n* Block sync/download of corporate data to personal devices\n* Detect compromised accounts, insider threats, and malware\n* Encrypt data in the cloud using agency-controlled encryption keys\n* Audit and tighten the security settings of cloud services",
+        "Announcement_Date": "2020-04-29T04:00:00.000Z",
+        "CSP_POC_Name": "Petko Stoyanov",
+        "CSP_POC_Email": "fedrampinfo_skyhigh@mcafee.com",
+        "Fedramp_Ready_Date": "2019-09-06T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2019-12-13T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2017-10-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2017-10-26T04:00:00.000Z",
+            "Authorizing_Agency": "National Aeronautics and Space Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NASA_logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2018-03-22T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-03-28T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2021-11-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-11-07T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Customs and Border Protection",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-04-02T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Deposit Insurance Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-04-22T04:00:00.000Z",
+            "Authorizing_Agency": "Nuclear Regulatory Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-05-22T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "Idaho Operations Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Lookout, Inc.",
+        "Cloud_Service_Provider_Package": "Lookout Mobile Endpoint Security",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "F1603297883",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-04-17T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Lookout%20Logo.png",
+        "Independent_Assessor": "EmeSec Incorporated",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
+        "CSP_Website": "www.lookout.com/gov",
+        "CSO_Description": "Lookout Mobile Endpoint Security is an enterprise-grade mobile security solution that provides comprehensive risk management across mobile devices, including iOS and Android, to secure against application, device, and network-based threats while providing visibility and control over data leakage. The Lookout Mobile Endpoint Security suite enables government agencies to secure the organization from mobile threats, identify and control non-compliant mobile apps that pose data leakage risks, and gain visibility into mobile endpoints. Lookout empowers government agencies to adopt secure mobility across personal and GFE devices without compromising productivity.",
+        "Announcement_Date": "2020-04-29T04:00:00.000Z",
+        "CSP_POC_Name": "Tim LeMaster",
+        "CSP_POC_Email": "fedramp@lookout.com",
+        "Fedramp_Ready_Date": "2019-07-02T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2020-01-31T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Amplifire",
         "Cloud_Service_Provider_Package": "Amplifire",
         "Path": "Agency",
@@ -11362,29 +11302,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Lookout, Inc.",
-        "Cloud_Service_Provider_Package": "Lookout Mobile Endpoint Security",
-        "Path": "JAB",
-        "Designation": "In Process",
-        "Package_ID": "F1603297883",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "JAB Authorization",
-        "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Lookout%20Logo.png",
-        "Independent_Assessor": "EmeSec Incorporated",
-        "CSP_Website": "www.lookout.com/gov",
-        "CSO_Description": "Lookout Mobile Endpoint Security is an enterprise-grade mobile security solution that provides comprehensive risk management across mobile devices, including iOS and Android, to secure against application, device, and network-based threats while providing visibility and control over data leakage. The Lookout Mobile Endpoint Security suite enables government agencies to secure the organization from mobile threats, identify and control non-compliant mobile apps that pose data leakage risks, and gain visibility into mobile endpoints. Lookout empowers government agencies to adopt secure mobility across personal and GFE devices without compromising productivity.",
-        "CSP_POC_Name": "Tim LeMaster",
-        "CSP_POC_Email": "fedramp@lookout.com",
-        "Fedramp_Ready_Date": "2019-07-02T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2020-01-31T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "M.C. Dean, Inc.",
         "Cloud_Service_Provider_Package": "Infrastructure Maintenance Management System (IMMS) Cloud Computing Environment (CCE)",
         "Designation": "FedRAMP Ready",
@@ -11401,29 +11318,6 @@
         "CSP_POC_Name": "Agnes Onyango-Abuje",
         "CSP_POC_Email": "fedramp@mcdean.com",
         "Fedramp_Ready_Date": "2019-08-06T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "McAfee",
-        "Cloud_Service_Provider_Package": "MVision Cloud - JAB",
-        "Path": "JAB",
-        "Designation": "In Process",
-        "Package_ID": "F1506096710A",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "High",
-        "Sponsoring_Agency": "JAB Authorization",
-        "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/McAfee%20Logo.png",
-        "Independent_Assessor": "Kratos",
-        "CSP_Website": "https://www.mcafee.com/enterprise/en-us/products/mvision-cloud.html",
-        "CSO_Description": "McAfee MVision Cloud is a cloud-native Cloud Access Security Broker (CASB) which enables agencies to accelerate their journey to the cloud by enabling visibility and protection of their data. Using MVision Cloud, agencies can:\n* **Detect:** Gain complete visibility into data, context, and user behavior across all cloud services, users, and devices.\n* **Protect:** Take real-time action to enforce policies across cloud services and apply persistent data protection.\n* **Correct:** Remediate security threats by eliminating security misconfigurations and correcting high-risk user activities.\nSample agency use cases are:\n* Understand cloud services in use and their risk profile\n* Enforce data loss prevention (DLP) policies across data in the cloud\n* Prevent unauthorized sharing of sensitive data to the wrong people\n* Block sync/download of corporate data to personal devices\n* Detect compromised accounts, insider threats, and malware\n* Encrypt data in the cloud using agency-controlled encryption keys\n* Audit and tighten the security settings of cloud services",
-        "CSP_POC_Name": "Petko Stoyanov",
-        "CSP_POC_Email": "fedrampinfo_skyhigh@mcafee.com",
-        "Fedramp_Ready_Date": "2019-09-06T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2019-12-13T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -12356,29 +12250,6 @@
         "CSP_POC_Name": "Chris Weiskirch",
         "CSP_POC_Email": "fedramp@zendesk.com",
         "FedRAMP_In-Process_Date": "2020-01-30T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Zscaler",
-        "Cloud_Service_Provider_Package": "Zscaler Private Access – Government (Zero Trust Networking – VPN Replacement) - JAB",
-        "Path": "JAB",
-        "Designation": "In Process",
-        "Package_ID": "FR1719759604A",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "High",
-        "Sponsoring_Agency": "JAB Authorization",
-        "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Zscaler%20Logo.png",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "CSP_Website": "www.zscaler.com",
-        "CSO_Description": "**ZSCALER PRIVATE ACCESS**\n**The first major breakthrough in secure remote access since the VPN**\nZscaler is a leader in securing Internet traffic for enterprises around the globe, with a cloud-based security platform designed to protect enterprise Internet traffic with Secure Web Gateway, Cloud Application Visibility and Control, Cloud Sandboxing, Data Loss Prevention, and more. Zscaler Private Access builds from the same cloud-based, elastically scalable infrastructure to deliver seamless connectivity to private internal applications and assets.\nZscaler Private Access solves the challenges posed by a traditional VPN infrastructure by decoupling your internal assets and applications from the limitations, cost, and complexity of direct IP network connections. Zscaler Private Access delivers seamless connectivity to private internal applications and assets whether they are in the cloud, the data center, or both. Policy-driven access adjusts dynamically to network changes, enabling enterprise agility while improving user experience.\nWith Zscaler Private Access, there is no need to provision VPN termination hardware, or to ensure that such a deployment is globally distributed and redundant. Users no longer need to go through a termination appliance in the data center to get to apps in the cloud. In fact, there is no hardware to buy at all, because Zscaler Private Access, like our Cloud Security Platform, functions as a service.\nZscaler maintains all hardware and software, freeing both your IT team and your budget even as we reduce latency and boost scalability. Zscaler Private Access is tied directly to your existing authentication infrastructure, leveraging single sign-on to further reduce complexity. The result is that unlike traditional, network-based remote access solutions, Zscaler Private Access can be deployed in a matter of hours instead of taking weeks or months.\n**Improve your security posture even as you provide seamless access**\nThe reductions in overall cost and complexity are compelling on their own, but the paramount feature of the Zscaler Private Access solution is security. Once a connection is established between the asset and the client, the traffic traversing the solution remains completely isolated; because Zscaler Private Access is built on the premise of zero trust for your private applications, the traffic is isolated from us, as well. And because Zscaler Private Access abstracts the asset from the network, it not only ensures seamless access regardless of physical location, it dramatically increases your overall security posture by effectively making your most sensitive material invisible. Any attempt to route back to the application/asset meets a dead end.\n**Connect by application, not by IP address**\nVPNs have been designed to deliver access to a network, not to an application. Once on a network, malware can propagate and users may be able to get access to adjacent applications from which they should be restricted. In addition, because VPN concentrators must listen for inbound connection attempts, they present an attack surface which may be exploited by such things as Distributed Denial of Service attacks.\nEliminate the cost of VPNs and associated equipment\nAs part of our global, cloud-based security platform, Zscaler maintains all hardware and software, which frees both your IT staff and your budget and enables deployment in a matter of hours. Even better, Zscaler Private Access is deployed via the same Zscaler App you use to access our cloud security platform, which greatly reduces your “client sprawl” by delivering a\nsingle app that provisions Zscaler Remote Access, Secure Web Gateway, Data Loss Prevention, Cloud Sandboxing, Cloud Firewall, and more.\nTake your applications from “on-net” to “dark- net,” at the same time YOU get complete visibility. Zscaler Private Access renders your applications invisible to all but authorized users, and unroutable to anyone. But because the solution works at the application layer, we also deliver a level of visibility to you that has never before been possible. Once you provision a Connector in front of a bank of assets, you can use a wildcard attribute to discover exactly what applications are actually running there. Some customers have found almost ten times as many applications in use as they had expected! And once you know what applications are running, you can easily create granular access rules for them.\nApp Discovery makes deployment easy.",
-        "CSP_POC_Name": "Stephen Kovac",
-        "CSP_POC_Email": "fedramp@zscaler.com",
-        "Fedramp_Ready_Date": "2019-08-30T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2020-02-26T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       }
     ],
