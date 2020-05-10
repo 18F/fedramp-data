@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-05-09T04:40:50.461Z",
+    "Created_At": "2020-05-10T04:40:50.603Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2312,114 +2312,6 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-02-13T05:00:00.000Z",
             "Authorizing_Agency": "Department of Veterans Affairs",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "AINS",
-        "Cloud_Service_Provider_Package": "eCase",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "AGENCYHUDSAAS",
-        "Service_Model": [
-          "PaaS, SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2017-01-18T05:00:00.000Z",
-        "Original_Expiration_Date": "2020-01-18T05:00:00.000Z",
-        "Sponsoring_Agency": "Department of Housing and Urban Development",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHUD-Seal.png",
-        "Authorizing_Agency": "Department of Housing and Urban Development",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/AINS%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.ains.com",
-        "CSO_Description": "eCase is a robust Platform as a Service for implementing multiple, coexisting adaptive case management SaaS solutions including eCase-Correspondence, eCase-HR, eCase-Audit and FOIAXpress (the industry leading purpose-built FOIA case processing software) within a single commercial off-the-shelf (COTS) solution. eCase provides a dynamic case management framework with the capability to power a wide range of workflow-driven processes and core case management functions, tracking and reporting around a wide range of business process verticals and can help agencies manage their business information efficiently and automate workflow processes, gaining a valuable competitive advantage.",
-        "Announcement_Date": "2014-02-21T05:00:00.000Z",
-        "CSP_POC_Name": "GP Sinha",
-        "CSP_POC_Email": "info@ains.com",
-        "FedRAMP_In-Process_Date": "2012-12-18T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2017-05-11T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-04-24T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-04-25T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Trade Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-04-16T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-04-16T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Agriculture",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-09-24T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-09-24T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Authorizing_Subagency": "Office of the Comptroller of the Currency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-12-27T05:00:00.000Z",
-            "Letter_Expiration_Date": "2022-04-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-04-02T04:00:00.000Z",
-            "Authorizing_Agency": "United States Agency for International Development",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-07-09T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-07-09T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Justice",
-            "Authorizing_Subagency": "Office of Justice Programs",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-06-05T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Authorizing_Subagency": "DoED Office of the Inspector General",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-08-19T04:00:00.000Z",
-            "Authorizing_Agency": "Department of State",
-            "Authorizing_Subagency": "State Office of the Inspector General",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-01-17T05:00:00.000Z",
-            "Letter_Expiration_Date": "2023-01-16T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-01-17T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Veterans Affairs",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-02-09T05:00:00.000Z",
-            "Letter_Expiration_Date": "2020-12-16T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-02-09T05:00:00.000Z",
-            "Authorizing_Agency": "Peace Corps",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Peace%20Corps%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2020-02-24T05:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Authorizing_Subagency": "Internal Revenue Service",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -10734,10 +10626,118 @@
         "CSP_Website": "www.hackerone.com",
         "CSO_Description": "HackerOne is a multi-tenant Vulnerability Disclosure and crowdsourced Bug Bounty platform. Organizations rely on HackerOne to detect unknown security vulnerabilities in public-facing systems as well as sensitive assets that are not publicly disclosed. This is done by giving customers access to the world’s largest community of crowdsourced security researchers. Researchers then conduct remote, internet based, crowdsourced vulnerability discovery and disclosure services against internet-accessible assets, including public-facing websites, networks, systems, and applications.",
         "Announcement_Date": "2020-05-06T04:00:00.000Z",
-        "CSP_POC_Name": "Reed Loden",
+        "CSP_POC_Name": "HackerOne FedRAMP Team",
         "CSP_POC_Email": "fedramp@hackerone.com",
         "FedRAMP_In-Process_Date": "2019-05-08T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "AINS",
+        "Cloud_Service_Provider_Package": "eCase",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "AGENCYHUDSAAS",
+        "Service_Model": [
+          "PaaS, SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-04-21T04:00:00.000Z",
+        "Original_Expiration_Date": "2020-07-18T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Housing and Urban Development",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHUD-Seal.png",
+        "Authorizing_Agency": "Department of Housing and Urban Development",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/AINS%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.ains.com",
+        "CSO_Description": "eCase is a robust Platform as a Service for implementing multiple, coexisting adaptive case management SaaS solutions including eCase-Correspondence, eCase-HR, eCase-Audit and FOIAXpress (the industry leading purpose-built FOIA case processing software) within a single commercial off-the-shelf (COTS) solution. eCase provides a dynamic case management framework with the capability to power a wide range of workflow-driven processes and core case management functions, tracking and reporting around a wide range of business process verticals and can help agencies manage their business information efficiently and automate workflow processes, gaining a valuable competitive advantage.",
+        "Announcement_Date": "2014-02-21T05:00:00.000Z",
+        "CSP_POC_Name": "GP Sinha",
+        "CSP_POC_Email": "info@ains.com",
+        "FedRAMP_In-Process_Date": "2012-12-18T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2017-05-11T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2018-04-24T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-04-25T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Trade Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2018-04-16T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-04-16T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2018-09-24T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-09-24T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Office of the Comptroller of the Currency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2018-12-27T05:00:00.000Z",
+            "Letter_Expiration_Date": "2022-04-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-04-02T04:00:00.000Z",
+            "Authorizing_Agency": "United States Agency for International Development",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-07-09T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-07-09T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Justice",
+            "Authorizing_Subagency": "Office of Justice Programs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-06-05T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Authorizing_Subagency": "DoED Office of the Inspector General",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-08-19T04:00:00.000Z",
+            "Authorizing_Agency": "Department of State",
+            "Authorizing_Subagency": "State Office of the Inspector General",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-01-17T05:00:00.000Z",
+            "Letter_Expiration_Date": "2023-01-16T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-01-17T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-02-09T05:00:00.000Z",
+            "Letter_Expiration_Date": "2020-12-16T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-02-09T05:00:00.000Z",
+            "Authorizing_Agency": "Peace Corps",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Peace%20Corps%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2020-02-24T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Internal Revenue Service",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Amplifire",
@@ -12404,6 +12404,22 @@
       }
     ],
     "Assessors": [
+      {
+        "Name": "Accenture Federal Services",
+        "Logo": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Accenture%20Logo2.png",
+        "Description": "Accenture, as an accredited 3PAO organization, is authorized to provide the below services:\n\nStrategy & Risk Advisory\n\n* Journey to the Cloud Policy & Guidance\n* Strategy Enhancement & Implementation\n* Trusted Advisory Services\n* Technical Architecture Guidance\n* Governance (FISMA, ISSO Support, CSF, Security A&A)\n* Security Artifact Creation (FedRAMP and Agency approved artifacts)\n\nReadiness Assessment\n\n* Impact Assessment & Gap Analysis\n* Readiness Assessment\n\nFedRAMP Assessment\n\n* Full assessment based on FedRAMP controls\n* Provide assessment documentation (ex: Security Assessment Plan (SAP), Security Assessment Report (SAR), Plan of Action & Milestones)\n* Penetration Testing\n\nContinuous Monitoring Services\n\n* Required ongoing risk evaluation activities to maintain your FedRAMP ATO\n  \r\n",
+        "POC_Name": "Michael Smith",
+        "POC_Email": "AFS.3PAO@accenturefederal.com",
+        "website": "https://www.accenture.com/us-en/insights/us-federal-government/3pao",
+        "Remediation": "N",
+        "Founded": 1989,
+        "Primary_Office_Locations": "4050 Legato Rd, Fairfax, VA 22033",
+        "FedRAMP_Assessed": "None",
+        "Provide_Consulting_Services": "Y",
+        "Description_of_Consulting_Services": "Strategy & Risk Advisory\n\n* Journey to the Cloud Policy & Guidance\n* Strategy Enhancement & Implementation\n* Trusted Advisory Services\n* Technical Architecture Guidance\n* Governance (FISMA, ISSO Support, CSF, Security A&A)\n* Security Artifact Creation (FedRAMP and Agency approved artifacts)",
+        "Consulting_Services_To": "None",
+        "Additional_Cyber_Frameworks": "None"
+      },
       {
         "Name": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
         "Accreditation_Date": "2015-07-16T04:00:00.000Z",
