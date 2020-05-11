@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-05-11T04:40:50.414Z",
+    "Created_At": "2020-05-11T16:59:35.224Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2792,7 +2792,7 @@
         "CSO_Description": "Salesforce Government Cloud is a partitioned instance of Salesforce’s industry-leading Platform-as-a-Service (PaaS) and Software-as-a-Service (SaaS), multi-tenant community cloud infrastructure specifically for use by U.S. federal, state, and local government customers, U.S. government contractors, and Federally Funded Research and Development Centers (FFRDCs). Salesforce Government Cloud is comprised of the following Salesforce services: Lightning Platform, Sales, Service, Communities, Analytics, and Industry Solutions. A list of current in-scope Salesforce products included in the authorization boundary is available at [https://help.salesforce.com/articleView?id=000270080&language=en_US&type=1](https://help.salesforce.com/articleView?id=000270080&language=en_US&type=1)\nAdditional information is available at: [http://pages.mail.salesforce.com/gettingstarted/government-cloud/](http://pages.mail.salesforce.com/gettingstarted/government-cloud/)",
         "Announcement_Date": "2014-05-23T04:00:00.000Z",
         "CSP_POC_Name": "N/A",
-        "CSP_POC_Email": "fedramp@salesforce.com",
+        "CSP_POC_Email": "public.sector.compliance@salesforce.com",
         "FedRAMP_In-Process_Date": "2013-12-11T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
@@ -6231,8 +6231,8 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-02-19T05:00:00.000Z",
-            "Letter_Expiration_Date": "2020-04-30T04:00:00.000Z",
+            "Letter_Date": "2020-04-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-04-30T04:00:00.000Z",
             "Authorizing_Agency": "National Archives and Records Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NARA_Logo.png",
             "Include_In_Marketplace": "Y"
@@ -6583,13 +6583,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2019-05-02T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-05-02T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Authorizing_Letter_Last_Sign_Date": "2019-07-15T04:00:00.000Z",
             "Authorizing_Agency": "Nuclear Regulatory Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
@@ -6632,6 +6625,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2019-09-03T04:00:00.000Z",
             "Authorizing_Agency": "Federal Trade Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-05-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-05-01T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -11945,7 +11945,7 @@
         "CSP_Website": "www.salesforce.com/industries/public-sector",
         "CSO_Description": "Salesforce Government Cloud is a partitioned instance of Salesforce’s industry-leading Platform-as-a-Service (PaaS) and Software-as-a-Service (SaaS), multi-tenant community cloud infrastructure specifically for use by U.S. federal, state, and local government customers, U.S. government contractors, and Federally Funded Research and Development Centers (FFRDCs). Salesforce Government Cloud is comprised of the following Salesforce services: Lightning Platform, Sales, Service, Communities, Analytics, and Industry Solutions. A list of current in-scope Salesforce products included in the authorization boundary is available at [https://help.salesforce.com/articleView?id=000270080&language=en_US&type=1](https://help.salesforce.com/articleView?id=000270080&language=en_US&type=1)\nAdditional information is available at: [http://pages.mail.salesforce.com/gettingstarted/government-cloud/](http://pages.mail.salesforce.com/gettingstarted/government-cloud/)",
         "CSP_POC_Name": "N/A",
-        "CSP_POC_Email": "fedramp@salesforce.com",
+        "CSP_POC_Email": "public.sector.compliance@salesforce.com",
         "Fedramp_Ready_Date": "2019-11-08T05:00:00.000Z",
         "FedRAMP_In-Process_Date": "2020-02-13T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
@@ -12398,6 +12398,7 @@
     "Assessors": [
       {
         "Name": "Accenture Federal Services",
+        "Accreditation_Date": "2019-03-29T04:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Accenture%20Logo2.png",
         "Description": "Accenture, as an accredited 3PAO organization, is authorized to provide the below services:\n\nStrategy & Risk Advisory\n\n* Journey to the Cloud Policy & Guidance\n* Strategy Enhancement & Implementation\n* Trusted Advisory Services\n* Technical Architecture Guidance\n* Governance (FISMA, ISSO Support, CSF, Security A&A)\n* Security Artifact Creation (FedRAMP and Agency approved artifacts)\n\nReadiness Assessment\n\n* Impact Assessment & Gap Analysis\n* Readiness Assessment\n\nFedRAMP Assessment\n\n* Full assessment based on FedRAMP controls\n* Provide assessment documentation (ex: Security Assessment Plan (SAP), Security Assessment Report (SAR), Plan of Action & Milestones)\n* Penetration Testing\n\nContinuous Monitoring Services\n\n* Required ongoing risk evaluation activities to maintain your FedRAMP ATO\n  \r\n",
         "POC_Name": "Michael Smith",
