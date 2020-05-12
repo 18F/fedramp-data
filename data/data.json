@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-05-11T16:59:35.224Z",
+    "Created_At": "2020-05-12T04:40:50.887Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -7929,14 +7929,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2019-05-02T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-05-03T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-05-03T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Trade Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-05-06T04:00:00.000Z",
             "Letter_Expiration_Date": "2020-05-15T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-05-10T04:00:00.000Z",
@@ -8065,6 +8057,13 @@
             "Letter_Expiration_Date": "2023-03-25T04:00:00.000Z",
             "Authorizing_Agency": "General Services Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-05-08T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-05-11T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Trade Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -10582,7 +10581,7 @@
           "FR1823447014"
         ],
         "CSP_Website": "https://www.nutanix.com/solutions/federal",
-        "CSO_Description": "Nutanix Xi Government Cloud provides US government agencies and supporting customers a single point of management and analysis across all of their clouds. Nutanix Government Cloud provides a suite of PaaS and SaaS services to enable streamline cloud management, application delivery and governance. Nutanix Government Cloud provides solutions to enable customers to adhere to U.S. International Traffic in Arms Regulations (ITAR) regulations. Nutanix Government Cloud consists of the following services: Xi Frame and Xi Beam.\nNutanix Frame is a secure cloud platform that lets organizations deliver amazing Windows and Linux applications and workflows to users on all connected devices. Frame is a cloud Desktop as a Service (DaaS) and cloud orchestration platform purpose-built for public sector customers. Nutanix Frame is operated and managed in the US AWS and Azure Government regions and brokers secure connectivity into your enterprise hybrid cloud environment. Frame delivers public sector customers a secure cloud DaaS and cloud orchestration with security and compliance built in.\nBeam is a multi-cloud governance service that provides organizations with deep visibility and rich analytics detailing cloud consumption patterns. Beam proactively identifies idle and underutilized resources, and delivers specific recommendations to right-size infrastructure services to ensure optimal cloud consumption. Beam’s intelligent reserved instance purchase recommendations help drive deep cost savings. Beam also automates cloud security compliance using 250+ audit checks that identify security vulnerabilities in real-time. The solution uses policy based automation to resolve potential threats before they become concerns. Beam helps you certify and maintain compliance with regulatory policies such as HIPAA, ISO, PCI-DSS, CIS, NiST and SOC-2. With Beam you gain complete visibility, optimization and control over your cloud consumption to ensure cost governance and security compliance.",
+        "CSO_Description": "Nutanix Xi Government Cloud provides US government agencies and supporting customers a single point of management and analysis across all of their clouds. Nutanix Government Cloud provides a suite of PaaS and SaaS services to enable streamline cloud management, application delivery and governance. Nutanix Government Cloud provides solutions to enable customers to adhere to U.S. International Traffic in Arms Regulations (ITAR) regulations. Nutanix Government Cloud consists of the following services: Xi Frame and Xi Beam.\n\nXi Frame is a secure cloud platform that lets organizations deliver amazing Windows and Linux applications and workflows to users on all connected devices. Frame is a cloud Desktop as a Service (DaaS) and cloud orchestration platform purpose-built for public sector customers. Nutanix Frame is operated and managed in the US AWS and Azure Government regions and brokers secure connectivity into your enterprise hybrid cloud environment. Frame delivers public sector customers a secure cloud DaaS and cloud orchestration with security and compliance built in.\n\nXi Beam is a hybrid cloud cost governance service that provides organizations with deep visibility and rich analytics needed to control costs across public and private clouds. Beam proactively identifies idle and underutilized resources and delivers  intelligent recommendations to purchase reserved instances that drive deep cost savings. Beam also provides out-of-the-box cost metering for Nutanix private cloud along with unified private and public cloud chargeback that drives financial accountability and keeps cloud spending within budgets. ",
         "Announcement_Date": "2020-05-01T04:00:00.000Z",
         "CSP_POC_Name": "Nutanix Compliance Team",
         "CSP_POC_Email": "compliance@nutanix.com",
@@ -10730,6 +10729,37 @@
             "Include_In_Marketplace": "Y"
           }
         ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Smartronix, Inc.",
+        "Cloud_Service_Provider_Package": "Cloud Assured Managed Services (CAMS)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1603077867",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-02-25T05:00:00.000Z",
+        "Sponsoring_Agency": "Commodity Futures Trading Commission",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFTC%20Logo.jpg",
+        "Authorizing_Agency": "Commodity Futures Trading Commission",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Smartronix%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1603047866",
+          "F1305072116"
+        ],
+        "CSP_Website": "www.cloudassured.com",
+        "CSO_Description": "The Smartronix Cloud Assured Managed Services (CAMS) solution gives an organization the ability to leverage the power and scalability of the cloud while reducing the cost and complexity of managing and monitoring infrastructures and applications in-house. CAMS resides on Amazon Web Services (AWS) East/West Infrastructure and has been designed to deliver the flexibility customers demand from today’s cloud managed service providers to both commercial and federal entities. Smartronix experts provide complete management of cloud services from initial provisioning through the entire solution life-cycle. This is facilitated by utilizing a suite of applications, technologies, and enhanced security services to provide FedRAMP compliant core capabilities to the consumers leveraging Smartronix CAMS. These services include the management of log collection, antivirus, update services, vulnerability scanning, and other similar services. Smartronix is more than ‘just IT’ and has been recognized by Gartner as a leader in the Magic Quadrant for Public Cloud Infrastructure Managed Service Providers, worldwide. We have developed, delivered, and operate solutions for defense organizations, civilian agencies, financial institutions, media and entertainment companies, healthcare systems, logistics enterprises, and more. We are an organization that knows more than cores and bytes, we are a partner that knows your industry, differentiators, and constraints. Our past performance, diverse skill-sets, and the extraordinary tenure and commitment of our Team means we are more than just a cloud services provider.",
+        "Announcement_Date": "2020-05-11T04:00:00.000Z",
+        "CSP_POC_Name": "Anthony Vultaggio",
+        "CSP_POC_Email": "cloudassured@smartronix.com",
+        "Fedramp_Ready_Date": "2018-05-24T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2019-05-15T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "Amplifire",
@@ -12019,30 +12049,6 @@
         "CSP_POC_Name": "John Rowe",
         "CSP_POC_Email": "fedramp@smarsh.com",
         "FedRAMP_In-Process_Date": "2019-04-03T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Smartronix, Inc.",
-        "Cloud_Service_Provider_Package": "Cloud Assured Managed Services (CAMS)",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "F1603077867",
-        "Service_Model": [
-          "PaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Commodity Futures Trading Commission",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFTC%20Logo.jpg",
-        "Authorizing_Agency": "Commodity Futures Trading Commission",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Smartronix%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.cloudassured.com",
-        "CSO_Description": "The Smartronix Cloud Assured Managed Services (CAMS) solution gives an organization the ability to leverage the power and scalability of the cloud while reducing the cost and complexity of managing and monitoring infrastructures and applications in-house. CAMS resides on Amazon Web Services (AWS) East/West Infrastructure and has been designed to deliver the flexibility customers demand from today’s cloud managed service providers to both commercial and federal entities. Smartronix experts provide complete management of cloud services from initial provisioning through the entire solution life-cycle. This is facilitated by utilizing a suite of applications, technologies, and enhanced security services to provide FedRAMP compliant core capabilities to the consumers leveraging Smartronix CAMS. These services include the management of log collection, antivirus, update services, vulnerability scanning, and other similar services. Smartronix is more than ‘just IT’ and has been recognized by Gartner as a leader in the Magic Quadrant for Public Cloud Infrastructure Managed Service Providers, worldwide. We have developed, delivered, and operate solutions for defense organizations, civilian agencies, financial institutions, media and entertainment companies, healthcare systems, logistics enterprises, and more. We are an organization that knows more than cores and bytes, we are a partner that knows your industry, differentiators, and constraints. Our past performance, diverse skill-sets, and the extraordinary tenure and commitment of our Team means we are more than just a cloud services provider.",
-        "CSP_POC_Name": "Anthony Vultaggio",
-        "CSP_POC_Email": "cloudassured@smartronix.com",
-        "Fedramp_Ready_Date": "2018-05-24T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2019-05-15T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
