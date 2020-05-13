@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-05-12T04:40:50.887Z",
+    "Created_At": "2020-05-13T04:40:50.287Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3729,6 +3729,13 @@
             "Include_In_Marketplace": "Y"
           },
           {
+            "Letter_Date": "2019-07-16T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-07-16T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Housing Finance Agency",
+            "Authorizing_Subagency": "FHFA Office of the Inspector General",
+            "Include_In_Marketplace": "Y"
+          },
+          {
             "Letter_Expiration_Date": "2022-10-31T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-10-16T04:00:00.000Z",
             "Authorizing_Agency": "Department of Energy",
@@ -4008,6 +4015,13 @@
             "Authorizing_Agency": "Department of Justice",
             "Authorizing_Subagency": "Office of Justice Programs",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-01-27T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-01-27T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -4412,6 +4426,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-04-23T04:00:00.000Z",
             "Authorizing_Agency": "United States International Trade Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USITC%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-12-30T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-12-30T05:00:00.000Z",
+            "Authorizing_Agency": "Federal Housing Finance Agency",
+            "Authorizing_Subagency": "FHFA Office of the Inspector General",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -5143,6 +5165,14 @@
             "Authorizing_Subagency": "Federal Bureau of Prisons",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-04-10T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-04-10T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-04-10T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -5621,9 +5651,8 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2019-10-31T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-04-28T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-10-31T04:00:00.000Z",
+            "Letter_Date": "2020-04-09T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-09-18T04:00:00.000Z",
             "Authorizing_Agency": "Department of Veterans Affairs",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
             "Include_In_Marketplace": "Y"
@@ -7570,7 +7599,7 @@
         "CSO_Description": "MuleSoft’s Anypoint Platform is a hybrid platform for designing, developing and managing APIs and integrations. Uniquely built as a single solution, it includes integration Platform as a Service (iPaaS) functionality which provides users with enterprise messaging, advanced user and role based management, services/tools for providing API and integration analytics and management, API design and publishing tools, and the ability to share and collaborate on API specifications, code snippets and templates of best practices.",
         "Announcement_Date": "2019-07-31T04:00:00.000Z",
         "CSP_POC_Name": "N/A",
-        "CSP_POC_Email": "fedramp@salesforce.com",
+        "CSP_POC_Email": "Public.Sector.Compliance@salesforce.com",
         "FedRAMP_In-Process_Date": "2018-04-04T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
@@ -10762,6 +10791,31 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Newyu, Inc.",
+        "Cloud_Service_Provider_Package": "LibreView for US Government",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2000174962",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-03-12T04:00:00.000Z",
+        "Original_Expiration_Date": "2023-03-12T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Newyu%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "CSP_Website": "www.libreviewgov.com",
+        "CSO_Description": "LibreView is intended for use by patients, caregivers and healthcare professionals to assist people with diabetes and their healthcare professionals in the review, analysis and evaluation of historical glucose meter data to support effective diabetes management. LibreView is developed, distributed, and supported by Newyu, Inc. (on behalf of Abbott, a major manufacturer of glucose monitoring devices). Trademarks are the property of their respective owners.",
+        "CSP_POC_Name": "Michael Helmick",
+        "CSP_POC_Email": "fedramp@newyu.com",
+        "FedRAMP_In-Process_Date": "2019-10-15T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Amplifire",
         "Cloud_Service_Provider_Package": "Amplifire",
         "Path": "Agency",
@@ -11601,29 +11655,6 @@
         "CSP_POC_Name": "Don Carnevale",
         "CSP_POC_Email": "growahead@neosystemscorp.com",
         "Fedramp_Ready_Date": "2019-12-05T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Newyu, Inc.",
-        "Cloud_Service_Provider_Package": "LibreView for US Government",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2000174962",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Veterans Affairs",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
-        "Authorizing_Agency": "Department of Veterans Affairs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Newyu%20Logo.png",
-        "Independent_Assessor": "Kratos",
-        "CSP_Website": "www.libreviewgov.com",
-        "CSO_Description": "LibreView is intended for use by patients, caregivers and healthcare professionals to assist people with diabetes and their healthcare professionals in the review, analysis and evaluation of historical glucose meter data to support effective diabetes management. LibreView is developed, distributed, and supported by Newyu, Inc. (on behalf of Abbott, a major manufacturer of glucose monitoring devices). Trademarks are the property of their respective owners.",
-        "CSP_POC_Name": "Michael Helmick",
-        "CSP_POC_Email": "fedramp@newyu.com",
-        "FedRAMP_In-Process_Date": "2019-10-15T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
