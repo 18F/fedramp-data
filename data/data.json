@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-05-13T04:40:50.287Z",
+    "Created_At": "2020-05-14T04:40:50.737Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -7284,7 +7284,7 @@
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2019-04-29T04:00:00.000Z",
         "Sponsoring_Agency": "Executive Office of the President",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_Executive_Office_of_the_President_of_the_United_States_2014.png",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Federal%20Logo.png",
         "Authorizing_Agency": "Other Executive Branch Agency",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Leidos%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
@@ -10794,7 +10794,7 @@
         "Cloud_Service_Provider_Name": "Newyu, Inc.",
         "Cloud_Service_Provider_Package": "LibreView for US Government",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "FR2000174962",
         "Service_Model": [
           "SaaS"
@@ -10808,8 +10808,15 @@
         "Authorizing_Agency": "Department of Veterans Affairs",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Newyu%20Logo.png",
         "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1603047866",
+          "MSO365MT",
+          "F1512167750"
+        ],
         "CSP_Website": "www.libreviewgov.com",
         "CSO_Description": "LibreView is intended for use by patients, caregivers and healthcare professionals to assist people with diabetes and their healthcare professionals in the review, analysis and evaluation of historical glucose meter data to support effective diabetes management. LibreView is developed, distributed, and supported by Newyu, Inc. (on behalf of Abbott, a major manufacturer of glucose monitoring devices). Trademarks are the property of their respective owners.",
+        "Announcement_Date": "2020-05-12T04:00:00.000Z",
         "CSP_POC_Name": "Michael Helmick",
         "CSP_POC_Email": "fedramp@newyu.com",
         "FedRAMP_In-Process_Date": "2019-10-15T04:00:00.000Z",
