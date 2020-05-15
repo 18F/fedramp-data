@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-05-14T04:40:50.737Z",
+    "Created_At": "2020-05-15T04:40:50.807Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3733,6 +3733,7 @@
             "Authorizing_Letter_Last_Sign_Date": "2019-07-16T04:00:00.000Z",
             "Authorizing_Agency": "Federal Housing Finance Agency",
             "Authorizing_Subagency": "FHFA Office of the Inspector General",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -8763,7 +8764,15 @@
         "CSP_POC_Name": "Dennis O'Neill",
         "CSP_POC_Email": "fedramp@duosecurity.com",
         "FedRAMP_In-Process_Date": "2018-11-07T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2020-05-14T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Housing Finance Agency",
+            "Authorizing_Subagency": "FHFA Office of the Inspector General",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Ivanti",
@@ -10823,6 +10832,59 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Datadog",
+        "Cloud_Service_Provider_Package": "Datadog",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1912658130",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Li-SaaS",
+        "Original_Authorization_Date": "2020-05-05T04:00:00.000Z",
+        "Sponsoring_Agency": "General Services Administration",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+        "Authorizing_Agency": "General Services Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/DataDog%20Logo.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1206081364"
+        ],
+        "CSP_Website": "https://www.datadoghq.com/",
+        "CSO_Description": "Datadog is the essential monitoring platform for cloud applications. We bring together data from servers, containers, databases, and third-party services to make your stack entirely observable. These capabilities help DevOps teams avoid downtime, resolve performance issues, and ensure customers are getting the best user experience.\nDatadog is a monitoring service for modern cloud environments offering Infrastructure Metrics, Application Performance Monitoring (APM), and Log Management within a single platform.",
+        "Announcement_Date": "2020-05-14T04:00:00.000Z",
+        "CSP_POC_Name": "Phil Shea",
+        "CSP_POC_Email": "fedramp@datadoghq.com",
+        "FedRAMP_In-Process_Date": "2019-07-02T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Zendesk",
+        "Cloud_Service_Provider_Package": "Zendesk",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1821856903",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Li-SaaS",
+        "Original_Authorization_Date": "2020-04-24T04:00:00.000Z",
+        "Sponsoring_Agency": "General Services Administration",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+        "Authorizing_Agency": "General Services Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Zendesk%20Logo.png",
+        "Independent_Assessor": "General Services Administration",
+        "CSP_Website": "https://www.zendesk.com",
+        "CSO_Description": "Zendesk is a cloud-based customer service platform, designed for companies that want to build customer relationships that are more meaningful, personal, and productive. Zendesk strives to bring businesses and customers closer together by enabling companies to provide great support and mature with self-service and proactive engagement. It is designed to be easy to use, customize, and scale.",
+        "CSP_POC_Name": "Chris Weiskirch",
+        "CSP_POC_Email": "fedramp@zendesk.com",
+        "FedRAMP_In-Process_Date": "2020-01-30T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Amplifire",
         "Cloud_Service_Provider_Package": "Amplifire",
         "Path": "Agency",
@@ -10913,6 +10975,28 @@
         "CSP_POC_Name": "Michael Fledderjohann",
         "CSP_POC_Email": "fedramp@authentic8.com",
         "FedRAMP_In-Process_Date": "2020-01-06T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Automattic, Inc.",
+        "Cloud_Service_Provider_Package": "WordPress VIP Go",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1923743650",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Li-SaaS",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/WordPress%20Logo.png",
+        "Independent_Assessor": "MindPoint Group, LLC",
+        "CSP_Website": "https://wpvip.com/ ",
+        "CSO_Description": "WordPress VIP provides a secure, compliant WordPress platform for easy web content management for  government entities. With industry-leading security protocols, expert support, flexible architectures, plus 99.99% SLA, hourly backups, and reliable uptime, WordPress VIP takes the heavy lifting out of digitizing citizen services and modernizing legacy infrastructure.  \n\nWhy choose WordPress VIP? For one thing, WordPress VIP’s open source software provides automatic updates and versioning which ease the burden of ongoing security and maintenance and can lower total cost of ownership. \n\nIn fact, security is WordPress VIP’s chief priority. Our data security best practices include end-to-end encryption from edge to origin, resource and data isolation, and encrypted offsite backups. We address physical security through an independently owned and operated network of industry-certified global data centers. Every origin server meets the International Organization \r\nof Standardization (ISO), International Electrotechnical Commission (IEC) 27001 certification, Standards for Attestation Engagements (SSAE) No. 18 (SOC1) and SOC2 Type 2, and includes ongoing surveillance reviews. At the application level, every instance is protected with Single Sign-On, SSL/HTTPS/HSTS, required 2FA, and logging and auditing at the application, web server, load balancing, database, and operating system layers. \r\n\nWhile our stringent security protocols protect sensitive information, our intuitive and easy-to-use content management workflows make it easy to provide citizens with up-to-date, accessible, and accurate information. Even those with little technical knowledge can successfully navigate WordPress VIP’s editing interface with minimal training. ",
+        "CSP_POC_Name": "Peter Slutsky",
+        "FedRAMP_In-Process_Date": "2020-05-11T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -11224,28 +11308,6 @@
         "CSP_POC_Name": "Russell Cozart",
         "CSP_POC_Email": "FedRAMP@cyxtera.com",
         "Fedramp_Ready_Date": "2020-01-13T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Datadog",
-        "Cloud_Service_Provider_Package": "Datadog",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1912658130",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Li-SaaS",
-        "Sponsoring_Agency": "General Services Administration",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-        "Authorizing_Agency": "General Services Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/DataDog%20Logo.png",
-        "CSP_Website": "https://www.datadoghq.com/",
-        "CSO_Description": "Datadog is the essential monitoring platform for cloud applications. We bring together data from servers, containers, databases, and third-party services to make your stack entirely observable. These capabilities help DevOps teams avoid downtime, resolve performance issues, and ensure customers are getting the best user experience.\nDatadog is a monitoring service for modern cloud environments offering Infrastructure Metrics, Application Performance Monitoring (APM), and Log Management within a single platform.",
-        "CSP_POC_Name": "Phil Shea",
-        "CSP_POC_Email": "fedramp@datadoghq.com",
-        "FedRAMP_In-Process_Date": "2019-07-02T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -12414,28 +12476,6 @@
         "CSP_POC_Name": "Matt Hamilton",
         "CSP_POC_Email": "fedramp@wellspring.com",
         "FedRAMP_In-Process_Date": "2020-02-12T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Zendesk",
-        "Cloud_Service_Provider_Package": "Zendesk",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1821856903",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Li-SaaS",
-        "Sponsoring_Agency": "General Services Administration",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-        "Authorizing_Agency": "General Services Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Zendesk%20Logo.png",
-        "CSP_Website": "https://www.zendesk.com",
-        "CSO_Description": "Zendesk is a cloud-based customer service platform, designed for companies that want to build customer relationships that are more meaningful, personal, and productive. Zendesk strives to bring businesses and customers closer together by enabling companies to provide great support and mature with self-service and proactive engagement. It is designed to be easy to use, customize, and scale.",
-        "CSP_POC_Name": "Chris Weiskirch",
-        "CSP_POC_Email": "fedramp@zendesk.com",
-        "FedRAMP_In-Process_Date": "2020-01-30T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       }
     ],
