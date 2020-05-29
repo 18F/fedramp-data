@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-05-28T04:40:50.394Z",
+    "Created_At": "2020-05-29T04:40:50.866Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2465,51 +2465,6 @@
             "Authorizing_Letter_Last_Sign_Date": "2019-09-25T04:00:00.000Z",
             "Authorizing_Agency": "Department of Education",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "SpringCM",
-        "Cloud_Service_Provider_Package": "SpringCM",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1605027893",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2017-05-19T04:00:00.000Z",
-        "Original_Expiration_Date": "2020-05-19T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Agriculture",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-        "Authorizing_Agency": "Department of Agriculture",
-        "Authorizing_Subagency": "Animal and Plant Health Inspection Service",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/SpringCM%20Logo.png",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "Underlying_CSP_Package_ID": [
-          "F1209051525"
-        ],
-        "CSP_Website": "https://www.springcm.com/",
-        "CSO_Description": "SpringCM is a secure cloud platform that manages contracts and all types of documents across desktop, mobile, and partner applications like Salesforce. SpringCM goes beyond standard contract and document management with advanced workflows that automate manual tasks and complex processes to speed time-to-revenue. Businesses use SpringCM to optimize collaboration and processes across internal departments, as well as with prospects and customers.",
-        "Announcement_Date": "2017-08-24T04:00:00.000Z",
-        "CSP_POC_Name": "Ariel Companioni",
-        "CSP_POC_Email": "ariel.companioni@docusign.com",
-        "FedRAMP_In-Process_Date": "2015-05-03T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Expiration_Date": "2020-05-17T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-07-13T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Agriculture",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2019-12-20T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Transportation",
-            "Authorizing_Subagency": "Federal Aviation Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -10973,6 +10928,72 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "SpringCM",
+        "Cloud_Service_Provider_Package": "SpringCM",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1605027893",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-05-27T04:00:00.000Z",
+        "Original_Expiration_Date": "2023-05-17T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Agriculture",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+        "Authorizing_Agency": "Department of Agriculture",
+        "Authorizing_Subagency": "Animal and Plant Health Inspection Service",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/SpringCM%20Logo.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "Underlying_CSP_Package_ID": [
+          "F1209051525"
+        ],
+        "CSP_Website": "https://www.springcm.com/",
+        "CSO_Description": "SpringCM is a secure cloud platform that manages contracts and all types of documents across desktop, mobile, and partner applications like Salesforce. SpringCM goes beyond standard contract and document management with advanced workflows that automate manual tasks and complex processes to speed time-to-revenue. Businesses use SpringCM to optimize collaboration and processes across internal departments, as well as with prospects and customers.",
+        "Announcement_Date": "2017-08-24T04:00:00.000Z",
+        "CSP_POC_Name": "Ariel Companioni",
+        "CSP_POC_Email": "ariel.companioni@docusign.com",
+        "FedRAMP_In-Process_Date": "2015-05-03T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2019-12-20T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Transportation",
+            "Authorizing_Subagency": "Federal Aviation Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Salesforce",
+        "Cloud_Service_Provider_Package": "Salesforce Government Cloud Plus",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "FR2003061248",
+        "Service_Model": [
+          "PaaS, SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Original_Authorization_Date": "2020-05-18T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Salesforce%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.salesforce.com/industries/public-sector",
+        "CSO_Description": "Salesforce Government Cloud is a partitioned instance of Salesforce’s industry-leading Platform-as-a-Service (PaaS) and Software-as-a-Service (SaaS), multi-tenant community cloud infrastructure specifically for use by U.S. federal, state, and local government customers, U.S. government contractors, and Federally Funded Research and Development Centers (FFRDCs). Salesforce Government Cloud is comprised of the following Salesforce services: Lightning Platform, Sales, Service, Communities, Analytics, and Industry Solutions. A list of current in-scope Salesforce products included in the authorization boundary is available at [https://help.salesforce.com/articleView?id=000270080&language=en_US&type=1](https://help.salesforce.com/articleView?id=000270080&language=en_US&type=1)\nAdditional information is available at: [http://pages.mail.salesforce.com/gettingstarted/government-cloud/](http://pages.mail.salesforce.com/gettingstarted/government-cloud/)",
+        "Announcement_Date": "2020-05-27T04:00:00.000Z",
+        "CSP_POC_Name": "N/A",
+        "CSP_POC_Email": "public.sector.compliance@salesforce.com",
+        "Fedramp_Ready_Date": "2019-11-08T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2020-02-13T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "ServiceNow",
         "Cloud_Service_Provider_Package": "Service Automation Government Cloud Suite (Legacy)",
         "Path": "JAB",
@@ -12169,29 +12190,6 @@
         "CSP_POC_Name": "Chamon Gayton",
         "CSP_POC_Email": "fedramp@sailpoint.com",
         "FedRAMP_In-Process_Date": "2019-12-18T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Salesforce",
-        "Cloud_Service_Provider_Package": "Salesforce Government Cloud - JAB",
-        "Path": "JAB",
-        "Designation": "In Process",
-        "Package_ID": "FR2003061248",
-        "Service_Model": [
-          "PaaS, SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "High",
-        "Sponsoring_Agency": "JAB Authorization",
-        "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Salesforce%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.salesforce.com/industries/public-sector",
-        "CSO_Description": "Salesforce Government Cloud is a partitioned instance of Salesforce’s industry-leading Platform-as-a-Service (PaaS) and Software-as-a-Service (SaaS), multi-tenant community cloud infrastructure specifically for use by U.S. federal, state, and local government customers, U.S. government contractors, and Federally Funded Research and Development Centers (FFRDCs). Salesforce Government Cloud is comprised of the following Salesforce services: Lightning Platform, Sales, Service, Communities, Analytics, and Industry Solutions. A list of current in-scope Salesforce products included in the authorization boundary is available at [https://help.salesforce.com/articleView?id=000270080&language=en_US&type=1](https://help.salesforce.com/articleView?id=000270080&language=en_US&type=1)\nAdditional information is available at: [http://pages.mail.salesforce.com/gettingstarted/government-cloud/](http://pages.mail.salesforce.com/gettingstarted/government-cloud/)",
-        "CSP_POC_Name": "N/A",
-        "CSP_POC_Email": "public.sector.compliance@salesforce.com",
-        "Fedramp_Ready_Date": "2019-11-08T05:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2020-02-13T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
