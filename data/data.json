@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-06-08T04:40:50.280Z",
+    "Created_At": "2020-06-09T04:40:50.336Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2332,6 +2332,14 @@
             "Authorizing_Agency": "Department of Health and Human Services",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-05-28T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-07-28T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-05-28T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Trade Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -4499,7 +4507,8 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Project%20Hosts%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "Underlying_CSP_Package_ID": [
-          "F1603087869"
+          "F1603087869",
+          "F1209051525"
         ],
         "CSP_Website": "www.projecthosts.com",
         "CSO_Description": "The Project Hosts (PH) Federal Private Cloud (FPC) is a General Support System (GSS) platform (PaaS) built on Microsoft Azure Government. The GSS is composed of systems and services that manage access control, authentication, auditing, monitoring, scanning, patching, configuration management, malware prevention, intrusion prevention, incident response, backup, and disaster recovery for each Application deployed on the FPC. There are two main types of customers who use the FPC: (i) Independent Software Vendors (ISVs) deploying multitenant SaaS applications and (ii) Federal agencies deploying dedicated applications just for their agency (not multitenant). For both types of customer, their applications are deployed on customer-dedicated virtual servers (or Azure PaaS services) inside customer-dedicated subnets. Network security group access controls ensure that each customer’s subnet is completely isolated from and has no access to any other customer’s subnet. For agency customers, PH assists the Agency in the creation of their own SSP, manages annual 3PAO scanning and penetration testing of their dedicated applications, and provides monthly application-level POA&M and continuous monitoring artifacts. \n\nFollowing is a list of applications for which PH is providing services above the PH FPC platform: Accenture (TMT), AvePoint (DocAve, Compliance Guardian, Governance Automation, Perimeter Manager), Blue Prism (Digital Workforce), BrightWork (SharePoint-based Project Management), Checkmarx (CxSAST Source Code Scanner), Drupal (Drupal CMS), FlowVU (FlowVU Collaboration), Lexmark (Managed Print Service), Microsoft (Remote Desktop, Office, Dynamics, SSRS, Project Server, SharePoint), North Country (EMC/Simphony), RMS (RMS Booking and Guest Portal), Sopheon (Accolade Enterprise Innovation Management), Veritas (Enterprise Vault, eDiscovery Accelerator), WordPress (WordPress CMS).",
