@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-06-10T04:40:50.308Z",
+    "Created_At": "2020-06-11T04:40:50.475Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1436,18 +1436,18 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2017-06-20T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-06-01T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Labor",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2017-10-17T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-01-17T05:00:00.000Z",
             "Authorizing_Agency": "Department of Education",
             "Authorizing_Subagency": "Federal Student Aid",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2022-12-31T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-12-11T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Labor",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -2877,13 +2877,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2017-06-18T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-05-31T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Labor",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2016-12-07T05:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Institute of Standards and Technology",
@@ -3097,6 +3090,13 @@
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Defense Logistics Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2020-09-27T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-05-19T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Labor",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -4475,6 +4475,7 @@
             "Include_In_Marketplace": "Y"
           },
           {
+            "Letter_Expiration_Date": "2023-04-09T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-04-09T04:00:00.000Z",
             "Authorizing_Agency": "National Endowment for the Arts",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NEA%20Logo.png",
@@ -5680,7 +5681,7 @@
         "CSP_Website": "www.qualys.com",
         "CSO_Description": "The Qualys Cloud Platform (QCP) is a multi-tenant shared cloud service environment. Its unique computing power is capable of continuously analyzing and correlating information, to assist IT management with identifying and homing-in on threats and eliminating vulnerabilities.\nWith its Qualys sensors, a core service of the Qualys Cloud Platform, make it easy to extend your security throughout your global enterprise. These sensors, which can be in the form of appliances or lightweight agents, are remotely deployable, centrally managed and self-updating. They collect data automatically and seamlessly sending it to the Qualys Cloud Platform.\nSubscribers simply use the Qualys software without the burden of licensing, maintenance and costs for owning the software itself.",
         "Announcement_Date": "2016-11-02T04:00:00.000Z",
-        "CSP_POC_Name": "David Simpson",
+        "CSP_POC_Name": "Nick Cahall",
         "CSP_POC_Email": "fedramp@qualys.com",
         "Fedramp_Ready_Date": "2016-05-05T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2015-08-26T04:00:00.000Z",
@@ -6441,6 +6442,15 @@
             "Authorizing_Agency": "Commission of Fine Arts",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Commission_of_Fine_Arts_-_seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-05-29T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-05-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-05-29T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Health Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -6864,6 +6874,7 @@
             "Include_In_Marketplace": "Y"
           },
           {
+            "Letter_Expiration_Date": "2021-06-06T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-06-06T04:00:00.000Z",
             "Authorizing_Agency": "National Endowment for the Arts",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NEA%20Logo.png",
@@ -8894,8 +8905,8 @@
         "CSP_Website": "https://my.workspaceone.com/products/VMware-Workspace-ONE",
         "CSO_Description": "Workspace ONE simplifies mobility for organizations, while empowering end users. With Workspace ONE, organizations can easily deploy, configure, secure, manage and support smartphones, tablets, laptops and other devices across multiple mobile applications and operating systems. Workspace ONE includes industry-leading mobile device, email, application, content and browser management solutions. Whether enabling a Bring Your Own Device (BYOD) program or corporate-owned and line-of-business devices, organizations can implement these solutions standalone, in a dual persona containerized solution or as a comprehensive solution based on device type, use case and user role in the organization. This integrated solution helps companies reduce costs and increase efficiency, while mitigating security risks and preventing data loss.",
         "Announcement_Date": "2019-11-21T05:00:00.000Z",
-        "CSP_POC_Name": "Thomas Simmons",
-        "CSP_POC_Email": "tsimmons@vmware.com",
+        "CSP_POC_Name": "Nick Combs",
+        "CSP_POC_Email": "combsn@vmware.com",
         "FedRAMP_In-Process_Date": "2019-02-20T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
@@ -8963,6 +8974,15 @@
             "Authorizing_Agency": "Department of the Treasury",
             "Authorizing_Subagency": "Internal Revenue Service",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-06-05T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-12-31T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-06-09T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -11036,19 +11056,19 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2020-05-15T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-01-27T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "North American Aerospace Defense Command & United States Northern Command",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-01-13T05:00:00.000Z",
             "Letter_Expiration_Date": "2023-01-06T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-01-13T05:00:00.000Z",
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Department of the Navy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2021-05-15T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-06-10T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "North American Aerospace Defense Command & United States Northern Command",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
@@ -11121,6 +11141,31 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "AppDynamics (a Cisco company)",
+        "Cloud_Service_Provider_Package": "AppDynamics GovAPM",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1823368486",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-04-27T04:00:00.000Z",
+        "Original_Expiration_Date": "2023-02-24T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/AppDynamics%20Logo.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "www.appdynamics.com",
+        "CSO_Description": "AppDynamics GovAPM is a software-as-a-service (SaaS) application performance monitoring (APM) solution. AppDynamics GovAPM provides end-to-end visibility into the performance of applications.",
+        "CSP_POC_Name": "San Buonassisi",
+        "CSP_POC_Email": "fedramp@appdynamics.com",
+        "FedRAMP_In-Process_Date": "2019-06-18T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "ServiceNow",
         "Cloud_Service_Provider_Package": "Service Automation Government Cloud Suite (Legacy)",
         "Path": "JAB",
@@ -11165,29 +11210,6 @@
         "CSP_POC_Name": "Jack Unrue",
         "CSP_POC_Email": "kftechops@amplifire.com",
         "FedRAMP_In-Process_Date": "2020-04-10T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "AppDynamics (a Cisco company)",
-        "Cloud_Service_Provider_Package": "AppDynamics GovAPM",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1823368486",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/AppDynamics%20Logo.png",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "CSP_Website": "www.appdynamics.com",
-        "CSO_Description": "AppDynamics GovAPM is a software-as-a-service (SaaS) application performance monitoring (APM) solution. AppDynamics GovAPM provides end-to-end visibility into the performance of applications.",
-        "CSP_POC_Name": "San Buonassisi",
-        "CSP_POC_Email": "fedramp@appdynamics.com",
-        "FedRAMP_In-Process_Date": "2019-06-18T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -12618,7 +12640,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/VMware%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.cloud.vmware.com/govcloud",
-        "CSO_Description": "**VMC is currently FedRAMP Ready at the Moderate level and is In Process at the High level.**\nVMware CloudTM on AWS GovCloud (US) brings VMware’s rich Software-Defined Data Center software to the AWS GovCloud (US) Region, and enables U.S public sector agencies to securely run production applications across VMware vSphere®-based private, public and hybrid cloud environments, with optimized access to AWS services. Jointly engineered by VMware and AWS, this on-demand service enables IT teams to seamlessly extend, migrate and manage their cloud-based resources with familiar VMware tools – without the hassles of learning new skills or utilizing new tools. VMware Cloud on AWS GovCloud (US) integrates VMware’s flagship compute, storage and network virtualization products (VMware vSphere®, VMware vSANTM and VMware NSX®) along with VMware vCenter® management as well as robust disaster protection, and optimizes it to run on dedicated, elastic, Amazon EC2 bare-metal infrastructure that is fully integrated as part of the AWS GovCloud (US). This service is delivered, sold and supported by VMware and its partners. With the same architecture and operational experience on-premises and in the cloud, IT teams can now quickly derive instant business value from use of the AWS and VMware hybrid cloud experience.",
+        "CSO_Description": "**VMC is currently FedRAMP Ready & In Process at the High Level**\nVMware CloudTM on AWS GovCloud (US) brings VMware’s rich Software-Defined Data Center software to the AWS GovCloud (US) Region, and enables U.S public sector agencies to securely run production applications across VMware vSphere®-based private, public and hybrid cloud environments, with optimized access to AWS services. Jointly engineered by VMware and AWS, this on-demand service enables IT teams to seamlessly extend, migrate and manage their cloud-based resources with familiar VMware tools – without the hassles of learning new skills or utilizing new tools. VMware Cloud on AWS GovCloud (US) integrates VMware’s flagship compute, storage and network virtualization products (VMware vSphere®, VMware vSANTM and VMware NSX®) along with VMware vCenter® management as well as robust disaster protection, and optimizes it to run on dedicated, elastic, Amazon EC2 bare-metal infrastructure that is fully integrated as part of the AWS GovCloud (US). This service is delivered, sold and supported by VMware and its partners. With the same architecture and operational experience on-premises and in the cloud, IT teams can now quickly derive instant business value from use of the AWS and VMware hybrid cloud experience.",
         "CSP_POC_Name": "Rahul Dubey",
         "CSP_POC_Email": "fedramp-vmc@vmware.com",
         "Fedramp_Ready_Date": "2019-03-18T04:00:00.000Z",
@@ -12641,7 +12663,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/VMware%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.cloud.vmware.com/govcloud",
-        "CSO_Description": "**VMC is currently FedRAMP Ready at the Moderate level and is In Process at the High level.**\nVMware CloudTM on AWS GovCloud (US) brings VMware’s rich Software-Defined Data Center software to the AWS GovCloud (US) Region, and enables U.S public sector agencies to securely run production applications across VMware vSphere®-based private, public and hybrid cloud environments, with optimized access to AWS services. Jointly engineered by VMware and AWS, this on-demand service enables IT teams to seamlessly extend, migrate and manage their cloud-based resources with familiar VMware tools – without the hassles of learning new skills or utilizing new tools. VMware Cloud on AWS GovCloud (US) integrates VMware’s flagship compute, storage and network virtualization products (VMware vSphere®, VMware vSANTM and VMware NSX®) along with VMware vCenter® management as well as robust disaster protection, and optimizes it to run on dedicated, elastic, Amazon EC2 bare-metal infrastructure that is fully integrated as part of the AWS GovCloud (US). This service is delivered, sold and supported by VMware and its partners. With the same architecture and operational experience on-premises and in the cloud, IT teams can now quickly derive instant business value from use of the AWS and VMware hybrid cloud experience.",
+        "CSO_Description": "**VMC is currently FedRAMP Ready & In Process at the High Level**\nVMware CloudTM on AWS GovCloud (US) brings VMware’s rich Software-Defined Data Center software to the AWS GovCloud (US) Region, and enables U.S public sector agencies to securely run production applications across VMware vSphere®-based private, public and hybrid cloud environments, with optimized access to AWS services. Jointly engineered by VMware and AWS, this on-demand service enables IT teams to seamlessly extend, migrate and manage their cloud-based resources with familiar VMware tools – without the hassles of learning new skills or utilizing new tools. VMware Cloud on AWS GovCloud (US) integrates VMware’s flagship compute, storage and network virtualization products (VMware vSphere®, VMware vSANTM and VMware NSX®) along with VMware vCenter® management as well as robust disaster protection, and optimizes it to run on dedicated, elastic, Amazon EC2 bare-metal infrastructure that is fully integrated as part of the AWS GovCloud (US). This service is delivered, sold and supported by VMware and its partners. With the same architecture and operational experience on-premises and in the cloud, IT teams can now quickly derive instant business value from use of the AWS and VMware hybrid cloud experience.",
         "CSP_POC_Name": "Rahul Dubey",
         "CSP_POC_Email": "fedramp-vmc@vmware.com",
         "Fedramp_Ready_Date": "2020-05-06T04:00:00.000Z",
@@ -13302,12 +13324,12 @@
         "Accreditation_Date": "2017-07-03T04:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Sera-Brynn%20Logo.jpg",
         "Description": "Sera-Brynn offers experienced, certified security consultants to conduct 3PAO audits under FISMA, FedRAMP, and PCI. Our experts conduct readiness assessments, initial and annual assessments to maintain authorization, drawing on extensive NIST and FISMA background.\r\n",
-        "POC_Name": "Heather Engel",
+        "POC_Name": "John Kipp",
         "POC_Email": "fedramp@sera-brynn.com",
         "website": "www.sera-brynn.com",
         "Remediation": "N",
         "Founded": 2011,
-        "Primary_Office_Locations": "5806 Harbour View Blvd #204, Suffolk, VA 23435",
+        "Primary_Office_Locations": "1435 Crossways Blvd., Suite 100, Chesapeake, Virginia 23320",
         "FedRAMP_Assessed": "None",
         "Provide_Consulting_Services": "Y",
         "Description_of_Consulting_Services": "Sera-Brynn offers experienced, certified security consultants to prepare for compliance audits or to implement security frameworks including PCI, FedRAMP, and 23NYCRR500. Our experts assist with risk assessments, security policy development, security architecture development, incident response and forensics, and threat hunting.\r\n",
