@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-06-11T04:40:50.475Z",
+    "Created_At": "2020-06-12T04:40:50.543Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -6428,6 +6428,14 @@
             "Include_In_Marketplace": "Y"
           },
           {
+            "Letter_Date": "2018-12-20T05:00:00.000Z",
+            "Letter_Expiration_Date": "2021-12-21T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-12-21T05:00:00.000Z",
+            "Authorizing_Agency": "General Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
             "Letter_Date": "2020-02-19T05:00:00.000Z",
             "Letter_Expiration_Date": "2022-02-19T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-02-19T05:00:00.000Z",
@@ -11144,7 +11152,7 @@
         "Cloud_Service_Provider_Name": "AppDynamics (a Cisco company)",
         "Cloud_Service_Provider_Package": "AppDynamics GovAPM",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "FR1823368486",
         "Service_Model": [
           "SaaS"
@@ -11158,8 +11166,13 @@
         "Authorizing_Agency": "Department of Health and Human Services",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/AppDynamics%20Logo.png",
         "Independent_Assessor": "Schellman & Company, LLC",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "FR1823149273"
+        ],
         "CSP_Website": "www.appdynamics.com",
         "CSO_Description": "AppDynamics GovAPM is a software-as-a-service (SaaS) application performance monitoring (APM) solution. AppDynamics GovAPM provides end-to-end visibility into the performance of applications.",
+        "Announcement_Date": "2020-06-10T04:00:00.000Z",
         "CSP_POC_Name": "San Buonassisi",
         "CSP_POC_Email": "fedramp@appdynamics.com",
         "FedRAMP_In-Process_Date": "2019-06-18T04:00:00.000Z",
