@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-06-16T04:40:50.679Z",
+    "Created_At": "2020-06-17T04:40:50.758Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -334,6 +334,12 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-03-09T04:00:00.000Z",
             "Authorizing_Agency": "Department of Agriculture",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-01-27T05:00:00.000Z",
+            "Authorizing_Agency": "United States Securities and Exchange Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/SEC%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -1172,6 +1178,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2019-07-02T04:00:00.000Z",
             "Authorizing_Agency": "Consumer Financial Protection Bureau",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFPB_Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-08-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-08-13T04:00:00.000Z",
+            "Authorizing_Agency": "United States Securities and Exchange Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/SEC%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -2381,6 +2394,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-05-27T04:00:00.000Z",
             "Authorizing_Agency": "Federal Reserve System",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRS%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-10-24T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-10-28T04:00:00.000Z",
+            "Authorizing_Agency": "United States Securities and Exchange Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/SEC%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -8119,6 +8139,13 @@
             "Authorizing_Agency": "Federal Trade Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-10-24T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-10-28T04:00:00.000Z",
+            "Authorizing_Agency": "United States Securities and Exchange Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/SEC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -12520,13 +12547,17 @@
       {
         "Cloud_Service_Provider_Name": "Sumo Logic",
         "Cloud_Service_Provider_Package": "Sumo Logic",
-        "Designation": "FedRAMP Ready",
+        "Path": "Agency",
+        "Designation": "In Process",
         "Package_ID": "FR1918740338",
         "Service_Model": [
           "SaaS"
         ],
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Federal Trade Commission",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
+        "Authorizing_Agency": "Federal Trade Commission",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Sumo%20Logic%20Logo.png",
         "Independent_Assessor": "Kratos",
         "CSP_Website": "https://www.sumologic.com/public-sector/",
@@ -12534,6 +12565,7 @@
         "CSP_POC_Name": "Doug Natal",
         "CSP_POC_Email": "Public-sector@sumologic.com",
         "Fedramp_Ready_Date": "2019-05-31T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2020-06-16T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
