@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-06-17T04:40:50.758Z",
+    "Created_At": "2020-06-18T04:40:50.779Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -5716,7 +5716,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DFC%20Logo.jpg",
         "Authorizing_Agency": "U.S. International Development Finance Corporation",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Centrify%20Logo3.png",
-        "Independent_Assessor": "Kratos",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW",
           "F1603087869"
@@ -6585,6 +6585,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-04-07T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Interior",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-03-25T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-06-12T04:00:00.000Z",
+            "Authorizing_Agency": "General Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -11225,6 +11232,38 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Smarsh",
+        "Cloud_Service_Provider_Package": "The Federal Archive",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1726074117",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-02-05T05:00:00.000Z",
+        "Original_Expiration_Date": "2023-02-05T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of State",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
+        "Authorizing_Agency": "Department of State",
+        "Authorizing_Subagency": "State Office of the Inspector General",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Smarsh%20Logo2.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "Underlying_CSP_Package_ID": [
+          "F1206061353",
+          "F1603047866",
+          "F1512167750"
+        ],
+        "CSP_Website": "www.smarsh.com",
+        "CSO_Description": "Ease the burden of retaining and producing text message communications and respond to the challenges of FOIA requests with the Federal Archive from Smarsh. Deployed in AWS GovCloud and built to meet federal security requirements, Federal Archive enables agencies to capture, archive, access and produce text message communications quickly and efficiently.\nSupported channels include AT&T and Verizon, with additional communication channels on the roadmap.\nRecords Managers, CTOs, CIOs and IT staff will appreciate secure, centralized, automated digital content combined with powerful search and retrieval capabilities in a single solution. Onboarding is simple, scalable and cost-effi­cient. Federal Archive has been designed to protect agencies now and in the future, providing peace of mind in a constantly evolving regulatory landscape.\nKey capabilities to manage government communications records include:\n* Direct, Contextual Capture: All content is captured directly from AT&T and Verizon via API connections. Messages are captured with full context and metadata, rather than being flattened to email format. Upon ingestion into the archive, content is easily accessible and ready to be leveraged for high speed search and export.\n* Powerful Search: Industry-leading search speeds are supported, regardless of the volume of ingested data. Search results are displayed with message threading and attachments to maintain the full context of each conversation.\n* High Speed Exports: Any/all messages and message metadata can be exported from the platform at high speed. Exports are password protected and export history logs can be displayed in the platform for reference or repeat downloads. Messages can also be exported from search results – either the full search list or a subset of selected messages.\n* External Archive Functionality: In addition to its integrated archive, Federal Archive provides clients with the option to capture content and send it directly to an external archive in EML or SFTP format.\n* Advanced Admin & Permissions: Within the platform, identities are unified across supported channels and are searchable by profile. Profiles can be filtered based on whether they are internal or external, by person or organization and/or by channel. Admins have a dashboard view of their organization’s archived channels as well as the provisioning status of each channel for enhanced oversight.\n* Federal Grade Security: Federal Archive will be deployed in AWS GovCloud. Built specifically for government agencies, GovCloud hosts sensitive data and regulated workflows with the most stringent security and compliance controls. Amazon’s physical and other security controls have been architected to meet the specific requirements of government agencies. The platform adheres to top-tier security standards, with all captured data encrypted in transit and at rest.\nFor more information, visit [https://www.smarsh.com/products/connected-archive/federal-archive/](https://www.smarsh.com/products/connected-archive/federal-archive/)",
+        "Announcement_Date": "2020-06-17T04:00:00.000Z",
+        "CSP_POC_Name": "John Rowe",
+        "CSP_POC_Email": "fedramp@smarsh.com",
+        "FedRAMP_In-Process_Date": "2019-04-03T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "ServiceNow",
         "Cloud_Service_Provider_Package": "Service Automation Government Cloud Suite (Legacy)",
         "Path": "JAB",
@@ -11357,7 +11396,7 @@
         "CSO_Description": "Syncplicity by Axway (AMPLIFY Content Collaboration) is a secure, enterprise-grade file synchronization, sharing and collaboration platform that helps companies build a digital workplace that integrates with their digital business. It provides enterprises and organizations of all sizes and their users with access to all of their files across all of their devices and provides a secure way to share content and improve collaboration across teams and organizations internally and externally while the business maintains heightened security, compliance and audit over their data.",
         "CSP_POC_Name": "Brian Levine",
         "CSP_POC_Email": "fedramp@axway.com",
-        "Fedramp_Ready_Date": "2019-05-31T04:00:00.000Z",
+        "Fedramp_Ready_Date": "2020-06-11T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -12445,30 +12484,6 @@
         "CSP_POC_Name": "Efraim Harari",
         "CSP_POC_Email": "fedramp@sentinelone.com",
         "FedRAMP_In-Process_Date": "2019-05-16T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Smarsh",
-        "Cloud_Service_Provider_Package": "The Federal Archive",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1726074117",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of State",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
-        "Authorizing_Agency": "Department of State",
-        "Authorizing_Subagency": "State Office of the Inspector General",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Smarsh%20Logo2.png",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "CSP_Website": "www.smarsh.com",
-        "CSO_Description": "Ease the burden of retaining and producing text message communications and respond to the challenges of FOIA requests with the Federal Archive from Smarsh. Deployed in AWS GovCloud and built to meet federal security requirements, Federal Archive enables agencies to capture, archive, access and produce text message communications quickly and efficiently.\nSupported channels include AT&T and Verizon, with additional communication channels on the roadmap.\nRecords Managers, CTOs, CIOs and IT staff will appreciate secure, centralized, automated digital content combined with powerful search and retrieval capabilities in a single solution. Onboarding is simple, scalable and cost-effi­cient. Federal Archive has been designed to protect agencies now and in the future, providing peace of mind in a constantly evolving regulatory landscape.\nKey capabilities to manage government communications records include:\n* Direct, Contextual Capture: All content is captured directly from AT&T and Verizon via API connections. Messages are captured with full context and metadata, rather than being flattened to email format. Upon ingestion into the archive, content is easily accessible and ready to be leveraged for high speed search and export.\n* Powerful Search: Industry-leading search speeds are supported, regardless of the volume of ingested data. Search results are displayed with message threading and attachments to maintain the full context of each conversation.\n* High Speed Exports: Any/all messages and message metadata can be exported from the platform at high speed. Exports are password protected and export history logs can be displayed in the platform for reference or repeat downloads. Messages can also be exported from search results – either the full search list or a subset of selected messages.\n* External Archive Functionality: In addition to its integrated archive, Federal Archive provides clients with the option to capture content and send it directly to an external archive in EML or SFTP format.\n* Advanced Admin & Permissions: Within the platform, identities are unified across supported channels and are searchable by profile. Profiles can be filtered based on whether they are internal or external, by person or organization and/or by channel. Admins have a dashboard view of their organization’s archived channels as well as the provisioning status of each channel for enhanced oversight.\n* Federal Grade Security: Federal Archive will be deployed in AWS GovCloud. Built specifically for government agencies, GovCloud hosts sensitive data and regulated workflows with the most stringent security and compliance controls. Amazon’s physical and other security controls have been architected to meet the specific requirements of government agencies. The platform adheres to top-tier security standards, with all captured data encrypted in transit and at rest.\nFor more information, visit [https://www.smarsh.com/products/connected-archive/federal-archive/](https://www.smarsh.com/products/connected-archive/federal-archive/)",
-        "CSP_POC_Name": "John Rowe",
-        "CSP_POC_Email": "fedramp@smarsh.com",
-        "FedRAMP_In-Process_Date": "2019-04-03T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
