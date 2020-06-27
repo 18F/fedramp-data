@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-06-26T04:40:50.562Z",
+    "Created_At": "2020-06-27T04:40:50.574Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -340,48 +340,6 @@
             "Letter_Date": "2020-01-27T05:00:00.000Z",
             "Authorizing_Agency": "United States Securities and Exchange Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/SEC%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Perspecta",
-        "Cloud_Service_Provider_Package": "Cloud for Public Sector",
-        "Path": "JAB",
-        "Designation": "Compliant",
-        "Package_ID": "F1206131373",
-        "Service_Model": [
-          "IaaS, PaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2013-06-06T04:00:00.000Z",
-        "Sponsoring_Agency": "JAB Authorization",
-        "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Perspecta%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1305072116"
-        ],
-        "CSP_Website": "www.Perspecta.com",
-        "CSO_Description": "Perspecta created Cloud for Public Sector for Federal Agency customers looking to lift and shift their existing client server application workloads to the Cloud without significant refactoring. Perspecta Cloud for Public Sector provides Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Replication-based disaster recovery Cloud Service Offering (CSO) services to U.S. Government entities at all levels; Private Sector Contractors doing business with U.S. government entities; and Non-Government Organizations subject to, or implementing, Federal IT Security and Privacy regulation and reporting. Cloud for Public Sector supplies 100% U.S.-based data storage and U.S. Persons support for customers with ITAR and US data sovereignty requirements.\nPaaS, called “Perspecta-Managed Service”, provides managed, standardized, secure, compliant IaaS servers on either Perspecta’s own or another Cloud Service Provider’s CSO for a full set of leveragable security, privacy, and IT governance administration services and options to support Federal Information Security Management Act (FISMA) and FedRAMP control baselines. Customers may mix IaaS and PaaS in a single cloud, operate more than one cloud, and combine cloud services with traditional data center hosted virtual and managed physical infrastructure components.\nPerspecta Cloud Continuity is an independently orderable, Cloud-based disaster recovery (DR) IaaS service to meet contingency planning requirements. The Perspecta Cloud Continuity solution collects and maintains complete replica of customer servers and network configurations to reconstitute the subscribed Consumer environment identical to the production data center original.\nFor more information, visit our worldwide web site at [www.Perspecta.com](www.Perspecta.com).",
-        "Announcement_Date": "2013-06-06T04:00:00.000Z",
-        "CSP_POC_Name": "Marilyn Hays",
-        "CSP_POC_Email": "fedramp@perspecta.com",
-        "FedRAMP_In-Process_Date": "2013-01-10T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2014-06-07T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2015-09-18T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2015-09-18T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Authorizing_Subagency": "Federal Student Aid",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -1274,28 +1232,21 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2017-06-14T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-06-16T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-06-16T04:00:00.000Z",
-            "Authorizing_Agency": "United States Government Publishing Office",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USGPO%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-04-20T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-04-20T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "United States Air Force",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2018-03-22T04:00:00.000Z",
             "Letter_Expiration_Date": "2021-03-27T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-03-27T04:00:00.000Z",
             "Authorizing_Agency": "Department of Education",
             "Authorizing_Subagency": "Federal Student Aid",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-06-19T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-06-18T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-06-19T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "United States Air Force",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -1786,15 +1737,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2017-05-24T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-06-13T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-08-01T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Authorizing_Subagency": "National Nuclear Security Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2017-08-10T04:00:00.000Z",
             "Letter_Expiration_Date": "2020-09-13T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2017-09-13T04:00:00.000Z",
@@ -1967,6 +1909,15 @@
             "Authorizing_Subagency": "Defense Logistics Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-06-14T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-06-13T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-05-12T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "National Nuclear Security Administration - Kansas City Field Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -2081,7 +2032,16 @@
         "CSP_POC_Name": "N/A",
         "CSP_POC_Email": "fedramp@mobileiron.com",
         "FedRAMP_In-Process_Date": "2015-12-23T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Expiration_Date": "2020-11-14T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-11-14T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "United States Mint",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "18F",
@@ -2194,129 +2154,6 @@
             "Authorizing_Letter_Last_Sign_Date": "2017-06-12T04:00:00.000Z",
             "Authorizing_Agency": "Consumer Financial Protection Bureau",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFPB_Logo.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "BlackBerry",
-        "Cloud_Service_Provider_Package": "BlackBerry Cloud - AtHoc Services for Government",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1302271924",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2017-02-15T05:00:00.000Z",
-        "Sponsoring_Agency": "Department of Transportation",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
-        "Authorizing_Agency": "Department of Transportation",
-        "Authorizing_Subagency": "Federal Aviation Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/BlackBerry%20Logo.png",
-        "Independent_Assessor": "Kratos",
-        "Underlying_CSP_Package_ID": [
-          "F1603087869"
-        ],
-        "CSP_Website": "http://blackberry.athoc.com",
-        "CSO_Description": "BlackBerry’s AtHoc is a networked crisis communication platform enabling corporations and government agencies to communicate and collaborate securely with their personnel and with other organizations through multiple devices during times of crises. BlackBerry’s AtHoc platform addresses critical communications needs including:\nAccount: AtHoc Account enables real-time visibility into location and status for effective personnel accountability and crisis handling before, during, and after emergencies. This integrated approach to personnel accountability enables inputs from managers about their team, call center operators, data streams from HR and travel systems, as well as self-reporting by individuals.\nAlert: AtHoc Alert provides a comprehensive crisis communication solution that unifies all channels and devices, empowering organizations, people, and communities to collaborate during critical events. AtHoc’s flexible deployment options safeguards important personal information and enables enterprise-level command and control.\nConnect: AtHoc Connect empowers organizations to create their own permission-based network to establish interoperable communication and information sharing with organizations in their community.\nCollect: AtHoc Collect empowers your personnel in the field to be the \"eyes and ears\" of the operations center. AtHoc Collect enables on-scene personnel to report events, work progress, along with rich geo-tagged media that are worth a thousand words.",
-        "Announcement_Date": "2017-03-10T05:00:00.000Z",
-        "CSP_POC_Name": "Rashad Munawar",
-        "CSP_POC_Email": "bbfedcompliance@blackberry.com",
-        "FedRAMP_In-Process_Date": "2016-09-14T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2017-09-27T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-09-27T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Justice",
-            "Authorizing_Subagency": "Justice Management Division",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2017-11-30T05:00:00.000Z",
-            "Letter_Expiration_Date": "2020-12-31T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2018-06-20T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Authorizing_Subagency": "Internal Revenue Service",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-06-22T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-07-24T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-07-24T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-07-18T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-07-10T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-09-11T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-09-11T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-09-11T04:00:00.000Z",
-            "Authorizing_Agency": "United States Agency for International Development",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-07-24T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-07-24T04:00:00.000Z",
-            "Authorizing_Agency": "Surface Transportation Board",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SurfaceTransportationBoard-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2022-05-29T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-05-29T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "Transportation Security Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-09-09T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-01-01T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-09-09T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Authorizing_Subagency": "National Nuclear Security Administration / Nevada Field Office",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-02-13T05:00:00.000Z",
-            "Letter_Expiration_Date": "2023-02-12T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-02-13T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Veterans Affairs",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-05-27T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-05-28T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-05-28T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-05-28T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-07-28T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-05-28T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Trade Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -5630,7 +5467,7 @@
         "Authorizing_Agency": "Department of Justice",
         "Authorizing_Subagency": "Office of Justice Programs",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/DSI%20Logo.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Independent_Assessor": "Lunarline, Inc.",
         "Underlying_CSP_Package_ID": [
           "F1403283529"
         ],
@@ -5929,7 +5766,7 @@
         "Authorizing_Agency": "Department of Agriculture",
         "Authorizing_Subagency": "Animal and Plant Health Inspection Service",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/OneSpan%20Logo3.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Independent_Assessor": "Lunarline, Inc.",
         "Underlying_CSP_Package_ID": [
           "F1403283529"
         ],
@@ -7525,6 +7362,14 @@
             "Authorizing_Agency": "Department of Energy",
             "Authorizing_Subagency": "Bonneville Power Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2021-05-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-05-19T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -9825,7 +9670,16 @@
         "CSP_POC_Name": "Ray Cruz",
         "CSP_POC_Email": "fedrampinfo@newrelic.com",
         "FedRAMP_In-Process_Date": "2018-11-01T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Expiration_Date": "2021-05-13T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-05-13T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "United States Citizenship and Immigration Services",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Northrop Grumman",
@@ -11065,15 +10919,6 @@
         "FedRAMP_In-Process_Date": "2015-10-02T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Date": "2017-06-22T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-06-17T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-06-22T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Logistics Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-07-01T04:00:00.000Z",
             "Letter_Expiration_Date": "2020-06-30T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-07-01T04:00:00.000Z",
@@ -11096,6 +10941,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-06-10T04:00:00.000Z",
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "North American Aerospace Defense Command & United States Northern Command",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-06-17T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-06-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-06-17T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Logistics Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
@@ -11270,6 +11124,130 @@
         "CSP_POC_Email": "fedramp@smarsh.com",
         "FedRAMP_In-Process_Date": "2019-04-03T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "BlackBerry",
+        "Cloud_Service_Provider_Package": "BlackBerry Cloud - AtHoc Services for Government",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1302271924",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-03-03T05:00:00.000Z",
+        "Original_Expiration_Date": "2023-03-03T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Transportation",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
+        "Authorizing_Agency": "Department of Transportation",
+        "Authorizing_Subagency": "Federal Aviation Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/BlackBerry%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "F1603087869"
+        ],
+        "CSP_Website": "http://blackberry.athoc.com",
+        "CSO_Description": "BlackBerry’s AtHoc is a networked crisis communication platform enabling corporations and government agencies to communicate and collaborate securely with their personnel and with other organizations through multiple devices during times of crises. BlackBerry’s AtHoc platform addresses critical communications needs including:\nAccount: AtHoc Account enables real-time visibility into location and status for effective personnel accountability and crisis handling before, during, and after emergencies. This integrated approach to personnel accountability enables inputs from managers about their team, call center operators, data streams from HR and travel systems, as well as self-reporting by individuals.\nAlert: AtHoc Alert provides a comprehensive crisis communication solution that unifies all channels and devices, empowering organizations, people, and communities to collaborate during critical events. AtHoc’s flexible deployment options safeguards important personal information and enables enterprise-level command and control.\nConnect: AtHoc Connect empowers organizations to create their own permission-based network to establish interoperable communication and information sharing with organizations in their community.\nCollect: AtHoc Collect empowers your personnel in the field to be the \"eyes and ears\" of the operations center. AtHoc Collect enables on-scene personnel to report events, work progress, along with rich geo-tagged media that are worth a thousand words.",
+        "Announcement_Date": "2017-03-10T05:00:00.000Z",
+        "CSP_POC_Name": "Rashad Munawar",
+        "CSP_POC_Email": "bbfedcompliance@blackberry.com",
+        "FedRAMP_In-Process_Date": "2016-09-14T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2017-09-27T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-09-27T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Justice",
+            "Authorizing_Subagency": "Justice Management Division",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2017-11-30T05:00:00.000Z",
+            "Letter_Expiration_Date": "2020-12-31T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2018-06-20T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Internal Revenue Service",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2018-06-22T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-07-24T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-07-24T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2018-07-18T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-07-10T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2018-09-11T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-09-11T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-09-11T04:00:00.000Z",
+            "Authorizing_Agency": "United States Agency for International Development",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2018-07-24T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-07-24T04:00:00.000Z",
+            "Authorizing_Agency": "Surface Transportation Board",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SurfaceTransportationBoard-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2022-05-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-05-29T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Transportation Security Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-09-09T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-01-01T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-09-09T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "National Nuclear Security Administration / Nevada Field Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-02-13T05:00:00.000Z",
+            "Letter_Expiration_Date": "2023-02-12T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-02-13T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-05-27T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-05-28T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-05-28T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-05-28T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-07-28T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-05-28T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Trade Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "ServiceNow",
@@ -12561,7 +12539,7 @@
         "Independent_Assessor": "Kratos",
         "CSP_Website": "https://www.softwareaggov.com",
         "CSO_Description": "Software AG is a PaaS provider of market leading Enterprise Architecture and IT Planning and Portfolio Management solutions, ALFABET and ARIS.\nWhile enabling the business of Federal agencies and ensuring security protection of agency and citizen information assets is top of mind for government IT leaders, the adoption of more rigorous IT Enterprise Architecture and IT Planning is helping agencies gain a better overall picture of their IT environments in order to make better decisions. ALFABET and ARIS enable agencies to more reliably analyze and answer business questions about the value to be received from IT and develop more accurate pictures of mission gains and risks during project delivery. With government agencies facing mandates today such as FITARA and TBM and new mandates in the future, the need for flexible visibility and transparency for not only IT spend but how IT is aligned to mission, has never been more critical.\n**Platform Implementation Details:**\n* Fast deployment into Azure Government Cloud P-ATO at FedRAMP Moderate\n* Central contact point for all issues including hosting, software deployment, and optionally end-user support. * Single Tenant deployments per customer providing peace of mind security while avoiding multi-tenant headaches and forced upgrade timelines\n* Shared Help Desk, Security, and Operations Staff to optimize cost and skillset management\n* Single-Sign On Capability leveraging approved SAML providers supporting PIV/CAC authentication\n* Environment provisioning and operations meeting NIST 800-53 Rev 4 FedRAMP Moderate.\n* All US Person staff\n**Platform Benefits:**\n* Faster time-to-value for the mission\n* Well-defined tenant boundary for streamlined agency ATO signoff\n* Simplified cost structure removing separate costs for hardware, software and hosting removing capital funding requirements\n* Reduced training and staffing requirements for software configuration and patch/upgrade cycles\n**Additional ALFABET Details** Assists organizations in IT planning, portfolio management, risk management and enterprise architecture.\nKey Solution Capabilities:\n1. Accelerated deployment for government agencies\n2. Support for TBM, FITARA, DODAF, and many other frameworks and standards, “out of the box”\n3. Manage and reduce costs by rationalizing the IT landscape\n4. Improve business and IT agility with a clear understanding of impacts and dependencies in your architecture\n5. Enhance decision-making, drive innovation and reduce time-to-market 6. Plot your transformation success with road mapping capabilities across multiple dimensions\n7. Create operational efficiencies by eliminating information silos\n8. Improve compliance and reduce risk through the definition and effective analysis of compliance information\n**Additional ARIS Details** Assists organizations in following the Architecture of Integrated Information Systems approach to enterprise modeling. Agencies can analyze, process and take a holistic approach to design, management, workflow, and application processing.\nKey Solution Capabilities:\n1. Business Modeling- Easily design your processes with a rich modeling environment supporting whatever notation or topic from BPMN 2.0 to customer journey mapping. 2. Business Analysis - Analyze your business from simple to complex. From easy search & queries, ad-hoc analysis, decision-making, reporting & macros\n3. Central Repository - Based on a central repository and administration make sure you are in full control of your operations\n4. Connected Operations - Design is tightly integrated with publishing and collaboration and integrated e.g. via interfaces to external tools like SAP\n5. Business Clarity - A state-of the-art look-and-feel makes it fun to view processes. Innovative ways to publish process content enable anyone to understand processes\n6. Process Improvement - By using social collaboration, you unlock the wisdom of the crowd for process improvement.\n7. Direct Access - Access dedicated & up-to-date information to analyze and evaluate content, contribute to process improvements, view and share best practices.",
-        "Expected_Compliance_Date": "2020-03-31T04:00:00.000Z",
+        "Expected_Compliance_Date": "2020-07-31T04:00:00.000Z",
         "CSP_POC_Name": "Jeff Estes",
         "CSP_POC_Email": "fedramp@softwareaggov.com",
         "FedRAMP_In-Process_Date": "2019-11-05T05:00:00.000Z",
@@ -12825,6 +12803,29 @@
         "CSP_POC_Email": "fedramp@wellspring.com",
         "FedRAMP_In-Process_Date": "2020-02-12T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "ZibaSec, Inc.",
+        "Cloud_Service_Provider_Package": "PhishTACO",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2009760876",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Justice",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+        "Authorizing_Agency": "Department of Justice",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/ZibaSec%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://zibasec.io",
+        "CSO_Description": "ZibaSec PhishTACO is a cloud-based SaaS solution that enables organizations of all sizes to accurately assess their risk levels using sophisticated email phishing campaigns. PhishTACO was designed from the outset to cater to the needs of the largest Federal agencies without sacrificing simple and accessible user experiences. Bad actors don't just try via email; a core goal of ZibaSec PhishTACO is to facilitate social engineering simulations across multiple attack vectors, not just email. \n\nAchieving a FedRAMP Moderate certification, ZibaSec PhishTACO will demonstrate its commitment to provide a secure software platform to our federal agency partners.\n\n**More about ZibaSec PhishTACO**\n\nZibaSec PhishTACO is focused on what enterprise organizations need the most:\n\n* Understanding their organizational risk levels to sophisticated email phishing attacks.\n* Providing a secure and compliant platform that aligns with the regulatory standards our customers care about.\n* Helping their workforce become better equipped to detect and avoid multiple human-centric attack vectors.\n\nIn pursuit of meeting these needs, ZibaSec PhishTACO takes a research-centric approach in the features it provides:\n\nWith ZibaSec PhishTACO organizations can:\n\n* Pick from a large list of phishing domains (all with DKIM and SPF records to ensure maximum deliverability) that we are constantly rotating, with the option to bring their own domain.\n* Email ten to tens of thousands of emails in a single simulation.\n* Assess the performance of their workforce in any desired timespan to provide rich trending reports; detailed down to the individual.\n* Pick from multiple options for hosting landing pages or redirects to send users to after clicking an email link. Create a redirect or simply provide a document to host.\n* Easily create sub-organizations and create granular role-based access control groups to allow enterprises to delegate tactical control to different departments or groups while retaining enterprise-wide visibility into employee performance.",
+        "CSP_POC_Name": "Daniel Shepherd",
+        "CSP_POC_Email": "fedramp@zibasec.io",
+        "FedRAMP_In-Process_Date": "2020-06-09T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
       }
     ],
     "Assessors": [
@@ -12935,7 +12936,7 @@
         "Accreditation_Date": "2014-10-21T04:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Coalfire%20Logo.jpg",
         "Description": "Coalfire provides FedRAMP 3PAO Assessment Support Services for any customer looking to have an external, independent third party assessment. Having performed the very first JAB, Agency, and CSP-Supplied (now defunct) assessments, we know what it takes to successfully assess small and large CSPs against the FedRAMP requirements. Our testers are industry certified and internally trained with our structured process to ensure everyone conducts their tests in the same manner. We are also well-versed in the FedRAMP Accelerated process, having conducted 2 of the first 3 through the program. The results of our Readiness Assessments for those CSPs helped shape the updated requirements for the Readiness Review process. Lastly, we successfully completed 2 of the first 3 FedRAMP High Baseline assessments. Our constant involvement in the FedRAMP program allows us to share internal lessons learned across our team to ensure everyone is up to date on the latest guidance and requirements. We are the 3PAO for 5 of the first 7 CSPs entering the initial FedRAMP Connect program.",
-        "POC_Name": "Michael Carter",
+        "POC_Name": "Adam Shnider",
         "POC_Email": "3pao@coalfire.com",
         "website": "www.coalfire.com",
         "Remediation": "N",
