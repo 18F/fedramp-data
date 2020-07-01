@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-06-30T04:40:50.445Z",
+    "Created_At": "2020-07-01T04:40:52.632Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -822,9 +822,6 @@
         "Authorizing_Agency": "JAB Authorization",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MicroFocus%20Logo.png",
         "Independent_Assessor": "Lunarline, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1206131373"
-        ],
         "CSP_Website": "https://software.microfocus.com/en-us/home",
         "CSO_Description": "The Micro Focus Fortify on Demand (FoD) for US Public Sector performs security assessments of application code and web site/web services testing without any software to install or manage. Static Code Scanning of code such as Java, .NET and other major programming languages for security defects are performed in the FoD System at the code layer followed by an audit review by a Micro Focus Fortify Static auditor. Dynamic Web Site and Web Services testing use Micro Focus Fortify’s WebInspect software as the scan engine, followed by a review from a Micro Focus Fortify Dynamic tester.",
         "Announcement_Date": "2015-02-04T05:00:00.000Z",
@@ -2291,44 +2288,13 @@
             "Authorizing_Agency": "General Services Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
             "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Oracle",
-        "Cloud_Service_Provider_Package": "Taleo Cloud - U.S. Government Cloud",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1603227880",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2017-06-13T04:00:00.000Z",
-        "Original_Expiration_Date": "2020-06-13T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Justice",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
-        "Authorizing_Agency": "Department of Justice",
-        "Authorizing_Subagency": "Federal Bureau of Prisons",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1508277234"
-        ],
-        "CSP_Website": "www.oracle.com",
-        "CSO_Description": "Oracle Taleo Cloud services are Oracle’s Software as a Service (SaaS) solution, providing a comprehensive talent management and learning service. Taleo Enterprise Edition offers a comprehensive talent management suite that spans the entire employee lifecycle and helps companies hire, manage, reward, and develop their employees with a full talent management solution for recruiting and on boarding, performance management, employee development and succession planning. Since Taleo Enterprise Edition is built on a single unified platform and delivered on demand, you can implement a single module or the full solution based on your needs. Oracle’s Taleo Learn Cloud offers an employee development and training software solution that supports the learning challenges of large complex enterprises. Taleo Learn links human resources management to learning with Talent Intelligence. The Taleo Learn Cloud Service is a solution for delivering, tracking, managing, and reporting on formal and informal learning. Users have access to learning through a single platform for online, classroom, virtual, and on-the-job training, as well as assessments, blended learning, social learning, and self-reported training. Organizations can design a tailored user experience with complete control of the user interface.",
-        "Announcement_Date": "2017-08-21T04:00:00.000Z",
-        "CSP_POC_Name": "AJ Handy",
-        "CSP_POC_Email": "saas_fedramp_us_grp@oracle.com",
-        "Fedramp_Ready_Date": "2016-08-30T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2017-02-17T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
+          },
           {
-            "Letter_Date": "2019-08-22T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-09-25T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-09-25T04:00:00.000Z",
+            "Letter_Date": "2020-06-01T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-05-28T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-06-10T04:00:00.000Z",
             "Authorizing_Agency": "Department of Education",
+            "Authorizing_Subagency": "Federal Student Aid",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
           }
@@ -7565,37 +7531,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "R&K Solutions, Inc",
-        "Cloud_Service_Provider_Package": "GoRPM",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1733061545",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2019-05-20T04:00:00.000Z",
-        "Original_Expiration_Date": "2020-05-21T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Defense",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-        "Authorizing_Agency": "Department of Defense",
-        "Authorizing_Subagency": "Defense Information Systems Agency",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/RK%20Logo.png",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866"
-        ],
-        "CSP_Website": "https://rksolutions.com/gorpm",
-        "CSO_Description": "GoRPM empowers organizations to collect, aggregate, analyze, manage and understand their real property, personal property, and facilities investments. GoRPM provides data driven decision making in many areas including asset inventory, strategic movement of assets (Basing), space utilization, condition assessment, sustainability, cost analysis, and budget planning and forecasting. The GoRPM is highly configurable and can be quickly implemented and scaled to meet the needs of government agencies.",
-        "Announcement_Date": "2019-08-06T04:00:00.000Z",
-        "CSP_POC_Name": "Michael Nichols",
-        "CSP_POC_Email": "fedramp@rksolutions.com",
-        "Fedramp_Ready_Date": "2018-05-29T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2018-10-22T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Dell Boomi",
         "Cloud_Service_Provider_Package": "AtomSphere",
         "Path": "Agency",
@@ -11260,6 +11195,77 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Oracle",
+        "Cloud_Service_Provider_Package": "Taleo Cloud - U.S. Government Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1603227880",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-06-26T04:00:00.000Z",
+        "Original_Expiration_Date": "2023-06-26T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Justice",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+        "Authorizing_Agency": "Department of Justice",
+        "Authorizing_Subagency": "Federal Bureau of Prisons",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1508277234"
+        ],
+        "CSP_Website": "www.oracle.com",
+        "CSO_Description": "Oracle Taleo Cloud services are Oracle’s Software as a Service (SaaS) solution, providing a comprehensive talent management and learning service. Taleo Enterprise Edition offers a comprehensive talent management suite that spans the entire employee lifecycle and helps companies hire, manage, reward, and develop their employees with a full talent management solution for recruiting and on boarding, performance management, employee development and succession planning. Since Taleo Enterprise Edition is built on a single unified platform and delivered on demand, you can implement a single module or the full solution based on your needs. Oracle’s Taleo Learn Cloud offers an employee development and training software solution that supports the learning challenges of large complex enterprises. Taleo Learn links human resources management to learning with Talent Intelligence. The Taleo Learn Cloud Service is a solution for delivering, tracking, managing, and reporting on formal and informal learning. Users have access to learning through a single platform for online, classroom, virtual, and on-the-job training, as well as assessments, blended learning, social learning, and self-reported training. Organizations can design a tailored user experience with complete control of the user interface.",
+        "Announcement_Date": "2017-08-21T04:00:00.000Z",
+        "CSP_POC_Name": "AJ Handy",
+        "CSP_POC_Email": "saas_fedramp_us_grp@oracle.com",
+        "Fedramp_Ready_Date": "2016-08-30T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2017-02-17T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2019-08-22T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-09-25T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-09-25T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "R&K Solutions, Inc",
+        "Cloud_Service_Provider_Package": "GoRPM",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1733061545",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-06-14T04:00:00.000Z",
+        "Original_Expiration_Date": "2021-01-15T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Defense",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+        "Authorizing_Agency": "Department of Defense",
+        "Authorizing_Subagency": "Defense Information Systems Agency",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/RK%20Logo.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "https://rksolutions.com/gorpm",
+        "CSO_Description": "GoRPM empowers organizations to collect, aggregate, analyze, manage and understand their real property, personal property, and facilities investments. GoRPM provides data driven decision making in many areas including asset inventory, strategic movement of assets (Basing), space utilization, condition assessment, sustainability, cost analysis, and budget planning and forecasting. The GoRPM is highly configurable and can be quickly implemented and scaled to meet the needs of government agencies.",
+        "Announcement_Date": "2019-08-06T04:00:00.000Z",
+        "CSP_POC_Name": "Michael Nichols",
+        "CSP_POC_Email": "fedramp@rksolutions.com",
+        "Fedramp_Ready_Date": "2018-05-29T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2018-10-22T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "ServiceNow",
         "Cloud_Service_Provider_Package": "Service Automation Government Cloud Suite (Legacy)",
         "Path": "JAB",
@@ -11667,13 +11673,18 @@
       {
         "Cloud_Service_Provider_Name": "DLH Corporation",
         "Cloud_Service_Provider_Package": "DLH Infinibyte Cloud",
-        "Designation": "FedRAMP Ready",
+        "Path": "Agency",
+        "Designation": "In Process",
         "Package_ID": "FR2000951694",
         "Service_Model": [
           "PaaS"
         ],
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "National Institutes of Health",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/DLH%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.dlhcorp.com",
@@ -11681,6 +11692,7 @@
         "CSP_POC_Name": "Jeffrey Hsii",
         "CSP_POC_Email": "fedramp@infinibytecloud.com",
         "Fedramp_Ready_Date": "2020-02-19T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2020-06-19T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
