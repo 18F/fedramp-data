@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-07-02T04:40:50.356Z",
+    "Created_At": "2020-07-03T04:40:50.222Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -437,48 +437,12 @@
       },
       {
         "Cloud_Service_Provider_Name": "OMB",
-        "Cloud_Service_Provider_Package": "MAX General Support Services",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "MAX-GSS",
-        "Service_Model": [
-          "IaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2014-06-09T04:00:00.000Z",
-        "Sponsoring_Agency": "Executive Office of the President",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_Executive_Office_of_the_President_of_the_United_States_2014.png",
-        "Authorizing_Agency": "Executive Office of the President",
-        "Authorizing_Subagency": "Office of Management and Budget",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/OMB%20Logo.png",
-        "Independent_Assessor": "Department of Transportation (DOT) Enterprise Services Center (ESC)",
-        "CSP_Website": "https://www.MAX.gov",
-        "CSO_Description": "MAX General Support Services (MAX GSS) is the cloud infrastructure that powers MAX.gov Shared Services ([https://MAX.gov](https://MAX.gov)). MAX GSS is leveraged as a common control provider.\nMAX GSS and MAX.gov Shared Services provide government-wide advanced collaboration, information sharing, data collection, publishing, and analytical capabilities for federal agencies and partners. MAX GSS includes:\n- MAX GSS – Physical and Environmental infrastructure, Servers, Virtual\nMachines, Databases, Networking, and Security - MAX Authentication (MAX Auth) – Single Sign-On (SSO) and 2-Factor\nAuthentication as a Service with HSPD-12 (CAC/PIV) integration - MAX is built upon an integrated database that maintains the\nwide range of data necessary to meet multiple production and\npolicy support demands.\nMAX is managed by the Budget Systems Branch (BSB), Budget Review Division (BRD), of the Office of Management and Budget (OMB), in conjunction with the Budget Formulation and Execution Line of Business (BFELoB) Program Management Office (PMO) at the Department of Education (ED).",
-        "Announcement_Date": "2014-06-09T04:00:00.000Z",
-        "CSP_POC_Name": "Dan Chandler",
-        "CSP_POC_Email": "MAXSupport@max.gov",
-        "FedRAMP_In-Process_Date": "2013-12-03T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2017-07-17T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-07-25T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-07-17T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Information Systems Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "OMB",
         "Cloud_Service_Provider_Package": "MAX.gov Shared Services",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "AGENCYMAX",
         "Service_Model": [
-          "PaaS, SaaS"
+          "SaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
@@ -490,7 +454,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/OMB%20Logo.png",
         "Independent_Assessor": "Sera-Brynn, LLC",
         "CSP_Website": "https://www.MAX.gov",
-        "CSO_Description": "MAX.gov Shared Services ([https://MAX.gov](https://MAX.gov)) is a government-wide advanced collaboration, information sharing, data collection, publishing, and analytical capability for federal agencies and partners. MAX services include:\n- MAX Community – Collaboration, Content Management, and Knowledge\nManagement - MAX Calendar – Scheduling, Calendar Sharing, and Meeting Coordination\n- MAX Shared Desktop – Online meetings with a Secure Virtual Desktop\n- MAX Collect – Basic and Advanced Data Collection, Publishing, and\nWorkflows - MAX Survey – Basic and Advanced Data Collection - MAX Analytics – Business Intelligence with Data Cubes - MAX Authentication – Single Sign-On (SSO) and 2-Factor Authentication as a Service with HSPD-12 (CAC/PIV) integration MAX is built upon an integrated database that maintains the wide range of data necessary to meet multiple production and policy support demands.\nMAX is managed by the Budget Systems Branch (BSB), Budget Review Division (BRD), of the Office of Management and Budget (OMB), in conjunction with the Budget Formulation and Execution Line of Business (BFELoB) Program Management Office (PMO) at the Department of Education (ED).",
+        "CSO_Description": "MAX.gov Shared Services ([https://MAX.gov](https://MAX.gov)) is a government-wide advanced collaboration, information sharing, data collection, publishing, and analytical capability for federal agencies and partners. MAX services include:\n\n* MAX Community – Collaboration, Content Management, and Knowledge\nManagement - MAX Calendar – Scheduling, Calendar Sharing, and Meeting Coordination\n* MAX Shared Desktop – Online meetings with a Secure Virtual Desktop\n* MAX Collect – Basic and Advanced Data Collection, Publishing, and\nWorkflows\n* MAX Survey – Basic and Advanced Data Collection \n* MAX Analytics – Business Intelligence with Data Cubes \n* MAX Authentication – Single Sign-On (SSO) and 2-Factor Authentication as a Service with HSPD-12 (CAC/PIV) integration \n\nMAX is built upon an integrated database that maintains the wide range of data necessary to meet multiple production and policy support demands. MAX is managed by the Budget Systems Branch (BSB), Budget Review Division (BRD), of the Office of Management and Budget (OMB), in conjunction with the Budget Formulation and Execution Line of Business (BFELoB) Program Management Office (PMO) at the Department of Education (ED).",
         "Announcement_Date": "2014-06-09T04:00:00.000Z",
         "CSP_POC_Name": "Dan Chandler",
         "CSP_POC_Email": "MAXSupport@max.gov",
@@ -724,6 +688,13 @@
             "Authorizing_Agency": "Nuclear Regulatory Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-06-19T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-06-19T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Deposit Insurance Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -802,6 +773,15 @@
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "Centers for Disease Control and Prevention",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-05-05T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-09-04T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-05-05T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Information Systems Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -2859,13 +2839,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2020-06-26T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-02-26T05:00:00.000Z",
-            "Authorizing_Agency": "Social Security Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Authorizing_Letter_Last_Sign_Date": "2020-04-23T04:00:00.000Z",
             "Authorizing_Agency": "United States International Trade Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USITC%20Logo.png",
@@ -2892,6 +2865,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-05-19T04:00:00.000Z",
             "Authorizing_Agency": "Department of Labor",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2020-10-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-06-26T04:00:00.000Z",
+            "Authorizing_Agency": "Social Security Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -3640,6 +3620,13 @@
             "Letter_Expiration_Date": "2021-03-26T04:00:00.000Z",
             "Authorizing_Agency": "Department of Veterans Affairs",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2021-04-20T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-04-20T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Justice",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -6480,14 +6467,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2019-05-31T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-05-31T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-05-31T04:00:00.000Z",
-            "Authorizing_Agency": "Social Security Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-06-04T04:00:00.000Z",
             "Letter_Expiration_Date": "2022-06-03T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-06-11T04:00:00.000Z",
@@ -6523,6 +6502,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-05-01T04:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-05-31T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-06-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-06-26T04:00:00.000Z",
+            "Authorizing_Agency": "Social Security Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -11292,6 +11279,57 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Snowflake Inc.",
+        "Cloud_Service_Provider_Package": "The Snowflake Service on AWS",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1809360201",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-05-01T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Snowflake%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "https://www.snowflake.com",
+        "CSO_Description": "Snowflake is the only data warehouse built for the cloud, enabling the data-driven enterprise with instant elasticity, secure data sharing and per-second pricing, across multiple clouds. Snowflake combines the power of data warehousing, the flexibility of big data platforms and the elasticity of the cloud at a fraction of the cost of traditional solutions. Find out more at [https://www.snowflake.com/](https://www.snowflake.com/).",
+        "CSP_POC_Name": "Siddique Chaudhry",
+        "CSP_POC_Email": "FedRAMP@snowflake.com",
+        "Fedramp_Ready_Date": "2019-10-07T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2019-12-04T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Snowflake Inc.",
+        "Cloud_Service_Provider_Package": "The Snowflake Service on Azure Government",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1809360202",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-05-01T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Snowflake%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "https://www.snowflake.com",
+        "CSO_Description": "Snowflake is the only data warehouse built for the cloud, enabling the data-driven enterprise with instant elasticity, secure data sharing and per-second pricing, across multiple clouds. Snowflake combines the power of data warehousing, the flexibility of big data platforms and the elasticity of the cloud at a fraction of the cost of traditional solutions. Find out more at [https://www.snowflake.com/](https://www.snowflake.com/).",
+        "CSP_POC_Name": "Siddique Chaudhry",
+        "CSP_POC_Email": "FedRAMP@snowflake.com",
+        "FedRAMP_In-Process_Date": "2019-12-04T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "ServiceNow",
         "Cloud_Service_Provider_Package": "Service Automation Government Cloud Suite (Legacy)",
         "Path": "JAB",
@@ -12495,55 +12533,6 @@
         "CSP_POC_Name": "Efraim Harari",
         "CSP_POC_Email": "fedramp@sentinelone.com",
         "FedRAMP_In-Process_Date": "2019-05-16T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Snowflake Inc.",
-        "Cloud_Service_Provider_Package": "The Snowflake Service on AWS",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1809360201",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Snowflake%20Logo.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "CSP_Website": "https://www.snowflake.com",
-        "CSO_Description": "Snowflake is the only data warehouse built for the cloud, enabling the data-driven enterprise with instant elasticity, secure data sharing and per-second pricing, across multiple clouds. Snowflake combines the power of data warehousing, the flexibility of big data platforms and the elasticity of the cloud at a fraction of the cost of traditional solutions. Find out more at [https://www.snowflake.com/](https://www.snowflake.com/).",
-        "CSP_POC_Name": "Siddique Chaudhry",
-        "CSP_POC_Email": "FedRAMP@snowflake.com",
-        "Fedramp_Ready_Date": "2019-10-07T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2019-12-04T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Snowflake Inc.",
-        "Cloud_Service_Provider_Package": "The Snowflake Service on Azure Government",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1809360202",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Snowflake%20Logo.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "CSP_Website": "https://www.snowflake.com",
-        "CSO_Description": "Snowflake is the only data warehouse built for the cloud, enabling the data-driven enterprise with instant elasticity, secure data sharing and per-second pricing, across multiple clouds. Snowflake combines the power of data warehousing, the flexibility of big data platforms and the elasticity of the cloud at a fraction of the cost of traditional solutions. Find out more at [https://www.snowflake.com/](https://www.snowflake.com/).",
-        "CSP_POC_Name": "Siddique Chaudhry",
-        "CSP_POC_Email": "FedRAMP@snowflake.com",
-        "FedRAMP_In-Process_Date": "2019-12-04T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
