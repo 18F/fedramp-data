@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-07-14T04:40:50.592Z",
+    "Created_At": "2020-07-15T04:40:50.768Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -782,6 +782,15 @@
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Defense Information Systems Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-05-06T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-09-04T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-05-06T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "United States Coast Guard",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -5674,7 +5683,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
         "Authorizing_Agency": "General Services Administration",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/GitHub_Logo.png",
-        "Independent_Assessor": "SecureIT",
+        "Independent_Assessor": "The Cadence Group",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW"
         ],
@@ -8627,7 +8636,7 @@
           "F1206081364"
         ],
         "CSP_Website": "https://duo.com",
-        "CSO_Description": "Duo's cloud-first secure access platform fuels your IT modernization journey by leveraging “zero trust” principles of identity, device, and application protection, while helping federal agencies and government customers mitigate the risk of data breaches. Duo verifies the identities of federal employees with one of the most secure and easy to use two-factor authentication methods, Duo Push, which offers authentication at an AAL1, AAL2, and AAL3 assurance level. Duo’s Unified Access Security solution helps federal agencies meet NIST 800-63-3 and 53/63/171 authentication requirements.\nFor federal agencies that have invested in Personal Identity Verification (PIV) cards and Common Access Cards (CAC), Duo’s solution works with your existing PIV and CAC solution to provide stronger access security. Duo is also a PIV/CAC alternative in use cases where access cards are not ideal or cannot be used.\nIn addition to verifying users’ identities, Duo's solution checks the security health of every device authenticating into your environment, at the time of access, without using an agent.\nFederal admins can use Duo to enforce stricter device access and application access policies, including blocking login requests based on location or anonymous networks, such as VPN proxies.\nDuo's Unified Access Security ensures only trusted users and trusted devices can access protected applications. This complete security solution prevents modern attackers that often target multiple areas - including credential theft and the exploitation of known software vulnerabilities affecting outdated software versions.",
+        "CSO_Description": "Duo’s Federal Editions can verify the identity of users with secure and easy to use two-factor authentication methods that helps public sector entities satisfy NIST 800-63-3 and 53/63/171 authentication requirements. In addition to verifying users’ identities, Duo’s solution checks the security health of every device authenticating into the environment, at the time of access. Admins can use Duo to enforce stricter device and application access policies, such as blocking login requests based on location or anonymous networks. Duo ensures only trusted users and devices can access protected applications. This complete security solution prevents modern attackers that often target multiple areas - including credential theft and the exploitation of known software vulnerabilities affecting outdated software versions.",
         "Announcement_Date": "2019-11-15T05:00:00.000Z",
         "CSP_POC_Name": "Dennis O'Neill",
         "CSP_POC_Email": "fedramp@duosecurity.com",
@@ -8641,39 +8650,6 @@
             "Include_In_Marketplace": "Y"
           }
         ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Ivanti",
-        "Cloud_Service_Provider_Package": "Ivanti Service Manager",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1816364586",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2019-07-10T04:00:00.000Z",
-        "Original_Expiration_Date": "2020-07-10T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Commerce",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-        "Authorizing_Agency": "Department of Commerce",
-        "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Ivanti%20Logo.png",
-        "Independent_Assessor": "The Cadence Group",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW",
-          "F1512167750",
-          "F1508207205"
-        ],
-        "CSP_Website": "https://www.ivanti.com/",
-        "CSO_Description": "Ivanti Service Manager, powered by HEAT, helps IT teams meet today’s government and user demands for effective service delivery and support. The solution, with workflow automation, mobile and integrated Voice support, enables IT teams to quickly deploy and configure a world-class service management solution. Cloud deployment is available from FedRAMP compliant AWS data centers in North America.\nService Manager is designed to be the central point of contact between users, employees and the IT organization. It offers first and second line support to users, where incidents, problems or inaccuracies in IT systems are reported. The solution can also be an important source of management information for reporting and auditing purposes.\nIvanti Service Manager fully supports Incident, Problem, Change and Release Management, Self-Service, 3rd party integration and more, and is Pink Verified on 13 ITIL processes, to improve IT support performance and efficiency.\nIvanti is headquartered in Salt Lake City, Utah, and has offices all over the world. For more information, visit [www.ivanti.com](http://www.ivanti.com) and follow us at @GoIvanti.",
-        "Announcement_Date": "2019-11-19T05:00:00.000Z",
-        "CSP_POC_Name": "Lana Xaochay",
-        "CSP_POC_Email": "security@ivanti.com",
-        "Fedramp_Ready_Date": "2018-09-05T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2019-07-10T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "Galvanize, Inc.",
@@ -11068,7 +11044,7 @@
           "F1512167750"
         ],
         "CSP_Website": "www.smarsh.com",
-        "CSO_Description": "Ease the burden of retaining and producing text message communications and respond to the challenges of FOIA requests with the Federal Archive from Smarsh. Deployed in AWS GovCloud and built to meet federal security requirements, Federal Archive enables agencies to capture, archive, access and produce text message communications quickly and efficiently.\nSupported channels include AT&T and Verizon, with additional communication channels on the roadmap.\nRecords Managers, CTOs, CIOs and IT staff will appreciate secure, centralized, automated digital content combined with powerful search and retrieval capabilities in a single solution. Onboarding is simple, scalable and cost-effi­cient. Federal Archive has been designed to protect agencies now and in the future, providing peace of mind in a constantly evolving regulatory landscape.\nKey capabilities to manage government communications records include:\n* Direct, Contextual Capture: All content is captured directly from AT&T and Verizon via API connections. Messages are captured with full context and metadata, rather than being flattened to email format. Upon ingestion into the archive, content is easily accessible and ready to be leveraged for high speed search and export.\n* Powerful Search: Industry-leading search speeds are supported, regardless of the volume of ingested data. Search results are displayed with message threading and attachments to maintain the full context of each conversation.\n* High Speed Exports: Any/all messages and message metadata can be exported from the platform at high speed. Exports are password protected and export history logs can be displayed in the platform for reference or repeat downloads. Messages can also be exported from search results – either the full search list or a subset of selected messages.\n* External Archive Functionality: In addition to its integrated archive, Federal Archive provides clients with the option to capture content and send it directly to an external archive in EML or SFTP format.\n* Advanced Admin & Permissions: Within the platform, identities are unified across supported channels and are searchable by profile. Profiles can be filtered based on whether they are internal or external, by person or organization and/or by channel. Admins have a dashboard view of their organization’s archived channels as well as the provisioning status of each channel for enhanced oversight.\n* Federal Grade Security: Federal Archive will be deployed in AWS GovCloud. Built specifically for government agencies, GovCloud hosts sensitive data and regulated workflows with the most stringent security and compliance controls. Amazon’s physical and other security controls have been architected to meet the specific requirements of government agencies. The platform adheres to top-tier security standards, with all captured data encrypted in transit and at rest.\nFor more information, visit [https://www.smarsh.com/products/connected-archive/federal-archive/](https://www.smarsh.com/products/connected-archive/federal-archive/)",
+        "CSO_Description": "Ease the burden of retaining and producing text message communications and respond to the challenges of FOIA requests with the Federal Archive from Smarsh. Deployed in AWS GovCloud and built to meet federal security requirements, Federal Archive enables agencies to capture, archive, access and produce text message communications quickly and efficiently.\nSupported channels include AT&T and Verizon, with additional communication channels on the roadmap.\n\nRecords Managers, CTOs, CIOs and IT staff will appreciate secure, centralized, automated digital content combined with powerful search and retrieval capabilities in a single solution. Onboarding is simple, scalable and cost-effi­cient. Federal Archive has been designed to protect agencies now and in the future, providing peace of mind in a constantly evolving regulatory landscape.\n\nKey capabilities to manage government communications records include:\n\n* Direct, Contextual Capture: All content is captured directly from AT&T and Verizon via API connections. Messages are captured with full context and metadata, rather than being flattened to email format. Upon ingestion into the archive, content is easily accessible and ready to be leveraged for high speed search and export.\n* Powerful Search: Industry-leading search speeds are supported, regardless of the volume of ingested data. Search results are displayed with message threading and attachments to maintain the full context of each conversation.\n* High Speed Exports: Any/all messages and message metadata can be exported from the platform at high speed. Exports are password protected and export history logs can be displayed in the platform for reference or repeat downloads. Messages can also be exported from search results – either the full search list or a subset of selected messages.\n* External Archive Functionality: In addition to its integrated archive, Federal Archive provides clients with the option to capture content and send it directly to an external archive in EML or SFTP format.\n* Advanced Admin & Permissions: Within the platform, identities are unified across supported channels and are searchable by profile. Profiles can be filtered based on whether they are internal or external, by person or organization and/or by channel. Admins have a dashboard view of their organization’s archived channels as well as the provisioning status of each channel for enhanced oversight.\n* Federal Grade Security: Federal Archive will be deployed in AWS GovCloud. Built specifically for government agencies, GovCloud hosts sensitive data and regulated workflows with the most stringent security and compliance controls. Amazon’s physical and other security controls have been architected to meet the specific requirements of government agencies. The platform adheres to top-tier security standards, with all captured data encrypted in transit and at rest.\n\nFor more information, visit [https://www.smarsh.com/products/connected-archive/federal-archive/](https://www.smarsh.com/products/connected-archive/federal-archive/)",
         "Announcement_Date": "2020-06-17T04:00:00.000Z",
         "CSP_POC_Name": "John Rowe",
         "CSP_POC_Email": "fedramp@smarsh.com",
@@ -11388,6 +11364,65 @@
         "CSP_POC_Name": "Jeff Estes",
         "CSP_POC_Email": "fedramp@softwareaggov.com",
         "FedRAMP_In-Process_Date": "2019-11-05T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Ivanti",
+        "Cloud_Service_Provider_Package": "Ivanti Service Manager",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1816364586",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-06-08T04:00:00.000Z",
+        "Original_Expiration_Date": "2020-10-08T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Commerce",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+        "Authorizing_Agency": "Department of Commerce",
+        "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Ivanti%20Logo.png",
+        "Independent_Assessor": "The Cadence Group",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1512167750",
+          "F1508207205"
+        ],
+        "CSP_Website": "https://www.ivanti.com/",
+        "CSO_Description": "Ivanti Service Manager, powered by HEAT, helps IT teams meet today’s government and user demands for effective service delivery and support. The solution, with workflow automation, mobile and integrated Voice support, enables IT teams to quickly deploy and configure a world-class service management solution. Cloud deployment is available from FedRAMP compliant AWS data centers in North America.\nService Manager is designed to be the central point of contact between users, employees and the IT organization. It offers first and second line support to users, where incidents, problems or inaccuracies in IT systems are reported. The solution can also be an important source of management information for reporting and auditing purposes.\nIvanti Service Manager fully supports Incident, Problem, Change and Release Management, Self-Service, 3rd party integration and more, and is Pink Verified on 13 ITIL processes, to improve IT support performance and efficiency.\nIvanti is headquartered in Salt Lake City, Utah, and has offices all over the world. For more information, visit [www.ivanti.com](http://www.ivanti.com) and follow us at @GoIvanti.",
+        "Announcement_Date": "2019-11-19T05:00:00.000Z",
+        "CSP_POC_Name": "Lana Xaochay",
+        "CSP_POC_Email": "security@ivanti.com",
+        "Fedramp_Ready_Date": "2018-09-05T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2019-07-10T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "WellHive Holdings, LLC",
+        "Cloud_Service_Provider_Package": "WellHive",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1825232355",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-04-16T04:00:00.000Z",
+        "Original_Expiration_Date": "2023-04-16T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/WellHive%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.wellhive.com",
+        "CSO_Description": "WellHive brings the **patient**, the **provider** and the **payer** into a single platform, creating a secure and unified way to streamline and simplify the complex, time-consuming needs of a distributed healthcare management system. WellHive’s core cloud service offerings include intuitive and real-time financial and care provisioning workflows spanning Referral and Authorizations, Insurance Eligibility Verification, Claims Processing, Telemedicine and other fundamental tasks that are critical to the operations of any modern healthcare organization. WellHive workflows allow for full customization and are continuously evolving, providing healthcare customers not only with a solution that’s right for the healthcare industry, but a solution that’s right for them. WellHive’s API-led design supports secure, straightforward integration and seamless data sharing with other cloud-based Electronic Health Records (EHRs) and healthcare systems. With an entirely cloud native architecture, WellHive is capable of meeting the needs of health network operations of any size.",
+        "CSP_POC_Name": "Christopher Reed",
+        "CSP_POC_Email": "fedramp@wellhive.com",
+        "Fedramp_Ready_Date": "2019-02-14T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2020-01-30T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -12848,30 +12883,6 @@
         "CSP_POC_Name": "Tony Mitchell",
         "CSP_POC_Email": "fedramp@waggl.com",
         "FedRAMP_In-Process_Date": "2019-10-03T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "WellHive Holdings, LLC",
-        "Cloud_Service_Provider_Package": "WellHive",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1825232355",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Veterans Affairs",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Veterans_Affairs_(1989-2012).png",
-        "Authorizing_Agency": "Department of Veterans Affairs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/WellHive%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.wellhive.com",
-        "CSO_Description": "WellHive brings the **patient**, the **provider** and the **payer** into a single platform, creating a secure and unified way to streamline and simplify the complex, time-consuming needs of a distributed healthcare management system. WellHive’s core cloud service offerings include intuitive and real-time financial and care provisioning workflows spanning Referral and Authorizations, Insurance Eligibility Verification, Claims Processing, Telemedicine and other fundamental tasks that are critical to the operations of any modern healthcare organization. WellHive workflows allow for full customization and are continuously evolving, providing healthcare customers not only with a solution that’s right for the healthcare industry, but a solution that’s right for them. WellHive’s API-led design supports secure, straightforward integration and seamless data sharing with other cloud-based Electronic Health Records (EHRs) and healthcare systems. With an entirely cloud native architecture, WellHive is capable of meeting the needs of health network operations of any size.",
-        "CSP_POC_Name": "Christopher Reed",
-        "CSP_POC_Email": "fedramp@wellhive.com",
-        "Fedramp_Ready_Date": "2019-02-14T05:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2020-01-30T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
