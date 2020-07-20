@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-07-19T04:40:50.229Z",
+    "Created_At": "2020-07-20T04:40:50.283Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3543,7 +3543,7 @@
             "Letter_Date": "2019-04-26T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-04-26T04:00:00.000Z",
             "Authorizing_Agency": "Department of Veterans Affairs",
-            "Authorizing_Subagency": "VA Office of Inspector General",
+            "Authorizing_Subagency": "VA Office of the Inspector General",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
             "Include_In_Marketplace": "Y"
           },
@@ -8669,34 +8669,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Galvanize, Inc.",
-        "Cloud_Service_Provider_Package": "HighBond",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1834172478",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2019-07-02T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Energy",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-        "Authorizing_Agency": "Department of Energy",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Galvanize%20Logo.png",
-        "Independent_Assessor": "Linford & Company",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866"
-        ],
-        "CSP_Website": "www.acl.com",
-        "CSO_Description": "HighBond, by Galvanize, is the enterprise governance software platform that creates stronger security, risk management, compliance, and assurance. It connects these professionals with the answers that drive change—so they can protect the organization and increase its capacity to meet strategic objectives.\rGalvanize builds security, risk management, compliance, and audit software. We’re on a mission to unite these different teams in our HighBond platform in order to strengthen individuals and protect organizations.",
-        "Announcement_Date": "2019-11-20T05:00:00.000Z",
-        "CSP_POC_Name": "Keith Cerny",
-        "CSP_POC_Email": "fedramp@acl.com",
-        "FedRAMP_In-Process_Date": "2018-09-19T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "VMware, Inc.",
         "Cloud_Service_Provider_Package": "Workspace ONE",
         "Path": "Agency",
@@ -11483,6 +11455,58 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Galvanize, Inc.",
+        "Cloud_Service_Provider_Package": "HighBond",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1834172478",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-07-17T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Energy",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+        "Authorizing_Agency": "Department of Energy",
+        "Authorizing_Subagency": "DOE Office of Inspector General",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Galvanize%20Logo.png",
+        "Independent_Assessor": "Linford & Company",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.acl.com",
+        "CSO_Description": "HighBond, by Galvanize, is the enterprise governance software platform that creates stronger security, risk management, compliance, and assurance. It connects these professionals with the answers that drive change—so they can protect the organization and increase its capacity to meet strategic objectives.\rGalvanize builds security, risk management, compliance, and audit software. We’re on a mission to unite these different teams in our HighBond platform in order to strengthen individuals and protect organizations.",
+        "Announcement_Date": "2019-11-20T05:00:00.000Z",
+        "CSP_POC_Name": "Keith Cerny",
+        "CSP_POC_Email": "fedramp@acl.com",
+        "FedRAMP_In-Process_Date": "2018-09-19T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Everlaw, Inc.",
+        "Cloud_Service_Provider_Package": "Everlaw",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1916055736",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Justice",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+        "Authorizing_Agency": "Department of Justice",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Everlaw%20Logo2.png",
+        "Independent_Assessor": "Kratos",
+        "CSP_Website": "https://www.everlaw.com/",
+        "CSO_Description": "Everlaw is a collaborative, cloud-based litigation platform for corporate counsels, litigators and government attorneys that enables teams to discover, reveal, and act on information to better drive internal investigations and positively impact the outcome of litigation. Unlike slow, unwieldy, client-server software and expensive third-party service providers, only Everlaw combines speed, security, and ease-of-use into a unified, comprehensive solution that unlocks the collaborative power of teams and enables them to investigate issues more thoroughly, uncover truth more quickly, and present their findings more clearly.\n\nThe Everlaw platform provides three primary capabilities, enabling organizations to: \n\n* Discover: Ingest, organize, search through, and review massive troves of data in order to discover and produce relevant underlying information.\n* Reveal: Harness the power of modern computer science to expose the hidden details of documents at scale. \n* Act: Collaborate securely with colleagues, business partners, inside or outside counsel to craft narratives and efficiently manage the end-to-end process of investigations or litigation.\n\nSpecific product features include: Data ingestion: Everlaw accelerates the document review process by enabling reviewers to upload their own documents, plugging in seamlessly with third-party cloud hosting platforms, and ingesting documents quickly. Document Search: Everlaw's instantaneous search results occur with even the most complex search strings. The ability to visually build searches allows both novice and power users to narrow their searches without concern of the elusive missing parenthesis.\n\nDocument Review: Providing exceptionally fast 'doc-to-doc' review speeds and shortcuts like coding presets, users are able to complete their review significantly more quickly on Everlaw. Productions: Everlaw provides a cloud-based production environment that can generate, modify and share legal document productions at any time.\n\nHidden data analytics: Automatically translates, transcribes and converts hidden data, bringing to the surface the information that often remains hidden during document review.\nPredictive coding: Enables reviewers to use their standard workflow--assigning ratings, codes, and attributes to reviewed documents--in order to teach the system how to find more relevant documents on their behalf.\n\nData visualization: Interactive visualizations from any set of documents that provide key insights into document dates, metadata, contents, formats, review activity, and predicted relevance.\nSecure collaboration: Everlaw enables sharing and communication directly in the platform to promote secure, seamless collaboration. Narrative building: Story-building ensures collaborative alignment of investigative teams, improve workflow, reduce risk, and save time by organizing key documents into a compelling narrative. Matter management: Integrated project, user, and case matter management tools allow for more efficient project outcomes.",
+        "CSP_POC_Name": "Joshua Buckler",
+        "CSP_POC_Email": "federal@everlaw.com",
+        "FedRAMP_In-Process_Date": "2019-03-13T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "ServiceNow",
         "Cloud_Service_Provider_Package": "Service Automation Government Cloud Suite (Legacy)",
         "Path": "JAB",
@@ -12018,29 +12042,6 @@
         "CSP_POC_Name": "Naeem Syed",
         "CSP_POC_Email": "fedramp@enel.com",
         "FedRAMP_In-Process_Date": "2020-04-27T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Everlaw, Inc.",
-        "Cloud_Service_Provider_Package": "Everlaw",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1916055736",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Justice",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
-        "Authorizing_Agency": "Department of Justice",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Everlaw%20Logo2.png",
-        "Independent_Assessor": "Kratos",
-        "CSP_Website": "https://www.everlaw.com/",
-        "CSO_Description": "Everlaw is a collaborative, cloud-based litigation platform for corporate counsels, litigators and government attorneys that enables teams to discover, reveal, and act on information to better drive internal investigations and positively impact the outcome of litigation. Unlike slow, unwieldy, client-server software and expensive third-party service providers, only Everlaw combines speed, security, and ease-of-use into a unified, comprehensive solution that unlocks the collaborative power of teams and enables them to investigate issues more thoroughly, uncover truth more quickly, and present their findings more clearly.\n\nThe Everlaw platform provides three primary capabilities, enabling organizations to: \n\n* Discover: Ingest, organize, search through, and review massive troves of data in order to discover and produce relevant underlying information.\n* Reveal: Harness the power of modern computer science to expose the hidden details of documents at scale. \n* Act: Collaborate securely with colleagues, business partners, inside or outside counsel to craft narratives and efficiently manage the end-to-end process of investigations or litigation.\n\nSpecific product features include: Data ingestion: Everlaw accelerates the document review process by enabling reviewers to upload their own documents, plugging in seamlessly with third-party cloud hosting platforms, and ingesting documents quickly. Document Search: Everlaw's instantaneous search results occur with even the most complex search strings. The ability to visually build searches allows both novice and power users to narrow their searches without concern of the elusive missing parenthesis.\n\nDocument Review: Providing exceptionally fast 'doc-to-doc' review speeds and shortcuts like coding presets, users are able to complete their review significantly more quickly on Everlaw. Productions: Everlaw provides a cloud-based production environment that can generate, modify and share legal document productions at any time.\n\nHidden data analytics: Automatically translates, transcribes and converts hidden data, bringing to the surface the information that often remains hidden during document review.\nPredictive coding: Enables reviewers to use their standard workflow--assigning ratings, codes, and attributes to reviewed documents--in order to teach the system how to find more relevant documents on their behalf.\n\nData visualization: Interactive visualizations from any set of documents that provide key insights into document dates, metadata, contents, formats, review activity, and predicted relevance.\nSecure collaboration: Everlaw enables sharing and communication directly in the platform to promote secure, seamless collaboration. Narrative building: Story-building ensures collaborative alignment of investigative teams, improve workflow, reduce risk, and save time by organizing key documents into a compelling narrative. Matter management: Integrated project, user, and case matter management tools allow for more efficient project outcomes.",
-        "CSP_POC_Name": "Joshua Buckler",
-        "CSP_POC_Email": "federal@everlaw.com",
-        "FedRAMP_In-Process_Date": "2019-03-13T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
