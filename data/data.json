@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-07-22T04:40:50.782Z",
+    "Created_At": "2020-07-23T04:40:50.772Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -9219,48 +9219,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Contegix",
-        "Cloud_Service_Provider_Package": "SecureCloud",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1833967442",
-        "Service_Model": [
-          "PaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2019-12-12T05:00:00.000Z",
-        "Original_Expiration_Date": "2020-07-31T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Energy",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-        "Authorizing_Agency": "Department of Energy",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Contegix%20Logo.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "CSP_Website": "www.Contegix.com",
-        "CSO_Description": "SecureCloud is provided by Contegix as a FedRAMP moderate Platform as a Service (PaaS) offering. The offering consists several managed services to facilitate hosting federal applications in a secure environment. The solution provided is a multi-tenant cloud-based environment, with the option for deployment of single-tenant environments if required by specific customers and system owners.\nContegix offers a managed hosting service that empowers customers to retain complete control over the application environment, while dramatically reducing the time and cost associated with in-house administration. Contegix solutions are designed to provide end-to-end managed hosting - from software, server, and network support, including setup, configuration, upgrades, monitoring, and troubleshooting. SecureCloud supports the following technologies within the tenant space: CentOS, Red Hat Enterprise Linux, Oracle Linux, Ubuntu, and Microsoft Windows Server. Contegix provisions customers’ instances with Apache, PHP, MySQL, IIS, .net, Active Directory, SQL Server, Oracle Database, LDAP and other technologies on behalf of the customer.\nContegix manages the customer tenant from the application down to the infrastructure as defined by Platform as a Service (PaaS). Within SecureCloud, tenants automatically get monitoring, security hardening, Operating System management and patching, managed backups, and managed firewalls. Contegix manages up to the application code including approved configuration changes for the system owner. Security is at the forefront of SecureCloud and with that focus, Contegix manages patching of operating systems as well as services that serve application code such as web services, database services, but does not patch the application code itself.\nDisaster recovery is done at the tenant level for SecureCloud customers as PaaS allows for this to be the most efficient. Other disaster recovery techniques can be used to meet requirements as needed however, the agency can define in a statement of work what level of recovery that is needed for the system.\nEnterprise managed hosting and services distributes applications across multiple servers and/or firewalls within the tenant environment. Enterprise managed hosting and services delivers optimum performance for high-volume, mission-critical business systems solutions that require the highest level of availability and scalability. The managed hosting solution provided by Contegix is based upon virtualized hosts, and provides support for on-demand creation of virtual machines. Individual tenant environments within SecureCloud are isolated from one another through security capabilities at both the network and host levels.",
-        "Announcement_Date": "2015-05-21T04:00:00.000Z",
-        "CSP_POC_Name": "Contegix Account Executive",
-        "CSP_POC_Email": "sales@contegix.com",
-        "FedRAMP_In-Process_Date": "2014-11-20T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2018-03-26T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-03-26T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Trade Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-01-10T05:00:00.000Z",
-            "Letter_Expiration_Date": "2020-07-31T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-01-09T05:00:00.000Z",
-            "Authorizing_Agency": "United States House of Representatives",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/House%20of%20Reps%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Medallia, Inc.",
         "Cloud_Service_Provider_Package": "Medallia GovCloud",
         "Path": "JAB",
@@ -10815,15 +10773,6 @@
         "FedRAMP_In-Process_Date": "2015-10-02T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Date": "2019-07-01T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-06-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-07-01T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Missile Defense Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-01-13T05:00:00.000Z",
             "Letter_Expiration_Date": "2023-01-06T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-01-13T05:00:00.000Z",
@@ -10846,6 +10795,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-06-17T04:00:00.000Z",
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Defense Logistics Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-07-21T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-05-15T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-07-21T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Missile Defense Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
@@ -11565,14 +11523,14 @@
         "CSP_Website": "www.acl.com",
         "CSO_Description": "HighBond, by Galvanize, is the enterprise governance software platform that creates stronger security, risk management, compliance, and assurance. It connects these professionals with the answers that drive change—so they can protect the organization and increase its capacity to meet strategic objectives.\rGalvanize builds security, risk management, compliance, and audit software. We’re on a mission to unite these different teams in our HighBond platform in order to strengthen individuals and protect organizations.",
         "Announcement_Date": "2019-11-20T05:00:00.000Z",
-        "CSP_POC_Name": "Keith Cerny",
+        "CSP_POC_Name": "James Bowman",
         "CSP_POC_Email": "fedramp@acl.com",
         "FedRAMP_In-Process_Date": "2018-09-19T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "Everlaw, Inc.",
-        "Cloud_Service_Provider_Package": "Everlaw",
+        "Cloud_Service_Provider_Package": "Everlaw Platform",
         "Path": "Agency",
         "Designation": "In Process",
         "Package_ID": "FR1916055736",
@@ -11586,9 +11544,9 @@
         "Authorizing_Agency": "Department of Justice",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Everlaw%20Logo2.png",
         "Independent_Assessor": "Kratos",
-        "CSP_Website": "https://www.everlaw.com/",
-        "CSO_Description": "Everlaw is a collaborative, cloud-based litigation platform for corporate counsels, litigators and government attorneys that enables teams to discover, reveal, and act on information to better drive internal investigations and positively impact the outcome of litigation. Unlike slow, unwieldy, client-server software and expensive third-party service providers, only Everlaw combines speed, security, and ease-of-use into a unified, comprehensive solution that unlocks the collaborative power of teams and enables them to investigate issues more thoroughly, uncover truth more quickly, and present their findings more clearly.\n\nThe Everlaw platform provides three primary capabilities, enabling organizations to: \n\n* Discover: Ingest, organize, search through, and review massive troves of data in order to discover and produce relevant underlying information.\n* Reveal: Harness the power of modern computer science to expose the hidden details of documents at scale. \n* Act: Collaborate securely with colleagues, business partners, inside or outside counsel to craft narratives and efficiently manage the end-to-end process of investigations or litigation.\n\nSpecific product features include: Data ingestion: Everlaw accelerates the document review process by enabling reviewers to upload their own documents, plugging in seamlessly with third-party cloud hosting platforms, and ingesting documents quickly. Document Search: Everlaw's instantaneous search results occur with even the most complex search strings. The ability to visually build searches allows both novice and power users to narrow their searches without concern of the elusive missing parenthesis.\n\nDocument Review: Providing exceptionally fast 'doc-to-doc' review speeds and shortcuts like coding presets, users are able to complete their review significantly more quickly on Everlaw. Productions: Everlaw provides a cloud-based production environment that can generate, modify and share legal document productions at any time.\n\nHidden data analytics: Automatically translates, transcribes and converts hidden data, bringing to the surface the information that often remains hidden during document review.\nPredictive coding: Enables reviewers to use their standard workflow--assigning ratings, codes, and attributes to reviewed documents--in order to teach the system how to find more relevant documents on their behalf.\n\nData visualization: Interactive visualizations from any set of documents that provide key insights into document dates, metadata, contents, formats, review activity, and predicted relevance.\nSecure collaboration: Everlaw enables sharing and communication directly in the platform to promote secure, seamless collaboration. Narrative building: Story-building ensures collaborative alignment of investigative teams, improve workflow, reduce risk, and save time by organizing key documents into a compelling narrative. Matter management: Integrated project, user, and case matter management tools allow for more efficient project outcomes.",
-        "CSP_POC_Name": "Joshua Buckler",
+        "CSP_Website": "https://www.everlaw.com/federal/",
+        "CSO_Description": "Everlaw is a collaborative, cloud-based litigation platform for corporate counsels, litigators and government attorneys that enables teams to discover, reveal, and act on information to better drive internal investigations and positively impact the outcome of litigation, congressional hearings, internal and regulatory investigations.\n\nUnlike slow, unwieldy, client-server software and expensive third-party service providers, only Everlaw combines speed, security, and ease-of-use into a unified, comprehensive solution that unlocks the collaborative power of teams and enables them to investigate issues more thoroughly, uncover truth more quickly, and present their findings more clearly. \n\nThe Everlaw platform provides three primary capabilities, enabling federal agencies to: \n\n* Discover: Discover meaningful information by streamlining every step of the ediscovery process, from data upload and processing all the way through to search, review, and production.\n* Reveal: Leverage powerful analytics, machine learning, and interactive visualizations to accelerate review and identify the most valuable information.\n* Act: Collaborate to craft narratives, organize arguments logically, and manage the end-to-end process of investigations or litigation with a secure, integrated suite of post-review tools.\n\nKey product features include: \n\nData ingestion: Everlaw accelerates the document review process by enabling reviewers to upload their own documents, plugging in seamlessly with third-party cloud hosting platforms, and ingesting documents quickly. \n\nDocument Search: Everlaw's instantaneous search results occur with even the most complex search strings. The ability to visually build searches allows both novice and power users to narrow their searches without concern of the elusive missing parenthesis. \n\nDocument Review: Providing exceptionally fast 'doc-to-doc' review speeds and shortcuts like coding presets, users are able to complete their review significantly more quickly on Everlaw. \n\nProductions: Cloud-based production environment that can generate, modify and share legal document productions at any time. \n\nAdvanced analytics: Automatically translates, transcribes and converts hidden data, bringing to the surface the information that often remains hidden during document review. \n\nPredictive coding: Enables reviewers to use their standard workflow--assigning ratings, codes, and attributes to reviewed documents--in order to teach the system how to find more relevant documents on their behalf. \n\nData visualization: Interactive visualizations from any set of documents that provide key insights into document dates, metadata, contents, formats, review activity, and predicted relevance. \n\nSecure collaboration: Sharing and communication between opposing counsel, investigative teams, and subject matter experts directly in the platform to promote secure, seamless collaboration. \n\nNarrative building: Story-building to collaboratively align investigative teams, improve workflow, reduce risk, and save time by organizing key documents into a compelling narrative. \n\nDepositions: Integrated deposition tracking tools enable significant cost reductions and time savings by eliminating the need to print out physical copies of all exhibits, pass handwritten notes, and later transfer key information into an online repository. ",
+        "CSP_POC_Name": "Lisa Hawke",
         "CSP_POC_Email": "federal@everlaw.com",
         "FedRAMP_In-Process_Date": "2019-03-13T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
@@ -11616,6 +11574,82 @@
         "CSP_POC_Email": "fedramp@geotab.com",
         "Fedramp_Ready_Date": "2019-07-02T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2019-09-19T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Contegix",
+        "Cloud_Service_Provider_Package": "SecureCloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1833967442",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-07-21T04:00:00.000Z",
+        "Original_Expiration_Date": "2023-07-31T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Energy",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+        "Authorizing_Agency": "Department of Energy",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Contegix%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "www.Contegix.com",
+        "CSO_Description": "SecureCloud is provided by Contegix as a FedRAMP moderate Platform as a Service (PaaS) offering. The offering consists several managed services to facilitate hosting federal applications in a secure environment. The solution provided is a multi-tenant cloud-based environment, with the option for deployment of single-tenant environments if required by specific customers and system owners.\nContegix offers a managed hosting service that empowers customers to retain complete control over the application environment, while dramatically reducing the time and cost associated with in-house administration. Contegix solutions are designed to provide end-to-end managed hosting - from software, server, and network support, including setup, configuration, upgrades, monitoring, and troubleshooting. SecureCloud supports the following technologies within the tenant space: CentOS, Red Hat Enterprise Linux, Oracle Linux, Ubuntu, and Microsoft Windows Server. Contegix provisions customers’ instances with Apache, PHP, MySQL, IIS, .net, Active Directory, SQL Server, Oracle Database, LDAP and other technologies on behalf of the customer.\nContegix manages the customer tenant from the application down to the infrastructure as defined by Platform as a Service (PaaS). Within SecureCloud, tenants automatically get monitoring, security hardening, Operating System management and patching, managed backups, and managed firewalls. Contegix manages up to the application code including approved configuration changes for the system owner. Security is at the forefront of SecureCloud and with that focus, Contegix manages patching of operating systems as well as services that serve application code such as web services, database services, but does not patch the application code itself.\nDisaster recovery is done at the tenant level for SecureCloud customers as PaaS allows for this to be the most efficient. Other disaster recovery techniques can be used to meet requirements as needed however, the agency can define in a statement of work what level of recovery that is needed for the system.\nEnterprise managed hosting and services distributes applications across multiple servers and/or firewalls within the tenant environment. Enterprise managed hosting and services delivers optimum performance for high-volume, mission-critical business systems solutions that require the highest level of availability and scalability. The managed hosting solution provided by Contegix is based upon virtualized hosts, and provides support for on-demand creation of virtual machines. Individual tenant environments within SecureCloud are isolated from one another through security capabilities at both the network and host levels.",
+        "Announcement_Date": "2015-05-21T04:00:00.000Z",
+        "CSP_POC_Name": "Contegix Account Executive",
+        "CSP_POC_Email": "sales@contegix.com",
+        "FedRAMP_In-Process_Date": "2014-11-20T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2018-03-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-03-26T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Trade Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-01-10T05:00:00.000Z",
+            "Letter_Expiration_Date": "2020-07-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-01-09T05:00:00.000Z",
+            "Authorizing_Agency": "United States House of Representatives",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/House%20of%20Reps%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Elastic",
+        "Cloud_Service_Provider_Package": "Elastic Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2004446306",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-05-27T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Homeland Security",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+        "Authorizing_Agency": "Department of Homeland Security",
+        "Authorizing_Subagency": "Customs and Border Protection",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Elastic%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "F1206061353",
+          "F1603047866",
+          "FR1812058188",
+          "F1512167750",
+          "F1508207205",
+          "FR1823447014"
+        ],
+        "CSP_Website": "elastic.co",
+        "CSO_Description": "Elastic Cloud is a managed cloud service authorized at the FedRAMP Moderate impact level and available on AWS GovCloud (US). With solutions for enterprise search, observability, and security on one platform, Elastic Cloud gets users to market quickly, simplifies operations, ensures security controls, and reduces risk. Elastic runs the infrastructure so users can focus on the insights they need to achieve their mission. Deploy Elastic Cloud today to start searching and visualizing data, unifying logs and metrics and APM data for comprehensive visibility into critical systems, and detecting and responding to threats.",
+        "Announcement_Date": "2020-07-22T04:00:00.000Z",
+        "CSP_POC_Name": "Elastic FedRAMP Team",
+        "CSP_POC_Email": "fedramp@elastic.co",
+        "FedRAMP_In-Process_Date": "2020-01-15T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -12107,30 +12141,6 @@
         "CSP_POC_Name": "Rafael Santos",
         "CSP_POC_Email": "fedramp@e-builder.net",
         "Fedramp_Ready_Date": "2019-05-08T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Elastic",
-        "Cloud_Service_Provider_Package": "Elastic Cloud",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2004446306",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Homeland Security",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-        "Authorizing_Agency": "Department of Homeland Security",
-        "Authorizing_Subagency": "Customs and Border Protection",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Elastic%20Logo.png",
-        "Independent_Assessor": "Kratos",
-        "CSP_Website": "elastic.co",
-        "CSO_Description": "Elastic Cloud is our growing family of SaaS offerings that make it easy to deploy, operate, and scale Elastic products and solutions in the cloud. The Elasticsearch Service on Elastic Cloud provides Kibana, Elasticsearch as a managed service - accelerating your time to market, simplifying operations, and consumption-based billing. Our experts ensure that the Elasticsearch Service is the best way for government users to easily and securely deploy, operate, and scale Elastic Stack deployments in the cloud.  Only Elasticsearch Service on Elastic Cloud provides a single, integrated stack of solutions for logs, metrics, APM, and security analytics and features like machine learning, index lifecycle management, cross-cluster search, canvas, lens. ",
-        "CSP_POC_Name": "Elastic FedRAMP Team",
-        "CSP_POC_Email": "fedramp@elastic.co",
-        "FedRAMP_In-Process_Date": "2020-01-15T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
