@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-07-26T04:40:50.342Z",
+    "Created_At": "2020-07-27T04:40:50.459Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1534,6 +1534,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-01-17T05:00:00.000Z",
             "Authorizing_Agency": "Department of Veterans Affairs",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-03-10T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-04-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-04-02T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "United States Patent and Trademark Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -11595,7 +11604,7 @@
         "Cloud_Service_Provider_Name": "Geotab",
         "Cloud_Service_Provider_Package": "Geotab Telematics Platform Government (GTP Gov)",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "FR1918150046",
         "Service_Model": [
           "SaaS"
@@ -11608,8 +11617,14 @@
         "Authorizing_Agency": "General Services Administration",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/GeoTab%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "FR1807853629",
+          "F1206081364",
+          "FR1805751477"
+        ],
         "CSP_Website": "https://www.geotab.com",
         "CSO_Description": "The Geotab Telematics Platform (Government) (GTP Gov) is an end-to-end vehicle Telematics product, providing fleet management tools to Government fleets.",
+        "Announcement_Date": "2020-07-21T04:00:00.000Z",
         "CSP_POC_Name": "Alan Cawse",
         "CSP_POC_Email": "fedramp@geotab.com",
         "Fedramp_Ready_Date": "2019-07-02T04:00:00.000Z",
