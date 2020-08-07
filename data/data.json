@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-08-06T16:05:33.790Z",
+    "Created_At": "2020-08-07T04:40:50.628Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -8414,7 +8414,16 @@
         "CSP_POC_Name": "Forrest McMahon",
         "CSP_POC_Email": "fedramp@netskope.com",
         "FedRAMP_In-Process_Date": "2018-08-16T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2018-11-15T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-11-15T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Office of the Comptroller of the Currency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Esri",
@@ -11502,6 +11511,14 @@
             "Include_In_Marketplace": "Y"
           },
           {
+            "Letter_Date": "2018-11-15T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-11-15T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Office of the Comptroller of the Currency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
             "Letter_Date": "2019-10-04T04:00:00.000Z",
             "Letter_Expiration_Date": "2022-10-11T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-10-11T04:00:00.000Z",
@@ -12452,6 +12469,29 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Issio Solutions, Inc.",
+        "Cloud_Service_Provider_Package": "Issio Information System",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2027958176",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Low",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Issio%20Logo.png",
+        "Independent_Assessor": "MindPoint Group, LLC",
+        "CSP_Website": "www.issio.com",
+        "CSO_Description": "The Issio workforce optimization system helps organizations refine workforce processes, improve efficiency and lower costs.   The highly customizable, user-friendly platform offers a suite of tools that include long and short term staff scheduling, multi-location labor float pool management, robust communications, data modeling, benchmarking, and predictive analytics. ",
+        "CSP_POC_Name": "Lars Schwaebe",
+        "CSP_POC_Email": "fedramp@issio.net",
+        "Fedramp_Ready_Date": "2020-08-05T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Ivalua",
         "Cloud_Service_Provider_Package": "Ivalua GovCloud",
         "Designation": "FedRAMP Ready",
@@ -12992,7 +13032,7 @@
         "CSP_Website": "https://www.symantec.com/products/web-security-service",
         "CSO_Description": "**Consistently apply network security policies across web and cloud applications**\nProtect users with web and cloud security services that connect all devices to a FedRAMP Authorized intelligent control point for reliable, high-performance, cloud-based threat protection service. Configure and enforce powerful web and cloud application access-control policies.\n* Set policies based on website content-based classifications and threat risk levels.\n* Classify URLs in 70 categories covering more than 55 languages.\n* Authenticate users and enforce user, group, and location-based security controls.\n* Control employee access to Shadow IT cloud apps (unsanctioned cloud applications).\n* Enable application-level point-to-point connectivity, cloaking all resources from the end-user devices and the internet.\n**Advanced proxy architecture delivers SWG and Advanced Threat Protection capabilities**\nSymantec Web Security Service protects your organization from cyber-attacks using an advanced proxy architecture that terminates, inspects, and controls high volumes of web and cloud traffic, even when it's SSL/TLS encrypted. Our proxy architecture combats advanced threats, secures your information, and protects your users wherever they go. It's built to meet the challenges of the Cloud Generation.\n* **Advanced proxy architecture**—Enforce granular threat inspection policies for encrypted web traffic and traffic from cloud apps such as Box and Office 365.\n* **File threat prevention**—Block high-risk and advanced threats with multilayer file inspection and customizable sandboxing.\n* **Threat Risk Levels**—Set web access policies based on a URL’s relative level of threat risk.",
         "CSP_POC_Name": "Diana Robinson",
-        "CSP_POC_Email": "diana_robinson@symantec.com",
+        "CSP_POC_Email": "diana.robinson@broadcom.com",
         "Fedramp_Ready_Date": "2019-09-17T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
