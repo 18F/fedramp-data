@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-08-10T04:40:50.977Z",
+    "Created_At": "2020-08-11T04:40:50.573Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4245,15 +4245,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2019-12-31T05:00:00.000Z",
-            "Letter_Expiration_Date": "2020-08-07T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-01-03T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "United States Patent and Trademark Office",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2022-12-18T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-12-18T05:00:00.000Z",
             "Authorizing_Agency": "Department of Transportation",
@@ -4303,6 +4294,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-07-23T04:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Technical Information Service",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-07-20T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-08-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-08-06T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "United States Patent and Trademark Office",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
@@ -4948,11 +4948,11 @@
           "FR1823149273",
           "F1206081364"
         ],
-        "CSP_Website": "www.hrworx.com",
-        "CSO_Description": "The Intelliworx Platform is a secure, cloud-based, Software as a Service (SaaS) environment which powers data collection and workflow process applications. The Intelliworx Platform is the engine behind multiple government workflows, such as FDonline - an automation of the OGE Financial Disclosure process. The Intelliworx Platform also is the engine behind HRIT applications for Onboarding, Offboarding and Telework management. The Intelliworx Platform transforms agency form-based business processes, making them simple to complete for the employee and efficient to review and approve for the staff, in a single secure environment.",
+        "CSP_Website": "https://intelliworxit.com",
+        "CSO_Description": "The Intelliworx Platform is a secure, multi-tenant, cloud-based, Software/Subscription as a Service (SaaS) environment which powers data collection and workflow process applications. The Intelliworx Platform provides the functionality behind multiple government workflows, such as FDonline - an automation of the OGE Financial Disclosure process, HRIT applications for Onboarding, Offboarding, and Telework management. The Intelliworx Platform transforms agency workflow and form-based business processes, making them simple to complete for the employee and efficient to review and approve for the staff, in a single secure environment.",
         "Announcement_Date": "2018-08-22T04:00:00.000Z",
         "CSP_POC_Name": "Tom Riley",
-        "CSP_POC_Email": "inquiries@hrworx.com",
+        "CSP_POC_Email": "inquiries@intelliworxit.com",
         "FedRAMP_In-Process_Date": "2017-10-03T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
@@ -6887,15 +6887,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2019-12-31T05:00:00.000Z",
-            "Letter_Expiration_Date": "2020-08-07T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-01-03T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "United States Patent and Trademark Office",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-02-11T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-02-11T05:00:00.000Z",
             "Authorizing_Agency": "Department of Transportation",
@@ -6909,6 +6900,15 @@
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "Centers for Disease Control and Prevention",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-07-20T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-08-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-08-06T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "United States Patent and Trademark Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -8825,6 +8825,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/VMware%20Workspace%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "Underlying_CSP_Package_ID": [
+          "F1206061353",
           "F1603047866"
         ],
         "CSP_Website": "https://my.workspaceone.com/products/VMware-Workspace-ONE",
