@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-08-12T04:40:50.461Z",
+    "Created_At": "2020-08-13T04:40:50.605Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -980,6 +980,13 @@
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "Food and Drug Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2021-01-30T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-07-28T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -2287,6 +2294,15 @@
             "Include_In_Marketplace": "Y"
           },
           {
+            "Letter_Date": "2019-09-12T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-09-12T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-09-12T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
             "Letter_Date": "2020-03-26T04:00:00.000Z",
             "Letter_Expiration_Date": "2023-03-25T04:00:00.000Z",
             "Authorizing_Agency": "General Services Administration",
@@ -3090,13 +3106,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2019-07-29T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-07-31T04:00:00.000Z",
-            "Authorizing_Agency": "Pretrial Services Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PSA%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-08-14T04:00:00.000Z",
             "Letter_Expiration_Date": "2022-08-14T04:00:00.000Z",
             "Authorizing_Agency": "Department of Energy",
@@ -3149,6 +3158,14 @@
             "Authorizing_Agency": "Department of Energy",
             "Authorizing_Subagency": "Los Alamos National Laboratory",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-08-12T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-08-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-08-11T04:00:00.000Z",
+            "Authorizing_Agency": "Pretrial Services Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PSA%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -6734,7 +6751,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Microsoft%20Logo.png",
         "Independent_Assessor": "Kratos",
         "CSP_Website": "http://azure.microsoft.com/en-us/",
-        "CSO_Description": "Microsoft Azure Commercial Cloud is an open and flexible cloud platform that enables customers to quickly build, test, deploy, and manage their applications, services, and product development across a network of Microsoft-managed datacenters within the United States. The Microsoft Azure platform exports savings to the customer by delivering the software, platform, and IT infrastructure resources where and when it is needed via the Internet. Microsoft Azure provides a multi-tenant public cloud services platform that offers functionality to support capacities such as Platform as a Service (PaaS), and Infrastructure as a Service (IaaS) cloud service models. Azure maintains a P-ATO at the High Impact Level. Azure was the first public cloud with IaaS and PaaS services to receive a JAB P-ATO.\nFor additional information, visit the (Azure Trust Center)[https://www.microsoft.com/en-us/TrustCenter/Compliance/default.aspx] or refer to Azure FedRAMP Package ID# F1209051525.\n\nThe following Microsoft services are FedRAMP Authorized and approved by the JAB at the High Impact Level: API Management, Application Gateway, Application Insights, Arca CDS Instance Container Management Service, Automation, Azure Active Directory B2C - CPIM, Azure Active Directory (AAD) Domain Services, Azure Active Directory (AAD) Free, Azure Active Directory (AAD) Premium P1 + P2, Azure Active Directory (AAD) Sync Fabric, Azure Advanced Threat Protection, Azure Advisor, Azure Analysis Services, Azure API for FHIR, Azure Archive Storage, Azure Bastion – Hybrid Networking Services, Azure Bot Service, Azure Container Instances, Azure Container Registry, Azure Cosmos DB, Azure Data Explorer, Azure Data Movement, Azure Database for MariaDB, Azure Database Migration Service, Azure DataBricks, Azure Data Share, Azure DDoS Protection, Azure Dedicated HSM, Azure DNS, Azure Event Grid, Azure File Sync, Azure Firewall, Azure For Education, Azure Front Door, Azure Guest Configuration, Azure HPC Cache, Azure Information Protection, Azure IoT Hub, Azure Import/Export, Azure Key Vault, Azure Kubernetes Service, Azure Lab Services, Azure Language Understanding, Azure Lockbox, Azure Machine Learning Service, Azure Managed Services – Azure Light House, Azure Maps, Azure Migrate, Azure Monitor, Azure NetApp Files, Azure Policy, Azure Portal, Azure Red Hat OpenShift, Azure Resource Graph, Azure Resource Manager (ARM), Azure Search, Azure Security Center, Azure Security for IoT, Azure Service Health, Azure Service Manager (RDFE), Azure Sentinel, Azure SignalR Service, Azure Site Recovery, Azure Stack Edge, Azure Time Series Insights, Azure Virtual WAN, Background Runtime (Async), Background Runtime (Jobs), Backup, Batch, CAP Admin Sandbox Operations Service, CAP Core Services, CAP Package Deployer Service, CDS API, CDS SandBox, Cloud Services, Cloud Shell, Cognitive Services, Cognitive Services Personalizer, Computer Vision, Content Delivery Network, Content Moderator, Cost Management, CRM Admin API, CRM Cloud Provisioning Service, CRM Cloud Scale Groups, CRM Cloud Sync Service, CRM Global Discovery Service, CRM Portals, CRM Portal Provisioning (SiteWide), CRM Reports (SSRS), CRM Sitewide Servers, CRM Trusted Published System, Custom Vision, D365 Integrator App, Databox Datacenter Infra Service, Databox Pod & Disk Service, Data Factory, Dynamics 365 – Data Sync Framework, Dynamics 365 – Relevance Search, Dynamics 365 Customer Engagement:, Dynamics 365 for Finance, Dynamics 365 for Finance and Operations [Dynamics Regulatory services - Configuration + Dynamics Lifecycle services], Event Hubs, ExpressRoute, Face, Flow, HDInsight, Intune, Load Balancer, Log Analytics, Logic Apps, Managed Applications, Dynamics 365 Omni-channel Engagement Hub, Marketplace Portal, Media Services, Microsoft Cloud App Security, Microsoft Defender Advanced Threat Protection, Microsoft Graph, Microsoft PowerApps, Microsoft Stream, Multi-factor Authentication (MFA), MySQL, Network Watcher, Network Watcher Traffic Analytics, Notification Hubs, Postgre SQL, PowerApps – UCI, Power BI, PPAC Admin Analytics, QnA Maker, Private Link, Redis Cache, Scheduler, Service Bus, Service Fabric, Spartan Data Platform Management, Speech Services, SQL Data Warehouse, SQL Database, SQL Server Stretch Database, Storage (Blobs, Disks, Files, Queues, Tables), StorSimple Service, Stream Analytics, Text Analytics, Traffic Manager, Translator Text, Video Indexer, Virtual Machines Scale Sets, Virtual Machines, Virtual Network, VPN Gateway, Web Apps (App Service), Windows Virtual Desktop, and supporting infrastructure and platform services.",
+        "CSO_Description": "Microsoft Azure Commercial Cloud is an open and flexible cloud platform that enables customers to quickly build, test, deploy, and manage their applications, services, and product development across a network of Microsoft-managed datacenters within the United States. The Microsoft Azure platform exports savings to the customer by delivering the software, platform, and IT infrastructure resources where and when it is needed via the Internet. Microsoft Azure provides a multi-tenant public cloud services platform that offers functionality to support capacities such as Platform as a Service (PaaS), and Infrastructure as a Service (IaaS) cloud service models. Azure maintains a P-ATO at the High Impact Level. Azure was the first public cloud with IaaS and PaaS services to receive a JAB P-ATO.\nFor additional information, visit the (Azure Trust Center)[https://www.microsoft.com/en-us/TrustCenter/Compliance/default.aspx] or refer to Azure FedRAMP Package ID# F1209051525.\n\nThe following Microsoft services are FedRAMP Authorized and approved by the JAB at the High Impact Level: API Management, Application Gateway, Application Insights, Arca CDS Instance Container Management Service, Automation, Azure Active Directory B2C - CPIM, Azure Active Directory (AAD) Domain Services, Azure Active Directory (AAD) Free, Azure Active Directory (AAD) Premium P1 + P2, Azure Active Directory (AAD) Sync Fabric, Azure Advanced Threat Protection, Azure Advisor, Azure Analysis Services, Azure API for FHIR, Azure Archive Storage, Azure Bastion – Hybrid Networking Services, Azure Bot Service, Azure Container Instances, Azure Container Registry, Azure Cosmos DB, Azure Data Explorer, Azure Data Movement, Azure Database for MariaDB, Azure Database Migration Service, Azure DataBricks, Azure Data Share, Azure DDoS Protection, Azure Dedicated HSM, Azure DNS, Azure Event Grid, Azure File Sync, Azure Firewall, Azure For Education, Azure Front Door, Azure Guest Configuration, Azure HPC Cache, Azure Information Protection, Azure IoT Hub, Azure Import/Export, Azure Internet Analyzer – MOI Service, Azure Key Vault, Azure Kubernetes Service, Azure Lab Services, Azure Language Understanding, Azure Lockbox, Azure Machine Learning Service, Azure Managed Services – Azure Light House, Azure Maps, Azure Migrate, Azure Monitor, Azure NetApp Files, Azure Policy, Azure Portal, Azure Red Hat OpenShift, Azure Resource Graph, Azure Resource Manager (ARM), Azure Search, Azure Security Center, Azure Security for IoT, Azure Service Health, Azure Service Manager (RDFE), Azure Sentinel, Azure SignalR Service, Azure Site Recovery, Azure Stack Edge, Azure Time Series Insights, Azure Virtual WAN, Background Runtime (Async), Background Runtime (Jobs), Backup, Batch, CAP Admin Sandbox Operations Service, CAP Core Services, CAP Package Deployer Service, CDS API, CDS SandBox, Cloud Services, Cloud Shell, Cognitive Services, Cognitive Services Container Platform, Cognitive Services Form Recognizer, Cognitive Services Personalizer, Computer Vision, Content Delivery Network, Content Moderator, Cost Management, CRM Admin API, CRM Cloud Provisioning Service, CRM Cloud Scale Groups, CRM Cloud Sync Service, CRM Global Discovery Service, CRM Portals, CRM Portal Provisioning (SiteWide), CRM Reports (SSRS), CRM Sitewide Servers, CRM Trusted Published System, Custom Vision, D365 Integrator App, Databox Datacenter Infra Service, Databox Pod & Disk Service, Data Factory, Dynamics 365 – Data Sync Framework, Dynamics 365 – Relevance Search, Dynamics 365 Customer Engagement:, Dynamics 365 for Finance, Dynamics 365 for Finance and Operations [Dynamics Regulatory services - Configuration + Dynamics Lifecycle services], Event Hubs, ExpressRoute, Face, Flow, HDInsight, Intune, Load Balancer, Log Analytics, Logic Apps, Managed Applications, Dynamics 365 Omni-channel Engagement Hub, Marketplace Portal, Media Services, Microsoft Azure Peering Service, Microsoft Cloud App Security, Microsoft Defender Advanced Threat Protection, Microsoft Graph, Microsoft PowerApps, Microsoft Stream, Multi-factor Authentication (MFA), MySQL, Network Watcher, Network Watcher Traffic Analytics, Notification Hubs, Postgre SQL, PowerApps – UCI, Power BI, PPAC Admin Analytics, QnA Maker, Private Link, Redis Cache, Scheduler, Service Bus, Service Fabric, Spartan Data Platform Management, Speech Services, SQL Data Warehouse, SQL Database, SQL Server Stretch Database, Storage (Blobs, Disks, Files, Queues, Tables), StorSimple Service, Stream Analytics, Text Analytics, Traffic Manager, Translator Text, Video Indexer, Virtual Machines Scale Sets, Virtual Machines, Virtual Network, VPN Gateway, Web Apps (App Service), Windows Virtual Desktop, and supporting infrastructure and platform services.",
         "Announcement_Date": "2019-05-03T04:00:00.000Z",
         "CSP_POC_Name": "Microsoft Azure FedRAMP Requests",
         "CSP_POC_Email": "AzureFedRAMP@microsoft.com",
@@ -8392,6 +8409,13 @@
             "Authorizing_Subagency": "Internal Revenue Service",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2021-01-30T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-07-28T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -8944,6 +8968,14 @@
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "Food and Drug Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-05-27T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-05-27T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-05-27T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -9974,7 +10006,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Microsoft%20Logo.png",
         "Independent_Assessor": "Kratos",
         "CSP_Website": "http://azure.microsoft.com/en-us/",
-        "CSO_Description": "Microsoft Azure Government is a government-community cloud that offers hyper-scale compute, storage, networking, and identity management services, with world-class security. A physically and network-isolated instance of Microsoft Azure, operated by screened U.S. citizens, Azure Government provides standards-compliant IaaS and PaaS that has now received a FedRAMP JAB P-ATO. All services are available immediately for supporting secure US government workloads, including CJIS, IRS 1075 FTI, HIPAA, DoD, and federal agency data.\n\nThe following Microsoft services are FedRAMP Authorized and approved by the JAB at the High Impact Level: API Management, Application Gateway, Automation, Azure Active Directory (AAD) Free, Azure Advanced Threat Protection, Azure Advisor, Azure Active Directory Domain Services, Azure Active Directory (AAD) Premium P1 + P2, Azure Analysis Services, Azure Archive Storage, Azure Backup, Azure Blueprints, Azure Bot Service, Azure Container Instances, Azure Content Delivery Network, Azure Cosmos DB, Azure Database for MariaDB, Azure Database for MySQL, Azure Database for PostgreSQL, Azure Data Box Edge, Azure Data Explorer, Azure Database Migration Service, Azure DDOS Protection, Azure Dedicated HSM, Azure DevTest Labs, Azure DNS, Azure File Sync, Azure Firewall, Azure Front Door, Azure Information Protection, Azure Import/Export , Azure IoT Hub, Azure Key Vault, Azure Kubernetes Service, Azure Lab Services, Azure LockBox, Azure Machine Learning, Azure Managed Applications, Azure Managed Services – Azure Light House, Azure Maps, Azure Migrate, Azure Monitor, Azure Policy, Azure Portal, Azure Private Link, Azure Resource Graph, Azure Resource Manager (ARM), Azure Search, Azure Security Center, Azure Security for IoT, Azure Sentinel, Azure Service Manager (RDFE), Azure SignalR Service, Azure Site Recovery, Azure Stack Bridge, Batch, Cloud Shell, Cognitive Services - Computer Vision, Cognitive Services - Content Moderator, Cognitive Services - Face, Cognitive Services - Language Understanding, Cognitive Services - Text Analytics, Cognitive Services - Translator Text, Cloud Services, Container Registry, Cost Management, D365 Integrator APP, Data Factory, Dynamics 365, Dynamics 365 Customer Engagement, Dynamics 365 Customer Insights, Dynamics 365 Customer Service, Dynamics 365 Field Service, Dynamics 365 Forms Pro, Dynamics 365 Project Service Automation, Dynamics 365 Sales, Dynamics 365 Service Omni-Channel Engagement Hub, Event Grid, Event Hubs, ExpressRoute, Functions, Guest Configuration, HDInsight, Interflow, Intune, Load Balancer, Log Analytics, Logic Apps, Media Services, Microsoft Azure Government Management Portal, Microsoft Cloud App Security, Microsoft Defender Advanced Threat Protection (MDATP), Microsoft Flow, Microsoft Graph, Microsoft PowerApps, Microsoft Stream, Multi-factor Authentication (MFA), Network Watcher, Network Watcher-Traffic Analytics, Notification Hubs, Power BI Embedded, Power BI, Power Query Online, Redis Cache, Scheduler, Service Fabric, Services Bus, SIPS ML Detections Service, SQL Data Warehouse, SQL Database, SQL Server Stretch Database, Speech Services, StorSimple, Storage (Blobs, Disks, Files, Queues, Tables), Stream Analytics, Traffic Manager, Virtual Machines Scale Sets (VMSS), Virtual Machines, Virtual Network, VPN Gateway, Web Apps (App Service) and supporting infrastructure and platform services.",
+        "CSO_Description": "Microsoft Azure Government is a government-community cloud that offers hyper-scale compute, storage, networking, and identity management services, with world-class security. A physically and network-isolated instance of Microsoft Azure, operated by screened U.S. citizens, Azure Government provides standards-compliant IaaS and PaaS that has now received a FedRAMP JAB P-ATO. All services are available immediately for supporting secure US government workloads, including CJIS, IRS 1075 FTI, HIPAA, DoD, and federal agency data.\n\nThe following Microsoft services are FedRAMP Authorized and approved by the JAB at the High Impact Level: API Management, Application Gateway, Automation, Azure Active Directory (AAD) Free, Azure Advanced Threat Protection, Azure Advisor, Azure Active Directory Domain Services, Azure Active Directory (AAD) Premium P1 + P2, Azure Analysis Services, Azure Archive Storage, Azure Backup, Azure Bastion, Azure Blueprints, Azure Bot Service, Azure Container Instances, Azure Content Delivery Network, Azure Cosmos DB, Azure Database for MariaDB, Azure Database for MySQL, Azure Database for PostgreSQL, Azure Data Box Edge, Azure Data Explorer, Azure Database Migration Service, Azure Data Share, Azure DDOS Protection, Azure Dedicated HSM, Azure DevTest Labs, Azure DNS, Azure File Sync, Azure Firewall, Azure Front Door, Azure Information Protection, Azure Import/Export , Azure IoT Hub, Azure Key Vault, Azure Kubernetes Service, Azure Lab Services, Azure LockBox, Azure Machine Learning, Azure Managed Applications, Azure Managed Services – Azure Light House, Azure Maps, Azure Migrate, Azure Monitor, Azure NetApp Files, Azure Policy, Azure Portal, Azure Private Link, Azure Resource Graph, Azure Resource Manager (ARM), Azure Search, Azure Security Center, Azure Security for IoT, Azure Sentinel, Azure Service Manager (RDFE), Azure SignalR Service, Azure Site Recovery, Azure Stack Bridge, Batch, Cloud Shell, Cognitive Services - Computer Vision, Cognitive Services - Content Moderator, Cognitive Services – Custom Vision, Cognitive Services - Face, Cognitive Services - Language Understanding, Cognitive Services – Personalizer, Cognitive Services – QnA Maker, Cognitive Services - Text Analytics, Cognitive Services - Translator Text, Cloud Services, Container Registry, Cost Management, D365 Integrator APP, Data Administration and Management Service, Databox Datacenter Infra Service, Databox Disk and Pod Service, Databricks, Data Factory, Dynamics 365, Dynamics 365 Customer Engagement, Dynamics 365 Customer Insights, Dynamics 365 Customer Service, Dynamics 365 Field Service, Dynamics 365 Forms Pro, Dynamics 365 Project Service Automation, Dynamics 365 Sales, Dynamics 365 Service Omni-Channel Engagement Hub, Event Grid, Event Hubs, ExpressRoute, Functions, Guest Configuration, HDInsight, Interflow, Intune, Load Balancer, Log Analytics, Logic Apps, Media Services, Microsoft Azure Government Management Portal, Microsoft Cloud App Security, Microsoft Defender Advanced Threat Protection (MDATP), Microsoft Flow, Microsoft Graph, Microsoft PowerApps, Microsoft Stream, Multi-factor Authentication (MFA), Network Datapath, Network Watcher, Network Watcher-Traffic Analytics, NM Agent, Notification Hubs, Power BI Embedded, Power BI, Power Query Online, Push Agent V2, Redis Cache, Regional Network Manager, Scheduler, Scuba.NRT Detections, SDN PubSub Service, Service Fabric, Services Bus, SIPS ML Detections Service, SQL Data Warehouse, SQL Database, SQL Server Stretch Database, Speech Services, StorSimple, Storage (Blobs, Disks, Files, Queues, Tables), Stream Analytics, Traffic Manager, Virtual Machines Scale Sets (VMSS), Virtual Machines, Virtual Network, Virtual Network Directory Service, VPN Gateway, Web Apps (App Service) and supporting infrastructure and platform services.",
         "Announcement_Date": "2020-04-29T04:00:00.000Z",
         "CSP_POC_Name": "Microsoft Azure FedRAMP Requests",
         "CSP_POC_Email": "AzureFedRAMP@microsoft.com",
@@ -10930,6 +10962,13 @@
             "Authorizing_Subagency": "Federal Aviation Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-06-17T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-11-20T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -11495,7 +11534,7 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Government Community Cloud",
+        "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2020-06-01T04:00:00.000Z",
         "Original_Expiration_Date": "2023-05-20T04:00:00.000Z",
@@ -11509,7 +11548,7 @@
           "AGENCYAMAZONEW"
         ],
         "CSP_Website": "www.okta.com",
-        "CSO_Description": "Okta is the foundation for secure connections between people and technology. Okta’s products manage identity and access for millions of people on millions of devices. By harnessing the power of the cloud, Okta allows people to access applications on any device at any time, while still enforcing strong security policies. It integrates directly with an organization’s existing directories and identity systems, as well as 4,000+ applications.\nOkta offers products in two lines: for IT and developers. Okta’s IT products are geared toward IT and security leaders and are designed to simplify the way people connect to enterprise technology, while increasing efficiency and keeping IT environments secure. Okta’s IT products include Universal Directory, Single Sign-On, Provisioning, Adaptive Multi-factor Authentication and Mobility Management. Okta’s developer and platform products allow product teams to layer Okta’s powerful identity services into their applications and portals. Okta’s Platform makes it easy for customers to authentication, manage and secure their users. Okta’s Platform products include Universal Directory, Single Sign-On, Provisioning, Adaptive Multi-factor Authentication, Social Authentication, Inbound Federation, and AD and LDAP Integration.",
+        "CSO_Description": "Okta is the foundation for secure connections between people and technology. Okta’s products manage identity and access for millions of people on millions of devices. By harnessing the power of the cloud, Okta allows people to access applications on any device at any time, while still enforcing strong security policies. It integrates directly with an organization’s existing directories and identity systems, as well as 4,000+ applications. Okta offers products in two lines: for IT and developers. Okta’s IT products are geared toward IT and security leaders and are designed to simplify the way people connect to enterprise technology, while increasing efficiency and keeping IT environments secure. Okta’s IT products include Universal Directory, Single Sign-On, Provisioning, Adaptive Multi-factor Authentication and Mobility Management. Okta’s developer and platform products allow product teams to layer Okta’s powerful identity services into their applications and portals. Okta’s Platform makes it easy for customers to authentication, manage and secure their users. Okta’s Platform products include Universal Directory, Single Sign-On, Provisioning, Adaptive Multi-factor Authentication, Social Authentication, Inbound Federation, and AD and LDAP Integration.",
         "Announcement_Date": "2017-04-26T04:00:00.000Z",
         "CSP_POC_Name": "Chris Niggel",
         "CSP_POC_Email": "fedramp@okta.com",
@@ -12718,7 +12757,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Okta%20Logo.png",
         "Independent_Assessor": "Schellman & Company, LLC",
         "CSP_Website": "www.okta.com",
-        "CSO_Description": "Okta GovCloud IDaaS consists of a number of components that may be used to provide methods of authentication and provisioning control.\n\n* The Okta core service is a web-based Software-as-a-Service Identity platform.  Users interact with the Okta core service via their Okta instance, using a web browser (https://<customer>.okta.com), or via APIs that have been integrated into a third-party application. \n\nOkta Mobile is Okta’s native mobile application, supporting both Apple iOS and Google Android.  Okta Mobile provides mobile access to the user’s assigned applications, and forms the base for Okta Mobility Management, an Enterprise Mobility Management platform that allows IT to enforce access and security policies on the mobile device.  \n\n* Okta Verify is Okta’s mobile Multi-Factor Authentication solution.  Okta Verify functions as both an Out of Band Token (Okta Verify with Push), and a Single Factor One-Time Password Device (Okta Verify).  This app is supported on all major mobile platforms. \n* Okta Directory Agent and Okta IWA Agent are software components that are installed on the customer’s infrastructure, providing an authentication bridge between the customer’s directory service (LDAP or Active Directory) and the Okta cloud.  Agents are fully configurable by the customer in regard to the types of data they synchronize with Okta. ",
+        "CSO_Description": "Okta is the foundation for secure connections between people and technology. Okta’s products manage identity and access for millions of people on millions of devices. By harnessing the power of the cloud, Okta allows people to access applications on any device at any time, while still enforcing strong security policies. It integrates directly with an organization’s existing directories and identity systems, as well as 4,000+ applications. Okta offers products in two lines: for IT and developers. Okta’s IT products are geared toward IT and security leaders and are designed to simplify the way people connect to enterprise technology, while increasing efficiency and keeping IT environments secure. Okta’s IT products include Universal Directory, Single Sign-On, Provisioning, Adaptive Multi-factor Authentication and Mobility Management. Okta’s developer and platform products allow product teams to layer Okta’s powerful identity services into their applications and portals. Okta’s Platform makes it easy for customers to authentication, manage and secure their users. Okta’s Platform products include Universal Directory, Single Sign-On, Provisioning, Adaptive Multi-factor Authentication, Social Authentication, Inbound Federation, and AD and LDAP Integration.",
         "CSP_POC_Name": "Shawn Maxim",
         "CSP_POC_Email": "fedramp@okta.com",
         "Fedramp_Ready_Date": "2020-08-11T04:00:00.000Z",
