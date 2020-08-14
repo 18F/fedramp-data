@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-08-13T04:40:50.605Z",
+    "Created_At": "2020-08-14T04:40:50.493Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4288,14 +4288,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-01-28T05:00:00.000Z",
-            "Letter_Expiration_Date": "2020-07-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-01-30T05:00:00.000Z",
-            "Authorizing_Agency": "Federal Retirement Thrift Investment Board",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRTIB%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Authorizing_Letter_Last_Sign_Date": "2020-04-23T04:00:00.000Z",
             "Authorizing_Agency": "United States International Trade Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USITC%20Logo.png",
@@ -4339,6 +4331,14 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "United States Patent and Trademark Office",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-05-07T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-11-27T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-05-27T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Retirement Thrift Investment Board",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRTIB%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -4939,7 +4939,7 @@
         "Designation": "Compliant",
         "Package_ID": "F1305012100",
         "Service_Model": [
-          "IaaS, SaaS"
+          "SaaS"
         ],
         "Deployment_Model": "Hybrid Cloud",
         "Impact_Level": "Moderate",
@@ -6555,6 +6555,15 @@
             "Letter_Date": "2020-08-04T04:00:00.000Z",
             "Authorizing_Agency": "National Capital Planning Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NationalCapitalPlanningCommission-Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-07-08T04:00:00.000Z",
+            "Letter_Expiration_Date": "2020-10-05T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-07-08T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Department of the Navy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -11861,7 +11870,7 @@
         "CSO_Description": "The Decision Lens Software is a cloud-based prioritization and resource optimization software solution. Decision Lens enables governmental organizations to make critical decisions in program and project prioritization and resourcing, modernization, resource allocation and optimization, and workforce planning. This cloud-based software, which is hosted on the FedRAMP-authorized Amazon Web Services (AWS) Infrastructure as a Service (IaaS), rapidly engages decision-makers to achieve better outcomes in a resource-constrained environment. Driven by sophisticated analytics, the Decision Lens Software empowers organizations to identify those investments that will deliver the best future outcomes.",
         "Announcement_Date": "2015-12-21T05:00:00.000Z",
         "CSP_POC_Name": "Andy Keller",
-        "CSP_POC_Email": "andykeller@decisionlens.com",
+        "CSP_POC_Email": "ISSO@decisionlens.com",
         "FedRAMP_In-Process_Date": "2014-06-10T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
