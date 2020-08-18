@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-08-17T04:40:50.389Z",
+    "Created_At": "2020-08-18T04:40:50.372Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -7659,36 +7659,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "The Arcanum Group Inc.",
-        "Cloud_Service_Provider_Package": "Integrated Logistics Management System",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1607057911",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Low",
-        "Original_Authorization_Date": "2019-07-09T04:00:00.000Z",
-        "Original_Expiration_Date": "2020-07-09T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Commerce",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-        "Authorizing_Agency": "Department of Commerce",
-        "Authorizing_Subagency": "United States Census Bureau",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Arcanum%20Logo.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866"
-        ],
-        "CSP_Website": "www.thearcanumgroup.com",
-        "CSO_Description": "The Integrated Logistics Management System is a cloud-based, Software-as-a-Subscription solution, hosted and licensed by The Arcanum Group, Inc. ILMS provides the U.S. Census Bureau with inventory, warehousing, and customer service modules of the commercial off-the-shelf Infor SyteLine 9.00.30 Enterprise Resource Planning application. The system provides logistics support for censuses and surveys with real time, integrated logistics data for decision support, program control, and response to unplanned requirements. The ILMS system supports planning and execution of logistics activities as well as capturing logistics costs.",
-        "Announcement_Date": "2018-09-13T04:00:00.000Z",
-        "CSP_POC_Name": "Jason Zimmer",
-        "CSP_POC_Email": "info@thearcanumgroup.com",
-        "FedRAMP_In-Process_Date": "2014-12-08T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Dell Boomi",
         "Cloud_Service_Provider_Package": "AtomSphere",
         "Path": "Agency",
@@ -7806,8 +7776,8 @@
         "CSP_Website": "www.servicenow.com",
         "CSO_Description": "The ServiceNow Service Automation Government Cloud Suite is a suite of natively integrated applications designed to support IT service automation, resource management and shared support services. ServiceNow is built on modern web technologies. The ServiceNow platform includes easy-to-use, point-and-click customization tools to help customers create solutions for unique business requirements. ServiceNow applications cover all Information Technology Infrastructure Library (ITIL) processes and are natively integrated on a single platform providing web intuitiveness and unprecedented process automation.\nThe ServiceNow Service Automation Government Cloud Suite uses Continental United States (CONUS)-based dedicated infrastructure (facilities, servers, databases, networking devices) to process, store, and transmit government information using a multi-instance architecture. This Government Community Cloud is available for use by United States Federal, State, Local, and Tribal Government with registered .gov or .mil domain addresses, Government Consultants, and Federally Funded Research and Development Centers (FFRDC).",
         "Announcement_Date": "2019-08-12T04:00:00.000Z",
-        "CSP_POC_Name": "Carri Thompson",
-        "CSP_POC_Email": "carri.thompson@servicenow.com",
+        "CSP_POC_Name": "ServiceNow US Federal Compliance",
+        "CSP_POC_Email": "USFederalCompliance@servicenow.com",
         "FedRAMP_In-Process_Date": "2019-01-30T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
@@ -11890,6 +11860,36 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "The Arcanum Group Inc.",
+        "Cloud_Service_Provider_Package": "Integrated Logistics Management System",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1607057911",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Low",
+        "Original_Authorization_Date": "2020-07-08T04:00:00.000Z",
+        "Original_Expiration_Date": "2021-07-08T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Commerce",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+        "Authorizing_Agency": "Department of Commerce",
+        "Authorizing_Subagency": "United States Census Bureau",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Arcanum%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.thearcanumgroup.com",
+        "CSO_Description": "The Integrated Logistics Management System is a cloud-based, Software-as-a-Subscription solution, hosted and licensed by The Arcanum Group, Inc. ILMS provides the U.S. Census Bureau with inventory, warehousing, and customer service modules of the commercial off-the-shelf Infor SyteLine 9.00.30 Enterprise Resource Planning application. The system provides logistics support for censuses and surveys with real time, integrated logistics data for decision support, program control, and response to unplanned requirements. The ILMS system supports planning and execution of logistics activities as well as capturing logistics costs.",
+        "Announcement_Date": "2018-09-13T04:00:00.000Z",
+        "CSP_POC_Name": "Jason Zimmer",
+        "CSP_POC_Email": "info@thearcanumgroup.com",
+        "FedRAMP_In-Process_Date": "2014-12-08T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "ServiceNow",
         "Cloud_Service_Provider_Package": "Service Automation Government Cloud Suite (Legacy)",
         "Path": "JAB",
@@ -11908,8 +11908,8 @@
         "CSP_Website": "www.servicenow.com",
         "CSO_Description": "The ServiceNow Service Automation Government Cloud Suite is a suite of natively integrated applications designed to support IT service automation, resource management and shared support services. ServiceNow is built on modern web technologies. The ServiceNow platform includes easy-to-use, point-and-click customization tools to help customers create solutions for unique business requirements. ServiceNow applications cover all Information Technology Infrastructure Library (ITIL) processes and are natively integrated on a single platform providing web intuitiveness and unprecedented process automation.\nThe ServiceNow Service Automation Government Cloud Suite uses Continental United States (CONUS)-based dedicated infrastructure (facilities, servers, databases, networking devices) to process, store, and transmit government information using a multi-instance architecture. This Government Community Cloud is available for use by United States Federal, State, Local, and Tribal Government with registered .gov or .mil domain addresses, Government Consultants, and Federally Funded Research and Development Centers (FFRDC).",
         "Announcement_Date": "2016-02-17T05:00:00.000Z",
-        "CSP_POC_Name": "Carri Thompson",
-        "CSP_POC_Email": "carri.thompson@servicenow.com",
+        "CSP_POC_Name": "ServiceNow US Federal Compliance",
+        "CSP_POC_Email": "USFederalCompliance@servicenow.com",
         "FedRAMP_In-Process_Date": "2014-04-07T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
@@ -12292,6 +12292,29 @@
         "CSP_POC_Name": "Russell Cozart",
         "CSP_POC_Email": "FedRAMP@cyxtera.com",
         "Fedramp_Ready_Date": "2020-01-13T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Datadog",
+        "Cloud_Service_Provider_Package": "Datadog for Government",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2023864279",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/DataDog%20Logo.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "https://www.datadoghq.com/",
+        "CSO_Description": "Datadog is the monitoring and security platform for cloud applications. Our SaaS platform integrates and automates infrastructure monitoring, application performance monitoring and log management to provide unified, real-time observability of our customers’ entire technology stack. Datadog is used by organizations of all sizes and across a wide range of industries to enable digital transformation and cloud migration, drive collaboration among development, operations, security and business teams, accelerate time to market for applications, reduce time to problem resolution, secure applications and infrastructure, understand user behavior and track key business metrics.\r\nThe services in scope for Datadog for Government are:\n\n* Infrastructure Metrics – Observe, analyze, and alert based on infrastructure metrics from hosts, containers and serverless.\n* Application Performance Monitoring – Collect, search, and analyze traces across fully distributed architectures.\n* Log Management – Collect, enrich, monitor, and analyze logs from all systems for troubleshooting, auditing, visualization, and alerting.\n* Real User Monitoring – Collect user actions (e.g., button clicks) to understand user activity within a page.\n* Network Performance Monitoring – Provide multi-cloud visibility into network flows in granular detail and enabling users to aggregate and monitor that data.\n* Synthetics – Monitor applications and API endpoints via simulated user requests and browser rendering.\n* Security Monitoring – Enable real time threat detection and investigate security alerts across infrastructure metrics, distributed traces, and logs.\n* Error Tracking – Capture, visualize, and browse errors reported by services.",
+        "CSP_POC_Name": "Phil Shea",
+        "CSP_POC_Email": "fedramp@datadoghq.com",
+        "FedRAMP_In-Process_Date": "2020-07-16T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
