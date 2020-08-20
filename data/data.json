@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-08-19T04:40:50.627Z",
+    "Created_At": "2020-08-20T04:40:50.335Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -712,7 +712,7 @@
         "Original_Authorization_Date": "2015-10-09T04:00:00.000Z",
         "Sponsoring_Agency": "JAB Authorization",
         "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Rackspace%20Logo2.png",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Rackspace%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW",
@@ -10261,7 +10261,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "McAfee",
-        "Cloud_Service_Provider_Package": "MVision Cloud",
+        "Cloud_Service_Provider_Package": "MVISION Cloud (CASB, SWG, SASE)",
         "Path": "JAB",
         "Designation": "Compliant",
         "Package_ID": "F1506096710",
@@ -10278,11 +10278,11 @@
         "Underlying_CSP_Package_ID": [
           "F1603047866"
         ],
-        "CSP_Website": "https://www.mcafee.com/enterprise/en-us/products/mvision-cloud.html",
-        "CSO_Description": "McAfee MVision Cloud is a cloud-native Cloud Access Security Broker (CASB) which enables agencies to accelerate their journey to the cloud by enabling visibility and protection of their data. Using MVision Cloud, agencies can:\n* **Detect:** Gain complete visibility into data, context, and user behavior across all cloud services, users, and devices.\n* **Protect:** Take real-time action to enforce policies across cloud services and apply persistent data protection.\n* **Correct:** Remediate security threats by eliminating security misconfigurations and correcting high-risk user activities.\nSample agency use cases are:\n* Understand cloud services in use and their risk profile\n* Enforce data loss prevention (DLP) policies across data in the cloud\n* Prevent unauthorized sharing of sensitive data to the wrong people\n* Block sync/download of corporate data to personal devices\n* Detect compromised accounts, insider threats, and malware\n* Encrypt data in the cloud using agency-controlled encryption keys\n* Audit and tighten the security settings of cloud services",
+        "CSP_Website": "www.mcafee.com",
+        "CSO_Description": "[McAfee MVISION Cloud](https://www.mcafee.com/enterprise/en-us/products/mvision-cloud.html) is a cloud-native Cloud Access Security Broker (CASB) and Secure Access Service Edge (SASE), which enables agencies to accelerate their journey to the cloud by enabling visibility and protection of their data and protection of their users.\n \r\nUsing MVISION Cloud, agencies can:\r\n\n* **Detect:** Gain complete visibility into data, context, and user behavior across all cloud services, users, and devices.\n* **Protect:** Take real-time action to enforce policies across cloud services and apply persistent data protection.\n* **Correct:** Remediate security threats by eliminating security misconfigurations and correcting high-risk user activities.\n\nSample agency use cases are:\n\n* Understand cloud services in use and their risk profile\n* Enforce data loss prevention (DLP) policies across data in the cloud\n* Prevent unauthorized sharing of sensitive data to the wrong people\n* Block sync/download of corporate data to personal devices\n* Detect compromised accounts, insider threats, and malware\n* Encrypt data in the cloud using agency-controlled encryption keys\n* Audit and tighten the security settings of cloud services",
         "Announcement_Date": "2020-04-29T04:00:00.000Z",
-        "CSP_POC_Name": "Petko Stoyanov",
-        "CSP_POC_Email": "fedrampinfo_skyhigh@mcafee.com",
+        "CSP_POC_Name": "Slawomir Liger",
+        "CSP_POC_Email": "FedRAMP@mcafee.com",
         "Fedramp_Ready_Date": "2019-09-06T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2019-12-13T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
@@ -10609,6 +10609,13 @@
             "Authorizing_Agency": "Department of the Treasury",
             "Authorizing_Subagency": "Internal Revenue Service",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-08-11T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-08-19T04:00:00.000Z",
+            "Authorizing_Agency": "Tennessee Valley Authority",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-TennesseeValleyAuthority-Logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -12651,12 +12658,12 @@
       },
       {
         "Cloud_Service_Provider_Name": "McAfee",
-        "Cloud_Service_Provider_Package": "MVision for Endpoint",
+        "Cloud_Service_Provider_Package": "MVISION for Endpoint (ePO, EDR)",
         "Path": "Agency",
         "Designation": "In Process",
         "Package_ID": "FR1935245314",
         "Service_Model": [
-          "PaaS, SaaS"
+          "SaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
@@ -12667,9 +12674,9 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/McAfee%20Logo.png",
         "Independent_Assessor": "Kratos",
         "CSP_Website": "www.mcafee.com",
-        "CSO_Description": "MVision for Endpoint includes a variety of cloud-assisting endpoint technologies, such as MVision ePO, Real Protect Cloud, and MVision EDR providing centralized management, cloud-assisted machine learning, and Endpoint Detection and Response (EDR).\n* MVision ePO is complete centralized management for using McAfee solution and enhance native security controls without the complexity of on-premises infrastructure.\n* Real Protect Cloud is a machine learning cloud which enhances’ our Endpoints pre-execution machine learning with post-execution to detect dynamic behavior based on machine learning algorithms derived from over a billion sensors and over 30 years of experience.\n* MVision EDR provides Artificial Intelligence guided Endpoint, Detection, and Response solution to assist and force multiply your analyst capabilities when investigating attacks.",
-        "CSP_POC_Name": "Petko Stoyanov",
-        "CSP_POC_Email": "FedRAMPInfo_MVision@mcafee.com",
+        "CSO_Description": "MVISION for Endpoint platform includes a varies of cloud-assisting endpoint technologies, such as MVISION ePO, Real Protect Cloud, and MVISION EDR providing centralized management, cloud-assisted machine learning, and Endpoint Detection and Response (EDR).\n\n* [MVISION ePO](https://www.mcafee.com/enterprise/en-us/products/mvision-epo.html) is complete centralized management for using McAfee solution and enhance native security controls without the complexity of on-premises infrastructure. \n* [MVISION EDR](https://www.mcafee.com/enterprise/en-us/products/mvision-edr.html) provides Artificial Intelligence guided Endpoint, Detection, and Response solution to assist and force multiple your analyst capabilities when investigating attacks\n* Real Protect Cloud is a machine learning cloud which enhances’ our Endpoints pre-execution machine learning with post-execution to detect dynamic behavior based on machine learning algorithms derived from over a billion sensors and over 30 years of experience.",
+        "CSP_POC_Name": "Arve Kjoelen",
+        "CSP_POC_Email": "FedRAMP@mcafee.com",
         "FedRAMP_In-Process_Date": "2019-09-25T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
