@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-08-27T04:40:50.760Z",
+    "Created_At": "2020-08-28T04:40:50.216Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4643,7 +4643,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Innovative%20Logo.png",
         "Independent_Assessor": "Lunarline, Inc.",
         "CSP_Website": "www.id-edd.com",
-        "CSO_Description": "The Innovative Discovery Government Cloud (ID Gov-Cloud) is a Software as a Service (SaaS)\noffering that provides a secure and scalable environment for government legal document services.\nUtilizing the robust and feature-rich Relativity platform, ID Gov-Cloud offers software services to\nagencies within a secure, scalable, and compliant cloud environment. Agencies can leverage the full\nscope of eDiscovery services within one scalable platform, to include but not limited to: processing,\ndocument review, advanced analytics, assisted review, legal hold services, and production. All these\nservice packages are provided within a secure and user-friendly customer interface. Government\nagencies also leverage the added capabilities of Innovative Discovery’s government project\nmanagement teams and workflows, benefitting from years of experience supporting complex\ngovernment electronic discovery requests.",
+        "CSO_Description": "The Innovative Discovery Government Cloud (ID Gov-Cloud) is a Software as a Service (SaaS) offering that provides a secure and scalable environment for government legal document services. ID Gov-Cloud provides software services to agencies within a secure, scalable, and compliant cloud environment, offering Relativity Analytics, and iCONECT Analytics inhouse – as well as expert consulting and application to get the most from them. Agencies can leverage the full scope of eDiscovery services within one scalable platform, to include but not limited to: processing, document review, advanced analytics, assisted review, legal hold services, and production. All these service packages are provided within a secure and user-friendly customer interface. Government agencies also leverage the added capabilities of Innovative Discovery’s government project management teams and workflows, benefitting from years of experience supporting complex government electronic discovery requests.",
         "Announcement_Date": "2018-07-25T04:00:00.000Z",
         "CSP_POC_Name": "James H. Perkins Jr.",
         "CSP_POC_Email": "fedramp@id-edd.com",
@@ -5929,6 +5929,14 @@
             "Authorizing_Agency": "Federal Trade Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-08-25T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-08-25T04:00:00.000Z",
+            "Authorizing_Agency": "Department of State",
+            "Authorizing_Subagency": "State Office of the Inspector General",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -7142,7 +7150,17 @@
         "CSP_POC_Name": "Jerome Brock",
         "CSP_POC_Email": "fedramp@zimperium.com",
         "FedRAMP_In-Process_Date": "2018-05-01T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2020-02-07T05:00:00.000Z",
+            "Letter_Expiration_Date": "2023-02-19T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-02-19T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Broadcom",
@@ -9826,89 +9844,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Google",
-        "Cloud_Service_Provider_Package": "Google G Suite",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1206081364",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2020-03-26T04:00:00.000Z",
-        "Original_Expiration_Date": "2023-03-25T04:00:00.000Z",
-        "Sponsoring_Agency": "General Services Administration",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-        "Authorizing_Agency": "General Services Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Google%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "FR1805751477"
-        ],
-        "CSP_Website": "https://gsuite.google.com/",
-        "CSO_Description": "Google G Suite is comprised of Google’s multi-tenant public and hybrid cloud instances and leverages Google Services (Google Cloud Platform Products)\nThe following **G Suite editions** are FedRAMP authorized: G Suite Basic, G Suite Business, G Suite Enterprise, G Suite for Education, G Suite Enterprise for Education, G Suite for Nonprofits, and G Suite for Governments.\nThe following **G Suite services** are FedRAMP authorized: Admin Console, Admin SDK, Android and Chrome Device Management, Calendar, Chrome Sync (for G Suite for Education domains only), Classroom, Cloud Identity (including Auto Provisioning), Cloud Search (not including Cloud Search Platform), Contacts, Directory Sync, Docs, Docs APIs, Drawings, Drive, Forms, G Suite Security Center (for G Suite Enterprise and G Suite Enterprise for Education domains only), Gmail (incl. Talk), Google Tasks, Groups for Business, Hangouts Chat (including Classic Hangouts Bot, Google Drive Bot, and Meet Bot), Hangouts Classic, Hangouts Meet, Keep, Sheets, Sites Classic, Sites New, Slides, Vault\n**Admin SDK**: Admin Settings API, Apps Email Audit API, Calendar Resource API, Directory API (replaced Provisioning API), Domain Shared Contacts API, Email Settings API, Enterprise License Manager API, Groups Migration API, Groups Settings, Reports API, Reseller API\n**Docs APIs**: Apps Activity API, Calendar API, Contacts API, Drive REST API (replaced Documents List API), Gmail REST API (replaced Email Migration API), Sheets API, Sites API, Tasks API\nGoogle Cloud Platform services are now described on the Google Services (Google Cloud Platform Products and underlying Infrastructure) authorized FedRAMP Marketplace page.",
-        "Announcement_Date": "2016-01-22T05:00:00.000Z",
-        "CSP_POC_Name": "Google FedRAMP Team",
-        "CSP_POC_Email": "fedramp@google.com",
-        "FedRAMP_In-Process_Date": "2014-05-11T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2014-06-24T04:00:00.000Z",
-            "Authorizing_Agency": "National Archives and Records Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NARA_Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2014-10-31T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2017-02-17T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Institute of Standards and Technology",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-04-12T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-04-18T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-04-18T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Authorizing_Subagency": "Los Alamos National Laboratory",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-08-07T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-08-07T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-08-07T04:00:00.000Z",
-            "Authorizing_Agency": "United States Agency for International Development",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-02-28T05:00:00.000Z",
-            "Letter_Expiration_Date": "2021-02-28T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-02-28T05:00:00.000Z",
-            "Authorizing_Agency": "Library of Congress",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/LoC%20logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-04-01T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-04-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-04-01T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Microsoft",
         "Cloud_Service_Provider_Package": "Azure Government (includes Dynamics 365)",
         "Path": "JAB",
@@ -10194,6 +10129,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2018-08-10T04:00:00.000Z",
             "Authorizing_Agency": "Federal Communications Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-08-24T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-08-24T04:00:00.000Z",
+            "Authorizing_Agency": "Department of State",
+            "Authorizing_Subagency": "State Office of the Inspector General",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -11879,6 +11822,95 @@
             "Authorizing_Agency": "Department of the Treasury",
             "Authorizing_Subagency": "Internal Revenue Service",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Google",
+        "Cloud_Service_Provider_Package": "Google G Suite",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1206081364",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-08-24T04:00:00.000Z",
+        "Sponsoring_Agency": "General Services Administration",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+        "Authorizing_Agency": "General Services Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Google%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "FR1805751477"
+        ],
+        "CSP_Website": "https://gsuite.google.com/",
+        "CSO_Description": "Google G Suite is comprised of Google’s multi-tenant public and hybrid cloud instances and leverages Google\r\nServices (Google Cloud Platform Products). \n\r\nThe following G Suite editions are FedRAMP authorized: G Suite Basic, G Suite Business, G Suite Enterprise, G\r\nSuite for Education, G Suite Enterprise for Education, G Suite for Nonprofits, and G Suite for Governments. The\r\nfollowing G Suite services are FedRAMP authorized: Admin Console, Admin SDK, Android and Chrome Device\r\nManagement, Calendar, Chrome Sync (for G Suite for Education domains only), Classroom, Cloud Identity\r\n(including Auto Provisioning), Cloud Search (including 3P), Contacts, Directory Sync, Docs, Drawings, Drive, Google\r\nDrive for Work, Forms, G Suite Security Center (for G Suite Enterprise and G Suite Enterprise for Education\r\ndomains only), Gmail (incl. Talk), Google Tasks, Groups for Business, Google Chat (including Classic Hangouts\r\nBot, Google Drive Bot, and Meet Bot), Google Hangouts, Google Meet (including Live Stream), Google Voice,\r\nJamboard, Keep, Secure LDAP, Sheets, Sites Classic, Sites New, Slides, Vault; Admin SDK: Admin Settings API,\r\nApps Email Audit API, Calendar Resource API, Directory API (replaced Provisioning API), Domain Shared Contacts\r\nAPI, Email Settings API, Enterprise License Manager API, Groups Migration API, Groups Settings API, Reports API,\r\nReseller API; Docs APIs: Apps Activity API, Calendar API, Contacts API, Drive REST API (replaced Documents List\r\nAPI), Gmail REST API (replaced Email Migration API), Sheets API, Sites API, Tasks API.\n\r\nGoogle Cloud Platform services are now described on the Google Services (Google Cloud Platform Products and\r\nunderlying Infrastructure) authorized FedRAMP Marketplace page.",
+        "Announcement_Date": "2016-01-22T05:00:00.000Z",
+        "CSP_POC_Name": "Google FedRAMP Team",
+        "CSP_POC_Email": "fedramp@google.com",
+        "FedRAMP_In-Process_Date": "2014-05-11T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2014-06-24T04:00:00.000Z",
+            "Authorizing_Agency": "National Archives and Records Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NARA_Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2014-10-31T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2017-02-17T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Institute of Standards and Technology",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2018-04-12T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-04-18T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-04-18T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "Los Alamos National Laboratory",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2018-08-07T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-08-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-08-07T04:00:00.000Z",
+            "Authorizing_Agency": "United States Agency for International Development",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-02-28T05:00:00.000Z",
+            "Letter_Expiration_Date": "2021-02-28T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-02-28T05:00:00.000Z",
+            "Authorizing_Agency": "Library of Congress",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/LoC%20logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-04-01T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-04-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-04-01T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-03-26T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-03-25T04:00:00.000Z",
+            "Authorizing_Agency": "General Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -14109,6 +14141,22 @@
         "Description_of_Consulting_Services": "We specialize in providing one-on-one advisory services to Cloud Service Providers working through the FedRAMP process. We help guide our partners through the multi-tiered steps of receiving an ATO through the FedRAMP process. Our goal is to ensure that our partners meet all FedRAMP security standards the first time, in order to reduce risk of delays and further operating costs. Our multi-faceted support program includes:\n* Helping our partners understand FedRAMP standardization and compliance requirements, as well as the best-practice approaches to becoming FedRAMP-certified\n* Providing an initial Gap Analysis to focus on potential areas of non-compliance\n* Providing an in-depth control implementation review to identify and remediate potential areas of weakness, as well as gathering necessary artifacts to demonstrate control implementation\n* Providing a thorough review of existing system documentation, and development of additional system documents, as required\n* Providing a complete, step-by-step development of your system’s security authorization package.\n",
         "Consulting_Services_To": "None",
         "Additional_Cyber_Frameworks": "* FedRAMP\n* ISO\n* PCI\n* SOC\n* FISMA\n* DIACAP"
+      },
+      {
+        "Name": "Tevora Business Solutions, Inc.",
+        "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Tevora%20Logo.png",
+        "Description": "Tevora’s Federal Services Team is an accredited FedRAMP 3PAO that offers a comprehensive collection of accredited 3PAO services which are tailored to support individual CSPs in maintaining cost effective strategic initiatives for compliance with FedRAMP, FISMA, Office of Management and Budget (OMB), and other Federal civilian and Department of Defense (DoD) mandates. Tevora provides meaningful feedback throughout each project to help CSPs efficiently navigate the FedRAMP assessment and authorization process in partnership with the FedRAMP PMO and Agency sponsor.\n\nTevora’s Federal Services include:\n* Strategy Roadmap Development\n* IT Governance including creation of IT Security Policies, Standards, and Procedures\n* Development of System Security Plans (SSP)\n* Gap and Readiness Assessment Report (RAR)\n* Remediation Services\n* Penetration Testing\n* Accredited 3PAO Security Assessment Reports (SAR)\n* Accredited 3PAO Continuous Monitoring Services",
+        "POC_Name": "Jeremiah Sahlberg",
+        "POC_Email": "fedramp@tevora.com",
+        "website": "www.tevora.com",
+        "Remediation": "N",
+        "Founded": 2003,
+        "Primary_Office_Locations": "* 17875 Von Karman Ave #100, Irvine, CA 92614\n* 4114 Legato Road, Suite 820, Fairfax VA 22033",
+        "FedRAMP_Assessed": "None",
+        "Provide_Consulting_Services": "Y",
+        "Description_of_Consulting_Services": "Tevora is a leading management consulting firm specializing in enterprise risk, compliance, information security solutions, and threat research. We offer a comprehensive portfolio of information security solutions and services to clients in virtually all industries and also serve institutional and government clients.",
+        "Consulting_Services_To": "* AutoDesk\n* eGain\n* Procore",
+        "Additional_Cyber_Frameworks": "* HIPAA\n* HITRUST\n* ISO 27001\n* New York State DFS CCR500\n* NIST 800-53 (FISMA), 800-171 (DFARS), CSF\n* PCI-DSS, PA-DSS\n* Penetration Testing Executation Standard, MITRE ATT&CK\n* SOC"
       },
       {
         "Name": "The Cadence Group",
