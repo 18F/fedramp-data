@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-09-08T04:40:58.660Z",
+    "Created_At": "2020-09-09T04:40:50.707Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -9750,7 +9750,15 @@
         "CSP_POC_Name": "Steve Witt",
         "CSP_POC_Email": "sales@nintex.com",
         "FedRAMP_In-Process_Date": "2019-10-15T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2020-08-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "United States Citizenship and Immigration Services",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "eTRANSERVICES",
@@ -12037,7 +12045,7 @@
         "Underlying_CSP_Package_ID": [
           "FR1823149273",
           "F1209051525",
-          "F1508207205 "
+          "F1508207205"
         ],
         "CSP_Website": "usa.canon.com",
         "CSO_Description": "The Canon Office Cloud will provide Federal Government customers with secure managed print services.",
