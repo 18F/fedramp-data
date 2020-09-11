@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-09-10T04:40:50.404Z",
+    "Created_At": "2020-09-11T04:40:50.556Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -926,14 +926,6 @@
             "Authorizing_Letter_Last_Sign_Date": "2018-12-03T05:00:00.000Z",
             "Authorizing_Agency": "Corporation for National & Community Service (CNCS)",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/cncs_1.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-08-29T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-08-31T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Telecommunications and Information Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -3639,7 +3631,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "BlackBerry",
-        "Cloud_Service_Provider_Package": "BlackBerry Cylance Protect",
+        "Cloud_Service_Provider_Package": "BlackBerry Protect",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "F1602167854",
@@ -4116,14 +4108,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2019-08-29T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-08-31T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Telecommunications and Information Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-09-18T04:00:00.000Z",
             "Letter_Expiration_Date": "2020-09-18T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-09-19T04:00:00.000Z",
@@ -4251,6 +4235,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-09-08T04:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "FirstNet",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-08-31T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-02-28T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-08-28T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Telecommunications and Information Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
@@ -11648,36 +11641,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "The Arcanum Group Inc.",
-        "Cloud_Service_Provider_Package": "Integrated Logistics Management System",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1607057911",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Low",
-        "Original_Authorization_Date": "2020-07-08T04:00:00.000Z",
-        "Original_Expiration_Date": "2021-07-08T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Commerce",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-        "Authorizing_Agency": "Department of Commerce",
-        "Authorizing_Subagency": "United States Census Bureau",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Arcanum%20Logo.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866"
-        ],
-        "CSP_Website": "www.thearcanumgroup.com",
-        "CSO_Description": "The Integrated Logistics Management System is a cloud-based, Software-as-a-Subscription solution, hosted and licensed by The Arcanum Group, Inc. ILMS provides the U.S. Census Bureau with inventory, warehousing, and customer service modules of the commercial off-the-shelf Infor SyteLine 9.00.30 Enterprise Resource Planning application. The system provides logistics support for censuses and surveys with real time, integrated logistics data for decision support, program control, and response to unplanned requirements. The ILMS system supports planning and execution of logistics activities as well as capturing logistics costs.",
-        "Announcement_Date": "2018-09-13T04:00:00.000Z",
-        "CSP_POC_Name": "Jason Zimmer",
-        "CSP_POC_Email": "info@thearcanumgroup.com",
-        "FedRAMP_In-Process_Date": "2014-12-08T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "United States Department of the Treasury",
         "Cloud_Service_Provider_Package": "Workplace.gov Community Cloud (WC2)",
         "Path": "Agency",
@@ -12120,6 +12083,60 @@
             "Include_In_Marketplace": "Y"
           }
         ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "The Arcanum Group Inc.",
+        "Cloud_Service_Provider_Package": "Integrated Logistics Management System",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1607057911",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Low",
+        "Original_Authorization_Date": "2020-09-10T04:00:00.000Z",
+        "Original_Expiration_Date": "2021-07-14T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Commerce",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+        "Authorizing_Agency": "Department of Commerce",
+        "Authorizing_Subagency": "United States Census Bureau",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Arcanum%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.thearcanumgroup.com",
+        "CSO_Description": "The Integrated Logistics Management System is a cloud-based, Software-as-a-Subscription solution, hosted and licensed by The Arcanum Group, Inc. ILMS provides the U.S. Census Bureau with inventory, warehousing, and customer service modules of the commercial off-the-shelf Infor SyteLine 9.00.30 Enterprise Resource Planning application. The system provides logistics support for censuses and surveys with real time, integrated logistics data for decision support, program control, and response to unplanned requirements. The ILMS system supports planning and execution of logistics activities as well as capturing logistics costs.",
+        "Announcement_Date": "2018-09-13T04:00:00.000Z",
+        "CSP_POC_Name": "Jason Zimmer",
+        "CSP_POC_Email": "info@thearcanumgroup.com",
+        "FedRAMP_In-Process_Date": "2014-12-08T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Enel X North America",
+        "Cloud_Service_Provider_Package": "Exchange Platform",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2014363920",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Li-SaaS",
+        "Original_Authorization_Date": "2020-08-28T04:00:00.000Z",
+        "Sponsoring_Agency": "General Services Administration",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+        "Authorizing_Agency": "General Services Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Enel%20X%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "www.enelx.com",
+        "CSO_Description": "Enel X’s Exchange application focuses on enabling our customers to get the best price on energy by using an online reverse auction. Customers in de-regulated energy markets can choose their energy provider. We enable competition by conducting auctions for these energy providers to compete for a customers’ business, increasing liquidity and driving down price. We also provide additional consulting services like budgeting, market intelligence, and risk management. \r\n     \r\nThe Exchange provides an automated alerts notifications to customers based on price change trigger. It also alerts about contract change notifications, market updates, and market intelligence updates, regional news and insights, and customer price charts.",
+        "CSP_POC_Name": "Naeem Syed",
+        "CSP_POC_Email": "fedramp@enel.com",
+        "FedRAMP_In-Process_Date": "2020-04-27T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "ServiceNow",
@@ -12630,29 +12647,6 @@
         "CSP_POC_Name": "Michael Donham ",
         "CSP_POC_Email": "fedramp@egain.com",
         "FedRAMP_In-Process_Date": "2020-08-24T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Enel X North America",
-        "Cloud_Service_Provider_Package": "Exchange Platform",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2014363920",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Li-SaaS",
-        "Sponsoring_Agency": "General Services Administration",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-        "Authorizing_Agency": "General Services Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Enel%20X%20Logo.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "CSP_Website": "www.enelx.com",
-        "CSO_Description": "Enel X’s Exchange application focuses on enabling our customers to get the best price on energy by using an online reverse auction. Customers in de-regulated energy markets can choose their energy provider. We enable competition by conducting auctions for these energy providers to compete for a customers’ business, increasing liquidity and driving down price. We also provide additional consulting services like budgeting, market intelligence, and risk management. \r\n     \r\nThe Exchange provides an automated alerts notifications to customers based on price change trigger. It also alerts about contract change notifications, market updates, and market intelligence updates, regional news and insights, and customer price charts.",
-        "CSP_POC_Name": "Naeem Syed",
-        "CSP_POC_Email": "fedramp@enel.com",
-        "FedRAMP_In-Process_Date": "2020-04-27T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
