@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-09-14T04:40:50.464Z",
+    "Created_At": "2020-09-15T04:40:50.408Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -9902,14 +9902,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2020-08-24T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-08-24T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Justice",
-            "Authorizing_Subagency": "Justice Management Division",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Authorizing_Letter_Last_Sign_Date": "2018-01-26T05:00:00.000Z",
             "Authorizing_Agency": "Department of Agriculture",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
@@ -10089,6 +10081,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-06-09T04:00:00.000Z",
             "Authorizing_Agency": "United States Agency for International Development",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2021-02-19T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-08-19T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Justice",
+            "Authorizing_Subagency": "Justice Management Division",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -12121,7 +12121,7 @@
         "Cloud_Service_Provider_Name": "Enel X North America",
         "Cloud_Service_Provider_Package": "Exchange Platform",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "FR2014363920",
         "Service_Model": [
           "SaaS"
@@ -12134,8 +12134,12 @@
         "Authorizing_Agency": "General Services Administration",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Enel%20X%20Logo.png",
         "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
         "CSP_Website": "www.enelx.com",
         "CSO_Description": "Enel X’s Exchange application focuses on enabling our customers to get the best price on energy by using an online reverse auction. Customers in de-regulated energy markets can choose their energy provider. We enable competition by conducting auctions for these energy providers to compete for a customers’ business, increasing liquidity and driving down price. We also provide additional consulting services like budgeting, market intelligence, and risk management. \r\n     \r\nThe Exchange provides an automated alerts notifications to customers based on price change trigger. It also alerts about contract change notifications, market updates, and market intelligence updates, regional news and insights, and customer price charts.",
+        "Announcement_Date": "2020-09-10T04:00:00.000Z",
         "CSP_POC_Name": "Naeem Syed",
         "CSP_POC_Email": "fedramp@enel.com",
         "FedRAMP_In-Process_Date": "2020-04-27T04:00:00.000Z",
@@ -12984,6 +12988,25 @@
         "CSP_POC_Name": "N/A",
         "CSP_POC_Email": "O365FedRAMP@microsoft.com",
         "FedRAMP_In-Process_Date": "2019-05-31T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Mimecast",
+        "Cloud_Service_Provider_Package": "Mimecast Federal Grid",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2027841666",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Mimecast%20Logo.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "https://www.mimecast.com/microsites/federal-government/",
+        "CSO_Description": "Mimecast solutions enable your organization to implement a cyber resilience strategy that secures your data and people by providing a world class, cloud-based email and web security, awareness training, and domain abuse and brand imitation protection.\n\nMimecast offering includes:\n\n* **Mimecast Email Security with Targeted Threat Protection** designed to protect inbound, outbound, and internal email from malware, spam, advanced persistent threats, email Denial of Service (DoS), Distributed Denial of Service (DDoS), data leaks, and other security threats\n  - **Target Threat Protection (TTP)** helps protect against targeted attacks including ransomware, impersonation and spear-phishing emails that infiltrate organizations, exploit users, and steal IP and user entity data\n  - **URL Protect** tackles the threat of emails containing malicious links\n  - **Attachment Protect** reduces the threat from weaponized or malware-laden attachments used in ransomware, spear-phishing and other advanced attacks\n  - **Impersonation Protect** tackles the threat of malware-less social engineering-based email attacks, often called CEO fraud, impersonation, whaling or business email compromise\n  - **Internal Email Protect** helps reduce the risk of a breach or damaging security incident spreading throughout the organization\n\n* **Information Protection**\n\n  - **Content Control & DLP** integrated into customer’s email service to enforce the organization’s content security policies\n  - **Secure Messaging** allows employees or administrators to initiate secure email delivery directly from the email client\n  - **Large File Send** enables PC and Mac users to send and receive large files, up to 2GB in size, directly within Outlook, a native Mac application or the Mimecast Personal Portal (web application)\n\n* **Email Continuity** service protects against on-premises, cloud and hybrid primary email system downtime with always-on email access for employees via desktop, web, and mobile applications\n* **Cloud Archive** offers storage of email, files and instant messaging conversations and associated critical metadata that identifies if activity is sent or received\n* **Web Security** is a cloud-based service that protects against malicious web activity initiated by user action or malware (ransomware and other malicious software)\n* **Security Awareness Training**",
+        "CSP_POC_Name": "Jon Goodwin",
+        "CSP_POC_Email": "fedramp@mimecast.com",
+        "Fedramp_Ready_Date": "2020-09-04T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
