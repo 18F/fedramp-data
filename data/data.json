@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-09-15T04:40:50.408Z",
+    "Created_At": "2020-09-16T04:40:50.546Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -7971,15 +7971,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2019-09-09T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-09-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-09-09T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Authorizing_Subagency": "National Nuclear Security Administration / Nevada Field Office",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-03-26T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-03-28T04:00:00.000Z",
             "Authorizing_Agency": "Consumer Financial Protection Bureau",
@@ -8102,6 +8093,15 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "FirstNet",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-09-15T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-01-01T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-09-15T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "National Nuclear Security Administration / Nevada Field Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -9164,13 +9164,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2020-07-27T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-07-27T04:00:00.000Z",
-            "Authorizing_Agency": "Office of Personnel Management",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2018-09-14T04:00:00.000Z",
             "Letter_Expiration_Date": "2021-09-25T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-09-25T04:00:00.000Z",
@@ -9185,6 +9178,13 @@
             "Authorizing_Agency": "Department of the Interior",
             "Authorizing_Subagency": "Office of Natural Resources Revenue",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2021-03-09T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-09-09T04:00:00.000Z",
+            "Authorizing_Agency": "Office of Personnel Management",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -10703,7 +10703,7 @@
           "F1209051525"
         ],
         "CSP_Website": "https://www.docusign.com/products/clm",
-        "CSO_Description": "SpringCM is a secure cloud platform that manages contracts and all types of documents across desktop, mobile, and partner applications like Salesforce. SpringCM goes beyond standard contract and document management with advanced workflows that automate manual tasks and complex processes to speed time-to-revenue. Businesses use SpringCM to optimize collaboration and processes across internal departments, as well as with prospects and customers.",
+        "CSO_Description": "DocuSign CLM is a secure cloud platform that manages contracts and all types of documents across desktop, mobile, and partner applications like Salesforce. DocuSign CLM goes beyond standard contract and document management with advanced workflows that automate manual tasks and complex processes to speed time-to-revenue. Businesses use DocuSign CLM to optimize collaboration and processes across internal departments, as well as with prospects and customers.",
         "Announcement_Date": "2017-08-24T04:00:00.000Z",
         "CSP_POC_Name": "Ariel Companioni",
         "CSP_POC_Email": "FedRAMP@DocuSign.com",
@@ -12146,6 +12146,31 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Cisco Systems Inc.",
+        "Cloud_Service_Provider_Package": "Cisco Webex Collaboration for U.S. Government",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1734755703",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-04-22T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Cisco%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "CSP_Website": "https://www.ciscospark.com/",
+        "CSO_Description": "The Cisco Webex Collaboration for U.S. Government Platform is a Software as a Service collaboration offering designated for the sole use of U.S. federal, tribal, state, and local government customers; U.S. Government Contractors; and Department of Homeland Security Presidential Policy Directive-21 Critical Infrastructure entities. Webex Collaboration delivers customers with collaboration capabilities such as send messages, share files, schedule/join/host meetings, and hold white-boarding sessions in real time through a service that is reliable, secure and scalable to be consumed through the Webex Teams clients (web, desktop, mobile) and dedicated hardware endpoints.",
+        "CSP_POC_Name": "Deepa Mahendraker",
+        "CSP_POC_Email": "collab-usgov@cisco.com",
+        "FedRAMP_In-Process_Date": "2019-06-28T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "ServiceNow",
         "Cloud_Service_Provider_Package": "Service Automation Government Cloud Suite (Legacy)",
         "Path": "JAB",
@@ -12454,30 +12479,6 @@
         "CSP_POC_Name": "Deepak Nair",
         "CSP_POC_Email": "sdwan-g.info@cisco.com",
         "FedRAMP_In-Process_Date": "2020-02-18T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Cisco Systems Inc.",
-        "Cloud_Service_Provider_Package": "Cisco Webex Collaboration for U.S. Government",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1734755703",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Cisco%20Logo.png",
-        "Independent_Assessor": "Kratos",
-        "CSP_Website": "https://www.ciscospark.com/",
-        "CSO_Description": "The Cisco Webex Collaboration for U.S. Government Platform is a Software as a Service collaboration offering designated for the sole use of U.S. federal, tribal, state, and local government customers; U.S. Government Contractors; and Department of Homeland Security Presidential Policy Directive-21 Critical Infrastructure entities. Webex Collaboration delivers customers with collaboration capabilities such as send messages, share files, schedule/join/host meetings, and hold white-boarding sessions in real time through a service that is reliable, secure and scalable to be consumed through the Webex Teams clients (web, desktop, mobile) and dedicated hardware endpoints.",
-        "CSP_POC_Name": "Deepa Mahendraker",
-        "CSP_POC_Email": "collab-usgov@cisco.com",
-        "FedRAMP_In-Process_Date": "2019-06-28T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -13002,7 +13003,7 @@
         "Impact_Level": "Moderate",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Mimecast%20Logo.png",
         "Independent_Assessor": "Schellman & Company, LLC",
-        "CSP_Website": "https://www.mimecast.com/microsites/federal-government/",
+        "CSP_Website": "https://www.mimecast.com/solutions/industries/federal-government/",
         "CSO_Description": "Mimecast solutions enable your organization to implement a cyber resilience strategy that secures your data and people by providing a world class, cloud-based email and web security, awareness training, and domain abuse and brand imitation protection.\n\nMimecast offering includes:\n\n* **Mimecast Email Security with Targeted Threat Protection** designed to protect inbound, outbound, and internal email from malware, spam, advanced persistent threats, email Denial of Service (DoS), Distributed Denial of Service (DDoS), data leaks, and other security threats\n  - **Target Threat Protection (TTP)** helps protect against targeted attacks including ransomware, impersonation and spear-phishing emails that infiltrate organizations, exploit users, and steal IP and user entity data\n  - **URL Protect** tackles the threat of emails containing malicious links\n  - **Attachment Protect** reduces the threat from weaponized or malware-laden attachments used in ransomware, spear-phishing and other advanced attacks\n  - **Impersonation Protect** tackles the threat of malware-less social engineering-based email attacks, often called CEO fraud, impersonation, whaling or business email compromise\n  - **Internal Email Protect** helps reduce the risk of a breach or damaging security incident spreading throughout the organization\n\n* **Information Protection**\n\n  - **Content Control & DLP** integrated into customer’s email service to enforce the organization’s content security policies\n  - **Secure Messaging** allows employees or administrators to initiate secure email delivery directly from the email client\n  - **Large File Send** enables PC and Mac users to send and receive large files, up to 2GB in size, directly within Outlook, a native Mac application or the Mimecast Personal Portal (web application)\n\n* **Email Continuity** service protects against on-premises, cloud and hybrid primary email system downtime with always-on email access for employees via desktop, web, and mobile applications\n* **Cloud Archive** offers storage of email, files and instant messaging conversations and associated critical metadata that identifies if activity is sent or received\n* **Web Security** is a cloud-based service that protects against malicious web activity initiated by user action or malware (ransomware and other malicious software)\n* **Security Awareness Training**",
         "CSP_POC_Name": "Jon Goodwin",
         "CSP_POC_Email": "fedramp@mimecast.com",
