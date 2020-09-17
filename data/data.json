@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-09-16T04:40:50.546Z",
+    "Created_At": "2020-09-17T04:40:50.641Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -12149,7 +12149,7 @@
         "Cloud_Service_Provider_Name": "Cisco Systems Inc.",
         "Cloud_Service_Provider_Package": "Cisco Webex Collaboration for U.S. Government",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "FR1734755703",
         "Service_Model": [
           "SaaS"
@@ -12163,8 +12163,21 @@
         "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Cisco%20Logo.png",
         "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "F1212191840",
+          "FR1823368486",
+          "F1605107897",
+          "F1604017885",
+          "F1511207635",
+          "FR1823149273",
+          "MSO365MT",
+          "F1508207205",
+          "F1305072116"
+        ],
         "CSP_Website": "https://www.ciscospark.com/",
         "CSO_Description": "The Cisco Webex Collaboration for U.S. Government Platform is a Software as a Service collaboration offering designated for the sole use of U.S. federal, tribal, state, and local government customers; U.S. Government Contractors; and Department of Homeland Security Presidential Policy Directive-21 Critical Infrastructure entities. Webex Collaboration delivers customers with collaboration capabilities such as send messages, share files, schedule/join/host meetings, and hold white-boarding sessions in real time through a service that is reliable, secure and scalable to be consumed through the Webex Teams clients (web, desktop, mobile) and dedicated hardware endpoints.",
+        "Announcement_Date": "2020-09-15T04:00:00.000Z",
         "CSP_POC_Name": "Deepa Mahendraker",
         "CSP_POC_Email": "collab-usgov@cisco.com",
         "FedRAMP_In-Process_Date": "2019-06-28T04:00:00.000Z",
@@ -12839,6 +12852,29 @@
         "CSP_POC_Email": "compliance@id.me",
         "FedRAMP_In-Process_Date": "2020-05-28T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Informatica LLC",
+        "Cloud_Service_Provider_Package": "Informatica Intelligent Cloud Services (IICS)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2029331613",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of State",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
+        "Authorizing_Agency": "Department of State",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Informatica%20Logo.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "www.informatica.com/publicsector",
+        "CSO_Description": "Government agencies need a better, faster, more reliable approach to integrate and deliver timely data and analytics to users and business systems that rely on data. Whether you’re delivering analytics, building a data warehouse, migrating a data warehouse to the cloud, or building real-time application processes, you need a high-performance, easy-to-use data integration service that connects to on-premises data sources, cloud applications, and cloud platforms to seamlessly integrate high volumes of data, so that you can get up and running quickly.\r\n\r\nFedRAMP IICS is a microservices-based, automated, AI-powered, and cloud-native data management solution. All of the FedRAMP IICS components and integrated Informatica solutions described below incorporate the CLAIRE™ artificial intelligence (AI) and machine learning engine, which leverages industry-leading metadata capabilities to accelerate and automate core data management and data governance functions. \r\n\r\nFedRAMP IICS includes support for both Cloud Data Integration and Cloud Application Integration:\r\n\n**Cloud Data Integration**\n\nBuilt on a next-generation, microservices-driven software as a service (SaaS), Informatica® Cloud Data Integration enables you to connect to industry-leading applications and data sources across on-premises and the cloud and allows you to integrate the data sources at scale. Optimize the performance of your development teams by employing a codeless UI to build new integrations using drag-and-drop interfaces, making complex integrations simple. Speed up new initiatives with pre-built templates to get teams up and running more quickly, even for very involved scenarios.  \n\n**Cloud Application Integration**\n\nInformatica® Cloud Application Integration (CAI) service offers a single, trusted solution to\r\nsupport any integration pattern, data set, user-type or endpoint to automate business processes, expedite transactions and enable real-time analytics. It is based on a modular, microservices based architecture for agile support of future business requirements. CAI supports multiple new and unique integration patterns, which include on-premises to cloud real-time data integration, real-time/B2B application integration, process orchestration, data synchronization, and more. Users can integrate multi-cloud and hybrid applications, without writing a single line of code. ",
+        "CSP_POC_Name": "Informatica FedRAMP Team",
+        "CSP_POC_Email": "fedramp@informatica.com",
+        "FedRAMP_In-Process_Date": "2020-09-15T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
