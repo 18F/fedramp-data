@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-09-21T04:40:50.590Z",
+    "Created_At": "2020-09-22T04:40:50.634Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -660,15 +660,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2019-09-12T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-09-12T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-09-12T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Authorizing_Letter_Last_Sign_Date": "2020-05-28T04:00:00.000Z",
             "Authorizing_Agency": "Nuclear Regulatory Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
@@ -687,6 +678,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-07-24T04:00:00.000Z",
             "Authorizing_Agency": "Department of Agriculture",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-08-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-08-07T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -1633,7 +1632,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Amazon%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.aws.amazon.com",
-        "CSO_Description": "AWS GovCloud (US) is an AWS Region designed to allow US government agencies and customers supporting the US government to move more sensitive workloads into the cloud. In addition to complying with FedRAMP requirements, the AWS GovCloud (US) framework adheres to U.S. International Traffic in Arms Regulations (ITAR) regulations. Additional information is available at [http://aws.amazon.com/govcloud-us/](http://aws.amazon.com/govcloud-us/).\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: Amazon API Gateway, Amazon AppStream 2.0, Amazon Athena, Amazon Aurora (MySQL), Amazon Aurora (Postgres), Amazon Cloud Directory, Amazon Cloudwatch, Amazon Cloudwatch Events, Amazon CloudWatch Logs, Amazon Comprehend, Amazon DynamoDB, Amazon ElastiCache, Amazon Elastic Block Store (EBS), Amazon Elastic Compute Cloud (EC2), Amazon Elastic Container Registry, Amazon Elastic Container Service, Amazon Elastic File System, Amazon Elastic MapReduce, Amazon Elasticsearch Service, Amazon Glacier, Amazon Guard Duty, Amazon Inspector, Amazon Kinesis Data Firehose, Amazon Kinesis Data Streams, Amazon Polly, Amazon Redshift, Amazon RDS (MariaDB, MySQL, Oracle, Postgres, SQL Server), Amazon Rekognition, Amazon Route 53, Amazon SageMaker, Amazon Simple Notification Service (SNS), Amazon Simple Queue Service (SQS), Amazon Simple Storage Service (S3), Amazon Simple Workflow Service (SWF), Amazon Transcribe, Amazon Translate, Amazon Virtual Private Cloud (VPC), Amazon WorkSpace, AWS CodeDeploy, AWS CloudFormation, AWS CloudTrail, AWS CodeBuild, AWS CodeCommit, AWS Config, AWS Database Migration Service, AWS Data Sync, AWS Direct Connect, AWS Directory Services, AWS Elastic Beanstalk, AWS Elemental MediaConvert, AWS Glue, AWS IoT Core, AWS IoT Device Manager, AWS IoT Greengrass, AWS Identity & Access Management (IAM), AWS Key Management Service (KMS), AWS Lambda, AWS License Manager, AWS Organizations, AWS Secrets Manager, AWS Serverless Application Repository, AWS Server Migration Service (SMS), AWS Service Catalog, AWS Snowball, AWS Snowball Edge, AWS Step Functions, AWS Trusted Advisor, AWS WAF",
+        "CSO_Description": "AWS GovCloud (US) is an AWS Region designed to allow US government agencies and customers supporting the US government to move more sensitive workloads into the cloud. In addition to complying with FedRAMP requirements, the AWS GovCloud (US) framework adheres to U.S. International Traffic in Arms Regulations (ITAR) regulations. Additional information is available at [http://aws.amazon.com/govcloud-us/](http://aws.amazon.com/govcloud-us/).\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: Amazon API Gateway, Amazon AppStream 2.0, Amazon Athena, Amazon Aurora (MySQL), Amazon Aurora (Postgres), Amazon Cloud Directory, Amazon Cloudwatch, Amazon Cloudwatch Events, Amazon CloudWatch Logs, Amazon Comprehend, Amazon DynamoDB, Amazon ElastiCache, Amazon Elastic Block Store (EBS), Amazon Elastic Compute Cloud (EC2), Amazon Elastic Container Registry, Amazon Elastic Container Service, Amazon Elastic File System, Amazon Elastic MapReduce, Amazon Elasticsearch Service, Amazon Glacier, Amazon Guard Duty, Amazon Inspector, Amazon Kinesis Data Firehose, Amazon Kinesis Data Streams, Amazon Polly, Amazon Redshift, Amazon RDS (MariaDB, MySQL, Oracle, Postgres, SQL Server), Amazon Rekognition, Amazon Route 53, Amazon SageMaker, Amazon Simple Notification Service (SNS), Amazon Simple Queue Service (SQS), Amazon Simple Storage Service (S3), Amazon Simple Workflow Service (SWF), Amazon Transcribe, Amazon Translate, Amazon Virtual Private Cloud (VPC), Amazon WorkSpace, AWS Batch, AWS Certificate Manager, AWS CodeDeploy, AWS CloudFormation, AWS CloudTrail, AWS CodeBuild, AWS CodeCommit, AWS Config, AWS Database Migration Service, AWS Data Sync, AWS Direct Connect, AWS Directory Services, AWS Elastic Beanstalk, AWS Elemental MediaConvert, AWS Glue, AWS IoT Core, AWS IoT Device Manager, AWS IoT Greengrass, AWS Identity & Access Management (IAM), AWS Key Management Service (KMS), AWS Lambda, AWS License Manager, AWS Organizations, AWS Secrets Manager, AWS Serverless Application Repository, AWS Server Migration Service (SMS), AWS Service Catalog, AWS Snowball, AWS Snowball Edge, AWS Step Functions, AWS Trusted Advisor, AWS WAF",
         "Announcement_Date": "2016-06-21T04:00:00.000Z",
         "CSP_POC_Name": "AWS FedRAMP Compliance Team",
         "CSP_POC_Email": "aws-compliance-fedramp@amazon.com",
@@ -2283,15 +2282,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2019-09-12T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-09-12T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-09-12T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-03-26T04:00:00.000Z",
             "Letter_Expiration_Date": "2023-03-25T04:00:00.000Z",
             "Authorizing_Agency": "General Services Administration",
@@ -2305,6 +2295,14 @@
             "Authorizing_Agency": "Department of Education",
             "Authorizing_Subagency": "Federal Student Aid",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-08-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-08-07T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -3084,7 +3082,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Amazon%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.aws.amazon.com",
-        "CSO_Description": "Amazon US East/West is a multi-tenant public cloud for Federal, State and Local Government customers, as well as commercial customers, designed to meet a wide range of regulatory requirements, to include government compliance and security requirements. AWS leverages the Infrastructure-as-a-Service (IaaS) cloud computing model, which enables convenient, on-demand Internet access to a shared pool of configurable computing resources such as servers, storage, network infrastructure, and various other web services. Customers can rapidly provision or release computing resources on demand.\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: Amazon API Gateway, Amazon AppStream 2.0, Amazon Athena, Amazon Aurora (MySQL), Amazon Chime, Amazon Cloud Directory, Amazon CloudFront, Amazon CloudWatch, Amazon CloudWatch Logs, Amazon Cognito, Amazon Comprehend, Amazon Connect, Amazon DynamoDB, Amazon ElastiCache, Amazon Elastic Block Store (EBS), Amazon Elastic Container Registry (ECR), Amazon Elastic Container Service (ECS), Amazon Elastic File System (EFS), Amazon Elastic Compute Cloud (EC2), Amazon Elastic MapReduce, Amazon Elasticsearch, Amazon Glacier, Amazon Inspector, Amazon Guard Duty, Amazon Kinesis Data Firehose, Amazon Kinesis Data Streams, Amazon Macie, Amazon PinPoint, Amazon Polly, Amazon QuickSight, Amazon Redshift, Amazon RDS (MariaDB, MySQL, Oracle, Postgres, SQL Server), Amazon Rekognition, Amazon Route 53, Amazon SageMaker, Amazon Simple Email Service (SES), Amazon Simple Notification Service (SNS), Amazon Simple Queue Service (SQS), Amazon Simple Storage Service (S3), Amazon Simple Workflow Service (SWF), Amazon Transcribe, Amazon Translate, Amazon Virtual Private Cloud (VPC), AWS Batch, AWS CloudFormation, AWS CloudTrail, AWS CodeBuild, AWS CodeCommit, AWS CodeDeploy, AWS Config, AWS Database Migration Service, AWS Data Sync, AWS Direct Connect, AWS Directory Service, AWS Elastic Beanstalk, AWS Glue, AWS Identity & Access Management (IAM), AWS IoT Core, AWS IoT Device Manager, AWS IoT Greengrass, AWS Key Management Service (KMS), AWS Lambda, AWS License Manager, AWS Managed Service, AWS Organizations, AWS Secrets Manager, AWS Serverless Application Repository, AWS Service Catalog, AWS Server Migration Service (SMS), AWS Shield (Standard and Advanced), AWS Snowball, AWS Snowball Edge, AWS Step Functions, AWS Trusted Advisor, AWS WAF, AWS WorkDocs, AWS WorkSpaces, CloudWatch Events",
+        "CSO_Description": "Amazon US East/West is a multi-tenant public cloud for Federal, State and Local Government customers, as well as commercial customers, designed to meet a wide range of regulatory requirements, to include government compliance and security requirements. AWS leverages the Infrastructure-as-a-Service (IaaS) cloud computing model, which enables convenient, on-demand Internet access to a shared pool of configurable computing resources such as servers, storage, network infrastructure, and various other web services. Customers can rapidly provision or release computing resources on demand.\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: Amazon API Gateway, Amazon AppStream 2.0, Amazon Athena, Amazon Aurora (MySQL), Amazon Chime, Amazon Cloud Directory, Amazon CloudFront, Amazon CloudWatch, Amazon CloudWatch Logs, Amazon Cognito, Amazon Comprehend, Amazon Connect, Amazon DynamoDB, Amazon ElastiCache, Amazon Elastic Block Store (EBS), Amazon Elastic Container Registry (ECR), Amazon Elastic Container Service (ECS), Amazon Elastic File System (EFS), Amazon Elastic Compute Cloud (EC2), Amazon Elastic MapReduce, Amazon Elasticsearch, Amazon Glacier, Amazon Inspector, Amazon Guard Duty, Amazon Kinesis Data Firehose, Amazon Kinesis Data Streams, Amazon Macie, Amazon PinPoint, Amazon Polly, Amazon QuickSight, Amazon Redshift, Amazon RDS (MariaDB, MySQL, Oracle, Postgres, SQL Server), Amazon Rekognition, Amazon Route 53, Amazon SageMaker, Amazon Simple Email Service (SES), Amazon Simple Notification Service (SNS), Amazon Simple Queue Service (SQS), Amazon Simple Storage Service (S3), Amazon Simple Workflow Service (SWF), Amazon Transcribe, Amazon Translate, Amazon Virtual Private Cloud (VPC), AWS Batch, AWS Certificate Manager, AWS CloudFormation, AWS CloudTrail, AWS CodeBuild, AWS CodeCommit, AWS CodeDeploy, AWS Config, AWS Control Tower, AWS Database Migration Service, AWS Data Sync, AWS Direct Connect, AWS Directory Service, AWS Elastic Beanstalk, AWS Glue, AWS Identity & Access Management (IAM), AWS IoT Core, AWS IoT Device Manager, AWS IoT Greengrass, AWS Key Management Service (KMS), AWS Lambda, AWS License Manager, AWS Managed Service, AWS Organizations, AWS Secrets Manager, AWS Security Hub, AWS Serverless Application Repository, AWS Service Catalog, AWS Server Migration Service (SMS), AWS Shield (Standard and Advanced), AWS Snowball, AWS Snowball Edge, AWS Step Functions, AWS Trusted Advisor, AWS WAF, AWS WorkDocs, AWS WorkSpaces, CloudWatch Events",
         "Announcement_Date": "2013-05-01T04:00:00.000Z",
         "CSP_POC_Name": "AWS FedRAMP Compliance Team",
         "CSP_POC_Email": "aws-compliance-fedramp@amazon.com",
@@ -4238,6 +4236,12 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Telecommunications and Information Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-08-03T04:00:00.000Z",
+            "Authorizing_Agency": "U.S. Election Assistance Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/EAC%20Logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -6875,6 +6879,12 @@
             "Authorizing_Subagency": "FirstNet",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-08-03T04:00:00.000Z",
+            "Authorizing_Agency": "U.S. Election Assistance Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/EAC%20Logo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -8653,7 +8663,14 @@
         "CSP_POC_Name": "Rosa Smothers",
         "CSP_POC_Email": "federal@knowbe4.com",
         "FedRAMP_In-Process_Date": "2019-02-12T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2020-08-03T04:00:00.000Z",
+            "Authorizing_Agency": "U.S. Election Assistance Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/EAC%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "TalaTek, LLC",
@@ -13785,17 +13802,17 @@
         "Accreditation_Date": "2015-12-23T05:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Blue%20Canopy%20Logo2.jpg",
         "Description": "Blue Canopy is a certified FedRAMP 3PAO, able to assist both CSPs and government agencies in meeting FedRAMP compliance. Authorized FedRAMP Services:\n* **Consulting** – Security planning, development, and implementation\n* **Pre-Assessment** – Preliminary review and preparation\n* **Assessment** – Multilevel security testing and assessment\n* **Continuous Monitoring** – Ensuring FedRAMP compliance",
-        "POC_Name": "Kristen Arora",
-        "POC_Email": "bcfedramp@bluecanopy.com",
-        "website": "www.bluecanopy.com",
+        "POC_Name": "Lisa Ortiz",
+        "POC_Email": "FedRAMP_PMO@jacobs.com",
+        "website": "www.jacobs.com",
         "Remediation": "N",
-        "Founded": 2001,
-        "Primary_Office_Locations": "11091 Sunset Hills Road Suite 777, Reston, VA 20190",
+        "Founded": 1947,
+        "Primary_Office_Locations": "2551 Dulles View Drive, Suite 700, Herndon, VA 20171",
         "FedRAMP_Assessed": "* Micropact",
         "Provide_Consulting_Services": "Y",
         "Description_of_Consulting_Services": "Big Data Analytics, Big Data Platform as a Service (PaaS) , trusted Cloud Services Broker (CSB), AWS Standard Level Consulting Partner since 2013, AWS HIPAA Associate, certified and accredited to deploy to AWS GovCloud (the ITAR compliant and most secure AWS cloud region), Mobility Enablement (strategy, architecture, app dev, security), Agile Development, Mission Support Services (Trusted Advisory Services, Mission Specific IT Services, Prepare the Warfighter), Cyber Security (CISO Advisory Services, Security Engineering/innovation, Cyber Ops & Analytics, Persistent Risk Management, CyForce Solutions.",
         "Consulting_Services_To": "* Adobe Connect Managed Services (ACMS-EW)\n* Adobe Connect Managed Services (ACMS-GC)\n* Adobe Experience Manager Managed Services (AEMMS-EW)\n* Adobe Experience Manager Managed Services (AEMMS-GC)",
-        "Additional_Cyber_Frameworks": "SAP® Consulting Services Partner"
+        "Additional_Cyber_Frameworks": "SAP® Consulting Services Partner\n\n* NIST Cybersecurity Framework (CSF)\n* NIST Risk Management Framework (RMF)"
       },
       {
         "Name": "Booz Allen Hamilton",
