@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-09-22T04:40:50.634Z",
+    "Created_At": "2020-09-23T04:40:50.780Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2141,7 +2141,7 @@
         "CSP_Website": "https://www.maximus.com/federal/business-operations/citizen-engagement-services",
         "CSO_Description": "The MAXIMUS Genesys Engagement Platform, brought to you by proven and trusted contact center leaders, is an enterprise-class omnichannel platform-as-a-service (PAAS) cloud contact center solution.\n\nThe Engagement Platform leverages Genesys technology to provide the omnichannel functionality required for an optimized citizen engagement experience that enables citizens to communicate with your agency across all channels – including voice, email, SMS and web chat. The Engagement Platform also provides key additional modular features such as workforce management, recording and quality management, analytics, AI and a robust reporting framework. The platform features a full range of secure capabilities to customize and operate contact centers of any size, supporting organizations’ security, accessibility and privacy requirements. With the Engagement Platform, agencies can leverage a broad range of proven and certified implementation partners to guide and enable their contact center solution.",
         "Announcement_Date": "2016-10-03T04:00:00.000Z",
-        "CSP_POC_Name": "Daniel Lee",
+        "CSP_POC_Name": "Scott Clarke",
         "CSP_POC_Email": "federalservices@maximus.com",
         "FedRAMP_In-Process_Date": "2016-05-12T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
@@ -11557,7 +11557,7 @@
           "F1508207205",
           "FR1823447014"
         ],
-        "CSP_Website": "elastic.co",
+        "CSP_Website": "elastic.co/federal",
         "CSO_Description": "Elastic Cloud is a managed cloud service authorized at the FedRAMP Moderate impact level and available on AWS GovCloud (US). With solutions for enterprise search, observability, and security on one platform, Elastic Cloud gets users to market quickly, simplifies operations, ensures security controls, and reduces risk. Elastic runs the infrastructure so users can focus on the insights they need to achieve their mission. Deploy Elastic Cloud today to start searching and visualizing data, unifying logs and metrics and APM data for comprehensive visibility into critical systems, and detecting and responding to threats.",
         "Announcement_Date": "2020-07-22T04:00:00.000Z",
         "CSP_POC_Name": "Elastic FedRAMP Team",
@@ -13106,6 +13106,25 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "NetDocuments Software, Inc.",
+        "Cloud_Service_Provider_Package": "NetDocuments Document Management System (DMS)",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2028977567",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/NetDocuments%20Logo.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "[www.NetDocuments.com](www.netdocuments.com/?utm_source=fedramp&utm_medium=referral&utm_campaign=directorylisting)",
+        "CSO_Description": "Storing, managing, and protecting millions of documents that are created and shared by thousands of people is never easy. All too often, they become a chaotic, obtrusive, and risky burden on your organization. NetDocuments changes the equation, with a content platform that removes the barriers and transforms all your documents into an unstoppable engine for collaboration, productivity, growth, and inspired work—without limitations or restrictions.  With NetDocuments, millions of scattered documents become one source of unified insights. Your content management processes and workflows make the leap from intuitive to invisible. The full power of your collective knowledge and past work becomes available wherever your people need it. And every document gets the industry’s best protection against any type of threat—from careless employees to nation state attacks. So, when you imagine a future where your content is always safe, organized, compliant, and available to inspire your best work, NetDocuments is ready to take you there.",
+        "CSP_POC_Name": "David Delker",
+        "CSP_POC_Email": "fedramp@netdocuments.com",
+        "Fedramp_Ready_Date": "2020-09-15T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Okta",
         "Cloud_Service_Provider_Package": "Okta IDaaS FedCloud (Moderate IL4)\r\n",
         "Designation": "FedRAMP Ready",
@@ -13203,7 +13222,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/ORock%20Technologies%20Logo.png",
         "Independent_Assessor": "Schellman & Company, LLC",
         "CSP_Website": "http://orocktech.com",
-        "CSO_Description": "ORock HighCloud is an enterprise-grade open source cloud environment built specifically to meet the data security needs of U.S. Federal Government agencies. This Government-Only Community Cloud implements more than 421 High Baseline security controls to support Federal cloud services requirements for Infrastructure as a Service (IaaS) and Platform as a Service (PaaS). It provides secure, compliant, scalable access to computing, storage, virtualization, networking, and performance monitoring resources.\rArchitected to meet the most stringent requirements for security, performance, cost predictability, and control, ORock HighCloud utilizes ORock’s private, carrier-grade fiber optic backbone network with dedicated connectivity between all points of presence and no upstream cloud service provider (CSP). Additional security features include ORock’s use of Red Hat Security Enhanced Linux, FIPS 140-2 encryption, and SOC 2 Type II data centers. Managed services are provided entirely by U.S. citizens in ORock’s U.S.-based Network Operations Center (NOC) and Security Operations Center (SOC).\rAs a Red Hat Premier Certified Cloud and Service Provider (CCSP), ORock Technologies architected ORock HighCloud as a “pure-play” Red Hat cloud and incorporated a full suite of open source solutions for enhanced flexibility, interoperability, security, and control. The Red Hat Cloud Suite includes: Red Hat Enterprise Linux; Red Hat OpenStack Platform; Red Hat OpenShift, Red Hat Virtualization; Red Hat Ceph Storage; Red Hat Ansible Tower; Red Hat Satellite; and all associated cloud APIs. It is the first and only cloud environment built on Red Hat OpenStack Platform and Red Hat OpenShift Container Platform to achieve FedRAMP Ready status as a High Baseline cloud.\rA Federal Small Business, ORock Technologies provides infrastructure, cloud, and compliance services to U.S. government agencies and commercial organizations in highly regulated industries. ORock HighCloud services feature a flat-rate billing model for data transport with no egress fees for predictable costs and lower total cost of ownership, as well as extensive use of enterprise-grade open source technologies (hardened and supported by Red Hat) to increase flexibility and minimize vendor lock-in.\rAdditional information is available at [http://orocktech.com](http://orocktech.com/) .",
+        "CSO_Description": "ORock HighCloud is an enterprise-grade open source cloud environment built specifically to meet the data security needs of U.S. Federal Government agencies. This Government-Only Community Cloud implements more than 421 High Baseline security controls to support Federal cloud services requirements for Infrastructure as a Service (IaaS) and Platform as a Service (PaaS). It provides secure, compliant, scalable access to computing, storage, virtualization, networking, and performance monitoring resources.\nArchitected to meet the most stringent requirements for security, performance, cost predictability, and control, ORock HighCloud utilizes ORock’s private, carrier-grade fiber optic backbone network with dedicated connectivity between all points of presence and no upstream cloud service provider (CSP). Additional security features include ORock’s use of Red Hat Security Enhanced Linux, FIPS 140-2 encryption, and SOC 2 Type II data centers. Managed services are provided entirely by U.S. citizens in ORock’s U.S.-based Network Operations Center (NOC) and Security Operations Center (SOC).\nAs a Red Hat Premier Certified Cloud and Service Provider (CCSP), ORock Technologies architected ORock HighCloud as a “pure-play” Red Hat cloud and incorporated a full suite of open source solutions for enhanced flexibility, interoperability, security, and control. The Red Hat Cloud Suite includes: Red Hat Enterprise Linux; Red Hat OpenStack Platform; Red Hat OpenShift, Red Hat Virtualization; Red Hat Ceph Storage; Red Hat Ansible Tower; Red Hat Satellite; and all associated cloud APIs. It is the first and only cloud environment built on Red Hat OpenStack Platform and Red Hat OpenShift Container Platform to achieve FedRAMP Ready status as a High Baseline cloud.\nA Federal Small Business, ORock Technologies provides infrastructure, cloud, and compliance services to U.S. government agencies and commercial organizations in highly regulated industries. ORock HighCloud services feature a flat-rate billing model for data transport with no egress fees for predictable costs and lower total cost of ownership, as well as extensive use of enterprise-grade open source technologies (hardened and supported by Red Hat) to increase flexibility and minimize vendor lock-in.\nAdditional information is available at [http://orocktech.com](http://orocktech.com/) .",
         "CSP_POC_Name": "John Conniff",
         "CSP_POC_Email": "fedramp@orocktech.com",
         "Fedramp_Ready_Date": "2019-10-02T04:00:00.000Z",
@@ -13798,23 +13817,6 @@
         "Additional_Cyber_Frameworks": "* PCI DSS\n* ISO 27001\n* HITRUST\n* HIPAA/HITECH\n* FISMA\n* SOC 1/SSAE 16\n* SOC 2/AT 101\n* ISAE 3402"
       },
       {
-        "Name": "Blue Canopy Group, LLC",
-        "Accreditation_Date": "2015-12-23T05:00:00.000Z",
-        "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Blue%20Canopy%20Logo2.jpg",
-        "Description": "Blue Canopy is a certified FedRAMP 3PAO, able to assist both CSPs and government agencies in meeting FedRAMP compliance. Authorized FedRAMP Services:\n* **Consulting** – Security planning, development, and implementation\n* **Pre-Assessment** – Preliminary review and preparation\n* **Assessment** – Multilevel security testing and assessment\n* **Continuous Monitoring** – Ensuring FedRAMP compliance",
-        "POC_Name": "Lisa Ortiz",
-        "POC_Email": "FedRAMP_PMO@jacobs.com",
-        "website": "www.jacobs.com",
-        "Remediation": "N",
-        "Founded": 1947,
-        "Primary_Office_Locations": "2551 Dulles View Drive, Suite 700, Herndon, VA 20171",
-        "FedRAMP_Assessed": "* Micropact",
-        "Provide_Consulting_Services": "Y",
-        "Description_of_Consulting_Services": "Big Data Analytics, Big Data Platform as a Service (PaaS) , trusted Cloud Services Broker (CSB), AWS Standard Level Consulting Partner since 2013, AWS HIPAA Associate, certified and accredited to deploy to AWS GovCloud (the ITAR compliant and most secure AWS cloud region), Mobility Enablement (strategy, architecture, app dev, security), Agile Development, Mission Support Services (Trusted Advisory Services, Mission Specific IT Services, Prepare the Warfighter), Cyber Security (CISO Advisory Services, Security Engineering/innovation, Cyber Ops & Analytics, Persistent Risk Management, CyForce Solutions.",
-        "Consulting_Services_To": "* Adobe Connect Managed Services (ACMS-EW)\n* Adobe Connect Managed Services (ACMS-GC)\n* Adobe Experience Manager Managed Services (AEMMS-EW)\n* Adobe Experience Manager Managed Services (AEMMS-GC)",
-        "Additional_Cyber_Frameworks": "SAP® Consulting Services Partner\n\n* NIST Cybersecurity Framework (CSF)\n* NIST Risk Management Framework (RMF)"
-      },
-      {
         "Name": "Booz Allen Hamilton",
         "Accreditation_Date": "2014-07-21T04:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/BAH%20Logo.jpg",
@@ -14085,6 +14087,23 @@
         "Description_of_Consulting_Services": "ITC has a proven approach to providing advisory and assessment services by leveraging our deep understanding of various regulatory compliance frameworks (DIACAP, NIST RMF, and FedRAMP SAF). We offer the following services to assist federal agencies and CSPs in preparing for FedRAMP authorization:\n\n* FedRAMP Readiness Assessment\n* FedRAMP Advisory and Consulting Services\n* 3PAO Assessment\n* Continuous Monitoring\n* Penetration Testing",
         "Consulting_Services_To": "None",
         "Additional_Cyber_Frameworks": "* NIST RMF\n* ISO 17020"
+      },
+      {
+        "Name": "Jacobs",
+        "Accreditation_Date": "2015-12-23T05:00:00.000Z",
+        "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Jacobs%20Logo.png",
+        "Description": "Blue Canopy is a certified FedRAMP 3PAO, able to assist both CSPs and government agencies in meeting FedRAMP compliance. Authorized FedRAMP Services:\n* **Consulting** – Security planning, development, and implementation\n* **Pre-Assessment** – Preliminary review and preparation\n* **Assessment** – Multilevel security testing and assessment\n* **Continuous Monitoring** – Ensuring FedRAMP compliance",
+        "POC_Name": "Lisa Ortiz",
+        "POC_Email": "FedRAMP_PMO@jacobs.com",
+        "website": "www.jacobs.com",
+        "Remediation": "N",
+        "Founded": 1947,
+        "Primary_Office_Locations": "2551 Dulles View Drive, Suite 700, Herndon, VA 20171",
+        "FedRAMP_Assessed": "* Micropact",
+        "Provide_Consulting_Services": "Y",
+        "Description_of_Consulting_Services": "Big Data Analytics, Big Data Platform as a Service (PaaS) , trusted Cloud Services Broker (CSB), AWS Standard Level Consulting Partner since 2013, AWS HIPAA Associate, certified and accredited to deploy to AWS GovCloud (the ITAR compliant and most secure AWS cloud region), Mobility Enablement (strategy, architecture, app dev, security), Agile Development, Mission Support Services (Trusted Advisory Services, Mission Specific IT Services, Prepare the Warfighter), Cyber Security (CISO Advisory Services, Security Engineering/innovation, Cyber Ops & Analytics, Persistent Risk Management, CyForce Solutions.",
+        "Consulting_Services_To": "* Adobe Connect Managed Services (ACMS-EW)\n* Adobe Connect Managed Services (ACMS-GC)\n* Adobe Experience Manager Managed Services (AEMMS-EW)\n* Adobe Experience Manager Managed Services (AEMMS-GC)",
+        "Additional_Cyber_Frameworks": "SAP® Consulting Services Partner\n\n* NIST Cybersecurity Framework (CSF)\n* NIST Risk Management Framework (RMF)"
       },
       {
         "Name": "KPMG, LLP",
