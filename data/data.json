@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-09-23T04:40:50.780Z",
+    "Created_At": "2020-09-24T04:40:50.516Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2816,6 +2816,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-06-26T04:00:00.000Z",
             "Authorizing_Agency": "Social Security Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-09-23T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-09-23T04:00:00.000Z",
+            "Authorizing_Agency": "Pretrial Services Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PSA%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -7614,19 +7621,18 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-03-26T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-03-31T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-03-26T04:00:00.000Z",
-            "Authorizing_Agency": "Pretrial Services Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PSA%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-05-31T04:00:00.000Z",
             "Letter_Expiration_Date": "2023-05-31T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-05-27T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Treasury",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-09-23T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-09-23T04:00:00.000Z",
+            "Authorizing_Agency": "Pretrial Services Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PSA%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -12181,6 +12187,34 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Trello",
+        "Cloud_Service_Provider_Package": "Trello Enterprise Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2028534270",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Li-SaaS",
+        "Original_Authorization_Date": "2020-09-15T04:00:00.000Z",
+        "Sponsoring_Agency": "General Services Administration ",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+        "Authorizing_Agency": "General Services Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Trello%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
+        "CSP_Website": "https://trello.com/home",
+        "CSO_Description": "Trello, an Atlassian product, is a visual collaboration tool that creates a shared perspective on any project. With an easy-to-grasp layout of boards, lists, and cards, Trello gives teams a shared workspace for projects of all kinds. Teamwork gets even more productive with automation and integrations with 150+ top work tools. Organize and manage work across your organization in a flexible and rewarding way—Trello is available via web or dedicated apps across desktop and mobile platforms.",
+        "Announcement_Date": "2020-09-23T04:00:00.000Z",
+        "CSP_POC_Name": "Nick Miller",
+        "CSP_POC_Email": "fedramp@atlassian.com",
+        "FedRAMP_In-Process_Date": "2020-07-10T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "ServiceNow",
         "Cloud_Service_Provider_Package": "Service Automation Government Cloud Suite (Legacy)",
         "Path": "JAB",
@@ -12422,6 +12456,29 @@
         "CSP_POC_Name": "Terra Compliance Team",
         "CSP_POC_Email": "fedramp@broadinstitute.org",
         "FedRAMP_In-Process_Date": "2020-03-10T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "CGI Federal",
+        "Cloud_Service_Provider_Package": "Momentum® Enterprise Suite",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2022243058",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Justice",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+        "Authorizing_Agency": "Department of Justice",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CGI%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "CSP_Website": "https://www.cgi.com/en/solutions/momentum-federal-erp",
+        "CSO_Description": "CGI’s Momentum® is a market-leading, full-featured, flexible web-based system built to support the full federal financial, budget, asset and procurement management lifecycles. Designed specifically for federal business operations, CGI’s Momentum® Enterprise Solution helps federal IT leaders fulfill federal mandates, in an agile and cost-effective way. With zero expensive customizations or software extensions, Momentum is a transparent, accountable and proven solution that comes out-of-the-box ready to strengthen your agency’s ability to maximize taxpayer dollars and bolster its diverse business processes.",
+        "CSP_POC_Name": "Kerry Canfield",
+        "CSP_POC_Email": "Momentum.Support@cgifederal.com",
+        "FedRAMP_In-Process_Date": "2020-09-22T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -13117,7 +13174,7 @@
         "Impact_Level": "Moderate",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/NetDocuments%20Logo.png",
         "Independent_Assessor": "Schellman & Company, LLC",
-        "CSP_Website": "[www.NetDocuments.com](www.netdocuments.com/?utm_source=fedramp&utm_medium=referral&utm_campaign=directorylisting)",
+        "CSP_Website": "www.netdocuments.com/?utm_source=fedramp&utm_medium=referral&utm_campaign=directorylisting",
         "CSO_Description": "Storing, managing, and protecting millions of documents that are created and shared by thousands of people is never easy. All too often, they become a chaotic, obtrusive, and risky burden on your organization. NetDocuments changes the equation, with a content platform that removes the barriers and transforms all your documents into an unstoppable engine for collaboration, productivity, growth, and inspired work—without limitations or restrictions.  With NetDocuments, millions of scattered documents become one source of unified insights. Your content management processes and workflows make the leap from intuitive to invisible. The full power of your collective knowledge and past work becomes available wherever your people need it. And every document gets the industry’s best protection against any type of threat—from careless employees to nation state attacks. So, when you imagine a future where your content is always safe, organized, compliant, and available to inspire your best work, NetDocuments is ready to take you there.",
         "CSP_POC_Name": "David Delker",
         "CSP_POC_Email": "fedramp@netdocuments.com",
@@ -13596,29 +13653,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Trello",
-        "Cloud_Service_Provider_Package": "Trello Enterprise Cloud",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2028534270",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Li-SaaS",
-        "Sponsoring_Agency": "General Services Administration ",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-        "Authorizing_Agency": "General Services Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Trello%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://trello.com/home",
-        "CSO_Description": "Trello, an Atlassian product, is a visual collaboration tool that creates a shared perspective on any project. With an easy-to-grasp layout of boards, lists, and cards, Trello gives teams a shared workspace for projects of all kinds. Teamwork gets even more productive with automation and integrations with 150+ top work tools. Organize and manage work across your organization in a flexible and rewarding way—Trello is available via web or dedicated apps across desktop and mobile platforms.",
-        "CSP_POC_Name": "Nick Miller",
-        "CSP_POC_Email": "fedramp@atlassian.com",
-        "FedRAMP_In-Process_Date": "2020-07-10T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Veracode",
         "Cloud_Service_Provider_Package": "Veracode Application Security Services System",
         "Path": "Agency",
@@ -14092,7 +14126,7 @@
         "Name": "Jacobs",
         "Accreditation_Date": "2015-12-23T05:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Jacobs%20Logo.png",
-        "Description": "Blue Canopy is a certified FedRAMP 3PAO, able to assist both CSPs and government agencies in meeting FedRAMP compliance. Authorized FedRAMP Services:\n* **Consulting** – Security planning, development, and implementation\n* **Pre-Assessment** – Preliminary review and preparation\n* **Assessment** – Multilevel security testing and assessment\n* **Continuous Monitoring** – Ensuring FedRAMP compliance",
+        "Description": "Jacobs is a certified FedRAMP 3PAO, able to assist both CSPs and government agencies in meeting FedRAMP compliance. Authorized FedRAMP Services:\n\n* **Consulting** – Security planning, development, and implementation\n* **Pre-Assessment** – Preliminary review and preparation\n* **Assessment** – Multilevel security testing and assessment\n* **Continuous Monitoring** – Ensuring FedRAMP compliance",
         "POC_Name": "Lisa Ortiz",
         "POC_Email": "FedRAMP_PMO@jacobs.com",
         "website": "www.jacobs.com",
