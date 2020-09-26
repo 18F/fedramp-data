@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-09-25T04:40:50.577Z",
+    "Created_At": "2020-09-26T04:40:50.482Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -8578,6 +8578,13 @@
             "Authorizing_Agency": "Department of Energy",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-09-23T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-09-23T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Housing and Urban Development",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHUD-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -9014,37 +9021,6 @@
         "CSP_POC_Name": "Benjamin Card",
         "CSP_POC_Email": "fedramp@sirsidynix.com",
         "FedRAMP_In-Process_Date": "2018-11-14T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Blackboard",
-        "Cloud_Service_Provider_Package": "Blackboard Learn SaaS",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1506076709",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2019-09-26T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Defense",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-        "Authorizing_Agency": "Department of Defense",
-        "Authorizing_Subagency": "National Geospatial-Intelligence Agency",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Blackboard%20Logo.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866",
-          "AGENCYAMAZONEW",
-          "FR1807853629"
-        ],
-        "CSP_Website": "www.blackboard.com",
-        "CSO_Description": "Blackboard’s Learn SaaS solution offers government and military agencies next-generation online, social and mobile tools that create a continuous learning environment, built around peer-to-peer interaction, content and discussions.",
-        "Announcement_Date": "2020-04-21T04:00:00.000Z",
-        "CSP_POC_Name": "Michael Ball",
-        "CSP_POC_Email": "Michael.ball@blackboard.com",
-        "FedRAMP_In-Process_Date": "2019-07-24T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -10173,7 +10149,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "McAfee",
-        "Cloud_Service_Provider_Package": "MVISION Cloud (CASB, SWG, SASE)",
+        "Cloud_Service_Provider_Package": "MVISION Cloud",
         "Path": "JAB",
         "Designation": "Compliant",
         "Package_ID": "F1506096710",
@@ -12250,6 +12226,37 @@
         "CSP_POC_Name": "Nick Miller",
         "CSP_POC_Email": "fedramp@atlassian.com",
         "FedRAMP_In-Process_Date": "2020-07-10T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Blackboard",
+        "Cloud_Service_Provider_Package": "Blackboard Learn SaaS",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1506076709",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-09-15T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Defense",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+        "Authorizing_Agency": "Department of Defense",
+        "Authorizing_Subagency": "National Geospatial-Intelligence Agency",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Blackboard%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "AGENCYAMAZONEW",
+          "FR1807853629"
+        ],
+        "CSP_Website": "www.blackboard.com",
+        "CSO_Description": "Blackboard’s Learn SaaS solution offers government and military agencies next-generation online, social and mobile tools that create a continuous learning environment, built around peer-to-peer interaction, content and discussions.",
+        "Announcement_Date": "2020-04-21T04:00:00.000Z",
+        "CSP_POC_Name": "Michael Ball",
+        "CSP_POC_Email": "Michael.ball@blackboard.com",
+        "FedRAMP_In-Process_Date": "2019-07-24T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
