@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-10-05T04:40:50.874Z",
+    "Created_At": "2020-10-06T04:40:50.412Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4394,6 +4394,13 @@
             "Authorizing_Subagency": "Centers for Disease Control and Prevention",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-09-22T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-09-22T04:00:00.000Z",
+            "Authorizing_Agency": "Administrative Office of the United States Courts",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US%20Courts%20Logo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -8375,6 +8382,13 @@
             "Authorizing_Subagency": "National Telecommunications and Information Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-09-22T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-09-22T04:00:00.000Z",
+            "Authorizing_Agency": "Administrative Office of the United States Courts",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US%20Courts%20Logo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -12014,7 +12028,7 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Hybrid Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2020-04-22T04:00:00.000Z",
         "Sponsoring_Agency": "Department of Health and Human Services",
@@ -12164,7 +12178,7 @@
         "Cloud_Service_Provider_Name": "McAfee",
         "Cloud_Service_Provider_Package": "MVISION for Endpoint (ePO, EDR)",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "FR1935245314",
         "Service_Model": [
           "SaaS"
@@ -12178,8 +12192,14 @@
         "Authorizing_Subagency": "Immigration and Customs Enforcement",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/McAfee%20Logo.png",
         "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "F1206061353",
+          "F1603047866",
+          "F1512167750"
+        ],
         "CSP_Website": "www.mcafee.com",
         "CSO_Description": "MVISION for Endpoint platform includes a varies of cloud-assisting endpoint technologies, such as MVISION ePO, Real Protect Cloud, and MVISION EDR providing centralized management, cloud-assisted machine learning, and Endpoint Detection and Response (EDR).\n\n* [MVISION ePO](https://www.mcafee.com/enterprise/en-us/products/mvision-epo.html) is complete centralized management for using McAfee solution and enhance native security controls without the complexity of on-premises infrastructure. \n* [MVISION EDR](https://www.mcafee.com/enterprise/en-us/products/mvision-edr.html) provides Artificial Intelligence guided Endpoint, Detection, and Response solution to assist and force multiple your analyst capabilities when investigating attacks\n* Real Protect Cloud is a machine learning cloud which enhances’ our Endpoints pre-execution machine learning with post-execution to detect dynamic behavior based on machine learning algorithms derived from over a billion sensors and over 30 years of experience.",
+        "Announcement_Date": "2020-10-02T04:00:00.000Z",
         "CSP_POC_Name": "Arve Kjoelen",
         "CSP_POC_Email": "FedRAMP@mcafee.com",
         "FedRAMP_In-Process_Date": "2019-09-25T04:00:00.000Z",
