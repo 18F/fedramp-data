@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-10-07T04:40:50.711Z",
+    "Created_At": "2020-10-08T04:40:50.600Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2849,14 +2849,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2017-10-04T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-10-05T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-10-05T04:00:00.000Z",
-            "Authorizing_Agency": "General Services Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2018-01-11T05:00:00.000Z",
             "Letter_Expiration_Date": "2020-11-13T05:00:00.000Z",
             "Authorizing_Agency": "Department of Veterans Affairs",
@@ -2999,6 +2991,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-08-11T04:00:00.000Z",
             "Authorizing_Agency": "Pretrial Services Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PSA%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-09-28T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-09-28T04:00:00.000Z",
+            "Authorizing_Agency": "General Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -6412,117 +6411,6 @@
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "Food and Drug Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Cornerstone OnDemand",
-        "Cloud_Service_Provider_Package": "Unified Talent Management Suite (CUTMS)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1509217359",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2019-04-26T04:00:00.000Z",
-        "Original_Expiration_Date": "2022-04-26T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of the Treasury",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-        "Authorizing_Agency": "Department of the Treasury",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Cornerstone%20Logo.png",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW"
-        ],
-        "CSP_Website": "www.cornerstoneondemand.com",
-        "CSO_Description": "Cornerstone OnDemand (NASDAQ: CSOD) is the global leader in cloud-based learning and talent management software. The company’s solutions help organizations realize the potential of the modern workforce. From recruitment, onboarding, training and collaboration, to performance management, compensation, succession planning and analytics, Cornerstone is designed to enable a lifetime of learning and development that is fundamental to the growth of employees and organizations.\nBased in Santa Monica, California, the company’s solutions are used by nearly 2,700 clients worldwide, spanning 25 million users across 191 countries and 42 languages.\nTo learn more about Cornerstone, visit us on Twitter, Facebook and our blog. For more information, visit [www.cornerstoneondemand.com](https://www.cornerstoneondemand.com/).",
-        "Announcement_Date": "2016-02-02T05:00:00.000Z",
-        "CSP_POC_Name": "David Toy",
-        "CSP_POC_Email": "DToy@csod.com",
-        "FedRAMP_In-Process_Date": "2015-04-09T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2017-05-22T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-05-22T04:00:00.000Z",
-            "Authorizing_Agency": "United States Securities and Exchange Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/SEC%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2017-06-14T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "United States Census Bureau",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2017-11-22T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-11-22T05:00:00.000Z",
-            "Authorizing_Agency": "United States Postal Service",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USPS%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-03-22T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-04-04T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Food and Drug Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2019-07-15T04:00:00.000Z",
-            "Authorizing_Agency": "Nuclear Regulatory Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-06-04T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-06-03T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-06-11T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Acquisition University",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-07-31T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-07-31T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-07-31T04:00:00.000Z",
-            "Authorizing_Agency": "United States House of Representatives",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/House%20of%20Reps%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-07-02T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-07-02T04:00:00.000Z",
-            "Authorizing_Agency": "Consumer Financial Protection Bureau",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFPB_Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-09-03T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-09-03T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Trade Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-05-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-05-01T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-05-31T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-06-26T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-06-26T04:00:00.000Z",
-            "Authorizing_Agency": "Social Security Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -12217,6 +12105,117 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Cornerstone OnDemand",
+        "Cloud_Service_Provider_Package": "Unified Talent Management Suite (CUTMS)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1509217359",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-09-30T04:00:00.000Z",
+        "Original_Expiration_Date": "2023-09-30T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of the Treasury",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+        "Authorizing_Agency": "Department of the Treasury",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Cornerstone%20Logo.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
+        "CSP_Website": "www.cornerstoneondemand.com",
+        "CSO_Description": "Cornerstone OnDemand (NASDAQ: CSOD) is the global leader in cloud-based learning and talent management software. The company’s solutions help organizations realize the potential of the modern workforce. From recruitment, onboarding, training and collaboration, to performance management, compensation, succession planning and analytics, Cornerstone is designed to enable a lifetime of learning and development that is fundamental to the growth of employees and organizations.\nBased in Santa Monica, California, the company’s solutions are used by nearly 2,700 clients worldwide, spanning 25 million users across 191 countries and 42 languages.\nTo learn more about Cornerstone, visit us on Twitter, Facebook and our blog. For more information, visit [www.cornerstoneondemand.com](https://www.cornerstoneondemand.com/).",
+        "Announcement_Date": "2016-02-02T05:00:00.000Z",
+        "CSP_POC_Name": "David Toy",
+        "CSP_POC_Email": "DToy@csod.com",
+        "FedRAMP_In-Process_Date": "2015-04-09T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2017-05-22T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-05-22T04:00:00.000Z",
+            "Authorizing_Agency": "United States Securities and Exchange Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/SEC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2017-06-14T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "United States Census Bureau",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2017-11-22T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-11-22T05:00:00.000Z",
+            "Authorizing_Agency": "United States Postal Service",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USPS%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2018-03-22T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-04-04T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2019-07-15T04:00:00.000Z",
+            "Authorizing_Agency": "Nuclear Regulatory Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-06-04T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-06-03T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-06-11T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Acquisition University",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-07-31T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-07-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-07-31T04:00:00.000Z",
+            "Authorizing_Agency": "United States House of Representatives",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/House%20of%20Reps%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-07-02T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-07-02T04:00:00.000Z",
+            "Authorizing_Agency": "Consumer Financial Protection Bureau",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFPB_Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-09-03T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-09-03T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Trade Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-05-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-05-01T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-05-31T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-06-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-06-26T04:00:00.000Z",
+            "Authorizing_Agency": "Social Security Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "MicroFocus",
         "Cloud_Service_Provider_Package": "Fortify on Demand",
         "Path": "JAB",
@@ -13146,6 +13145,25 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Kahua, Inc.",
+        "Cloud_Service_Provider_Package": "Kahua Federal Network (KFN)",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2032565438",
+        "Service_Model": [
+          "PaaS, SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Kahua%20Logo.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "https://www.kahua.com/industries/government/",
+        "CSO_Description": "Kahua is a leading provider of capital program and construction project management software. Government agencies use Kahua’s collaborative construction management solutions to improve efficiency, lower costs and reduce project risk throughout the lifecycle of their capital programs. Kahua’s purpose-built solutions for agencies, program managers and contractors enable rapid implementation that minimizes time-to-value and enhances user adoption. And with the industry’s only low-code application platform agencies can easily customize existing Kahua apps or even build their own new apps to run their programs and projects at peak efficiency today and rapidly adapt as conditions dictate.\r\n\r\nKahua’s collaborative solutions include:\n\n* Capital Planning\n* Design Management\n* Bid Management\n* Cost Management\n* Construction Administration\n* Asset Handover",
+        "CSP_POC_Name": "Chris Faklaris",
+        "CSP_POC_Email": "kahuagov@kahua.com",
+        "Fedramp_Ready_Date": "2020-10-06T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "M.C. Dean, Inc.",
         "Cloud_Service_Provider_Package": "Infrastructure Maintenance Management System (IMMS) Cloud Computing Environment (CCE)",
         "Designation": "FedRAMP Ready",
@@ -13388,7 +13406,7 @@
         "CSO_Description": "ORock HighCloud is an enterprise-grade open source cloud environment built specifically to meet the data security needs of U.S. Federal Government agencies. This Government-Only Community Cloud implements more than 421 High Baseline security controls to support Federal cloud services requirements for Infrastructure as a Service (IaaS) and Platform as a Service (PaaS). It provides secure, compliant, scalable access to computing, storage, virtualization, networking, and performance monitoring resources.\nArchitected to meet the most stringent requirements for security, performance, cost predictability, and control, ORock HighCloud utilizes ORock’s private, carrier-grade fiber optic backbone network with dedicated connectivity between all points of presence and no upstream cloud service provider (CSP). Additional security features include ORock’s use of Red Hat Security Enhanced Linux, FIPS 140-2 encryption, and SOC 2 Type II data centers. Managed services are provided entirely by U.S. citizens in ORock’s U.S.-based Network Operations Center (NOC) and Security Operations Center (SOC).\nAs a Red Hat Premier Certified Cloud and Service Provider (CCSP), ORock Technologies architected ORock HighCloud as a “pure-play” Red Hat cloud and incorporated a full suite of open source solutions for enhanced flexibility, interoperability, security, and control. The Red Hat Cloud Suite includes: Red Hat Enterprise Linux; Red Hat OpenStack Platform; Red Hat OpenShift, Red Hat Virtualization; Red Hat Ceph Storage; Red Hat Ansible Tower; Red Hat Satellite; and all associated cloud APIs. It is the first and only cloud environment built on Red Hat OpenStack Platform and Red Hat OpenShift Container Platform to achieve FedRAMP Ready status as a High Baseline cloud.\nA Federal Small Business, ORock Technologies provides infrastructure, cloud, and compliance services to U.S. government agencies and commercial organizations in highly regulated industries. ORock HighCloud services feature a flat-rate billing model for data transport with no egress fees for predictable costs and lower total cost of ownership, as well as extensive use of enterprise-grade open source technologies (hardened and supported by Red Hat) to increase flexibility and minimize vendor lock-in.\nAdditional information is available at [http://orocktech.com](http://orocktech.com/) .",
         "CSP_POC_Name": "John Conniff",
         "CSP_POC_Email": "fedramp@orocktech.com",
-        "Fedramp_Ready_Date": "2019-10-02T04:00:00.000Z",
+        "Fedramp_Ready_Date": "2020-10-07T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
