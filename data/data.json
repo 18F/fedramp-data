@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-10-08T04:40:50.600Z",
+    "Created_At": "2020-10-09T04:40:50.407Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -5465,13 +5465,6 @@
             "Authorizing_Subagency": "Internal Revenue Service",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
             "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-04-09T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-09-18T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Veterans Affairs",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -8981,6 +8974,14 @@
             "Authorizing_Agency": "Office of Personnel Management",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-09-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-09-29T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Customs and Border Protection",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -10006,6 +10007,13 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "FirstNet",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-09-03T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-09-03T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -12736,6 +12744,28 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Continuum GRC, Inc.",
+        "Cloud_Service_Provider_Package": "ITAM",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1915750265",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Small Business Administration",
+        "Authorizing_Agency": "Small Business Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Continuum%20Logo.png",
+        "Independent_Assessor": "Earthling Security, LLC",
+        "CSP_Website": "ContinuumGRC.com",
+        "CSO_Description": "Auto-mapped standards, automated documentation, real-time status, risk & maturity. When it comes to Compliance Cartography, no one is more comprehensive, secure and automated saving you time, trouble and money. Serving the enterprise to the start-up community. Continuum GRC is a software as a service (SaaS) product that is purpose build for users who perform audit & compliance assessments, risk assessment & risk management, governance & policy development, and all other manner of audits and assessments.\r\n\r\nIn addition to pre-configured questionnaires, assessment modules, and forms, the Continuum GRC ITAM SaaS application has creation tools that provide drag-n-drop easy custom creation for system administrators to construct their own assessment modules in 26 languages. Real time reports on Compliance Status, Risk Scores, Maturity Scores, workflows, tasking records, evidence management, and historical performance helping you stay proactive; not reactive.\r\n\r\nMany of the Continuum GRC ITAM SaaS application assessment modules include support for NIST 800-53. CMMC, 800-171, 800-66, 800-30, FedRAMP, CJIS, DFARS, HIPAA, ITRM, AICPA SOC 1, SOC 2, GDPR, ISO 27001, NERC CIP, and hundreds of other modules available to customers. Customer use Continuum GRC to replace existing tools, templates, and manual processes in place to support internal compliance and GRC requirements. The automation of Continuum GRC reduces manual labor, complexity of and between frameworks, produces reports, SSPs, POA&Ms, graphics, dashboards, and related outputs all sustained over the entire life-cycle of the program.",
+        "CSP_POC_Name": "Michael Peters",
+        "CSP_POC_Email": "FedRAMP@ContinuumGRC.com",
+        "FedRAMP_In-Process_Date": "2020-10-08T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Cyxtera Federal Group, Inc.",
         "Cloud_Service_Provider_Package": "CXD Federal Edition (CXD)",
         "Designation": "FedRAMP Ready",
@@ -13608,6 +13638,29 @@
         "CSP_POC_Name": "Kevin Kelly",
         "CSP_POC_Email": "fedramp@rescale.com",
         "FedRAMP_In-Process_Date": "2019-08-15T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Research Dataware, LLC",
+        "Cloud_Service_Provider_Package": "IRBNet on GovCloud",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2100757165",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/IRBNet%20Logo.png",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "CSP_Website": "www.irbnet.org",
+        "CSO_Description": "IRBNet on GovCloud\n\r\nIRBNet is the leading provider of research compliance solutions for Institutional Review Boards (IRBs), Institutional Biosafety Committees (IBCs), Institutional Animal Care and Use Committees (IACUCs), Research & Development, Radiation Safety, Scientific Review, Conflict of Interest (COI) and more.  IRBNet's powerful suite of web-based, Software as a Service (SaaS), electronic submission, collaboration and workflow tools currently serves thousands of research institutions, compliance boards and sponsors, and hundreds of thousands of users across IRBNet's National Research Network and IRBNet’s Government Community Cloud offering, IRBNet on GovCloud.\n\r\nLaunched in 2005 as the first SaaS research compliance solution, IRBNet offers the world's leading and most widely used toolset for institutions of any size, serving hospitals and hospital networks, universities and academic research institutions, and federal and state agencies.  IRBNet provides secure online access to comprehensive research oversight tools anywhere, anytime, including real-time collaboration between investigators and institutions anywhere in the world, helping to streamline compliance workflow, reduce review and approval cycle times, reduce errors and non-compliance, increase staff efficiency, and improve audit trails and record keeping.  IRBNet's fully integrated and configurable research compliance tools support all institutional compliance offices, their investigators and board members, including Institutional Review Board (IRB), Institutional Biosafety Committee (IBC), Institutional Animal Care and Use Committee (IACUC), Research & Development, Radiation Safety, Scientific Review, Conflict of Interest (COI) and more.\n\r\nIRBNet on GovCloud is the Government Community Cloud offering of the IRBNet SaaS.  Powerful and secure, IRBNet on GovCloud is hosted in multiple availability zones within the Amazon Web Services (AWS) FedRAMP-authorized GovCloud Infrastructure.  All AWS GovCloud data centers are within the Continental United States (CONUS) and meet the High Impact-level requirements specified by the Federal Risk and Authorization Management Program (FedRAMP).\n  \r\nIRBNet on GovCloud is managed by Research Dataware LLC, an operating unit of WIRB-Copernicus Group, Inc. (WCG).   WCG is the world’s leading provider of solutions that measurably improve the quality and efficiency of clinical research. The industry’s first clinical services organization (CSO), WCG enables biopharmaceutical companies, CROs, and institutions to accelerate the delivery of new treatments and therapies to patients, while maintaining the highest standards of human subject protection.\n\r\nTo find out more about how IRBNet on GovCloud can serve your Agency, please contact:  govsupport@irbnet.org\r\n",
+        "CSP_POC_Name": "Andrew Olmsted",
+        "CSP_POC_Email": "fedramp@irbnet.org",
+        "FedRAMP_In-Process_Date": "2020-10-06T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
