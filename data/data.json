@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-10-09T04:40:50.407Z",
+    "Created_At": "2020-10-10T04:40:50.884Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -686,6 +686,12 @@
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-06-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-06-30T04:00:00.000Z",
+            "Authorizing_Agency": "United States Securities and Exchange Commission",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -5942,7 +5948,7 @@
           "F1603047866"
         ],
         "CSP_Website": "www.saviynt.com",
-        "CSO_Description": "Saviynt delivers an intelligent Identity Governance and Administration (IGA) solution that enables its customers to effectively manage risk, address continuous compliance needs and securely adopt cloud technologies with confidence. The solution combines advanced analytics with fine-grained privilege management to secure critical data, infrastructure and application assets for Cloud and Enterprise in a unified platform.\nSaviynt’s completely managed and flexible IGA-as-a-Service platform ensures a worry-free adoption of Identity Management and Governance services such as user lifecycle management, access request and certification, SOD management, infrastructure access governance for IaaS providers (AWS & Azure), data access governance, privileged access management & monitoring to secure critical enterprise assets.",
+        "CSO_Description": "Saviynt delivers an intelligent and converged platform for Identity\r\nGovernance and Administration (IGA), Privileged Access Management (PAM) and\r\nCloud Security that enables its customers to effectively manage risk,\r\naddress continuous compliance needs and securely adopt cloud technologies\r\nwith confidence. The solution combines advanced analytics with fine-grained\r\nprivilege management to secure critical data, infrastructure and\r\napplication assets for Cloud and Enterprise in a unified platform.\r\nSaviynt’s completely managed and flexible platform ensures a worry-free\r\nadoption of IGA services such as user lifecycle management, access request\r\nand certification, SOD management, infrastructure access governance for\r\nIaaS providers (AWS, GCP & Azure), data access governance as well as PAM\r\nservices. Saviynt’s PAM solution is an identity-led service designed for\r\nelastic cloud and hybrid IT. It secures privileged access for any\r\napplication, infrastructure workloads and extends governance to\r\nbring-your-own vaults. It is designed to ensure zero standing privileges,\r\nprovide JIT access, accelerate rollout at any scale with auto-registration\r\nof workloads and lowers TCO by eliminating traditional jump boxes.",
         "Announcement_Date": "2019-03-01T05:00:00.000Z",
         "CSP_POC_Name": "Saviynt FedRAMP Team",
         "CSP_POC_Email": "fedramp@saviynt.com",
@@ -12224,6 +12230,45 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "MDRC",
+        "Cloud_Service_Provider_Package": "SPROUT",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1902240018",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-07-29T04:00:00.000Z",
+        "Original_Expiration_Date": "2023-06-24T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Sprout%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "AGENCYAMAZONEW",
+          "F1212191840",
+          "FR1812058188",
+          "FR1816364586",
+          "MSO365MT",
+          "F1512167750",
+          "F1606097904",
+          "F1508207205",
+          "AGENCYSF",
+          "F1607197917"
+        ],
+        "CSP_Website": "mdrc.org",
+        "CSO_Description": "MDRC SPROUT provides compartmentalized cloud spaces for evidence-based social policy research and operations.  SPROUT handles the randomization of samples, secure data collection of participant information, participant monitoring, data processing, and analytics. SPROUT integrates operational, administrative, and research aspects of policy programs for better planning insights and improved policymaking.",
+        "Announcement_Date": "2020-10-07T04:00:00.000Z",
+        "CSP_POC_Name": "MDRC FedRAMP Team",
+        "CSP_POC_Email": "fedramp@mdrc.org",
+        "FedRAMP_In-Process_Date": "2020-05-27T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "MicroFocus",
         "Cloud_Service_Provider_Package": "Fortify on Demand",
         "Path": "JAB",
@@ -14468,23 +14513,6 @@
         "Description_of_Consulting_Services": "NCC Group Security Services, Inc. provides FedRAMP advisory/consulting services ranging from initial Cloud Service Provider (CSP) FedRAMP application through assiting CSPs with on-going continuous monitoring and updates to System Security Plans and supporting processes.  Our security professionals have the experience, skills and knowledge get things right the first time – from System Authorization Boundary definition and documentation through development of the System Security and Continuous Monitoring plans.  We also assist in developing maintaining supporting CSP policies and procedures necessary to support ongoing compliance\n\nOur team of security professionals, stand ready to support CSPs in reaching their FedRAMP goals and working through process and technical challenges. ",
         "Consulting_Services_To": "None",
         "Additional_Cyber_Frameworks": "* PCI DSS\n* P2PE\n* PA-DSS"
-      },
-      {
-        "Name": "Paragon Technology Group, Inc.",
-        "Accreditation_Date": "2014-08-08T04:00:00.000Z",
-        "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Paragon%20Logo.jpg",
-        "Description": "Paragon is fully equipped to assess cloud service providers undergoing FedRAMP certification. For those cloud service providers who want to provide services to the federal government, we can provide pre-assessments to give confidence going into the FedRAMP certification process. We also provide:\n* Network Vulnerability assessments\n* Physical Security Assessments\n* User/Employee Security Awareness Training\n* Security Program Development\n* Disaster Recovery Planning\n* IT Security Life Cycle Management\n* Independent Verification & Validation of Security Programs",
-        "POC_Name": "Greg Horine",
-        "POC_Email": "3pao@paragontech.net",
-        "website": "www.paragontech.net",
-        "Remediation": "N",
-        "Founded": 1997,
-        "Primary_Office_Locations": "* 723 Seibert Road Suite 1, Scott AFB, IL 62225\n* 16701 Melford Boulevard Suite 350, Bowie, MD 20715\n* 1934 Old Gallows Road Suite 350, Vienna, VA 22182",
-        "FedRAMP_Assessed": "Available Upon Request",
-        "Provide_Consulting_Services": "Y",
-        "Description_of_Consulting_Services": "Paragon provides security analysis and pre-assessment security preparation services. Clients can choose from a menu of security services. Paragon provides a high quality staff, very competitive pricing, and is responsive to client timelines.\n\nOur approach to security delivers a tangible return on investment by ensuring security and compliance are built into your environment from the beginning of its lifecycle and accurately assessing your system to help it gain accreditation. With Paragon, you receive the capability of a large company with the personalized customer service of a small company.",
-        "Consulting_Services_To": "Available Upon Request",
-        "Additional_Cyber_Frameworks": "* DOD RMF\n* FISMA/NIST"
       },
       {
         "Name": "Perspecta, Inc.",
