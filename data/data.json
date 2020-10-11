@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-10-10T04:40:50.884Z",
+    "Created_At": "2020-10-11T04:40:50.676Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -692,6 +692,7 @@
             "Letter_Date": "2020-06-29T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-06-30T04:00:00.000Z",
             "Authorizing_Agency": "United States Securities and Exchange Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/SEC%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -2250,6 +2251,14 @@
             "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-05-14T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-05-14T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-05-13T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -3361,6 +3370,13 @@
           {
             "Letter_Expiration_Date": "2023-10-02T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-10-02T04:00:00.000Z",
+            "Authorizing_Agency": "Millennium Challenge Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-MillenniumChallengeCorporation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-10-08T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-10-08T04:00:00.000Z",
             "Authorizing_Agency": "Millennium Challenge Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-MillenniumChallengeCorporation-Seal.png",
             "Include_In_Marketplace": "Y"
@@ -7679,13 +7695,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2017-12-12T05:00:00.000Z",
-            "Letter_Expiration_Date": "2020-12-11T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Veterans Affairs",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2018-04-05T04:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
@@ -7936,6 +7945,14 @@
             "Authorizing_Agency": "Department of Energy",
             "Authorizing_Subagency": "National Nuclear Security Administration / Nevada Field Office",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-06-18T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-06-18T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-06-18T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -10253,7 +10270,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Zendesk",
-        "Cloud_Service_Provider_Package": "Zendesk",
+        "Cloud_Service_Provider_Package": "Zendesk Customer Support and Help Desk Platform",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "FR1821856903",
@@ -12720,6 +12737,26 @@
         "CSP_POC_Name": "Deepak Nair",
         "CSP_POC_Email": "sdwan-g.info@cisco.com",
         "FedRAMP_In-Process_Date": "2020-02-18T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Citrix",
+        "Cloud_Service_Provider_Package": "Citrix Workspace",
+        "Path": "JAB",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR1819254092",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Citrix%20Logo.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "https://www.citrix.com/",
+        "CSO_Description": "**Citrix Workspace** allows you to deliver secure access to the information, apps, and other content relevant to a person’s role in your organization. Citrix Workspace is made up of Citrix Cloud Government and Citrix Virtual Apps and Desktops service.\r\n \r\n**Citrix Cloud Government**\r\n\r\nCitrix Cloud Government enables you to manage and optimize Citrix Virtual Apps and Desktops service workloads from a cloud-based management portal. It is a flexible, simplified management platform that gives you full control over all your workloads, including deployment, regardless if they’re running on a government-grade cloud offering or your on-premises environments.\r\n \r\n**Citrix Virtual Apps and Desktops**\r\n\r\nCitrix Virtual Apps and Desktops service provides virtualization solutions that give IT control of virtual machines, applications, and security while providing anywhere access to any device. Admins can manage and deploy application and desktop workloads onto government grade clouds or on-premises datacenters to provide a flexible management tool for hybrid environments.",
+        "CSP_POC_Name": "Bruce Shim",
+        "CSP_POC_Email": "bruce.shim@citrix.com",
+        "Fedramp_Ready_Date": "2020-10-08T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
