@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-10-14T04:40:50.674Z",
+    "Created_At": "2020-10-15T04:40:52.368Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3034,7 +3034,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Amazon%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.aws.amazon.com",
-        "CSO_Description": "Amazon US East/West is a multi-tenant public cloud for Federal, State and Local Government customers, as well as commercial customers, designed to meet a wide range of regulatory requirements, to include government compliance and security requirements. AWS leverages the Infrastructure-as-a-Service (IaaS) cloud computing model, which enables convenient, on-demand Internet access to a shared pool of configurable computing resources such as servers, storage, network infrastructure, and various other web services. Customers can rapidly provision or release computing resources on demand.\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: Amazon API Gateway, Amazon AppStream 2.0, Amazon Athena, Amazon Aurora (MySQL), Amazon Chime, Amazon Cloud Directory, Amazon CloudFront, Amazon CloudWatch, Amazon CloudWatch Logs, Amazon Cognito, Amazon Comprehend, Amazon Connect, Amazon DynamoDB, Amazon ElastiCache, Amazon Elastic Block Store (EBS), Amazon Elastic Container Registry (ECR), Amazon Elastic Container Service (ECS), Amazon Elastic File System (EFS), Amazon Elastic Compute Cloud (EC2), Amazon Elastic MapReduce, Amazon Elasticsearch, Amazon Glacier, Amazon Inspector, Amazon Guard Duty, Amazon Kinesis Data Firehose, Amazon Kinesis Data Streams, Amazon Macie, Amazon PinPoint, Amazon Polly, Amazon QuickSight, Amazon Redshift, Amazon RDS (MariaDB, MySQL, Oracle, Postgres, SQL Server), Amazon Rekognition, Amazon Route 53, Amazon SageMaker, Amazon Simple Email Service (SES), Amazon Simple Notification Service (SNS), Amazon Simple Queue Service (SQS), Amazon Simple Storage Service (S3), Amazon Simple Workflow Service (SWF), Amazon Transcribe, Amazon Translate, Amazon Virtual Private Cloud (VPC), AWS Batch, AWS Certificate Manager, AWS CloudFormation, AWS CloudTrail, AWS CodeBuild, AWS CodeCommit, AWS CodeDeploy, AWS Config, AWS Control Tower, AWS Database Migration Service, AWS Data Sync, AWS Direct Connect, AWS Directory Service, AWS Elastic Beanstalk, AWS Glue, AWS Identity & Access Management (IAM), AWS IoT Core, AWS IoT Device Manager, AWS IoT Greengrass, AWS Key Management Service (KMS), AWS Lambda, AWS License Manager, AWS Managed Service, AWS Organizations, AWS Secrets Manager, AWS Security Hub, AWS Serverless Application Repository, AWS Service Catalog, AWS Server Migration Service (SMS), AWS Shield (Standard and Advanced), AWS Snowball, AWS Snowball Edge, AWS Step Functions, AWS Trusted Advisor, AWS WAF, AWS WorkDocs, AWS WorkSpaces, CloudWatch Events",
+        "CSO_Description": "Amazon US East/West is a multi-tenant public cloud for Federal, State and Local Government customers, as well as commercial customers, designed to meet a wide range of regulatory requirements, to include government compliance and security requirements. AWS leverages the Infrastructure-as-a-Service (IaaS) cloud computing model, which enables convenient, on-demand Internet access to a shared pool of configurable computing resources such as servers, storage, network infrastructure, and various other web services. Customers can rapidly provision or release computing resources on demand.\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: Amazon API Gateway, Amazon AppStream 2.0, Amazon Athena, Amazon Aurora (MySQL), Amazon Chime, Amazon Cloud Directory, Amazon CloudFront, Amazon CloudWatch, Amazon CloudWatch Logs, Amazon Cognito, Amazon Comprehend, Amazon Connect, Amazon DynamoDB, Amazon ElastiCache, Amazon Elastic Block Store (EBS), Amazon Elastic Container Registry (ECR), Amazon Elastic Container Service (ECS), Amazon Elastic File System (EFS), Amazon Elastic Compute Cloud (EC2), Amazon Elastic Kubernetes Service (EKS), Amazon Elastic MapReduce, Amazon Elasticsearch, Amazon Glacier, Amazon Inspector, Amazon Guard Duty, Amazon Kinesis Data Firehose, Amazon Kinesis Data Streams, Amazon Macie, Amazon PinPoint, Amazon Polly, Amazon QuickSight, Amazon Redshift, Amazon RDS (MariaDB, MySQL, Oracle, Postgres, SQL Server), Amazon Rekognition, Amazon Route 53, Amazon SageMaker, Amazon Simple Email Service (SES), Amazon Simple Notification Service (SNS), Amazon Simple Queue Service (SQS), Amazon Simple Storage Service (S3), Amazon Simple Workflow Service (SWF), Amazon Transcribe, Amazon Translate, Amazon Virtual Private Cloud (VPC), AWS Batch, AWS Certificate Manager, AWS CloudFormation, AWS CloudTrail, AWS CodeBuild, AWS CodeCommit, AWS CodeDeploy, AWS Config, AWS Control Tower, AWS Database Migration Service, AWS Data Sync, AWS Direct Connect, AWS Directory Service, AWS Elastic Beanstalk, AWS Glue, AWS Identity & Access Management (IAM), AWS IoT Core, AWS IoT Device Manager, AWS IoT Greengrass, AWS Key Management Service (KMS), AWS Lambda, AWS License Manager, AWS Managed Service, AWS Organizations, AWS Secrets Manager, AWS Security Hub, AWS Serverless Application Repository, AWS Service Catalog, AWS Server Migration Service (SMS), AWS Shield (Standard and Advanced), AWS Snowball, AWS Snowball Edge, AWS Step Functions, AWS Trusted Advisor, AWS WAF, AWS WorkDocs, AWS WorkSpaces, CloudWatch Events",
         "Announcement_Date": "2013-05-01T04:00:00.000Z",
         "CSP_POC_Name": "AWS FedRAMP Compliance Team",
         "CSP_POC_Email": "aws-compliance-fedramp@amazon.com",
@@ -12693,6 +12693,30 @@
         "CSP_POC_Name": "Katherine Castro",
         "CSP_POC_Email": "fedramp@checkpoint.com",
         "FedRAMP_In-Process_Date": "2020-05-27T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Cisco Systems Inc.",
+        "Cloud_Service_Provider_Package": "Cisco Broadsoft Government Cloud\r",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "F1509107286",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "United States Senate",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Senate%20Logo.jpg",
+        "Authorizing_Agency": "United States Senate",
+        "Authorizing_Subagency": "Office of the Sergeant at Arms",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Cisco%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "CSP_Website": "www.cisco.com",
+        "CSO_Description": "Cisco’s BroadCloud for Government platform, designed specifically to address the telecommunication and collaboration needs of government agencies. Ranging from basic voice telephone services to high-definition multipoint video and mobile integration, the Broadcloud for Government platform redefines workplace efficiency in the public sector. Staff can be instantly available via desk phone, PC, tablet or mobile phone, while working from virtually anywhere.",
+        "CSP_POC_Name": "Cisco Collaboration FedRAMP Team",
+        "CSP_POC_Email": "collab-usgov@cisco.com",
+        "FedRAMP_In-Process_Date": "2020-10-06T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
