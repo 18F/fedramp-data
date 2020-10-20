@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-10-19T04:40:50.905Z",
+    "Created_At": "2020-10-20T04:40:50.568Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -6479,15 +6479,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2017-08-07T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-08-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-08-08T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "United States Africa Command",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2017-07-24T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2017-08-03T04:00:00.000Z",
             "Authorizing_Agency": "Department of Education",
@@ -7177,6 +7168,13 @@
             "Authorizing_Agency": "Department of Energy",
             "Authorizing_Subagency": "National Nuclear Security Administration / Lawrence Livermore National Laboratory",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-09-24T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-09-24T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Deposit Insurance Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -8572,7 +8570,7 @@
           "F1603047866"
         ],
         "CSP_Website": "https://my.workspaceone.com/products/VMware-Workspace-ONE",
-        "CSO_Description": "Workspace ONE simplifies mobility for organizations, while empowering end users. With Workspace ONE, organizations can easily deploy, configure, secure, manage and support smartphones, tablets, laptops and other devices across multiple mobile applications and operating systems. Workspace ONE includes industry-leading mobile device, email, application, content and browser management solutions. Whether enabling a Bring Your Own Device (BYOD) program or corporate-owned and line-of-business devices, organizations can implement these solutions standalone, in a dual persona containerized solution or as a comprehensive solution based on device type, use case and user role in the organization. This integrated solution helps companies reduce costs and increase efficiency, while mitigating security risks and preventing data loss.",
+        "CSO_Description": "VMware Workspace ONE® is a FedRAMP Moderate Authorized solution, providing a digital workspace platform that combines endpoint device deployment and management with secure Zero Trust Access for agencies & branches.\r\n\r\nConsistently ranked as a leader by industry analysts, Workspace ONE delivers consumer-simple, single sign-on (SSO) access to cloud, web, and Windows apps in one unified catalog that engages employees. Agencies can enable employees with a broad range of devices including iOS, Android, Mac, Windows and rugged devices to meets the needs or preferences of a user or their mission while enforcing fine-grained, conditional access policies that also take into account device compliance information delivered by unified endpoint management (UEM) technology.\r\n\r\nThe Workspace ONE FedRAMP environment now includes ‘Workspace ONE Access’, (formerly VMware Identity Manager), which provides multi-factor and derived credentials authentication, conditional access and single sign-on to SaaS and web apps, and Workspace ONE Intelligent Hub, which offers a unified catalog, actionable notifications of potential interest to employees, and a people directory for a full digital workspace experience.",
         "Announcement_Date": "2019-11-21T05:00:00.000Z",
         "CSP_POC_Name": "Nick Combs",
         "CSP_POC_Email": "combsn@vmware.com",
@@ -12935,6 +12933,25 @@
         "CSP_POC_Name": "Michael Donham ",
         "CSP_POC_Email": "fedramp@egain.com",
         "FedRAMP_In-Process_Date": "2020-08-24T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Eightfold AI Inc.",
+        "Cloud_Service_Provider_Package": "Talent Intelligence Platform (TIP)",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2016962740",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Eightfold%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "https://eightfold.ai/",
+        "CSO_Description": "Eightfold provides a Talent Intelligence Platform built on Artificial Intelligence that enables governmental agencies to increase productivity and fight bias in their talent acquisition efforts and internal talent management. Based out of Silicon Valley, Eightfold’s deep learning AI platform empowers agencies to reduce the overall time and cost to hire, surface existing skill inventories to facilitate workforce planning, provide employees abilities to self-service their career planning, achieve diversity hiring goals, and optimize career search for job seekers. To that end, Eightfold offers two sets of services: one set for agency oriented solutions for talent acquisition and management, and the other set for citizen oriented solutions to enable the government to improve employment.  Eightfold allows agencies to select modules based on their goals and mission.  These modules include: workforce recruiting, workforce management, workforce mobility, and workforce marketplace",
+        "CSP_POC_Name": "Megan Garrett",
+        "CSP_POC_Email": "mgarrett@eightfold.ai ",
+        "Fedramp_Ready_Date": "2020-10-16T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
