@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-10-29T04:40:50.765Z",
+    "Created_At": "2020-10-30T04:40:50.423Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -11057,7 +11057,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Okta ",
-        "Cloud_Service_Provider_Package": "Okta IDaaS Regulated Cloud (Moderate IL2)",
+        "Cloud_Service_Provider_Package": "Okta IDaaS Regulated Cloud",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "F1512167750",
@@ -12407,30 +12407,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "ServiceNow",
-        "Cloud_Service_Provider_Package": "Service Automation Government Cloud Suite (Legacy)",
-        "Path": "JAB",
-        "Designation": "Compliant",
-        "Package_ID": "F1305072116A",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2016-02-17T05:00:00.000Z",
-        "Sponsoring_Agency": "JAB Authorization",
-        "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/ServiceNow%20Logo2.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.servicenow.com",
-        "CSO_Description": "The ServiceNow Service Automation Government Cloud Suite is a suite of natively integrated applications designed to support IT service automation, resource management and shared support services. ServiceNow is built on modern web technologies. The ServiceNow platform includes easy-to-use, point-and-click customization tools to help customers create solutions for unique business requirements. ServiceNow applications cover all Information Technology Infrastructure Library (ITIL) processes and are natively integrated on a single platform providing web intuitiveness and unprecedented process automation.\nThe ServiceNow Service Automation Government Cloud Suite uses Continental United States (CONUS)-based dedicated infrastructure (facilities, servers, databases, networking devices) to process, store, and transmit government information using a multi-instance architecture. This Government Community Cloud is available for use by United States Federal, State, Local, and Tribal Government with registered .gov or .mil domain addresses, Government Consultants, and Federally Funded Research and Development Centers (FFRDC).",
-        "Announcement_Date": "2016-02-17T05:00:00.000Z",
-        "CSP_POC_Name": "ServiceNow US Federal Compliance",
-        "CSP_POC_Email": "USFederalCompliance@servicenow.com",
-        "FedRAMP_In-Process_Date": "2014-04-07T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Amplifire",
         "Cloud_Service_Provider_Package": "Amplifire",
         "Path": "Agency",
@@ -12515,6 +12491,25 @@
         "CSP_POC_Name": "Ambra Bourne-Dumas",
         "CSP_POC_Email": "fedramp@alienvault.com",
         "FedRAMP_In-Process_Date": "2019-07-18T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Aurigo Software Technologies, Inc.",
+        "Cloud_Service_Provider_Package": "Aurigo Masterworks Cloud and Aurigo Essentials",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2031222637",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Aurigo%20Logo.png",
+        "Independent_Assessor": "The Cadence Group",
+        "CSP_Website": "www.aurigo.com",
+        "CSO_Description": "The Aurigo Masterworks Cloud is an integrated suite of enterprise software products for owners to plan, build, and maintain large capital assets, infrastructure, and facilities. Aurigo Essentials is an all-in-one product for small to mid-size agencies with easy-to-deploy and industry-ready configurations.",
+        "CSP_POC_Name": "Manish Sharma",
+        "CSP_POC_Email": "fedramp@aurigo.com",
+        "Fedramp_Ready_Date": "2020-10-28T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -12677,7 +12672,7 @@
         "Cloud_Service_Provider_Package": "Momentum® Enterprise Suite",
         "Path": "Agency",
         "Designation": "In Process",
-        "Package_ID": "FR2022243058",
+        "Package_ID": "FR2022242972",
         "Service_Model": [
           "SaaS"
         ],
@@ -12693,6 +12688,28 @@
         "CSP_POC_Name": "Kerry Canfield",
         "CSP_POC_Email": "Momentum.Support@cgifederal.com",
         "FedRAMP_In-Process_Date": "2020-09-22T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "CGI Federal",
+        "Cloud_Service_Provider_Package": "Momentum® Enterprise Suite - JAB",
+        "Path": "JAB",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2022243058",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CGI%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "CSP_Website": "https://www.cgi.com/en/solutions/momentum-federal-erp",
+        "CSO_Description": "CGI’s Momentum® is a market-leading, full-featured, flexible web-based system built to support the full federal financial, budget, asset and procurement management lifecycles. Designed specifically for federal business operations, CGI’s Momentum® Enterprise Solution helps federal IT leaders fulfill federal mandates, in an agile and cost-effective way. With zero expensive customizations or software extensions, Momentum is a transparent, accountable and proven solution that comes out-of-the-box ready to strengthen your agency’s ability to maximize taxpayer dollars and bolster its diverse business processes.",
+        "CSP_POC_Name": "Kerry Canfield",
+        "CSP_POC_Email": "Momentum.Support@cgifederal.com",
+        "Fedramp_Ready_Date": "2020-10-28T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -12797,6 +12814,8 @@
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Citrix%20Logo.png",
         "Independent_Assessor": "Schellman & Company, LLC",
         "CSP_Website": "https://www.citrix.com/",
@@ -13124,6 +13143,28 @@
             "Include_In_Marketplace": "Y"
           }
         ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Gordian",
+        "Cloud_Service_Provider_Package": "Gordian Federal Cloud powered by RSMeans Data",
+        "Path": "JAB",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR1815734543",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Gordian%20Logo.png",
+        "Independent_Assessor": "The Cadence Group",
+        "CSP_Website": "www.gordian.com/federal",
+        "CSO_Description": "Gordian Federal Cloud is an enterprise Software as a Service (SaaS) solution powered by RSMeans data. The cloud-based solution is a comprehensive suite of modules designed to securely provide federal users with the tools and cost data to better manage construction and facilities estimates, contracts and pricing proposals. Decision-makers are empowered with up-to-date information that will deliver accurate and competitive bids, minimize the risk of cost overruns, reduce variability and gain control over costs.\nGordian is the leader in facility and construction cost data, software and services for all phases of the building lifecycle. A pioneer of Job Order Contracting, Gordian’s solutions also include our proprietary RSMeans data and Sightlines facility benchmarking and analysis. From planning to design, procurement, construction and operations, Gordian’s solutions help clients maximize efficiency, optimize cost savings and increase building quality.",
+        "CSP_POC_Name": "Lisa Cooley",
+        "CSP_POC_Email": "fedramp@gordian.com",
+        "Fedramp_Ready_Date": "2020-10-28T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "Government Retirement & Benefits, Inc.",
@@ -13508,7 +13549,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Okta",
-        "Cloud_Service_Provider_Package": "Okta IDaaS FedCloud (Moderate IL4)\r\n",
+        "Cloud_Service_Provider_Package": "Okta IDaaS FedCloud\n",
         "Designation": "FedRAMP Ready",
         "Package_ID": "FR2029348431",
         "Service_Model": [
