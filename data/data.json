@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-11-02T05:40:50.645Z",
+    "Created_At": "2020-11-03T05:40:50.511Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -176,8 +176,8 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Autonomic Resources a wholly-owned subsidiary of CSRA LLC",
-        "Cloud_Service_Provider_Package": "CSRA / ARC-P Cloud",
+        "Cloud_Service_Provider_Name": "General Dynamics Information Technology, Inc.",
+        "Cloud_Service_Provider_Package": "ARC-P Cloud",
         "Path": "JAB",
         "Designation": "Compliant",
         "Package_ID": "F1206141381",
@@ -189,10 +189,10 @@
         "Original_Authorization_Date": "2016-06-21T04:00:00.000Z",
         "Sponsoring_Agency": "JAB Authorization",
         "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/ARC-P%20Logo.png",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/ARCP%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.GDIT.com",
-        "CSO_Description": "Autonomic Resources offers the ARC-P Government Community Cloud (GCC), ARC-P Government Private Cloud (GPC), and ARC-P Secure Data Center (SDC) services from within the ARC-P FedRAMP JAB authorized Security Authorization Boundary.\n**ARC-P GCC** provides agencies and government contractors physical or virtual machines in a shared government only cloud stack. ARC-P is a KVM based cloud system that assures interoperability and support for multiple hypervisor images. Agency virtualized images can be imported and exported from the ARC-P environment at agency request. ARC-P can support large numbers of agency virtual machines with the ability to scale services up and down according to agency customers’ varying requirements. ARC-P IaaS offers additional resources such as a virtual-machine disk image library, raw (block) and file-based storage, customer virtual network (CVN) separation at layer 2, firewalls, load balancers, public facing IP addresses, and software bundles. ARC-P IaaS supplies elastic compute resources on-demand from ARC-P compute pools installed in our CONUS only data centers. For cloud environment connectivity, agencies can use available ARC-P VPN solutions over the Internet or dedicated carrier clouds and circuits.\n**ARC-P GPC** offers the same features as ARC-P GCC with additional logical and physical separation for private cloud environments that require a dedicated hardware stack.\n**ARC-P SDC** (Secure Data Center) service provides agencies and government contractors secure IT system colocation services to assist with federal data center consolidation mandates along with their cloud first requirements. ARC-P SDC allows government customers to collocate their non-virtualized and legacy IT systems, as well as IT systems and private cloud stacks in which an agency or government contractor wishes to develop, deploy, and manage the full IT stack within the ARC-P FedRAMP JAB authorized Security Authorization Boundary, with the ability to leverage and inherit those ARC-P security controls that apply specifically to the physical environment and physical security of our facilities. Autonomic Resources is responsible for the physical security and physical environmental controls associated with each provided private cage and provides space, power, and any needed network cross-connects to other environments or circuits provided by the customer, to their hosted virtual environments within the ARC-P IaaS Government Community Cloud or ARC-P Government Private Cloud stacks. Data Center facility providers can engage Autonomic Resources for accreditation of their space under ARC-P SDC.",
+        "CSO_Description": "Autonomic Resources offers the ARC-P Government Community Cloud (GCC), ARC-P Government Private Cloud (GPC), and ARC-P Secure Data Center (SDC) services from within the ARC-P FedRAMP JAB authorized Security Authorization Boundary.\n\n**ARC-P GCC** provides agencies and government contractors physical or virtual machines in a shared government only cloud stack. ARC-P is a KVM based cloud system that assures interoperability and support for multiple hypervisor images. Agency virtualized images can be imported and exported from the ARC-P environment at agency request. ARC-P can support large numbers of agency virtual machines with the ability to scale services up and down according to agency customers’ varying requirements. ARC-P IaaS offers additional resources such as a virtual-machine disk image library, raw (block) and file-based storage, customer virtual network (CVN) separation at layer 2, firewalls, load balancers, public facing IP addresses, and software bundles. ARC-P IaaS supplies elastic compute resources on-demand from ARC-P compute pools installed in our CONUS only data centers. For cloud environment connectivity, agencies can use available ARC-P VPN solutions over the Internet or dedicated carrier clouds and circuits.\n\n**ARC-P GPC** offers the same features as ARC-P GCC with additional logical and physical separation for private cloud environments that require a dedicated hardware stack.\n\n**ARC-P SDC** (Secure Data Center) service provides agencies and government contractors secure IT system colocation services to assist with federal data center consolidation mandates along with their cloud first requirements. ARC-P SDC allows government customers to collocate their non-virtualized and legacy IT systems, as well as IT systems and private cloud stacks in which an agency or government contractor wishes to develop, deploy, and manage the full IT stack within the ARC-P FedRAMP JAB authorized Security Authorization Boundary, with the ability to leverage and inherit those ARC-P security controls that apply specifically to the physical environment and physical security of our facilities. Autonomic Resources is responsible for the physical security and physical environmental controls associated with each provided private cage and provides space, power, and any needed network cross-connects to other environments or circuits provided by the customer, to their hosted virtual environments within the ARC-P IaaS Government Community Cloud or ARC-P Government Private Cloud stacks. Data Center facility providers can engage Autonomic Resources for accreditation of their space under ARC-P SDC.",
         "Announcement_Date": "2016-06-21T04:00:00.000Z",
         "CSP_POC_Name": "Jean Litchfield",
         "CSP_POC_Email": "jean.litchfield1@gdit.com",
@@ -731,13 +731,6 @@
         "CSP_POC_Email": "FedRAMP@rackspace.com ",
         "FedRAMP_In-Process_Date": "2014-02-04T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2016-09-01T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Justice",
-            "Authorizing_Subagency": "Office of Justice Programs",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
-            "Include_In_Marketplace": "Y"
-          },
           {
             "Letter_Date": "2017-01-12T05:00:00.000Z",
             "Authorizing_Agency": "Department of Energy",
@@ -6466,7 +6459,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Microsoft%20Logo.png",
         "Independent_Assessor": "Kratos",
         "CSP_Website": "http://azure.microsoft.com/en-us/",
-        "CSO_Description": "Microsoft Azure Commercial Cloud is an open and flexible cloud platform that enables customers to quickly build, test, deploy, and manage their applications, services, and product development across a network of Microsoft-managed datacenters within the United States. The Microsoft Azure platform exports savings to the customer by delivering the software, platform, and IT infrastructure resources where and when it is needed via the Internet. Microsoft Azure provides a multi-tenant public cloud services platform that offers functionality to support capacities such as Platform as a Service (PaaS), and Infrastructure as a Service (IaaS) cloud service models. Azure maintains a P-ATO at the High Impact Level. Azure was the first public cloud with IaaS and PaaS services to receive a JAB P-ATO.\nFor additional information, visit the (Azure Trust Center)[https://www.microsoft.com/en-us/TrustCenter/Compliance/default.aspx] or refer to Azure FedRAMP Package ID# F1209051525.\n\nThe following Microsoft services are FedRAMP Authorized and approved by the JAB at the High Impact Level: API Management, Application Gateway, Application Insights, Arca CDS Instance Container Management Service, Automation, Azure Active Directory B2C - CPIM, Azure Active Directory (AAD) Domain Services, Azure Active Directory (AAD) Free, Azure Active Directory (AAD) Premium P1 + P2, Azure Active Directory (AAD) Sync Fabric, Azure Advanced Threat Protection, Azure Advisor, Azure Analysis Services, Azure API for FHIR, Azure Archive Storage, Azure Bastion – Hybrid Networking Services, Azure Bot Service, Azure Container Instances, Azure Container Registry, Azure Cosmos DB, Azure Data Explorer, Azure Data Movement, Azure Database for MariaDB, Azure Database Migration Service, Azure DataBricks, Azure Data Share, Azure DDoS Protection, Azure Dedicated HSM, Azure DNS, Azure Event Grid, Azure File Sync, Azure Firewall, Azure For Education, Azure Front Door, Azure Guest Configuration, Azure HPC Cache, Azure Information Protection, Azure IoT Hub, Azure Import/Export, Azure Internet Analyzer – MOI Service, Azure Key Vault, Azure Kubernetes Service, Azure Lab Services, Azure Language Understanding, Azure Lockbox, Azure Machine Learning Service, Azure Managed Services – Azure Light House, Azure Maps, Azure Migrate, Azure Monitor, Azure NetApp Files, Azure Policy, Azure Portal, Azure Red Hat OpenShift, Azure Resource Graph, Azure Resource Manager (ARM), Azure Search, Azure Security Center, Azure Security for IoT, Azure Service Health, Azure Service Manager (RDFE), Azure Sentinel, Azure SignalR Service, Azure Site Recovery, Azure Stack Edge, Azure Time Series Insights, Azure Virtual WAN, Background Runtime (Async), Background Runtime (Jobs), Backup, Batch, CAP Admin Sandbox Operations Service, CAP Core Services, CAP Package Deployer Service, CDS API, CDS SandBox, Cloud Services, Cloud Shell, Cognitive Services, Cognitive Services Container Platform, Cognitive Services Form Recognizer, Cognitive Services Personalizer, Computer Vision, Content Delivery Network, Content Moderator, Cost Management, CRM Admin API, CRM Cloud Provisioning Service, CRM Cloud Scale Groups, CRM Cloud Sync Service, CRM Global Discovery Service, CRM Portals, CRM Portal Provisioning (SiteWide), CRM Reports (SSRS), CRM Sitewide Servers, CRM Trusted Published System, Custom Vision, D365 Integrator App, Databox Datacenter Infra Service, Databox Pod & Disk Service, Data Factory, Dynamics 365 – Data Sync Framework, Dynamics 365 – Relevance Search, Dynamics 365 Customer Engagement:, Dynamics 365 for Finance, Dynamics 365 for Finance and Operations [Dynamics Regulatory services - Configuration + Dynamics Lifecycle services], Event Hubs, ExpressRoute, Face, Flow, HDInsight, Intune, Load Balancer, Log Analytics, Logic Apps, Managed Applications, Dynamics 365 Omni-channel Engagement Hub, Marketplace Portal, Media Services, Microsoft Azure Peering Service, Microsoft Cloud App Security, Microsoft Defender Advanced Threat Protection, Microsoft Graph, Microsoft PowerApps, Microsoft Stream, Multi-factor Authentication (MFA), MySQL, Network Watcher, Network Watcher Traffic Analytics, Notification Hubs, Postgre SQL, PowerApps – UCI, Power BI, PPAC Admin Analytics, QnA Maker, Private Link, Redis Cache, Scheduler, Service Bus, Service Fabric, Spartan Data Platform Management, Speech Services, SQL Data Warehouse, SQL Database, SQL Server Stretch Database, Storage (Blobs, Disks, Files, Queues, Tables), StorSimple Service, Stream Analytics, Text Analytics, Traffic Manager, Translator Text, Video Indexer, Virtual Machines Scale Sets, Virtual Machines, Virtual Network, VPN Gateway, Web Apps (App Service), Windows Virtual Desktop, and supporting infrastructure and platform services.",
+        "CSO_Description": "Microsoft Azure Commercial Cloud is an open and flexible cloud platform that enables customers to quickly build, test, deploy, and manage their applications, services, and product development across a network of Microsoft-managed datacenters within the United States. The Microsoft Azure platform exports savings to the customer by delivering the software, platform, and IT infrastructure resources where and when it is needed via the Internet. Microsoft Azure provides a multi-tenant public cloud services platform that offers functionality to support capacities such as Platform as a Service (PaaS), and Infrastructure as a Service (IaaS) cloud service models. Azure maintains a P-ATO at the High Impact Level. Azure was the first public cloud with IaaS and PaaS services to receive a JAB P-ATO.\nFor additional information, visit the (Azure Trust Center)[https://www.microsoft.com/en-us/TrustCenter/Compliance/default.aspx] or refer to Azure FedRAMP Package ID# F1209051525.\n\nThe following Microsoft services are FedRAMP Authorized and approved by the JAB at the High Impact Level: API Management, Application Gateway, Application Insights, Arca CDS Instance Container Management Service, Automation, Azure Active Directory B2C - CPIM, Azure Active Directory (AAD) Domain Services, Azure Active Directory (AAD) Free, Azure Active Directory (AAD) Premium P1 + P2, Azure Active Directory (AAD) Sync Fabric, Azure Advanced Threat Protection, Azure Advisor, Azure Analysis Services, Azure API for FHIR, Azure App Configuration, Azure Archive Storage, Azure Bastion – Hybrid Networking Services, Azure Bot Service, Azure Container Instances, Azure Container Registry, Azure Cosmos DB, Azure Data Explorer, Azure Data Movement, Azure Database for MariaDB, Azure Database Migration Service, Azure DataBricks, Azure Data Share, Azure DDoS Protection, Azure Dedicated HSM, Azure DNS, Azure Event Grid, Azure File Sync, Azure Firewall, Azure For Education, Azure Front Door, Azure Guest Configuration, Azure HPC Cache, Azure Information Protection, Azure IoT Hub, Azure Import/Export, Azure Internet Analyzer – MOI Service, Azure Key Vault, Azure Kubernetes Service, Azure Lab Services, Azure Language Understanding, Azure Lockbox, Azure Machine Learning Service, Azure Managed Services – Azure Light House, Azure Maps, Azure Migrate, Azure Monitor, Azure NetApp Files, Azure Open Datasets, Azure Policy, Azure Portal, Azure Red Hat OpenShift, Azure Resource Graph, Azure Resource Manager (ARM), Azure Search, Azure Security Center, Azure Security for IoT, Azure Service Health, Azure Service Manager (RDFE), Azure Sentinel, Azure SignalR Service, Azure Site Recovery, Azure Stack Edge, Azure Time Series Insights, Azure Virtual WAN, Background Runtime (Async), Background Runtime (Jobs), Backup, Batch, CAP Admin Sandbox Operations Service, CAP Core Services, CAP Package Deployer Service, CDS API, CDS SandBox, Cloud Services, Cloud Shell, Cognitive Services, Cognitive Services Container Platform, Cognitive Services Form Recognizer, Cognitive Services Personalizer, Computer Vision, Content Delivery Network, Content Moderator, Cost Management, CRM Admin API, CRM Cloud Provisioning Service, CRM Cloud Scale Groups, CRM Cloud Sync Service, CRM Global Discovery Service, CRM Portals, CRM Portal Provisioning (SiteWide), CRM Reports (SSRS), CRM Sitewide Servers, CRM Trusted Published System, Custom Vision, D365 Integrator App, Databox Datacenter Infra Service, Databox Pod & Disk Service, Data Factory, Dynamics 365 – Data Sync Framework, Dynamics 365 – Relevance Search, Dynamics 365 Customer Engagement, Dynamics 365 Customer Service, Dynamics 365 Field Service, Dynamics 365 for Finance, Dynamics 365 for Finance and Operations [Dynamics Regulatory services - Configuration + Dynamics Lifecycle services], Event Hubs, ExpressRoute, Face, Flow, HDInsight, Intune, Load Balancer, Log Analytics, Logic Apps, Managed Applications, Dynamics 365 Omni-channel Engagement Hub, Marketplace Portal, Media Services, Microsoft Azure Peering Service, Microsoft Cloud App Security, Microsoft Defender Advanced Threat Protection, Microsoft Graph, Microsoft PowerApps, Microsoft Stream, Multi-factor Authentication (MFA), MySQL, Network Watcher, Network Watcher Traffic Analytics, Notification Hubs, Postgre SQL, PowerApps – UCI, Power BI, PPAC Admin Analytics, QnA Maker, Private Link, Redis Cache, Scheduler, Service Bus, Service Fabric, SIPS ML Detections, Spartan Data Platform Management, Speech Services, SQL Data Warehouse, SQL Database, SQL Server Registry, SQL Server Stretch Database, Storage (Blobs, Disks, Files, Queues, Tables), StorSimple Service, Stream Analytics, Text Analytics, Traffic Manager, Translator Text, Video Indexer, Virtual Machines Scale Sets, Virtual Machines, Virtual Network, VPN Gateway, Web Apps (App Service), Windows Virtual Desktop, and supporting infrastructure and platform services.",
         "Announcement_Date": "2019-05-03T04:00:00.000Z",
         "CSP_POC_Name": "Microsoft Azure FedRAMP Requests",
         "CSP_POC_Email": "AzureFedRAMP@microsoft.com",
@@ -9602,7 +9595,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Microsoft%20Logo.png",
         "Independent_Assessor": "Kratos",
         "CSP_Website": "http://azure.microsoft.com/en-us/",
-        "CSO_Description": "Microsoft Azure Government is a government-community cloud that offers hyper-scale compute, storage, networking, and identity management services, with world-class security. A physically and network-isolated instance of Microsoft Azure, operated by screened U.S. citizens, Azure Government provides standards-compliant IaaS and PaaS that has now received a FedRAMP JAB P-ATO. All services are available immediately for supporting secure US government workloads, including CJIS, IRS 1075 FTI, HIPAA, DoD, and federal agency data.\n\nThe following Microsoft services are FedRAMP Authorized and approved by the JAB at the High Impact Level: API Management, Application Gateway, Automation, Azure Active Directory (AAD) Free, Azure Advanced Threat Protection, Azure Advisor, Azure Active Directory Domain Services, Azure Active Directory (AAD) Premium P1 + P2, Azure Analysis Services, Azure Archive Storage, Azure Backup, Azure Bastion, Azure Blueprints, Azure Bot Service, Azure Container Instances, Azure Content Delivery Network, Azure Cosmos DB, Azure Database for MariaDB, Azure Database for MySQL, Azure Database for PostgreSQL, Azure Data Box Edge, Azure Data Explorer, Azure Database Migration Service, Azure Data Share, Azure DDOS Protection, Azure Dedicated HSM, Azure DevTest Labs, Azure DNS, Azure File Sync, Azure Firewall, Azure Front Door, Azure Information Protection, Azure Import/Export , Azure IoT Hub, Azure Key Vault, Azure Kubernetes Service, Azure Lab Services, Azure LockBox, Azure Machine Learning, Azure Managed Applications, Azure Managed Services – Azure Light House, Azure Maps, Azure Migrate, Azure Monitor, Azure NetApp Files, Azure Policy, Azure Portal, Azure Private Link, Azure Resource Graph, Azure Resource Manager (ARM), Azure Search, Azure Security Center, Azure Security for IoT, Azure Sentinel, Azure Service Manager (RDFE), Azure SignalR Service, Azure Site Recovery, Azure Stack Bridge, Batch, Cloud Shell, Cognitive Services - Computer Vision, Cognitive Services - Content Moderator, Cognitive Services – Custom Vision, Cognitive Services - Face, Cognitive Services - Language Understanding, Cognitive Services – Personalizer, Cognitive Services – QnA Maker, Cognitive Services - Text Analytics, Cognitive Services - Translator Text, Cloud Services, Container Registry, Cost Management, D365 Integrator APP, Data Administration and Management Service, Databox Datacenter Infra Service, Databox Disk and Pod Service, Databricks, Data Factory, Dynamics 365, Dynamics 365 Customer Engagement, Dynamics 365 Customer Insights, Dynamics 365 Customer Service, Dynamics 365 Field Service, Dynamics 365 Forms Pro, Dynamics 365 Project Service Automation, Dynamics 365 Sales, Dynamics 365 Service Omni-Channel Engagement Hub, Event Grid, Event Hubs, ExpressRoute, Functions, Guest Configuration, HDInsight, Interflow, Intune, Load Balancer, Log Analytics, Logic Apps, Media Services, Microsoft Azure Government Management Portal, Microsoft Cloud App Security, Microsoft Defender Advanced Threat Protection (MDATP), Microsoft Flow, Microsoft Graph, Microsoft PowerApps, Microsoft Stream, Multi-factor Authentication (MFA), Network Datapath, Network Watcher, Network Watcher-Traffic Analytics, NM Agent, Notification Hubs, Power BI Embedded, Power BI, Power Query Online, Push Agent V2, Redis Cache, Regional Network Manager, Scheduler, Scuba.NRT Detections, SDN PubSub Service, Service Fabric, Services Bus, SIPS ML Detections Service, SQL Data Warehouse, SQL Database, SQL Server Stretch Database, Speech Services, StorSimple, Storage (Blobs, Disks, Files, Queues, Tables), Stream Analytics, Traffic Manager, Virtual Machines Scale Sets (VMSS), Virtual Machines, Virtual Network, Virtual Network Directory Service, VPN Gateway, Web Apps (App Service) and supporting infrastructure and platform services.",
+        "CSO_Description": "Microsoft Azure Government is a government-community cloud that offers hyper-scale compute, storage, networking, and identity management services, with world-class security. A physically and network-isolated instance of Microsoft Azure, operated by screened U.S. citizens, Azure Government provides standards-compliant IaaS and PaaS that has now received a FedRAMP JAB P-ATO. All services are available immediately for supporting secure US government workloads, including CJIS, IRS 1075 FTI, HIPAA, DoD, and federal agency data.\n\nThe following Microsoft services are FedRAMP Authorized and approved by the JAB at the High Impact Level: API Management, Application Gateway, Automation, Azure Active Directory (AAD) Free, Azure Advanced Threat Protection, Azure Advisor, Azure Active Directory Domain Services, Azure Active Directory (AAD) Premium P1 + P2, Azure Analysis Services, Azure API for FHIR, Azure Archive Storage, Azure Backup, Azure Bastion, Azure Blueprints, Azure Bot Service, Azure Container Instances, Azure Content Delivery Network, Azure Cosmos DB, Azure Database for MariaDB, Azure Database for MySQL, Azure Database for PostgreSQL, Azure Data Box Edge, Azure Data Explorer, Azure Database Migration Service, Azure Data Share, Azure DDOS Protection, Azure Dedicated HSM, Azure DevTest Labs, Azure DNS, Azure File Sync, Azure Firewall, Azure Front Door, Azure HPC Cache, Azure Information Protection, Azure Import/Export , Azure IoT Hub, Azure Key Vault, Azure Kubernetes Service, Azure Lab Services, Azure LockBox, Azure Machine Learning, Azure Managed Applications, Azure Managed Services – Azure Light House, Azure Maps, Azure Migrate, Azure Monitor, Azure NetApp Files, Azure Policy, Azure Portal, Azure Private Link, Azure Resource Graph, Azure Resource Manager (ARM), Azure Search, Azure Security Center, Azure Security for IoT, Azure Sentinel, Azure Service Health, Azure Service Manager (RDFE), Azure SignalR Service, Azure Site Recovery, Azure Stack Bridge, Batch, Cloud Shell, Cognitive Services - Computer Vision, Cognitive Services - Content Moderator, Cognitive Services – Custom Vision, Cognitive Services - Face, Cognitive Services - Language Understanding, Cognitive Services – Personalizer, Cognitive Services – QnA Maker, Cognitive Services - Text Analytics, Cognitive Services - Translator Text, Cloud Services, Container Registry, Cost Management, D365 Integrator APP, Data Administration and Management Service, Databox Datacenter Infra Service, Databox Disk and Pod Service, Databricks, Data Factory, Dynamics 365, Dynamics 365 Customer Engagement, Dynamics 365 Customer Insights, Dynamics 365 Customer Service, Dynamics 365 Field Service, Dynamics 365 Forms Pro, Dynamics 365 Project Service Automation, Dynamics 365 Sales, Dynamics 365 Service Omni-Channel Engagement Hub, Event Grid, Event Hubs, ExpressRoute, Functions, Guest Configuration, HDInsight, Interflow, Intune, Load Balancer, Log Analytics, Logic Apps, Media Services, Microsoft Azure Government Management Portal, Microsoft Cloud App Security, Microsoft Defender Advanced Threat Protection (MDATP), Microsoft Flow, Microsoft Graph, Microsoft Peering Service, Microsoft PowerApps, Microsoft Stream, Multi-factor Authentication (MFA), Network Datapath, Network Watcher, Network Watcher-Traffic Analytics, NM Agent, Notification Hubs, Power BI Embedded, Power BI, Power Query Online, Push Agent V2, Redis Cache, Regional Network Manager, Scheduler, Scuba.NRT Detections, SDN PubSub Service, Service Fabric, Services Bus, SIPS ML Detections Service, SQL Data Warehouse, SQL Database, SQL Server Stretch Database, Speech Services, StorSimple, Storage (Blobs, Disks, Files, Queues, Tables), Stream Analytics, Traffic Manager, Virtual Machines Scale Sets (VMSS), Virtual Machines, Virtual NAT, Virtual Network, Virtual Network Directory Service, VPN Gateway, Web Application Firewall, Web Apps (App Service) Windows Virtual Desktop, and supporting infrastructure and platform services.",
         "Announcement_Date": "2020-04-29T04:00:00.000Z",
         "CSP_POC_Name": "Microsoft Azure FedRAMP Requests",
         "CSP_POC_Email": "AzureFedRAMP@microsoft.com",
@@ -10591,6 +10584,13 @@
             "Authorizing_Agency": "Department of Agriculture",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-10-28T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-10-29T04:00:00.000Z",
+            "Authorizing_Agency": "Farm Credit Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FCA%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -10956,39 +10956,6 @@
             "Include_In_Marketplace": "Y"
           }
         ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Ivanti",
-        "Cloud_Service_Provider_Package": "Ivanti Service Manager",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1816364586",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2020-06-08T04:00:00.000Z",
-        "Original_Expiration_Date": "2020-10-08T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Commerce",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-        "Authorizing_Agency": "Department of Commerce",
-        "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Ivanti%20Logo.png",
-        "Independent_Assessor": "The Cadence Group",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW",
-          "F1512167750",
-          "F1508207205"
-        ],
-        "CSP_Website": "https://www.ivanti.com/",
-        "CSO_Description": "Ivanti Service Manager, powered by HEAT, helps IT teams meet today’s government and user demands for effective service delivery and support. The solution, with workflow automation, mobile and integrated Voice support, enables IT teams to quickly deploy and configure a world-class service management solution. Cloud deployment is available from FedRAMP compliant AWS data centers in North America.\nService Manager is designed to be the central point of contact between users, employees and the IT organization. It offers first and second line support to users, where incidents, problems or inaccuracies in IT systems are reported. The solution can also be an important source of management information for reporting and auditing purposes.\nIvanti Service Manager fully supports Incident, Problem, Change and Release Management, Self-Service, 3rd party integration and more, and is Pink Verified on 13 ITIL processes, to improve IT support performance and efficiency.\nIvanti is headquartered in Salt Lake City, Utah, and has offices all over the world. For more information, visit [www.ivanti.com](http://www.ivanti.com) and follow us at @GoIvanti.",
-        "Announcement_Date": "2019-11-19T05:00:00.000Z",
-        "CSP_POC_Name": "Lana Xaochay",
-        "CSP_POC_Email": "security@ivanti.com",
-        "Fedramp_Ready_Date": "2018-09-05T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2019-07-10T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "WellHive Holdings, LLC",
@@ -11599,13 +11566,6 @@
         "FedRAMP_In-Process_Date": "2016-09-29T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Expiration_Date": "2020-10-11T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-10-11T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Agriculture",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2017-10-31T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2017-10-31T04:00:00.000Z",
             "Authorizing_Agency": "Department of Defense",
@@ -11619,6 +11579,13 @@
             "Authorizing_Agency": "Department of the Treasury",
             "Authorizing_Subagency": "Bureau of the Fiscal Service",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-09-25T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-10-29T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -12405,6 +12372,65 @@
             "Include_In_Marketplace": "Y"
           }
         ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Oracle",
+        "Cloud_Service_Provider_Package": "Aconex Collaboration Platform for Project Information and Process Management",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1712871948",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-10-14T04:00:00.000Z",
+        "Original_Expiration_Date": "2021-04-12T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Defense",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+        "Authorizing_Agency": "Department of Defense",
+        "Authorizing_Subagency": "United States Army Corps of Engineers",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20Aconex%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://www.oracle.com/industries/construction-engineering/aconex-products.html",
+        "CSO_Description": "Oracle Aconex provides the #1 cloud and mobile collaboration platform for the global construction industry. This highly secure platform provides a single source of truth for all program related documents and communications across agencies and streamlines process management with standardization across the program lifecycle. Oracle Aconex brings a modernized set of flexible tools simplifying how project data is captured, consumed, shared and analysed.\n\nCapabilities include:\n\n* Inter-Agency Task Management\n* Collaborative Document Register\n* Streamlined Process Management\n* Centralized Correspondence\n\nWith more than 70,000 user organizations and over $1 trillion of project value delivered in more than 70 countries, Aconex is the construction industry’s most widely adopted and trusted platform. For more information, please see [https://www.oracle.com/industries/construction-engineering/aconex-products.html]{https://www.oracle.com/industries/construction-engineering/aconex-products.html}",
+        "CSP_POC_Name": "Steve Grierson",
+        "CSP_POC_Email": "aconexgov-external@aconex.com",
+        "FedRAMP_In-Process_Date": "2020-01-14T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Ivanti",
+        "Cloud_Service_Provider_Package": "Ivanti Service Manager",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1816364586",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-10-09T04:00:00.000Z",
+        "Original_Expiration_Date": "2021-02-09T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Commerce",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+        "Authorizing_Agency": "Department of Commerce",
+        "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Ivanti%20Logo.png",
+        "Independent_Assessor": "The Cadence Group",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1512167750",
+          "F1508207205"
+        ],
+        "CSP_Website": "https://www.ivanti.com/",
+        "CSO_Description": "Ivanti Service Manager, powered by HEAT, helps IT teams meet today’s government and user demands for effective service delivery and support. The solution, with workflow automation, mobile and integrated Voice support, enables IT teams to quickly deploy and configure a world-class service management solution. Cloud deployment is available from FedRAMP compliant AWS data centers in North America.\nService Manager is designed to be the central point of contact between users, employees and the IT organization. It offers first and second line support to users, where incidents, problems or inaccuracies in IT systems are reported. The solution can also be an important source of management information for reporting and auditing purposes.\nIvanti Service Manager fully supports Incident, Problem, Change and Release Management, Self-Service, 3rd party integration and more, and is Pink Verified on 13 ITIL processes, to improve IT support performance and efficiency.\nIvanti is headquartered in Salt Lake City, Utah, and has offices all over the world. For more information, visit [www.ivanti.com](http://www.ivanti.com) and follow us at @GoIvanti.",
+        "Announcement_Date": "2019-11-19T05:00:00.000Z",
+        "CSP_POC_Name": "Lana Xaochay",
+        "CSP_POC_Email": "security@ivanti.com",
+        "Fedramp_Ready_Date": "2018-09-05T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2019-07-10T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "Amplifire",
@@ -13583,30 +13609,6 @@
         "CSP_POC_Name": "Eric Hulbert",
         "CSP_POC_Email": "sales@opusinteractive.com",
         "Fedramp_Ready_Date": "2019-10-17T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Oracle",
-        "Cloud_Service_Provider_Package": "Aconex Collaboration Platform for Project Information and Process Management",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1712871948",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Defense",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-        "Authorizing_Agency": "Department of Defense",
-        "Authorizing_Subagency": "United States Army Corps of Engineers",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20Aconex%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://www.oracle.com/industries/construction-engineering/aconex-products.html",
-        "CSO_Description": "Oracle Aconex provides the #1 cloud and mobile collaboration platform for the global construction industry. This highly secure platform provides a single source of truth for all program related documents and communications across agencies and streamlines process management with standardization across the program lifecycle. Oracle Aconex brings a modernized set of flexible tools simplifying how project data is captured, consumed, shared and analysed.\n\nCapabilities include:\n\n* Inter-Agency Task Management\n* Collaborative Document Register\n* Streamlined Process Management\n* Centralized Correspondence\n\nWith more than 70,000 user organizations and over $1 trillion of project value delivered in more than 70 countries, Aconex is the construction industry’s most widely adopted and trusted platform. For more information, please see [https://www.oracle.com/industries/construction-engineering/aconex-products.html]{https://www.oracle.com/industries/construction-engineering/aconex-products.html}",
-        "CSP_POC_Name": "Steve Grierson",
-        "CSP_POC_Email": "aconexgov-external@aconex.com",
-        "FedRAMP_In-Process_Date": "2020-01-14T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
