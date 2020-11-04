@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-11-03T05:40:50.511Z",
+    "Created_At": "2020-11-04T05:40:50.364Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -6351,15 +6351,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-07-08T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-10-05T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-07-08T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Department of the Navy",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-09-02T04:00:00.000Z",
             "Letter_Expiration_Date": "2020-12-31T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-09-17T04:00:00.000Z",
@@ -8062,15 +8053,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2019-09-09T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-11-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-09-09T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Authorizing_Subagency": "National Nuclear Security Administration / Nevada Field Office",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-11-19T05:00:00.000Z",
             "Letter_Expiration_Date": "2022-11-19T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-11-19T05:00:00.000Z",
@@ -8128,6 +8110,13 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "FirstNet",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2020-10-27T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "National Nuclear Security Administration / Nevada Field Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -11431,15 +11420,6 @@
         "FedRAMP_In-Process_Date": "2013-11-11T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Date": "2017-10-29T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-10-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-10-29T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Information Systems Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2018-04-30T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Treasury",
             "Authorizing_Subagency": "Internal Revenue Service",
@@ -12340,7 +12320,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20CI%20Logo.png",
         "Independent_Assessor": "Schellman & Company, LLC",
         "CSP_Website": "https://cloud.oracle.com",
-        "CSO_Description": "Oracle Cloud Infrastructure's government regions provide public sector entities with best-in-class security and industry leading price-performance. With a deep understanding of the needs of the public sector built on decades of experience, Oracle enables government entities to move their most challenging workloads to the cloud, achieving significant benefits and return on investment. After moving to the cloud, agencies can use Oracle development tools to enhance existing applications while creating and integrating new cloud-native applications. With Oracle Cloud Infrastructure, public sector entities can bring their past and build their future.",
+        "CSO_Description": "Oracle Cloud Infrastructure is a government-community cloud architected to provide U.S. public sector entities with best-in-class security and industry leading price-performance. Oracle Cloud Infrastructure services are a set of complementary infrastructure and platform cloud services that enable customers to build and run their enterprise workloads through high-performance, secure, and available services that scale elastically.  With Oracle Cloud Infrastructure, public sector entities can use Oracle development tools to enhance existing applications while creating and integrating new cloud-native applications.\r\n\r\nThe following OCI services are FedRAMP Authorized and approved by the JAB: OCI Compute Services, Object Storage Service, Block Storage Service, Database Cloud Service, Exadata Cloud Service, Key Management Service (Vault), Virtual Cloud Networks, FastConnect, Load Balancing as a Service, Identity and Access Management, and Auditing.\r\n\r\nThe following OCI services have completed 3PAO assessment and are in process of review and approval by the JAB:  Announcements, Autoscaling, Cloud Events, Container Engine for Kubernetes (OKE), Compute Monitoring, Digital Assistant, File Storage Service, Linux/YUM Repo, Metering Usage Reports, Notifications (ONS), OCI Monitoring, OCI Registry (OCIR), Orchestration, Private endpoints, Streaming (OSS), Terraform.",
         "Announcement_Date": "2020-10-01T04:00:00.000Z",
         "CSP_POC_Name": "Rico McGee",
         "CSP_POC_Email": "fedrampinfo_us@oracle.com",
