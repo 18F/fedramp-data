@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-11-05T05:40:50.703Z",
+    "Created_At": "2020-11-06T05:40:50.771Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -7090,14 +7090,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2019-11-01T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-11-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-11-01T04:00:00.000Z",
-            "Authorizing_Agency": "Library of Congress",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/LoC%20logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Authorizing_Letter_Last_Sign_Date": "2020-02-10T05:00:00.000Z",
             "Authorizing_Agency": "Nuclear Regulatory Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
@@ -7197,6 +7189,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-09-24T04:00:00.000Z",
             "Authorizing_Agency": "Federal Deposit Insurance Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-10-28T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-10-28T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-10-28T04:00:00.000Z",
+            "Authorizing_Agency": "Library of Congress",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/LoC%20logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -8603,9 +8603,9 @@
         "FedRAMP_In-Process_Date": "2019-02-20T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Date": "2020-06-08T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-11-04T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-08-04T04:00:00.000Z",
+            "Letter_Date": "2020-10-30T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-11-02T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-11-02T05:00:00.000Z",
             "Authorizing_Agency": "Department of Education",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
@@ -12056,7 +12056,16 @@
         "CSP_POC_Email": "fedramp@xerox.com",
         "Fedramp_Ready_Date": "2017-08-14T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2018-04-17T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Expiration_Date": "2021-09-14T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-09-14T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "United States Citizenship and Immigration Services",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "McAfee",
@@ -12240,6 +12249,37 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Relativity ODA LLC",
+        "Cloud_Service_Provider_Package": "RelativityOne Government",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2004753002",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-09-10T04:00:00.000Z",
+        "Sponsoring_Agency": "Environmental Protection Agency",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
+        "Authorizing_Agency": "Environmental Protection Agency",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Relativity%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "FR1812058188",
+          "F1603087869",
+          "F1512167750",
+          "F1607197917"
+        ],
+        "CSP_Website": "https://www.relativity.com/",
+        "CSO_Description": "When it comes to e-discovery, you need the truth to act quickly, whether it’s understanding your organization’s risk around an internal issue, preparing evidence for litigation or investigations, working through M&A activity, or even performing proactive compliance monitoring. But with the tremendous amount of data out there, finding the truth isn’t easy. We’ve developed powerful technology to help. RelativityOne Government brings the entire e-discovery process together in one secure and extensible platform, connected to your organization’s most sensitive data—and supported by the community of experts you need to untangle it all. Start and finish e-discovery in one solution with best-in-class security, scale, and performance and extend the functionality of the platform to meet your unique needs by leaning on apps built by our ecosystem of Relativity developer partners or building them yourself. With the latest in advanced searching and analytics, machine learning, and visualizations all built in, RelativityOne Government is your complete platform for organizing data, discovering the truth, and acting on it.",
+        "Announcement_Date": "2020-11-05T05:00:00.000Z",
+        "CSP_POC_Name": "Amanda Fennell",
+        "CSP_POC_Email": "security@relativity.com",
+        "FedRAMP_In-Process_Date": "2019-12-23T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "MicroFocus",
         "Cloud_Service_Provider_Package": "Fortify on Demand",
         "Path": "JAB",
@@ -12361,7 +12401,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Oracle",
-        "Cloud_Service_Provider_Package": "Aconex Collaboration Platform for Project Information and Process Management",
+        "Cloud_Service_Provider_Package": "Aconex for Defense",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "FR1712871948",
@@ -12422,6 +12462,36 @@
         "CSP_POC_Email": "security@ivanti.com",
         "Fedramp_Ready_Date": "2018-09-05T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2019-07-10T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Liberty IT Solutions",
+        "Cloud_Service_Provider_Package": "Supply Chain Master Catalog",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2017462201",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Li-SaaS",
+        "Original_Authorization_Date": "2020-10-01T04:00:00.000Z",
+        "Original_Expiration_Date": "2023-10-01T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/SCMC%20Logo.png",
+        "Independent_Assessor": "Department of Veterans Affairs",
+        "Underlying_CSP_Package_ID": [
+          "F1602167854",
+          "F1603087869"
+        ],
+        "CSP_Website": "https://www.prodigosolutions.com",
+        "CSO_Description": "Offered as a SaaS solution, Prodigo Marketplace is a virtual e-commerce procurement product that enables maximum, sustained cost savings throughout VA’s healthcare supply chain for all clinical and non-clinical supplies and services. By effectively driving contract utilization at the point-of-requisition, Prodigo Marketplace assures users are purchasing the right items from the right vendors at the right price. As VA’s single purchasing gateway, enabled and sustained via Liberty IT Solutions’ secure cloud infrastructure, Prodigo Marketplace directs users to their preferred sources of supply. This online requisitioning tool offers users a simple, easy-to-use ordering experience; reducing clinical disruption and the time users spend on administrative tasks.",
+        "Announcement_Date": "2020-11-04T05:00:00.000Z",
+        "CSP_POC_Name": "Ted Dagnal",
+        "CSP_POC_Email": "hello@prodigosolutions.com",
+        "FedRAMP_In-Process_Date": "2020-04-17T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -12686,6 +12756,29 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Centrify",
+        "Cloud_Service_Provider_Package": "Centrify Privileged Access Service",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "F1606177905",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "U.S. International Development Finance Corporation",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DFC%20Logo.jpg",
+        "Authorizing_Agency": "U.S. International Development Finance Corporation",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Centrify%20Logo3.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.centrify.com",
+        "CSO_Description": "The Centrify Privileged Access Service (PAS) allows government agencies to establish the core privileged access controls across their growing attack surface as mandated by many regulations and industry standards (e.g., CIS, DHS CDM Phase 2, FISMA, HIPAA, NIST SP 800-Series, PCI DSS). Vaulting away shared account passwords, application passwords, and secrets is just one of the best practices to secure privileged access. Managing the vaulted credentials, leveraging secure administrative access via a distributed local jump box, establishing VPN-less privileged session to remotely access targeted infrastructure, and implementing multi-factor authentication are at the root of reducing threats, intentional or not. Centrify PAS allows for all the above, as well as enables agencies to authenticate internal and outsourced IT users through Active Directory, LDAP, or other cloud identity stores. Agencies can use one or any combination of these identity stores or grant granular, federated privileged access to resources for partners and third-party vendors. Ultimately, Centrify PAS grants access from a Web UI or mobile app and covers an agency’s entire attack surface, both on-premises and in the cloud. Centrify PAS minimizes the attack surface, improves audit and compliance visibility, and reduces risk, complexity, and costs. Centrify PAS seamlessly integrates with Centrify’s other solutions, namely the Centrify Authentication Service (which helps verify who requests privileged access by leveraging enterprise directory identities rather than local accounts) and Centrify Privilege Elevation Service (which enables host-based enforcement of just enough, just-in-time privileged access best practices).",
+        "CSP_POC_Name": "Centrify FedRAMP Team",
+        "CSP_POC_Email": "fedramp@centrify.com",
+        "FedRAMP_In-Process_Date": "2020-11-05T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "CGI Federal",
         "Cloud_Service_Provider_Package": "Momentum® Enterprise Suite",
         "Path": "Agency",
@@ -12929,6 +13022,25 @@
         "CSP_POC_Name": "Michael Peters",
         "CSP_POC_Email": "FedRAMP@ContinuumGRC.com",
         "FedRAMP_In-Process_Date": "2020-10-08T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Coupa Software Inc",
+        "Cloud_Service_Provider_Package": "Coupa Spend Management for Federal",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "F1308202329",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Coupa%20Logo.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "www.coupa.com",
+        "CSO_Description": "Coupa Spend Management for Federal is the industry's leading cloud and mobile platform for managing procurement/acquisition/contract related processes. It covers the end-to-end process, including supplier identification, sourcing, contracting, procurement against contracts, invoicing, payments, and spend analytics to ensure compliance and efficiency.\n\nKey capabilities include:\r\n\r\n* Consumer-grade end user and supplier experience to ensure broad adoption of the platform and maximize the value of each dollar spent   \r\n* Proven, secure solution that offers extensive configuration options, avoiding the need for custom code that is expensive to write and maintain\r\n* Full auditability for FAR/DFARS processes,  including related contract documents and communications across internal agency team members and external vendors  \r\n* Reduction in manual and paper-based processes using the latest in Artificial Intelligence (AI), Machine Learning (ML), and Image Recognition.\r\n* Support for compliance with Cost Accounting Standards (CAS) and other regulatory and/or compliance mandates.",
+        "CSP_POC_Name": "Andy Malay",
+        "CSP_POC_Email": "sales@coupa.com  ",
+        "Fedramp_Ready_Date": "2020-10-22T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -13798,29 +13910,6 @@
         "CSP_POC_Email": "incloudgov@recoverypoint.com",
         "Fedramp_Ready_Date": "2018-07-23T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2019-07-16T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Relativity ODA LLC",
-        "Cloud_Service_Provider_Package": "RelativityOne Government",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2004753002",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Environmental Protection Agency",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
-        "Authorizing_Agency": "Environmental Protection Agency",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Relativity%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://www.relativity.com/",
-        "CSO_Description": "When it comes to e-discovery, you need the truth to act quickly, whether it’s understanding your organization’s risk around an internal issue, preparing evidence for litigation or investigations, working through M&A activity, or even performing proactive compliance monitoring. But with the tremendous amount of data out there, finding the truth isn’t easy. We’ve developed powerful technology to help. RelativityOne Government brings the entire e-discovery process together in one secure and extensible platform, connected to your organization’s most sensitive data—and supported by the community of experts you need to untangle it all. Start and finish e-discovery in one solution with best-in-class security, scale, and performance and extend the functionality of the platform to meet your unique needs by leaning on apps built by our ecosystem of Relativity developer partners or building them yourself. With the latest in advanced searching and analytics, machine learning, and visualizations all built in, RelativityOne Government is your complete platform for organizing data, discovering the truth, and acting on it.",
-        "CSP_POC_Name": "Amanda Fennell",
-        "CSP_POC_Email": "security@relativity.com",
-        "FedRAMP_In-Process_Date": "2019-12-23T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -14786,6 +14875,7 @@
       },
       {
         "Name": "Sentar, Inc.",
+        "Accreditation_Date": "2019-11-22T05:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Sentar%20Logo.png",
         "Description": "Sentar 3PAO has an extensive history providing assessment services, leveraging our collective experience in auditing, compliance, information technology and cloud computing to expand our scope to include FedRAMP in order to service Cloud Service Providers (CSP). Our talented personnel share six years of experience in assessing companies against FedRAMP requirements. \r\n  \r\nAssessment services include the following: \r\n\r\n* FedRAMP Ready Assessment and submission of Ready Assessment Report (RAR)\r\n* FedRAMP Gap Assessment and Client will receive a Gap Assessment Report (GAR)\r\n* FedRAMP Full Security Assessment and submission of Security Assessment Plan (SAP) and Security Assessment Report (SAR)\r\n* FedRAMP Annual Assessments ",
         "POC_Name": "Chandler Hall",
