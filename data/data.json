@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-11-16T05:40:51.169Z",
+    "Created_At": "2020-11-17T05:40:50.605Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2435,6 +2435,13 @@
             "Authorizing_Subagency": "Federal Aviation Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2020-09-28T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Authorizing_Subagency": "United States Geological Survey",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -3870,7 +3877,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
         "Authorizing_Agency": "Federal Housing Finance Agency",
         "Authorizing_Subagency": "FHFA Office of the Inspector General",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Project%20Hosts%20Logo.png",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Project%20Hosts%20Logo1.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "Underlying_CSP_Package_ID": [
           "F1603087869",
@@ -6051,6 +6058,13 @@
             "Authorizing_Agency": "Department of the Treasury",
             "Authorizing_Subagency": "Alcohol and Tobacco Tax and Trade Bureau",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-11-10T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-11-15T05:00:00.000Z",
+            "Authorizing_Agency": "Council of the Inspectors General on Integrity and Efficiency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CIGIE%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -11067,44 +11081,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "United States Department of the Treasury",
-        "Cloud_Service_Provider_Package": "Workplace.gov Community Cloud (WC2)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "AGENCYWC2",
-        "Service_Model": [
-          "PaaS, SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2020-04-28T04:00:00.000Z",
-        "Original_Expiration_Date": "2020-11-11T05:00:00.000Z",
-        "Sponsoring_Agency": "Department of the Treasury",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-        "Authorizing_Agency": "Department of the Treasury",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/DoT%20Logo.png",
-        "Independent_Assessor": "Lunarline, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW",
-          "F1206061353"
-        ],
-        "CSP_Website": "workplace.gov",
-        "CSO_Description": "The Workplace.gov Community Cloud (WC2) uses a government community cloud deployment model and the cloud computing service model for WC2 is both Platform as a Service (PaaS) and Software as a Service (SaaS). The Infrastructure as a Service (IaaS) provider services leveraged for this solution are Amazon Web Services (AWS) and Akamai Content Delivery Network (CDN). The WC2 system provides a platform for government customers’ systems and applications to allow them the capability to utilize cloud computing hosting environments. This platform supports a range of highly-available web services hosted within AWS and delivered to end-users via the Akamai Content Delivery Network (CDN). The WC2 infrastructure allows Treasury customers to focus on the operational and business aspects of their web presence such as usability, information architecture and content authoring without having to re-invent and configure the technical infrastructure each time.",
-        "Announcement_Date": "2014-05-06T04:00:00.000Z",
-        "CSP_POC_Name": "N/A",
-        "CSP_POC_Email": "N/A",
-        "FedRAMP_In-Process_Date": "2013-11-11T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2018-04-30T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Authorizing_Subagency": "Internal Revenue Service",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Google",
         "Cloud_Service_Provider_Package": "Google Workspace",
         "Path": "Agency",
@@ -12482,6 +12458,44 @@
             "Letter_Expiration_Date": "2023-09-18T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-09-18T04:00:00.000Z",
             "Authorizing_Agency": "Office of Personnel Management",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "United States Department of the Treasury",
+        "Cloud_Service_Provider_Package": "Workplace.gov Community Cloud (WC2)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "AGENCYWC2",
+        "Service_Model": [
+          "PaaS, SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-10-31T04:00:00.000Z",
+        "Original_Expiration_Date": "2023-10-31T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of the Treasury",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+        "Authorizing_Agency": "Department of the Treasury",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/DoT%20Logo.png",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1206061353"
+        ],
+        "CSP_Website": "workplace.gov",
+        "CSO_Description": "The Workplace.gov Community Cloud (WC2) uses a government community cloud deployment model and the cloud computing service model for WC2 is both Platform as a Service (PaaS) and Software as a Service (SaaS). The Infrastructure as a Service (IaaS) provider services leveraged for this solution are Amazon Web Services (AWS) and Akamai Content Delivery Network (CDN). The WC2 system provides a platform for government customers’ systems and applications to allow them the capability to utilize cloud computing hosting environments. This platform supports a range of highly-available web services hosted within AWS and delivered to end-users via the Akamai Content Delivery Network (CDN). The WC2 infrastructure allows Treasury customers to focus on the operational and business aspects of their web presence such as usability, information architecture and content authoring without having to re-invent and configure the technical infrastructure each time.",
+        "Announcement_Date": "2014-05-06T04:00:00.000Z",
+        "CSP_POC_Name": "N/A",
+        "CSP_POC_Email": "N/A",
+        "FedRAMP_In-Process_Date": "2013-11-11T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2018-04-30T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Internal Revenue Service",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
