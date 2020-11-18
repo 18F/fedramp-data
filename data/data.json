@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-11-17T05:40:50.605Z",
+    "Created_At": "2020-11-18T05:40:50.492Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2480,13 +2480,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2018-01-11T05:00:00.000Z",
-            "Letter_Expiration_Date": "2020-11-13T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Veterans Affairs",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2018-05-18T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-05-24T04:00:00.000Z",
             "Authorizing_Agency": "National Aeronautics and Space Administration",
@@ -2629,6 +2622,14 @@
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Washington Headquarters Services",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-11-05T05:00:00.000Z",
+            "Letter_Expiration_Date": "2023-11-05T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-11-05T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -12425,15 +12426,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-05-27T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-11-17T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-05-27T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Logistics Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2020-10-26T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-06-26T04:00:00.000Z",
             "Authorizing_Agency": "Social Security Administration",
@@ -12458,6 +12450,15 @@
             "Letter_Expiration_Date": "2023-09-18T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-09-18T04:00:00.000Z",
             "Authorizing_Agency": "Office of Personnel Management",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-11-17T05:00:00.000Z",
+            "Letter_Expiration_Date": "2021-05-13T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-11-17T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Logistics Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -13458,6 +13459,29 @@
         "CSP_POC_Name": "Informatica FedRAMP Team",
         "CSP_POC_Email": "fedramp@informatica.com",
         "FedRAMP_In-Process_Date": "2020-09-15T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Ipsos America, Inc.",
+        "Cloud_Service_Provider_Package": "Ipsos Research",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2104636677",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Ipsos%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://www.ipsos.com/en-us/solutions/list?search=Public%20Affairs",
+        "CSO_Description": "As a Global leader in market research, Ipsos delivers reliable information and true understanding of Society, Markets and People. Ipsos has a long history of providing research and advisory services to the US Government and clients in the private sector. We believe our clients need more than a data supplier, they need a partner who can produce accurate and relevant information and turn it into actionable truth.",
+        "CSP_POC_Name": "Clifford Young",
+        "CSP_POC_Email": "Us-Pa-Contracts@ipsos.com",
+        "FedRAMP_In-Process_Date": "2020-10-28T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
