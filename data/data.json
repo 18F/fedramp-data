@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-11-19T05:40:50.905Z",
+    "Created_At": "2020-11-20T05:40:50.579Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -924,6 +924,10 @@
         "Authorizing_Agency": "Department of the Interior",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MicroPact%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1512167750"
+        ],
         "CSP_Website": "www.micropact.com",
         "CSO_Description": "The MicroPact Product Suite, which includes icomplaints® and entellitrak®, is delivered via a Platform as a Service (PaaS) model to U.S. federal, state and local government customers. MicroPact’s icomplaints is the leading standard for federal EEO case management and is used by most major federal agencies. MicroPact’s entellitrak, which takes a Data-First™ approach to dynamic case management and Business Process Management (BPM), is available with fully integrated Document Management, Natural Language Analytics, and Mobile Modules. Whether based on-premises or in the cloud, entellitrak can be implemented immediately and configured continuously, enabling customers to get to work quickly while keeping costs low.\nMicroPact is unique as a developer of commercial off-the-shelf (COTS) case management and BPM software in that 97 percent of all federal agencies with more than 500 employees currently use one or more solution from the MicroPact Product Suite.",
         "Announcement_Date": "2014-06-06T04:00:00.000Z",
@@ -3197,14 +3201,6 @@
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "United States Strategic Command",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-02-12T05:00:00.000Z",
-            "Letter_Expiration_Date": "2020-09-22T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-02-13T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Transportation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -8604,8 +8600,8 @@
         "CSP_Website": "www-01.ibm.com/software/lotus/cloud/government/",
         "CSO_Description": "IBM’s SmartCloud for Government (SCG) is a secure multi-tenant Infrastructure as a Service (IaaS) cloud computing environment for U.S. Federal customers. SCG services include provisioning of compute, memory, network, OS, and storage resources to meet client production and development/test computing needs. SCG IaaS services can be bundled with enterprise class, fully managed cloud hosting services, including OS Provisioning and Administration, Enterprise System Management, Security Operation Center (SOC), Storage Management, and Backup. These SCG IaaS capabilities can also be leveraged to support a broad range of IBM and 3rd party software offerings using a PaaS or SaaS delivery model.\nIBM’s portfolio of cloud security expertise spans multiple security domains including people, data, applications and infrastructure, with an emphasis on visibility, control, isolation and automation. The SCG solutions are delivered from IBM Federal Data Centers (FDC) that are expressly designed and managed to meet FISMA requirements. IBM SCG enables customers to choose cloud solutions and services that meet their workload requirements and helps Government agencies deliver business outcomes with faster time to value and a lower total cost of ownership.",
         "Announcement_Date": "2019-11-14T05:00:00.000Z",
-        "CSP_POC_Name": "Jerome Giles",
-        "CSP_POC_Email": "jerome.giles@us.ibm.com",
+        "CSP_POC_Name": "Becky Lutz",
+        "CSP_POC_Email": "rlutz@us.ibm.com",
         "FedRAMP_In-Process_Date": "2018-06-19T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
