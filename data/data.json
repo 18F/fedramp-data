@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-11-24T05:40:50.763Z",
+    "Created_At": "2020-11-25T05:40:50.637Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2055,6 +2055,14 @@
         "FedRAMP_In-Process_Date": "2015-03-30T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
+            "Letter_Date": "2018-09-25T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-09-25T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Office of the Comptroller of the Currency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
             "Authorizing_Letter_Last_Sign_Date": "2020-04-23T04:00:00.000Z",
             "Authorizing_Agency": "Federal Housing Finance Agency",
             "Authorizing_Subagency": "FHFA Office of the Inspector General",
@@ -2503,6 +2511,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2018-07-27T04:00:00.000Z",
             "Authorizing_Agency": "Department of Justice",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2018-09-25T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-09-25T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Office of the Comptroller of the Currency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -6502,6 +6518,14 @@
         "CSP_POC_Email": "fedramp@adobe.com",
         "FedRAMP_In-Process_Date": "2019-02-19T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2018-09-25T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-09-25T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Office of the Comptroller of the Currency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
           {
             "Letter_Date": "2018-10-05T04:00:00.000Z",
             "Letter_Expiration_Date": "2021-08-24T04:00:00.000Z",
@@ -11930,6 +11954,30 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Bitglass, Inc.",
+        "Cloud_Service_Provider_Package": "Bitglass CASB",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1932554201",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-09-01T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Transportation",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
+        "Authorizing_Agency": "Department of Transportation",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Bitglass%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.bitglass.com",
+        "CSO_Description": "Bitglass is a multimode cloud access security broker. The Bitglass application programming interfaces (APIs) to secure data at rest within the cloud, as well as inline proxies for protecting data in transit in real time. Forward proxies secure managed, corporate endpoints, reverse proxies secure unmanaged, personal devices, and ActiveSync proxies secure mobile phones. Bitglass’ agentless reverse and ActiveSync proxies can enforce real-time data protection policies wherever data goes.\nBitglass is developed on an agentless architecture and patented AJAX-VM technology and is capable of securing any application and any device in real time and can be broken down into four key areas: managed app security, mobile device security, unmanaged app security, and infrastructure as a service (IaaS) security. With protection for data at rest and data in transit, Bitglass provides end-to-end cloud security.",
+        "CSP_POC_Name": "Andrew Urushima",
+        "CSP_POC_Email": "fedramp@bitglass.com",
+        "FedRAMP_In-Process_Date": "2019-10-30T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "MicroFocus",
         "Cloud_Service_Provider_Package": "Fortify on Demand",
         "Path": "JAB",
@@ -12697,29 +12745,6 @@
         "CSP_POC_Name": "Brian Levine",
         "CSP_POC_Email": "fedramp@axway.com",
         "Fedramp_Ready_Date": "2020-06-11T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Bitglass, Inc.",
-        "Cloud_Service_Provider_Package": "Bitglass CASB",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1932554201",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Transportation",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
-        "Authorizing_Agency": "Department of Transportation",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Bitglass%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.bitglass.com",
-        "CSO_Description": "Bitglass is a multimode cloud access security broker. The Bitglass application programming interfaces (APIs) to secure data at rest within the cloud, as well as inline proxies for protecting data in transit in real time. Forward proxies secure managed, corporate endpoints, reverse proxies secure unmanaged, personal devices, and ActiveSync proxies secure mobile phones. Bitglass’ agentless reverse and ActiveSync proxies can enforce real-time data protection policies wherever data goes.\nBitglass is developed on an agentless architecture and patented AJAX-VM technology and is capable of securing any application and any device in real time and can be broken down into four key areas: managed app security, mobile device security, unmanaged app security, and infrastructure as a service (IaaS) security. With protection for data at rest and data in transit, Bitglass provides end-to-end cloud security.",
-        "CSP_POC_Name": "Andrew Urushima",
-        "CSP_POC_Email": "fedramp@bitglass.com",
-        "FedRAMP_In-Process_Date": "2019-10-30T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
