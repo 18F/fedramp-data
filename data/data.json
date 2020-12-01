@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-11-30T05:40:50.254Z",
+    "Created_At": "2020-12-01T05:40:50.341Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2651,6 +2651,14 @@
             "Authorizing_Agency": "Department of Veterans Affairs",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-11-30T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-11-30T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -4178,6 +4186,13 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "FirstNet",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-04-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-04-21T04:00:00.000Z",
+            "Authorizing_Agency": "Environmental Protection Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -7880,7 +7895,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Netskope",
+        "Cloud_Service_Provider_Name": "Netskope, Inc.",
         "Cloud_Service_Provider_Package": "Netskope OneCloud Government",
         "Path": "Agency",
         "Designation": "Compliant",
@@ -11957,7 +11972,7 @@
         "Cloud_Service_Provider_Name": "Bitglass, Inc.",
         "Cloud_Service_Provider_Package": "Bitglass CASB",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "FR1932554201",
         "Service_Model": [
           "SaaS"
@@ -11970,8 +11985,14 @@
         "Authorizing_Agency": "Department of Transportation",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Bitglass%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "FR1805751477",
+          "F1512167750"
+        ],
         "CSP_Website": "www.bitglass.com",
         "CSO_Description": "Bitglass is a multimode cloud access security broker. The Bitglass application programming interfaces (APIs) to secure data at rest within the cloud, as well as inline proxies for protecting data in transit in real time. Forward proxies secure managed, corporate endpoints, reverse proxies secure unmanaged, personal devices, and ActiveSync proxies secure mobile phones. Bitglass’ agentless reverse and ActiveSync proxies can enforce real-time data protection policies wherever data goes.\nBitglass is developed on an agentless architecture and patented AJAX-VM technology and is capable of securing any application and any device in real time and can be broken down into four key areas: managed app security, mobile device security, unmanaged app security, and infrastructure as a service (IaaS) security. With protection for data at rest and data in transit, Bitglass provides end-to-end cloud security.",
+        "Announcement_Date": "2020-11-23T05:00:00.000Z",
         "CSP_POC_Name": "Andrew Urushima",
         "CSP_POC_Email": "fedramp@bitglass.com",
         "FedRAMP_In-Process_Date": "2019-10-30T04:00:00.000Z",
@@ -13747,6 +13768,29 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Netskope, Inc.",
+        "Cloud_Service_Provider_Package": "Netskope Security Cloud",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2105946715",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "High",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Netskope%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "CSP_Website": "https://www.netskope.com/",
+        "CSO_Description": "Netskope's Security Cloud (NSC) platform is a highly scalable, secure solution that processes and protects customer data traffic without the need to deploy on-premise physical hardware. The NSC services help customers eliminate cloud blind spots and to quickly analyze, target and control activities across thousands of cloud services and millions of websites with full control from one cloud platform. The full suite of services provided through the NSC provides 360-degree data protection that guards data backed by advanced threat protection that stops intrusive attacks.\r\n\r\nNSC’s services provide real-time analytics and policies for third-party applications used by its customers. The service allows for the termination of private cloud-based Software as a Service (SaaS) applications as well as standard web traffic to a single Netskope cloud endpoint that allows for auditing and policy enforcement on the use of these applications and web sites. NSC enables businesses to use SaaS applications and web services while still being compliant with business and/or auditing policies.",
+        "CSP_POC_Name": "Beau Hutto",
+        "CSP_POC_Email": "fedramp@netskope.com",
+        "FedRAMP_In-Process_Date": "2020-11-30T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Okta",
         "Cloud_Service_Provider_Package": "Okta IDaaS FedCloud\n",
         "Designation": "FedRAMP Ready",
@@ -14242,7 +14286,7 @@
         "CSO_Description": "The Terida RegTech Framework - CLASsoft™ is a cloud-based claims and electronic-form (e-form) management application, with an integrated optional e-signature module, to receive, evaluate, resolve and track registrations, applications, claims or cases.\n\nWith Terida CLASsoft™, persons, events, objects, operations, certifications, communications, documents and workflow are integrated into a single cloud application for application and review process management; credentialing, attestation and certification; compliance and risk management; claims, damages and settlements; incident registries; disaster and emergency management; document and forms management; procurement and supply chain management; litigation mitigation and litigation support.\n\nWith CLASsoft™, all information collected and processed, and their chain of custody and access, are secured, managed and protected for the term(s) necessitated by laws, regulations, evidentiary standards and operational requirements.",
         "CSP_POC_Name": "Teri Marlene Prince",
         "CSP_POC_Email": "fedramp@terida.com",
-        "Fedramp_Ready_Date": "2019-01-31T05:00:00.000Z",
+        "Fedramp_Ready_Date": "2020-11-30T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
