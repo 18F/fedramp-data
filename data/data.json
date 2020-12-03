@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-12-02T05:40:50.564Z",
+    "Created_At": "2020-12-03T05:40:50.229Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -13633,7 +13633,7 @@
         "Designation": "In Process",
         "Package_ID": "FR2032565438",
         "Service_Model": [
-          "PaaS, SaaS"
+          "SaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
@@ -14195,6 +14195,25 @@
         "CSP_POC_Name": "Michael Kenny",
         "CSP_POC_Email": "fedadmin@somnoware.com",
         "FedRAMP_In-Process_Date": "2020-10-01T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Sprinklr, Inc.",
+        "Cloud_Service_Provider_Package": "Sprinklr CXM for Government (CXM)",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2035740126",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Sprinklr%20Logo.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "https://www.sprinklr.com/",
+        "CSO_Description": "Sprinklr CXM for Government helps organizations create, manage, and optimize customer experiences across various digital channels including social media, messaging, email, and websites. Sprinklr’s AI-backed core platform consists of five products:  Modern Marketing, Modern Advertising, Modern Research, Modern Care, and Modern Engagement.",
+        "CSP_POC_Name": "Saurabh Gupta",
+        "CSP_POC_Email": "security@sprinklr.com",
+        "Fedramp_Ready_Date": "2020-12-01T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
