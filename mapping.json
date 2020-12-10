@@ -1,5 +1,5 @@
 [{"object_name": "Providers",
-  "conditionals": [{"column_name":"Leverage ATO-YN", "acceptable_values":["No", "TBD"]}, {"column_name":"Active-Inactive", "acceptable_values":["Active"]}],
+  "conditionals": [{"column_name":"Leverage ATO-YN", "acceptable_values":["No", "TBD"]}, {"column_name":"Include In MarketplaceYN?", "acceptable_values":["Y"]}],
   "from_sheet": "New ATO PATO Log",
   "fields":[
   {"name": "Cloud_Service_Provider_Name",
@@ -95,7 +95,7 @@
   "key": "Package_ID",
   "from_key_value": "PackageID",
   "notes": "Package ID is the key roll up all letters for all leveraged ATOs",
-  "conditionals": [{"column_name":"Leverage ATO-YN", "acceptable_values":["Yes"]}, {"column_name":"Active-Inactive", "acceptable_values":["Active"]}],
+  "conditionals": [{"column_name":"Leverage ATO-YN", "acceptable_values":["Yes"]}, {"column_name":"Include In MarketplaceYN?", "acceptable_values":["Y"]}],
   "subfields": [
     {"name": "Letter_Date",
     "from_field": "Authorizing Letter Date",
