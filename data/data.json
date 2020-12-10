@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-12-09T05:40:50.770Z",
+    "Created_At": "2020-12-10T05:40:50.483Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1482,6 +1482,13 @@
             "Authorizing_Subagency": "United States Patent and Trademark Office",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2020-12-03T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Transportation",
+            "Authorizing_Subagency": "Federal Aviation Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -1719,6 +1726,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2018-06-14T04:00:00.000Z",
             "Authorizing_Agency": "Universal Service Administrative Company",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAC-logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2018-07-18T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-07-18T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-07-18T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -1990,6 +2005,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-08-31T04:00:00.000Z",
             "Authorizing_Agency": "Environmental Protection Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-12-07T05:00:00.000Z",
+            "Letter_Expiration_Date": "2023-12-07T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-12-07T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -3086,7 +3109,7 @@
           "AGENCYAMAZONEW"
         ],
         "CSP_Website": "http://www.accellion.com/government",
-        "CSO_Description": "Accellion’s secure file sharing platform, kiteworks, enables government agencies to securely connect their content to the people and systems that are part of their critical business systems processes, regardless of the applications that create that content or where it is stored, while maintaining the controls and visibility needed to demonstrate compliance.\nProtect your most sensitive content with a proven security model and integration with your existing security infrastructure. With kiteworks, your content is run through your DLP and ATP technologies to prevent malware and breaches; your users are authorized by your LDAP / AD profiles, Single Sign On and Multi-Factor Authentication solution; and all events / logs are integrated with your SIEM system.\nAccellion kiteworks provides simple access to content from the internet, a mobile device, or email. With secure plug-ins for Microsoft Outlook, as well as Microsoft Office 365 online or Microsoft Office desktop products, users can easily and securely send sensitive content via email with a single click, or collaborate using familiar applications and save updated versions directly to all connected repositories. Intuitive interfaces allow access from a web browser or via mobile apps for iOS or Android devices. Extensive governance controls over all file sharing activity across your content stores enables government agencies to have full visibility into where data is stored, what data is being shared, and who has viewed, downloaded, or edited that data. Accellion features granular policy controls and trusted audit logs at the file, folder, and repository level enable compliance with SOC-2 (SSAE-16), FISMA, FIPS 140-2, PCI-DSS environments, ITAR, and EAR.\nAccellion kiteworks is available to Federal Government customers in isolated environments on Amazon Cloud. The system is accessed and maintained by US citizens however Accellion does not have access to any content. The kiteworks FedRAMP package features:\n- Separate customer virtual private cloud (VPC) for all processing\n- Dedicated servers\n- Data isolated from all other customers\n- Encrypted file storage and transfer\n- Sole encryption key ownership - Accellion does not have access\n- Remote wipe for all mobile clients\n- Reporting and audit trails\n- Continuous Monitoring for intrusions and other threats - includes vulnerability and penetration scanning as well as rigorous, proactive remediation, plan of action and milestones for mediation tracking\nTo learn more about what Accellion kiteworks can do for government agencies, please visit: [https://www.accellion.com/government](https://www.accellion.com/government).",
+        "CSO_Description": "Accellion’s secure file sharing platform, kiteworks, enables government agencies to securely connect their content to the people and systems that are part of their critical business systems processes, regardless of the applications that create that content or where it is stored, while maintaining the controls and visibility needed to demonstrate compliance.\n\nProtect your most sensitive content with a proven security model and integration with your existing security infrastructure. With kiteworks, your content is run through your DLP and ATP technologies to prevent malware and breaches; your users are authorized by your LDAP / AD profiles, Single Sign On and Multi-Factor Authentication solution; and all events / logs are integrated with your SIEM system.\n\nAccellion kiteworks provides simple access to content from the internet, a mobile device, or email. With secure plug-ins for Microsoft Outlook, as well as Microsoft Office 365 online or Microsoft Office desktop products, users can easily and securely send sensitive content via email with a single click, or collaborate using familiar applications and save updated versions directly to all connected repositories. Intuitive interfaces allow access from a web browser or via mobile apps for iOS or Android devices. Extensive governance controls over all file sharing activity across your content stores enables government agencies to have full visibility into where data is stored, what data is being shared, and who has viewed, downloaded, or edited that data. Accellion features granular policy controls and trusted audit logs at the file, folder, and repository level enable compliance with SOC-2 (SSAE-16), FISMA, FIPS 140-2, PCI-DSS environments, ITAR, and EAR.\nAccellion kiteworks is available to Federal Government customers in isolated environments on Amazon Cloud. The system is accessed and maintained by US citizens however Accellion does not have access to any content. The kiteworks FedRAMP package features:\n\n- Separate customer virtual private cloud (VPC) for all processing\n- Dedicated servers\n- Data isolated from all other customers\n- Encrypted file storage and transfer\n- Sole encryption key ownership - Accellion does not have access\n- Remote wipe for all mobile clients\n- Reporting and audit trails\n- Continuous Monitoring for intrusions and other threats - includes vulnerability and penetration scanning as well as rigorous, proactive remediation, plan of action and milestones for mediation tracking\n\nTo learn more about what Accellion kiteworks can do for government agencies, please visit: [https://www.accellion.com/government](https://www.accellion.com/government).",
         "Announcement_Date": "2017-06-01T04:00:00.000Z",
         "CSP_POC_Name": "Frank Balonis",
         "CSP_POC_Email": "fbalonis@accellion.com",
@@ -12035,7 +12058,7 @@
         "Cloud_Service_Provider_Name": "Code42 Software Inc.",
         "Cloud_Service_Provider_Package": "Code42 Gov",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "FR1910758409",
         "Service_Model": [
           "SaaS"
@@ -12049,8 +12072,15 @@
         "Authorizing_Agency": "Department of Energy",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Code42%20Logo.png",
         "Independent_Assessor": "Deloitte & Touche LLP",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "FR1807853629",
+          "F1512167750",
+          "FR1823447014"
+        ],
         "CSP_Website": "www.code42.com",
         "CSO_Description": "Code42 is a cloud based data loss protection solution designed to provide the ability to detect, investigate, and respond to Insider Threats. Code42 software provides the ability to recover critical files in seconds, collect file activity from endpoints and cloud, log user file activity, monitor exfiltration events, restore deleted or modified files, and recover files from lost and stolen endpoints.",
+        "Announcement_Date": "2020-12-08T05:00:00.000Z",
         "CSP_POC_Name": "Jadee Hanson",
         "CSP_POC_Email": "security@code42.com",
         "Fedramp_Ready_Date": "2020-01-22T05:00:00.000Z",
@@ -12668,7 +12698,7 @@
         "Cloud_Service_Provider_Name": "EnergyCAP, Inc.",
         "Cloud_Service_Provider_Package": "EnergyCAP",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "FR1930046270",
         "Service_Model": [
           "SaaS"
@@ -12681,8 +12711,14 @@
         "Authorizing_Agency": "Department of State",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/EnergyCAP%20Logo.png",
         "Independent_Assessor": "Lazarus Alliance, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "F1209051525",
+          "F1508207205"
+        ],
         "CSP_Website": "www.EnergyCAP.com",
         "CSO_Description": "Our award-winning EnergyCAP software is the foundation of a comprehensive utility bill accounting and energy management program. Serving as the hub for your vendor, utility, and facility data, EnergyCAP’s powerful analysis and reporting functions deliver value across energy management, sustainability, accounting, and building operations. EnergyCAP is proven to streamline operations, enable in-depth analysis, and deliver long-term energy and cost savings.\r\n \r\nEnergyCAP’s software and services are available on the GSA Advantage pricing schedule.",
+        "Announcement_Date": "2020-12-07T05:00:00.000Z",
         "CSP_POC_Name": "John Heinz",
         "CSP_POC_Email": "FedRAMP@EnergyCAP.com",
         "FedRAMP_In-Process_Date": "2020-08-11T04:00:00.000Z",
@@ -12708,6 +12744,29 @@
         "CSP_POC_Name": "Paul Townsend",
         "CSP_POC_Email": "fedramp@acuant.com",
         "Fedramp_Ready_Date": "2020-11-30T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "AgilQuest Corporation",
+        "Cloud_Service_Provider_Package": "Forum",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2100740435",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "LI-SaaS",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/AgilQuest%20Logo.png",
+        "Independent_Assessor": "The Cadence Group",
+        "CSP_Website": "login.agilquest.com",
+        "CSO_Description": "Forum, AgilQuest’s Workplace Management Software, is the solution to managing your space whether it’s desks, conference rooms, amenities, or resources. AgilQuest Corporation, a certified VOSB, provides this innovative, SaaS scheduling system to enhance the Government’s Workforce Productivity and Workspace Optimization.\n\n**Workforce Productivity:** With Forum, you are giving your employees the choice and flexibility to work where they work best, leading to improved collaboration and increased productivity.\n\n* Find available places to work and reserve workstations, conference rooms, and resources like equipment, services, health & wellness, parking, and transportation to be your most efficient and productive self. \n* Quickly and easily locate colleagues to enhance engagement, teamwork, and productivity. \n* Use the desktop platform to create workspace reservations for the upcoming weeks or quickly secure a meeting room on the mobile app.\n* Create your dynamic, efficient workplace with digital signage like Room Kiosks, Lobby Kiosks, Desk Signs, and ID Screens, so employees can create and manage their reservations from anywhere in the office.\n* Utilize integrations with platforms you already know well, like Microsoft Office, to make Forum’s adoption and deployment simple.\n\n**Workplace Optimization:** Forum not only leads to a more productive, efficient office but also makes it easy to understand how your office and people are working to better optimize your workplace. By measuring actual utilization of your office space and managing your workplace operations such as occupancy management, permanently assigned space, and the flexible office strategies of hoteling, free address and hotdesking, Forum helps you make data-driven decisions about your workplace and real estate. \n\n\r\nAgencies leverage this mission critical solution to manage:\n\n* **Telework & Flexibility** – Manage and measure work from any location including WFH (work from home), the office, other Agencies, or coworking locations. \r\n* **Reducing Company Footprint** – Measure the actual utilization of space for short duration Workplace Surveys as well as continuous, consistent, and systematic measurement of People, Presence, and Workplace use across the entire portfolio year after year. Agencies can cut their office space by up to 50%, as AgilQuest facilitated for GSA’s 1800F HQ. Forum Analytics data analysis provides management the support tool necessary to make space planning and office space invest/divest decisions.\r\n* **Zero Emission Buildings** – Through actual utilization measurement, real estate reduction, and shared desk strategies, Agencies can reduce their office space, and thus reduce their Carbon Footprint by up to 50%. \r\n* **COVID-19 Back to the Workplace & Contact Tracing** – Provide employee trust to encourage coming back to the workplace, contactless operations through mobile app and QR code bookings, partition stagger strategies, physical/social Distancing, contact trace and verification, and compliance support.   ",
+        "CSP_POC_Name": "Don Davidson",
+        "CSP_POC_Email": "FedRAMP@agilquest.com",
+        "FedRAMP_In-Process_Date": "2020-12-08T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -12834,7 +12893,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Silo%20Logo.png",
         "Independent_Assessor": "Kratos",
         "CSP_Website": "https://www.authentic8.com",
-        "CSO_Description": "Silo is a remote browser that embeds security, identity and data policies directly into the browser. Available from anywhere, policies follow users regardless of environment. By shifting exposure away from the user's network and devices, Silo reduces risk and improves internal processes. With a configurable, centrally managed browser, users unlock the power of SaaS.\nAuthentic8 is redefining how enterprises conduct business on the web with the Silo web isolation platform. Silo insulates and isolates all web data and code execution from user endpoints, providing powerful, proactive security while giving users full, interactive access to the web. Silo also gives IT complete control over how the web is used. Commercial enterprises and public sector organizations use Silo solutions to provide secure web access; to control web data, apps, and workflows; and to conduct sensitive online research.",
+        "CSO_Description": "Silo is a remote browser that embeds security, identity and data policies directly into the browser. Available from anywhere, policies follow users regardless of environment. By shifting exposure away from the user's network and devices, Silo reduces risk and improves internal processes. With a configurable, centrally managed browser, users unlock the power of SaaS.\n\nAuthentic8 is redefining how enterprises conduct business on the web with the Silo web isolation platform. Silo insulates and isolates all web data and code execution from user endpoints, providing powerful, proactive security while giving users full, interactive access to the web. Silo also gives IT complete control over how the web is used. Commercial enterprises and public sector organizations use Silo solutions to provide secure web access; to control web data, apps, and workflows; and to conduct sensitive online research.",
         "CSP_POC_Name": "Michael Fledderjohann",
         "CSP_POC_Email": "fedramp@authentic8.com",
         "FedRAMP_In-Process_Date": "2020-01-06T05:00:00.000Z",
