@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-12-17T05:40:50.975Z",
+    "Created_At": "2020-12-18T05:40:50.317Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -386,6 +386,14 @@
             "Letter_Expiration_Date": "2023-05-01T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Interior",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2018-09-25T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-09-25T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Office of the Comptroller of the Currency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -1550,7 +1558,6 @@
           },
           {
             "Letter_Date": "2019-03-11T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-12-14T05:00:00.000Z",
             "Authorizing_Agency": "Pretrial Services Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PSA%20Logo.jpg",
             "Include_In_Marketplace": "Y"
@@ -3808,14 +3815,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-05-07T04:00:00.000Z",
-            "Letter_Expiration_Date": "2020-11-27T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-05-27T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Retirement Thrift Investment Board",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRTIB%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-08-26T04:00:00.000Z",
             "Letter_Expiration_Date": "2021-08-27T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-08-27T04:00:00.000Z",
@@ -3868,6 +3867,14 @@
             "Letter_Expiration_Date": "2023-02-11T05:00:00.000Z",
             "Authorizing_Agency": "United States Agency for International Development",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-12-10T05:00:00.000Z",
+            "Letter_Expiration_Date": "2023-08-13T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-12-17T05:00:00.000Z",
+            "Authorizing_Agency": "Federal Retirement Thrift Investment Board",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRTIB%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -7640,6 +7647,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-06-18T04:00:00.000Z",
             "Authorizing_Agency": "Department of Veterans Affairs",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-12-15T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-12-15T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "United States Air Force",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -13547,6 +13562,28 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Google",
+        "Cloud_Service_Provider_Package": "Google Workspace",
+        "Path": "JAB",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "F1206081364A",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Google%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://gsuite.google.com/",
+        "CSO_Description": "Google Workspace (formerly G Suite) is comprised of Google’s multi-tenant public and hybrid\ncloud instances and leverages Google Services (Google Cloud Platform Products). \n\nThe following Google Workspace editions are FedRAMP authorized: Google Workspace Basic,\r\nGoogle Workspace Business, Google Workspace Enterprise, Google Workspace for Education,\r\nGoogle Workspace Enterprise for Education, Google Workspace for Nonprofits, and Google\r\nWorkspace for Governments. The following Google Workspace services are FedRAMP\r\nauthorized: Admin Console, Admin SDK, Android and Chrome Device Management, Calendar,\r\nChrome Sync (for Google Workspace for Education domains only), Classroom, Cloud Identity\r\n(including Auto Provisioning), Cloud Search (including 3P), Contacts, Directory Sync, Docs,\r\nDrawings, Drive, Google Drive for Work, Forms, Google Workspace Security Center (for Google\r\nWorkspace Enterprise and Google Workspace Enterprise for Education domains only), Gmail\r\n(incl. Talk), Google Tasks, Groups for Business, Google Chat (including Classic Hangouts Bot,\r\nGoogle Drive Bot, and Meet Bot), Google Hangouts, Google Meet (including Live Stream),\r\nGoogle Voice, Jamboard, Keep, Secure LDAP, Sheets, Sites Classic, Sites New, Slides, Vault;\r\nAdmin SDK: Admin Settings API, Apps Email Audit API, Calendar Resource API, Directory API\r\n(replaced Provisioning API), Domain Shared Contacts API, Email Settings API, Enterprise\r\nLicense Manager API, Groups Migration API, Groups Settings API, Reports API, Reseller API;\r\nDocs APIs: Apps Activity API, Calendar API, Contacts API, Drive REST API (replaced\r\nDocuments List API), Gmail REST API (replaced Email Migration API), Sheets API, Sites API,\r\nTasks API.\n\nGoogle Cloud Platform services are now described on the Google Services (Google Cloud Platform Products and\nunderlying Infrastructure) authorized FedRAMP Marketplace page.",
+        "CSP_POC_Name": "Google FedRAMP Team",
+        "CSP_POC_Email": "fedramp@google.com",
+        "Fedramp_Ready_Date": "2020-12-16T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Gordian",
         "Cloud_Service_Provider_Package": "Gordian Federal Cloud powered by RSMeans Data",
         "Path": "JAB",
@@ -14399,13 +14436,18 @@
       {
         "Cloud_Service_Provider_Name": "TechTrend, Inc.",
         "Cloud_Service_Provider_Package": "Federal GovCloud (FGC) DevSecOps",
-        "Designation": "FedRAMP Ready",
+        "Path": "Agency",
+        "Designation": "In Process",
         "Package_ID": "FR1912051231",
         "Service_Model": [
           "PaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Agriculture",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+        "Authorizing_Agency": "Department of Agriculture",
+        "Authorizing_Subagency": "United States Forest Service",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/TechTrend%20Logo.png",
         "Independent_Assessor": "Lazarus Alliance",
         "CSP_Website": "www.techtrend.us",
@@ -14413,6 +14455,7 @@
         "CSP_POC_Name": "Sonoka Ho",
         "CSP_POC_Email": "fedramp@techtrend.us",
         "Fedramp_Ready_Date": "2019-10-01T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2020-12-17T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
