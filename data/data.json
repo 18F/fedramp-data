@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-12-22T05:40:50.465Z",
+    "Created_At": "2020-12-23T05:40:50.599Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1244,7 +1244,7 @@
         "CSP_Website": "https://www.gdt.com",
         "CSO_Description": "The GDT Government Cloud is a FedRAMP Compliant Infrastructure as a Service (IaaS) offering that government agencies can leverage to deploy and manage compute, network, and storage resources in a self-service model. The Government Cloud holds a FISMA Moderate Joint Authorization Board Provisional ATO (P-ATO) and is authorized to support DoD Impact Level 2 (IL2) workloads. This Government Community Cloud deployment model ensures only government or supporting organizations supporting government agency workloads are hosted on the system. The GDT Government Cloud supports both single system and hybrid deployments to connect workloads in multiple locations aligning to current government agency adoption patterns. Learn more at [https://www.gdt.com/cloud/government-cloud/](https://www.gdt.com/cloud/government-cloud/)",
         "Announcement_Date": "2015-02-04T05:00:00.000Z",
-        "CSP_POC_Name": "Eric Ballantyne",
+        "CSP_POC_Name": "Steven Holmes",
         "CSP_POC_Email": "fedramp@gdt.com",
         "FedRAMP_In-Process_Date": "2014-06-18T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
@@ -8594,6 +8594,15 @@
             "Authorizing_Subagency": "United States Air Force",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-12-17T05:00:00.000Z",
+            "Letter_Expiration_Date": "2021-12-31T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-12-21T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "United States Air Force",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -13637,6 +13646,30 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Hootsuite",
+        "Cloud_Service_Provider_Package": "Hootsuite Enterprise",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1728349078",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Li-SaaS",
+        "Sponsoring_Agency": "Department of the Interior",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+        "Authorizing_Agency": "Department of the Interior",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Hootsuite%20Logo.png",
+        "Independent_Assessor": "Department of the Interior",
+        "CSP_Website": "https://hootsuite.com/industries/government",
+        "CSO_Description": "Hootsuite is an enterprise social media management platform used by governments and agencies to engage with citizens, manage crisis communications, and deliver services and\r\ninformation via social media. By managing all social media activity through a single, secure platform, agencies with large and distributed teams can engage directly with citizens across\r\npublic and private social channels without compromising control over messaging and access.Hootsuite’s real-time social listening capabilities, integrations with compliance partners, and\r\necosystem of more than 200 connected applications help agencies monitor and measure public sentiment, stay compliant with FOIA and other public records laws, and integrate social media across their organization.\r",
+        "CSP_POC_Name": "Cherian Palayoor",
+        "CSP_POC_Email": "fedramp@hootsuite.com\r",
+        "FedRAMP_In-Process_Date": "2020-12-16T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Icertis Inc.",
         "Cloud_Service_Provider_Package": "ICM (Icertis Contract Management)",
         "Designation": "FedRAMP Ready",
@@ -14433,7 +14466,7 @@
         "Sponsoring_Agency": "JAB Authorization",
         "Authorizing_Agency": "JAB Authorization",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Synergetics%20Logo.png",
-        "Independent_Assessor": "Information Technology Company, LLC",
+        "Independent_Assessor": "First Information Technology Services, Inc.",
         "CSP_Website": "https://synergetics.com/openflis",
         "CSO_Description": "OpenFLIS is an easily customizable, FedRAMP Ready, cloud-based data collation, retrieval, and dissemination platform that enables users to search and display information across multiple databases, sources, and formats. When coupled with the Synergetics Craft Product Architecture (SCPA) application tool, OpenFLIS provides the ability to reach across technological generations and sources to provide access and visibility to any data in any format. The system consists of the SCPA collation and dissemination tool as well as provisioning, cataloging, search and discovery, Information Management / Knowledge Management (IM/KM), and administrator’s modules that comprise the platform.",
         "CSP_POC_Name": "Bill Barton",
@@ -14448,7 +14481,7 @@
         "Designation": "In Process",
         "Package_ID": "FR1912051231",
         "Service_Model": [
-          "PaaS"
+          "SaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
@@ -14459,7 +14492,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/TechTrend%20Logo.png",
         "Independent_Assessor": "Kratos",
         "CSP_Website": "www.techtrend.us",
-        "CSO_Description": "Federal GovCloud (FGC) provides U.S. federal government agencies with a common Platform-as-a-Service (PaaS) automating development, security, and operations (DevSecOps) approach to support the full software development life cycle. FGC DevSecOps PaaS will quickly and securely enable a continuous integration and continuous deployment (CI/CD) pipeline to deliver applications to customers frequently and with high software quality. It resides on Microsoft Azure Government cloud infrastructure and has been designed to leverage Azure’s FedRAMP compliant services while integrating a suite of tools and technologies that provide the foundational components to support DevSecOps. It is cloud service provider or landing zone agnostic and supports secure automation driven deployment to various providers including Azure, Amazon Web Services, low-code platforms (e.g., Salesforce), and on-premises. Federal agencies can focus on developing amazing applications to support their missions by utilizing a turnkey platform to speed the integration, testing, monitoring and deployment of their secure software to a customer defined landing zone’s agnostic test and/or production environments.",
+        "CSO_Description": "Federal GovCloud (FGC) provides U.S. federal government agencies with a common integrated Solution-as-a-Service (SaaS) automating development, security, and operations (DevSecOps) approach to support the full software development life cycle. FGC DevSecOps SaaS will quickly and securely enable a continuous integration and continuous deployment (CI/CD) pipeline to deliver applications to customers frequently and with high software quality and integrated security validation tools. It resides on Microsoft Azure Government cloud infrastructure and has been designed to leverage Azure’s FedRAMP compliant services while integrating a suite of tools and technologies that provide the foundational components to support DevSecOps. It can deploy customer workloads to various landing zones as it is completely cloud service provider or landing zone agnostic and supports secure automation driven deployment to various providers including Azure, Amazon Web Services, Google Cloud, low-code platforms (e.g., Salesforce), and on-premises or hybrid deployment. Federal agencies can focus on developing amazing applications to support their missions by utilizing a turnkey platform of integrated DSO tools to speed the integration, testing, monitoring and deployment of their secure workloads to any customer defined environment.",
         "CSP_POC_Name": "Sonoka Ho",
         "CSP_POC_Email": "fedramp@techtrend.us",
         "Fedramp_Ready_Date": "2019-10-01T04:00:00.000Z",
