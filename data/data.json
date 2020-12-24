@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-12-23T05:40:50.599Z",
+    "Created_At": "2020-12-24T05:40:50.685Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -6781,6 +6781,13 @@
             "Authorizing_Subagency": "United States Patent and Trademark Office",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-09-21T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-09-20T04:00:00.000Z",
+            "Authorizing_Agency": "Small Business Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SmallBusinessAdmin-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -7658,6 +7665,13 @@
             "Include_In_Marketplace": "Y"
           },
           {
+            "Letter_Expiration_Date": "2023-09-21T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-09-20T04:00:00.000Z",
+            "Authorizing_Agency": "Small Business Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SmallBusinessAdmin-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
             "Letter_Date": "2020-12-15T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-12-15T05:00:00.000Z",
             "Authorizing_Agency": "Department of Defense",
@@ -7872,6 +7886,13 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "FirstNet",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-09-21T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-09-20T04:00:00.000Z",
+            "Authorizing_Agency": "Small Business Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SmallBusinessAdmin-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -11986,6 +12007,13 @@
             "Authorizing_Agency": "Social Security Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-09-21T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-09-20T04:00:00.000Z",
+            "Authorizing_Agency": "Small Business Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SmallBusinessAdmin-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -13338,6 +13366,7 @@
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Sponsoring_Agency": "Small Business Administration",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SmallBusinessAdmin-Seal.png",
         "Authorizing_Agency": "Small Business Administration",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Continuum%20Logo.png",
         "Independent_Assessor": "Earthling Security, LLC",
@@ -13574,6 +13603,13 @@
             "Authorizing_Agency": "Department of Transportation",
             "Authorizing_Subagency": "Federal Aviation Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-09-21T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-09-20T04:00:00.000Z",
+            "Authorizing_Agency": "Small Business Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SmallBusinessAdmin-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -15394,7 +15430,21 @@
         "Consulting_Services_To": "* Adobe\n* Agari\n* HackerOne\n* Palo Alto Networks\n* Zendesk",
         "Additional_Cyber_Frameworks": "* HIPAA\n* HITRUST\n* ISO27001\n* PCI\n* SOC\n* SOX"
       },
-      {},
+      {
+        "Name": "Vaultes",
+        "Description": "Vaultes applies our extensive technical knowledge and compliance framework expertise to assist CSPs prepare for, obtain, and maintain FedRAMP authorization by providing comprehensive security services including:\r\n\r\n* FedRAMP authorization strategy\r\n* Security control planning and implementation\r\n* FedRAMP readiness/gap assessment\r\n* Security documentation preperation\r\n* Vulnerabilty and penetration testing\r\n* Security Authorization Package submission\r\n* Continuous Monitoring\r\n",
+        "POC_Name": "Cristina Mack",
+        "POC_Email": "fedramp@vaultes.com",
+        "website": "www.vaultes.com",
+        "Remediation": "N",
+        "Founded": 2016,
+        "Primary_Office_Locations": "12110 Sunset Hills Rd. STE 600 Reston, VA 20190",
+        "FedRAMP_Assessed": "None",
+        "Provide_Consulting_Services": "Y",
+        "Description_of_Consulting_Services": "Vaultes offers experienced and certified cyber security experts to help commerical companies and federal agencies implement cyber security frameworks and prepare for compliance audits by providing comprehensive cyber security consulting services including:\r\n\r\n* Compliance Audits \r\n* Audit Readiness and Remediation\r\n* IT Risk Assessments\r\n* Security Architecture Design Services\r\n* Penetration and Vulnerability Testing\r\n* Cyber Security Training",
+        "Consulting_Services_To": "None",
+        "Additional_Cyber_Frameworks": "* Cybersecurity Maturity Model Certification (CMMC)\n* NIST SP 800-171\n* NIST SP 800-53"
+      },
       {
         "Consulting_Services_To": " "
       },
