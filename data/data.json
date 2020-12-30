@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2020-12-29T05:40:50.537Z",
+    "Created_At": "2020-12-30T05:40:50.352Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -13382,6 +13382,25 @@
         "CSP_POC_Name": "Dan Naselius",
         "CSP_POC_Email": "FedRAMP@CORAS.com",
         "Fedramp_Ready_Date": "2020-11-05T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "CyLogic",
+        "Cloud_Service_Provider_Package": "CyCloud for VMware Cloud Foundation 4 (VCF4)",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2108731521",
+        "Service_Model": [
+          "IaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CyLogic%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://CyLogic.com",
+        "CSO_Description": "CyLogic’s CyCloud is a VMware-based, Secure Enterprise Cloud offering designed from the ground up to deliver VMware Cloud Foundation’s next-generation Software Defined Data Center capabilities in compliance with FedRAMP High requirements.  As recognized by the FedRAMP Program Management Office (PMO), CyCloud is a “closed system” and does not inherit external services. CyCloud allows full control and operational insight to U.S. Federal Agencies.  CyLogic delivers the ease-of-use and economies-of-scale of a public cloud combined with the dedicated resources and customer control of a private cloud deployment to deliver a new highly compliant model for government organizations.\n\nIncorporating the latest version of VMware Cloud Foundation 4 (VCF4), CyCloud merges compliant automated deployment capabilities with CyLogic’s Software-Defined Cybersecurity framework.\n\nCyCloud is a dedicated air-gapped infrastructure designed for Government Agencies, that delivers next generation virtual machine, orchestration, and cybersecurity capabilities including a dedicated Government-only Management Console.  CyCloud is a closed system that does not utilize any external services, providing complete control across all layers of the cloud stack. CyCloud provides isolated network, data, storage, virtual machines, Federally Compliant Identity and Access Management (IdAM), dedicated management portal, and FIPS 140-2 Validated cryptographic modules for data-in-transit and data-at-rest.\n\nCyCloud is supported and monitored via CyLogic-controlled Operations Centers in two locations including an Operations Center and COOP DR site located over 200 feet underground. CyCloud is 100% deployed in the Continental United States and supported by 100% U.S. Citizen Access located CONUS.\n\nAs a Federal Small Business, CyLogic delivers Cloud Infrastructure as it was meant to be – with native security, compliance, performance, control, ease-of-use, continuous monitoring, predictable pricing, and zero lock-in.  Using a unique implementation of VMware Cloud Foundation (VCF) 4, CyLogic delivers full control and operational insight to its customers.  Additional information is available at [http://CyLogic.com](http://CyLogic.com).\n",
+        "CSP_POC_Name": "Christopher Grady",
+        "CSP_POC_Email": "fedramp@cylogic.com",
+        "Fedramp_Ready_Date": "2020-12-16T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
