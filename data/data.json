@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-01-21T05:40:50.748Z",
+    "Created_At": "2021-01-22T05:40:50.658Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2989,15 +2989,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2019-12-23T05:00:00.000Z",
-            "Letter_Expiration_Date": "2021-01-19T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-01-29T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "United States Patent and Trademark Office",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Authorizing_Letter_Last_Sign_Date": "2020-02-26T05:00:00.000Z",
             "Authorizing_Agency": "Nuclear Regulatory Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
@@ -3062,6 +3053,15 @@
             "Authorizing_Agency": "Department of Homeland Security",
             "Authorizing_Subagency": "Customs and Border Protection",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-01-11T05:00:00.000Z",
+            "Letter_Expiration_Date": "2022-01-19T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-01-14T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "United States Patent and Trademark Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -6143,6 +6143,13 @@
             "Include_In_Marketplace": "Y"
           },
           {
+            "Authorizing_Letter_Last_Sign_Date": "2020-07-08T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Housing Finance Agency",
+            "Authorizing_Subagency": "FHFA Office of the Inspector General",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
             "Letter_Date": "2020-11-01T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-11-04T05:00:00.000Z",
             "Authorizing_Agency": "Department of the Treasury",
@@ -8326,6 +8333,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-07-15T04:00:00.000Z",
             "Authorizing_Agency": "Department of Labor",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2020-10-06T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Housing Finance Agency",
+            "Authorizing_Subagency": "FHFA Office of the Inspector General",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -12329,7 +12343,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20CI%20Logo.png",
         "Independent_Assessor": "Schellman & Company, LLC",
         "CSP_Website": "https://cloud.oracle.com",
-        "CSO_Description": "Oracle Cloud Infrastructure is a government-community cloud architected to provide U.S. public sector entities with best-in-class security and industry leading price-performance. Oracle Cloud Infrastructure services are a set of complementary infrastructure and platform cloud services that enable customers to build and run their enterprise workloads through high-performance, secure, and available services that scale elastically.  With Oracle Cloud Infrastructure, public sector entities can use Oracle development tools to enhance existing applications while creating and integrating new cloud-native applications.\n\nThe following OCI services are FedRAMP Authorized and approved by the JAB: OCI Compute Services, Object Storage Service, Block Storage Service, Database Cloud Service, Exadata Cloud Service, Key Management Service (Vault), Virtual Cloud Networks, FastConnect, Load Balancing as a Service, Identity and Access Management,  Auditing, Announcements, Autoscaling, Cloud Events, Container Engine for Kubernetes (OKE), Compute Monitoring, Digital Assistant, File Storage Service, Linux/YUM Repo, Metering Usage Reports, Notifications (ONS), OCI Monitoring, OCI Registry (OCIR), Oracle Resource Manager (Orchestration), Private endpoints, Streaming (OSS), Terraform.",
+        "CSO_Description": "Oracle Cloud Infrastructure is a government-community cloud architected to provide U.S. public sector entities with best-in-class security and industry leading price-performance. Oracle Cloud Infrastructure services are a set of complementary infrastructure and platform cloud services that enable customers to build and run their enterprise workloads through high-performance, secure, and available services that scale elastically. With Oracle Cloud Infrastructure, public sector entities can use Oracle development tools to enhance existing applications while creating and integrating new cloud-native applications.\r\n\r\nThe following Oracle Cloud Infrastructure services are authorized at the FedRAMP High Impact Level and approved by the JAB: OCI Compute Services, Object Storage Service, Block Storage Service, Database Cloud Service, Exadata Cloud Service, Key Management Service (Vault), Virtual Cloud Networks, FastConnect, Load Balancing as a Service, Identity and Access Management, Auditing, Announcements, Autoscaling, Cloud Events, Container Engine for Kubernetes (OKE), Compute Monitoring, Digital Assistant, File Storage Service, Linux/YUM Repo, Metering Usage Reports, Notifications (ONS), OCI Monitoring, OCI Registry (OCIR), Oracle Resource Manager (Orchestration), Private Endpoints, Streaming (OSS), Terraform, API Gateway, Cloud Shell, Data Flow Service, Data Science Service, Data Transfer Service, Email Delivery Service, Functions, OCI Marketplace, Oracle Cloud VMWare Provisioning Service, Secrets in Vault.",
         "Announcement_Date": "2020-10-01T04:00:00.000Z",
         "CSP_POC_Name": "Rico McGee",
         "CSP_POC_Email": "fedrampinfo_us@oracle.com",
@@ -12954,6 +12968,30 @@
         "CSP_POC_Email": "fedramp@rksolutions.com",
         "Fedramp_Ready_Date": "2018-05-29T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2018-10-22T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Palo Alto Networks, Inc.",
+        "Cloud_Service_Provider_Package": "Palo Alto Networks Government Cloud Services",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1913470600",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-10-09T04:00:00.000Z",
+        "Sponsoring_Agency": "Federal Housing Finance Agency",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/cncs_1.png",
+        "Authorizing_Agency": "Federal Housing Finance Agency",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Palo%20Alto%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "CSP_Website": "www.paloaltonetworks.com",
+        "CSO_Description": "Palo Alto Networks Government Cloud Services include a variety of cloud-based cybersecurity offerings, including Cortex XDR, Cortex Data Lake, and Prisma Cloud. Cortex XDR is an extended prevention, detection and response platform that integrates network, endpoint and cloud data to stop sophisticated attacks. Cortex Data Lake collects, normalizes, and integrates data from Palo Alto Networks products with public cloud scale. Prisma Cloud is a cloud native security platform that provides comprehensive visibility, threat prevention, compliance assurance and data protection consistently across hybrid and multi-cloud environments.",
+        "CSP_POC_Name": "Brad Bartholomew",
+        "CSP_POC_Email": "fedramp@paloaltonetworks.com",
+        "FedRAMP_In-Process_Date": "2019-11-07T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -14364,29 +14402,6 @@
         "CSP_POC_Name": "Mark McDaniel",
         "CSP_POC_Email": "fedramp@oversightsystems.com",
         "Fedramp_Ready_Date": "2019-12-11T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Palo Alto Networks, Inc.",
-        "Cloud_Service_Provider_Package": "Palo Alto Networks Government Cloud Services",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1913470600",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Federal Housing Finance Agency",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/cncs_1.png",
-        "Authorizing_Agency": "Federal Housing Finance Agency",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Palo%20Alto%20Logo.png",
-        "Independent_Assessor": "Kratos",
-        "CSP_Website": "www.paloaltonetworks.com",
-        "CSO_Description": "Palo Alto Networks Government Cloud Services include a variety of cloud-based cybersecurity offerings, including Cortex XDR, Cortex Data Lake, and Prisma Cloud. Cortex XDR is an extended prevention, detection and response platform that integrates network, endpoint and cloud data to stop sophisticated attacks. Cortex Data Lake collects, normalizes, and integrates data from Palo Alto Networks products with public cloud scale. Prisma Cloud is a cloud native security platform that provides comprehensive visibility, threat prevention, compliance assurance and data protection consistently across hybrid and multi-cloud environments.",
-        "CSP_POC_Name": "Brad Bartholomew",
-        "CSP_POC_Email": "fedramp@paloaltonetworks.com",
-        "FedRAMP_In-Process_Date": "2019-11-07T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
