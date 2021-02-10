@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-02-09T05:40:50.330Z",
+    "Created_At": "2021-02-10T05:40:50.452Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4506,8 +4506,10 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Trapwire%20Logo.png",
         "Independent_Assessor": "SecureIT",
         "Underlying_CSP_Package_ID": [
+          "F1206061353",
           "AGENCYAMAZONEW",
-          "F1603087869"
+          "F1603087869",
+          "F1607057910"
         ],
         "CSP_Website": "www.trapwire.com",
         "CSO_Description": "TRAPWIRE is the preeminent software platform for detecting and alerting on threats against your assets and personnel in real-time. It provides a comprehensive suite of tools all synchronized and accessible in one centralized, highly secure and encrypted platform, including:\n- Incident reporting - Pattern analysis and threat detection - Originator-controlled information sharing - Mass warning and notifications - Cross-organizational collaboration - Mobile applications for reporting and alerts\nThe TRAPWIRE Threat Detection and Analysis System brings security organizations into a protection network that detects and alerts on mutual threats spanning time and geography, allowing users to break down stovepipes and interdict threats before they materialize into successful criminal or terrorist acts. The network encapsulates thousands of protected facilities and personnel spanning Federal, State, and Local Law Enforcement; Anti-Terrorism/Force Protection personnel; private/commercial security organizations; and community protection programs. Bringing all sectors together with modern technology and expert analytical support services, while maintaining “originator control” principles for each owner’s data, empowers a tangible force multiplier effect.",
@@ -7473,14 +7475,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2018-01-25T05:00:00.000Z",
-            "Letter_Expiration_Date": "2021-01-25T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Justice",
-            "Authorizing_Subagency": "United States Marshals Service",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2018-05-31T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-05-31T04:00:00.000Z",
             "Authorizing_Agency": "Farm Credit Administration",
@@ -7767,6 +7761,15 @@
             "Authorizing_Agency": "Department of the Interior",
             "Authorizing_Subagency": "Bureau of Trust Funds Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-01-13T05:00:00.000Z",
+            "Letter_Expiration_Date": "2024-01-26T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-01-26T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Justice",
+            "Authorizing_Subagency": "United States Marshals Service",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -8336,7 +8339,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
         "Authorizing_Agency": "Department of Energy",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/KnowBe4%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Independent_Assessor": "Lunarline, Inc.",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW"
         ],
@@ -13657,6 +13660,29 @@
         "CSP_POC_Name": "Bruce Shim",
         "CSP_POC_Email": "bruce.shim@citrix.com",
         "Fedramp_Ready_Date": "2020-10-08T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Civis Analytics, Inc.",
+        "Cloud_Service_Provider_Package": "Civis Platform",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2014656304",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "United States Agency for International Development",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
+        "Authorizing_Agency": "United States Agency for International Development",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Civis%20Logo.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "www.civisanalytics.com",
+        "CSO_Description": "Civis Analytics, Inc. (Civis) operates a SaaS solution that provides software services that use data to give companies insights on their audiences and how to better interact and engage with them. Civis Analytics serves both private and public sector organizations and strives for science based truths in their data to best assist companies in finding, understanding, and connecting with customers. They endeavor to make data science straightforward and easy to understand, so that you don't have to navigate niche buzzwords to get to the data you need to grow your business. The goal of Civis Analytics is to help you succeed.\r\n\r\nCivis Platform provides users access to a powerful data analysis, processing, and reporting tool in a convenient cloud environment, all hosted in Amazon Web Services US East/West. Users can upload their own data, their own code, or use existing Civis code for data manipulation and reporting functionality. Data is warehoused in Amazon Redshift, while Tableau servers offer data analytics services. Users can run jobs created by Civis on shared task workers, or they can create their own custom jobs which run on single tenant client task workers.",
+        "CSP_POC_Name": "Civis Analytics Platform",
+        "CSP_POC_Email": "fedramp@civisanalytics.com",
+        "FedRAMP_In-Process_Date": "2021-02-02T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
