@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-02-16T05:40:50.738Z",
+    "Created_At": "2021-02-17T05:40:50.407Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2495,6 +2495,14 @@
             "Authorizing_Agency": "Department of the Interior",
             "Authorizing_Subagency": "United States Geological Survey",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-02-10T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-02-10T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Authorizing_Subagency": "VA Office of the Inspector General",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -13792,25 +13800,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Coupa Software Inc",
-        "Cloud_Service_Provider_Package": "Coupa Spend Management for Federal",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "F1308202329",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Coupa%20Logo.png",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "CSP_Website": "www.coupa.com",
-        "CSO_Description": "Coupa Spend Management for Federal is the industry's leading cloud and mobile platform for managing procurement/acquisition/contract related processes. It covers the end-to-end process, including supplier identification, sourcing, contracting, procurement against contracts, invoicing, payments, and spend analytics to ensure compliance and efficiency.\n\nKey capabilities include:\r\n\r\n* Consumer-grade end user and supplier experience to ensure broad adoption of the platform and maximize the value of each dollar spent   \r\n* Proven, secure solution that offers extensive configuration options, avoiding the need for custom code that is expensive to write and maintain\r\n* Full auditability for FAR/DFARS processes,  including related contract documents and communications across internal agency team members and external vendors  \r\n* Reduction in manual and paper-based processes using the latest in Artificial Intelligence (AI), Machine Learning (ML), and Image Recognition.\r\n* Support for compliance with Cost Accounting Standards (CAS) and other regulatory and/or compliance mandates.",
-        "CSP_POC_Name": "Andy Malay",
-        "CSP_POC_Email": "sales@coupa.com  ",
-        "Fedramp_Ready_Date": "2020-10-22T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "CORAS",
         "Cloud_Service_Provider_Package": "CORAS Federal",
         "Path": "JAB",
@@ -13831,6 +13820,25 @@
         "CSP_POC_Email": "FedRAMP@CORAS.com",
         "Fedramp_Ready_Date": "2020-11-05T05:00:00.000Z",
         "FedRAMP_In-Process_Date": "2021-02-04T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Coupa Software Inc",
+        "Cloud_Service_Provider_Package": "Coupa Spend Management for Federal",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "F1308202329",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Coupa%20Logo.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "www.coupa.com",
+        "CSO_Description": "Coupa Spend Management for Federal is the industry's leading cloud and mobile platform for managing procurement/acquisition/contract related processes. It covers the end-to-end process, including supplier identification, sourcing, contracting, procurement against contracts, invoicing, payments, and spend analytics to ensure compliance and efficiency.\n\nKey capabilities include:\r\n\r\n* Consumer-grade end user and supplier experience to ensure broad adoption of the platform and maximize the value of each dollar spent   \r\n* Proven, secure solution that offers extensive configuration options, avoiding the need for custom code that is expensive to write and maintain\r\n* Full auditability for FAR/DFARS processes,  including related contract documents and communications across internal agency team members and external vendors  \r\n* Reduction in manual and paper-based processes using the latest in Artificial Intelligence (AI), Machine Learning (ML), and Image Recognition.\r\n* Support for compliance with Cost Accounting Standards (CAS) and other regulatory and/or compliance mandates.",
+        "CSP_POC_Name": "Andy Malay",
+        "CSP_POC_Email": "sales@coupa.com  ",
+        "Fedramp_Ready_Date": "2020-10-22T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
