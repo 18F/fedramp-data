@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-02-17T05:40:50.407Z",
+    "Created_At": "2021-02-18T05:40:50.500Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3738,14 +3738,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2019-09-23T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-02-12T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-09-27T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Veterans Affairs",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-08-14T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-08-20T04:00:00.000Z",
             "Authorizing_Agency": "Consumer Financial Protection Bureau",
@@ -3911,6 +3903,14 @@
             "Authorizing_Agency": "Department of Homeland Security",
             "Authorizing_Subagency": "United States Secret Service",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-02-11T05:00:00.000Z",
+            "Letter_Expiration_Date": "2024-02-11T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-02-11T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -5366,14 +5366,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-02-13T05:00:00.000Z",
-            "Letter_Expiration_Date": "2021-02-12T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-02-13T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Veterans Affairs",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2021-10-03T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-02-18T05:00:00.000Z",
             "Authorizing_Agency": "Department of Health and Human Services",
@@ -5385,6 +5377,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-03-26T04:00:00.000Z",
             "Authorizing_Agency": "Nuclear Regulatory Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-02-11T05:00:00.000Z",
+            "Letter_Expiration_Date": "2022-02-11T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-02-11T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -5779,47 +5779,6 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-04-30T04:00:00.000Z",
             "Authorizing_Agency": "National Archives and Records Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NARA_Logo.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Pegasystems Inc",
-        "Cloud_Service_Provider_Package": "Pega Cloud for Government",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1306282198",
-        "Service_Model": [
-          "PaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2018-12-20T05:00:00.000Z",
-        "Sponsoring_Agency": "Department of Justice",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
-        "Authorizing_Agency": "Department of Justice",
-        "Authorizing_Subagency": "Office of Justice Programs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/PEGA%20Logo.png",
-        "Independent_Assessor": "Kratos",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866",
-          "F1512167750"
-        ],
-        "CSP_Website": "www.pega.com",
-        "CSO_Description": "Pegasystems develops strategic applications for sales, marketing, service and operations. Pega’s applications streamline critical business operations, connect organizations to their customers seamlessly in real time across channels, and adapt to meet rapidly changing requirements. Pega’s Global 2000 customers include many of world’s most sophisticated and successful organizations and government agencies. Pega’s applications are built on the industry leading Pega 7 unified platform and made available via Pega Cloud. Pega Cloud provides customers and government agencies the ability to create, deliver and run Pega 7 applications on the cloud with operational excellence, enterprise-grade infrastructure and continuous lifecycle support.",
-        "Announcement_Date": "2019-03-15T04:00:00.000Z",
-        "CSP_POC_Name": "Lisa Holt",
-        "CSP_POC_Email": "CloudSales@pega.com",
-        "Fedramp_Ready_Date": "2018-05-29T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2018-04-26T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2021-01-15T05:00:00.000Z",
-            "Letter_Expiration_Date": "2024-02-01T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-02-01T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Food and Drug Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -13096,7 +13055,14 @@
         "CSP_POC_Name": "Brad Bartholomew",
         "CSP_POC_Email": "fedramp@paloaltonetworks.com",
         "FedRAMP_In-Process_Date": "2019-11-07T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2021-02-17T05:00:00.000Z",
+            "Authorizing_Agency": "Nuclear Regulatory Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Sumo Logic",
@@ -13243,6 +13209,47 @@
             "Authorizing_Agency": "Department of the Treasury",
             "Authorizing_Subagency": "Alcohol and Tobacco Tax and Trade Bureau",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Pegasystems Inc",
+        "Cloud_Service_Provider_Package": "Pega Cloud for Government",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1306282198",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-02-17T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Justice",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+        "Authorizing_Agency": "Department of Justice",
+        "Authorizing_Subagency": "Office of Justice Programs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/PEGA%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "F1512167750"
+        ],
+        "CSP_Website": "www.pega.com",
+        "CSO_Description": "Pegasystems develops strategic applications for sales, marketing, service and operations. Pega’s applications streamline critical business operations, connect organizations to their customers seamlessly in real time across channels, and adapt to meet rapidly changing requirements. Pega’s Global 2000 customers include many of world’s most sophisticated and successful organizations and government agencies. Pega’s applications are built on the industry leading Pega 7 unified platform and made available via Pega Cloud. Pega Cloud provides customers and government agencies the ability to create, deliver and run Pega 7 applications on the cloud with operational excellence, enterprise-grade infrastructure and continuous lifecycle support.",
+        "Announcement_Date": "2019-03-15T04:00:00.000Z",
+        "CSP_POC_Name": "Lisa Holt",
+        "CSP_POC_Email": "CloudSales@pega.com",
+        "Fedramp_Ready_Date": "2018-05-29T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2018-04-26T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2021-01-15T05:00:00.000Z",
+            "Letter_Expiration_Date": "2024-02-01T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-02-01T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -14388,6 +14395,25 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Knowledge Services",
+        "Cloud_Service_Provider_Package": "dotStaff",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2113552479",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/KS%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "https://www.knowledgeservices.com/industry/federal-government",
+        "CSO_Description": "Knowledge Services dotStaff™ is a Software as a Service (SaaS) offering that includes a Vendor Management System and a Survey Management module. The dotStaff Vendor Management System allows for organizations to manage the contractor life cycle, statement of work bidding, tracking, and selection where contingent or temporary labor is used. Government customers enter position requisitions or projects that are viewable by Contractors, who can submit responsive bids. Activity associated with the winning bid is entered, tracked, and reported. The Survey Management module provides survey automation capabilities, and can be configured to survey certain locations, property types and/or resident classifications. Customers can send survey links, schedule face to face interviews, request information through the Survey Management module.\r\n\r\n**Survey Management**\n\r\nThe dotStaff™ Survey module delivers real-time, automated surveys which enhance access to actionable data. The module automates and improves the performance of in-person, mobile, web-based, and telephone surveys, including scheduling and data reporting. \r\n\r\n**Vendor Management**\r\n\r\nThe dotStaff™ Vendor Management System allows for organizations to manage the contractor life cycle, statement of work bidding, tracking, and selection where contingent or temporary labor is used.\r\n\r\n**Field Based / Mobile Worker Management**\r\n\r\nAll services allow field-based and mobile workforce support through the dotStaff™ mobile application. ",
+        "CSP_POC_Name": "Noah Brown",
+        "CSP_POC_Email": "fedramp@knowledgeservices.com",
+        "Fedramp_Ready_Date": "2021-02-12T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "MediaLab, Inc.",
         "Cloud_Service_Provider_Package": "MediaLab Federal",
         "Path": "Agency",
@@ -14520,13 +14546,18 @@
       {
         "Cloud_Service_Provider_Name": "NetDocuments Software, Inc.",
         "Cloud_Service_Provider_Package": "NetDocuments Document Management System (DMS)",
-        "Designation": "FedRAMP Ready",
+        "Path": "Agency",
+        "Designation": "In Process",
         "Package_ID": "FR2028977567",
         "Service_Model": [
           "SaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Justice",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+        "Authorizing_Agency": "Department of Justice",
+        "Authorizing_Subagency": "Executive Office for United States Attorneys",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/NetDocuments%20Logo.png",
         "Independent_Assessor": "Schellman & Company, LLC",
         "CSP_Website": "www.netdocuments.com/?utm_source=fedramp&utm_medium=referral&utm_campaign=directorylisting",
@@ -14534,6 +14565,7 @@
         "CSP_POC_Name": "David Delker",
         "CSP_POC_Email": "fedramp@netdocuments.com",
         "Fedramp_Ready_Date": "2020-09-15T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2021-02-17T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -14824,7 +14856,7 @@
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "https://www.rsa.com/en-us/solutions/public-sector",
         "CSO_Description": "RSA SecurID® Access Federal, enables the U.S. Federal Government and the public sector organizations  to digitally transform, embrace the benefits of modern technologies, and operate nimbly with highly secure and convenient cloud-based identity assurance. Building on the enterprise-grade security that is the hallmark of all RSA SecurID Access solutions, RSA SecurID® Access Federal meets the high standards required by the FedRAMP authorization process and is a key component of Zero Trust initiatives. When coupled with RSA’s on-prem offering, Federal Agencies can quickly and cost-effectively move to the cloud at their own pace, leveraging existing infrastructure and authentication methods.",
-        "CSP_POC_Name": "Sudarsan Kannan",
+        "CSP_POC_Name": "Joseph Welsh",
         "CSP_POC_Email": "fedramp.selling@rsa.com",
         "FedRAMP_In-Process_Date": "2020-11-17T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
@@ -14846,7 +14878,7 @@
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "https://www.rsa.com/en-us/solutions/public-sector",
         "CSO_Description": "RSA SecurID® Access Federal, enables the U.S. Federal Government and the public sector organizations  to digitally transform, embrace the benefits of modern technologies, and operate nimbly with highly secure and convenient cloud-based identity assurance. Building on the enterprise-grade security that is the hallmark of all RSA SecurID Access solutions, RSA SecurID® Access Federal meets the high standards required by the FedRAMP authorization process and is a key component of Zero Trust initiatives. When coupled with RSA’s on-prem offering, Federal Agencies can quickly and cost-effectively move to the cloud at their own pace, leveraging existing infrastructure and authentication methods.",
-        "CSP_POC_Name": "Sudarsan Kannan",
+        "CSP_POC_Name": "Joseph Welsh",
         "CSP_POC_Email": "fedramp.selling@rsa.com",
         "Fedramp_Ready_Date": "2021-02-02T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
@@ -15583,7 +15615,7 @@
         "Description": "Kratos provides 3PAO assessment and consulting services to meet a variety of stringent government and commercial industry standards. Kratos was one of the first organizations to obtain the 3PAO accreditation, and since then has worked with large and small CSPs assessing or consulting against all FedRAMP baselines and DOD Cloud Computing Security Requirements Guide (SRG) Impact Levels. Kratos’ blend of experienced cybersecurity professionals, robust automation support, and tested process improvement techniques help CSPs achieve government-mandated security requirements more effectively and efficiently. Kratos helps CSPs accelerate their time to the federal market by providing services that increase awareness, ensure preparedness, and support a successful assessment. As an independent assessor or trusted advisor/consultant, Kratos will help you meet FedRAMP requirements and shorten the authorization timeline. \n\nKratos delivers 3PAO assessment services, including RAR, initial assessments, annual assessments, significant change request (SCR), penetration testing, and continuous monitoring validation and attestation. We provide full scope support from assessment planning, execution of testing, evaluating risk, and submission of a final report to accompany the complete ATO package. We have developed a proven process that incorporates our customers in the process to ensure accurate results are delivered to the authorizing officials. Security assessment tasks will enumerate and prioritize system vulnerabilities and control implementation weaknesses. The information will be combined with expert recommendations to formulate a security remediation plan that seeks to minimize risk exposure of the subject environment. We guide organizations through a streamlined and cost-effective path to obtaining JAB, Agency, and DOD P-ATO/ATO, and we provide an effective continuous monitoring program to maintain the ATO over time.",
         "POC_Name": "Ashley Hibbs",
         "POC_Email": "cybersales@kratosdefense.com",
-        "website": "www.kratossecureinfo.com",
+        "website": "kratosdefense.com/cyber",
         "Remediation": "N",
         "Founded": 1994,
         "Primary_Office_Locations": "* 4795 Meadow Wood Lane, Suite 220W, Chantilly, VA 20151",
