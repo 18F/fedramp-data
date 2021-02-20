@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-02-19T05:40:50.338Z",
+    "Created_At": "2021-02-20T05:40:50.511Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3063,51 +3063,6 @@
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "Centers for Disease Control and Prevention",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "IdeaScale",
-        "Cloud_Service_Provider_Package": "IdeaScale Gov",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1512017638",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2018-02-12T05:00:00.000Z",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "Authorizing_Subagency": "Food and Drug Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Ideascale%20Logo.png",
-        "Independent_Assessor": "The Cadence Group",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866"
-        ],
-        "CSP_Website": "www.ideascale.com",
-        "CSO_Description": "IdeaScale is an innovation management SaaS provider that uses crowdsourcing to help organizations find and develop the next big thing, whether it's new policies and services or new cost-savings and employee engagement measures, IdeaScale allows organizations to solicit input from personnel and other stakeholders and collaboratively transform that input into actionable project plans.\nThe IdeaScale Gov offering provides these innovation management and crowdsourcing capabilities in a secure environment for federal agency use and benefit, allowing agencies to make the most of the collective knowledge of their numbers.",
-        "Announcement_Date": "2017-10-19T04:00:00.000Z",
-        "CSP_POC_Name": "IdeaScale Security Team",
-        "CSP_POC_Email": "fedramp@ideascale.com",
-        "Fedramp_Ready_Date": "2017-07-13T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2017-07-25T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2020-02-13T05:00:00.000Z",
-            "Authorizing_Agency": "Nuclear Regulatory Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2023-11-30T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-12-15T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "Transportation Security Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -7818,6 +7773,15 @@
             "Authorizing_Agency": "Nuclear Regulatory Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-02-08T05:00:00.000Z",
+            "Letter_Expiration_Date": "2024-02-17T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-02-17T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -11661,6 +11625,15 @@
             "Authorizing_Agency": "Department of Labor",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-01-06T05:00:00.000Z",
+            "Letter_Expiration_Date": "2024-02-09T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-02-09T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -13246,7 +13219,7 @@
         "Designation": "Compliant",
         "Package_ID": "F1306282198",
         "Service_Model": [
-          "PaaS"
+          "PaaS, SaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
@@ -13264,7 +13237,7 @@
         "CSP_Website": "www.pega.com",
         "CSO_Description": "Pegasystems develops strategic applications for sales, marketing, service and operations. Pega’s applications streamline critical business operations, connect organizations to their customers seamlessly in real time across channels, and adapt to meet rapidly changing requirements. Pega’s Global 2000 customers include many of world’s most sophisticated and successful organizations and government agencies. Pega’s applications are built on the industry leading Pega 7 unified platform and made available via Pega Cloud. Pega Cloud provides customers and government agencies the ability to create, deliver and run Pega 7 applications on the cloud with operational excellence, enterprise-grade infrastructure and continuous lifecycle support.",
         "Announcement_Date": "2019-03-15T04:00:00.000Z",
-        "CSP_POC_Name": "Lisa Holt",
+        "CSP_POC_Name": "N/A",
         "CSP_POC_Email": "CloudSales@pega.com",
         "Fedramp_Ready_Date": "2018-05-29T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2018-04-26T04:00:00.000Z",
@@ -13284,6 +13257,52 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-02-04T05:00:00.000Z",
             "Authorizing_Agency": "Department of Veterans Affairs",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "IdeaScale",
+        "Cloud_Service_Provider_Package": "IdeaScale Gov",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1512017638",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-02-17T05:00:00.000Z",
+        "Original_Expiration_Date": "2024-02-17T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "Food and Drug Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Ideascale%20Logo.png",
+        "Independent_Assessor": "The Cadence Group",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.ideascale.com",
+        "CSO_Description": "IdeaScale is an innovation management SaaS provider that uses crowdsourcing to help organizations find and develop the next big thing, whether it's new policies and services or new cost-savings and employee engagement measures, IdeaScale allows organizations to solicit input from personnel and other stakeholders and collaboratively transform that input into actionable project plans.\nThe IdeaScale Gov offering provides these innovation management and crowdsourcing capabilities in a secure environment for federal agency use and benefit, allowing agencies to make the most of the collective knowledge of their numbers.",
+        "Announcement_Date": "2017-10-19T04:00:00.000Z",
+        "CSP_POC_Name": "IdeaScale Security Team",
+        "CSP_POC_Email": "fedramp@ideascale.com",
+        "Fedramp_Ready_Date": "2017-07-13T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2017-07-25T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2020-02-13T05:00:00.000Z",
+            "Authorizing_Agency": "Nuclear Regulatory Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-11-30T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-12-15T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Transportation Security Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
           }
         ]
