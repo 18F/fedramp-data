@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-02-23T05:40:50.422Z",
+    "Created_At": "2021-02-24T05:40:50.814Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -8357,7 +8357,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Duo Security (a Cisco Company)",
-        "Cloud_Service_Provider_Package": "Duo Access",
+        "Cloud_Service_Provider_Package": "Duo Federal",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "FR1823149273",
@@ -8383,7 +8383,7 @@
         "CSP_Website": "https://duo.com",
         "CSO_Description": "Duo’s Federal Editions can verify the identity of users with secure and easy to use two-factor authentication methods that helps public sector entities satisfy NIST 800-63-3 and 53/63/171 authentication requirements. In addition to verifying users’ identities, Duo’s solution checks the security health of every device authenticating into the environment, at the time of access. Admins can use Duo to enforce stricter device and application access policies, such as blocking login requests based on location or anonymous networks. Duo ensures only trusted users and devices can access protected applications. This complete security solution prevents modern attackers that often target multiple areas - including credential theft and the exploitation of known software vulnerabilities affecting outdated software versions.",
         "Announcement_Date": "2019-11-15T05:00:00.000Z",
-        "CSP_POC_Name": "Dennis O'Neill",
+        "CSP_POC_Name": "N/A",
         "CSP_POC_Email": "fedramp@duosecurity.com",
         "FedRAMP_In-Process_Date": "2018-11-07T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
@@ -10987,7 +10987,7 @@
           "AGENCYAMAZONEW"
         ],
         "CSP_Website": "www.okta.com",
-        "CSO_Description": "Okta is the foundation for secure connections between people and technology. Okta’s products manage identity and access for millions of people on millions of devices. By harnessing the power of the cloud, Okta allows people to access applications on any device at any time, while still enforcing strong security policies. It integrates directly with an organization’s existing directories and identity systems, as well as 4,000+ applications. Okta offers products in two lines: for IT and developers. Okta’s IT products are geared toward IT and security leaders and are designed to simplify the way people connect to enterprise technology, while increasing efficiency and keeping IT environments secure. Okta’s IT products include Universal Directory, Single Sign-On, Provisioning, Adaptive Multi-factor Authentication and Mobility Management. Okta’s developer and platform products allow product teams to layer Okta’s powerful identity services into their applications and portals. Okta’s Platform makes it easy for customers to authentication, manage and secure their users. Okta’s Platform products include Universal Directory, Single Sign-On, Provisioning, Adaptive Multi-factor Authentication, Social Authentication, Inbound Federation, and AD and LDAP Integration.",
+        "CSO_Description": "The Okta IDaaS Regulated package includes a number of components that may be used to provide methods of authentication and provisioning control.\r\n\r\nThe Okta core service is a web-based Software-as-a-Service Identity platform. Users interact with the Okta core service via their Okta instance, using a web browser (https://<customer>.okta.com), or via APIs that have been integrated into a third-party application.  \r\n\r\nOkta Mobile is Okta’s native mobile application, supporting both Apple iOS and Google Android.  Okta Mobile provides mobile access to the user’s assigned applications, and forms the base for Okta Mobility Management, an Enterprise Mobility Management platform that allows IT to enforce access and security policies on the mobile device.\r\n\r\nOkta Verify is Okta’s mobile Multi-Factor Authentication solution. Okta Verify functions as both an Out of Band Token (Okta Verify with Push), and a Single Factor One-Time Password Device (Okta Verify). This app is supported on all major mobile platforms.\r\n\r\nOkta Directory Agent and Okta IWA Agent are software components that are installed on the customer’s infrastructure, providing an authentication bridge between the customer’s directory service (LDAP or Active Directory) and the Okta cloud. Agents are fully configurable by the customer in regards to the types of data they synchronize with Okta.",
         "Announcement_Date": "2017-04-26T04:00:00.000Z",
         "CSP_POC_Name": "Chris Niggel",
         "CSP_POC_Email": "fedramp@okta.com",
@@ -13910,6 +13910,25 @@
         "CSP_POC_Email": "FedRAMP@CORAS.com",
         "Fedramp_Ready_Date": "2020-11-05T05:00:00.000Z",
         "FedRAMP_In-Process_Date": "2021-02-04T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Cority Software Inc.",
+        "Cloud_Service_Provider_Package": "Cority Trusted Environmental, Health, Safety and Quality Management (EHSQ) Software",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2029183077",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Cority%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "CSP_Website": "https://www.cority.com",
+        "CSO_Description": "Cority’s Trusted EHSQ Software is the enterprise software solution SaaS platform that spans the full spectrum of Environmental, Health, Safety, and Quality (EHSQ) management across an organization to help the Agency thrive. The Trusted EHSQ software is powerful and configurable, providing greater flexibility, improving collaboration, amplifying business intelligence and performance, and reducing the burden of managing multiple solutions. Cority’s iterative deployment methodology and ability to integrate easily with other optional third-party services result in painless data migrations, software aligned to business processes, and low project risk. When the Agency chooses to join the Cority Community, the Agency will benefit from the collaboration of thousands of other users and be supported by Cority software and EHS experts committed to Agency customer success.  Cority leads the way in application and data center security, with certifications for ISO27001, ISO270017, ISO20018, SOC Type 2, and HIPAA.",
+        "CSP_POC_Name": "Kun Fan",
+        "CSP_POC_Email": "fedramp@cority.com",
+        "Fedramp_Ready_Date": "2021-02-16T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
