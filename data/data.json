@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-03-04T05:40:50.362Z",
+    "Created_At": "2021-03-05T05:40:50.534Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -5787,42 +5787,6 @@
             "Authorizing_Agency": "Department of Justice",
             "Authorizing_Subagency": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Navman Wireless North America Ltd.",
-        "Cloud_Service_Provider_Package": "Teletrac Navman DIRECTOR",
-        "Path": "JAB",
-        "Designation": "Compliant",
-        "Package_ID": "FR1807337642",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2019-04-03T04:00:00.000Z",
-        "Sponsoring_Agency": "JAB Authorization",
-        "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Teletrac%20Navman%20Logo.png",
-        "Independent_Assessor": "Kratos",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866"
-        ],
-        "CSP_Website": "www.teletracnavman.com",
-        "CSO_Description": "Teletrac Navman DIRECTOR is a fleet management system that collects and analyzes data from vehicles and other assets, for oversight and control of day-to-day fleet operations. DIRECTOR monitors information such as location, speed, and advanced engine diagnostics so that agencies can track when assets are used most efficiently, if maintenance is required and when driver activity conforms to specified operating parameters. Additional capabilities provided by DIRECTOR include two-way messaging with drivers and dispatchers, automated vehicle routing with turn-by-turn directions and traffic/weather alert functions. Fleet management decisions based on DIRECTOR information help to improve performance, regulatory compliance, security, safety and productivity.\nThis telematics and asset management technology receives continuous support from software-as-a-solution (SaaS) provider Fleet Management Systems (FMS), a Teletrac Navman company. DIRECTOR is designed to meet the operational needs of the federal, state and local agencies that rely on it, who represent a significant portion of the more than 500,000 vehicles and 40,000 customers worldwide served by Teletrac Navman and FMS.",
-        "Announcement_Date": "2019-04-03T04:00:00.000Z",
-        "CSP_POC_Name": "Daren Lauda",
-        "CSP_POC_Email": "FedRAMP@teletracnavman.com",
-        "Fedramp_Ready_Date": "2018-02-07T05:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2018-10-03T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2019-10-30T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "United States Air Force",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -12834,6 +12798,15 @@
             "Authorizing_Agency": "Department of Agriculture",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-11-18T05:00:00.000Z",
+            "Letter_Expiration_Date": "2021-11-30T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-11-18T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "United States Air Force",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -14328,6 +14301,29 @@
         "CSP_POC_Email": "compliance@id.me",
         "FedRAMP_In-Process_Date": "2020-05-28T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Immersion Consulting LLC",
+        "Cloud_Service_Provider_Package": "Immersion Cloud",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2106133460",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Immersion%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "https://www.immersioninc.com/",
+        "CSO_Description": "Immersion Cloud is a software-as-a-service (SaaS) deployment of a commercial-of-the-shelf software product, Altair Knowledge Hub deployed in AWS GovCloud.  Altair Knowledge Hub is a browser-based and team-oriented shared data exploration, preparation, Automation, and Distribution Across Organizations preparation tool.  It automates the data extraction from a wide variety of data file formats including Microsoft Excel spreadsheets, Adobe PDF documents, delimited files, XML, JSON, and integrates that information with disparate database and reporting tools.\r\n\r\nGovernment users across mission areas from benefits to finance and operations to intelligence can use Immersion Cloud to centrally organize historical information, connect data repositories, and automate extraction, transformation, and reporting. Altair Knowledge Hub facilitates a team-oriented approach where:\r\n\r\n* users have roles, where some simply access an existing model/automation and process reports, while others create those automations, and even other curate and approve them;\r\n* work can be isolated to groups of users, where data can be separate by job function or task\r\n* administrative functions allow modifications of roles, group building, managing libraries of data, and even migrating\r\n\r\nEnd-users access Immersion Cloud using a browser on their government-issued computer. They access through FedRAMP authorized Identity-as-a-Service provider, Okta, with strong authentication using SAML federation of government identity credentials from inside their enterprise IT infrastructure.  Users access a customer-private instance dedicated to their use exclusively through this browser session. \r\n\r\nThe Immersion Cloud combines a private instance of Altair Knowledge Hub with a shared instance of a general support system (GSS) comprised of stackArmor ThreatAlert and OpsAlert. The GSS provides a comprehensive security and operations platform for the Immersion Cloud. \r\n\r\nThe stackArmor GSS ThreatAlert security stack (ThreatAlert) provides security support services for all Immersion Cloud AWS Accounts. AWS Landing Zone architecture based on common foundational management and services that segregate data into AWS accounts and Virtual Private Cloud (VPC) enclaves with governance provided using AWS Organizations for policy enforcement, access control and separation through segregation. The Landing zone pattern provides the capability for separated AWS accounts for production data and the associated security & management services. The landing zone architecture also allows for efficiencies through common foundational security services segregated from the production environment for greater scalability and security through separation of access and responsibilities.",
+        "CSP_POC_Name": "Phil Magrogan",
+        "CSP_POC_Email": "fedramp@immersioninc.com",
+        "FedRAMP_In-Process_Date": "2021-03-03T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
