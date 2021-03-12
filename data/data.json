@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-03-11T05:40:50.551Z",
+    "Created_At": "2021-03-12T05:40:50.746Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -289,14 +289,6 @@
             "Authorizing_Letter_Last_Sign_Date": "2018-02-27T05:00:00.000Z",
             "Authorizing_Agency": "Department of Homeland Security",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-03-08T05:00:00.000Z",
-            "Letter_Expiration_Date": "2021-03-09T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-03-09T05:00:00.000Z",
-            "Authorizing_Agency": "United States Agency for Global Media",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAGM%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -3809,7 +3801,7 @@
           },
           {
             "Letter_Date": "2020-08-31T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-02-28T05:00:00.000Z",
+            "Letter_Expiration_Date": "2021-08-30T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-08-28T04:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Telecommunications and Information Administration",
@@ -8827,13 +8819,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2021-03-09T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-09-09T04:00:00.000Z",
-            "Authorizing_Agency": "Office of Personnel Management",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2023-09-29T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-09-29T04:00:00.000Z",
             "Authorizing_Agency": "Department of Homeland Security",
@@ -8855,6 +8840,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-12-15T05:00:00.000Z",
             "Authorizing_Agency": "Department of Education",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2024-02-19T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-02-19T05:00:00.000Z",
+            "Authorizing_Agency": "Office of Personnel Management",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -8926,7 +8918,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Google%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "https://cloud.google.com",
-        "CSO_Description": "Google Services is comprised of Google’s multi-tenant public cloud Google Cloud Platform and built atop the Google Common Infrastructure. The Google Common Infrastructure powers Google worldwide\nThe in-scope Google Cloud Platform services Authorized at High are:\nApp Engine, BigQuery, Cloud Bigtable, Cloud Dataflow, Cloud Dataproc, Cloud Firestore, Cloud HSM, Cloud Key Management Service, Cloud Spanner, Cloud SQL, Cloud Storage, Compute Engine, Google Kubernetes Engine, Persistent Disk, Cloud Memorystore, Container Registry, Cloud Pub/Sub\nThe in-scope Google Cloud Platform services Authorized at Moderate are:\nBigQuery Data Transfer Service, Cloud Armor, Cloud AutoML Vision, Cloud AutoML Translation, Cloud AutoML Natural Language, Cloud Billing API, Cloud Build, Cloud CDN (Content Delivery Network), Cloud Data Loss Prevention API, Cloud Datalab, Cloud Datastore, Cloud Deployment Manager, Cloud DNS (Domain Name System), Cloud Endpoints, Cloud Functions, Cloud IAM (Identity & Access Management), Cloud Identity-Aware Proxy, Cloud IoT Core, Cloud Talent Solution, Cloud Text-to-Speech, Cloud Load Balancing, Cloud Machine Learning Engine, Google Cloud Platform Marketplace, Cloud Console Mobile App, Cloud Natural Language API, Cloud SDK, Cloud Security Scanner, Cloud Shell, Cloud Source Repositories, Cloud Storage Transfer Service, Cloud Console, Cloud Speech-to-Text, Cloud Translation API, Cloud Video Intelligence API, Cloud Vision API, Dialogflow, Google Genomics, Resource Manager, Service Consumer Management API, Service Control, Service Management API, Stackdriver Debugger, Stackdriver Error Reporting, Stackdriver Logging, Stackdriver Profiler, Stackdriver Trace, Virtual Private Cloud (VPC)",
+        "CSO_Description": "Google Services is comprised of Google’s multi-tenant public cloud Google Cloud\nPlatform and built atop the Google Common Infrastructure. The Google Common\nInfrastructure powers Google worldwide.\n\n\nThe in-scope Google Cloud Platform services Authorized at High are: App Engine,\nBigQuery, Cloud Bigtable, Cloud DNS, Cloud HSM, Cloud Key Management Service,\nCloud Spanner, Cloud SQL, Cloud Storage, Compute Engine, Container Registry,\nDataflow, Dataproc, Firestore, Google Kubernetes Engine, Memorystore, Persistent Disk,\nPub/Sub.\n\n\nThe in-scope Google Cloud Platform services Authorized at Moderate are: AI Platform Training and Prediction (formerly Cloud Machine Learning Engine), AutoML Natural Language, AutoML Translation, AutoML Vision, BigQuery, Data Transfer Service, Cloud Billing, Cloud Build, Cloud CDN, Cloud Console (including Context Aware Access), Cloud Console App, Cloud Data Loss Prevention, Cloud Debugger (formerly Stackdriver Debugger), Cloud Deployment Manager, Cloud Endpoints, Cloud Functions, Cloud Life Sciences (formerly Google Genomics), Cloud Load Balancing, Cloud Logging (formerly Stackdriver Logging; includes Error Reporting), Cloud Natural Language API, Cloud Profiler (formerly Stackdriver Profiler) , Cloud SDK, Cloud Shell, Cloud Source Repositories, Cloud Trace (formerly Stackdriver Trace) , Cloud Translation, Cloud Vision, Datalab, Datastore, Dialogflow, GCP Marketplace, Google Cloud Armor, Google Cloud Identity-Aware Proxy, Identity & Access Management (IAM), IoT Core, Resource Manager API, Security Command Center – Web Security Scanner (formerly Cloud Security Scanner, Service Consumer Management API), Service Infrastructure (formerly Service Control; includes Service Management API and Service Consumer Management API), Speech-to-Text , Storage Transfer Service, Talent Solution, Text-to-Speech, Video Intelligence API, Virtual Private Cloud (VPC).",
         "Announcement_Date": "2019-12-04T05:00:00.000Z",
         "CSP_POC_Name": "Google FedRAMP Team",
         "CSP_POC_Email": "fedramp@google.com",
@@ -14906,7 +14898,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "RSA",
-        "Cloud_Service_Provider_Package": "RSA SecurID® Access",
+        "Cloud_Service_Provider_Package": "SecurID – Federal Edition",
         "Path": "Agency",
         "Designation": "In Process",
         "Package_ID": "FR2102652499",
@@ -14930,7 +14922,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "RSA",
-        "Cloud_Service_Provider_Package": "RSA SecurID® Access - JAB",
+        "Cloud_Service_Provider_Package": "SecurID – Federal Edition - JAB",
         "Path": "JAB",
         "Designation": "FedRAMP Ready",
         "Package_ID": "FR2102652499A",
@@ -15792,7 +15784,7 @@
         "Accreditation_Date": "2017-04-26T04:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/NCC%20Group%20Logo.jpg",
         "Description": "NCC Group Security Services, Inc. provides independent 3PAO assessment services for Cloud Service Provider (CSP) systems, (IaaS, PaaS, SaaS), through the JAB P-ATO, Agency ATO, CSP Ready and FedRAMP Accelerated and Tailored processes.  Our team of security professionals have years of prior USG and DoD cybersecurity experience ranging from highly complex and integrated research and development projects to assessments of the most current cloud architectures.\n\nOur security professionals employ a fully integrated assessment approach to ensure comprehensive testing and assessment/discovery.  This approach minimizes duplication of effort, while driving efficiently and effectively through the required test cases and technical testing activities.  We ensure transparency in planning, testing and reporting from initiation meetings through completion of the SAP, Test Cases and SAR.",
-        "POC_Name": "Jeff Roth",
+        "POC_Name": "Justin Orcutt",
         "POC_Email": "fedramp@nccgroup.trust",
         "website": "http://www.nccgroup.trust",
         "Remediation": "N",
