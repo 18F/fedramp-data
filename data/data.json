@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-03-12T05:40:50.746Z",
+    "Created_At": "2021-03-13T05:40:50.873Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1873,7 +1873,7 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "MobileIron",
+        "Cloud_Service_Provider_Name": "Ivanti",
         "Cloud_Service_Provider_Package": "MobileIron Government Cloud",
         "Path": "Agency",
         "Designation": "Compliant",
@@ -1887,7 +1887,7 @@
         "Sponsoring_Agency": "United States Postal Service",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USPS%20Logo.png",
         "Authorizing_Agency": "United States Postal Service",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MobileIron%20Logo2.png",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Ivanti%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW"
@@ -1895,8 +1895,8 @@
         "CSP_Website": "www.mobileiron.com",
         "CSO_Description": "MobileIron Government Cloud provides Government agencies with the foundation of the first mobile-centric, zero trust security platform to securely access and protect data across the digital workplace. MobileIron’s zero trust approach validates the device, to ensure that only authorized users, devices, apps, and services can access business resources. With MobileIron, Government agencies can secure and manage data on any device across multiple operating systems such as iOS, Android, Windows 10, macOS, Zebra and Oculus. MobileIron technology automatically provisions enterprise settings such as Wi-Fi and VPN, secures corporate email and email attachments, applications and content delivery for both GSE and BYOD programs. With MobileIron, IT departments can deliver the right resources to authorized personnel while protecting sensitive government data, preserving the privacy of end-user data, and maintaining the seamless native device experience. MobileIron Government Cloud has been purpose built to provide a cloud-based, scalable architecture that enables rapid deployment and scales up to millions of users. The MobileIron Unified Endpoint Management (UEM) platform incorporates identity, context, and privacy enforcement to set the appropriate level of access to data and services while allowing IT departments to securely manage their global mobile workforce from a single console. . When user choice and end user experience matters, MobileIron Cloud provides the simplest onboarding and superior on device experience which improves user productivity.\n\nMobileIron Government Cloud offering now includes MobileIron Threat Defense (MTD). MTD builds upon MobileIron’s mobile-centric, zero trust security framework by providing a single app that continually detects and remediates against known and unknown (zero-day) device, network and app-level threats on Android and iOS devices, with or without cellular or Wi-Fi connectivity. Deployment and activation of MTD on mobile devices is accomplished silently on managed and unmanaged devices in order to drive towards 100 percent user adoption. In addition to protecting federal data from mobile attacks, MTD helps federal agencies to comply with regulatory requirements, reduce total cost of ownership, and drive business innovation with secure mobile devices, apps, and cloud services.",
         "Announcement_Date": "2016-12-08T05:00:00.000Z",
-        "CSP_POC_Name": "N/A",
-        "CSP_POC_Email": "fedramp@mobileiron.com",
+        "CSP_POC_Name": "Phil Richards",
+        "CSP_POC_Email": "security@ivanti.com",
         "FedRAMP_In-Process_Date": "2015-12-23T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
@@ -5256,7 +5256,15 @@
         "CSP_POC_Name": "Heather Brooks",
         "CSP_POC_Email": "fedramp@xtec.com",
         "FedRAMP_In-Process_Date": "2018-04-26T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2021-03-11T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-03-11T05:00:00.000Z",
+            "Authorizing_Agency": "National Science Foundation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "United States Department of the Treasury",
@@ -12426,11 +12434,11 @@
           "F1603047866",
           "FR1900048743"
         ],
-        "CSP_Website": "Oracle Aconex for Defense",
+        "CSP_Website": "https://www.oracle.com/industries/construction-engineering/aconex-fedramp-construction-software/",
         "CSO_Description": "Oracle Aconex provides the #1 cloud and mobile collaboration platform for the global construction industry. This highly secure platform provides a single source of truth for all program related documents and communications across agency stakeholders and streamlines business process management with standardization across the project lifecycle. Oracle Aconex for Defense brings a modern set of flexible tools for simplifying how program data is captured, consumed, shared and analyzed.\n\nCapabilities include:\n\n* Inter-Agency Project Management and Collaboration\n* Centralized Information Management\n* Streamlined Business Process and Construction Management\n* Secure Common Data Environment \n\nWith more than 70,000 user organizations and over $1 trillion of project value delivered in more than 70 countries, Aconex is the construction industry’s most widely adopted and trusted platform. For more information, please see  [Oracle Aconex for Defense](https://www.oracle.com/industries/construction-engineering/aconex-fedramp-construction-software/)",
         "Announcement_Date": "2020-10-30T04:00:00.000Z",
         "CSP_POC_Name": "Wayne Nichols ",
-        "CSP_POC_Email": "aconexgov-external@aconex.com",
+        "CSP_POC_Email": "aconex-for-defense_us_grp@oracle.com",
         "FedRAMP_In-Process_Date": "2020-01-14T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
@@ -12605,14 +12613,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2021-03-07T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-03-07T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "Customs and Border Protection",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2021-03-21T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-03-21T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Treasury",
@@ -12758,6 +12758,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-04-21T04:00:00.000Z",
             "Authorizing_Agency": "Environmental Protection Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-09-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-09-11T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Customs and Border Protection",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -13135,7 +13143,7 @@
         "CSP_Website": "https://www.ivanti.com/",
         "CSO_Description": "Ivanti Service Manager, powered by HEAT, helps IT teams meet today’s government and user demands for effective service delivery and support. The solution, with workflow automation, mobile and integrated Voice support, enables IT teams to quickly deploy and configure a world-class service management solution. Cloud deployment is available from FedRAMP compliant AWS data centers in North America.\nService Manager is designed to be the central point of contact between users, employees and the IT organization. It offers first and second line support to users, where incidents, problems or inaccuracies in IT systems are reported. The solution can also be an important source of management information for reporting and auditing purposes.\nIvanti Service Manager fully supports Incident, Problem, Change and Release Management, Self-Service, 3rd party integration and more, and is Pink Verified on 13 ITIL processes, to improve IT support performance and efficiency.\nIvanti is headquartered in Salt Lake City, Utah, and has offices all over the world. For more information, visit [www.ivanti.com](http://www.ivanti.com) and follow us at @GoIvanti.",
         "Announcement_Date": "2019-11-19T05:00:00.000Z",
-        "CSP_POC_Name": "Jennifer Thomas",
+        "CSP_POC_Name": "Phil Richards",
         "CSP_POC_Email": "security@ivanti.com",
         "Fedramp_Ready_Date": "2018-09-05T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2019-07-10T04:00:00.000Z",
@@ -13277,6 +13285,36 @@
             "Include_In_Marketplace": "Y"
           }
         ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Hootsuite",
+        "Cloud_Service_Provider_Package": "Hootsuite Enterprise",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1728349078",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "LI-SaaS",
+        "Original_Authorization_Date": "2021-02-26T05:00:00.000Z",
+        "Original_Expiration_Date": "2022-02-26T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of the Interior",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+        "Authorizing_Agency": "Department of the Interior",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Hootsuite%20Logo.png",
+        "Independent_Assessor": "Department of the Interior",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "https://hootsuite.com/industries/government",
+        "CSO_Description": "Hootsuite is an enterprise social media management platform used by governments and agencies to engage with citizens, manage crisis communications, and deliver services and\r\ninformation via social media. By managing all social media activity through a single, secure platform, agencies with large and distributed teams can engage directly with citizens across\r\npublic and private social channels without compromising control over messaging and access.Hootsuite’s real-time social listening capabilities, integrations with compliance partners, and\r\necosystem of more than 200 connected applications help agencies monitor and measure public sentiment, stay compliant with FOIA and other public records laws, and integrate social media across their organization.\r",
+        "Announcement_Date": "2021-03-11T05:00:00.000Z",
+        "CSP_POC_Name": "Cherian Palayoor",
+        "CSP_POC_Email": "fedramp@hootsuite.com\r",
+        "FedRAMP_In-Process_Date": "2020-12-16T05:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "AchieveIt Online, LLC",
@@ -14234,30 +14272,6 @@
         "CSP_POC_Name": "GRB Platform FedRAMP Team",
         "CSP_POC_Email": "fedramp@grbinc.com",
         "FedRAMP_In-Process_Date": "2020-03-26T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Hootsuite",
-        "Cloud_Service_Provider_Package": "Hootsuite Enterprise",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1728349078",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "LI-SaaS",
-        "Sponsoring_Agency": "Department of the Interior",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
-        "Authorizing_Agency": "Department of the Interior",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Hootsuite%20Logo.png",
-        "Independent_Assessor": "Department of the Interior",
-        "CSP_Website": "https://hootsuite.com/industries/government",
-        "CSO_Description": "Hootsuite is an enterprise social media management platform used by governments and agencies to engage with citizens, manage crisis communications, and deliver services and\r\ninformation via social media. By managing all social media activity through a single, secure platform, agencies with large and distributed teams can engage directly with citizens across\r\npublic and private social channels without compromising control over messaging and access.Hootsuite’s real-time social listening capabilities, integrations with compliance partners, and\r\necosystem of more than 200 connected applications help agencies monitor and measure public sentiment, stay compliant with FOIA and other public records laws, and integrate social media across their organization.\r",
-        "CSP_POC_Name": "Cherian Palayoor",
-        "CSP_POC_Email": "fedramp@hootsuite.com\r",
-        "FedRAMP_In-Process_Date": "2020-12-16T05:00:00.000Z",
-        "Agency_POC": "Coming Soon",
         "Leveraged_ATO_Letters": []
       },
       {
