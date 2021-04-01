@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-03-31T04:40:50.499Z",
+    "Created_At": "2021-04-01T04:40:50.612Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -8615,7 +8615,16 @@
         "CSP_POC_Name": "Alexandra Rashdan",
         "CSP_POC_Email": "fedramp@proofpoint.com",
         "FedRAMP_In-Process_Date": "2018-10-31T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2021-02-02T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-02-02T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "National Nuclear Security Administration / Lawrence Livermore National Laboratory",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Proofpoint, Inc.",
@@ -11076,54 +11085,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Galvanize, Inc.",
-        "Cloud_Service_Provider_Package": "HighBond",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1834172478",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2020-07-17T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Energy",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-        "Authorizing_Agency": "Department of Energy",
-        "Authorizing_Subagency": "DOE Office of Inspector General",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Galvanize%20Logo.png",
-        "Independent_Assessor": "Linford & Company",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866"
-        ],
-        "CSP_Website": "www.wegalvanize.com",
-        "CSO_Description": "HighBond, by Galvanize, is the enterprise governance software platform that creates stronger security, risk management, compliance, and assurance. It connects these professionals with the answers that drive change—so they can protect the organization and increase its capacity to meet strategic objectives.\rGalvanize builds security, risk management, compliance, and audit software. We’re on a mission to unite these different teams in our HighBond platform in order to strengthen individuals and protect organizations.",
-        "Announcement_Date": "2019-11-20T05:00:00.000Z",
-        "CSP_POC_Name": "James Bowman",
-        "CSP_POC_Email": "fedramp@wegalvanize.com",
-        "FedRAMP_In-Process_Date": "2018-09-19T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2020-08-21T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-09-09T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-09-09T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "FirstNet",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-03-27T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-03-07T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-03-27T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Information Systems Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Everlaw, Inc.",
         "Cloud_Service_Provider_Package": "Everlaw Platform",
         "Path": "Agency",
@@ -11701,6 +11662,46 @@
         "CSP_POC_Email": "fedramp@cusa.canon.com",
         "FedRAMP_In-Process_Date": "2019-06-25T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Galvanize, Inc.",
+        "Cloud_Service_Provider_Package": "HighBond",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1834172478",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-09-09T04:00:00.000Z",
+        "Original_Expiration_Date": "2023-09-09T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Commerce",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+        "Authorizing_Agency": "Department of Commerce",
+        "Authorizing_Subagency": "FirstNet",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Galvanize%20Logo.png",
+        "Independent_Assessor": "Linford & Company",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.wegalvanize.com",
+        "CSO_Description": "HighBond, by Galvanize, is the enterprise governance software platform that creates stronger security, risk management, compliance, and assurance. It connects these professionals with the answers that drive change—so they can protect the organization and increase its capacity to meet strategic objectives.\rGalvanize builds security, risk management, compliance, and audit software. We’re on a mission to unite these different teams in our HighBond platform in order to strengthen individuals and protect organizations.",
+        "Announcement_Date": "2019-11-20T05:00:00.000Z",
+        "CSP_POC_Name": "James Bowman",
+        "CSP_POC_Email": "fedramp@wegalvanize.com",
+        "FedRAMP_In-Process_Date": "2018-09-19T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2021-03-27T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-03-07T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-03-27T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Information Systems Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Huddle US",
@@ -13554,6 +13555,31 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "AvePoint Inc.",
+        "Cloud_Service_Provider_Package": "AvePoint Online Services for US Government (AOS-USG)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2025827270",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-01-29T05:00:00.000Z",
+        "Original_Expiration_Date": "2024-01-29T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Energy",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+        "Authorizing_Agency": "Department of Energy",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/AvePoint%20Logo.png",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "CSP_Website": "www.avepoint.com",
+        "CSO_Description": "Microsoft Office 365 gives users flexibility to create and share information from anywhere, at any time, and on any device. While this promotes collaboration and rapid adoption, a lack of information architecture can lead to operational inefficiencies and increased risks in data security and privacy. Organizations must find ways to reduce time spent searching for enterprise-wide content, mitigate incorrect or unauthorized changes in permissions, and closely monitor the sharing of sensitive content. \r\n\r\nAvePoint Online Services for US Government is the industry’s first and only 100 percent Microsoft Azure-based Software-as-a-Service (SaaS) platform for Office 365. Requiring no installation or agents, AvePoint Online Services for US Government provides centralized management, governance, backup, reporting and ECM/records management for your Office 365 environment.",
+        "CSP_POC_Name": "John Peluso",
+        "CSP_POC_Email": "fedramp@avepoint.com",
+        "FedRAMP_In-Process_Date": "2020-07-08T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "AchieveIt Online, LLC",
         "Cloud_Service_Provider_Package": "AchieveIt",
         "Path": "Agency",
@@ -13748,29 +13774,6 @@
         "CSP_POC_Name": "Manish Sharma",
         "CSP_POC_Email": "fedramp@aurigo.com",
         "Fedramp_Ready_Date": "2020-10-28T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "AvePoint Inc.",
-        "Cloud_Service_Provider_Package": "AvePoint Online Services for US Government (AOS-USG)",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2025827270",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Energy",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-        "Authorizing_Agency": "Department of Energy",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/AvePoint%20Logo.png",
-        "Independent_Assessor": "Lunarline, Inc.",
-        "CSP_Website": "www.avepoint.com",
-        "CSO_Description": "Microsoft Office 365 gives users flexibility to create and share information from anywhere, at any time, and on any device. While this promotes collaboration and rapid adoption, a lack of information architecture can lead to operational inefficiencies and increased risks in data security and privacy. Organizations must find ways to reduce time spent searching for enterprise-wide content, mitigate incorrect or unauthorized changes in permissions, and closely monitor the sharing of sensitive content. \r\n\r\nAvePoint Online Services for US Government is the industry’s first and only 100 percent Microsoft Azure-based Software-as-a-Service (SaaS) platform for Office 365. Requiring no installation or agents, AvePoint Online Services for US Government provides centralized management, governance, backup, reporting and ECM/records management for your Office 365 environment.",
-        "CSP_POC_Name": "John Peluso",
-        "CSP_POC_Email": "fedramp@avepoint.com",
-        "FedRAMP_In-Process_Date": "2020-07-08T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
