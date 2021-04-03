@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-04-02T04:40:50.457Z",
+    "Created_At": "2021-04-03T04:40:50.397Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1229,14 +1229,6 @@
             "Authorizing_Letter_Last_Sign_Date": "2018-06-19T04:00:00.000Z",
             "Authorizing_Agency": "Corporation for National & Community Service (CNCS)",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/cncs_1.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-03-29T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-03-29T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-03-29T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -13201,7 +13193,15 @@
         "CSP_POC_Email": "compliance@sumologic.com",
         "Fedramp_Ready_Date": "2019-05-31T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2020-06-16T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2020-03-30T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Authorizing_Subagency": "United States Geological Survey",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Avaya, Inc.",
@@ -13609,6 +13609,7 @@
         "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
         "CSP_Website": "www.achieveit.com",
         "CSO_Description": "AchieveIt helps federal government agencies manage mission critical plans and initiatives. Our cloud-based software platform empowers teams to focus on executing strategic initiatives instead of working on manual tasks. With AchieveIt, leaders can monitor progress on key plans and initiatives in real-time using a single, automated platform that establishes uniformity and visibility across plans and initiatives, promotes accountability throughout the agency, and enables informed decision-making. Trusted by organizations such as the Department of Veterans Affairs, The Joint Pathology Center, and the United States Air Force, AchieveIt accelerates IT modernization efforts by helping federal agencies plan, manage, and report their mission-critical plans and initiatives.",
+        "Expected_Compliance_Date": "In Agency Review",
         "CSP_POC_Name": "Danny Sehr",
         "CSP_POC_Email": "fedramp@achieveit.com",
         "FedRAMP_In-Process_Date": "2020-12-10T05:00:00.000Z",
@@ -13767,6 +13768,25 @@
         "CSP_POC_Name": "Ambra Bourne-Dumas",
         "CSP_POC_Email": "DL-FedRAMP@att.com",
         "FedRAMP_In-Process_Date": "2020-09-28T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Aunalytics, Inc.",
+        "Cloud_Service_Provider_Package": "Aunalytics Cloud",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2033253261",
+        "Service_Model": [
+          "IaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Aunalytics%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "www.aunalytics.com",
+        "CSO_Description": "Aunalytics is a managed cloud services provider that offers Infrastructure-as-a-Service (IaaS) to its customers. Aunalytics fully owns and maintains its  infrastructure and has full responsibility over physical and logical security. Aunalytics' Cisco Flexpod reference architecture based cloud infrastructure is spread across two datacenters in South Bend, Indiana, and Kalamazoo, Michigan. Each customer leveraging the Aunalytics infrastructure is given their own private VLANs protected by virtual firewalls to ensure there is logical separation from other customers.Aunalytics Cloud’s strengths include a robust configuration management process using ticketing in Autotask with well-documented security impact analyses, implementation plans, and back-out plans; daily authenticated vulnerability scans that exceed the FedRAMP required frequency; strong datacenter physical security; and DNSSEC that provides authoritative certificate-based name resolution and the capability to deploy hierarchical DNS namespaces.",
+        "CSP_POC_Name": "Kerry Vickers",
+        "CSP_POC_Email": "info@aunalytics.com",
+        "Fedramp_Ready_Date": "2021-03-26T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -14265,6 +14285,25 @@
         "CSP_POC_Name": "Michael Donham ",
         "CSP_POC_Email": "fedramp@egain.com",
         "FedRAMP_In-Process_Date": "2020-08-24T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Egnyte Inc.",
+        "Cloud_Service_Provider_Package": "Egnyte Platform",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2024952734",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Egnyte%20Logo.png",
+        "Independent_Assessor": "NCC Group Security Services, Inc.",
+        "CSP_Website": "https://www.egnyte.com",
+        "CSO_Description": "The Egnyte platform provides a unified cloud content governance platform for collaboration, data security, compliance, and threat prevention. Unified across devices, apps and repositories, and powered by a combination of human and machine-generated metadata, Egnyte enables companies to gain 360-degree insight into their content, make smarter decisions, and respond to risks and opportunities across a wide variety of use cases. More than 16,000 organizations trust Egnyte to reduce risks and IT complexity, prevent ransomware, protect business-critical data and boost employee productivity on any app, any cloud, anywhere.",
+        "CSP_POC_Name": "Kris Lahiri",
+        "CSP_POC_Email": "fedramp@egnyte.com",
+        "Fedramp_Ready_Date": "2020-11-18T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -14992,7 +15031,7 @@
         "CSO_Description": "Prisma Access is a Secure Access Service Edge (SASE) that provides scalable, cloud-delivered networking and security to branch offices and remote users. With Prisma Access, agencies are able to rapidly enable consistent, secure connectivity for remote locations and employees.",
         "CSP_POC_Name": "Brad Bartholomew",
         "CSP_POC_Email": "fedramp@paloaltonetworks.com",
-        "FedRAMP_In-Process_Date": "2020-04-09T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2021-03-16T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -15975,7 +16014,7 @@
         "Accreditation_Date": "2017-04-26T04:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/NCC%20Group%20Logo.jpg",
         "Description": "NCC Group Security Services, Inc. provides independent 3PAO assessment services for Cloud Service Provider (CSP) systems, (IaaS, PaaS, SaaS), through the JAB P-ATO, Agency ATO, CSP Ready and FedRAMP Accelerated and Tailored processes.  Our team of security professionals have years of prior USG and DoD cybersecurity experience ranging from highly complex and integrated research and development projects to assessments of the most current cloud architectures.\n\nOur security professionals employ a fully integrated assessment approach to ensure comprehensive testing and assessment/discovery.  This approach minimizes duplication of effort, while driving efficiently and effectively through the required test cases and technical testing activities.  We ensure transparency in planning, testing and reporting from initiation meetings through completion of the SAP, Test Cases and SAR.",
-        "POC_Name": "Justin Orcutt",
+        "POC_Name": "Jim Jordan",
         "POC_Email": "fedramp@nccgroup.trust",
         "website": "http://www.nccgroup.trust",
         "Remediation": "N",
