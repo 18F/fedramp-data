@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-04-12T04:40:50.953Z",
+    "Created_At": "2021-04-13T04:40:53.671Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2112,6 +2112,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2019-10-28T04:00:00.000Z",
             "Authorizing_Agency": "United States Securities and Exchange Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/SEC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-04-01T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-04-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-04-01T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "United States Census Bureau",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -10040,37 +10049,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Casepoint",
-        "Cloud_Service_Provider_Package": "Casepoint Government",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR2009476860",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2020-03-30T04:00:00.000Z",
-        "Sponsoring_Agency": "United States Securities and Exchange Commission",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/SEC%20Logo.jpg",
-        "Authorizing_Agency": "United States Securities and Exchange Commission",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Casepoint%20Logo.png",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "Underlying_CSP_Package_ID": [
-          "FR1823149273",
-          "F1206081364",
-          "F1209051525",
-          "F1512167750"
-        ],
-        "CSP_Website": "gov.casepoint.com",
-        "CSO_Description": "Casepoint empowers government agencies, legal departments, and law firms by providing smarter eDiscovery technology. Casepoint's eDiscovery suite is based on 12 years of innovation in the industry built in a scalable, secure, and customizable environment. Casepoint Government features cloud collections, data processing, advanced analytics, artificial intelligence, review, and productions – all in an easy-to-use web interface. Casepoint customers benefit from the ability to support sophisticated workflows across millions of documents and hundreds of users, with reporting and data management tools built-in. Simple, elegant, and intuitive, Casepoint represents the next generation of litigation technology that will empower your legal, investigation, examination, compliance, and FOIA teams.",
-        "Announcement_Date": "2020-05-19T04:00:00.000Z",
-        "CSP_POC_Name": "Amy Hilbert",
-        "CSP_POC_Email": "government@casepoint.com",
-        "FedRAMP_In-Process_Date": "2020-02-05T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Slack Technologies",
         "Cloud_Service_Provider_Package": "Slack",
         "Path": "Agency",
@@ -13667,6 +13645,37 @@
             "Include_In_Marketplace": "Y"
           }
         ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Casepoint",
+        "Cloud_Service_Provider_Package": "Casepoint Government",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2009476860",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-04-09T04:00:00.000Z",
+        "Sponsoring_Agency": "United States Securities and Exchange Commission",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/SEC%20Logo.jpg",
+        "Authorizing_Agency": "United States Securities and Exchange Commission",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Casepoint%20Logo.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "Underlying_CSP_Package_ID": [
+          "FR1823149273",
+          "F1206081364",
+          "F1209051525",
+          "F1512167750"
+        ],
+        "CSP_Website": "gov.casepoint.com",
+        "CSO_Description": "Casepoint empowers government agencies, legal departments, and law firms by providing smarter eDiscovery technology. Casepoint's eDiscovery suite is based on 12 years of innovation in the industry built in a scalable, secure, and customizable environment. Casepoint Government features cloud collections, data processing, advanced analytics, artificial intelligence, review, and productions – all in an easy-to-use web interface. Casepoint customers benefit from the ability to support sophisticated workflows across millions of documents and hundreds of users, with reporting and data management tools built-in. Simple, elegant, and intuitive, Casepoint represents the next generation of litigation technology that will empower your legal, investigation, examination, compliance, and FOIA teams.",
+        "Announcement_Date": "2020-05-19T04:00:00.000Z",
+        "CSP_POC_Name": "Amy Hilbert",
+        "CSP_POC_Email": "government@casepoint.com",
+        "FedRAMP_In-Process_Date": "2020-02-05T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "AchieveIt Online, LLC",
