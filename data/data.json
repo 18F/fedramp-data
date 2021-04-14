@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-04-13T04:40:53.671Z",
+    "Created_At": "2021-04-14T04:40:51.049Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -5525,6 +5525,13 @@
             "Authorizing_Subagency": "National Heart, Lung, and Blood Institute",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-04-06T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-04-05T04:00:00.000Z",
+            "Authorizing_Agency": "General Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -6034,6 +6041,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-03-24T04:00:00.000Z",
             "Authorizing_Agency": "Department of Education",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-04-08T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-04-08T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-04-13T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Federal Emergency Management Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -8335,7 +8351,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
         "Authorizing_Agency": "Department of Commerce",
         "Authorizing_Subagency": "United States Census Bureau",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/VMware%20Workspace%20Logo.png",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/VMware%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "Underlying_CSP_Package_ID": [
           "F1206061353",
@@ -9051,6 +9067,12 @@
             "Authorizing_Agency": "Federal Reserve System",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRS%20Logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2021-04-13T04:00:00.000Z",
+            "Authorizing_Agency": "Nuclear Regulatory Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -9686,14 +9708,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2018-03-22T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-03-28T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Food and Drug Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2021-11-07T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-11-07T05:00:00.000Z",
             "Authorizing_Agency": "Department of Homeland Security",
@@ -9733,6 +9747,15 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-03-23T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-04-09T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-04-09T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -15569,6 +15592,29 @@
         "CSP_POC_Name": "Allison Lehman",
         "CSP_POC_Email": "fedramp@wingswept.com",
         "FedRAMP_In-Process_Date": "2021-04-01T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Yello Dba Recsolu Inc",
+        "Cloud_Service_Provider_Package": "Yello Government Recruiting Solution",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2113557839",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of State",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
+        "Authorizing_Agency": "Department of State",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Yello%20Logo.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "https://yello.co/government-recruiting/",
+        "CSO_Description": "Yello's technology (YGRS) helps organizations find, prioritize, manage, engage with, and hire talent. Currently, more than 100 of the Fortune 500 and 20+ federal agencies use Yello to modernize the recruiting process — ultimately helping them find and hire candidates faster. \n\r\nOrganizations find job candidates by participating in designated recruiting and hiring events (i.e. in-person career fairs, virtual career fairs, job fairs, classroom presentations, info sessions, diversity conferences, webinars, live-stream events, etc.) Organizations invest hundreds of thousands of dollars to plan and attend — in addition to hours of staff time after the event needed to follow up with candidates. YGRS manages this process from end-to-end in one platform, ultimately leading to faster and more efficient hiring decisions and processes.  The solution also helps agencies understand the overall return on investment. \n\r\nThe solution includes tools to find candidates, manage recruiting events and keep in touch with candidates, all leading to successful hiring. ",
+        "CSP_POC_Name": "Larry Jennings",
+        "CSP_POC_Email": "fedramp@yello.co",
+        "FedRAMP_In-Process_Date": "2021-04-13T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
