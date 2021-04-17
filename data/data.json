@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-04-16T04:40:50.467Z",
+    "Created_At": "2021-04-17T04:40:50.952Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -7944,7 +7944,7 @@
         "CSO_Description": "Esri is a leading provider of geographic information systems (GIS) with decades of experience hosting solutions for customers. Esri Managed Cloud Services provides organizations with ready-to-use instances of ArcGIS running in the cloud and includes the infrastructure (facilities, hardware, network, and security), the software (Esri and third party), application deployment, testing, ongoing data management (data updates, backup, and archive), technical support, monitoring, and supporting 24/7 Security Operations Center. The environment has been architected following FISMA, NIST, and CIS guidance to facilitate FedRAMP moderate geospatial Platform-as-a-Service (PaaS) and Software-as-a-Service (SaaS) authorizations of our customer environments. EMCS enables quickly sharing geospatial content and providing access to critical information while the organization maintains complete control over the access to their services and maps. EMCS leverages the Amazon Web Services East / West Regions FedRAMP moderate cloud infrastructure.",
         "Announcement_Date": "2015-08-20T04:00:00.000Z",
         "CSP_POC_Name": "Erin Ross",
-        "CSP_POC_Email": "EIST_Security@esri.com",
+        "CSP_POC_Email": "AES_Security@esri.com",
         "FedRAMP_In-Process_Date": "2015-01-14T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
@@ -13425,7 +13425,7 @@
           "F1206061353"
         ],
         "CSP_Website": "https://www.sapns2.com/cloud/",
-        "CSO_Description": "Explore solutions for the SAP NS2 Cloud - Intelligent Enterprise – including a suite of intelligent applications and experience management tools. Our intelligent suite includes applications for managing the operational transactions, HR and people management, analytics and other innovative capabilities. The applications are integration-ready, include embedded intelligence, and offer a consistent and intuitive user interface. \n\n**SuccessFactors** is an enterprise HR and People management Software as a Service (SaaS) solution. SuccessFactors delivers business results by driving business alignment, optimizing people performance and building a competitive advantage through people. The solution provides a comprehensive suite of solutions that improves executive insight and decision-making while ensuring the right people with the right skills are doing the right work. SuccessFactors includes: Learning, Performance & Goals, Succession & Development, Compensation, Recruiting, Onboarding, Workforce Planning, Workforce Analytics & Reporting, and Employee Central\n\n**Employee Central Payroll** - Secure, industry-based payroll engine that is seamlessly integrated to the core HR system. In addition, SAP NS2 offers customers with the enhanced availability, compliance and customer support to deliver that mission critical edge. Benefits include: Enhanced Disaster Recovery/High Availability; U.S. Federal and Critical Infrastructure compliance and NS2 US Person Operation & Support.\n\nSAP Analytics Cloud (SAC) is a business intelligence platform SaaS solution.   SAC connects people, information, and ideas to enable fast and confident decision making. With SAP Analytics Cloud machine learning technology and embedded artificial intelligence you can discover, analyze, plan, and predict in one experience across all devices. In addition, SAC allows you to make end-to-end decisions with data management and analytics together in one place. SAC will scale to meet the needs of your organization and diverse users across all decision types (strategic, operational, and tactical).",
+        "CSO_Description": "Explore solutions for the **SAP NS2 Cloud Intelligent Enterprise** – including a suite of intelligent applications and experience management tools. Our intelligent suite includes applications for managing the operational transactions, HR and people management, analytics, and other innovative capabilities. The applications are integration-ready, include embedded intelligence, and offer a consistent and intuitive user interface. The latest addition is our SAP Cloud Platform (PaaS), which is the development foundation.\n\n**SuccessFactors** is an enterprise HR and People management Software as a Service (SaaS) solution. SuccessFactors delivers business results by driving business alignment, optimizing people performance, and building a competitive advantage through people. The solution provides a comprehensive suite of applications that improve executive insight and decision-making while ensuring the right people with the right skills are doing the right work. SuccessFactors includes: Learning, Performance & Goals, Succession & Development, Compensation, Recruiting, Onboarding, Workforce Planning, Workforce Analytics & Reporting, and Employee Central.\n\n**Employee Central Payroll** is a secure, industry-based payroll engine that is seamlessly integrated to the core HR system. In addition, SAP NS2 offers customers enhanced availability, compliance, and customer support to deliver a mission-critical edge. Benefits include: Enhanced Disaster Recovery/High Availability U.S. Federal and Critical Infrastructure compliance; and NS2 US Person Operation & Support.\n\n**SAP Analytics Cloud (SAC)** is a business intelligence platform SaaS solution. SAC connects people, information, and ideas to enable fast and confident decision making. With SAP Analytics Cloud machine learning technology and embedded artificial intelligence you can discover, analyze, plan, and predict in one experience across all devices. In addition, SAC allows you to make end-to-end decisions with data management and analytics together in one place. SAC will scale to meet the needs of your organization and diverse users across all decision types (strategic, operational, and tactical).\n\n**SAP Cloud Platform (SCP)** is a PaaS solution which acts as the foundation for the SAP NS2 Cloud Intelligent Enterprise.  SCP helps you achieve agility, business value, and continual innovation through integration, data to value, and extensibility to your SAP NS2 landscape.  Implement your organization goals with the flexibility to build, manage, and deploy new applications. It also allows you to connect data and business processes on one integrated platform.  SCP is the secure core that integrates and extends the SAP NS2 Cloud.",
         "Announcement_Date": "2017-11-13T05:00:00.000Z",
         "CSP_POC_Name": "Winson Cumberland",
         "CSP_POC_Email": "info@sapns2.com",
@@ -14014,29 +14014,6 @@
         "CSP_POC_Email": "Momentum.Support@cgifederal.com",
         "Fedramp_Ready_Date": "2020-10-28T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2021-01-12T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Check Point Software",
-        "Cloud_Service_Provider_Package": "SandBlast",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1927139299",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Check%20Point%20Logo.png",
-        "Independent_Assessor": "Kratos",
-        "CSP_Website": "https://www.checkpoint.com/solutions/cloud-security/",
-        "CSO_Description": "Check Point provides many cloud-based cybersecurity offerings protecting your network, devices and data.\n**Check Point Sandblast Agent** provides purpose-built advanced Zero-Day Protection capabilities to protect endpoints, leveraging Check Point’s industry leading network protections. SandBlast Agent ensures complete real-time coverage across threat vectors, letting your employees work safely no matter where they are without compromising on productivity.\n**Check Point Sandblast Mobile** provides enterprise mobile security to protect against threats to the OS, apps, and network. It offers the industry’s highest threat catch rate without impacting performance or user experience. Only Sandblast Mobile delivers threat prevention technology that: Blocks zero-day Malware, Prevents phishing on all apps, Blocks devices from sending data to botnets, Prevents infected devices from accessing corporate apps and Mitigates threats without relying on management platforms.",
-        "CSP_POC_Name": "James Aguirre",
-        "CSP_POC_Email": "fedramp@checkpoint.com",
-        "FedRAMP_In-Process_Date": "2020-05-27T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -16114,6 +16091,22 @@
         "Description_of_Consulting_Services": "NCC Group Security Services, Inc. provides FedRAMP advisory/consulting services ranging from initial Cloud Service Provider (CSP) FedRAMP application through assiting CSPs with on-going continuous monitoring and updates to System Security Plans and supporting processes.  Our security professionals have the experience, skills and knowledge get things right the first time – from System Authorization Boundary definition and documentation through development of the System Security and Continuous Monitoring plans.  We also assist in developing maintaining supporting CSP policies and procedures necessary to support ongoing compliance\n\nOur team of security professionals, stand ready to support CSPs in reaching their FedRAMP goals and working through process and technical challenges. ",
         "Consulting_Services_To": "None",
         "Additional_Cyber_Frameworks": "* PCI DSS\n* P2PE\n* PA-DSS"
+      },
+      {
+        "Name": "Paragon Technology Group, Inc.",
+        "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Paragon%20Logo.png",
+        "Description": "Paragon is a FedRAMP recognized 3PAO. We are fully equipped to assess cloud service providers (CSP) undergoing FedRAMP authorization. For CSPs who want to provide services to the federal government, we can provide readiness assessments to give confidence going into the FedRAMP authorization process.  Paragon also provides pre-assessment consulting to help a CSP prepare and successfully navigate the FedRAMP authorization process.  Finally, Paragon provides 3PAO continuous monitoring support for FedRAMP authorized systems, including annual assessments, and significant impact (change) review.",
+        "POC_Name": "Greg Horine ",
+        "POC_Email": "3pao@paragontech.net",
+        "website": "https://www.paragontech.net\r",
+        "Remediation": "N",
+        "Founded": 1997,
+        "Primary_Office_Locations": "703 Seibert Road, Suite 2 Scott Air Force Base, Illinois 62225",
+        "FedRAMP_Assessed": "*GDCI\n*SumTotal",
+        "Provide_Consulting_Services": "Y",
+        "Description_of_Consulting_Services": "Paragon provides pre-assessment consulting to help a cloud service provider (CSP) prepare and successfully navigate the FedRAMP authorization process.  We assist CSPs in developing coherent, and effective cyber security policies and procedures, as well as guiding the CSP through the PREPARE, CATEGORIZE, SELECT, and IMPLEMENT steps of the NIST SP 800-37, Risk Management Framework.  Paragon provides detailed penetration testing to assist CSPs in correcting weaknesses and vulnerabilities and will assist and represent the CSP during the FedRAMP ASSESSMENT and AUTHORIZATION process.",
+        "Consulting_Services_To": "MAXIMUS GEP",
+        "Additional_Cyber_Frameworks": "* FISMA\n* NIST SP 800-171"
       },
       {
         "Name": "Perspecta, Inc.",
