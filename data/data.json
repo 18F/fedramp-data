@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-04-19T04:40:50.302Z",
+    "Created_At": "2021-04-20T04:40:50.884Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -5432,6 +5432,15 @@
             "Authorizing_Subagency": "State Office of the Inspector General",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-04-21T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-11-03T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-11-04T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Centers for Disease Control and Prevention",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -7595,6 +7604,13 @@
             "Include_In_Marketplace": "Y"
           },
           {
+            "Authorizing_Letter_Last_Sign_Date": "2020-07-17T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Customs and Border Protection",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
             "Letter_Date": "2020-12-15T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-12-15T05:00:00.000Z",
             "Authorizing_Agency": "Department of Defense",
@@ -9665,6 +9681,15 @@
             "Authorizing_Agency": "Federal Trade Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-04-21T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-11-03T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-11-04T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Centers for Disease Control and Prevention",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -11149,15 +11174,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2018-04-12T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-04-18T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-04-18T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Authorizing_Subagency": "Los Alamos National Laboratory",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2018-08-07T04:00:00.000Z",
             "Letter_Expiration_Date": "2021-08-07T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-08-07T04:00:00.000Z",
@@ -11187,6 +11203,15 @@
             "Letter_Expiration_Date": "2023-03-25T04:00:00.000Z",
             "Authorizing_Agency": "General Services Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-01-21T05:00:00.000Z",
+            "Letter_Expiration_Date": "2024-03-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-03-29T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "Los Alamos National Laboratory",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -12337,38 +12362,6 @@
             "Include_In_Marketplace": "Y"
           }
         ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Oracle",
-        "Cloud_Service_Provider_Package": "Aconex for Defense",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1712871948",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2020-10-14T04:00:00.000Z",
-        "Original_Expiration_Date": "2021-04-12T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Defense",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-        "Authorizing_Agency": "Department of Defense",
-        "Authorizing_Subagency": "United States Army Corps of Engineers",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20Aconex%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1206061353",
-          "F1603047866",
-          "FR1900048743"
-        ],
-        "CSP_Website": "https://www.oracle.com/industries/construction-engineering/aconex-fedramp-construction-software/",
-        "CSO_Description": "Oracle Aconex provides the #1 cloud and mobile collaboration platform for the global construction industry. This highly secure platform provides a single source of truth for all program related documents and communications across agency stakeholders and streamlines business process management with standardization across the project lifecycle. Oracle Aconex for Defense brings a modern set of flexible tools for simplifying how program data is captured, consumed, shared and analyzed.\n\nCapabilities include:\n\n* Inter-Agency Project Management and Collaboration\n* Centralized Information Management\n* Streamlined Business Process and Construction Management\n* Secure Common Data Environment \n\nWith more than 70,000 user organizations and over $1 trillion of project value delivered in more than 70 countries, Aconex is the construction industry’s most widely adopted and trusted platform. For more information, please see  [Oracle Aconex for Defense](https://www.oracle.com/industries/construction-engineering/aconex-fedramp-construction-software/)",
-        "Announcement_Date": "2020-10-30T04:00:00.000Z",
-        "CSP_POC_Name": "Wayne Nichols ",
-        "CSP_POC_Email": "aconex-for-defense_us_grp@oracle.com",
-        "FedRAMP_In-Process_Date": "2020-01-14T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "Liberty IT Solutions",
@@ -13690,6 +13683,38 @@
         "CSP_POC_Name": "Amy Hilbert",
         "CSP_POC_Email": "government@casepoint.com",
         "FedRAMP_In-Process_Date": "2020-02-05T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Oracle",
+        "Cloud_Service_Provider_Package": "Aconex for Defense",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1712871948",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-04-16T04:00:00.000Z",
+        "Original_Expiration_Date": "2021-10-16T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Defense",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+        "Authorizing_Agency": "Department of Defense",
+        "Authorizing_Subagency": "United States Army Corps of Engineers",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20Aconex%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1206061353",
+          "F1603047866",
+          "FR1900048743"
+        ],
+        "CSP_Website": "https://www.oracle.com/industries/construction-engineering/aconex-fedramp-construction-software/",
+        "CSO_Description": "Oracle Aconex provides the #1 cloud and mobile collaboration platform for the global construction industry. This highly secure platform provides a single source of truth for all program related documents and communications across agency stakeholders and streamlines business process management with standardization across the project lifecycle. Oracle Aconex for Defense brings a modern set of flexible tools for simplifying how program data is captured, consumed, shared and analyzed.\n\nCapabilities include:\n\n* Inter-Agency Project Management and Collaboration\n* Centralized Information Management\n* Streamlined Business Process and Construction Management\n* Secure Common Data Environment \n\nWith more than 70,000 user organizations and over $1 trillion of project value delivered in more than 70 countries, Aconex is the construction industry’s most widely adopted and trusted platform. For more information, please see  [Oracle Aconex for Defense](https://www.oracle.com/industries/construction-engineering/aconex-fedramp-construction-software/)",
+        "Announcement_Date": "2020-10-30T04:00:00.000Z",
+        "CSP_POC_Name": "Wayne Nichols ",
+        "CSP_POC_Email": "aconex-for-defense_us_grp@oracle.com",
+        "FedRAMP_In-Process_Date": "2020-01-14T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -16094,6 +16119,7 @@
       },
       {
         "Name": "Paragon Technology Group, Inc.",
+        "Accreditation_Date": "2021-03-08T05:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Paragon%20Logo.png",
         "Description": "Paragon is a FedRAMP recognized 3PAO. We are fully equipped to assess cloud service providers (CSP) undergoing FedRAMP authorization. For CSPs who want to provide services to the federal government, we can provide readiness assessments to give confidence going into the FedRAMP authorization process.  Paragon also provides pre-assessment consulting to help a CSP prepare and successfully navigate the FedRAMP authorization process.  Finally, Paragon provides 3PAO continuous monitoring support for FedRAMP authorized systems, including annual assessments, and significant impact (change) review.",
         "POC_Name": "Greg Horine ",
