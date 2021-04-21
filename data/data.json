@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-04-20T04:40:50.884Z",
+    "Created_At": "2021-04-21T04:40:51.050Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2373,6 +2373,12 @@
             "Authorizing_Agency": "Department of Education",
             "Authorizing_Subagency": "Federal Student Aid",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2021-01-12T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Labor",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -7163,7 +7169,7 @@
           "FR1823447014"
         ],
         "CSP_Website": "www.boomi.com",
-        "CSO_Description": "Dell Boomi allows you to securely connect your past, present and future applications and data sources. Make strategic decisions, operate adeptly, and create better, more seamless, and connected government experience for citizens, partners, and employees.",
+        "CSO_Description": "Dell Boomi AtomSphere is a cloud-native integration Platform-as-a-Service (iPaaS) technology that lets you connect everyone to everything. As a SaaS – based technology it is faster, easier to use, less costly, and more flexible than legacy integration tools and techniques. As a pioneer and leader in Gartner’s Enterprise iPaaS Magic Quadrant for 7 years in a row, the Boomi SaaS AtomSphere Platform has been solving the needs of our government customers with end-to-end capabilities by integrating applications, systems, and connecting people. Dell Boomi delivers in three key areas for our Customers:\n\n**Modernization and Digital Transformation**\n\nBoomi is a key part of any modern IT foundation and enables the transformation of operations, ensuring proper connectivity and smooth data exchange when applications and infrastructure are migrated and consolidated\n\n**Accelerating Cloud Smart Adoption**\n\nSpeeding up cloud adoption to boost operational efficiency and implement shared services to foster collaboration and increase engagement\n\n**Improving Constituents’ Experience**\n\nBringing together workforce processes and workflows from across organizations for a streamlined approach to customer experience and serve employees, partners, contractors, and citizens better.\n\nCovered by our FedRAMP Authorization are the following Cloud Products:\n\n**Integration**\n\nOvercome IT complexity and break down data silos by integrating on-premises and cloud application, various data sources and devices with Boomi Integration. Create a fabric of connectivity to unlock productivity and thrive within your digital technology foundation. Boomi Integration Accelerates time to value leveraging a drag and drop UI, data mapping tools, and a comprehensive library of connectors, coupled with support for various integration patterns enable you to build any integrations with exceptional speed.\n\n**Master Data Hub (MDH)**\n\nBoomi Master Data Hub is a cloud-native master data management (MDM) solution that sits at the center of the various data silos within your business – including your existing MDM solution, to provide you an easy to implement, scalable, flexible, and secure master data management hub as a service.\n\n**API Management (APIM)**\n\nBoomi API Management supports the full lifecycle of APIs in a hybrid environment. Configure APIs and expose real-time integrations effortlessly. Centrally test and deploy APIs and enforce contracts and policies with an API gateway. Monitor the health of APIs with usage dashboards and engage API developers using the catalog and developer portal.\n\n**B2B/EDI Management**\n\nEffectively integrate with your vendors, suppliers, distributors, partners, and marketplaces to simplify processes and trade smarter. Built-in support for a wide variety of traditional and modern EDI standards including XML, X12, EDIFACT, HC7, RosettaNet, Tradacoms, as well as the ability to define custom standards.\n\nAdditionally, our DCP Product sits fully On-Prem.\n\n**Data Catalog and Prep (DCP)**\n\nDCP is an on premise solution that allows agencies to find known, unknown, dormant and underutilized data across your agencies applications and data stores. DCP enables agencies to bring together data across systems, applications and people to build a resource of trusted, complete, and current business intelligence. Once you data is known, DCP ensures that all of your data is catalog and available for you various applications and BI/analytic tools.",
         "Announcement_Date": "2019-08-12T04:00:00.000Z",
         "CSP_POC_Name": "Mario Tarin",
         "CSP_POC_Email": "Boomi_sales_fed@dell.com",
@@ -7884,6 +7890,12 @@
             "Authorizing_Agency": "Department of the Treasury",
             "Authorizing_Subagency": "Bureau of Engraving and Printing",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2021-01-12T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Labor",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -12244,6 +12256,30 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Exterro, Inc.",
+        "Cloud_Service_Provider_Package": "Exterro E-Discovery and Legal Software Platform",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1827963145",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-08-14T04:00:00.000Z",
+        "Sponsoring_Agency": "General Services Administration",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+        "Authorizing_Agency": "General Services Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Exterro%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://www.exterro.com/solutions/government/",
+        "CSO_Description": "**Service Description**\nThe Exterro Platform is a single, natively built, fully integrated solution that unifies all of Exterro's E-Discovery and Information Governance products. Further, it includes our integration hub, which connects to the industry's broadest range of 3rd party tools, system applications, and data sources, orchestrating processes across applications and minimizing your cost of ownership.\nProducts within The Exterro Platform:\n**Employee Change Monitor**\nEmployee Change Monitor enables you to proactively take steps to mitigate risk associated with the change in any data field stored in your HR information system and shared with the Exterro Platform. For example, when an employee leaves your organization, a task can be issued to take a snapshot of her email box and backup her files, a system notification can be sent to alert Records Management of the change in employment status, and the employee can automatically be released from any active legal holds.\n**File Analysis**\nExterro File Analysis provides the critical foundation for any Information Governance project by delivering the information you need to achieve your cost and risk reduction efforts. Intuitive and data-rich dashboards in Exterro's File Analysis software display key information about the content stored on your data sources such as network shares and SharePoint servers. Key document properties such as date created, last modified, access rights, metadata, and content type are displayed, providing the critical foundation for all your information governance cost and risk reduction activities. Proactively manage policies that support organizational goals by gaining insight into the content that matters most. Easily identify data that has business or legal value, such as sensitive data (e.g. personally identifiable or health information), files found outside retention guidelines or ESI on legal hold, to make informed business decisions.\n**Data Mapping**\nBuild and maintain an up-to-date directory that mirrors your evolving data source inventory with Exterro Data Mapping. Identify important ESI repositories, eliminate irrelevant ones, and meet the most rigorous judicial and compliance standards.\n**Legal Hold**\nSay goodbye to manual, time consuming, and error-prone litigation hold processes with world-class legal hold software. With Exterro Legal Hold, you can:\n* Manage the entire legal hold process - from notifications, to interviews, to reminders, and more - in one place\n* Protect and secure data from accidental deletion with the In-Place Preservation module\n* Integrate with your HR system, and get notified of employee status changes, to mitigate the risk of spoliation and automate other operational processes with the Employee Change Monitor module\n* Quickly identify critical information from custodian data stored in Microsoft Office 365 prior to collection with the Office 365 Explorer module\n**In-Place Early Case Assessment**\nPerform early case assessment through a broad set of analytic and predictive intelligence capabilities that enable rapid identification of the most important documents in a dataset prior to collection. Uncover crucial documents and communications prior to 26(f) conferences to support your proportionality and strategic arguments.\n**Collection and Processing**\nPerform targeted collections and full e-discovery document review with a “one-click” ability to collect only the relevant files that are identified during ECA. Exterro supports the ability to connect to an ever growing list of 30+ on premises and cloud-based data sources, eliminating the need to send requests to multiple stakeholders to perform collections. Exterro is unique in the market by combining processing with collection and offering documents for review almost immediately after the collection process is started, thus saving you time and money while reducing risk associated with manual handoffs and promotions. In addition, our underlying technology has been built with the future in mind, able to easily and quickly process vast amounts of data without impacting performance for your users.\n**ESI Vault**\nThe most architecturally advanced ESI storage available delivers significant cost savings, risk reduction, and powers productivity through cross-matter work product re-use and analytics. Maximize work product re-use via a real-time, fully integrated ESI vault that enables one-click repurposing of data across matters. Gain insight and optimize operations through cross matter analytics.\n**Review**\nExterro’s end-to-end, fully integrated platform ensures the shortest possible time to review from matter inception. Documents can be concurrently collected and processed from multiple data sources and seamlessly moved into review as data becomes available, without delays, handoffs, and complex promotion/staging procedures common in other platforms.\n**Production**\nChoose between Native, PDF, and TIFF production outputs depending on the requirements of your matter. Exterro supports industry-standard loadfiles, including Concordance®, Summation®, EDRM XML, and even custom loadfile. Exterro Production automates the entire production process, including imaging, branding, redaction application and loadfile creation into a single step, eliminating technical intervention and time-consuming handoffs. **Legal Project Management**\nExterro Project Management is the only purpose-built project management system designed specifically to orchestrate the workflows and activities associated with e-discovery and other legal processes. Easily modified user-defined workflows coordinate all relevant tasks and activities, including preservation, collection, processing, review, and production.",
+        "CSP_POC_Name": "Bob Rohlf",
+        "CSP_POC_Email": "fedramp_info@exterro.com",
+        "FedRAMP_In-Process_Date": "2020-08-14T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "MicroFocus",
         "Cloud_Service_Provider_Package": "Fortify on Demand",
         "Path": "JAB",
@@ -14451,29 +14487,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Exterro, Inc.",
-        "Cloud_Service_Provider_Package": "Exterro E-Discovery and Legal Software Platform",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1827963145",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "General Services Administration",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-        "Authorizing_Agency": "General Services Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Exterro%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://www.exterro.com/solutions/government/",
-        "CSO_Description": "**Service Description**\nThe Exterro Platform is a single, natively built, fully integrated solution that unifies all of Exterro's E-Discovery and Information Governance products. Further, it includes our integration hub, which connects to the industry's broadest range of 3rd party tools, system applications, and data sources, orchestrating processes across applications and minimizing your cost of ownership.\nProducts within The Exterro Platform:\n**Employee Change Monitor**\nEmployee Change Monitor enables you to proactively take steps to mitigate risk associated with the change in any data field stored in your HR information system and shared with the Exterro Platform. For example, when an employee leaves your organization, a task can be issued to take a snapshot of her email box and backup her files, a system notification can be sent to alert Records Management of the change in employment status, and the employee can automatically be released from any active legal holds.\n**File Analysis**\nExterro File Analysis provides the critical foundation for any Information Governance project by delivering the information you need to achieve your cost and risk reduction efforts. Intuitive and data-rich dashboards in Exterro's File Analysis software display key information about the content stored on your data sources such as network shares and SharePoint servers. Key document properties such as date created, last modified, access rights, metadata, and content type are displayed, providing the critical foundation for all your information governance cost and risk reduction activities. Proactively manage policies that support organizational goals by gaining insight into the content that matters most. Easily identify data that has business or legal value, such as sensitive data (e.g. personally identifiable or health information), files found outside retention guidelines or ESI on legal hold, to make informed business decisions.\n**Data Mapping**\nBuild and maintain an up-to-date directory that mirrors your evolving data source inventory with Exterro Data Mapping. Identify important ESI repositories, eliminate irrelevant ones, and meet the most rigorous judicial and compliance standards.\n**Legal Hold**\nSay goodbye to manual, time consuming, and error-prone litigation hold processes with world-class legal hold software. With Exterro Legal Hold, you can:\n* Manage the entire legal hold process - from notifications, to interviews, to reminders, and more - in one place\n* Protect and secure data from accidental deletion with the In-Place Preservation module\n* Integrate with your HR system, and get notified of employee status changes, to mitigate the risk of spoliation and automate other operational processes with the Employee Change Monitor module\n* Quickly identify critical information from custodian data stored in Microsoft Office 365 prior to collection with the Office 365 Explorer module\n**In-Place Early Case Assessment**\nPerform early case assessment through a broad set of analytic and predictive intelligence capabilities that enable rapid identification of the most important documents in a dataset prior to collection. Uncover crucial documents and communications prior to 26(f) conferences to support your proportionality and strategic arguments.\n**Collection and Processing**\nPerform targeted collections and full e-discovery document review with a “one-click” ability to collect only the relevant files that are identified during ECA. Exterro supports the ability to connect to an ever growing list of 30+ on premises and cloud-based data sources, eliminating the need to send requests to multiple stakeholders to perform collections. Exterro is unique in the market by combining processing with collection and offering documents for review almost immediately after the collection process is started, thus saving you time and money while reducing risk associated with manual handoffs and promotions. In addition, our underlying technology has been built with the future in mind, able to easily and quickly process vast amounts of data without impacting performance for your users.\n**ESI Vault**\nThe most architecturally advanced ESI storage available delivers significant cost savings, risk reduction, and powers productivity through cross-matter work product re-use and analytics. Maximize work product re-use via a real-time, fully integrated ESI vault that enables one-click repurposing of data across matters. Gain insight and optimize operations through cross matter analytics.\n**Review**\nExterro’s end-to-end, fully integrated platform ensures the shortest possible time to review from matter inception. Documents can be concurrently collected and processed from multiple data sources and seamlessly moved into review as data becomes available, without delays, handoffs, and complex promotion/staging procedures common in other platforms.\n**Production**\nChoose between Native, PDF, and TIFF production outputs depending on the requirements of your matter. Exterro supports industry-standard loadfiles, including Concordance®, Summation®, EDRM XML, and even custom loadfile. Exterro Production automates the entire production process, including imaging, branding, redaction application and loadfile creation into a single step, eliminating technical intervention and time-consuming handoffs. **Legal Project Management**\nExterro Project Management is the only purpose-built project management system designed specifically to orchestrate the workflows and activities associated with e-discovery and other legal processes. Easily modified user-defined workflows coordinate all relevant tasks and activities, including preservation, collection, processing, review, and production.",
-        "CSP_POC_Name": "Bob Rohlf",
-        "CSP_POC_Email": "fedramp_info@exterro.com",
-        "FedRAMP_In-Process_Date": "2020-08-14T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "FormAssembly",
         "Cloud_Service_Provider_Package": "FormAssembly Government Cloud (FAGC)",
         "Designation": "FedRAMP Ready",
@@ -14856,6 +14869,29 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Level Access",
+        "Cloud_Service_Provider_Package": "Accessibility Management Platform (AMP)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2020767053",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "LI-SaaS",
+        "Sponsoring_Agency": "General Services Administration",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+        "Authorizing_Agency": "General Services Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Level%20Access%20Logo.png",
+        "Independent_Assessor": "SecureIT",
+        "CSP_Website": "https://www.levelaccess.com",
+        "CSO_Description": "AMP is an accessibility management platform that provides organizations everything they need to effectively manage Section 508 compliance and address digital accessibility across the organization and development lifecycle. With AMP, organizations have everything they need to efficiently build, test, and maintain accessible software and user experiences. This includes the most advanced accessibility test engine available via a smooth workflow, intelligent reporting, convenient and contextual best practices, as well as an extensive training course library.",
+        "CSP_POC_Name": "FedRAMP Team",
+        "CSP_POC_Email": "fedramp@levelaccess.com",
+        "FedRAMP_In-Process_Date": "2021-04-13T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Mimecast",
         "Cloud_Service_Provider_Package": "Mimecast Federal Grid",
         "Designation": "FedRAMP Ready",
@@ -14878,7 +14914,7 @@
         "Cloud_Service_Provider_Name": "Modus",
         "Cloud_Service_Provider_Package": "Modus Government Solutions (MGS)",
         "Path": "JAB",
-        "Designation": "FedRAMP Ready",
+        "Designation": "In Process",
         "Package_ID": "FR1915765924",
         "Service_Model": [
           "SaaS"
@@ -14894,6 +14930,7 @@
         "CSP_POC_Name": "John Crites",
         "CSP_POC_Email": "FedRAMP@discovermodus.com",
         "Fedramp_Ready_Date": "2020-11-10T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2021-04-20T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
