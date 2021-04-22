@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-04-21T04:40:51.050Z",
+    "Created_At": "2021-04-22T04:40:50.432Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -7036,19 +7036,20 @@
         "FedRAMP_In-Process_Date": "2012-09-12T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Date": "2018-03-22T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-04-04T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Food and Drug Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2021-02-16T05:00:00.000Z",
             "Letter_Expiration_Date": "2021-05-14T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-02-17T05:00:00.000Z",
             "Authorizing_Agency": "United States Agency for International Development",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-04-02T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-04-19T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-04-19T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -9219,7 +9220,7 @@
         "CSP_Website": "www.newrelic.com",
         "CSO_Description": "New Relic is a software analytics company that makes sense of billions of metrics about millions of applications in real time. New Relic’s comprehensive SaaS-based solution provides one powerful interface for web and native mobile applications and consolidates the performance monitoring data for any chosen technology in an environment. There are thousands of active customer accounts using New Relic’s cloud solution every day to optimize more than 200 billion metrics for 3 million applications. New Relic is pioneering a new category called Software Analytics.",
         "Announcement_Date": "2020-03-02T05:00:00.000Z",
-        "CSP_POC_Name": "Ray Cruz",
+        "CSP_POC_Name": "N/A",
         "CSP_POC_Email": "fedrampinfo@newrelic.com",
         "FedRAMP_In-Process_Date": "2018-11-01T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
@@ -11929,14 +11930,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2018-03-22T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-04-04T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Food and Drug Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2018-09-17T04:00:00.000Z",
             "Letter_Expiration_Date": "2021-09-17T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-09-19T04:00:00.000Z",
@@ -12007,6 +12000,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-08-06T04:00:00.000Z",
             "Authorizing_Agency": "United States Capitol Police",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USCP%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-03-26T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-04-19T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-04-19T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -12259,7 +12261,7 @@
         "Cloud_Service_Provider_Name": "Exterro, Inc.",
         "Cloud_Service_Provider_Package": "Exterro E-Discovery and Legal Software Platform",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "FR1827963145",
         "Service_Model": [
           "SaaS"
@@ -12272,8 +12274,15 @@
         "Authorizing_Agency": "General Services Administration",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Exterro%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1603047866",
+          "FR1823149273",
+          "F1206081364"
+        ],
         "CSP_Website": "https://www.exterro.com/solutions/government/",
         "CSO_Description": "**Service Description**\nThe Exterro Platform is a single, natively built, fully integrated solution that unifies all of Exterro's E-Discovery and Information Governance products. Further, it includes our integration hub, which connects to the industry's broadest range of 3rd party tools, system applications, and data sources, orchestrating processes across applications and minimizing your cost of ownership.\nProducts within The Exterro Platform:\n**Employee Change Monitor**\nEmployee Change Monitor enables you to proactively take steps to mitigate risk associated with the change in any data field stored in your HR information system and shared with the Exterro Platform. For example, when an employee leaves your organization, a task can be issued to take a snapshot of her email box and backup her files, a system notification can be sent to alert Records Management of the change in employment status, and the employee can automatically be released from any active legal holds.\n**File Analysis**\nExterro File Analysis provides the critical foundation for any Information Governance project by delivering the information you need to achieve your cost and risk reduction efforts. Intuitive and data-rich dashboards in Exterro's File Analysis software display key information about the content stored on your data sources such as network shares and SharePoint servers. Key document properties such as date created, last modified, access rights, metadata, and content type are displayed, providing the critical foundation for all your information governance cost and risk reduction activities. Proactively manage policies that support organizational goals by gaining insight into the content that matters most. Easily identify data that has business or legal value, such as sensitive data (e.g. personally identifiable or health information), files found outside retention guidelines or ESI on legal hold, to make informed business decisions.\n**Data Mapping**\nBuild and maintain an up-to-date directory that mirrors your evolving data source inventory with Exterro Data Mapping. Identify important ESI repositories, eliminate irrelevant ones, and meet the most rigorous judicial and compliance standards.\n**Legal Hold**\nSay goodbye to manual, time consuming, and error-prone litigation hold processes with world-class legal hold software. With Exterro Legal Hold, you can:\n* Manage the entire legal hold process - from notifications, to interviews, to reminders, and more - in one place\n* Protect and secure data from accidental deletion with the In-Place Preservation module\n* Integrate with your HR system, and get notified of employee status changes, to mitigate the risk of spoliation and automate other operational processes with the Employee Change Monitor module\n* Quickly identify critical information from custodian data stored in Microsoft Office 365 prior to collection with the Office 365 Explorer module\n**In-Place Early Case Assessment**\nPerform early case assessment through a broad set of analytic and predictive intelligence capabilities that enable rapid identification of the most important documents in a dataset prior to collection. Uncover crucial documents and communications prior to 26(f) conferences to support your proportionality and strategic arguments.\n**Collection and Processing**\nPerform targeted collections and full e-discovery document review with a “one-click” ability to collect only the relevant files that are identified during ECA. Exterro supports the ability to connect to an ever growing list of 30+ on premises and cloud-based data sources, eliminating the need to send requests to multiple stakeholders to perform collections. Exterro is unique in the market by combining processing with collection and offering documents for review almost immediately after the collection process is started, thus saving you time and money while reducing risk associated with manual handoffs and promotions. In addition, our underlying technology has been built with the future in mind, able to easily and quickly process vast amounts of data without impacting performance for your users.\n**ESI Vault**\nThe most architecturally advanced ESI storage available delivers significant cost savings, risk reduction, and powers productivity through cross-matter work product re-use and analytics. Maximize work product re-use via a real-time, fully integrated ESI vault that enables one-click repurposing of data across matters. Gain insight and optimize operations through cross matter analytics.\n**Review**\nExterro’s end-to-end, fully integrated platform ensures the shortest possible time to review from matter inception. Documents can be concurrently collected and processed from multiple data sources and seamlessly moved into review as data becomes available, without delays, handoffs, and complex promotion/staging procedures common in other platforms.\n**Production**\nChoose between Native, PDF, and TIFF production outputs depending on the requirements of your matter. Exterro supports industry-standard loadfiles, including Concordance®, Summation®, EDRM XML, and even custom loadfile. Exterro Production automates the entire production process, including imaging, branding, redaction application and loadfile creation into a single step, eliminating technical intervention and time-consuming handoffs. **Legal Project Management**\nExterro Project Management is the only purpose-built project management system designed specifically to orchestrate the workflows and activities associated with e-discovery and other legal processes. Easily modified user-defined workflows coordinate all relevant tasks and activities, including preservation, collection, processing, review, and production.",
+        "Announcement_Date": "2021-04-20T04:00:00.000Z",
         "CSP_POC_Name": "Bob Rohlf",
         "CSP_POC_Email": "fedramp_info@exterro.com",
         "FedRAMP_In-Process_Date": "2020-08-14T04:00:00.000Z",
@@ -14646,7 +14655,7 @@
         "Independent_Assessor": "The Cadence Group",
         "CSP_Website": "https://www.id.me/business/identity-gateway",
         "CSO_Description": "ID.me’s Identity Gateway is a shared service for citizen and employee facing authentication and consists of a NIST 800-63-3 Identity Assurance Level 1 and 2 and Authenticator Assurance Level 1 and 2 as well as a NIST 800-63-2 Level of Assurance 1, 2, and 3 certified Credential Service Provider, a Credential Broker, and an Attribute Exchange. ID.me is the only citizen facing Credential Service Provider with a Supervised Remote capability that enables all users, including individuals without credit history and who live overseas, to reach Identity Assurance Level 2 without needing to visit a location in-person. ID.me is capable of immediately upgrading any government Identity Provider or login system to NIST IAL2/AAL2 within the look and feel of the agency’s brand.\n\nAn Intelligent Policy Engine provides a dynamic orchestration capability that enables agencies to configure adaptive Risk-Based Authentication and Attribute Based Access Control by policy. Once configured, the Intelligent Policy Engine dynamically routes users through Identity Proofing and Multi-Factor Authentication based on their demographic need and preference. \n\nID.me’s Identity Gateway integrates directly with applications or with all Identity and Access Management platforms via open protocols like SAML 2.0, OAuth 2.0, and OpenID Connect. \n\nID.me’s Credential Service Provider certification is available at [https://www.idmanagement.gov/trust-services/#consumer-identity-credentials](https://www.idmanagement.gov/trust-services/#consumer-identity-credentials) and the Kantara Initiative Trust Registry [https://kantarainitiative.org/trust-registry/](https://kantarainitiative.org/trust-registry/). Kantara is a GSA approved Trust Framework Solution provider. To learn more about ID.me, visit [https://www.id.me/business/identity-gateway](https://www.id.me/business/identity-gateway).",
-        "CSP_POC_Name": "Jeffrey Widom ",
+        "CSP_POC_Name": "Tim Anderson",
         "CSP_POC_Email": "compliance@id.me",
         "FedRAMP_In-Process_Date": "2020-05-28T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
