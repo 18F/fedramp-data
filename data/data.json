@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-04-23T04:40:50.507Z",
+    "Created_At": "2021-04-24T04:40:50.639Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3864,6 +3864,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-02-18T05:00:00.000Z",
             "Authorizing_Agency": "Department of Education",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-04-23T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-05-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-04-23T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Department of the Navy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -11722,7 +11731,15 @@
         "CSP_POC_Name": "Deepa Mahendraker",
         "CSP_POC_Email": "collab-usgov@cisco.com",
         "FedRAMP_In-Process_Date": "2019-06-28T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Expiration_Date": "2024-04-14T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-04-20T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Reserve System",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRS%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Trello",
