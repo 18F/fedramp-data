@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-04-29T04:40:50.757Z",
+    "Created_At": "2021-04-30T04:40:50.731Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -241,6 +241,13 @@
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Defense Information Systems Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-11-30T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-04-15T04:00:00.000Z",
+            "Authorizing_Agency": "Department of State",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -8007,6 +8014,15 @@
             "Authorizing_Subagency": "Occupational Safety and Health Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-09-18T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-09-18T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-09-22T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Federal Emergency Management Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -11158,14 +11174,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-02-28T05:00:00.000Z",
-            "Letter_Expiration_Date": "2021-02-28T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-02-28T05:00:00.000Z",
-            "Authorizing_Agency": "Library of Congress",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/LoC%20logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-04-01T04:00:00.000Z",
             "Letter_Expiration_Date": "2021-04-01T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-04-01T04:00:00.000Z",
@@ -11188,6 +11196,14 @@
             "Authorizing_Agency": "Department of Energy",
             "Authorizing_Subagency": "Los Alamos National Laboratory",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-04-16T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-04-19T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-04-19T04:00:00.000Z",
+            "Authorizing_Agency": "Library of Congress",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/LoC%20logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -14411,25 +14427,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Cyxtera Federal Group, Inc.",
-        "Cloud_Service_Provider_Package": "CXD Federal Edition (CXD)",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR2010339248",
-        "Service_Model": [
-          "IaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "High",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Cyxtera%20Logo.png",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "CSP_Website": "www.cyxtera.com",
-        "CSO_Description": "The CXD Federal Edition IaaS is a software-defined architecture that combines software-defined network fabric and an on-demand service provisioning system to provide customers the capability to procure and consume data center services.",
-        "CSP_POC_Name": "Russell Cozart",
-        "CSP_POC_Email": "FedRAMP@cyxtera.com",
-        "Fedramp_Ready_Date": "2020-01-13T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Datadog",
         "Cloud_Service_Provider_Package": "Datadog for Government",
         "Path": "Agency",
@@ -15030,25 +15027,6 @@
         "CSP_POC_Email": "FedRAMP@discovermodus.com",
         "Fedramp_Ready_Date": "2020-11-10T05:00:00.000Z",
         "FedRAMP_In-Process_Date": "2021-04-20T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "NeoSystems LLC",
-        "Cloud_Service_Provider_Package": "NeoSystems.Cloud",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR1813457235",
-        "Service_Model": [
-          "IaaS, PaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/NeoSystems%20Logo.png",
-        "Independent_Assessor": "EmeSec Incorporated",
-        "CSP_Website": "www.neosystems.cloud",
-        "CSO_Description": "NeoSystems.Cloud (NSC) offers customers a secure compute and storage capability for hosting a variety of applications. The NeoSystems.Cloud is both a platform as a service (PaaS) and Infrastructure as a Service (IaaS).   The PaaS sits atop the NSC IaaS to enable a convenient, on-demand capability and access to configurable resources for rapid provisioning and minimal management effort.  The NSC PaaS is a multi-tenant solution that is composed of virtual web, application, database, file, and local forest Active Directory (AD) servers.  NSC employs a micro-segmented architecture for protecting virtualized web, database, file, and directory services.  Each customer network (each referred to as a tenant network) incorporates at a minimum a Domain Controller with local AD Forest and Windows Server 2016 supporting one or more web, application, database, or file servers as contractually identified by the customer.  The NSC IaaS/PaaS acts as the host for any applications of the customer.",
-        "CSP_POC_Name": "Don Carnevale",
-        "CSP_POC_Email": "growahead@neosystemscorp.com",
-        "Fedramp_Ready_Date": "2019-12-05T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
