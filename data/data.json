@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-05-03T04:40:51.237Z",
+    "Created_At": "2021-05-04T04:40:50.757Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1388,15 +1388,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-03-10T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-04-29T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-04-02T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "United States Patent and Trademark Office",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Authorizing_Letter_Last_Sign_Date": "2020-12-03T05:00:00.000Z",
             "Authorizing_Agency": "Department of Transportation",
             "Authorizing_Subagency": "Federal Aviation Administration",
@@ -1432,6 +1423,15 @@
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-04-07T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-04-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-04-14T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "United States Patent and Trademark Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -1508,7 +1508,7 @@
         "Designation": "Compliant",
         "Package_ID": "F1603047866",
         "Service_Model": [
-          "IaaS, PaaS"
+          "IaaS, PaaS, SaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "High",
@@ -2439,7 +2439,7 @@
         "Designation": "Compliant",
         "Package_ID": "AGENCYAMAZONEW",
         "Service_Model": [
-          "IaaS, PaaS"
+          "IaaS, PaaS, SaaS"
         ],
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
