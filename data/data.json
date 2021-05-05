@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-05-04T04:40:50.757Z",
+    "Created_At": "2021-05-05T04:40:50.604Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -7446,15 +7446,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-04-01T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-04-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-04-01T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-03-26T04:00:00.000Z",
             "Letter_Expiration_Date": "2023-03-25T04:00:00.000Z",
             "Authorizing_Agency": "General Services Administration",
@@ -7591,6 +7582,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-03-24T04:00:00.000Z",
             "Authorizing_Agency": "Environmental Protection Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-01-29T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-02-05T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -10646,7 +10645,15 @@
         "CSP_POC_Name": "Anthony Fisic",
         "CSP_POC_Email": "fedramp@oclc.org",
         "FedRAMP_In-Process_Date": "2020-01-28T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2021-05-03T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-05-04T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Trade Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Snowflake Inc.",
@@ -11173,15 +11180,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-04-01T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-04-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-04-01T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-03-26T04:00:00.000Z",
             "Letter_Expiration_Date": "2023-03-25T04:00:00.000Z",
             "Authorizing_Agency": "General Services Administration",
@@ -11203,6 +11201,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-04-19T04:00:00.000Z",
             "Authorizing_Agency": "Library of Congress",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/LoC%20logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-01-29T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-02-05T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -14280,25 +14286,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "CloudCheckr, Inc.",
-        "Cloud_Service_Provider_Package": "CloudCheckr CMx Federal",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR1902150768",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CloudCheckr%20Logo.png",
-        "Independent_Assessor": "Kratos",
-        "CSP_Website": "https://cloudcheckr.com/federal",
-        "CSO_Description": "CloudCheckr CMx Federal is a cloud management platform that makes the most complex cloud infrastructures easy to manage by delivering total visibility to your deployment.\r\n\r\nCustomers depend on CloudCheckr to secure, manage, and govern the most sensitive environments in the world—from government agencies to highly-regulated large enterprises and MSPs—with immediate results.\r\n\r\nCloudCheckr’s industry-leading solutions manage multiple cloud budgets concurrently while assisting agencies and MSPs to govern, secure, and maintain compliance of cloud resources using automation and industry best practices.",
-        "CSP_POC_Name": "Mike Schaub",
-        "CSP_POC_Email": "fedramp@cloudcheckr.com",
-        "Fedramp_Ready_Date": "2020-02-04T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Collab9",
         "Cloud_Service_Provider_Package": "Cloud Unified Communications, Contact Center and Collaboration",
         "Path": "Agency",
@@ -15385,6 +15372,31 @@
         "CSP_POC_Name": "Joseph Welsh",
         "CSP_POC_Email": "fedramp.selling@rsa.com",
         "Fedramp_Ready_Date": "2021-02-02T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "SAS Institute, Inc.",
+        "Cloud_Service_Provider_Package": "SAS Cloud for Government",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2105254343",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Justice",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+        "Authorizing_Agency": "Department of Justice",
+        "Authorizing_Subagency": "Office of Justice Programs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/SAS%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "www.sas.com",
+        "CSO_Description": "The SAS Cloud for Government (SAS Cloud) is a Platform-as-a-Service (PaaS) Cloud Service Offering (CSO) that intends to provide federal clients with a platform that current and future SAS software offerings may be hosted. The SAS Cloud environment is hosted within SAS’ datacenter and managed by SAS resources. SAS Cloud is a multi-tenant government cloud with four State Government customers.",
+        "CSP_POC_Name": "Gary Smith",
+        "CSP_POC_Email": "SAS_FedRAMP_PaaS@sas.com",
+        "Fedramp_Ready_Date": "2021-03-17T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2021-03-04T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
