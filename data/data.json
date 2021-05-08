@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-05-07T04:40:51.861Z",
+    "Created_At": "2021-05-08T04:40:50.518Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -906,14 +906,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2018-06-06T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-05-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-06-06T04:00:00.000Z",
-            "Authorizing_Agency": "Environmental Protection Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2021-11-15T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-11-15T05:00:00.000Z",
             "Authorizing_Agency": "Department of Labor",
@@ -1013,6 +1005,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-01-14T05:00:00.000Z",
             "Authorizing_Agency": "Department of Labor",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-05-04T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-11-01T04:00:00.000Z",
+            "Authorizing_Agency": "Environmental Protection Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -1527,7 +1526,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Amazon%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.aws.amazon.com",
-        "CSO_Description": "AWS GovCloud (US) is an AWS Region designed to allow US government agencies and customers supporting the US government to move more sensitive workloads into the cloud. In addition to complying with FedRAMP requirements, the AWS GovCloud (US) framework adheres to U.S. International Traffic in Arms Regulations (ITAR) regulations. Additional information is available at [http://aws.amazon.com/govcloud-us/](http://aws.amazon.com/govcloud-us/).\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: Amazon API Gateway, Amazon AppStream 2.0, Amazon Athena, Amazon Aurora (MySQL), Amazon Aurora (Postgres), Amazon Cloud Directory, Amazon Cloudwatch, Amazon CloudWatch Logs, Amazon Cognito, Amazon Comprehend, Amazon DynamoDB, Amazon ElastiCache, Amazon Elastic Block Store (EBS), Amazon Elastic Compute Cloud (EC2), Amazon Elastic Container Registry, Amazon Elastic Container Service, Amazon Elastic File System, Amazon Elastic Kubernetes Service (EKS) , Amazon Elastic MapReduce, Amazon Elasticsearch Service, Amazon EventBridge, Amazon Glacier, Amazon Guard Duty, Amazon Inspector, Amazon Kinesis Data Firehose, Amazon Kinesis Data Streams, Amazon Pinpoint, Amazon Polly, Amazon Redshift, Amazon RDS (MariaDB, MySQL, Oracle, Postgres, SQL Server), Amazon Rekognition, Amazon Route 53, Amazon SageMaker, Amazon Simple Email Service (SES), Amazon Simple Notification Service (SNS), Amazon Simple Queue Service (SQS), Amazon Simple Storage Service (S3), Amazon Simple Workflow Service (SWF), Amazon Textract, Amazon Transcribe, Amazon Translate, Amazon Virtual Private Cloud (VPC), Amazon WorkSpace, AWS Backup, AWS Batch, AWS Certificate Manager, AWS CodeDeploy, AWS CloudFormation, AWS CloudHSM, AWS CloudTrail, AWS CodeBuild, AWS CodeCommit, AWS CodePipeline, AWS Config, AWS Database Migration Service, AWS Data Sync, AWS Direct Connect, AWS Directory Services, AWS Elastic Beanstalk, AWS Elemental MediaConvert, AWS Glue, AWS IoT Core, AWS IoT Device Manager, AWS IoT Greengrass, AWS Identity & Access Management (IAM), AWS Key Management Service (KMS), AWS Lambda, AWS License Manager, AWS Organizations, AWS Secrets Manager, AWS Security Hub, AWS Serverless Application Repository, AWS Server Migration Service (SMS), AWS Service Catalog, AWS Snowball, AWS Snowball Edge, AWS Step Functions, AWS Storage Gateway, AWS Trusted Advisor, AWS WAF",
+        "CSO_Description": "AWS GovCloud (US) is an AWS Region designed to allow US government agencies and customers supporting the US government to move more sensitive workloads into the cloud. In addition to complying with FedRAMP requirements, the AWS GovCloud (US) framework adheres to U.S. International Traffic in Arms Regulations (ITAR) regulations. Additional information is available at [http://aws.amazon.com/govcloud-us/](http://aws.amazon.com/govcloud-us/).\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: Amazon API Gateway, Amazon AppStream 2.0, Amazon Athena, Amazon Aurora (MySQL), Amazon Aurora (Postgres), Amazon Cloud Directory, Amazon Cloudwatch, Amazon CloudWatch Logs, Amazon Cognito, Amazon Comprehend, Amazon DynamoDB, Amazon ElastiCache, Amazon Elastic Block Store (EBS), Amazon Elastic Compute Cloud (EC2), Amazon Elastic Container Registry, Amazon Elastic Container Service, Amazon Elastic File System, Amazon Elastic Kubernetes Service (EKS) , Amazon Elastic MapReduce, Amazon Elasticsearch Service, Amazon EventBridge, Amazon Glacier, Amazon Guard Duty, Amazon Inspector, Amazon Kinesis Data Firehose, Amazon Kinesis Data Streams, Amazon Pinpoint, Amazon Polly, Amazon Redshift, Amazon RDS (MariaDB, MySQL, Oracle, Postgres, SQL Server), Amazon Rekognition, Amazon Route 53, Amazon SageMaker, Amazon Simple Email Service (SES), Amazon Simple Notification Service (SNS), Amazon Simple Queue Service (SQS), Amazon Simple Storage Service (S3), Amazon Simple Workflow Service (SWF), Amazon Textract, Amazon Transcribe, Amazon Translate, Amazon Virtual Private Cloud (VPC), Amazon WorkSpace, AWS Backup, AWS Batch, AWS Certificate Manager, AWS CodeDeploy, AWS CloudFormation, AWS CloudHSM, AWS CloudTrail, AWS CodeBuild, AWS CodeCommit, AWS CodePipeline, AWS Config, AWS Database Migration Service, AWS Data Sync, AWS Direct Connect, AWS Directory Services, AWS Elastic Beanstalk, AWS Elemental MediaConvert, AWS Glue, AWS IoT Core, AWS IoT Device Manager, AWS IoT Greengrass, AWS Identity & Access Management (IAM), AWS Key Management Service (KMS), AWS Lambda, AWS License Manager, AWS Organizations, AWS Secrets Manager, AWS Security Hub, AWS Serverless Application Repository, AWS Server Migration Service (SMS), AWS Service Catalog, AWS Snowball, AWS Snowball Edge, AWS Step Functions, AWS Storage Gateway, AWS Trusted Advisor, AWS WAF, AWS X-Ray",
         "Announcement_Date": "2016-06-21T04:00:00.000Z",
         "CSP_POC_Name": "AWS FedRAMP Compliance Team",
         "CSP_POC_Email": "aws-compliance-fedramp@amazon.com",
@@ -2458,7 +2457,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Amazon%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.aws.amazon.com",
-        "CSO_Description": "Amazon US East/West is a multi-tenant public cloud for Federal, State and Local Government customers, as well as commercial customers, designed to meet a wide range of regulatory requirements, to include government compliance and security requirements. AWS leverages the Infrastructure-as-a-Service (IaaS) cloud computing model, which enables convenient, on-demand Internet access to a shared pool of configurable computing resources such as servers, storage, network infrastructure, and various other web services. Customers can rapidly provision or release computing resources on demand.\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: Amazon API Gateway, Amazon AppStream 2.0, Amazon Athena, Amazon Aurora (MySQL), Amazon Chime, Amazon Cloud Directory, Amazon CloudFront, Amazon CloudWatch, Amazon CloudWatch Logs, Amazon Cognito, Amazon Comprehend, Amazon Connect, Amazon DynamoDB, Amazon ElastiCache, Amazon Elastic Block Store (EBS), Amazon Elastic Container Registry (ECR), Amazon Elastic Container Service (ECS), Amazon Elastic File System (EFS), Amazon Elastic Compute Cloud (EC2), Amazon Elastic Kubernetes Service (EKS), Amazon Elastic MapReduce, Amazon Elasticsearch, Amazon EventBridge, Amazon Glacier, Amazon Inspector, Amazon Guard Duty, Amazon Kinesis Data Firehose, Amazon Kinesis Data Streams, Amazon Macie, Amazon PinPoint, Amazon Polly, Amazon QuickSight, Amazon Redshift, Amazon RDS (MariaDB, MySQL, Oracle, Postgres, SQL Server), Amazon Rekognition, Amazon Route 53, Amazon SageMaker, Amazon Simple Email Service (SES), Amazon Simple Notification Service (SNS), Amazon Simple Queue Service (SQS), Amazon Simple Storage Service (S3), Amazon Simple Workflow Service (SWF), Amazon Textract, Amazon Transcribe, Amazon Translate, Amazon Virtual Private Cloud (VPC), AWS Backup, AWS Batch, AWS Certificate Manager, AWS CloudFormation, AWS CloudTrail, AWS CodeBuild, AWS CodeCommit, AWS CodeDeploy, AWS CodePipeline, AWS Config, AWS Control Tower, AWS Database Migration Service, AWS Data Sync, AWS Direct Connect, AWS Directory Service, AWS Elastic Beanstalk, AWS Glue, AWS Identity & Access Management (IAM), AWS IoT Core, AWS IoT Device Manager, AWS IoT Greengrass, AWS Key Management Service (KMS), AWS Lambda, AWS License Manager, AWS Managed Service, AWS Organizations, AWS Secrets Manager, AWS Security Hub, AWS Serverless Application Repository, AWS Service Catalog, AWS Server Migration Service (SMS), AWS Shield (Standard and Advanced), AWS Snowball, AWS Snowball Edge, AWS Step Functions, AWS Storage Gateway, AWS Trusted Advisor, AWS WAF, AWS WorkDocs, AWS WorkSpaces, CloudWatch Events",
+        "CSO_Description": "Amazon US East/West is a multi-tenant public cloud for Federal, State and Local Government customers, as well as commercial customers, designed to meet a wide range of regulatory requirements, to include government compliance and security requirements. AWS leverages the Infrastructure-as-a-Service (IaaS) cloud computing model, which enables convenient, on-demand Internet access to a shared pool of configurable computing resources such as servers, storage, network infrastructure, and various other web services. Customers can rapidly provision or release computing resources on demand.\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: Amazon API Gateway, Amazon AppStream 2.0, Amazon Athena, Amazon Aurora (MySQL), Amazon Chime, Amazon Cloud Directory, Amazon CloudFront, Amazon CloudWatch, Amazon CloudWatch Logs, Amazon Cognito, Amazon Comprehend, Amazon Connect, Amazon DynamoDB, Amazon ElastiCache, Amazon Elastic Block Store (EBS), Amazon Elastic Container Registry (ECR), Amazon Elastic Container Service (ECS), Amazon Elastic File System (EFS), Amazon Elastic Compute Cloud (EC2), Amazon Elastic Kubernetes Service (EKS), Amazon Elastic MapReduce, Amazon Elasticsearch, Amazon EventBridge, Amazon Glacier, Amazon Inspector, Amazon Guard Duty, Amazon Kinesis Data Firehose, Amazon Kinesis Data Streams, Amazon Macie, Amazon PinPoint, Amazon Polly, Amazon QuickSight, Amazon Redshift, Amazon RDS (MariaDB, MySQL, Oracle, Postgres, SQL Server), Amazon Rekognition, Amazon Route 53, Amazon SageMaker, Amazon Simple Email Service (SES), Amazon Simple Notification Service (SNS), Amazon Simple Queue Service (SQS), Amazon Simple Storage Service (S3), Amazon Simple Workflow Service (SWF), Amazon Textract, Amazon Transcribe, Amazon Translate, Amazon Virtual Private Cloud (VPC), AWS Backup, AWS Batch, AWS Certificate Manager, AWS CloudFormation, AWS CloudTrail, AWS CodeBuild, AWS CodeCommit, AWS CodeDeploy, AWS CodePipeline, AWS Config, AWS Control Tower, AWS Database Migration Service, AWS Data Sync, AWS Direct Connect, AWS Directory Service, AWS Elastic Beanstalk, AWS Glue, AWS Identity & Access Management (IAM), AWS IoT Core, AWS IoT Device Manager, AWS IoT Greengrass, AWS Key Management Service (KMS), AWS Lambda, AWS License Manager, AWS Managed Service, AWS Organizations, AWS Secrets Manager, AWS Security Hub, AWS Serverless Application Repository, AWS Service Catalog, AWS Server Migration Service (SMS), AWS Shield (Standard and Advanced), AWS Snowball, AWS Snowball Edge, AWS Step Functions, AWS Storage Gateway, AWS Trusted Advisor, AWS WAF, AWS WorkDocs, AWS WorkSpaces, AWS X-Ray, CloudWatch Events",
         "Announcement_Date": "2013-05-01T04:00:00.000Z",
         "CSP_POC_Name": "AWS FedRAMP Compliance Team",
         "CSP_POC_Email": "aws-compliance-fedramp@amazon.com",
@@ -6959,6 +6958,13 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "FirstNet",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2024-05-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-05-07T04:00:00.000Z",
+            "Authorizing_Agency": "Millennium Challenge Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-MillenniumChallengeCorporation-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
