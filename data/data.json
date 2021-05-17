@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-05-16T04:40:50.543Z",
+    "Created_At": "2021-05-17T04:40:50.457Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -9030,7 +9030,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Deloitte",
-        "Cloud_Service_Provider_Package": "Deloitte Federal Technology Center",
+        "Cloud_Service_Provider_Package": "Evidence Management System (EMS)",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "F1210161615",
@@ -9047,7 +9047,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Deloitte%20Logo.png",
         "Independent_Assessor": "MindPoint Group, LLC",
         "CSP_Website": "www.deloitte.com",
-        "CSO_Description": "The Deloitte Federal Technology Center (FTC) provides Software-as-a-Service (SaaS) services utilizing best-of-breed technology software and hardware spread across multiple, geographically dispersed datacenters (Texas, Georgia, and Tennessee) in order to provide a highly available, highly redundant infrastructure capable of withstanding man-made and natural catastrophes. Through the use of virtual machine technology and web services, clients are able to work with various Deloitte business entities to develop software, run proof-of-concept operations, and provide production services utilizing a wide variety of operating systems and application software.",
+        "CSO_Description": "The Deloitte Government and Public Sector Technology Center (GPS TC) provides Software-as-a-Service (SaaS) to government agencies, legal departments, and public entities utilizing machine technology and web services. Deloitte Evidence Management System (EMS) provides advanced technology and experienced staff to assist government agencies responding to requests stemming from litigation, congressional inquiries, FOIA, investigations, and other similar use cases. Our capabilities assist other offerings that need to collect, extract, or analyze unstructured data.\n\nDeloitte EMS draws on years of experience providing government and public sector clients secure eDiscovery solutions and support.  Deloitte’s highly skilled technical resources engage a full array of EDRM data management solutions and services that include identifying, preserving, collecting, reviewing, producing, dispositioning, and archiving.\n\nClients who partner with Deloitte can utilize a wide variety of application software in a secure and scalable environment to address their identified mission requirements.\n\n* Disclosure/FOIA (SecureReleaseTM) \r\n* Advanced Analytics (i.e. active learning, culling data)\r\n* Information Governance\r\n* Program Integrity\r\n* Investigations (i.e., criminal, financial, employment)\r\n* Data Collection including mobile data/devices, social media, websites, O365\r\n* Project and Contract Management \r\n* Trial Support\r\n* Customizable and tailored workflows",
         "Announcement_Date": "2016-03-15T04:00:00.000Z",
         "CSP_POC_Name": "Andrew Martin",
         "CSP_POC_Email": "andmartin@deloitte.com",
@@ -12850,15 +12850,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-11-17T05:00:00.000Z",
-            "Letter_Expiration_Date": "2021-05-13T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-11-17T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Logistics Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-12-04T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-12-04T05:00:00.000Z",
             "Authorizing_Agency": "National Mediation Board",
@@ -12934,6 +12925,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-04-20T04:00:00.000Z",
             "Authorizing_Agency": "Office of Personnel Management",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-05-13T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-05-02T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-05-13T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Logistics Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -14111,6 +14111,35 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Amplifire",
+        "Cloud_Service_Provider_Package": "Amplifire",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2012366611",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "LI-SaaS",
+        "Original_Authorization_Date": "2021-04-29T04:00:00.000Z",
+        "Original_Expiration_Date": "2024-04-28T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Amplifire%20Logo.png",
+        "Independent_Assessor": "Department of Veterans Affairs",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
+        "CSP_Website": "https://amplifire.com",
+        "CSO_Description": "Amplifire is an adaptive learning platform built from discoveries in cognitive science that delivers measurable learning outcomes and quality improvements.",
+        "Announcement_Date": "2021-05-14T04:00:00.000Z",
+        "CSP_POC_Name": "Jack Unrue",
+        "CSP_POC_Email": "kftechops@amplifire.com",
+        "FedRAMP_In-Process_Date": "2020-11-05T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "AchieveIt Online, LLC",
         "Cloud_Service_Provider_Package": "AchieveIt",
         "Path": "Agency",
@@ -14199,29 +14228,6 @@
         "CSP_POC_Name": "Don Davidson",
         "CSP_POC_Email": "FedRAMP@agilquest.com",
         "FedRAMP_In-Process_Date": "2020-12-08T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Amplifire",
-        "Cloud_Service_Provider_Package": "Amplifire",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2012366611",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "LI-SaaS",
-        "Sponsoring_Agency": "Department of Veterans Affairs",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-        "Authorizing_Agency": "Department of Veterans Affairs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Amplifire%20Logo.png",
-        "Independent_Assessor": "Department of Veterans Affairs",
-        "CSP_Website": "https://amplifire.com",
-        "CSO_Description": "Amplifire is an adaptive learning platform built from discoveries in cognitive science that delivers measurable learning outcomes and quality improvements.",
-        "CSP_POC_Name": "Jack Unrue",
-        "CSP_POC_Email": "kftechops@amplifire.com",
-        "FedRAMP_In-Process_Date": "2020-11-05T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
