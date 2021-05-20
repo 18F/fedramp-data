@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-05-19T04:40:50.864Z",
+    "Created_At": "2021-05-20T04:40:50.424Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4923,7 +4923,7 @@
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2018-01-17T05:00:00.000Z",
-        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency": "Department of Education",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
         "Authorizing_Agency": "Department of Education",
         "Authorizing_Subagency": "Federal Student Aid",
@@ -7417,15 +7417,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-05-11T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-05-15T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-07-21T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "International Trade Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-06-30T04:00:00.000Z",
             "Letter_Expiration_Date": "2023-07-08T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-07-08T04:00:00.000Z",
@@ -7531,6 +7522,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-02-05T05:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-04-30T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-05-15T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-05-05T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "International Trade Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
@@ -9869,7 +9869,7 @@
           "FR1823447014"
         ],
         "CSP_Website": "https://www.nutanix.com/solutions/federal",
-        "CSO_Description": "Nutanix Xi Government Cloud provides US government agencies and supporting customers a single point of management and analysis across all of their clouds. Nutanix Government Cloud provides a suite of PaaS and SaaS services to enable streamline cloud management, application delivery and governance. Nutanix Government Cloud provides solutions to enable customers to adhere to U.S. International Traffic in Arms Regulations (ITAR) regulations. Nutanix Government Cloud consists of the following services: Xi Frame and Xi Beam.\n\nXi Frame is a secure cloud platform that lets organizations deliver amazing Windows and Linux applications and workflows to users on all connected devices. Frame is a cloud Desktop as a Service (DaaS) and cloud orchestration platform purpose-built for public sector customers. Nutanix Frame is operated and managed in the US AWS and Azure Government regions and brokers secure connectivity into your enterprise hybrid cloud environment. Frame delivers public sector customers a secure cloud DaaS and cloud orchestration with security and compliance built in.\n\nXi Beam is a hybrid cloud cost governance service that provides organizations with deep visibility and rich analytics needed to control costs across public and private clouds. Beam proactively identifies idle and underutilized resources and delivers  intelligent recommendations to purchase reserved instances that drive deep cost savings. Beam also provides out-of-the-box cost metering for Nutanix private cloud along with unified private and public cloud chargeback that drives financial accountability and keeps cloud spending within budgets. ",
+        "CSO_Description": "The Nutanix Government Cloud is a dedicated instance of our SaaS and PaaS offerings for the exclusive use of US government agencies and supporting customers. It is hosted and operated in CONUS, and managed by US citizens in adherence to U.S. International Traffic in Arms Regulations (ITAR) regulations. Nutanix Government Cloud platform currently consists of the following services: Frame, Beam, Flow Security Central, and Clusters.\r\n\r\nFrame is a managed Desktop-as-a-Service (DaaS) solution that lets you access your apps or desktops via a browser on any device and from any location. Easily connect to your Government Cloud, Public Cloud, or Datacenter environments and create virtual workspaces for your teams, customers, or partners in under an hour. Frame running in Nutanix Government Cloud supports secure remote desktops in AWS GovCloud, Azure Government, Azure Public, Google Cloud Platform, and on-premises using Nutanix AHV hypervisor.\r\n\r\nBeam is a hybrid cloud cost governance service that provides organizations with deep visibility and rich analytics needed to control costs across public and private clouds. Beam proactively identifies idle and underutilized resources and delivers intelligent recommendations to purchase reserved instances that drive deep cost savings. Beam also provides out-of-the-box cost metering for Nutanix private cloud along with unified private and public cloud chargeback that drives financial accountability and keeps cloud spending within budgets.\r\n\r\nFlow Security Central is a hybrid & multi cloud security monitoring service by Nutanix to ensure continuous security and simplify micro-segmentation policy planning. Flow Security Central helps you gain complete visibility into the security posture of your hybrid cloud environments including Nutanix private cloud and AWS & Azure public clouds. It also plays a crucial role in your regulatory compliance auditing and reporting.\r\n\r\nNutanix Clusters is the industry’s first Hybrid Multi-cloud platform with natively integrated networking between private and public clouds that allows seamless application migration and license portability across all environments. Nutanix Clusters enables customers to run the full Nutanix software stack anywhere - private or public clouds. IT operators can seamlessly migrate existing applications, software licenses and operational practices across clouds without any rearchitecting or rework. Organizations benefit from flexibility, simplicity and cost efficiency by choosing the cloud platform that meets their business needs without any vendor lock-in. The clusters deployed on public clouds are centrally managed along with on-premises clusters using any existing Prism Central instance, providing nearly identical functionality and operating private and multiple public clouds as a single cloud. Nutanix Clusters runs on bare metal AWS EC2 instances today in AWS regions (including AWS GovCloud).",
         "Announcement_Date": "2020-05-01T04:00:00.000Z",
         "CSP_POC_Name": "Nutanix Compliance Team",
         "CSP_POC_Email": "compliance@nutanix.com",
