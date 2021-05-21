@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-05-20T04:40:50.424Z",
+    "Created_At": "2021-05-21T04:40:50.246Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -9869,7 +9869,7 @@
           "FR1823447014"
         ],
         "CSP_Website": "https://www.nutanix.com/solutions/federal",
-        "CSO_Description": "The Nutanix Government Cloud is a dedicated instance of our SaaS and PaaS offerings for the exclusive use of US government agencies and supporting customers. It is hosted and operated in CONUS, and managed by US citizens in adherence to U.S. International Traffic in Arms Regulations (ITAR) regulations. Nutanix Government Cloud platform currently consists of the following services: Frame, Beam, Flow Security Central, and Clusters.\r\n\r\nFrame is a managed Desktop-as-a-Service (DaaS) solution that lets you access your apps or desktops via a browser on any device and from any location. Easily connect to your Government Cloud, Public Cloud, or Datacenter environments and create virtual workspaces for your teams, customers, or partners in under an hour. Frame running in Nutanix Government Cloud supports secure remote desktops in AWS GovCloud, Azure Government, Azure Public, Google Cloud Platform, and on-premises using Nutanix AHV hypervisor.\r\n\r\nBeam is a hybrid cloud cost governance service that provides organizations with deep visibility and rich analytics needed to control costs across public and private clouds. Beam proactively identifies idle and underutilized resources and delivers intelligent recommendations to purchase reserved instances that drive deep cost savings. Beam also provides out-of-the-box cost metering for Nutanix private cloud along with unified private and public cloud chargeback that drives financial accountability and keeps cloud spending within budgets.\r\n\r\nFlow Security Central is a hybrid & multi cloud security monitoring service by Nutanix to ensure continuous security and simplify micro-segmentation policy planning. Flow Security Central helps you gain complete visibility into the security posture of your hybrid cloud environments including Nutanix private cloud and AWS & Azure public clouds. It also plays a crucial role in your regulatory compliance auditing and reporting.\r\n\r\nNutanix Clusters is the industry’s first Hybrid Multi-cloud platform with natively integrated networking between private and public clouds that allows seamless application migration and license portability across all environments. Nutanix Clusters enables customers to run the full Nutanix software stack anywhere - private or public clouds. IT operators can seamlessly migrate existing applications, software licenses and operational practices across clouds without any rearchitecting or rework. Organizations benefit from flexibility, simplicity and cost efficiency by choosing the cloud platform that meets their business needs without any vendor lock-in. The clusters deployed on public clouds are centrally managed along with on-premises clusters using any existing Prism Central instance, providing nearly identical functionality and operating private and multiple public clouds as a single cloud. Nutanix Clusters runs on bare metal AWS EC2 instances today in AWS regions (including AWS GovCloud).",
+        "CSO_Description": "The Nutanix Government Cloud is a dedicated instance of our SaaS and PaaS offerings for the exclusive use of US government agencies and supporting customers. It is hosted and operated in CONUS and managed by US citizens in adherence to U.S. International Traffic in Arms Regulations (ITAR) regulations. The Nutanix Government Cloud platform currently consists of the following services: Frame, Beam, Flow Security Central, and Nutanix Clusters on AWS GovCloud.\r\n\r\nFrame is a managed Desktop-as-a-Service (DaaS) solution that lets you access your apps or desktops via a browser on any device and from any location. Easily connect to your Government Cloud, Public Cloud, or Datacenter environments and create virtual workspaces for your teams, customers, or partners in under an hour. Frame running in Nutanix Government Cloud supports secure remote desktops in AWS GovCloud, Azure Government, Azure Public, Google Cloud Platform, and on-premises using Nutanix AHV hypervisor.\r\n\r\nBeam is a hybrid cloud cost governance service that provides organizations with deep visibility and rich analytics needed to control costs across public and private clouds. Beam proactively identifies idle and underutilized resources and delivers intelligent recommendations to purchase reserved instances that drive deep cost savings. Beam also provides out-of-the-box cost metering for Nutanix private cloud along with unified private and public cloud chargeback that drives financial accountability and keeps cloud spending within budgets.\r\n\r\nFlow Security Central is a hybrid and multi cloud security monitoring service to ensure continuous security and simplify micro-segmentation policy planning. Flow Security Central helps gain visibility into the security posture of a hybrid cloud environment including a Nutanix based private cloud and AWS  and Azure public clouds. It can also help with  assessment of regulatory compliance auditing and reporting.\r\n\r\nNutanix Clusters on AWS GovCloud is the industry’s first Hybrid Multi-cloud platform with natively integrated networking between private and public clouds that allows seamless application migration and license portability across environments. Nutanix Clusters on AWS GovCloud enables customers to run the full Nutanix software stack on private or public clouds. Nutanix Clusters on AWS GovCloud can help with seamlessly migrating existing applications, software licenses and operational practices across clouds without any rearchitecting. Clusters deployed on public clouds are centrally managed along with on-premises Nutanix clusters using any existing Nutanix Prism Central instance, providing nearly identical functionality and allowing for the operation of private and multiple public clouds as a “single cloud.” Nutanix Clusters on AWS GovCloud runs on bare metal AWS EC2 instances in AWS GovCloud regions. ",
         "Announcement_Date": "2020-05-01T04:00:00.000Z",
         "CSP_POC_Name": "Nutanix Compliance Team",
         "CSP_POC_Email": "compliance@nutanix.com",
@@ -12257,48 +12257,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "GDC Integration, Inc.",
-        "Cloud_Service_Provider_Package": "General Support System (GSS)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1834348080",
-        "Service_Model": [
-          "PaaS, SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2020-07-08T04:00:00.000Z",
-        "Original_Expiration_Date": "2021-07-08T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Agriculture",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-        "Authorizing_Agency": "Department of Agriculture",
-        "Authorizing_Subagency": "United States Forest Service",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/GDCII%20Logo.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "CSP_Website": "www.gdcii.com",
-        "CSO_Description": "GDCI provides SaaS Federalized Human Resource Applications for on-boarding- separation; labor and employee relations case management; time-attendance-leave and workload management; personal action processing and management (PAR); performance management; workforce restructuring; medical/qualification management and human resource communication management.",
-        "Announcement_Date": "2021-05-10T04:00:00.000Z",
-        "CSP_POC_Name": "Mike Biggs",
-        "CSP_POC_Email": "fedramp@gdcii.com",
-        "FedRAMP_In-Process_Date": "2019-02-05T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2020-09-25T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Transportation",
-            "Authorizing_Subagency": "Federal Aviation Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2023-09-21T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-09-20T04:00:00.000Z",
-            "Authorizing_Agency": "Small Business Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SmallBusinessAdmin-Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "AT&T Cybersecurity",
         "Cloud_Service_Provider_Package": "AT&T Threat Detection and Response for Government",
         "Path": "Agency",
@@ -14165,6 +14123,47 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "GDC Integration, Inc.",
+        "Cloud_Service_Provider_Package": "General Support System (GSS)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1834348080",
+        "Service_Model": [
+          "PaaS, SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-05-20T04:00:00.000Z",
+        "Original_Expiration_Date": "2022-05-19T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Agriculture",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+        "Authorizing_Agency": "Department of Agriculture",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/GDCII%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "www.gdcii.com",
+        "CSO_Description": "GDCI provides SaaS Federalized Human Resource Applications for on-boarding- separation; labor and employee relations case management; time-attendance-leave and workload management; personal action processing and management (PAR); performance management; workforce restructuring; medical/qualification management and human resource communication management.",
+        "Announcement_Date": "2021-05-10T04:00:00.000Z",
+        "CSP_POC_Name": "Mike Biggs",
+        "CSP_POC_Email": "fedramp@gdcii.com",
+        "FedRAMP_In-Process_Date": "2019-02-05T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2020-09-25T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Transportation",
+            "Authorizing_Subagency": "Federal Aviation Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-09-21T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-09-20T04:00:00.000Z",
+            "Authorizing_Agency": "Small Business Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SmallBusinessAdmin-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "AchieveIt Online, LLC",
         "Cloud_Service_Provider_Package": "AchieveIt",
         "Path": "Agency",
@@ -15106,9 +15105,31 @@
         "CSP_Website": "https://www.kahua.com/industries/government/",
         "CSO_Description": "Kahua is a leading provider of capital program and construction project management software. Government agencies use Kahua’s collaborative construction management solutions to improve efficiency, lower costs and reduce project risk throughout the lifecycle of their capital programs. Kahua’s purpose-built solutions for agencies, program managers and contractors enable rapid implementation that minimizes time-to-value and enhances user adoption. And with the industry’s only low-code application platform agencies can easily customize existing Kahua apps or even build their own new apps to run their programs and projects at peak efficiency today and rapidly adapt as conditions dictate.\r\n\r\nKahua’s collaborative solutions include:\n\n* Capital Planning\n* Design Management\n* Bid Management\n* Cost Management\n* Construction Administration\n* Asset Handover",
         "CSP_POC_Name": "Chris Faklaris",
-        "CSP_POC_Email": "kahuagov@kahua.com",
         "Fedramp_Ready_Date": "2020-10-06T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2020-11-23T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Keeper Security",
+        "Cloud_Service_Provider_Package": "Keeper Security Government Cloud (KSGC)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2116544598",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Millennium Challenge Corporation",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-MillenniumChallengeCorporation-Seal.png",
+        "Authorizing_Agency": "Millennium Challenge Corporation",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Keeper%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "https://www.keepersecurity.com/industries/public-sector.html",
+        "CSO_Description": "Keeper Security Government Cloud (KSGC) transforms the way government organizations protect  their operations against password-related data breaches and cyberthreats including ransomware and phishing attacks. KSGC provides IT administrators with visibility, management and control over their organization’s password security, monitoring and reporting. The KSGC cybersecurity platform utilizes a zero-trust framework and zero-knowledge security architecture and integrates with on-premise, cloud and hybrid-cloud environments.  \r\n\r\nKSGC utilizes granular, role-based administrative controls including delegated administration. IT Administrators can enforce critical internal control policies including password complexity, IP white listing, two-factor authentication and Data Loss Prevention (DLP).  KSGC’s modern provisioning tools allow organizations to rapidly deploy cybersecurity protection to thousands of users, on all their devices, and can integrate with any identity stack including AD, LDAP, SSO (SAML), SCIM and APIs. The cybersecurity platform includes robust event logging, reporting and auditing capabilities with seamless integration with Security Information and Event Management (SIEM) systems.\r",
+        "CSP_POC_Name": "Keeper FedRAMP Team",
+        "CSP_POC_Email": "fedramp@keepersecurity.com",
+        "FedRAMP_In-Process_Date": "2021-05-20T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -16096,7 +16117,7 @@
       {
         "Name": "Department of Transportation (DOT) Enterprise Services Center (ESC)",
         "Accreditation_Date": "2014-12-22T05:00:00.000Z",
-        "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/DOT%20ESC%20Logo.jpg",
+        "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/DOT%20ESC%20Logo.png",
         "Description": "ESC was the first federal organization accredited as a FedRAMP 3PAO. Our motto is security for Feds by Feds! The ESC's security teams have extensive work experience in IT, Federal Government and a variety of industries in the private sector. As a federal government agency, ESC is positioned & understands your needs. The ESC provides the opportunity for federal organizations that have a cloud service information system, to use our certified/accredited independent FedRAMP 3PAO services to validate and verify their security posture and IT implementation.",
         "POC_Name": "Jerome Kemp",
         "POC_Email": "cyberservices@esc.gov",
