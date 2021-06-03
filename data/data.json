@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-06-02T04:40:50.538Z",
+    "Created_At": "2021-06-03T04:40:50.184Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1967,6 +1967,13 @@
             "Authorizing_Agency": "Department of Agriculture",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-05-25T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-05-25T04:00:00.000Z",
+            "Authorizing_Agency": "National Science Foundation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -2166,15 +2173,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-06-01T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-05-28T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-06-10T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Authorizing_Subagency": "Federal Student Aid",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2023-08-07T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-08-07T04:00:00.000Z",
             "Authorizing_Agency": "Department of Health and Human Services",
@@ -2203,6 +2201,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-04-02T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Treasury",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-05-25T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-05-24T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-06-02T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Authorizing_Subagency": "Federal Student Aid",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -5508,7 +5515,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Microsoft%20Logo.png",
         "Independent_Assessor": "Kratos",
         "CSP_Website": "http://azure.microsoft.com/en-us/",
-        "CSO_Description": "Microsoft Azure Commercial Cloud is an open and flexible cloud platform that enables customers to quickly build, test, deploy, and manage their applications, services, and product development across a network of Microsoft-managed datacenters within the United States. The Microsoft Azure platform exports savings to the customer by delivering the software, platform, and IT infrastructure resources where and when it is needed via the Internet. Microsoft Azure provides a multi-tenant public cloud services platform that offers functionality to support capacities such as Platform as a Service (PaaS), and Infrastructure as a Service (IaaS) cloud service models. Azure maintains a P-ATO at the High Impact Level. Azure was the first public cloud with IaaS and PaaS services to receive a JAB P-ATO.\nFor additional information, visit the (Azure Trust Center)[https://www.microsoft.com/en-us/TrustCenter/Compliance/default.aspx] or refer to Azure FedRAMP Package ID# F1209051525.\n\nThe following Microsoft services are FedRAMP Authorized and approved by the JAB at the High Impact Level: \nAI Builder – MiddleTier, AI Builder – Structured ML,  AI Builder – Unstructured ML, API Management, Application Gateway, Application Change Analysis, Application Insights, Arca CDS Instance Container Management Service, Automation, Azure Active Directory B2C - CPIM, Azure Active Directory (AAD) Domain Services, Azure Active Directory (AAD) Free, Azure Active Directory (AAD) Premium P1 + P2, Azure Active Directory (AAD) Sync Fabric, Azure Advanced Threat Protection, Azure Advisor, Azure Analysis Services, Azure API for FHIR, Azure App Configuration, Azure Arc for servers, Azure Archive Storage, Azure Bastion – Hybrid Networking Services, Azure Blueprints, Azure Bot Service, Azure Container Instances, Azure Container Registry, Azure Cosmos DB, Azure Data Explorer, Azure Data Movement, Azure Database for MariaDB, Azure Database Migration Service, Azure DataBricks, Azure Data Share, Azure DDoS Protection, Azure Dedicated HSM, Azure DNS, Azure Event Grid, Azure File Sync, Azure Firewall, Azure For Education, Azure Front Door, Azure Guest Configuration, Azure HPC Cache, Azure Information Protection, Azure IoT Hub, Azure Import/Export, Azure Internet Analyzer – MOI Service, Azure Key Vault, Azure Kubernetes Service, Azure Lab Services, Azure Language Understanding, Azure Lockbox, Azure Machine Learning Service, Azure Managed Services – Azure Light House, Azure Maps, Azure Migrate, Azure Monitor, Azure NetApp Files, Azure Open Datasets, Azure Policy, Azure Portal, Azure Public IP, Azure Red Hat OpenShift, Azure Resource Graph, Azure Resource Manager (ARM), Azure Search, Azure Security Center, Azure Security for IoT, Azure Service Health, Azure Service Manager (RDFE), Azure Sentinel, Azure SignalR Service, Azure Site Recovery, Azure Sphere, Azure Stack Edge, Azure Time Series Insights, Azure Virtual WAN, Background Runtime (Async), Background Runtime (Jobs), Backup, Batch, Business Application Platform, CAP Admin Deflection Service, CAP Admin Sandbox Operations Service, CAP Core Services, CAP Package Deployer Service, CDS API, CDS SandBox, Cloud Services, Cloud Shell, Cognitive Services, Cognitive Services, Common Data Service, Container Platform, Cognitive Services Form Recognizer, Cognitive Services Personalizer, Computer Vision, Content Delivery Network, Content Moderator, Cost Management, CRM Activity Logging, CRM Admin API, CRM Cloud Provisioning Service, CRM Cloud Scale Groups, CRM Cloud Sync Service, CRM First Party Integration Service, CRM Global Discovery Service, CRM Marketplace Service, CRM Portals, CRM Portal Provisioning (SiteWide), CRM Reports (SSRS), CRM Sitewide Servers, CRM Trial Signup Service, CRM Trusted Published System, Custom Vision, D365 Integrator App, Databox Datacenter Infra Service, Databox Pod & Disk Service, Data Factory, Dynamics 365 – Data Sync Framework, Dynamics 365 Guides, Dynamics 365 – Relevance Search, Dynamics 365 Customer Engagement, Dynamics 365 Customer Service, Dynamics 365 Field Service, Dynamics 365 Commerce and Dynamics 365 Supply Chain Management, Event Hubs, ExpressRoute, Face, Flow, GitHub AE, HDInsight, Healthcare Bot, Intune, Kepler User Management Service, Load Balancer, Log Analytics, Logic Apps, Managed Applications, Dynamics 365 Omni-channel Engagement Hub, Marketplace Portal, Media Services, Microsoft Azure Attestation, Microsoft Azure Peering Service, Microsoft Cloud App Security, Microsoft Defender Advanced Threat Protection, Microsoft Graph, Microsoft PowerApps, Microsoft Stream, Microsoft Threat Experts, Multi-factor Authentication (MFA), MySQL, Neptune License Management Service, Network Watcher, Network Watcher Traffic Analytics, Notification Hubs, Postgre SQL, PowerApps – UCI, Power BI, Power Platform Admin Center, Power Platform ISV Portal Platform, Power Virtual Agents, PPAC Admin Analytics, QnA Maker, Private Link, Redis Cache, Resource Scheduling for Microsoft Dynamics, Scheduler, Service Bus, Service Fabric, SGX PCK Certificate Cache, Spartan Data Platform Management, Speech Services, SQL Data Warehouse, SQL Database, SQL Server Registry, SQL Server Stretch Database, Storage (Blobs, Disks, Files, Queues, Tables), StorSimple Service, Stream Analytics, Text Analytics, Traffic Manager, Translator Text, Video Indexer, Virtual Machines Scale Sets, Virtual Machines, Virtual Network, Visual Studio Codespaces, VPN Gateway, Web Apps (App Service), Windows 10 IoT Core Services, Windows Virtual Desktop, and supporting infrastructure and platform services.",
+        "CSO_Description": "Microsoft Azure Commercial Cloud is an open and flexible cloud platform that enables customers to quickly build, test, deploy, and manage their applications, services, and product development across a network of Microsoft-managed datacenters within the United States. The Microsoft Azure platform exports savings to the customer by delivering the software, platform, and IT infrastructure resources where and when it is needed via the Internet. Microsoft Azure provides a multi-tenant public cloud services platform that offers functionality to support capacities such as Platform as a Service (PaaS), and Infrastructure as a Service (IaaS) cloud service models. Azure maintains a P-ATO at the High Impact Level. Azure was the first public cloud with IaaS and PaaS services to receive a JAB P-ATO.\nFor additional information, visit the (Azure Trust Center)[https://www.microsoft.com/en-us/TrustCenter/Compliance/default.aspx] or refer to Azure FedRAMP Package ID# F1209051525.\n\nThe following Microsoft services are FedRAMP Authorized and approved by the JAB at the High Impact Level: \nAI Builder – MiddleTier, AI Builder – Structured ML,  AI Builder – Unstructured ML, API Management, Application Gateway, Application Change Analysis, Application Insights, Arca CDS Instance Container Management Service, Automation, Azure Active Directory B2C - CPIM, Azure Active Directory (AAD) Domain Services, Azure Active Directory (AAD) Free, Azure Active Directory (AAD) Premium P1 + P2, Azure Active Directory (AAD) Sync Fabric, Azure Advanced Threat Protection, Azure Advisor, Azure Analysis Services, Azure API for FHIR, Azure App Configuration, Azure Arc for servers, Azure Archive Storage, Azure Bastion – Hybrid Networking Services, Azure Blueprints, Azure Bot Service, Azure Container Instances, Azure Container Registry, Azure Cosmos DB, Azure Data Explorer, Azure Data Movement, Azure Database for MariaDB, Azure Database Migration Service, Azure DataBricks, Azure Data Share, Azure DDoS Protection, Azure Dedicated HSM, Azure DNS, Azure Event Grid, Azure File Sync, Azure Firewall, Azure Firewall Manager, Azure For Education, Azure Front Door, Azure Guest Configuration, Azure HPC Cache, Azure Information Protection, Azure IoT Hub, Azure Import/Export, Azure Internet Analyzer – MOI Service, Azure Key Vault, Azure Kubernetes Service, Azure Lab Services, Azure Language Understanding, Azure Lockbox, Azure Machine Learning Service, Azure Managed Services – Azure Light House, Azure Maps, Azure Migrate, Azure Monitor, Azure NetApp Files, Azure Open Datasets, Azure Policy, Azure Portal, Azure Public IP, Azure Red Hat OpenShift, Azure Resource Graph, Azure Resource Manager (ARM), Azure Search, Azure Security Center, Azure Security for IoT, Azure Service Health, Azure Service Manager (RDFE), Azure Sentinel, Azure SignalR Service, Azure Site Recovery, Azure Sphere, Azure Stack Edge, Azure Time Series Insights, Azure Virtual WAN, Background Runtime (Async), Background Runtime (Jobs), Backup, Batch, Business Application Platform, CAP Admin Deflection Service, CAP Admin Sandbox Operations Service, CAP Core Services, CAP Package Deployer Service, CDS API, CDS SandBox, Cloud Services, Cloud Shell, Cognitive Services, Cognitive Services, Common Data Service, Container Platform, Cognitive Services Form Recognizer, Cognitive Services Personalizer, Computer Vision, Content Delivery Network, Content Moderator, Cost Management, CRM Activity Logging, CRM Admin API, CRM Cloud Provisioning Service, CRM Cloud Scale Groups, CRM Cloud Sync Service, CRM First Party Integration Service, CRM Global Discovery Service, CRM Marketplace Service, CRM Portals, CRM Portal Provisioning (SiteWide), CRM Reports (SSRS), CRM Sitewide Servers, CRM Trial Signup Service, CRM Trusted Published System, Custom Vision, D365 Integrator App, Databox Datacenter Infra Service, Databox Pod & Disk Service, Data Factory, Dynamics 365 – Data Sync Framework, Dynamics 365 Guides, Dynamics 365 – Relevance Search, Dynamics 365 Customer Engagement, Dynamics 365 Customer Service, Dynamics 365 Field Service, Dynamics 365 Commerce and Dynamics 365 Supply Chain Management, Event Hubs, ExpressRoute, Face, Flow, GitHub AE, HDInsight, Healthcare Bot, Intune, Kepler User Management Service, Load Balancer, Log Analytics, Logic Apps, Managed Applications, Dynamics 365 Omni-channel Engagement Hub, Marketplace Portal, Media Services, Microsoft 365 Defender, Microsoft Azure Attestation, Microsoft Azure Peering Service, Microsoft Cloud App Security, Microsoft Defender Advanced Threat Protection, Microsoft Graph, Microsoft PowerApps, Microsoft Stream, Microsoft Threat Experts, Multi-factor Authentication (MFA), MySQL, Neptune License Management Service, Network Watcher, Network Watcher Traffic Analytics, Notification Hubs, Postgre SQL, PowerApps – UCI, Power BI, Power Platform Admin Center, Power Platform ISV Portal Platform, Power Virtual Agents, PPAC Admin Analytics, QnA Maker, Private Link, Redis Cache, Resource Scheduling for Microsoft Dynamics, Scheduler, Service Bus, Service Fabric, SGX PCK Certificate Cache, Spartan Data Platform Management, Speech Services, SQL Data Warehouse, SQL Database, SQL Server Registry, SQL Server Stretch Database, Storage (Blobs, Disks, Files, Queues, Tables), StorSimple Service, Stream Analytics, Text Analytics, Traffic Manager, Translator Text, Video Indexer, Virtual Machines Scale Sets, Virtual Machines, Virtual Network, Visual Studio Codespaces, VPN Gateway, Web Apps (App Service), Windows 10 IoT Core Services, Windows Virtual Desktop, and supporting infrastructure and platform services.",
         "Announcement_Date": "2019-05-03T04:00:00.000Z",
         "CSP_POC_Name": "Microsoft Azure FedRAMP Requests",
         "CSP_POC_Email": "AzureFedRAMP@microsoft.com",
@@ -6343,8 +6350,8 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2021-05-31T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-05-19T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-05-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-04-21T04:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
@@ -8835,7 +8842,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Microsoft%20Logo.png",
         "Independent_Assessor": "Kratos",
         "CSP_Website": "http://azure.microsoft.com/en-us/",
-        "CSO_Description": "Microsoft Azure Government is a government-community cloud that offers hyper-scale compute, storage, networking, and identity management services, with world-class security. A physically and network-isolated instance of Microsoft Azure, operated by screened U.S. citizens, Azure Government provides standards-compliant IaaS and PaaS that has now received a FedRAMP JAB P-ATO. All services are available immediately for supporting secure US government workloads, including CJIS, IRS 1075 FTI, HIPAA, DoD, and federal agency data.\n\nThe following Microsoft services are FedRAMP Authorized and approved by the JAB at the High Impact Level: API Management, Application Gateway, Automation, Azure Active Directory (AAD) Free, Azure Advanced Threat Protection, Azure Advisor, Azure Active Directory Domain Services, Azure Active Directory (AAD) Premium P1 + P2, Azure Analysis Services, Azure API for FHIR, Azure App Configuration, Azure Archive Storage, Azure Backup, Azure Bastion, Azure Blueprints, Azure Bot Service, Azure Container Instances, Azure Content Delivery Network, Azure Cosmos DB, Azure Database for MariaDB, Azure Database for MySQL, Azure Database for PostgreSQL, Azure Data Box Edge, Azure Data Explorer, Azure Database Migration Service, Azure Data Share, Azure DDOS Protection, Azure Dedicated HSM, Azure DevTest Labs, Azure DNS, Azure File Sync, Azure Firewall, Azure Front Door, Azure HPC Cache, Azure Information Protection, Azure Import/Export , Azure IoT Hub, Azure Key Vault, Azure Kubernetes Service, Azure Lab Services, Azure LockBox, Azure Machine Learning, Azure Managed Applications, Azure Managed Services – Azure Light House, Azure Maps, Azure Migrate, Azure Monitor, Azure NetApp Files, Azure Policy, Azure Portal, Azure Private Link, Azure Public IP, Azure Resource Graph, Azure Resource Manager (ARM), Azure Search, Azure Security Center, Azure Security for IoT, Azure Sentinel, Azure Service Health, Azure Service Manager (RDFE), Azure SignalR Service, Azure Site Recovery, Azure Stack Bridge, Azure Virtual WAN, Batch, Cloud Shell, Cognitive Services - Computer Vision, Cognitive Services - Content Moderator, Cognitive Services – Custom Vision, Cognitive Services - Face, Cognitive Services Form Recognizer, Cognitive Services - Language Understanding, Cognitive Services – Personalizer, Cognitive Services – QnA Maker, Cognitive Services - Text Analytics, Cognitive Services - Translator Text, Cloud Services, Container Registry, Cost Management, D365 Integrator APP, Databox Datacenter Infra Service, Databox Disk and Pod Service, Databricks, Data Factory, Dynamics 365, Dynamics 365 Athena – CDS to Azure Data Lake, Dynamics 365 Customer Engagement, Dynamics 365 Customer Insights, Dynamics 365 Customer Service, Dynamics 365 Field Service, Dynamics 365 Forms Pro, Dynamics 365 Project Service Automation, Dynamics 365 Sales, Dynamics 365 Service Omni-Channel Engagement Hub, Event Grid, Event Hubs, ExpressRoute, Functions, GitHub AE, Guest Configuration, HDInsight, Intune, Load Balancer, Log Analytics, Logic Apps, Media Services, Microsoft Azure Government Management Portal, Microsoft Cloud App Security, Microsoft Defender Advanced Threat Protection (MDATP), Microsoft Flow, Microsoft Graph, Microsoft Peering Service, Microsoft PowerApps, Microsoft Stream, Multi-factor Authentication (MFA), Network Datapath, Network Watcher, Network Watcher-Traffic Analytics, NM Agent, Notification Hubs, Power BI Embedded, Power BI, Power Query Online, Push Agent V2, Redis Cache, Regional Network Manager, Scheduler, SDN PubSub Service, Service Fabric, Services Bus, SQL Data Warehouse, SQL Database, SQL Server Stretch Database, Speech Services, StorSimple, Storage (Blobs, Disks, Files, Queues, Tables), Stream Analytics, Traffic Manager, Virtual Machines Scale Sets (VMSS), Virtual Machines, Virtual NAT, Virtual Network, Virtual Network Directory Service, VPN Gateway, Web Application Firewall, Web Apps (App Service) Windows Virtual Desktop, and supporting infrastructure and platform services.",
+        "CSO_Description": "Microsoft Azure Government is a government-community cloud that offers hyper-scale compute, storage, networking, and identity management services, with world-class security. A physically and network-isolated instance of Microsoft Azure, operated by screened U.S. citizens, Azure Government provides standards-compliant IaaS and PaaS that has now received a FedRAMP JAB P-ATO. All services are available immediately for supporting secure US government workloads, including CJIS, IRS 1075 FTI, HIPAA, DoD, and federal agency data.\n\nThe following Microsoft services are FedRAMP Authorized and approved by the JAB at the High Impact Level: API Management, Application Gateway, Automation, Azure Active Directory (AAD) Free, Azure Advanced Threat Protection, Azure Advisor, Azure Active Directory Domain Services, Azure Active Directory (AAD) Premium P1 + P2, Azure Analysis Services, Azure API for FHIR, Azure App Configuration, Azure Archive Storage, Azure Backup, Azure Bastion, Azure Blueprints, Azure Bot Service, Azure Container Instances, Azure Content Delivery Network, Azure Cosmos DB, Azure Database for MariaDB, Azure Database for MySQL, Azure Database for PostgreSQL, Azure Data Box Edge, Azure Data Explorer, Azure Database Migration Service, Azure Data Share, Azure DDOS Protection, Azure Dedicated HSM, Azure DevTest Labs, Azure DNS, Azure File Sync, Azure Firewall, Azure Front Door, Azure HPC Cache, Azure Information Protection, Azure Import/Export , Azure IoT Hub, Azure Key Vault, Azure Kubernetes Service, Azure Lab Services, Azure LockBox, Azure Machine Learning, Azure Managed Applications, Azure Managed Services – Azure Light House, Azure Maps, Azure Migrate, Azure Monitor, Azure NetApp Files, Azure Policy, Azure Portal, Azure Private Link, Azure Public IP, Azure Resource Graph, Azure Resource Manager (ARM), Azure Search, Azure Security Center, Azure Security for IoT, Azure Sentinel, Azure Service Health, Azure Service Manager (RDFE), Azure SignalR Service, Azure Site Recovery, Azure Stack Bridge, Azure Virtual WAN, Batch, Cloud Shell, Cognitive Services - Computer Vision, Cognitive Services - Content Moderator, Cognitive Services – Custom Vision, Cognitive Services - Face, Cognitive Services Form Recognizer, Cognitive Services - Language Understanding, Cognitive Services – Personalizer, Cognitive Services – QnA Maker, Cognitive Services - Text Analytics, Cognitive Services - Translator Text, Cloud Services, Container Registry, Cost Management, D365 Integrator APP, Databox Datacenter Infra Service, Databox Disk and Pod Service, Databricks, Data Factory, Dynamics 365, Dynamics 365 Athena – CDS to Azure Data Lake, Dynamics 365 Customer Engagement, Dynamics 365 Customer Insights, Dynamics 365 Customer Service, Dynamics 365 Field Service, Dynamics 365 Forms Pro, Dynamics 365 Project Service Automation, Dynamics 365 Sales, Dynamics 365 Service Omni-Channel Engagement Hub, Event Grid, Event Hubs, ExpressRoute, Functions, GitHub AE, Guest Configuration, HDInsight, Intune, Load Balancer, Log Analytics, Logic Apps, Media Services, Microsoft 365 Defender, Microsoft Azure Government Management Portal, Microsoft Cloud App Security, Microsoft Defender Advanced Threat Protection (MDATP), Microsoft Flow, Microsoft Graph, Microsoft Peering Service, Microsoft PowerApps, Microsoft Stream, Multi-factor Authentication (MFA), Network Datapath, Network Watcher, Network Watcher-Traffic Analytics, NM Agent, Notification Hubs, Power BI Embedded, Power BI, Power Query Online, Power Virtual Agents, Push Agent V2, Redis Cache, Regional Network Manager, Scheduler, SDN PubSub Service, Service Fabric, Services Bus, SQL Data Warehouse, SQL Database, SQL Server Stretch Database, Speech Services, StorSimple, Storage (Blobs, Disks, Files, Queues, Tables), Stream Analytics, Traffic Manager, Virtual Machines Scale Sets (VMSS), Virtual Machines, Virtual NAT, Virtual Network, Virtual Network Directory Service, VPN Gateway, Web Application Firewall, Web Apps (App Service) Windows Virtual Desktop, and supporting infrastructure and platform services.",
         "Announcement_Date": "2020-04-29T04:00:00.000Z",
         "CSP_POC_Name": "Microsoft Azure FedRAMP Requests",
         "CSP_POC_Email": "AzureFedRAMP@microsoft.com",
@@ -10064,6 +10071,14 @@
             "Authorizing_Agency": "Department of Energy",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2024-04-08T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-04-07T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Customs and Border Protection",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -10941,6 +10956,13 @@
             "Authorizing_Agency": "Department of Justice",
             "Authorizing_Subagency": "Executive Office for United States Attorneys",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-05-24T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-05-31T04:00:00.000Z",
+            "Authorizing_Agency": "United States Equal Employment Opportunity Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/EEOC%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -12424,7 +12446,7 @@
         "CSP_Website": "www.fedhive.com",
         "CSO_Description": "FedHIVE provides a Federal High Impact Virtualized Environment provision within a physical and logical boundary designed to provide Federal clients an Infrastructure as a Service (IaaS) / Platform as a Service (PaaS) solution that meets or exceeds the FIPS PUB 199 System Security Level of High (sensitive but unclassified information) security controls in which to implement organizational Software as a Service (SaaS) applications. The FedHIVE secure cloud service provides agencies a compliant, scalable, and secure infrastructure capability enabling and supporting platforms or software required for their business or mission success. FedHIVE implements over 420 High Baseline security controls within the boundary to support Federal cloud services requirements for protecting CUI and PII per agency application level ATO security requirements and is currently providing service to multiple Government Agencies (including DoD and TSA) and supporting vendor customers.",
         "Announcement_Date": "2020-12-07T05:00:00.000Z",
-        "CSP_POC_Name": "Doug Sears",
+        "CSP_POC_Name": "Richard Schott",
         "CSP_POC_Email": "fedhive@hrtec.net",
         "Fedramp_Ready_Date": "2018-07-11T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2020-08-18T04:00:00.000Z",
@@ -12601,41 +12623,6 @@
             "Authorizing_Agency": "Department of the Interior",
             "Authorizing_Subagency": "United States Geological Survey",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Avaya, Inc.",
-        "Cloud_Service_Provider_Package": "Avaya Cloud Secure",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1506046708",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2021-01-29T05:00:00.000Z",
-        "Original_Expiration_Date": "2021-05-13T04:00:00.000Z",
-        "Sponsoring_Agency": "United States House of Representatives",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/House%20of%20Reps%20Logo.jpg",
-        "Authorizing_Agency": "United States House of Representatives",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Avaya%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://www.avaya.com/en/fedramp",
-        "CSO_Description": "Avaya Cloud Secure is a government only, FedRAMP Moderate Unified Communications collaboration (UCaaS) cloud offering the following features and benefits to government agencies:\n* **Government Only Cloud** - The Government Only Cloud is a preferred characteristics for Government wide solutions and it comes with lesser risk to Government agencies than other forms of cloud models (e.g. public).\n* **Better customization and security** - The Service is a dedicated (not multi-tenant) Unified Communication (UC) cloud offering. Each agency is provided their own individual instance on a virtual platform that provides a highly customizable, reliable and secure environment. The Service is monitored and managed 365 X 24 X7.\n* **Avaya industry recognized Unified Communications (UC) software** is at the heart of the Service providing __enterprise quality__ UC features including telephony, unified messaging, mobility, instant messaging, presence, and audio, web and video collaboration.\n* **Secure Full Featured Collaboration** provides a reservation-less “Meet-me” audio, video and web collaboration bridge with security code access and the ability to launch the bridge from any phone anywhere.\n* **Future technology acceleration** as technology refreshes are included and managed by Avaya as part of the service, eliminating capital expenditures associated with updating obsolete communications systems.\n* **Predictable Operational Expense (OPEX) Billing Model** offers cost savings over traditional build and operate solution.\nAvaya Cloud Secure provides a cloud solution for all real time communication needs that enable agencies to support their missions expediently and efficiently.",
-        "Announcement_Date": "2019-04-29T04:00:00.000Z",
-        "CSP_POC_Name": "Melinda Abee",
-        "CSP_POC_Email": "fedramp@avaya.com",
-        "Fedramp_Ready_Date": "2017-12-11T05:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2018-05-15T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2019-11-26T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Justice",
-            "Authorizing_Subagency": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -13912,14 +13899,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2021-05-11T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-05-11T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "Customs and Border Protection",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2018-11-21T05:00:00.000Z",
             "Authorizing_Agency": "National Capital Planning Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NationalCapitalPlanningCommission-Logo.png",
@@ -14179,6 +14158,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-11-23T05:00:00.000Z",
             "Authorizing_Agency": "Federal Reserve System",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRS%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2024-05-05T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-05-05T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Customs and Border Protection",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
           }
         ]
