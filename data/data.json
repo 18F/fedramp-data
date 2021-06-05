@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-06-04T04:40:50.842Z",
+    "Created_At": "2021-06-05T04:40:50.705Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -9351,11 +9351,10 @@
           "F1206061353",
           "AGENCYAMAZONEW",
           "F1603047866",
+          "F1206081364",
           "F1603087869",
           "F1512167750",
-          "F1508207205",
-          "AGENCYSF",
-          "F1305072116"
+          "F1508207205"
         ],
         "CSP_Website": "https://www.veritone.com/ai-solutions/government/",
         "CSO_Description": "aiWARE™ for Government is an operating system for artificial intelligence (AI) that turns both private and public media into actionable intelligence. This transformation from data to understanding is achieved through the organized interrogation of content via a robust set of artificial intelligence engines and powerful applications acting in concert.\nA continuously-evolving environment of advanced applications, core services, developer tools, and cognitive computing - aiWARE offers potent content ingestion, indexing, search, correlation, analytics, sharing, and collaboration capabilities.\naiWARE affords unprecedented scalability and computational analysis in a SaaS delivery model. It makes advanced artificial intelligence truly accessible, understandable and beneficial to users of all technical skill levels for simplified organization and analysis of the escalating volumes of audio and video media as well as structured content. The aiWARE ecosystem of best-of-breed cognitive engines in a single platform eliminates the need for agencies and mission owners to select one vendor from the landscape of thousands of engines, which effectively future-proofs technology choices, and ensures timely and common access to the latest AI advances.",
@@ -11698,7 +11697,7 @@
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2020-05-05T04:00:00.000Z",
         "Original_Expiration_Date": "2021-05-05T04:00:00.000Z",
-        "Sponsoring_Agency": "United States Agency for International Development",
+        "Sponsoring_Agency": "Department of Transportation",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
         "Authorizing_Agency": "Department of Transportation",
         "Authorizing_Subagency": "Federal Aviation Administration",
@@ -14245,6 +14244,41 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Avaya, Inc.",
+        "Cloud_Service_Provider_Package": "Avaya Cloud Secure",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1506046708",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-06-01T04:00:00.000Z",
+        "Original_Expiration_Date": "2024-06-01T04:00:00.000Z",
+        "Sponsoring_Agency": "United States House of Representatives",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/House%20of%20Reps%20Logo.jpg",
+        "Authorizing_Agency": "United States House of Representatives",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Avaya%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://www.avaya.com/en/fedramp",
+        "CSO_Description": "Avaya Cloud Secure is a government only, FedRAMP Moderate Unified Communications collaboration (UCaaS) cloud offering the following features and benefits to government agencies:\n* **Government Only Cloud** - The Government Only Cloud is a preferred characteristics for Government wide solutions and it comes with lesser risk to Government agencies than other forms of cloud models (e.g. public).\n* **Better customization and security** - The Service is a dedicated (not multi-tenant) Unified Communication (UC) cloud offering. Each agency is provided their own individual instance on a virtual platform that provides a highly customizable, reliable and secure environment. The Service is monitored and managed 365 X 24 X7.\n* **Avaya industry recognized Unified Communications (UC) software** is at the heart of the Service providing __enterprise quality__ UC features including telephony, unified messaging, mobility, instant messaging, presence, and audio, web and video collaboration.\n* **Secure Full Featured Collaboration** provides a reservation-less “Meet-me” audio, video and web collaboration bridge with security code access and the ability to launch the bridge from any phone anywhere.\n* **Future technology acceleration** as technology refreshes are included and managed by Avaya as part of the service, eliminating capital expenditures associated with updating obsolete communications systems.\n* **Predictable Operational Expense (OPEX) Billing Model** offers cost savings over traditional build and operate solution.\nAvaya Cloud Secure provides a cloud solution for all real time communication needs that enable agencies to support their missions expediently and efficiently.",
+        "Announcement_Date": "2019-04-29T04:00:00.000Z",
+        "CSP_POC_Name": "Melinda Abee",
+        "CSP_POC_Email": "fedramp@avaya.com",
+        "Fedramp_Ready_Date": "2017-12-11T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2018-05-15T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2019-11-26T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Justice",
+            "Authorizing_Subagency": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "AchieveIt Online, LLC",
         "Cloud_Service_Provider_Package": "AchieveIt",
         "Path": "Agency",
@@ -15334,6 +15368,30 @@
         "CSP_POC_Name": "MongoDB FedRAMP Team",
         "CSP_POC_Email": "fedramp@mongodb.com",
         "Fedramp_Ready_Date": "2021-05-24T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Motorola Solutions",
+        "Cloud_Service_Provider_Package": "Motorola Solutions Federal Cloud (MSFC)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2118055930",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Sponsoring_Agency": "Department of Homeland Security",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+        "Authorizing_Agency": "Department of Homeland Security",
+        "Authorizing_Subagency": "Immigration and Customs Enforcement",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Motorola%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "CSP_Website": "www.motorolasolutions.com",
+        "CSO_Description": "Motorola Solutions is expanding its “Mission Critical Ecosystem” which consists of a suite of software and technology that supports mission critical communications in evolving ways and that provides fast access to actionable information.  The purpose of the Motorola Solutions Federal Cloud (MSFC) is to serve as the platform upon which the applications and solutions that are part of this Mission Critical Ecosystem will securely operate to provide our U.S. Federal Government users with enhanced capabilities.\n\r\nPrimary to our Federal Cloud offering as our initial secure cloud application is the APX NEXT smart radio, a next-generation P25 platform purpose-built for first responders to access and act on information while maintaining focus in critical situations.   The Motorola Solutions Federal Cloud enables  APX NEXT and additional SaaS services to provide new Common Operating Picture (COP) capabilities to the U.S. Department of Homeland Security, U.S. Immigration and Customs Enforcement agents, federal Law Enforcement Officers (LEOs), first responders and public safety personnel in the field with a new ownership experience to Operation and Support personnel.\r\n\r\nThe Motorola Solutions Federal Cloud underlying architecture is reinforced by a modern and comprehensive application of security technology.  \r\n\r\nOnce deployed, our cloud services production systems are monitored 24x7x365 by Motorola Solutions’ Security Operations Center using state-of-the-art Security Information and Event Management (SIEM) technology.",
+        "CSP_POC_Name": "Motorola Solutions FedRAMP Team",
+        "CSP_POC_Email": "FedRAMP@motorolasolutions.com",
+        "FedRAMP_In-Process_Date": "2021-06-03T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
