@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-06-07T04:40:50.432Z",
+    "Created_At": "2021-06-08T04:40:50.589Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3558,7 +3558,7 @@
         "Sponsoring_Agency": "JAB Authorization",
         "Authorizing_Agency": "JAB Authorization",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Infor%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Independent_Assessor": "SecureIT",
         "Underlying_CSP_Package_ID": [
           "F1603047866",
           "F1305072116"
@@ -6417,6 +6417,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-05-07T04:00:00.000Z",
             "Authorizing_Agency": "Millennium Challenge Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-MillenniumChallengeCorporation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-05-25T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-06-07T04:00:00.000Z",
+            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -13460,7 +13467,6 @@
           },
           {
             "Letter_Date": "2020-10-07T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-10-09T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-10-09T04:00:00.000Z",
             "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
@@ -13666,7 +13672,7 @@
         "Designation": "Compliant",
         "Package_ID": "FR1834348080",
         "Service_Model": [
-          "PaaS, SaaS"
+          "SaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
@@ -13902,15 +13908,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2018-05-08T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-06-06T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-06-07T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Centers for Disease Control and Prevention",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2018-11-21T05:00:00.000Z",
             "Authorizing_Agency": "National Capital Planning Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NationalCapitalPlanningCommission-Logo.png",
@@ -13979,6 +13976,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2019-08-20T04:00:00.000Z",
             "Authorizing_Agency": "Consumer Financial Protection Bureau",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFPB_Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-03-25T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-04-15T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-04-16T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Centers for Disease Control and Prevention",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -14638,6 +14644,25 @@
         "CSP_POC_Name": "Mustafa Baig",
         "CSP_POC_Email": "sales@collab9.com",
         "FedRAMP_In-Process_Date": "2021-03-01T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Commvault Systems, Inc.",
+        "Cloud_Service_Provider_Package": "Metallic",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2115384377",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "High",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Metallic%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "Metallic SaaS Backup & Recovery - Metallic.io",
+        "CSO_Description": "Metallic, from Commvault, is a Software-as-a-Service (SaaS) solution that provides data backup and recovery capabilities for endpoints, SaaS applications, and on-premise and cloud workloads. Hosted in Microsoft Azure Government Cloud, Metallic provides data protection for businesses in the form of client-side software (an agent) that runs on the customer endpoint to provide a secure and encrypted backup and recovery utility to recover from data loss. It is designed in such a way that aligns with the NIST SP 800-145 definition of a cloud computing system. Metallic is a Moderate system based on the FIPS-199 Standards for Security Categorization of Federal Information and Information Systems. Backup data is transmitted to Metallic using FIPS 140-2 validated cryptography and can be recovered by customers in the event of a data loss. Metallic is categorized as a High information system, and stores customer information in a multi-tenant environment where each customer’s information is logically separated and secured using a unique tenant ID",
+        "CSP_POC_Name": "Said Syed",
+        "CSP_POC_Email": "fedrampdl@commvault.com",
+        "Fedramp_Ready_Date": "2021-05-24T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
