@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-06-09T04:40:50.511Z",
+    "Created_At": "2021-06-10T04:40:51.107Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3540,6 +3540,14 @@
             "Authorizing_Agency": "Department of Veterans Affairs",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-06-04T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-06-04T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -5226,20 +5234,20 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-05-29T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-05-29T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-05-29T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Health Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-11-19T05:00:00.000Z",
             "Letter_Expiration_Date": "2023-11-19T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-11-19T05:00:00.000Z",
             "Authorizing_Agency": "Department of Veterans Affairs",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-10-07T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-10-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-10-07T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Health Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -6370,6 +6378,14 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-05-21T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-10-09T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-06-09T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -9530,38 +9546,6 @@
         "CSP_POC_Name": "Phil Shea",
         "CSP_POC_Email": "fedramp@datadoghq.com",
         "FedRAMP_In-Process_Date": "2019-07-02T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Zendesk",
-        "Cloud_Service_Provider_Package": "Zendesk Customer Support and Help Desk Platform",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1821856903",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "LI-SaaS",
-        "Original_Authorization_Date": "2020-04-24T04:00:00.000Z",
-        "Sponsoring_Agency": "General Services Administration",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-        "Authorizing_Agency": "General Services Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Zendesk%20Logo.png",
-        "Independent_Assessor": "General Services Administration",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW",
-          "FR1812058188",
-          "F1206081364",
-          "FR1805751477",
-          "F1512167750"
-        ],
-        "CSP_Website": "https://www.zendesk.com",
-        "CSO_Description": "Zendesk is a cloud-based customer service platform, designed for companies that want to build customer relationships that are more meaningful, personal, and productive. Zendesk strives to bring businesses and customers closer together by enabling companies to provide great support and mature with self-service and proactive engagement. It is designed to be easy to use, customize, and scale.",
-        "Announcement_Date": "2020-05-14T04:00:00.000Z",
-        "CSP_POC_Name": "Chris Weiskirch",
-        "CSP_POC_Email": "fedramp@zendesk.com",
-        "FedRAMP_In-Process_Date": "2020-01-30T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -13268,6 +13252,12 @@
             "Authorizing_Subagency": "Federal Emergency Management Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-05-25T04:00:00.000Z",
+            "Authorizing_Agency": "General Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -14276,6 +14266,38 @@
             "Include_In_Marketplace": "Y"
           }
         ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Zendesk",
+        "Cloud_Service_Provider_Package": "Zendesk Customer Support and Help Desk Platform",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1821856903",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "LI-SaaS",
+        "Original_Authorization_Date": "2021-06-07T04:00:00.000Z",
+        "Sponsoring_Agency": "General Services Administration",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+        "Authorizing_Agency": "General Services Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Zendesk%20Logo.png",
+        "Independent_Assessor": "General Services Administration",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "FR1812058188",
+          "F1206081364",
+          "FR1805751477",
+          "F1512167750"
+        ],
+        "CSP_Website": "https://www.zendesk.com",
+        "CSO_Description": "Zendesk is a cloud-based customer service platform, designed for companies that want to build customer relationships that are more meaningful, personal, and productive. Zendesk strives to bring businesses and customers closer together by enabling companies to provide great support and mature with self-service and proactive engagement. It is designed to be easy to use, customize, and scale.",
+        "Announcement_Date": "2020-05-14T04:00:00.000Z",
+        "CSP_POC_Name": "Chris Weiskirch",
+        "CSP_POC_Email": "fedramp@zendesk.com",
+        "FedRAMP_In-Process_Date": "2020-01-30T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "AchieveIt Online, LLC",
@@ -15325,6 +15347,25 @@
         "CSP_POC_Name": "FedRAMP Team",
         "CSP_POC_Email": "fedramp@levelaccess.com",
         "FedRAMP_In-Process_Date": "2021-04-13T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "LifeOmic",
+        "Cloud_Service_Provider_Package": "Precision Health Platform for Government (PHP-G)",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2120546338",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/LifeOmic%20Logo.png",
+        "Independent_Assessor": "The Cadence Group",
+        "CSP_Website": "https://lifeomic.com",
+        "CSO_Description": "The LifeOmic Precision Health Platform for Government (PHP-G) is a cloud and mobile Software-as-a-Service (SaaS) offering designed to aggregate health related data for storage, analytics, and the creation of predictive (Artificial Intelligence/Machine Learning (AI/ML)) models.",
+        "CSP_POC_Name": "David Meade",
+        "CSP_POC_Email": "fedramp@lifeomic.com",
+        "Fedramp_Ready_Date": "2021-06-07T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
