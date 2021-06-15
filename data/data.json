@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-06-14T04:40:50.933Z",
+    "Created_At": "2021-06-15T04:40:50.643Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -799,15 +799,6 @@
             "Letter_Expiration_Date": "2024-06-18T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Interior",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-04-01T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-04-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-04-01T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -4107,7 +4098,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Oracle",
-        "Cloud_Service_Provider_Package": "Enterprise Planning and Budgeting Cloud Services a component of Oracle Enterprise Performance Management (EPM)",
+        "Cloud_Service_Provider_Package": "Oracle Enterprise Performance Management (EPM)",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "F1607077914",
@@ -4126,7 +4117,7 @@
           "F1508277234"
         ],
         "CSP_Website": "www.oracle.com",
-        "CSO_Description": "PBCS is a flexible planning application based on Oracle Hyperion Planning that supports enterprise wide planning, budgeting, and forecasting in a cloud-based deployment model. It provides a rich Web and Microsoft Office enabled planning and modeling framework that supports driver based planning to help connect operational assumptions to financial outcomes.\nAgencies should be aware that while the entire EPM suite was addressed in the authorization package, assessed by the Third Party Assessment Organization (3PAO), and was reviewed by the FedRAMP PMO, the scope of the initial authorization/Authorization to Operate (ATO) is limited to the Enterprise Planning and Budgeting Cloud Service (EPBCS), which is the component of the EPM suite being used by the initial authorizing agency. Other Agencies may authorize any individual component(s) of the EPM suite or the entire EPM suite, as desired, for their own particular use/mission requirements.",
+        "CSO_Description": "The Oracle Cloud Enterprise Performance Management (or Oracle Cloud EPM) comprises the full suite of Oracle EPM business processes supporting a comprehensive array of activities spanning planning and budgeting, consolidation and close, account reconciliation, profitability and cost management, tax reporting, enterprise data management, and narrative reporting. The Oracle Cloud EPM is offered as a hosted cloud solution (i.e., operated and maintained by Oracle within its secure hosting environment at co-location facilities in the United States) providing customers with a modern, efficient, and secure cloud solution via a proven Software as a Service (SaaS) delivery model.  The Oracle Cloud EPM is hosted within the Oracle Government Cloud, a community-cloud limited to federal, state, and local agencies as well as select universities and federal contractors with a demonstrated need for FedRAMP-certified services. Access to the Oracle Government Cloud is restricted to United States citizens located within the United States or territories.",
         "Announcement_Date": "2018-09-26T04:00:00.000Z",
         "CSP_POC_Name": "AJ Handy",
         "CSP_POC_Email": "saas_fedramp_us_grp@oracle.com",
@@ -4939,15 +4930,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-03-10T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-05-05T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-05-05T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Transportation",
-            "Authorizing_Subagency": "Federal Aviation Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2022-02-09T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-02-09T05:00:00.000Z",
             "Authorizing_Agency": "Department of the Interior",
@@ -4967,6 +4949,14 @@
             "Letter_Expiration_Date": "2024-04-05T04:00:00.000Z",
             "Authorizing_Agency": "General Services Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-05-07T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-05-25T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-05-25T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Transportation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -5526,8 +5516,11 @@
         "Independent_Assessor": "The Cadence Group",
         "Underlying_CSP_Package_ID": [
           "F1603047866",
+          "FR1912658130",
+          "F1607057910",
           "F1512167750",
-          "F1206081364"
+          "F1206081364",
+          "F1508207205"
         ],
         "CSP_Website": "www.hirevue.com",
         "CSO_Description": "HireVue helps global enterprises gain a competitive advantage in the modern talent marketplace with video interviewing software and recruitment assessments. The HireVue platform is transforming the way organizations discover, hire, and develop talent. By combining video interviews with predictive, validated I-O science and artificial intelligence.\nBased in South Jordan, Utah, HireVue works with more than 700 customers across government and commercial industry, powering millions of annual interviews in over 180 countries. To learn more, visit us at [www.hirevue.com](www.hirevue.com).",
@@ -5754,6 +5747,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-03-11T05:00:00.000Z",
             "Authorizing_Agency": "Federal Deposit Insurance Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-11-17T05:00:00.000Z",
+            "Letter_Expiration_Date": "2022-03-11T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-11-18T05:00:00.000Z",
+            "Authorizing_Agency": "Federal Trade Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -9133,6 +9134,14 @@
             "Authorizing_Subagency": "Administration for Children & Families",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-05-20T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-08-27T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-05-21T04:00:00.000Z",
+            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -9741,7 +9750,7 @@
           "F1209051525"
         ],
         "CSP_Website": "https://www.docusign.com/products/clm",
-        "CSO_Description": "DocuSign CLM is a secure cloud platform that manages contracts and all types of documents across desktop, mobile, and partner applications like Salesforce. DocuSign CLM goes beyond standard contract and document management with advanced workflows that automate manual tasks and complex processes to speed time-to-revenue. Businesses use DocuSign CLM to optimize collaboration and processes across internal departments, as well as with prospects and customers.",
+        "CSO_Description": "DocuSign CLM is a secure contract lifecycle management product in DocuSign's Agreement Cloud. DocuSign CLM manages contracts in addition to all other types of documents across desktop, mobile, and partner applications like Salesforce. DocuSign CLM goes beyond standard document and contract management with advanced workflows that automate manual tasks and complex processes to speed time-to-revenue. Businesses use DocuSign CLM to optimize collaboration and processes across internal departments, as well as with prospects and customers.",
         "Announcement_Date": "2017-08-24T04:00:00.000Z",
         "CSP_POC_Name": "Nick Bennett",
         "CSP_POC_Email": "FedRAMP@DocuSign.com",
@@ -11710,7 +11719,6 @@
         "Sponsoring_Agency": "Department of Transportation",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
         "Authorizing_Agency": "Department of Transportation",
-        "Authorizing_Subagency": "Federal Aviation Administration",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Unison%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.unisonglobal.com",
@@ -14385,6 +14393,32 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Collab9",
+        "Cloud_Service_Provider_Package": "Cloud Unified Communications, Contact Center and Collaboration",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1404163859",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-06-07T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Homeland Security",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+        "Authorizing_Agency": "Department of Homeland Security",
+        "Authorizing_Subagency": "Customs and Border Protection",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Collab9%20Logo%202.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "www.collab9.com ",
+        "CSO_Description": "Collab9 is a cloud service provider offering Best-of-Breed Secure Unified Communications. Collab9 Secure UC delivers a comprehensive suite of unified communications and collaboration services, including:\n- Voice and Call Control including Avaya Aura Communication Manager and Cisco Unified Communications Manager\n- Voicemail and Unified Messaging (voicemail delivery to the user’s email), including integration with multiple legacy VoIP and UC solutions including Avaya ESNA and Cisco Unity Connection\n- Interactive Voice Response, Voicemail, Unified Messaging and simultaneous integration with multiple call control platforms including Microsoft Skype for Business, Microsoft Lync, as well as legacy Digital PBX, Centrex, VOIP and UC through Applied Voice and Speech Technologies (AVST)\n- Integration with Microsoft Exchange, Office 365, and Gmail (for the Unified Messaging) - Presence and Instant Messaging including Avaya Equinox and Cisco Jabber - Mobility Services, or the ability to use multiple types of devices to access phone services; includes laptop soft clients (Equinox and Jabber), Apple iOS and Android native dialers, all through Avaya Extension to Cellular (EC 500) and Cisco Single Number Reach - Meet-Me and Ad Hoc Voice and Video Conferencing including Avaya Equinox - Contact Center (call queuing and distribution for customer support services) including Avaya Contact Center Elite and Cisco Unified Contact Center Express\n- E911 call routing with device and phone tracking\nIn simple terms, Collab9 Secure UC replaces an organization's on-premises phone system (PBX) with a feature-rich collaboration system in the cloud, providing extended features and capabilities.\nCollab9 Best-of-Breed Secure UC is a turnkey cloud solution delivering:\n- A dedicated environment for each agency, built in the cloud using voice collaboration appliances and voice applications as required - Voice applications designed, deployed and fully managed by Collab9, including all adds/moves/changes - Service customizations based on agency requirements and implemented by Collab9 - Agency administration functionality for managing user adds/moves/changes (if desired) or 24x7 Collab9 Network Operations Center (NOC) support\n- Fully Integrated Multi-Vendor deployments\nCollab9 Best-of-Breed Secure UC addresses these key business needs: - Substantial cost savings over traditional build and operate solutions - Rapid deployment with continual upgrading of the solution and infrastructure - Reduced capital expenditures for critical phone infrastructure and its maintenance/upgrades - Migration away from obsolete or aging communications systems\n- Delivery of feature-rich, cloud-based voice services managed outside the organization - Reduced staffing costs for specialized administrators to run on-premises systems - Reduced cost of compliance through FedRAMP mandated continuous monitoring\n- Leverage investments in existing handsets (phones) gateways, video end points and software licensing\n- Accelerates Migration to the cloud through the availability of Call Control Independent Unified Messaging and Conferencing\nThe Collab9 Best-of-Breed Secure UC service is offered by more than forty federal contractors, Value Added Resellers (VARs), and telecommunications service providers. The service is available through multiple local and national federal contract vehicles.\nPlease visit [https://www.collab9.com/partners/channel-partners](https://www.collab9.com/partners/channel-partners) for an up-to-date list of these partners.",
+        "Announcement_Date": "2021-06-14T04:00:00.000Z",
+        "CSP_POC_Name": "Mustafa Baig",
+        "CSP_POC_Email": "sales@collab9.com",
+        "FedRAMP_In-Process_Date": "2021-03-01T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "AchieveIt Online, LLC",
         "Cloud_Service_Provider_Package": "AchieveIt",
         "Path": "Agency",
@@ -14720,30 +14754,6 @@
         "CSP_POC_Name": "Mike Schaub",
         "CSP_POC_Email": "fedramp@cloudcheckr.com",
         "Fedramp_Ready_Date": "2021-05-14T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Collab9",
-        "Cloud_Service_Provider_Package": "Cloud Unified Communications, Contact Center and Collaboration",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "F1404163859",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Homeland Security",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-        "Authorizing_Agency": "Department of Homeland Security",
-        "Authorizing_Subagency": "Customs and Border Protection",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Collab9%20Logo%202.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "CSP_Website": "www.collab9.com ",
-        "CSO_Description": "Collab9 is a cloud service provider offering Best-of-Breed Secure Unified Communications. Collab9 Secure UC delivers a comprehensive suite of unified communications and collaboration services, including:\n- Voice and Call Control including Avaya Aura Communication Manager and Cisco Unified Communications Manager\n- Voicemail and Unified Messaging (voicemail delivery to the user’s email), including integration with multiple legacy VoIP and UC solutions including Avaya ESNA and Cisco Unity Connection\n- Interactive Voice Response, Voicemail, Unified Messaging and simultaneous integration with multiple call control platforms including Microsoft Skype for Business, Microsoft Lync, as well as legacy Digital PBX, Centrex, VOIP and UC through Applied Voice and Speech Technologies (AVST)\n- Integration with Microsoft Exchange, Office 365, and Gmail (for the Unified Messaging) - Presence and Instant Messaging including Avaya Equinox and Cisco Jabber - Mobility Services, or the ability to use multiple types of devices to access phone services; includes laptop soft clients (Equinox and Jabber), Apple iOS and Android native dialers, all through Avaya Extension to Cellular (EC 500) and Cisco Single Number Reach - Meet-Me and Ad Hoc Voice and Video Conferencing including Avaya Equinox - Contact Center (call queuing and distribution for customer support services) including Avaya Contact Center Elite and Cisco Unified Contact Center Express\n- E911 call routing with device and phone tracking\nIn simple terms, Collab9 Secure UC replaces an organization's on-premises phone system (PBX) with a feature-rich collaboration system in the cloud, providing extended features and capabilities.\nCollab9 Best-of-Breed Secure UC is a turnkey cloud solution delivering:\n- A dedicated environment for each agency, built in the cloud using voice collaboration appliances and voice applications as required - Voice applications designed, deployed and fully managed by Collab9, including all adds/moves/changes - Service customizations based on agency requirements and implemented by Collab9 - Agency administration functionality for managing user adds/moves/changes (if desired) or 24x7 Collab9 Network Operations Center (NOC) support\n- Fully Integrated Multi-Vendor deployments\nCollab9 Best-of-Breed Secure UC addresses these key business needs: - Substantial cost savings over traditional build and operate solutions - Rapid deployment with continual upgrading of the solution and infrastructure - Reduced capital expenditures for critical phone infrastructure and its maintenance/upgrades - Migration away from obsolete or aging communications systems\n- Delivery of feature-rich, cloud-based voice services managed outside the organization - Reduced staffing costs for specialized administrators to run on-premises systems - Reduced cost of compliance through FedRAMP mandated continuous monitoring\n- Leverage investments in existing handsets (phones) gateways, video end points and software licensing\n- Accelerates Migration to the cloud through the availability of Call Control Independent Unified Messaging and Conferencing\nThe Collab9 Best-of-Breed Secure UC service is offered by more than forty federal contractors, Value Added Resellers (VARs), and telecommunications service providers. The service is available through multiple local and national federal contract vehicles.\nPlease visit [https://www.collab9.com/partners/channel-partners](https://www.collab9.com/partners/channel-partners) for an up-to-date list of these partners.",
-        "CSP_POC_Name": "Mustafa Baig",
-        "CSP_POC_Email": "sales@collab9.com",
-        "FedRAMP_In-Process_Date": "2021-03-01T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
