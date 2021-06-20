@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-06-19T04:40:50.450Z",
+    "Created_At": "2021-06-20T04:40:50.483Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -15441,6 +15441,25 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "M.C. Dean, Inc.",
+        "Cloud_Service_Provider_Package": "InfraLink",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR1927682057",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Infralink%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "CSP_Website": "www.infralink.com",
+        "CSO_Description": "InfraLink, formerly known as Infrastructure Maintenance Management System (IMMS), integrates the cyber-physical systems lifecycle from design through implementation and sustainment, enabling configuration management and providing a systematic approach to planning and continuous improvement across project activities. Rely on InfraLink to support all aspects of critical infrastructure management.\n  \n* **Configuration Baselines** - Effectively manage system security, planned maintenance, issue management, and systems availability/performance reporting by ensuring the integrity of your system baseline configurations. InfraLink supports customization to each system element.\n* **Preventive Maintenance** - Ensure critical systems and equipment availability and avoid unplanned outages. Based on the concepts of reliability-centered maintenance, InfraLink provides a foundation for effective scheduling, tracking, and performance management activities. Model data, capture tools, and electronic forms document and validate information in near-real time. \n* **Issues Management & Analysis** - InfraLink’s flexible and customizable ticketing system allows you to define work categories and workflows that align with program scope and priorities, set service level agreement (SLA) milestones, and capture customized status-specific issue attributes. Comprehensive case details help you better assess system and process performance, conduct effective root cause analysis and ensure individual accountability.\n* **Installation Management** - InfraLink allows project teams to effectively track complex system implementation workflows, from simple component testing and installation to the integration of complex subsystems and hundreds of components. InfraLink enables effective planning and data integrity, which promote worker safety, accountability, and coordination across job functions.\n* **Materials Inventory** - Avoid work delays caused by stock shortages and extensive inventory carrying costs through effective inventory management. InfraLink helps you plan replacements based on a reliable configuration baseline, performance history and operational priorities, while streamlining stringent Government and enterprise property reporting requirements.\n* **Reporting** - Maintain a comprehensive assessment of your systems and team performance. InfraLink provides a range of standard and customizable reports and dashboards that offer critical insights to support ongoing improvements in systems performance and management.",
+        "CSP_POC_Name": "Evgeny Kaplun",
+        "CSP_POC_Email": "info@infralink.com",
+        "Fedramp_Ready_Date": "2021-06-09T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Mimecast",
         "Cloud_Service_Provider_Package": "Mimecast Federal Grid",
         "Designation": "FedRAMP Ready",
@@ -15778,6 +15797,8 @@
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-06-14T04:00:00.000Z",
+        "Original_Expiration_Date": "2021-12-31T05:00:00.000Z",
         "Sponsoring_Agency": "Department of Energy",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
         "Authorizing_Agency": "Department of Energy",
@@ -16398,7 +16419,7 @@
         "Name": "Deloitte & Touche LLP",
         "Accreditation_Date": "2017-03-21T04:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Deloitte%20Logo.png",
-        "Description": "Leveraging cloud services to support core functions of a Federal agency’s extended enterprise plays a vital role in helping increase efficiency and drive performance. While the Cloud First Policy has evolved into a strategic initiative for Federal agencies, leveraging cloud service providers (CSPs) introduces new security risks and new challenges in maintaining compliance with FISMA requirements. Deloitte employs a risk-focused approach to support CSPs and Federal agencies in furthering the adoption of cloud services by:\n* Determining FedRAMP readiness\n* Helping to address FedRAMP compliance gaps\n* Preparing FedRAMP artifacts\n* Independently validating compliance with FedRAMP requirements",
+        "Description": "Leveraging cloud services to support core functions of a Federal agency’s extended enterprise plays a vital role in helping increase efficiency and drive performance. While the Cloud First Policy has evolved into a strategic initiative for Federal agencies, leveraging cloud service providers (CSPs) introduces new security risks and new challenges in maintaining compliance with FISMA requirements. Deloitte employs a risk-focused approach to support CSPs and Federal agencies in furthering the adoption of cloud services by:\n\n* Determining FedRAMP readiness\n* Helping to address FedRAMP compliance gaps\n* Preparing FedRAMP artifacts\n* Independently validating compliance with FedRAMP requirements",
         "POC_Name": "Mark Masone",
         "POC_Email": "fedramp@deloitte.com",
         "website": "www.deloitte.com",
