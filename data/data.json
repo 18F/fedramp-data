@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-06-23T04:40:50.725Z",
+    "Created_At": "2021-06-24T04:40:50.613Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -13140,13 +13140,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Authorizing_Letter_Last_Sign_Date": "2019-04-12T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Transportation",
-            "Authorizing_Subagency": "Federal Aviation Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-07-17T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-07-17T04:00:00.000Z",
             "Authorizing_Agency": "Department of Energy",
@@ -13254,6 +13247,14 @@
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Washington Headquarters Services",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-06-17T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-06-21T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Transportation",
+            "Authorizing_Subagency": "Federal Aviation Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -14930,31 +14931,6 @@
         "CSP_POC_Name": "Ritika Bhasker",
         "CSP_POC_Email": "info@devresults.com",
         "FedRAMP_In-Process_Date": "2021-01-07T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "DLH Corporation",
-        "Cloud_Service_Provider_Package": "DLH Infinibyte Cloud",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2000951694",
-        "Service_Model": [
-          "PaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "Authorizing_Subagency": "National Institutes of Health",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/DLH%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.dlhcorp.com",
-        "CSO_Description": "The Infinibyte Cloud is a secure, flexible, and highly available cloud platform-as-a-service (PaaS) offering that allows its customers to focus on its business strategies, while allowing infrastructure management to be handled by the system. Infinibyte Cloud provides on-demand access to system shared computing resources, which are made highly available to customers through virtualization and elasticity to meet the NIST 800-145 definition of cloud computing. The Infinibyte Cloud security architecture has been developed to provide a high level of data segmentation for increased data control within the environment and meet FedRAMP requirements.",
-        "CSP_POC_Name": "Jeffrey Hsii",
-        "CSP_POC_Email": "fedramp@infinibytecloud.com",
-        "Fedramp_Ready_Date": "2020-02-19T05:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2020-06-19T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
