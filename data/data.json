@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-06-29T04:40:51.330Z",
+    "Created_At": "2021-06-30T04:40:50.502Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -11101,7 +11101,7 @@
         "Leveraged_ATO_Letters": [
           {
             "Letter_Date": "2021-03-27T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-03-07T05:00:00.000Z",
+            "Letter_Expiration_Date": "2021-10-01T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-03-27T04:00:00.000Z",
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Defense Information Systems Agency",
@@ -14468,6 +14468,64 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Palo Alto Networks, Inc.",
+        "Cloud_Service_Provider_Package": "Palo Alto Networks Government Cloud Services - Prisma Access",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2015148466",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-03-16T04:00:00.000Z",
+        "Sponsoring_Agency": "U.S. International Development Finance Corporation",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DFC%20Logo.jpg",
+        "Authorizing_Agency": "U.S. International Development Finance Corporation",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Palo%20Alto%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "FR1805751477",
+          "F1512167750",
+          "FR1913470600",
+          "FR1812446342"
+        ],
+        "CSP_Website": "www.paloaltonetworks.com",
+        "CSO_Description": "Prisma Access is a Secure Access Service Edge (SASE) that provides scalable, cloud-delivered networking and security to branch offices and remote users. With Prisma Access, agencies are able to rapidly enable consistent, secure connectivity for remote locations and employees.",
+        "Announcement_Date": "2021-06-29T04:00:00.000Z",
+        "CSP_POC_Name": "Brad Bartholomew",
+        "CSP_POC_Email": "fedramp@paloaltonetworks.com",
+        "FedRAMP_In-Process_Date": "2021-03-16T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Recovery Point Systems, Inc.",
+        "Cloud_Service_Provider_Package": "INCloud Gov",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1806354023",
+        "Service_Model": [
+          "IaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-06-14T04:00:00.000Z",
+        "Original_Expiration_Date": "2021-12-31T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Energy",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+        "Authorizing_Agency": "Department of Energy",
+        "Authorizing_Subagency": "Federal Energy Regulatory Commission",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Recovery%20Point%20Logo.png",
+        "Independent_Assessor": "SecureIT",
+        "CSP_Website": "www.recoverypoint.com",
+        "CSO_Description": "The RPS INcloudGov system provides IaaS / DRaaS services deployed as a federal government-only cloud. INcloudGov provides the necessary compute, storage, and networking capabilities to host our government customers’ disaster recovery environments. RPS provides Disaster Recovery as a Service (DRaaS) by providing government customers a solution for full and partial site failover to a virtual DR site, and failback to restore normal operations.",
+        "CSP_POC_Name": "Nancy Pettit",
+        "CSP_POC_Email": "incloudgov@recoverypoint.com",
+        "FedRAMP_In-Process_Date": "2020-09-24T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "AchieveIt Online, LLC",
         "Cloud_Service_Provider_Package": "AchieveIt",
         "Path": "Agency",
@@ -15786,29 +15844,6 @@
       },
       {
         "Cloud_Service_Provider_Name": "Palo Alto Networks, Inc.",
-        "Cloud_Service_Provider_Package": "Palo Alto Networks Government Cloud Services - Prisma Access",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2015148466",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "U.S. International Development Finance Corporation",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DFC%20Logo.jpg",
-        "Authorizing_Agency": "U.S. International Development Finance Corporation",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Palo%20Alto%20Logo.png",
-        "Independent_Assessor": "Kratos",
-        "CSP_Website": "www.paloaltonetworks.com",
-        "CSO_Description": "Prisma Access is a Secure Access Service Edge (SASE) that provides scalable, cloud-delivered networking and security to branch offices and remote users. With Prisma Access, agencies are able to rapidly enable consistent, secure connectivity for remote locations and employees.",
-        "CSP_POC_Name": "Brad Bartholomew",
-        "CSP_POC_Email": "fedramp@paloaltonetworks.com",
-        "FedRAMP_In-Process_Date": "2021-03-16T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Palo Alto Networks, Inc.",
         "Cloud_Service_Provider_Package": "ZingBox IoT Guardian",
         "Path": "Agency",
         "Designation": "In Process",
@@ -15874,32 +15909,6 @@
         "CSP_POC_Name": "Ilya Plotkin",
         "CSP_POC_Email": "training@phf.org ",
         "FedRAMP_In-Process_Date": "2021-03-22T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Recovery Point Systems, Inc.",
-        "Cloud_Service_Provider_Package": "INCloud Gov",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1806354023",
-        "Service_Model": [
-          "IaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2021-06-14T04:00:00.000Z",
-        "Original_Expiration_Date": "2021-12-31T05:00:00.000Z",
-        "Sponsoring_Agency": "Department of Energy",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-        "Authorizing_Agency": "Department of Energy",
-        "Authorizing_Subagency": "Federal Energy Regulatory Commission",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Recovery%20Point%20Logo.png",
-        "Independent_Assessor": "SecureIT",
-        "CSP_Website": "www.recoverypoint.com",
-        "CSO_Description": "The RPS INcloudGov system provides IaaS / DRaaS services deployed as a federal government-only cloud. INcloudGov provides the necessary compute, storage, and networking capabilities to host our government customers’ disaster recovery environments. RPS provides Disaster Recovery as a Service (DRaaS) by providing government customers a solution for full and partial site failover to a virtual DR site, and failback to restore normal operations.",
-        "CSP_POC_Name": "Nancy Pettit",
-        "CSP_POC_Email": "incloudgov@recoverypoint.com",
-        "FedRAMP_In-Process_Date": "2020-09-24T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
