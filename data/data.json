@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-07-06T04:40:50.559Z",
+    "Created_At": "2021-07-07T04:40:50.743Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -903,14 +903,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2018-06-29T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-06-29T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-06-29T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2021-11-15T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-11-15T05:00:00.000Z",
             "Authorizing_Agency": "Department of Labor",
@@ -996,6 +988,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-05-27T04:00:00.000Z",
             "Authorizing_Agency": "Department of Transportation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-07-06T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-07-06T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -2490,7 +2489,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Amazon%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.aws.amazon.com",
-        "CSO_Description": "Amazon US East/West is a multi-tenant public cloud for Federal, State and Local Government customers, as well as commercial customers, designed to meet a wide range of regulatory requirements, to include government compliance and security requirements. AWS leverages the Infrastructure-as-a-Service (IaaS) cloud computing model, which enables convenient, on-demand Internet access to a shared pool of configurable computing resources such as servers, storage, network infrastructure, and various other web services. Customers can rapidly provision or release computing resources on demand.\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: Amazon API Gateway, Amazon AppStream 2.0, Amazon Athena, Amazon Aurora (MySQL), Amazon Chime, Amazon Cloud Directory, Amazon CloudFront, Amazon CloudWatch, Amazon CloudWatch Logs, Amazon Cognito, Amazon Comprehend, Amazon Comprehend Medical, Amazon Connect, Amazon DynamoDB, Amazon ElastiCache for Redis, Amazon Elastic Block Store (EBS), Amazon Elastic Container Registry (ECR), Amazon Elastic Container Service (ECS), Amazon Elastic File System (EFS), Amazon Elastic Compute Cloud (EC2), Amazon Elastic Kubernetes Service (EKS), Amazon Elastic MapReduce, Amazon Elasticsearch, Amazon EventBridge, Amazon Glacier, Amazon Inspector, Amazon Guard Duty, Amazon Kinesis Data Firehose, Amazon Kinesis Data Streams, Amazon Macie, Amazon PinPoint, Amazon Polly, Amazon QuickSight, Amazon Redshift, Amazon RDS (MariaDB, MySQL, Oracle, Postgres, SQL Server), Amazon Rekognition, Amazon Route 53, Amazon SageMaker, Amazon Simple Email Service (SES), Amazon Simple Notification Service (SNS), Amazon Simple Queue Service (SQS), Amazon Simple Storage Service (S3), Amazon Simple Workflow Service (SWF), Amazon Textract, Amazon Transcribe, Amazon Translate, Amazon Virtual Private Cloud (VPC), AWS Backup, AWS Batch, AWS Certificate Manager, AWS CloudFormation, AWS CloudTrail, AWS CodeBuild, AWS CodeCommit, AWS CodeDeploy, AWS CodePipeline, AWS Config, AWS Control Tower, AWS Database Migration Service, AWS Data Sync, AWS Direct Connect, AWS Directory Service, AWS Elastic Beanstalk, AWS Glue, AWS Identity & Access Management (IAM), AWS IoT Core, AWS IoT Device Manager, AWS IoT Greengrass, AWS Key Management Service (KMS), AWS Lambda, AWS License Manager, AWS Managed Service, AWS Opsworks for Chef Automate and Puppet Enterprise, AWS Organizations, AWS Personal Health Dashboard, AWS Resource Group, AWS Secrets Manager, AWS Security Hub, AWS Serverless Application Repository, AWS Service Catalog, AWS Server Migration Service (SMS), AWS Shield (Standard and Advanced), AWS Snowball, AWS Snowball Edge, AWS Step Functions, AWS Storage Gateway, AWS Systems Manager, AWS Trusted Advisor, AWS WAF, AWS WorkDocs, AWS WorkSpaces, AWS X-Ray, CloudWatch Events",
+        "CSO_Description": "Amazon US East/West is a multi-tenant public cloud for Federal, State and Local Government customers, as well as commercial customers, designed to meet a wide range of regulatory requirements, to include government compliance and security requirements. AWS leverages the Infrastructure-as-a-Service (IaaS) cloud computing model, which enables convenient, on-demand Internet access to a shared pool of configurable computing resources such as servers, storage, network infrastructure, and various other web services. Customers can rapidly provision or release computing resources on demand.\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: Amazon API Gateway, Amazon AppStream 2.0, Amazon Athena, Amazon Aurora (MySQL), Amazon Chime, Amazon Cloud Directory, Amazon CloudFront, Amazon CloudWatch, Amazon CloudWatch Logs, Amazon Cognito, Amazon Comprehend, Amazon Comprehend Medical, Amazon Connect, Amazon DynamoDB, Amazon ElastiCache for Redis, Amazon Elastic Block Store (EBS), Amazon Elastic Container Registry (ECR), Amazon Elastic Container Service (ECS), Amazon Elastic File System (EFS), Amazon Elastic Compute Cloud (EC2), Amazon Elastic Kubernetes Service (EKS), Amazon Elastic MapReduce, Amazon Elasticsearch, Amazon EventBridge, Amazon Glacier, Amazon Inspector, Amazon Guard Duty, Amazon Kinesis Data Firehose, Amazon Kinesis Data Streams, Amazon Macie, Amazon PinPoint, Amazon Polly, Amazon QuickSight, Amazon Redshift, Amazon RDS (MariaDB, MySQL, Oracle, Postgres, SQL Server), Amazon Rekognition, Amazon Route 53, Amazon SageMaker, Amazon Simple Email Service (SES), Amazon Simple Notification Service (SNS), Amazon Simple Queue Service (SQS), Amazon Simple Storage Service (S3), Amazon Simple Workflow Service (SWF), Amazon Textract, Amazon Transcribe, Amazon Translate, Amazon Virtual Private Cloud (VPC), AWS Backup, AWS Batch, AWS Certificate Manager, AWS CloudFormation, AWS CloudTrail, AWS CodeBuild, AWS CodeCommit, AWS CodeDeploy, AWS CodePipeline, AWS Config, AWS Control Tower, AWS Database Migration Service, AWS Data Sync, AWS Direct Connect, AWS Directory Service, AWS Elastic Beanstalk, AWS Glue, AWS Ground Station, AWS Identity & Access Management (IAM), AWS IoT Core, AWS IoT Device Manager, AWS IoT Greengrass, AWS Key Management Service (KMS), AWS Lambda, AWS License Manager, AWS Managed Service, AWS Opsworks for Chef Automate and Puppet Enterprise, AWS Organizations, AWS Personal Health Dashboard, AWS Resource Group, AWS Secrets Manager, AWS Security Hub, AWS Serverless Application Repository, AWS Service Catalog, AWS Server Migration Service (SMS), AWS Shield (Standard and Advanced), AWS Snowball, AWS Snowball Edge, AWS Step Functions, AWS Storage Gateway, AWS Systems Manager, AWS Trusted Advisor, AWS WAF, AWS WorkDocs, AWS WorkSpaces, AWS X-Ray, CloudWatch Events",
         "Announcement_Date": "2013-05-01T04:00:00.000Z",
         "CSP_POC_Name": "AWS FedRAMP Compliance Team",
         "CSP_POC_Email": "aws-compliance-fedramp@amazon.com",
@@ -3570,47 +3569,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Innovative Discovery, LLC",
-        "Cloud_Service_Provider_Package": "Innovative Discovery Government Cloud (IDGC)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1800263217",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2018-06-01T04:00:00.000Z",
-        "Sponsoring_Agency": "Federal Trade Commission",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
-        "Authorizing_Agency": "Federal Trade Commission",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Innovative%20Logo.png",
-        "Independent_Assessor": "Lunarline, Inc.",
-        "CSP_Website": "www.id-edd.com",
-        "CSO_Description": "The Innovative Discovery Government Cloud (ID Gov-Cloud) is a Software as a Service (SaaS) offering that provides a secure and scalable environment for government legal document services. ID Gov-Cloud provides software services to agencies within a secure, scalable, and compliant cloud environment, offering Relativity Analytics, and iCONECT Analytics inhouse – as well as expert consulting and application to get the most from them. Agencies can leverage the full scope of eDiscovery services within one scalable platform, to include but not limited to: processing, document review, advanced analytics, assisted review, legal hold services, and production. All these service packages are provided within a secure and user-friendly customer interface. Government agencies also leverage the added capabilities of Innovative Discovery’s government project management teams and workflows, benefitting from years of experience supporting complex government electronic discovery requests.",
-        "Announcement_Date": "2018-07-25T04:00:00.000Z",
-        "CSP_POC_Name": "James H. Perkins Jr.",
-        "CSP_POC_Email": "fedramp@id-edd.com",
-        "FedRAMP_In-Process_Date": "2017-10-18T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2019-10-16T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-10-16T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Authorizing_Subagency": "Office of the Comptroller of the Currency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-11-17T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-11-17T05:00:00.000Z",
-            "Authorizing_Agency": "Federal Deposit Insurance Corporation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Everbridge",
         "Cloud_Service_Provider_Package": "Everbridge Suite",
         "Path": "Agency",
@@ -4269,129 +4227,6 @@
             "Authorizing_Letter_Last_Sign_Date": "2018-12-03T05:00:00.000Z",
             "Authorizing_Agency": "Corporation for National & Community Service (CNCS)",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/cncs_1.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Acquia Inc.",
-        "Cloud_Service_Provider_Package": "Acquia Cloud",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1302201919",
-        "Service_Model": [
-          "PaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2018-06-29T04:00:00.000Z",
-        "Original_Expiration_Date": "2021-06-29T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of the Treasury",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-        "Authorizing_Agency": "Department of the Treasury",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Acquia%20Logo.png",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW",
-          "F1206081364",
-          "F1607057910",
-          "F1508207205"
-        ],
-        "CSP_Website": "www.acquia.com",
-        "CSO_Description": "Acquia provides the leading cloud platform for building, delivering, and optimizing digital experiences.\nAcquia is the enterprise platform behind Drupal, the leading open-source content management system, recognized as a Magic Quadrant Leader by Gartner two years in a row. Our platform enables agencies to foster greater digital engagement with citizens and securely deliver mission essential information and services with greater speed, agility, and resiliency.\nThe City of LA, State of New York, FEMA, Department of Homeland Security and many other government agencies rely on the Acquia platform to build websites and digital experiences that meet the needs of their citizens, internal users and IT teams while moving their missions forward.\nThese agencies know that a citizen-centric government requires more than simply taking the existing physical structure and making it digital. Today the term “digital” has taken on a new meaning. In the private sector, consumers can shop, pay bills, and even conduct banking online, and now they’re expecting to conduct government business online in the same way. The most forward-thinking government IT managers are finding ways to meet expectations set by the private sector, and then going above and beyond to serve citizens.\nWith the Acquia Platform governments and agencies can use limited taxpayer dollars efficiently to build sites and experience that meet the needs of IT, deliver on the mission and give citizens crucial information they need.",
-        "Announcement_Date": "2016-04-13T04:00:00.000Z",
-        "CSP_POC_Name": "Joseph Janik",
-        "CSP_POC_Email": "fedramp@acquia.com",
-        "FedRAMP_In-Process_Date": "2014-05-11T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2016-08-11T04:00:00.000Z",
-            "Authorizing_Agency": "Social Security Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2017-02-22T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Institute of Standards and Technology",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2017-07-24T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Authorizing_Subagency": "Internal Revenue Service",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2017-01-08T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Justice",
-            "Authorizing_Subagency": "Justice Management Division",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2017-05-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-05-30T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-06-22T04:00:00.000Z",
-            "Authorizing_Agency": "Corporation for National & Community Service (CNCS)",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/cncs_1.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-03-06T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-03-08T05:00:00.000Z",
-            "Authorizing_Agency": "Commodity Futures Trading Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFTC%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-03-06T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-03-06T05:00:00.000Z",
-            "Authorizing_Agency": "United States Securities and Exchange Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/SEC%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-03-21T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Justice",
-            "Authorizing_Subagency": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2019-03-19T04:00:00.000Z",
-            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-07-09T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-07-09T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Justice",
-            "Authorizing_Subagency": "Office of Justice Programs",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2019-07-15T04:00:00.000Z",
-            "Authorizing_Agency": "Nuclear Regulatory Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-01-14T05:00:00.000Z",
-            "Letter_Expiration_Date": "2022-01-14T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-01-14T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -6485,6 +6320,14 @@
             "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-06-25T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-06-29T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Office of the Comptroller of the Currency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -7278,14 +7121,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2018-06-29T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-06-29T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-06-29T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2018-04-05T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-04-06T04:00:00.000Z",
             "Authorizing_Agency": "Department of Justice",
@@ -7389,6 +7224,14 @@
             "Authorizing_Agency": "Department of Education",
             "Authorizing_Subagency": "Federal Student Aid",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-06-29T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-06-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-06-30T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -8331,70 +8174,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "General Services Administration",
-        "Cloud_Service_Provider_Package": "Login.gov",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1829538820",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2019-11-20T05:00:00.000Z",
-        "Sponsoring_Agency": "General Services Administration",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-        "Authorizing_Agency": "General Services Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Login.gov%20Logo.png",
-        "Independent_Assessor": "SecureIT",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW"
-        ],
-        "CSP_Website": "https://www.login.gov",
-        "CSO_Description": "Login.gov offers the public secure and private online access to participating government programs. With one login.gov account, users can sign in to multiple government agencies. Our goal is to make managing federal benefits, services and applications easier and more secure.",
-        "Announcement_Date": "2019-07-15T04:00:00.000Z",
-        "CSP_POC_Name": "Login.gov partnerships team",
-        "CSP_POC_Email": "partners@login.gov",
-        "FedRAMP_In-Process_Date": "2018-07-27T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Expiration_Date": "2022-09-23T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-10-15T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Agriculture",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2023-04-16T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Labor",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-08-26T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-08-27T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-08-27T04:00:00.000Z",
-            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-04-23T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-04-23T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Deposit Insurance Corporation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2023-10-21T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-10-21T04:00:00.000Z",
-            "Authorizing_Agency": "Office of Personnel Management",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Google",
         "Cloud_Service_Provider_Package": "Google Services (Google Cloud Platform Products and underlying Infrastructure)",
         "Path": "JAB",
@@ -8903,7 +8682,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Microsoft%20Logo.png",
         "Independent_Assessor": "Kratos",
         "CSP_Website": "http://azure.microsoft.com/en-us/",
-        "CSO_Description": "Microsoft Azure Government is a government-community cloud that offers hyper-scale compute, storage, networking, and identity management services, with world-class security. A physically and network-isolated instance of Microsoft Azure, operated by screened U.S. citizens, Azure Government provides standards-compliant IaaS and PaaS that has now received a FedRAMP JAB P-ATO. All services are available immediately for supporting secure US government workloads, including CJIS, IRS 1075 FTI, HIPAA, DoD, and federal agency data.\n\nThe following Microsoft services are FedRAMP Authorized and approved by the JAB at the High Impact Level: API Management, Application Gateway, Automation, Azure Active Directory (AAD) Free, Azure Advanced Threat Protection, Azure Advisor, Azure Active Directory Domain Services, Azure Active Directory (AAD) Premium P1 + P2, Azure Analysis Services, Azure API for FHIR, Azure App Configuration, Azure Archive Storage, Azure Backup, Azure Bastion, Azure Blueprints, Azure Bot Service, Azure Container Instances, Azure Content Delivery Network, Azure Cosmos DB, Azure Database for MariaDB, Azure Database for MySQL, Azure Database for PostgreSQL, Azure Data Box Edge, Azure Data Explorer, Azure Database Migration Service, Azure Data Share, Azure DDOS Protection, Azure Dedicated HSM, Azure DevTest Labs, Azure DNS, Azure File Sync, Azure Firewall, Azure Front Door, Azure HPC Cache, Azure Information Protection, Azure Import/Export , Azure IoT Hub, Azure Key Vault, Azure Kubernetes Service, Azure Lab Services, Azure LockBox, Azure Machine Learning, Azure Managed Applications, Azure Managed Services – Azure Light House, Azure Maps, Azure Migrate, Azure Monitor, Azure NetApp Files, Azure Policy, Azure Portal, Azure Private Link, Azure Public IP, Azure Resource Graph, Azure Resource Manager (ARM), Azure Search, Azure Security Center, Azure Security for IoT, Azure Sentinel, Azure Service Health, Azure Service Manager (RDFE), Azure SignalR Service, Azure Site Recovery, Azure Stack Bridge, Azure Virtual WAN, Batch, Cloud Shell, Cognitive Services - Computer Vision, Cognitive Services - Content Moderator, Cognitive Services – Custom Vision, Cognitive Services - Face, Cognitive Services Form Recognizer, Cognitive Services - Language Understanding, Cognitive Services – Personalizer, Cognitive Services – QnA Maker, Cognitive Services - Text Analytics, Cognitive Services - Translator Text, Cloud Services, Container Registry, Cost Management, D365 Integrator APP, Databox Datacenter Infra Service, Databox Disk and Pod Service, Databricks, Data Factory, Dynamics 365, Dynamics 365 Athena – CDS to Azure Data Lake, Dynamics 365 Customer Engagement, Dynamics 365 Customer Insights, Dynamics 365 Customer Service, Dynamics 365 Field Service, Dynamics 365 Forms Pro, Dynamics 365 Project Service Automation, Dynamics 365 Sales, Dynamics 365 Service Omni-Channel Engagement Hub, Event Grid, Event Hubs, ExpressRoute, Functions, GitHub AE, Guest Configuration, HDInsight, Intune, Load Balancer, Log Analytics, Logic Apps, Media Services, Microsoft 365 Defender, Microsoft Azure Government Management Portal, Microsoft Cloud App Security, Microsoft Defender Advanced Threat Protection (MDATP), Microsoft Flow, Microsoft Graph, Microsoft Peering Service, Microsoft PowerApps, Microsoft Stream, Multi-factor Authentication (MFA), Network Datapath, Network Watcher, Network Watcher-Traffic Analytics, NM Agent, Notification Hubs, Power BI Embedded, Power BI, Power Query Online, Power Virtual Agents, Push Agent V2, Redis Cache, Regional Network Manager, Scheduler, SDN PubSub Service, Service Fabric, Services Bus, SQL Data Warehouse, SQL Database, SQL Server Stretch Database, Speech Services, StorSimple, Storage (Blobs, Disks, Files, Queues, Tables), Stream Analytics, Traffic Manager, Virtual Machines Scale Sets (VMSS), Virtual Machines, Virtual NAT, Virtual Network, Virtual Network Directory Service, VPN Gateway, Web Application Firewall, Web Apps (App Service) Windows Virtual Desktop, and supporting infrastructure and platform services.",
+        "CSO_Description": "Microsoft Azure Government is a government-community cloud that offers hyper-scale compute, storage, networking, and identity management services, with world-class security. A physically and network-isolated instance of Microsoft Azure, operated by screened U.S. citizens, Azure Government provides standards-compliant IaaS and PaaS that has now received a FedRAMP JAB P-ATO. All services are available immediately for supporting secure US government workloads, including CJIS, IRS 1075 FTI, HIPAA, DoD, and federal agency data.\n\nThe following Microsoft services are FedRAMP Authorized and approved by the JAB at the High Impact Level: API Management, Application Gateway, Automation, Azure Active Directory (AAD) Free, Azure Advanced Threat Protection, Azure Advisor, Azure Active Directory Domain Services, Azure Active Directory (AAD) Premium P1 + P2, Azure Analysis Services, Azure API for FHIR, Azure App Configuration, Azure Archive Storage, Azure Backup, Azure Bastion, Azure Blueprints, Azure Bot Service, Azure Container Instances, Azure Content Delivery Network, Azure Cosmos DB, Azure Database for MariaDB, Azure Database for MySQL, Azure Database for PostgreSQL, Azure Data Box Edge, Azure Data Explorer, Azure Database Migration Service, Azure Data Share, Azure DDOS Protection, Azure Dedicated HSM, Azure DevTest Labs, Azure DNS, Azure File Sync, Azure Firewall, Azure Front Door, Azure HPC Cache, Azure Information Protection, Azure Import/Export , Azure IoT Hub, Azure Key Vault, Azure Kubernetes Service, Azure Lab Services, Azure LockBox, Azure Machine Learning, Azure Managed Applications, Azure Managed Services – Azure Light House, Azure Maps, Azure Migrate, Azure Monitor, Azure NetApp Files, Azure Policy, Azure Portal, Azure Private Link, Azure Public IP, Azure Resource Graph, Azure Resource Manager (ARM), Azure Search, Azure Security Center, Azure Security for IoT, Azure Sentinel, Azure Service Health, Azure Service Manager (RDFE), Azure SignalR Service, Azure Site Recovery, Azure Stack Bridge, Azure Virtual WAN, Batch, Cloud Shell, Cognitive Services - Computer Vision, Cognitive Services - Content Moderator, Cognitive Services – Custom Vision, Cognitive Services - Face, Cognitive Services Form Recognizer, Cognitive Services - Language Understanding, Cognitive Services – Personalizer, Cognitive Services – QnA Maker, Cognitive Services - Text Analytics, Cognitive Services - Translator Text, Cloud Services, Container Registry, Cost Management, D365 Integrator APP, Databox Datacenter Infra Service, Databox Disk and Pod Service, Databricks, Data Factory, Dynamics 365, Dynamics 365 Athena – CDS to Azure Data Lake, Dynamics 365 Customer Engagement, Dynamics 365 Customer Insights, Dynamics 365 Customer Service, Dynamics 365 Field Service, Dynamics 365 Forms Pro, Dynamics 365 Project Service Automation, Dynamics 365 Sales, Dynamics 365 Service Omni-Channel Engagement Hub, Event Grid, Event Hubs, ExpressRoute, Functions, GitHub AE, Guest Configuration, HDInsight, Intune, Load Balancer, Log Analytics, Logic Apps, Media Services, Microsoft 365 Defender, Microsoft Azure Government Management Portal, Microsoft Cloud App Security, Microsoft Defender Advanced Threat Protection (MDATP), Microsoft Flow, Microsoft Graph, Microsoft Peering Service, Microsoft PowerApps, Microsoft Stream, Multi-factor Authentication (MFA), Network Datapath, Network Watcher, Network Watcher-Traffic Analytics, NM Agent, Notification Hubs, Planned Maintenance, Power BI Embedded, Power BI, Power Query Online, Power Virtual Agents, Push Agent V2, Redis Cache, Regional Network Manager, Scheduler, SDN PubSub Service, Service Fabric, Services Bus, SQL Data Warehouse, SQL Database, SQL Server Stretch Database, Speech Services, StorSimple, Storage (Blobs, Disks, Files, Queues, Tables), Stream Analytics, Traffic Manager, Virtual Machines Scale Sets (VMSS), Virtual Machines, Virtual NAT, Virtual Network, Virtual Network Directory Service, VPN Gateway, Web Application Firewall, Web Apps (App Service) Windows Virtual Desktop, and supporting infrastructure and platform services.",
         "Announcement_Date": "2020-04-29T04:00:00.000Z",
         "CSP_POC_Name": "Microsoft Azure FedRAMP Requests",
         "CSP_POC_Email": "AzureFedRAMP@microsoft.com",
@@ -11277,6 +11056,13 @@
             "Authorizing_Agency": "Federal Reserve System",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRS%20Logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2021-03-18T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "National Nuclear Security Administration / Nevada Field Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -13313,7 +13099,7 @@
           "F1206061353"
         ],
         "CSP_Website": "www.medallia.com",
-        "CSO_Description": "Medallia makes software that improves the customer experience. This is done by soliciting and capturing feedback from multiple channels, including social, digital and mobile touchpoints. The customer feedback is then combined with other relevant business data and analyzed with data science to uncover insights and drive actions. Finally, Medallia creates dashboards and workflows for every employee, specific to their role and responsibilities, so all customer feedback is acted upon to correct individual issues and drive process changes that ultimately improve the overall customer experience.",
+        "CSO_Description": "The **Medallia Experience Cloud (MEC)™**, leads the market in the understanding and management of experience for agencies, public sector employees, and citizens. \n\nMedallia® captures experience signals created on daily journeys in-person, traditional surveys, on calls, digital channels, over video and social media, and IoT interactions. \nOnce net new data is captured or by leveraging legacy data previously collected by customers, Medallia applies proprietary AI technology on data that is structured and unstructured (text and comments) to reveal personalized and predictive insights that can drive action towards positive business / organizational results and outcomes. \nUsing the Medallia Experience Cloud, government agencies can reduce employee churn, increase citizen and employee Trust and Equity, achieve in-the-moment service recovery, and drive data-driven business decisions while providing clear and potent returns on investment.\n\nThe Medallia Experience Cloud can support agency mission, focus, and objectives by:\n1. **Engaging Citizens and Employees Intuitively** in a secure, meaningful, continuous way to increase feedback response rate and help the agency better understand their sentiment, value, and behavior.\n2. **Empowering the Agency and Activating every Employee** by driving feedback and actionable insights to every agency employee.\n3. **Taking Action in Real-Time** with analysis and alerts that identify focus areas and help resolve issues quickly.\n4. **Optimizing Government Experience** by empowering agencies to align with mandates related to A-11, Trust, and Equity\n5. **Removing Silos** by tracking customer journeys that span across engagement channels including email, mobile, websites, chat, phone, video, and contact centers\n6. **Maintaining Trust and Security** with a platform that is FEDRAMP High certified with the JAB as well as HIPAA compliant allowing us to engage with sensitive PII.\n7. **Integrating at scale** by leveraging connectors for platforms such as Salesforce and ServiceNow and supported by a robust suite of Restful API\n\nThe following Medallia capabilities are currently Fedramp authorized and approved by the JAB at a High level:\nMedallia Experience Cloud, Crowdicity, Conversations, Medallia Speech, Medallia Digital Web, Medallia Digital Mobile SDK, Ask Now, Sampling Rules, LookupTables, Weighting, Goals, Alerts, Rapid Response, Case management, Medallia Alchemy Reporting, AdminSuite, Programs, Notification Center, Athena Text Analytics, Athena Action Intelligence, Multiple Translations, Sandboxes, Changesets, Packages, RESTful inbound and outbound API, bi-directional file transfer, Customer Owned SFTP and S3 connections, Social media Collection, Masking, Encryption, SSO, Mobile API\n",
         "Announcement_Date": "2021-04-09T04:00:00.000Z",
         "CSP_POC_Name": "Ruchi Gupta",
         "CSP_POC_Email": "rgupta@medallia.com",
@@ -14503,7 +14289,7 @@
         "Cloud_Service_Provider_Name": "Recovery Point Systems, Inc.",
         "Cloud_Service_Provider_Package": "INCloud Gov",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "FR1806354023",
         "Service_Model": [
           "IaaS"
@@ -14520,9 +14306,265 @@
         "Independent_Assessor": "SecureIT",
         "CSP_Website": "www.recoverypoint.com",
         "CSO_Description": "The RPS INcloudGov system provides IaaS / DRaaS services deployed as a federal government-only cloud. INcloudGov provides the necessary compute, storage, and networking capabilities to host our government customers’ disaster recovery environments. RPS provides Disaster Recovery as a Service (DRaaS) by providing government customers a solution for full and partial site failover to a virtual DR site, and failback to restore normal operations.",
+        "Announcement_Date": "2021-06-17T04:00:00.000Z",
         "CSP_POC_Name": "Nancy Pettit",
         "CSP_POC_Email": "incloudgov@recoverypoint.com",
         "FedRAMP_In-Process_Date": "2020-09-24T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "General Services Administration",
+        "Cloud_Service_Provider_Package": "Login.gov",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1829538820",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-06-24T04:00:00.000Z",
+        "Sponsoring_Agency": "General Services Administration",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+        "Authorizing_Agency": "General Services Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Login.gov%20Logo.png",
+        "Independent_Assessor": "SecureIT",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
+        "CSP_Website": "https://www.login.gov",
+        "CSO_Description": "Login.gov offers the public secure and private online access to participating government programs. With one login.gov account, users can sign in to multiple government agencies. Our goal is to make managing federal benefits, services and applications easier and more secure.",
+        "Announcement_Date": "2019-07-15T04:00:00.000Z",
+        "CSP_POC_Name": "Login.gov partnerships team",
+        "CSP_POC_Email": "partners@login.gov",
+        "FedRAMP_In-Process_Date": "2018-07-27T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Expiration_Date": "2022-09-23T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-10-15T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-04-16T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Labor",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-08-26T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-08-27T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-08-27T04:00:00.000Z",
+            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-04-23T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-04-23T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Deposit Insurance Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-10-21T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-10-21T04:00:00.000Z",
+            "Authorizing_Agency": "Office of Personnel Management",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Acquia Inc.",
+        "Cloud_Service_Provider_Package": "Acquia Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1302201919",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-05-21T04:00:00.000Z",
+        "Original_Expiration_Date": "2024-05-21T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of the Treasury",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+        "Authorizing_Agency": "Department of the Treasury",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Acquia%20Logo.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1206081364",
+          "F1607057910",
+          "F1508207205"
+        ],
+        "CSP_Website": "www.acquia.com",
+        "CSO_Description": "Acquia provides the leading cloud platform for building, delivering, and optimizing digital experiences.\nAcquia is the enterprise platform behind Drupal, the leading open-source content management system, recognized as a Magic Quadrant Leader by Gartner two years in a row. Our platform enables agencies to foster greater digital engagement with citizens and securely deliver mission essential information and services with greater speed, agility, and resiliency.\nThe City of LA, State of New York, FEMA, Department of Homeland Security and many other government agencies rely on the Acquia platform to build websites and digital experiences that meet the needs of their citizens, internal users and IT teams while moving their missions forward.\nThese agencies know that a citizen-centric government requires more than simply taking the existing physical structure and making it digital. Today the term “digital” has taken on a new meaning. In the private sector, consumers can shop, pay bills, and even conduct banking online, and now they’re expecting to conduct government business online in the same way. The most forward-thinking government IT managers are finding ways to meet expectations set by the private sector, and then going above and beyond to serve citizens.\nWith the Acquia Platform governments and agencies can use limited taxpayer dollars efficiently to build sites and experience that meet the needs of IT, deliver on the mission and give citizens crucial information they need.",
+        "Announcement_Date": "2016-04-13T04:00:00.000Z",
+        "CSP_POC_Name": "Joseph Janik",
+        "CSP_POC_Email": "fedramp@acquia.com",
+        "FedRAMP_In-Process_Date": "2014-05-11T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2016-08-11T04:00:00.000Z",
+            "Authorizing_Agency": "Social Security Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2017-02-22T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Institute of Standards and Technology",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2017-07-24T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Internal Revenue Service",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2017-01-08T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Justice",
+            "Authorizing_Subagency": "Justice Management Division",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2017-05-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-05-30T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2018-06-22T04:00:00.000Z",
+            "Authorizing_Agency": "Corporation for National & Community Service (CNCS)",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/cncs_1.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2018-03-06T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-03-08T05:00:00.000Z",
+            "Authorizing_Agency": "Commodity Futures Trading Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFTC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-03-06T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-03-06T05:00:00.000Z",
+            "Authorizing_Agency": "United States Securities and Exchange Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/SEC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-03-21T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Justice",
+            "Authorizing_Subagency": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2019-03-19T04:00:00.000Z",
+            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-07-09T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-07-09T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Justice",
+            "Authorizing_Subagency": "Office of Justice Programs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2019-07-15T04:00:00.000Z",
+            "Authorizing_Agency": "Nuclear Regulatory Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-01-14T05:00:00.000Z",
+            "Letter_Expiration_Date": "2022-01-14T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-01-14T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Innovative Discovery, LLC",
+        "Cloud_Service_Provider_Package": "Innovative Discovery Government Cloud (IDGC)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1800263217",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-06-09T04:00:00.000Z",
+        "Sponsoring_Agency": "Federal Trade Commission",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
+        "Authorizing_Agency": "Federal Trade Commission",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Innovative%20Logo.png",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "CSP_Website": "www.id-edd.com",
+        "CSO_Description": "The Innovative Discovery Government Cloud (ID Gov-Cloud) is a Software as a Service (SaaS) offering that provides a secure and scalable environment for government legal document services. ID Gov-Cloud provides software services to agencies within a secure, scalable, and compliant cloud environment, offering Relativity Analytics, and iCONECT Analytics inhouse – as well as expert consulting and application to get the most from them. Agencies can leverage the full scope of eDiscovery services within one scalable platform, to include but not limited to: processing, document review, advanced analytics, assisted review, legal hold services, and production. All these service packages are provided within a secure and user-friendly customer interface. Government agencies also leverage the added capabilities of Innovative Discovery’s government project management teams and workflows, benefitting from years of experience supporting complex government electronic discovery requests.",
+        "Announcement_Date": "2018-07-25T04:00:00.000Z",
+        "CSP_POC_Name": "James H. Perkins Jr.",
+        "CSP_POC_Email": "fedramp@id-edd.com",
+        "FedRAMP_In-Process_Date": "2017-10-18T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2019-10-16T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-10-16T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Office of the Comptroller of the Currency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-11-17T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-11-17T05:00:00.000Z",
+            "Authorizing_Agency": "Federal Deposit Insurance Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "TechTrend, Inc.",
+        "Cloud_Service_Provider_Package": "Federal GovCloud (FGC) DevSecOps",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1912051231",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-02-24T05:00:00.000Z",
+        "Original_Expiration_Date": "2024-02-23T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Agriculture",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+        "Authorizing_Agency": "Department of Agriculture",
+        "Authorizing_Subagency": "United States Forest Service",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/TechTrend%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "CSP_Website": "www.techtrend.us",
+        "CSO_Description": "Federal GovCloud (FGC) provides U.S. federal government agencies with a common integrated Solution-as-a-Service (SaaS) automating development, security, and operations (DevSecOps) approach to support the full software development life cycle. FGC DevSecOps SaaS will quickly and securely enable a continuous integration and continuous deployment (CI/CD) pipeline to deliver applications to customers frequently and with high software quality and integrated security validation tools. It resides on Microsoft Azure Government cloud infrastructure and has been designed to leverage Azure’s FedRAMP compliant services while integrating a suite of tools and technologies that provide the foundational components to support DevSecOps. It can deploy customer workloads to various landing zones as it is completely cloud service provider or landing zone agnostic and supports secure automation driven deployment to various providers including Azure, Amazon Web Services, Google Cloud, low-code platforms (e.g., Salesforce), and on-premises or hybrid deployment. Federal agencies can focus on developing amazing applications to support their missions by utilizing a turnkey platform of integrated DSO tools to speed the integration, testing, monitoring and deployment of their secure workloads to any customer defined environment.",
+        "CSP_POC_Name": "Sonoka Ho",
+        "CSP_POC_Email": "fedramp@techtrend.us",
+        "Fedramp_Ready_Date": "2019-10-01T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2020-12-17T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -14754,30 +14796,6 @@
         "CSP_POC_Name": "Kerry Canfield",
         "CSP_POC_Email": "Momentum.Support@cgifederal.com",
         "FedRAMP_In-Process_Date": "2020-09-22T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Cisco Systems Inc.",
-        "Cloud_Service_Provider_Package": "Cisco Broadsoft Government Cloud\r",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "F1509107286",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "United States Senate",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Senate%20Logo.jpg",
-        "Authorizing_Agency": "United States Senate",
-        "Authorizing_Subagency": "Office of the Sergeant at Arms",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Cisco%20Logo.png",
-        "Independent_Assessor": "Kratos",
-        "CSP_Website": "www.cisco.com",
-        "CSO_Description": "Cisco’s BroadCloud for Government platform, designed specifically to address the telecommunication and collaboration needs of government agencies. Ranging from basic voice telephone services to high-definition multipoint video and mobile integration, the Broadcloud for Government platform redefines workplace efficiency in the public sector. Staff can be instantly available via desk phone, PC, tablet or mobile phone, while working from virtually anywhere.",
-        "CSP_POC_Name": "Cisco Collaboration FedRAMP Team",
-        "CSP_POC_Email": "collab-usgov@cisco.com",
-        "FedRAMP_In-Process_Date": "2020-10-06T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -15138,6 +15156,30 @@
         "CSP_POC_Name": "Carlton Harris",
         "CSP_POC_Email": "FedRAMP@eecomputing.com",
         "FedRAMP_In-Process_Date": "2021-03-10T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Forcepoint",
+        "Cloud_Service_Provider_Package": "Forcepoint Dynamic Cloud Solution",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2018065529",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Energy",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+        "Authorizing_Agency": "Department of Energy",
+        "Authorizing_Subagency": "Federal Energy Regulatory Commission",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Forcepoint%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://www.forcepoint.com/",
+        "CSO_Description": "Forcepoint Dynamic Cloud Solutions for CASB automatically discovers cloud application use, analyzes the risks, and enforces appropriate controls for SaaS and production applications to stop evolving threats by uncovering risky user activity.  \r\n\r\nFeatures and Benefits:\r\n\n* Comprehensive App Discovery, Governance, Analytics, and Protection in one integrated solution\r\n* Deployment options for offline (API mode) and/or inline (proxy mode)\r\n* Granular policies for mobile and endpoint devices enable access control and data protection for managed and unmanaged mobile phones, tablets, and laptops\r\n* Built-in integration with enterprise directories, SIEM, and MDM\r\n* Deep support for Office 365, AWS, Salesforce, Google Apps, Box, Dropbox, NetSuite, Workday, Microsoft Azure, and more\r\n* Extends an organization’s anomaly and threat detection capabilities to cloud apps\r\n* IP reputation data enables the creation and enforcement of more accurate risk-mitigation policies\r\n* Part of the Forcepoint family of Cloud Security products that span on-premise and cloud environments",
+        "CSP_POC_Name": "Darryl Strucko",
+        "CSP_POC_Email": "fedramp@forcepoint.com",
+        "Fedramp_Ready_Date": "2021-06-29T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -16099,31 +16141,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "TechTrend, Inc.",
-        "Cloud_Service_Provider_Package": "Federal GovCloud (FGC) DevSecOps",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1912051231",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Agriculture",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-        "Authorizing_Agency": "Department of Agriculture",
-        "Authorizing_Subagency": "United States Forest Service",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/TechTrend%20Logo.png",
-        "Independent_Assessor": "Kratos",
-        "CSP_Website": "www.techtrend.us",
-        "CSO_Description": "Federal GovCloud (FGC) provides U.S. federal government agencies with a common integrated Solution-as-a-Service (SaaS) automating development, security, and operations (DevSecOps) approach to support the full software development life cycle. FGC DevSecOps SaaS will quickly and securely enable a continuous integration and continuous deployment (CI/CD) pipeline to deliver applications to customers frequently and with high software quality and integrated security validation tools. It resides on Microsoft Azure Government cloud infrastructure and has been designed to leverage Azure’s FedRAMP compliant services while integrating a suite of tools and technologies that provide the foundational components to support DevSecOps. It can deploy customer workloads to various landing zones as it is completely cloud service provider or landing zone agnostic and supports secure automation driven deployment to various providers including Azure, Amazon Web Services, Google Cloud, low-code platforms (e.g., Salesforce), and on-premises or hybrid deployment. Federal agencies can focus on developing amazing applications to support their missions by utilizing a turnkey platform of integrated DSO tools to speed the integration, testing, monitoring and deployment of their secure workloads to any customer defined environment.",
-        "CSP_POC_Name": "Sonoka Ho",
-        "CSP_POC_Email": "fedramp@techtrend.us",
-        "Fedramp_Ready_Date": "2019-10-01T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2020-12-17T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Tenable Public Sector (TPS)",
         "Cloud_Service_Provider_Package": "Tenable.io",
         "Path": "Agency",
@@ -16183,6 +16200,29 @@
         "CSP_POC_Name": "Taylor Trigger",
         "CSP_POC_Email": "Fedramp@thousandeyes.com",
         "Fedramp_Ready_Date": "2020-02-28T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "T-Metrics, Inc.",
+        "Cloud_Service_Provider_Package": "T-Metrics Cloud Contact Center (TCCC)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1730842236",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "United States Equal Employment Opportunity Commission",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/EEOC%20Logo.jpg",
+        "Authorizing_Agency": "United States Equal Employment Opportunity Commission",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/TMetrics%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "https://tmetrics.com/industries/fedramp",
+        "CSO_Description": "As the primary point of contact an organization has with its customers and constituents, the T-Metrics TM-Cloud Contact Center provides a powerful skills-based routing platform to efficiently connect these people with the agents best equipped to effectively respond to their needs. The platform provides flexibility, scalability, lower total cost of ownership, improved agency service levels, and a superior customer experience. Service offerings include:\n\r\n* Skills-based and Priority Routing \r\n* Interactive Voice Response\r\n* Self-service Offerings\r\n* VIP Treatments\r\n* Omni-channel Communication\r\n* Customer & Agent Callbacks\r\n* Voice and Screen Recordings\r\n* Section 508 compliance (for agents and for callers)\r\n* Advanced Agent and Supervisory Dashboards\r\n* Standard and Custom Reporting\r\n* Administration Portals \r\n*… [ask about more related capabilities!](https://www.tmetrics.com/support/sales-team)\n\r\nThe TM-Cloud Contact Center can be scaled to accommodate current and future contact center resource demands and requirements. The ability to obtain agent subscriptions in small or large quantities enables organizations to quickly scale to levels necessary to handle even the most dynamic volume, especially for emergencies or seasonal demand.\n\r\nThe contact center distributed architecture ensures that a high-available and high-performance system is deployed in the T-Metrics FedRAMP cloud. Resiliency, scalability, and advanced feature access had been traditionally available to only the largest of contact centers with a significant capital investment. Through the TM-Cloud Contact Center, these advantages are now available to every customer through flexible monthly subscriptions. Strategically designed, TM-Cloud Contact Center capitalizes on cloud architecture and goes over the top of existing customer telephony platforms, including FedRAMP & JITC certified voice solutions. \n\r\nFor two decades, T-Metrics has provided government agencies with contact center solutions. Additionally, because the T Metrics Contact Center passes the Department of Defense (DoD) rigorous and selective security and interoperability demands for Joint Interoperability Test Command (JITC) certification, T-Metrics contact center solutions are widely deployed at DoD locations around the globe. By receiving FedRAMP In Process status, T Metrics expands the partnership scope to provide the most advanced cloud contact center platform that meets federal mandates for a standardized approach to security assessment, authorization, and continuous monitoring for cloud contact center services.",
+        "CSP_POC_Name": "Jim Beckner III",
+        "CSP_POC_Email": "fedramp@tmetrics.com",
+        "FedRAMP_In-Process_Date": "2021-07-01T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
