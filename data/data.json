@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-07-07T04:40:50.743Z",
+    "Created_At": "2021-07-08T04:40:50.499Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -980,14 +980,6 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "United States Patent and Trademark Office",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-05-21T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-05-27T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-05-27T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Transportation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -6914,14 +6906,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2021-06-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-01-14T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Authorizing_Subagency": "National Nuclear Security Administration / Nevada Field Office",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Authorizing_Letter_Last_Sign_Date": "2021-01-27T05:00:00.000Z",
             "Authorizing_Agency": "Department of the Interior",
             "Authorizing_Subagency": "Bureau of Trust Funds Administration",
@@ -6973,6 +6957,13 @@
             "Letter_Date": "2021-06-25T04:00:00.000Z",
             "Authorizing_Agency": "Universal Service Administrative Company",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAC-logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2021-07-07T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "National Nuclear Security Administration / Nevada Field Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -9471,72 +9462,6 @@
         "CSP_POC_Email": "CS-Security@ptc.com",
         "FedRAMP_In-Process_Date": "2016-09-12T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "SAP National Security Services Inc. (SAP NS2)",
-        "Cloud_Service_Provider_Package": "SAP NS2 Secure Node with SuccessFactors Suite - DoD",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1602257856",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2020-05-18T04:00:00.000Z",
-        "Original_Expiration_Date": "2021-05-15T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Defense",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-        "Authorizing_Agency": "Department of Defense",
-        "Authorizing_Subagency": "Defense Information Systems Agency",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/SAP%20NS2%20Logo1.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866"
-        ],
-        "CSP_Website": "https://www.sapns2.com/cloud/",
-        "CSO_Description": "The SAP National Security Services (SAP NS2) Federal Secure Node delivers the SAP SuccessFactors Human Capital Management Suite (HCM) SaaS for the Federal Community. SAP SuccessFactors HCM Suite helps transform organizational strategies into measurable business and mission outcomes by simplifying HR processes and maximizing employee engagement. We provide unmatched solution breadth and depth through a full set of core HR and talent solutions based on modern cloud technology that makes them simple to use, simple to run and simple for your people to succeed.\nSAP SUCCESSFACTORS HCM SUITE INCLUDES:\n- Learning: Develop a comprehensive learning strategy with a complete learning management solution (LMS) that enables you to manage, develop and deploy instructor-led, formal and social online training. SAP SuccessFactors Learning helps learning professionals improv employees’ skills, develop leaders, reduce compliance risk, and better enable external audiences.\n- Performance & Goals: Communicate strategy, create meaningful individual goals across the organization, and focus employees on what matters, while enabling executives to monitor goal progress in real-time. Then reward, measure and tie employee performance to business results, streamline the performance appraisal process, and enable meaningful feedback.\n- Succession & Development: Anticipate and plan for staffing changes and assure the readiness of employee talent at all levels. Align learning activities with competency gaps to arm your workforce for current and future needs. Improve motivation with continuous development and career planning.\n- Compensation: Pay your people based on achievement, establish a pay-for-performance culture – retain top talent and increase productivity across the organization. Calibration drives better compensation decisions with and objective ratings.\n- Recruiting: Transform recruiting into a continuous, strategic part of your talent strategy with the only end-to-end recruiting solution that helps you attract, engage and select better candidates and then\nmeasure the results.\n- Onboarding: By guiding hiring managers, empowering new hires and connecting onboarding to other key talent management activities, SAP SuccessFactors makes onboarding a strategic process that improves job satisfaction, time to productivity and first year retention.\n- Workforce Planning: Leverage in-depth workforce information and benchmarks to assess readiness to execute strategies, forecast the impact of business decisions, mitigate risk and take action.\n- Workforce Analytics & Reporting: Deliver actionable, quantitative insights to your business leaders with a powerful combination of talent and business data that produces easy to understand and consume information. Creates a catalyst for positive change in the business.\n- Employee Central: Deliver real business impact with a next generation core HR system that puts the ‘self’ back in ‘self-service’. Strategically-minded HR and IT teams have realized that user-friendly core HR solution is the key to accurate employee data. Capturing employee, organizational and talent data all in one solution delivers better results, faster.\nIn addition, SAP NS2 offers the Secure CloudEdge providing customers with the enhanced availability, compliance and customer support to deliver that mission critical edge. Benefits include: - Enhanced Disaster Recovery/High Availability\n- U.S Federal, DoD ITAR and Critical Infrastructure compliance\n- NS2 US Citizen Operation & Support - Private US Support Ticketing System",
-        "Announcement_Date": "2017-06-13T04:00:00.000Z",
-        "CSP_POC_Name": "Winson Cumberland",
-        "CSP_POC_Email": "info@sapns2.com",
-        "FedRAMP_In-Process_Date": "2015-10-02T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2020-01-13T05:00:00.000Z",
-            "Letter_Expiration_Date": "2023-01-06T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-01-13T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Department of the Navy",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-06-17T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-06-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-06-17T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Logistics Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-07-21T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-05-15T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-07-21T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Missile Defense Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2022-05-15T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-06-14T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "North American Aerospace Defense Command & United States Northern Command",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
       },
       {
         "Cloud_Service_Provider_Name": "DocuSign",
@@ -14544,7 +14469,7 @@
         "Cloud_Service_Provider_Name": "TechTrend, Inc.",
         "Cloud_Service_Provider_Package": "Federal GovCloud (FGC) DevSecOps",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "FR1912051231",
         "Service_Model": [
           "SaaS"
@@ -14559,13 +14484,83 @@
         "Authorizing_Subagency": "United States Forest Service",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/TechTrend%20Logo.png",
         "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "F1603087869"
+        ],
         "CSP_Website": "www.techtrend.us",
         "CSO_Description": "Federal GovCloud (FGC) provides U.S. federal government agencies with a common integrated Solution-as-a-Service (SaaS) automating development, security, and operations (DevSecOps) approach to support the full software development life cycle. FGC DevSecOps SaaS will quickly and securely enable a continuous integration and continuous deployment (CI/CD) pipeline to deliver applications to customers frequently and with high software quality and integrated security validation tools. It resides on Microsoft Azure Government cloud infrastructure and has been designed to leverage Azure’s FedRAMP compliant services while integrating a suite of tools and technologies that provide the foundational components to support DevSecOps. It can deploy customer workloads to various landing zones as it is completely cloud service provider or landing zone agnostic and supports secure automation driven deployment to various providers including Azure, Amazon Web Services, Google Cloud, low-code platforms (e.g., Salesforce), and on-premises or hybrid deployment. Federal agencies can focus on developing amazing applications to support their missions by utilizing a turnkey platform of integrated DSO tools to speed the integration, testing, monitoring and deployment of their secure workloads to any customer defined environment.",
+        "Announcement_Date": "2021-07-06T04:00:00.000Z",
         "CSP_POC_Name": "Sonoka Ho",
         "CSP_POC_Email": "fedramp@techtrend.us",
         "Fedramp_Ready_Date": "2019-10-01T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2020-12-17T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "SAP National Security Services Inc. (SAP NS2)",
+        "Cloud_Service_Provider_Package": "SAP NS2 Secure Node with SuccessFactors Suite - DoD",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1602257856",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-07-01T04:00:00.000Z",
+        "Original_Expiration_Date": "2022-07-07T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Defense",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+        "Authorizing_Agency": "Department of Defense",
+        "Authorizing_Subagency": "Defense Information Systems Agency",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/SAP%20NS2%20Logo1.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "https://www.sapns2.com/cloud/",
+        "CSO_Description": "The SAP National Security Services (SAP NS2) Federal Secure Node delivers the SAP SuccessFactors Human Capital Management Suite (HCM) SaaS for the Federal Community. SAP SuccessFactors HCM Suite helps transform organizational strategies into measurable business and mission outcomes by simplifying HR processes and maximizing employee engagement. We provide unmatched solution breadth and depth through a full set of core HR and talent solutions based on modern cloud technology that makes them simple to use, simple to run and simple for your people to succeed.\nSAP SUCCESSFACTORS HCM SUITE INCLUDES:\n- Learning: Develop a comprehensive learning strategy with a complete learning management solution (LMS) that enables you to manage, develop and deploy instructor-led, formal and social online training. SAP SuccessFactors Learning helps learning professionals improv employees’ skills, develop leaders, reduce compliance risk, and better enable external audiences.\n- Performance & Goals: Communicate strategy, create meaningful individual goals across the organization, and focus employees on what matters, while enabling executives to monitor goal progress in real-time. Then reward, measure and tie employee performance to business results, streamline the performance appraisal process, and enable meaningful feedback.\n- Succession & Development: Anticipate and plan for staffing changes and assure the readiness of employee talent at all levels. Align learning activities with competency gaps to arm your workforce for current and future needs. Improve motivation with continuous development and career planning.\n- Compensation: Pay your people based on achievement, establish a pay-for-performance culture – retain top talent and increase productivity across the organization. Calibration drives better compensation decisions with and objective ratings.\n- Recruiting: Transform recruiting into a continuous, strategic part of your talent strategy with the only end-to-end recruiting solution that helps you attract, engage and select better candidates and then\nmeasure the results.\n- Onboarding: By guiding hiring managers, empowering new hires and connecting onboarding to other key talent management activities, SAP SuccessFactors makes onboarding a strategic process that improves job satisfaction, time to productivity and first year retention.\n- Workforce Planning: Leverage in-depth workforce information and benchmarks to assess readiness to execute strategies, forecast the impact of business decisions, mitigate risk and take action.\n- Workforce Analytics & Reporting: Deliver actionable, quantitative insights to your business leaders with a powerful combination of talent and business data that produces easy to understand and consume information. Creates a catalyst for positive change in the business.\n- Employee Central: Deliver real business impact with a next generation core HR system that puts the ‘self’ back in ‘self-service’. Strategically-minded HR and IT teams have realized that user-friendly core HR solution is the key to accurate employee data. Capturing employee, organizational and talent data all in one solution delivers better results, faster.\nIn addition, SAP NS2 offers the Secure CloudEdge providing customers with the enhanced availability, compliance and customer support to deliver that mission critical edge. Benefits include: - Enhanced Disaster Recovery/High Availability\n- U.S Federal, DoD ITAR and Critical Infrastructure compliance\n- NS2 US Citizen Operation & Support - Private US Support Ticketing System",
+        "Announcement_Date": "2017-06-13T04:00:00.000Z",
+        "CSP_POC_Name": "Winson Cumberland",
+        "CSP_POC_Email": "info@sapns2.com",
+        "FedRAMP_In-Process_Date": "2015-10-02T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2020-01-13T05:00:00.000Z",
+            "Letter_Expiration_Date": "2023-01-06T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-01-13T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Department of the Navy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-06-17T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-06-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-06-17T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Logistics Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-07-21T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-05-15T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-07-21T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Missile Defense Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2022-05-15T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-06-14T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "North American Aerospace Defense Command & United States Northern Command",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "AchieveIt Online, LLC",
@@ -15179,7 +15174,7 @@
         "CSO_Description": "Forcepoint Dynamic Cloud Solutions for CASB automatically discovers cloud application use, analyzes the risks, and enforces appropriate controls for SaaS and production applications to stop evolving threats by uncovering risky user activity.  \r\n\r\nFeatures and Benefits:\r\n\n* Comprehensive App Discovery, Governance, Analytics, and Protection in one integrated solution\r\n* Deployment options for offline (API mode) and/or inline (proxy mode)\r\n* Granular policies for mobile and endpoint devices enable access control and data protection for managed and unmanaged mobile phones, tablets, and laptops\r\n* Built-in integration with enterprise directories, SIEM, and MDM\r\n* Deep support for Office 365, AWS, Salesforce, Google Apps, Box, Dropbox, NetSuite, Workday, Microsoft Azure, and more\r\n* Extends an organization’s anomaly and threat detection capabilities to cloud apps\r\n* IP reputation data enables the creation and enforcement of more accurate risk-mitigation policies\r\n* Part of the Forcepoint family of Cloud Security products that span on-premise and cloud environments",
         "CSP_POC_Name": "Darryl Strucko",
         "CSP_POC_Email": "fedramp@forcepoint.com",
-        "Fedramp_Ready_Date": "2021-06-29T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2021-06-29T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -16226,6 +16221,30 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "United Solutions, LLC",
+        "Cloud_Service_Provider_Package": "AVA",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2009746321",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "High",
+        "Original_Expiration_Date": "2024-03-12T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/United%20Solutions%20Logo.png",
+        "Independent_Assessor": "Dakota Consulting, Inc.",
+        "CSP_Website": "https://www.unitedsolutions.biz",
+        "CSO_Description": "United Solutions Artificial Intelligence (US AI) is a suite of scalable AI solutions with broad applicability to common business problems faced by both government and commercial sectors alike. US AI leverages visually exciting user experience / user interfaces to simplify and make complex AI capabilities available to business users. US AI uses various complex data science models such as Natural Language Processing (NLP), Machine Learning (ML), and Deep Learning (DL) to create a curated source of data that provides actionable business insights for a variety of business processes including, but not limited to acquisition, finance, supply chain, logistics, emergency response, and health. The platform memorializes curated data, builds a training model from that, and continuously teaches the machine to make better predictions such as compliance, risk, fraud, value, health, security, and safety.",
+        "CSP_POC_Name": "Macey Smith ",
+        "CSP_POC_Email": "business@unitedsolutions.biz",
+        "FedRAMP_In-Process_Date": "2021-03-12T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Vaultara, LLC",
         "Cloud_Service_Provider_Package": "Vaultara Flare Services",
         "Path": "Agency",
@@ -16362,7 +16381,13 @@
         "CSP_POC_Name": "Matt Hamilton",
         "CSP_POC_Email": "fedramp@wellspring.com",
         "FedRAMP_In-Process_Date": "2021-03-04T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Authorizing_Agency": "Department of Energy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "WingSwept",
