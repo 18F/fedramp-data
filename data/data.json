@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-07-09T04:40:50.849Z",
+    "Created_At": "2021-07-10T04:40:50.446Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1093,6 +1093,15 @@
             "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-04-07T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-04-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-04-07T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Human Resource Activity",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -1830,6 +1839,15 @@
             "Letter_Date": "2021-06-25T04:00:00.000Z",
             "Authorizing_Agency": "Universal Service Administrative Company",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAC-logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-02-05T05:00:00.000Z",
+            "Letter_Expiration_Date": "2022-02-04T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-02-05T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Human Resource Activity",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -7978,6 +7996,40 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Innovative Discovery, LLC",
+        "Cloud_Service_Provider_Package": "Innovative Discovery Government Cloud (IDGC)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1800263217",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-10-16T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of the Treasury",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+        "Authorizing_Agency": "Department of the Treasury",
+        "Authorizing_Subagency": "Office of the Comptroller of the Currency",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Innovative%20Logo.png",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "CSP_Website": "www.id-edd.com",
+        "CSO_Description": "The Innovative Discovery Government Cloud (ID Gov-Cloud) is a Software as a Service (SaaS) offering that provides a secure and scalable environment for government legal document services. ID Gov-Cloud provides software services to agencies within a secure, scalable, and compliant cloud environment, offering Relativity Analytics, and iCONECT Analytics inhouse – as well as expert consulting and application to get the most from them. Agencies can leverage the full scope of eDiscovery services within one scalable platform, to include but not limited to: processing, document review, advanced analytics, assisted review, legal hold services, and production. All these service packages are provided within a secure and user-friendly customer interface. Government agencies also leverage the added capabilities of Innovative Discovery’s government project management teams and workflows, benefitting from years of experience supporting complex government electronic discovery requests.",
+        "Announcement_Date": "2018-07-25T04:00:00.000Z",
+        "CSP_POC_Name": "James H. Perkins Jr.",
+        "CSP_POC_Email": "fedramp@id-edd.com",
+        "FedRAMP_In-Process_Date": "2017-10-18T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2020-11-17T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-11-17T05:00:00.000Z",
+            "Authorizing_Agency": "Federal Deposit Insurance Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "QuestionMark",
         "Cloud_Service_Provider_Package": "Questionmark OnDemand for Government",
         "Path": "Agency",
@@ -11771,6 +11823,15 @@
             "Authorizing_Agency": "Department of Education",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-05-07T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-05-06T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-05-07T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Human Resource Activity",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -14446,47 +14507,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Innovative Discovery, LLC",
-        "Cloud_Service_Provider_Package": "Innovative Discovery Government Cloud (IDGC)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1800263217",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2021-06-09T04:00:00.000Z",
-        "Sponsoring_Agency": "Federal Trade Commission",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
-        "Authorizing_Agency": "Federal Trade Commission",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Innovative%20Logo.png",
-        "Independent_Assessor": "Lunarline, Inc.",
-        "CSP_Website": "www.id-edd.com",
-        "CSO_Description": "The Innovative Discovery Government Cloud (ID Gov-Cloud) is a Software as a Service (SaaS) offering that provides a secure and scalable environment for government legal document services. ID Gov-Cloud provides software services to agencies within a secure, scalable, and compliant cloud environment, offering Relativity Analytics, and iCONECT Analytics inhouse – as well as expert consulting and application to get the most from them. Agencies can leverage the full scope of eDiscovery services within one scalable platform, to include but not limited to: processing, document review, advanced analytics, assisted review, legal hold services, and production. All these service packages are provided within a secure and user-friendly customer interface. Government agencies also leverage the added capabilities of Innovative Discovery’s government project management teams and workflows, benefitting from years of experience supporting complex government electronic discovery requests.",
-        "Announcement_Date": "2018-07-25T04:00:00.000Z",
-        "CSP_POC_Name": "James H. Perkins Jr.",
-        "CSP_POC_Email": "fedramp@id-edd.com",
-        "FedRAMP_In-Process_Date": "2017-10-18T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2019-10-16T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-10-16T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Authorizing_Subagency": "Office of the Comptroller of the Currency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-11-17T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-11-17T05:00:00.000Z",
-            "Authorizing_Agency": "Federal Deposit Insurance Corporation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "TechTrend, Inc.",
         "Cloud_Service_Provider_Package": "Federal GovCloud (FGC) DevSecOps",
         "Path": "Agency",
@@ -16737,6 +16757,22 @@
         "Additional_Cyber_Frameworks": "* CMMC\n* NIST Cybersecurity Framework (CSF)\n* NIST SP 800-53\n* NIST SP 800-171\n* NIST SP 800-161"
       },
       {
+        "Name": "Fortreum, LLC",
+        "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Fortreum%20Logo.png",
+        "Description": "Fortreum is a specialized compliance assessment organization that conducts security assessments in a fundamental manner that balances client availability and security review cycles. While maintaining our independence, we work closely with our customers to conduct our assessments to align with their other compliance frameworks. Controls are controls, so why not line up the assessment activity to ensure compliance personnel are not spinning their wheels and just gathering evidence for each individual audit? Re-use is key, and something we have adopted through our continuous audit approach. In support of FedRAMP, Fortreum provides the following 3PAO assessment support services:\n\r\n* FedRAMP Gap Assessment\r\n* FedRAMP Readiness Assessment\r\n* FedRAMP Full/Initial Assessment\r\n* FedRAMP Annual Assessment\r\n* FedRAMP Significant Change Assessment\r\n* FedRAMP New Service Onboarding Assessment (for JAB holders only)\r\n* FedRAMP Continuous Monitoring Support (Assessment-focused)",
+        "POC_Name": "Michael Carter",
+        "POC_Email": "compliance@fortreum.com",
+        "website": "www.fortreum.com",
+        "Remediation": "N",
+        "Founded": 2020,
+        "Primary_Office_Locations": "44050 Ashburn Shopping Plaza, Suite 195-652, Ashburn, VA 20147",
+        "FedRAMP_Assessed": "None",
+        "Provide_Consulting_Services": "Y",
+        "Description_of_Consulting_Services": "Fortreum also provides a wide range of FedRAMP advisory support services. The type of services depends on the needs of our customers. Our goal is to help position you for a successful assessment and in the end, a successful handoff of the security package so you can maintain it on your own post-ATO. These services include:\n\n* FedRAMP Workshop\n* FedRAMP Documentation Review/Development\n* FedRAMP Assessment Support (during and after 3PAO audit)\n* FedRAMP Continuous Monitoring Support (Advisory-focused)",
+        "Consulting_Services_To": "Due to the nature of NDAs with our customers, Fortreum does not provide the names of the organizations we have provided consulting support services to. ",
+        "Additional_Cyber_Frameworks": "* CJIS\n* CMMC\n* FDA\n* HIPAA\n* IRS 1075\n* NIST 800-171"
+      },
+      {
         "Name": "GMS Registrar Ltd",
         "Accreditation_Date": "2015-03-02T05:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/GMS%20logo.jpg",
@@ -16941,9 +16977,9 @@
         "Additional_Cyber_Frameworks": "* FISMA\n* NIST SP 800-171"
       },
       {
-        "Name": "Perspecta, Inc.",
+        "Name": "Peraton Corporation",
         "Accreditation_Date": "2015-11-09T05:00:00.000Z",
-        "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Perspecta%20Logo.jpg",
+        "Logo": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Peraton%20Logo.png",
         "Description": "An organization that is now a part of Perspecta is an accredited Federal Risk Authorization and Management Program (FedRAMP℠) Third Party Assessment Organization (3PAO) for conducting security assessments for Cloud Service Providers (CSP).  Perspecta 3PAO provides security assessment services for cloud products and services to comply with FedRAMP requirements and achieve a Provisional Authority to Operate (P-ATO) certification from the FedRAMP Joint Authorization Board (JAB) or Authority to Operate (ATO) certification from specific federal agencies, which can be leveraged by all federal agencies. \n\nServices include:\n1. FedRAMP Pre-Assessment Review and Gap Analysis\n2. FedRAMP Ready Assessments\n3. FedRAMP Security Assessments\n4. FedRAMP Annual Assessments (including Continuous Monitoring)",
         "POC_Name": "Michael Sorenson",
         "POC_Email": "3PAO@perspecta.com",
