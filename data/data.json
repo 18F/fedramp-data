@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-07-16T04:40:50.495Z",
+    "Created_At": "2021-07-17T04:40:50.754Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -12738,7 +12738,7 @@
         "CSP_Website": "https://hootsuite.com/industries/government",
         "CSO_Description": "Hootsuite is an enterprise social media management platform used by governments and agencies to engage with citizens, manage crisis communications, and deliver services and\r\ninformation via social media. By managing all social media activity through a single, secure platform, agencies with large and distributed teams can engage directly with citizens across\r\npublic and private social channels without compromising control over messaging and access.Hootsuite’s real-time social listening capabilities, integrations with compliance partners, and\r\necosystem of more than 200 connected applications help agencies monitor and measure public sentiment, stay compliant with FOIA and other public records laws, and integrate social media across their organization.\r",
         "Announcement_Date": "2021-03-11T05:00:00.000Z",
-        "CSP_POC_Name": "Cherian Palayoor",
+        "CSP_POC_Name": "Cuneyt Karul",
         "CSP_POC_Email": "fedramp@hootsuite.com\r",
         "FedRAMP_In-Process_Date": "2020-12-16T05:00:00.000Z",
         "Agency_POC": "Coming Soon",
@@ -15578,6 +15578,30 @@
         "CSP_POC_Name": "Frank Shirmo",
         "CSP_POC_Email": "fedramp@kudoway.com",
         "Fedramp_Ready_Date": "2021-05-10T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "LaunchDarkly",
+        "Cloud_Service_Provider_Package": "LaunchDarkly",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2120962552",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/LaunchDarkly%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "https://launchdarkly.com",
+        "CSO_Description": "LaunchDarkly is the feature management platform that teams use to safely deliver and control software through feature flags. By separating code deployments from feature releases, feature management enables organizations to deploy faster, reduce risk, and iterate continuously. \r\n\r\nGovernment agencies use feature management to control new feature rollouts, quickly resolve incidents, and increase productivity of development teams while using fewer resources. They are improving their DevSecOps processes, facilitating Continuous Integration/Continuous Delivery (CI/CD), and shipping more code safer than ever. LaunchDarkly enables: \r\n\r\n* Resolution of incidents in less than 200 milliseconds, without costly rollbacks that threaten other features.\r\n* Powerful targeting capabilities that provide complete control over which users or microservices can see new features.\r\n* Safe testing in production—empowering teams with real-world QA testing in place of costly pre-production environments.\r\n* CI/CD development processes that improve developer productivity and new feature release times.\r\n* Hypothesis driven development, including A/B/n experimentation and percentage rollouts.\r\n\r\nLaunchDarkly provides developers and business stakeholders with a central location to manage the rollout of new features. At the same time, it can enforce change management policies through scheduling, approval workflows, and custom role-based access control down to the feature level. Agencies can implement their own policies around the use of personally identifiable information (PII) and can take full advantage of targeting without needing to store user PII within the LaunchDarkly Federal SaaS environment. Additional hosting options and an offline mode are available for organizations with more restrictive policies. \r\n",
+        "CSP_POC_Name": "Alex Smolen",
+        "CSP_POC_Email": "fedramp@launchdarkly.com",
+        "FedRAMP_In-Process_Date": "2021-07-15T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
