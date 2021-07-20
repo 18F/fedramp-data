@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-07-19T04:40:50.547Z",
+    "Created_At": "2021-07-20T04:40:50.614Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -10921,10 +10921,10 @@
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW"
         ],
-        "CSP_Website": "www.huddle.com",
-        "CSO_Description": "Huddle provides cloud based online collaboration and document sharing solutions for users and businesses. Using a Software as a Service (SaaS) service model, Huddle combines Enterprise Content Management (ECM) and social software allowing companies and communities to collaborate flexibly.\nThe key functionality that the Huddle system provides is:\n- A web-based workspace area where teams of individuals can access their content - Hierarchical file storage with clean document preview - Document workflow such as reviews, comments and version history - Permissions models around folders so access can be restricted to specific teams - Creation and tracking of tasks assigned to members of the team, with automatic reminders - Instant note taking facility with mark-down formatting\n- Dashboard feature to provide a quick overview of activity within the team",
+        "CSP_Website": "https://www2.ideagen.com/us-government/",
+        "CSO_Description": "Huddle provides the most secure, easy-to-use, and tightly integrated workspaces for government agencies to collaborate with each other and contractors.  Its zero-trust architecture provides a highly controlled environment that is fully auditable for data governance and compliance. \n\r\n* Total control over who can access, view, and edit workspaces and documents. \r\n* Integrations with Microsoft Office ensure a seamless experience.\r\n* Fully auditable workspaces with trackable tasks and assignments.\r\n* Supports stringent security and risk mitigation strategies.",
         "Announcement_Date": "2015-04-17T04:00:00.000Z",
-        "CSP_POC_Name": "Richard Neale",
+        "CSP_POC_Name": "Josh Monk",
         "CSP_POC_Email": "fedramp@huddle.com",
         "FedRAMP_In-Process_Date": "2014-10-13T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
@@ -13101,6 +13101,15 @@
             "Authorizing_Agency": "Department of Transportation",
             "Authorizing_Subagency": "Federal Aviation Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-07-15T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-07-25T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-07-15T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Justice",
+            "Authorizing_Subagency": "Federal Bureau of Prisons",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -16329,6 +16338,29 @@
         "CSP_POC_Name": "John Klinck",
         "CSP_POC_Email": "fedramp@vaultara.com",
         "FedRAMP_In-Process_Date": "2020-11-09T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Veracode",
+        "Cloud_Service_Provider_Package": "Veracode Application Security Services System",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "F1509237360",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "United States Securities and Exchange Commission",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/SEC%20Logo.jpg",
+        "Authorizing_Agency": "United States Securities and Exchange Commission",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Veracode%20Logo.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "https://veracode.com ",
+        "CSO_Description": "Veracode’s unified platform helps Government developers and application security teams assess and improve the security of applications from inception through production. With a combination of automation, process, and speed, Veracode integrates application security into the software lifecycle, effectively eliminating vulnerabilities during the development/deployment chain. This solution is widely used by enterprises to secure web, mobile, legacy, and third-party enterprise applications, with a simpler and more scalable way to help reduce software security risk across software infrastructure.\n\n\nThrough its FedRAMP offering, Veracode offers the ability to test all the code for your applications, including code you write yourself (with Static Application Security Testing or SAST), open-source libraries (with Software Composition Analysis or SCA), and web-based applications (with Dynamic Application Security Testing or DAST). We also provide eLearning for training in secure software development practices, helping developers learn to fix security issues and avoid introducing new ones. Veracode’s cloud-based model helps scale software security for both small teams and large agencies, without requiring the cost, up front setup, and maintenance of on premise offerings. Additionally, Veracode provides all the security expertise, program planning, education, and remediation guidance that security and development teams need to build a robust application security program.",
+        "CSP_POC_Name": "Veracode FedRAMP Team",
+        "CSP_POC_Email": "fedramp@veracode.com",
+        "FedRAMP_In-Process_Date": "2021-07-15T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
