@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-07-23T04:40:50.714Z",
+    "Created_At": "2021-07-24T04:40:51.210Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -5631,6 +5631,13 @@
             "Authorizing_Subagency": "Federal Aviation Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-07-23T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-07-23T04:00:00.000Z",
+            "Authorizing_Agency": "U.S. Office of Special Counsel",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/OSC%20Logo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -9029,6 +9036,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-05-21T04:00:00.000Z",
             "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-07-23T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-07-23T04:00:00.000Z",
+            "Authorizing_Agency": "U.S. Office of Special Counsel",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/OSC%20Logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -14038,6 +14052,13 @@
             "Authorizing_Agency": "Defense Nuclear Facilities Safety Board",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DNFSB%20Logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-07-16T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-07-23T04:00:00.000Z",
+            "Authorizing_Agency": "U.S. Office of Special Counsel",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/OSC%20Logo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -14269,7 +14290,15 @@
         "CSP_POC_Name": "Brad Bartholomew",
         "CSP_POC_Email": "fedramp@paloaltonetworks.com",
         "FedRAMP_In-Process_Date": "2021-03-16T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2021-07-23T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-07-23T04:00:00.000Z",
+            "Authorizing_Agency": "U.S. Office of Special Counsel",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/OSC%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Recovery Point Systems, Inc.",
@@ -15137,6 +15166,29 @@
         "CSP_POC_Name": "Ritika Bhasker",
         "CSP_POC_Email": "info@devresults.com",
         "FedRAMP_In-Process_Date": "2021-01-07T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Digital.ai",
+        "Cloud_Service_Provider_Package": "Digital.ai Government Cloud",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2118743892",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Digital.ai%20Logo.png",
+        "Independent_Assessor": "The Cadence Group",
+        "CSP_Website": "https://www.digital.ai",
+        "CSO_Description": "Digital.ai Government Cloud (DGC) is a suite of application modules that provides Enterprise Agile Planning (EAP), DevOps, Continuous Testing, Application Security, and AI powered Analytics.  DGC is being offered as a Government Only Community Software-as-a-Service (SaaS) solution.",
+        "CSP_POC_Name": "Rachel DeHoyos",
+        "CSP_POC_Email": "fedramp-info@digital.ai",
+        "FedRAMP_In-Process_Date": "2021-07-22T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
