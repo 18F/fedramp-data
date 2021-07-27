@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-07-26T04:41:19.246Z",
+    "Created_At": "2021-07-27T04:40:50.526Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -974,15 +974,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-07-24T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-07-25T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-08-13T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "United States Patent and Trademark Office",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2023-07-06T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-07-06T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Treasury",
@@ -1008,6 +999,15 @@
             "Letter_Expiration_Date": "2021-11-01T04:00:00.000Z",
             "Authorizing_Agency": "Environmental Protection Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-07-12T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-03-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-07-20T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "United States Patent and Trademark Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -2327,6 +2327,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2019-12-18T05:00:00.000Z",
             "Authorizing_Agency": "Federal Trade Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-07-07T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-07-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-07-08T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "DOE Office of the Inspector General",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -11536,53 +11545,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "The Coleridge Initiative, Inc.",
-        "Cloud_Service_Provider_Package": "Administrative Data Research Facility (ADRF)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1819057982",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2020-07-06T04:00:00.000Z",
-        "Original_Expiration_Date": "2021-07-10T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Commerce",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-        "Authorizing_Agency": "Department of Commerce",
-        "Authorizing_Subagency": "United States Census Bureau",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Coleridge%20Logo.png",
-        "Independent_Assessor": "Lunarline, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866",
-          "F1206081364",
-          "FR1812058188"
-        ],
-        "CSP_Website": "https://coleridgeinitiative.org",
-        "CSO_Description": "The ADRF system is designed to promote access to and use of government administrative records across agency lines. It provides access to collaborative tools and rich documentation so that knowledge and analysis can be shared and reused. It hosts confidential data for a range of agencies at the federal, state and local levels, and serves multiple domains – including criminal justice, welfare, labor, education, health, housing and transportation.",
-        "Announcement_Date": "2018-09-12T04:00:00.000Z",
-        "CSP_POC_Name": "Julia Lane",
-        "CSP_POC_Email": "info@coleridgeinitiative.org",
-        "FedRAMP_In-Process_Date": "2018-04-09T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2019-05-01T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-02-08T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Agriculture",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-03-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-03-30T04:00:00.000Z",
-            "Authorizing_Agency": "National Science Foundation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "SailPoint Technologies Holdings, Inc.",
         "Cloud_Service_Provider_Package": "IdentityIQ",
         "Path": "Agency",
@@ -12128,6 +12090,15 @@
             "Authorizing_Agency": "Department of Homeland Security",
             "Authorizing_Subagency": "Customs and Border Protection",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-03-12T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-03-11T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-03-12T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Joint Service Provider",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -14682,6 +14653,53 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "The Coleridge Initiative, Inc.",
+        "Cloud_Service_Provider_Package": "Administrative Data Research Facility (ADRF)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1819057982",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-06-30T04:00:00.000Z",
+        "Original_Expiration_Date": "2022-06-30T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Commerce",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+        "Authorizing_Agency": "Department of Commerce",
+        "Authorizing_Subagency": "United States Census Bureau",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Coleridge%20Logo.png",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "F1206081364",
+          "FR1812058188"
+        ],
+        "CSP_Website": "https://coleridgeinitiative.org",
+        "CSO_Description": "The ADRF system is designed to promote access to and use of government administrative records across agency lines. It provides access to collaborative tools and rich documentation so that knowledge and analysis can be shared and reused. It hosts confidential data for a range of agencies at the federal, state and local levels, and serves multiple domains – including criminal justice, welfare, labor, education, health, housing and transportation.",
+        "Announcement_Date": "2018-09-12T04:00:00.000Z",
+        "CSP_POC_Name": "Julia Lane",
+        "CSP_POC_Email": "info@coleridgeinitiative.org",
+        "FedRAMP_In-Process_Date": "2018-04-09T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2019-05-01T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-02-08T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-03-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-03-30T04:00:00.000Z",
+            "Authorizing_Agency": "National Science Foundation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "AchieveIt Online, LLC",
         "Cloud_Service_Provider_Package": "AchieveIt",
         "Path": "Agency",
@@ -16603,29 +16621,6 @@
         "CSP_POC_Name": "Larry Jennings",
         "CSP_POC_Email": "fedramp@yello.co",
         "FedRAMP_In-Process_Date": "2021-04-13T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Zscaler",
-        "Cloud_Service_Provider_Package": "Zscaler Internet Access – Government (Secure Web Gateway – vTIC) - High",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1720454205A",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "High",
-        "Sponsoring_Agency": "Department of Defense",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-        "Authorizing_Agency": "Department of Defense",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Zscaler%20Logo.png",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "CSP_Website": "www.zscaler.com",
-        "CSO_Description": "Zscaler Internet Access delivers your security stack as a service from the cloud, eliminating the cost and complexity of traditional secure web gateway approaches. By moving security to a globally distributed cloud, Zscaler brings the Internet gateway closer to the user for a faster experience. Organizations can easily scale protection to all offices or users, regardless of location, and minimize network and appliance infrastructure.\n**The Cloud and Mobility Have Broken Perimeter Security**\nThe data center used to be the center of gravity. When applications resided there, it made sense to backhaul traffic from branch offices over a hub-and-spoke network. As traffic patterns shifted to the Internet, gateways were built with stacks of security appliances to allow secure Internet access. These gateways were also centralized to minimize the cost and complexity of securing multiple locations.\nHowever, as applications have moved to the cloud, the center of gravity has moved with it. User traffic often goes straight to the cloud, bypassing the security perimeter. Additionally, today’s complex threats have triggered an explosion of new security appliances, all finding their way into your overworked gateway. Administrators are in a constant battle to keep up with required security updates for their appliances. The complexity of deploying and managing all these appliances — and their associated costs — are out of control. Furthermore, it’s all associated with what is now an outdated architecture.\n**Zscaler Internet Access**\nZscaler Internet Access is a secure Internet and web gateway delivered as a service from the cloud. Think of it as a secure Internet onramp — all you do is make Zscaler your next hop to the Internet. For offices, simply set up a router tunnel (GRE or IPsec) to the closest Zscaler data center. For mobile employees, you can forward traffic via our lightweight Zscaler App or PAC file. No matter where users connect — a coffee shop in Milan, a hotel in Hong Kong, or the office — they get identical protection.\nZscaler Internet Access sits between your users and the Internet, inspecting every byte of traffic inline across multiple security techniques, even within SSL. You get full protection from web and Internet threats. And with a cloud platform that supports Cloud Sandboxing, Next-Generation Firewall, Data Loss Prevention (DLP), and Cloud Application Visibility and Control, you can start with the services you need today and activate others as your needs grow.\nAll these capabilities are delivered from the Zscaler Cloud Security Platform, the world’s largest security cloud, which processes more than 30 billion requests a day. With over 100 patents, the Zscaler platform has been architected from the ground up as a truly distributed, multi-tenant cloud with enterprise performance and scale.",
-        "CSP_POC_Name": "Stephen Kovac",
-        "CSP_POC_Email": "fedramp@zscaler.com",
-        "FedRAMP_In-Process_Date": "2020-07-23T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       }
     ],
