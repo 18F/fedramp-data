@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-07-27T04:40:50.526Z",
+    "Created_At": "2021-07-28T04:40:50.708Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2223,57 +2223,6 @@
             "Authorizing_Agency": "Department of Education",
             "Authorizing_Subagency": "Federal Student Aid",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Accenture Federal Services",
-        "Cloud_Service_Provider_Package": "Accenture Insights Platform (AIP) For Government",
-        "Path": "JAB",
-        "Designation": "Compliant",
-        "Package_ID": "FR1704369518",
-        "Service_Model": [
-          "PaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2017-09-22T04:00:00.000Z",
-        "Sponsoring_Agency": "JAB Authorization",
-        "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Accenture%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866"
-        ],
-        "CSP_Website": "https://www.accenture.com/us-en/insight-accenture-insights-platform",
-        "CSO_Description": "The Accenture Insight Platform (AIP), addresses the unique Advanced Analytics needs of U.S. federal agencies, helping them transform Big Data into actionable insight and mission impact faster. This Analytics-as-a-Service brings together best-of-breed software and pre-built accelerators to speed the development and deployment of agency, mission and function specific solutions. AIP meets at the intersection of technology and business-helping Government Agencies become insights-driven organizations. The Accenture Insights Platform is fast, flexible and scalable-ready to transform Agency’s performance in weeks, not years.",
-        "Announcement_Date": "2017-09-25T04:00:00.000Z",
-        "CSP_POC_Name": "Danielle Hillmer",
-        "CSP_POC_Email": "FedRAMP@accenturefederal.com",
-        "Fedramp_Ready_Date": "2017-01-19T05:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2017-05-18T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2018-09-20T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-09-20T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-09-20T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Agriculture",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-02-05T05:00:00.000Z",
-            "Letter_Expiration_Date": "2022-02-05T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-02-05T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-06-25T04:00:00.000Z",
-            "Authorizing_Agency": "Universal Service Administrative Company",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAC-logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -9838,14 +9787,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2018-06-22T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-07-24T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-07-24T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2018-07-18T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-07-10T04:00:00.000Z",
             "Authorizing_Agency": "Department of Homeland Security",
@@ -9928,6 +9869,14 @@
             "Authorizing_Subagency": "Customs and Border Protection",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-06-25T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-07-27T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-07-27T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -9981,7 +9930,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Snowflake Inc.",
-        "Cloud_Service_Provider_Package": "The Snowflake Service on AWS",
+        "Cloud_Service_Provider_Package": "The Snowflake Service on AWS US East/West",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "FR1809360201",
@@ -12329,37 +12278,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "R&K Solutions, Inc",
-        "Cloud_Service_Provider_Package": "GoRPM",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1733061545",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2021-01-18T05:00:00.000Z",
-        "Original_Expiration_Date": "2021-07-15T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Defense",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-        "Authorizing_Agency": "Department of Defense",
-        "Authorizing_Subagency": "Defense Information Systems Agency",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/RK%20Logo.png",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866"
-        ],
-        "CSP_Website": "https://rksolutions.com/gorpm",
-        "CSO_Description": "GoRPM empowers organizations to collect, aggregate, analyze, manage and understand their real property, personal property, and facilities investments. GoRPM provides data driven decision making in many areas including asset inventory, strategic movement of assets (Basing), space utilization, condition assessment, sustainability, cost analysis, and budget planning and forecasting. The GoRPM is highly configurable and can be quickly implemented and scaled to meet the needs of government agencies.",
-        "Announcement_Date": "2019-08-06T04:00:00.000Z",
-        "CSP_POC_Name": "Michael Nichols",
-        "CSP_POC_Email": "fedramp@rksolutions.com",
-        "Fedramp_Ready_Date": "2018-05-29T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2018-10-22T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Palo Alto Networks, Inc.",
         "Cloud_Service_Provider_Package": "Palo Alto Networks Government Cloud Services",
         "Path": "Agency",
@@ -14096,7 +14014,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Avaya, Inc.",
-        "Cloud_Service_Provider_Package": "Avaya Cloud Secure",
+        "Cloud_Service_Provider_Package": "Avaya OneCloud Private For Government",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "F1506046708",
@@ -14700,6 +14618,143 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "R&K Solutions, Inc",
+        "Cloud_Service_Provider_Package": "GoRPM",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1733061545",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-07-05T04:00:00.000Z",
+        "Original_Expiration_Date": "2022-07-15T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Defense",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+        "Authorizing_Agency": "Department of Defense",
+        "Authorizing_Subagency": "Defense Information Systems Agency",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/RK%20Logo.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "https://rksolutions.com/gorpm",
+        "CSO_Description": "GoRPM empowers organizations to collect, aggregate, analyze, manage and understand their real property, personal property, and facilities investments. GoRPM provides data driven decision making in many areas including asset inventory, strategic movement of assets (Basing), space utilization, condition assessment, sustainability, cost analysis, and budget planning and forecasting. The GoRPM is highly configurable and can be quickly implemented and scaled to meet the needs of government agencies.",
+        "Announcement_Date": "2019-08-06T04:00:00.000Z",
+        "CSP_POC_Name": "Michael Nichols",
+        "CSP_POC_Email": "fedramp@rksolutions.com",
+        "Fedramp_Ready_Date": "2018-05-29T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2018-10-22T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Modus",
+        "Cloud_Service_Provider_Package": "Modus Government Solutions (MGS)",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "FR1915765924",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-07-23T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Modus%20Logo.png",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1206061353",
+          "F1603047866"
+        ],
+        "CSP_Website": "www.discovermodus.com",
+        "CSO_Description": "Discovering data is only the tip of the iceberg. What really matters is the intelligence you gain from the data you retain. Modus provides a full suite of eDiscovery services to help government agencies plan, discover, interpret, manage and leverage raw data into Discovery Intelligence to help optimize their legal enterprise. Modus eDiscovery services span the entire EDRM, providing government agencies with hands-on expertise in all areas vital to their businesses.\n* eDiscovery Reporting\n* Data Collection and Forensics\n* eDiscovery Processing\n* Early Case Assessment\n* Hosting Options\n* eDiscovery Production\nModus is partners with Venio Systems and can offer our clients the VenioOne unified eDiscovery software platform. Venio One offers a powerful and scalable solution providing users the ability to process, analyze, review and produce with increased efficiency.\nVenioOne allows us to bring all phases of eDiscovery—from processing through production—under one platform. We can make the workflow as streamlined and productive as possible while leveraging VenioOne’s complete unified system, user-friendly interface and its fast and powerful data processing engine.\n**Data Governance**\nModus has the resources and technologies to provide a single-source data management service bringing order to data chaos. We know the individual components of data management aren’t used in isolation, so we take a holistic approach to managing your data. Modus solutions keep your data secure, healthy, and agile – exposing reliable data sets that empower you to make intelligent business decisions.\n**Artifical Intelligence (AI) in eDiscovery**\nModus is partnering with the most powerful AI providers in the industry to enable these powerful analytics tools for the eDiscovery environment. Government Agencies interested in this technology can utilize their relationship with Modus to pursue these powerful tools in your eDiscovery objectives.\n**Discovery Production**\nAs electronically stored information has become more diverse and voluminous, the specificity and complexity of production formats has similarly increased. Today, productions may be required in a variety of formats, including native, PDF, and TIFF, with or without intricate load files, extracted text, and other features. Conforming, precisely and consistently, to mandated production specifications is an essential component of eDiscovery success.\nModus’ production services include:\n* Native Production\n* PDF Production\n* TIFF Production\n* Hybrid Production\n* Custom Load File Creation\n* Slipsheet/Placeholder Generation\n* Endorsements and Bates Numbering\n**Data Collection and Forensics**\nThe collection of potentially relevant materials – whether physically or electronically stored – is a critical early step in the eDiscovery process. Successful execution of a collection requires the maintenance of both forensic soundness and the chain of custody from source to production, as well as the tools and experience to collect from today’s ever-multiplying range of sources. Modus’ collection services include: * Evidence Identification\n* Data Harvesting & Forensic Collection\n* Forensic Imaging\n* Live & Targeted Data Acquisitions\n* Preservation\n* Analysis\n**eDiscovery Processing**\nTo facilitate hosted review and production, all collected electronically stored information must be processed. Such materials can come in hundreds of different formats, with different properties, different metadata, and potentially, different nested content. Processing finds and expands nested content, captures and organizes metadata, and extracts and normalizes text for review and production. Modus processing services enable you to use our hosted review platform or your own. We’ve built processing templates for all of the leading ECA and review tools to ensure you get pristine loads and fast, accurate and consistent processing no matter which downstream tools you are using. And, we can quickly customize or build a new template to meet your requirements. Processing Types Including:\n* Native File\n* Full TIFF\n* Email\n* Others\nProcessing Services:\n* Analytical Reporting\n* File Type Analysis\n* De-NISTing\n* Date Filtering\n* File Type/Categorized Filtering/ StellentID\n* Standard and Search-Based Processing\n* Metadata Extraction\n* De-Duplication (Custodial or Global)\n* Near-Duplicate Identification and Handling\n* Email Threading\n* Foreign Language Identification (with Percentages and Rankings)",
+        "Announcement_Date": "2021-07-27T04:00:00.000Z",
+        "CSP_POC_Name": "John Crites",
+        "CSP_POC_Email": "FedRAMP@discovermodus.com",
+        "Fedramp_Ready_Date": "2020-11-10T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2021-04-20T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "CORAS",
+        "Cloud_Service_Provider_Package": "CORAS Federal",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "FR1722160191",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Original_Authorization_Date": "2021-07-23T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CORAS%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "https://www.coras.com/fedramp/ ",
+        "CSO_Description": "CORAS Federal is a multi-tenant cloud offering of the CORAS NODES commercial offering for Federal, State and Local Government customers. CORAS Federal is a SaaS offering with a set of natively integrated Enterprise Decision Management Applications designed to solve the unique requirements of the Federal management and reporting processes. Our application enables federal organizations to make critical decisions rapidly and efficiently by utilizing Natural Language Processing, Artificial Intelligence, and Machine Learning-based decision management applications. CORAS NODES, through its platform and vast data discovery toolset, brings data and users together to collaborate on tasks, perform processes, and report in real-time.\r\n  \r\nCORAS Federal is hosted on AWS GovCloud and utilizes AWS services to ensure both availability and scalability of the SaaS to meet its customers’ demands. CORAS Federal system features align with cloud computing essential characteristics described in the National Institute of Standards and Technology (NIST) Special Publication (SP) 800-145.CORAS is dedicated to the unique needs of the federal government. \r\n  \r\nWe believe in providing off-the-shelf software flexible enough to be configured to meet the specific, information-based decision-making challenges of the federal government. As decision management is migrating away from spreadsheets, presentations, and email messages, it is critical for federal agencies to make fast decisions based on accurate data and transparency throughout the organization.",
+        "Announcement_Date": "2021-07-27T04:00:00.000Z",
+        "CSP_POC_Name": "Dan Naselius",
+        "CSP_POC_Email": "FedRAMP@CORAS.com",
+        "Fedramp_Ready_Date": "2020-11-05T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2021-02-04T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Accenture Federal Services",
+        "Cloud_Service_Provider_Package": "Accenture Insights Platform (AIP) For Government",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "FR1704369518",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Original_Authorization_Date": "2021-07-23T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "https://www.accenture.com/us-en/insight-accenture-insights-platform",
+        "CSO_Description": "The Accenture Insight Platform (AIP), addresses the unique Advanced Analytics needs of U.S. federal agencies, helping them transform Big Data into actionable insight and mission impact faster. This Analytics-as-a-Service brings together best-of-breed software and pre-built accelerators to speed the development and deployment of agency, mission and function specific solutions. AIP meets at the intersection of technology and business-helping Government Agencies become insights-driven organizations. The Accenture Insights Platform is fast, flexible and scalable-ready to transform Agency’s performance in weeks, not years.",
+        "Announcement_Date": "2021-07-27T04:00:00.000Z",
+        "CSP_POC_Name": "Danielle Hillmer",
+        "CSP_POC_Email": "FedRAMP@accenturefederal.com",
+        "Fedramp_Ready_Date": "2017-01-19T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2018-09-20T04:00:00.000Z",
+            "Letter_Expiration_Date": "2021-09-20T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-09-20T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-02-05T05:00:00.000Z",
+            "Letter_Expiration_Date": "2022-02-05T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-02-05T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-06-25T04:00:00.000Z",
+            "Authorizing_Agency": "Universal Service Administrative Company",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAC-logo.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "AchieveIt Online, LLC",
         "Cloud_Service_Provider_Package": "AchieveIt",
         "Path": "Agency",
@@ -15058,29 +15113,6 @@
         "CSP_POC_Name": "Michael Peters",
         "CSP_POC_Email": "FedRAMP@ContinuumGRC.com",
         "FedRAMP_In-Process_Date": "2020-10-08T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "CORAS",
-        "Cloud_Service_Provider_Package": "CORAS Federal",
-        "Path": "JAB",
-        "Designation": "In Process",
-        "Package_ID": "FR1722160191",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "High",
-        "Sponsoring_Agency": "JAB Authorization",
-        "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CORAS%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://www.coras.com/fedramp/ ",
-        "CSO_Description": "CORAS Federal is a multi-tenant cloud offering of the CORAS NODES commercial offering for Federal, State and Local Government customers. CORAS Federal is a SaaS offering with a set of natively integrated Enterprise Decision Management Applications designed to solve the unique requirements of the Federal management and reporting processes. Our application enables federal organizations to make critical decisions rapidly and efficiently by utilizing Natural Language Processing, Artificial Intelligence, and Machine Learning-based decision management applications. CORAS NODES, through its platform and vast data discovery toolset, brings data and users together to collaborate on tasks, perform processes, and report in real-time.\r\n  \r\nCORAS Federal is hosted on AWS GovCloud and utilizes AWS services to ensure both availability and scalability of the SaaS to meet its customers’ demands. CORAS Federal system features align with cloud computing essential characteristics described in the National Institute of Standards and Technology (NIST) Special Publication (SP) 800-145.CORAS is dedicated to the unique needs of the federal government. \r\n  \r\nWe believe in providing off-the-shelf software flexible enough to be configured to meet the specific, information-based decision-making challenges of the federal government. As decision management is migrating away from spreadsheets, presentations, and email messages, it is critical for federal agencies to make fast decisions based on accurate data and transparency throughout the organization.",
-        "CSP_POC_Name": "Dan Naselius",
-        "CSP_POC_Email": "FedRAMP@CORAS.com",
-        "Fedramp_Ready_Date": "2020-11-05T05:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2021-02-04T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -15802,29 +15834,6 @@
         "CSP_POC_Name": "Jon Goodwin",
         "CSP_POC_Email": "fedramp@mimecast.com",
         "Fedramp_Ready_Date": "2020-09-04T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Modus",
-        "Cloud_Service_Provider_Package": "Modus Government Solutions (MGS)",
-        "Path": "JAB",
-        "Designation": "In Process",
-        "Package_ID": "FR1915765924",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "JAB Authorization",
-        "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Modus%20Logo.png",
-        "Independent_Assessor": "Lunarline, Inc.",
-        "CSP_Website": "www.discovermodus.com",
-        "CSO_Description": "Discovering data is only the tip of the iceberg. What really matters is the intelligence you gain from the data you retain. Modus provides a full suite of eDiscovery services to help government agencies plan, discover, interpret, manage and leverage raw data into Discovery Intelligence to help optimize their legal enterprise. Modus eDiscovery services span the entire EDRM, providing government agencies with hands-on expertise in all areas vital to their businesses.\n* eDiscovery Reporting\n* Data Collection and Forensics\n* eDiscovery Processing\n* Early Case Assessment\n* Hosting Options\n* eDiscovery Production\nModus is partners with Venio Systems and can offer our clients the VenioOne unified eDiscovery software platform. Venio One offers a powerful and scalable solution providing users the ability to process, analyze, review and produce with increased efficiency.\nVenioOne allows us to bring all phases of eDiscovery—from processing through production—under one platform. We can make the workflow as streamlined and productive as possible while leveraging VenioOne’s complete unified system, user-friendly interface and its fast and powerful data processing engine.\n**Data Governance**\nModus has the resources and technologies to provide a single-source data management service bringing order to data chaos. We know the individual components of data management aren’t used in isolation, so we take a holistic approach to managing your data. Modus solutions keep your data secure, healthy, and agile – exposing reliable data sets that empower you to make intelligent business decisions.\n**Artifical Intelligence (AI) in eDiscovery**\nModus is partnering with the most powerful AI providers in the industry to enable these powerful analytics tools for the eDiscovery environment. Government Agencies interested in this technology can utilize their relationship with Modus to pursue these powerful tools in your eDiscovery objectives.\n**Discovery Production**\nAs electronically stored information has become more diverse and voluminous, the specificity and complexity of production formats has similarly increased. Today, productions may be required in a variety of formats, including native, PDF, and TIFF, with or without intricate load files, extracted text, and other features. Conforming, precisely and consistently, to mandated production specifications is an essential component of eDiscovery success.\nModus’ production services include:\n* Native Production\n* PDF Production\n* TIFF Production\n* Hybrid Production\n* Custom Load File Creation\n* Slipsheet/Placeholder Generation\n* Endorsements and Bates Numbering\n**Data Collection and Forensics**\nThe collection of potentially relevant materials – whether physically or electronically stored – is a critical early step in the eDiscovery process. Successful execution of a collection requires the maintenance of both forensic soundness and the chain of custody from source to production, as well as the tools and experience to collect from today’s ever-multiplying range of sources. Modus’ collection services include: * Evidence Identification\n* Data Harvesting & Forensic Collection\n* Forensic Imaging\n* Live & Targeted Data Acquisitions\n* Preservation\n* Analysis\n**eDiscovery Processing**\nTo facilitate hosted review and production, all collected electronically stored information must be processed. Such materials can come in hundreds of different formats, with different properties, different metadata, and potentially, different nested content. Processing finds and expands nested content, captures and organizes metadata, and extracts and normalizes text for review and production. Modus processing services enable you to use our hosted review platform or your own. We’ve built processing templates for all of the leading ECA and review tools to ensure you get pristine loads and fast, accurate and consistent processing no matter which downstream tools you are using. And, we can quickly customize or build a new template to meet your requirements. Processing Types Including:\n* Native File\n* Full TIFF\n* Email\n* Others\nProcessing Services:\n* Analytical Reporting\n* File Type Analysis\n* De-NISTing\n* Date Filtering\n* File Type/Categorized Filtering/ StellentID\n* Standard and Search-Based Processing\n* Metadata Extraction\n* De-Duplication (Custodial or Global)\n* Near-Duplicate Identification and Handling\n* Email Threading\n* Foreign Language Identification (with Percentages and Rankings)",
-        "CSP_POC_Name": "John Crites",
-        "CSP_POC_Email": "FedRAMP@discovermodus.com",
-        "Fedramp_Ready_Date": "2020-11-10T05:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2021-04-20T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
