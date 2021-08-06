@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-08-05T04:40:50.269Z",
+    "Created_At": "2021-08-06T04:40:51.004Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -864,7 +864,7 @@
         "CSO_Description": "The MicroPact Product Suite, which includes icomplaints® and entellitrak®, is delivered via a Platform as a Service (PaaS) model to U.S. federal, state and local government customers. MicroPact’s icomplaints is the leading standard for federal EEO case management and is used by most major federal agencies. MicroPact’s entellitrak, which takes a Data-First™ approach to dynamic case management and Business Process Management (BPM), is available with fully integrated Document Management, Natural Language Analytics, and Mobile Modules. Whether based on-premises or in the cloud, entellitrak can be implemented immediately and configured continuously, enabling customers to get to work quickly while keeping costs low.\nMicroPact is unique as a developer of commercial off-the-shelf (COTS) case management and BPM software in that 97 percent of all federal agencies with more than 500 employees currently use one or more solution from the MicroPact Product Suite.",
         "Announcement_Date": "2014-06-06T04:00:00.000Z",
         "CSP_POC_Name": "N/A",
-        "CSP_POC_Email": "N/A",
+        "CSP_POC_Email": "FD-infosec@tylertech.com",
         "Fedramp_Ready_Date": "2014-05-20T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2013-12-04T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
@@ -3896,17 +3896,18 @@
         "FedRAMP_In-Process_Date": "2017-12-19T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Expiration_Date": "2021-08-02T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-06-07T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Centers for Disease Control and Prevention",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-06-27T04:00:00.000Z",
             "Authorizing_Agency": "Tennessee Valley Authority",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-TennesseeValleyAuthority-Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-05-31T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-05-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-05-31T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Centers for Disease Control and Prevention",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -4605,6 +4606,14 @@
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "Centers for Disease Control and Prevention",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-05-18T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-05-11T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-06-01T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -10741,7 +10750,7 @@
         "CSP_Website": "usa.canon.com",
         "CSO_Description": "The Canon Office Cloud will provide Federal Government customers with secure managed print services.",
         "Announcement_Date": "2020-09-04T04:00:00.000Z",
-        "CSP_POC_Name": "Jack Winters",
+        "CSP_POC_Name": "Jennifer Schult",
         "CSP_POC_Email": "fedramp@cusa.canon.com",
         "FedRAMP_In-Process_Date": "2019-06-25T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
@@ -15212,6 +15221,25 @@
         "CSP_POC_Name": "Christopher Grady",
         "CSP_POC_Email": "fedramp@cylogic.com",
         "Fedramp_Ready_Date": "2020-12-16T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Cyxtera Federal Group, Inc.",
+        "Cloud_Service_Provider_Package": "CXD Federal Edition (CXD)",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2010339248",
+        "Service_Model": [
+          "IaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Cyxtera%20Logo.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "www.cyxtera.com",
+        "CSO_Description": "The CXD Federal Edition IaaS is a software-defined architecture that combines software-defined network fabric and an on-demand service provisioning system to provide customers the capability to procure and consume data center services.",
+        "CSP_POC_Name": "Russell Cozart",
+        "CSP_POC_Email": "FedRAMP@cyxtera.com",
+        "Fedramp_Ready_Date": "2021-08-05T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
