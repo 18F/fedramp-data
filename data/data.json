@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-08-09T04:40:50.654Z",
+    "Created_At": "2021-08-10T04:40:50.496Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -360,6 +360,14 @@
             "Authorizing_Agency": "Department of Homeland Security",
             "Authorizing_Subagency": "Immigration and Customs Enforcement",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-04-24T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-04-24T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-04-29T04:00:00.000Z",
+            "Authorizing_Agency": "United States Agency for Global Media",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAGM%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -2638,14 +2646,6 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-09-25T04:00:00.000Z",
             "Authorizing_Agency": "Department of Labor",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2021-06-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-06-30T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Transportation",
-            "Authorizing_Subagency": "Federal Highway Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -5436,15 +5436,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-07-20T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-08-07T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-08-06T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "United States Patent and Trademark Office",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2023-08-21T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-08-21T04:00:00.000Z",
             "Authorizing_Agency": "Department of Agriculture",
@@ -5516,6 +5507,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-07-23T04:00:00.000Z",
             "Authorizing_Agency": "U.S. Office of Special Counsel",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/OSC%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-07-22T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-08-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-07-29T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "United States Patent and Trademark Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -6381,7 +6381,7 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Dell Boomi",
+        "Cloud_Service_Provider_Name": "Boomi",
         "Cloud_Service_Provider_Package": "AtomSphere",
         "Path": "Agency",
         "Designation": "Compliant",
@@ -6405,7 +6405,7 @@
           "FR1823447014"
         ],
         "CSP_Website": "www.boomi.com",
-        "CSO_Description": "Dell Boomi AtomSphere is a cloud-native integration Platform-as-a-Service (iPaaS) technology that lets you connect everyone to everything. As a SaaS – based technology it is faster, easier to use, less costly, and more flexible than legacy integration tools and techniques. As a pioneer and leader in Gartner’s Enterprise iPaaS Magic Quadrant for 7 years in a row, the Boomi SaaS AtomSphere Platform has been solving the needs of our government customers with end-to-end capabilities by integrating applications, systems, and connecting people. Dell Boomi delivers in three key areas for our Customers:\n\n**Modernization and Digital Transformation**\n\nBoomi is a key part of any modern IT foundation and enables the transformation of operations, ensuring proper connectivity and smooth data exchange when applications and infrastructure are migrated and consolidated\n\n**Accelerating Cloud Smart Adoption**\n\nSpeeding up cloud adoption to boost operational efficiency and implement shared services to foster collaboration and increase engagement\n\n**Improving Constituents’ Experience**\n\nBringing together workforce processes and workflows from across organizations for a streamlined approach to customer experience and serve employees, partners, contractors, and citizens better.\n\nCovered by our FedRAMP Authorization are the following Cloud Products:\n\n**Integration**\n\nOvercome IT complexity and break down data silos by integrating on-premises and cloud application, various data sources and devices with Boomi Integration. Create a fabric of connectivity to unlock productivity and thrive within your digital technology foundation. Boomi Integration Accelerates time to value leveraging a drag and drop UI, data mapping tools, and a comprehensive library of connectors, coupled with support for various integration patterns enable you to build any integrations with exceptional speed.\n\n**Master Data Hub (MDH)**\n\nBoomi Master Data Hub is a cloud-native master data management (MDM) solution that sits at the center of the various data silos within your business – including your existing MDM solution, to provide you an easy to implement, scalable, flexible, and secure master data management hub as a service.\n\n**API Management (APIM)**\n\nBoomi API Management supports the full lifecycle of APIs in a hybrid environment. Configure APIs and expose real-time integrations effortlessly. Centrally test and deploy APIs and enforce contracts and policies with an API gateway. Monitor the health of APIs with usage dashboards and engage API developers using the catalog and developer portal.\n\n**B2B/EDI Management**\n\nEffectively integrate with your vendors, suppliers, distributors, partners, and marketplaces to simplify processes and trade smarter. Built-in support for a wide variety of traditional and modern EDI standards including XML, X12, EDIFACT, HC7, RosettaNet, Tradacoms, as well as the ability to define custom standards.\n\nAdditionally, our DCP Product sits fully On-Prem.\n\n**Data Catalog and Prep (DCP)**\n\nDCP is an on premise solution that allows agencies to find known, unknown, dormant and underutilized data across your agencies applications and data stores. DCP enables agencies to bring together data across systems, applications and people to build a resource of trusted, complete, and current business intelligence. Once you data is known, DCP ensures that all of your data is catalog and available for you various applications and BI/analytic tools.",
+        "CSO_Description": "Boomi AtomSphere is a cloud-native integration Platform-as-a-Service (iPaaS) technology that lets you connect everyone to everything. As a SaaS – based technology it is faster, easier to use, less costly, and more flexible than legacy integration tools and techniques. As a pioneer and leader in Gartner’s Enterprise iPaaS Magic Quadrant for 7 years in a row, the Boomi SaaS AtomSphere Platform has been solving the needs of our government customers with end-to-end capabilities by integrating applications, systems, and connecting people. Boomi delivers in three key areas for our Customers:\n\n**Modernization and Digital Transformation**\n\nBoomi is a key part of any modern IT foundation and enables the transformation of operations, ensuring proper connectivity and smooth data exchange when applications and infrastructure are migrated and consolidated\n\n**Accelerating Cloud Smart Adoption**\n\nSpeeding up cloud adoption to boost operational efficiency and implement shared services to foster collaboration and increase engagement\n\n**Improving Constituents’ Experience**\n\nBringing together workforce processes and workflows from across organizations for a streamlined approach to customer experience and serve employees, partners, contractors, and citizens better.\n\nCovered by our FedRAMP Authorization are the following Cloud Products:\n\n**Integration**\n\nOvercome IT complexity and break down data silos by integrating on-premises and cloud application, various data sources and devices with Boomi Integration. Create a fabric of connectivity to unlock productivity and thrive within your digital technology foundation. Boomi Integration Accelerates time to value leveraging a drag and drop UI, data mapping tools, and a comprehensive library of connectors, coupled with support for various integration patterns enable you to build any integrations with exceptional speed.\n\n**Master Data Hub (MDH)**\n\nBoomi Master Data Hub is a cloud-native master data management (MDM) solution that sits at the center of the various data silos within your business – including your existing MDM solution, to provide you an easy to implement, scalable, flexible, and secure master data management hub as a service.\n\n**API Management (APIM)**\n\nBoomi API Management supports the full lifecycle of APIs in a hybrid environment. Configure APIs and expose real-time integrations effortlessly. Centrally test and deploy APIs and enforce contracts and policies with an API gateway. Monitor the health of APIs with usage dashboards and engage API developers using the catalog and developer portal.\n\n**B2B/EDI Management**\n\nEffectively integrate with your vendors, suppliers, distributors, partners, and marketplaces to simplify processes and trade smarter. Built-in support for a wide variety of traditional and modern EDI standards including XML, X12, EDIFACT, HC7, RosettaNet, Tradacoms, as well as the ability to define custom standards.\n\nAdditionally, our DCP Product sits fully On-Prem.\n\n**Data Catalog and Prep (DCP)**\n\nDCP is an on premise solution that allows agencies to find known, unknown, dormant and underutilized data across your agencies applications and data stores. DCP enables agencies to bring together data across systems, applications and people to build a resource of trusted, complete, and current business intelligence. Once you data is known, DCP ensures that all of your data is catalog and available for you various applications and BI/analytic tools.",
         "Announcement_Date": "2019-08-12T04:00:00.000Z",
         "CSP_POC_Name": "Mario Tarin",
         "CSP_POC_Email": "Boomi_sales_fed@dell.com",
@@ -8744,14 +8744,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2021-08-08T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-08-08T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "Customs and Border Protection",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2017-10-17T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-01-17T05:00:00.000Z",
             "Authorizing_Agency": "Department of Education",
@@ -8947,6 +8939,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-07-23T04:00:00.000Z",
             "Authorizing_Agency": "U.S. Office of Special Counsel",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/OSC%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-07-14T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-08-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-08-07T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Customs and Border Protection",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -10312,7 +10313,15 @@
         "CSP_POC_Name": "Dynatrace FedRAMP Team",
         "CSP_POC_Email": "FedRAMPinfo@dynatrace.com",
         "FedRAMP_In-Process_Date": "2020-04-02T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Expiration_Date": "2024-07-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-07-30T04:00:00.000Z",
+            "Authorizing_Agency": "Social Security Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Decision Lens Inc.",
@@ -11528,7 +11537,7 @@
           "F1603047866",
           "F1512167750"
         ],
-        "CSP_Website": "https://alienvault.com/",
+        "CSP_Website": "https://cybersecurity.att.com",
         "CSO_Description": "USM Anywhere uses purpose-built cloud sensors to monitor your Amazon Web Services and Microsoft Azure Cloud environments, and VMware and Hyper-V virtual sensors to monitor your virtual and physical on-premises infrastructure. Security-related data is collected and sent to the AlienVault Cloud for security analysis, threat correlation, and secure, compliance-ready data storage. Centralized security monitoring in USM Anywhere gives you powerful threat detection capabilities across your cloud and on-premises landscape, helping to eliminate your security blind spots and regain control over shadow IT. Even as you migrate workloads and services from your data center to the cloud, you have the assurance of continuous security visibility.",
         "Announcement_Date": "2021-05-12T04:00:00.000Z",
         "CSP_POC_Name": "Ambra Bourne-Dumas",
@@ -11828,14 +11837,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2021-07-27T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-07-27T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "Transportation Security Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-01-04T05:00:00.000Z",
             "Authorizing_Agency": "Department of Justice",
             "Authorizing_Subagency": "Federal Bureau of Investigation",
@@ -12094,6 +12095,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-06-25T04:00:00.000Z",
             "Authorizing_Agency": "Department of Education",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-01-31T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-07-31T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Transportation Security Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -13735,23 +13744,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2021-07-23T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-07-23T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Technical Information Service",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-07-20T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-08-07T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-08-06T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "United States Patent and Trademark Office",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-08-26T04:00:00.000Z",
             "Letter_Expiration_Date": "2021-08-27T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-08-27T04:00:00.000Z",
@@ -13889,6 +13881,23 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-07-23T04:00:00.000Z",
             "Authorizing_Agency": "U.S. Office of Special Counsel",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/OSC%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2022-07-23T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-07-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Technical Information Service",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-07-22T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-08-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-07-29T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "United States Patent and Trademark Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -14810,7 +14819,7 @@
         "Cloud_Service_Provider_Name": "Acuant, Inc.",
         "Cloud_Service_Provider_Package": "Connect, Ozone, & Facial Recognition System (COFRS)",
         "Path": "JAB",
-        "Designation": "FedRAMP Ready",
+        "Designation": "In Process",
         "Package_ID": "FR2104942200",
         "Service_Model": [
           "SaaS"
@@ -14826,6 +14835,7 @@
         "CSP_POC_Name": "Paul Townsend",
         "CSP_POC_Email": "fedramp@acuant.com",
         "Fedramp_Ready_Date": "2020-11-30T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2021-08-09T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
