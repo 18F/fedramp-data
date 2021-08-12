@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-08-11T04:40:50.538Z",
+    "Created_At": "2021-08-12T04:40:50.353Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -5607,42 +5607,6 @@
             "Authorizing_Agency": "Department of Homeland Security",
             "Authorizing_Subagency": "Customs and Border Protection",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Accenture Federal Services",
-        "Cloud_Service_Provider_Package": "Accenture Federal Cloud ERP",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1404043549",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2019-06-12T04:00:00.000Z",
-        "Sponsoring_Agency": "National Science Foundation",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
-        "Authorizing_Agency": "National Science Foundation",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Accenture%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1510137547"
-        ],
-        "CSP_Website": "https://www.accenture.com/us-en/afs-industry-index.aspx",
-        "CSO_Description": "Accenture Federal Cloud ERP is a secure cloud offering delivering virtualized back-office ERP solutions, covering Financial Management, Property/Asset Management, HR and Payroll, to US federal customers. Accenture leverages Oracle applications (E-Business Suite, PeopleSoft, OBIEE, Hyperion) and other COTS applications (Sunflower), cloud technology and assets from 20+ years of experience to help customers to meet their unique mission requirements.",
-        "Announcement_Date": "2016-06-24T04:00:00.000Z",
-        "CSP_POC_Name": "Faisal Mian",
-        "CSP_POC_Email": "FedRAMP@accenturefederal.com",
-        "FedRAMP_In-Process_Date": "2016-03-21T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2017-01-12T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Authorizing_Subagency": "Federal Energy Regulatory Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -11679,6 +11643,13 @@
             "Authorizing_Subagency": "Defense Human Resource Activity",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-08-11T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-08-11T04:00:00.000Z",
+            "Authorizing_Agency": "National Science Foundation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -14216,6 +14187,13 @@
             "Include_In_Marketplace": "Y"
           },
           {
+            "Letter_Date": "2020-08-24T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-08-24T04:00:00.000Z",
+            "Authorizing_Agency": "United States Securities and Exchange Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/SEC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
             "Letter_Date": "2021-04-23T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-04-23T04:00:00.000Z",
             "Authorizing_Agency": "Federal Deposit Insurance Corporation",
@@ -14705,6 +14683,13 @@
             "Authorizing_Agency": "Universal Service Administrative Company",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAC-logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-08-11T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-08-11T04:00:00.000Z",
+            "Authorizing_Agency": "National Science Foundation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -14811,6 +14796,44 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-04-07T04:00:00.000Z",
             "Authorizing_Agency": "Council of the Inspectors General on Integrity and Efficiency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CIGIE%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Accenture Federal Services",
+        "Cloud_Service_Provider_Package": "Accenture Federal Cloud ERP",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1404043549",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-08-11T04:00:00.000Z",
+        "Sponsoring_Agency": "National Science Foundation",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
+        "Authorizing_Agency": "National Science Foundation",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Accenture%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "FR1704369518",
+          "F1510137547",
+          "FR1900048743"
+        ],
+        "CSP_Website": "https://www.accenture.com/us-en/afs-industry-index.aspx",
+        "CSO_Description": "Accenture Federal Cloud ERP is a secure cloud offering delivering virtualized back-office ERP solutions, covering Financial Management, Property/Asset Management, HR and Payroll, to US federal customers. Accenture leverages Oracle applications (E-Business Suite, PeopleSoft, OBIEE, Hyperion) and other COTS applications (Sunflower), cloud technology and assets from 20+ years of experience to help customers to meet their unique mission requirements.",
+        "Announcement_Date": "2016-06-24T04:00:00.000Z",
+        "CSP_POC_Name": "Faisal Mian",
+        "CSP_POC_Email": "FedRAMP@accenturefederal.com",
+        "FedRAMP_In-Process_Date": "2016-03-21T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2017-01-12T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "Federal Energy Regulatory Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -15518,6 +15541,30 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "iboss",
+        "Cloud_Service_Provider_Package": "iboss Government Cloud Platform (IGCP)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2122038682",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Commerce",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+        "Authorizing_Agency": "Department of Commerce",
+        "Authorizing_Subagency": "International Trade Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/iboss%20Logo.png",
+        "Independent_Assessor": "NCC Group Security Services, Inc.",
+        "CSP_Website": "www.iboss.com",
+        "CSO_Description": "With over 4,000 customers, including the largest government, financial, insurance, energy and technology organizations, iboss provides users direct and secure access to cloud applications from wherever they work. iboss transitions organizations from protecting in-office workers to protecting the modern work-from-anywhere workforce while providing fast, secure and direct connections to cloud applications to increase productivity and  protect organizations from malware and data loss. A Gartner Magic Quadrant “Visionary”, and backed by 230+ issued and pending patents, iboss processes and secures over 150 billion daily network transactions globally and has built the largest containerized cloud security fabric. The iboss Government Cloud Platform enables agencies to modernize their architecture, by reducing the dependency or eliminating the need for traditional network security appliances that are no longer effective at protecting today’s hybrid workforce. Jump-start your SASE transformation and experience the future of cloud security today",
+        "CSP_POC_Name": "Heath Crocker",
+        "CSP_POC_Email": "fedramp@ibossgov.com",
+        "FedRAMP_In-Process_Date": "2021-08-10T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Icertis Inc.",
         "Cloud_Service_Provider_Package": "Icertis Contract Management (ICM) for Government",
         "Designation": "FedRAMP Ready",
@@ -16027,25 +16074,6 @@
         "CSP_POC_Name": "Kathy Sciubba",
         "CSP_POC_Email": "fedramp@nuance.com",
         "FedRAMP_In-Process_Date": "2021-01-27T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Okta",
-        "Cloud_Service_Provider_Package": "Okta IDaaS FedCloud",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR2029348431",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Okta%20Logo.png",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "CSP_Website": "www.okta.com",
-        "CSO_Description": "Okta is the foundation for secure connections between people and technology. Okta’s products manage identity and access for millions of people on millions of devices. By harnessing the power of the cloud, Okta allows people to access applications on any device at any time, while still enforcing strong security policies. It integrates directly with an organization’s existing directories and identity systems, as well as 4,000+ applications. Okta offers products in two lines: for IT and developers. Okta’s IT products are geared toward IT and security leaders and are designed to simplify the way people connect to enterprise technology, while increasing efficiency and keeping IT environments secure. Okta’s IT products include Universal Directory, Single Sign-On, Provisioning, Adaptive Multi-factor Authentication and Mobility Management. Okta’s developer and platform products allow product teams to layer Okta’s powerful identity services into their applications and portals. Okta’s Platform makes it easy for customers to authentication, manage and secure their users. Okta’s Platform products include Universal Directory, Single Sign-On, Provisioning, Adaptive Multi-factor Authentication, Social Authentication, Inbound Federation, and AD and LDAP Integration.",
-        "CSP_POC_Name": "Shawn Maxim",
-        "CSP_POC_Email": "fedramp@okta.com",
-        "Fedramp_Ready_Date": "2020-08-11T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
