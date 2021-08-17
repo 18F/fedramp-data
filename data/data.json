@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-08-16T04:40:50.978Z",
+    "Created_At": "2021-08-17T04:40:50.954Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1475,6 +1475,14 @@
             "Authorizing_Agency": "Department of Justice",
             "Authorizing_Subagency": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-03-04T05:00:00.000Z",
+            "Letter_Expiration_Date": "2024-04-15T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-04-15T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -4249,37 +4257,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "REAN Cloud Inc.",
-        "Cloud_Service_Provider_Package": "American Heart Association Precision Medicine Platform (AHA-PMP)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1726637760",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Low",
-        "Original_Authorization_Date": "2018-07-23T04:00:00.000Z",
-        "Original_Expiration_Date": "2021-07-23T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "Authorizing_Subagency": "National Institutes of Health",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/REAN%20PMP%20Logo.png",
-        "Independent_Assessor": "NCC Group Security Services, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW",
-          "F1206081364"
-        ],
-        "CSP_Website": "https://precision.heart.org",
-        "CSO_Description": "The AHA Precision Medicine Platform is a cloud-based data resource that revolutionizes how the research community accelerates solutions for cardiovascular diseases. It provides unprecedented, open access to cardiovascular data sets, cutting-edge tools and forums for collaboration. Researchers can search, filter and unlock the data that matters most to their work - allowing them to find new solution for big health improvements faster than ever before. The Precision Medicine Platform is powered by Amazon Web Services and is a strategic initiative of the American Heart Association's Institute for Precision Cardiovascular Medicine.",
-        "Announcement_Date": "2019-07-23T04:00:00.000Z",
-        "CSP_POC_Name": "Joseph Schneider",
-        "CSP_POC_Email": "complianceadvisoryservices@hitachivantara.com",
-        "FedRAMP_In-Process_Date": "2017-06-15T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "XTec, Incorporated",
         "Cloud_Service_Provider_Package": "AuthentX Cloud",
         "Path": "Agency",
@@ -6560,15 +6537,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2018-07-23T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-07-23T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-07-23T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2018-04-05T04:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
@@ -6866,6 +6834,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-08-02T04:00:00.000Z",
             "Authorizing_Agency": "United States Agency for International Development",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2024-07-16T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-07-16T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -12073,6 +12049,13 @@
             "Authorizing_Subagency": "Transportation Security Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2024-05-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-05-07T04:00:00.000Z",
+            "Authorizing_Agency": "Office of Personnel Management",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -14837,6 +14820,66 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Nuance",
+        "Cloud_Service_Provider_Package": "Dragon Medical One",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2102036897",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-05-06T04:00:00.000Z",
+        "Original_Expiration_Date": "2024-05-05T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Nuance%20Logo.png",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1403283529"
+        ],
+        "CSP_Website": "www.nuance.com",
+        "CSO_Description": "Nuance Dragon Medical One (NU-DMO, aka DMO) is a Cloud based speech recognition solution that provides a consistent and personalized clinical documentation experience across solutions, platforms, and devices regardless of physical location.  It allows Government agency users, including clinicians, to use their voice to securely capture required narrative text more naturally and efficiently – anywhere, anytime. Designed for speed, accuracy, and flexibility, DMO supports FedRAMP and HIPAA requirements for patient security and confidentiality by employing secure encryption methods throughout the workflow.  DMO runs on geographically dispersed, active active data centers hosted on the Project Hosts’ Federal Private Cloud which is in turn deployed on Microsoft Azure Government.",
+        "Announcement_Date": "2021-08-16T04:00:00.000Z",
+        "CSP_POC_Name": "Kathy Sciubba",
+        "CSP_POC_Email": "fedramp@nuance.com",
+        "FedRAMP_In-Process_Date": "2021-01-27T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "REAN Cloud Inc.",
+        "Cloud_Service_Provider_Package": "American Heart Association Precision Medicine Platform (AHA-PMP)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1726637760",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Low",
+        "Original_Authorization_Date": "2021-08-16T04:00:00.000Z",
+        "Original_Expiration_Date": "2024-08-16T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "National Institutes of Health",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/REAN%20PMP%20Logo.png",
+        "Independent_Assessor": "NCC Group Security Services, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1206081364"
+        ],
+        "CSP_Website": "https://precision.heart.org",
+        "CSO_Description": "The AHA Precision Medicine Platform is a cloud-based data resource that revolutionizes how the research community accelerates solutions for cardiovascular diseases. It provides unprecedented, open access to cardiovascular data sets, cutting-edge tools and forums for collaboration. Researchers can search, filter and unlock the data that matters most to their work - allowing them to find new solution for big health improvements faster than ever before. The Precision Medicine Platform is powered by Amazon Web Services and is a strategic initiative of the American Heart Association's Institute for Precision Cardiovascular Medicine.",
+        "Announcement_Date": "2019-07-23T04:00:00.000Z",
+        "CSP_POC_Name": "Joseph Schneider",
+        "CSP_POC_Email": "complianceadvisoryservices@hitachivantara.com",
+        "FedRAMP_In-Process_Date": "2017-06-15T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Acuant, Inc.",
         "Cloud_Service_Provider_Package": "Connect, Ozone, & Facial Recognition System (COFRS)",
         "Path": "JAB",
@@ -16052,29 +16095,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Nuance",
-        "Cloud_Service_Provider_Package": "Dragon Medical One",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2102036897",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Veterans Affairs",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-        "Authorizing_Agency": "Department of Veterans Affairs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Nuance%20Logo.png",
-        "Independent_Assessor": "Lunarline, Inc.",
-        "CSP_Website": "www.nuance.com",
-        "CSO_Description": "Nuance Dragon Medical One (NU-DMO, aka DMO) is a Cloud based speech recognition solution that provides a consistent and personalized clinical documentation experience across solutions, platforms, and devices regardless of physical location.  It allows Government agency users, including clinicians, to use their voice to securely capture required narrative text more naturally and efficiently – anywhere, anytime. Designed for speed, accuracy, and flexibility, DMO supports FedRAMP and HIPAA requirements for patient security and confidentiality by employing secure encryption methods throughout the workflow.  DMO runs on geographically dispersed, active active data centers hosted on the Project Hosts’ Federal Private Cloud which is in turn deployed on Microsoft Azure Government.",
-        "CSP_POC_Name": "Kathy Sciubba",
-        "CSP_POC_Email": "fedramp@nuance.com",
-        "FedRAMP_In-Process_Date": "2021-01-27T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "OnSolve LLC",
         "Cloud_Service_Provider_Package": "OnSolve Platform for Critical Event Management",
         "Path": "Agency",
@@ -16343,6 +16363,30 @@
         "CSP_POC_Email": "SAS_FedRAMP_PaaS@sas.com",
         "Fedramp_Ready_Date": "2021-03-17T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2021-03-04T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Seven Bridges Genomics, Inc",
+        "Cloud_Service_Provider_Package": "Seven Bridges Platform",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2033152148",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "National Heart, Lung, and Blood Institute",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/SB%20Logo.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "www.sevenbridges.com",
+        "CSO_Description": "The Seven Bridges Platform is a cloud-based environment for conducting bioinformatic analyses. It is a central hub for teams to store, analyze, and jointly interpret their bioinformatic data. The Platform co-locates analysis pipelines alongside the largest genomic datasets to optimize processing. It allocates storage and compute resources on demand, to meet the needs of ever-growing analyses.",
+        "CSP_POC_Name": "Drazen Doutlik",
+        "CSP_POC_Email": "compliance@sevenbridges.com",
+        "FedRAMP_In-Process_Date": "2021-08-12T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
