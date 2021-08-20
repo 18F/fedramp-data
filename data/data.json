@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-08-19T04:40:50.348Z",
+    "Created_At": "2021-08-20T04:40:50.984Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -7643,7 +7643,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Collibra",
-        "Cloud_Service_Provider_Package": "Data Governance Center",
+        "Cloud_Service_Provider_Package": "Collibra Data Intelligence Cloud (CDIC)",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "FR1706403967",
@@ -7664,7 +7664,7 @@
           "F1508207205"
         ],
         "CSP_Website": "www.collibra.com",
-        "CSO_Description": "Collibra makes it easy for data citizens to find, understand and trust the organizational data they need to make business decisions every day. Unlike traditional data governance solutions, Collibra is a cross-organizational platform that breaks down the traditional data silos, freeing the data so all users have access.",
+        "CSO_Description": "The Collibra Data Intelligence Cloud is your system of record for data. It delivers the only end-to-end, integrated Data Intelligence platform that is purpose-built to automate data workflows and deliver trusted data insights to users. Collibra connects IT and the business by removing the fragmentation and complexity of traditional data management technologies. The Collibra Data Intelligence Cloud enables Data Citizens to easily access trustworthy data, automate processes, manage compliance and, ultimately, make their data meaningful.",
         "Announcement_Date": "2019-11-27T05:00:00.000Z",
         "CSP_POC_Name": "Collibra FedRAMP Team",
         "CSP_POC_Email": "fedramp@collibra.com",
@@ -9385,32 +9385,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "PTC",
-        "Cloud_Service_Provider_Package": "PTC Cloud Services",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1608097919",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2020-04-22T04:00:00.000Z",
-        "Original_Expiration_Date": "2021-04-22T04:00:00.000Z",
-        "Sponsoring_Agency": "National Aeronautics and Space Administration",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NASA_logo.png",
-        "Authorizing_Agency": "National Aeronautics and Space Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/PTC%20Logo.png",
-        "Independent_Assessor": "Kratos",
-        "CSP_Website": "www.ptc.com/services/cloud",
-        "CSO_Description": "PTC Cloud Services offers a SaaS solution that provides PLM (Product Lifecycle Management), SLM (Service Lifecycle Management), and IoT (Internet of Things) tools.\nThe PTC SaaS solution provides a comprehensive suite of applications which allow its users to create and collaborate in a secure and reliable manner; sharing product development, operation, manufacturing, service and support information.\nPTC Cloud Services enables you to focus on your mission while we rapidly deploy, manage and optimize your PTC solutions by providing PTC software expertise with a full breadth of coverage including application administration and platform management in a secure infrastructure.",
-        "Announcement_Date": "2017-12-01T05:00:00.000Z",
-        "CSP_POC_Name": "Joe Iannacone",
-        "CSP_POC_Email": "CS-Security@ptc.com",
-        "FedRAMP_In-Process_Date": "2016-09-12T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "DocuSign",
         "Cloud_Service_Provider_Package": "DocuSign CLM (formerly SpringCM)",
         "Path": "Agency",
@@ -9765,6 +9739,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-07-27T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Treasury",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2021-07-08T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "National Nuclear Security Administration / Lawrence Livermore National Laboratory",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -14876,6 +14857,32 @@
         "CSP_POC_Name": "Joseph Schneider",
         "CSP_POC_Email": "complianceadvisoryservices@hitachivantara.com",
         "FedRAMP_In-Process_Date": "2017-06-15T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "PTC",
+        "Cloud_Service_Provider_Package": "PTC Cloud Services",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1608097919",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-07-20T04:00:00.000Z",
+        "Original_Expiration_Date": "2022-07-20T04:00:00.000Z",
+        "Sponsoring_Agency": "National Aeronautics and Space Administration",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NASA_logo.png",
+        "Authorizing_Agency": "National Aeronautics and Space Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/PTC%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "CSP_Website": "www.ptc.com/services/cloud",
+        "CSO_Description": "PTC Cloud Services offers a SaaS solution that provides PLM (Product Lifecycle Management), SLM (Service Lifecycle Management), and IoT (Internet of Things) tools.\nThe PTC SaaS solution provides a comprehensive suite of applications which allow its users to create and collaborate in a secure and reliable manner; sharing product development, operation, manufacturing, service and support information.\nPTC Cloud Services enables you to focus on your mission while we rapidly deploy, manage and optimize your PTC solutions by providing PTC software expertise with a full breadth of coverage including application administration and platform management in a secure infrastructure.",
+        "Announcement_Date": "2017-12-01T05:00:00.000Z",
+        "CSP_POC_Name": "Joe Iannacone",
+        "CSP_POC_Email": "CS-Security@ptc.com",
+        "FedRAMP_In-Process_Date": "2016-09-12T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
