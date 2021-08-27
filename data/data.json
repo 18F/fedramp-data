@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-08-26T04:40:50.425Z",
+    "Created_At": "2021-08-27T04:40:50.521Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -8108,7 +8108,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Google%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "https://cloud.google.com",
-        "CSO_Description": "Google Services is comprised of Google’s multi-tenant public cloud Google Cloud Platform and built atop the Google Common Infrastructure. The Google Common Infrastructure powers Google worldwide.\n\n\nThe in-scope Google Cloud Platform services Authorized at High are: Admin Console, App Engine, BigQuery, Cloud Bigtable, Cloud DNS, Cloud HSM, Cloud Identity, Cloud Key Management Service, Cloud Spanner, Cloud SQL, Cloud Storage, Compute Engine, Container Registry, Dataflow, Dataproc, Firestore, Google Kubernetes Engine, Memorystore, Persistent Disk, Pub/Sub.\n\n\nThe in-scope Google Cloud Platform services Authorized at Moderate are: Access Context Manager, Access Transparency, AI Platform Training and Prediction (formerly Cloud Machine Learning Engine), AI Platform Notebooks, AutoML Natural Language, AutoML Tables, AutoML Translation, AutoML Video, AutoML Vision, BigQuery, Data Transfer Service, Cloud Billing, Cloud Build, Cloud CDN, Cloud Composer, Cloud Console (including Context Aware Access), Cloud Console App, Cloud Data Fusion, Cloud Data Loss Prevention, Cloud Debugger (formerly Stackdriver Debugger), Cloud Deployment Manager, Cloud Endpoints, Cloud Filestore, Cloud Functions, Cloud Healthcare, Cloud Interconnect, Cloud Life Sciences (formerly Google Genomics), Cloud Load Balancing, Cloud Logging (formerly Stackdriver Logging; includes Error Reporting), Cloud NAT (Network Address Translation), Cloud Natural Language API, Cloud Monitoring, Cloud Profiler (formerly Stackdriver Profiler) , Cloud Router, Cloud Run (fully managed), Cloud SDK, Cloud Shell, Cloud Source Repositories, Cloud Trace (formerly Stackdriver Trace) , Cloud Translation, Cloud Vision, Cloud VPN, Data Catalog, Datalab, Datastore, Dialogflow, GCP Marketplace, Google Cloud Armor, Google Cloud Identity-Aware Proxy, Identity & Access Management (IAM), Identity Platform, IoT Core, Network Service Tiers, Resource Manager API, Security Command Center – Web Security Scanner (formerly Cloud Security Scanner, Service Consumer Management API), Service Infrastructure (formerly Service Control; includes Service Management API and Service Consumer Management API), Speech-to-Text , Storage Transfer Service, Talent Solution, Text-to-Speech, Video Intelligence API, Virtual Private Cloud (VPC), VPC Service Controls.",
+        "CSO_Description": "Google Services is comprised of Google’s multi-tenant public cloud Google Cloud Platform and built atop the Google Common Infrastructure. The Google Common Infrastructure powers Google worldwide.\n\n\nThe in-scope Google Cloud Platform services Authorized at High are: Admin Console, App Engine, BigQuery, Cloud Bigtable, Cloud DNS, Cloud HSM, Cloud Identity, Cloud Key Management Service, Cloud Spanner, Cloud SQL, Cloud Storage, Compute Engine, Container Registry, Dataflow, Dataproc, Firestore, Google Kubernetes Engine, Identity & Access Management (IAM), Memorystore, Persistent Disk, Pub/Sub, Virtual Private Cloud (VPC).\n\n\nThe in-scope Google Cloud Platform services Authorized at Moderate are: Access Context Manager, Access Transparency, AI Platform Training and Prediction (formerly Cloud Machine Learning Engine), AI Platform Notebooks, AutoML Natural Language, AutoML Tables, AutoML Translation, AutoML Video, AutoML Vision, BigQuery, Data Transfer Service, Cloud Billing, Cloud Build, Cloud CDN, Cloud Composer, Cloud Console (including Context Aware Access), Cloud Console App, Cloud Data Fusion, Cloud Data Loss Prevention, Cloud Debugger (formerly Stackdriver Debugger), Cloud Deployment Manager, Cloud Endpoints, Cloud Filestore, Cloud Functions, Cloud Healthcare, Cloud Interconnect, Cloud Life Sciences (formerly Google Genomics), Cloud Load Balancing, Cloud Logging (formerly Stackdriver Logging; includes Error Reporting), Cloud NAT (Network Address Translation), Cloud Natural Language API, Cloud Monitoring, Cloud Profiler (formerly Stackdriver Profiler) , Cloud Router, Cloud Run (fully managed), Cloud SDK, Cloud Shell, Cloud Source Repositories, Cloud Trace (formerly Stackdriver Trace) , Cloud Translation, Cloud Vision, Cloud VPN, Data Catalog, Datalab, Datastore, Dialogflow, GCP Marketplace, Google Cloud Armor, Google Cloud Identity-Aware Proxy, Identity Platform, IoT Core, Network Service Tiers, Resource Manager API, Security Command Center – Web Security Scanner (formerly Cloud Security Scanner, Service Consumer Management API), Service Infrastructure (formerly Service Control; includes Service Management API and Service Consumer Management API), Speech-to-Text , Storage Transfer Service, Talent Solution, Text-to-Speech, Video Intelligence API, VPC Service Controls.",
         "Announcement_Date": "2019-12-04T05:00:00.000Z",
         "CSP_POC_Name": "Google FedRAMP Team",
         "CSP_POC_Email": "fedramp@google.com",
@@ -10460,12 +10460,6 @@
         "FedRAMP_In-Process_Date": "2012-12-18T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Date": "2017-05-11T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2018-04-24T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-04-25T04:00:00.000Z",
             "Authorizing_Agency": "Federal Trade Commission",
@@ -10611,6 +10605,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-07-14T04:00:00.000Z",
             "Authorizing_Agency": "Department of Agriculture",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-06-25T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-08-02T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-07-02T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -12035,6 +12037,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-05-07T04:00:00.000Z",
             "Authorizing_Agency": "Office of Personnel Management",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2022-03-25T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-03-25T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -15825,7 +15834,7 @@
         "CSO_Description": "Ivalua GovCloud is a complete, end-to-end acquisition management platform, purpose built for federal, state and local governments to more effectively manage all aspects of the acquisition lifecycle.\n\nWith Ivalua GovCloud, acquisition professionals and contract officers have a single solution to manage all phases of the acquisition process, from requirements gathering and market research to contract award and close out, enabling:\n\n* Increased compliance with FAR/DFARs through a fully integrated contract clause library\n* Minimize paper-based processes and streamline the acquisition planning and market research\n* Improved security, auditability and control of acquisition data and documents\n* Maximized automation through a powerful workflow engine to streamline approvals and reduce the cost per transaction\n* Improved compliance and more efficient audit response through automated contract file creation and management\n* Real-time data access and reporting across all acquisition phases, providing the decision support required for agile acquisition",
         "CSP_POC_Name": "Amit Maloo",
         "CSP_POC_Email": "fedramp@ivalua.com",
-        "Fedramp_Ready_Date": "2020-07-08T04:00:00.000Z",
+        "Fedramp_Ready_Date": "2021-08-02T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -16207,7 +16216,7 @@
         "CSO_Description": "ORock HighCloud is an enterprise-grade open source cloud environment built specifically to meet the data security needs of U.S. Federal Government agencies. This Government-Only Community Cloud implements more than 421 High Baseline security controls to support Federal cloud services requirements for Infrastructure as a Service (IaaS) and Platform as a Service (PaaS). It provides secure, compliant, scalable access to computing, storage, virtualization, networking, and performance monitoring resources.\nArchitected to meet the most stringent requirements for security, performance, cost predictability, and control, ORock HighCloud utilizes ORock’s private, carrier-grade fiber optic backbone network with dedicated connectivity between all points of presence and no upstream cloud service provider (CSP). Additional security features include ORock’s use of Red Hat Security Enhanced Linux, FIPS 140-2 encryption, and SOC 2 Type II data centers. Managed services are provided entirely by U.S. citizens in ORock’s U.S.-based Network Operations Center (NOC) and Security Operations Center (SOC).\nAs a Red Hat Premier Certified Cloud and Service Provider (CCSP), ORock Technologies architected ORock HighCloud as a “pure-play” Red Hat cloud and incorporated a full suite of open source solutions for enhanced flexibility, interoperability, security, and control. The Red Hat Cloud Suite includes: Red Hat Enterprise Linux; Red Hat OpenStack Platform; Red Hat OpenShift, Red Hat Virtualization; Red Hat Ceph Storage; Red Hat Ansible Tower; Red Hat Satellite; and all associated cloud APIs. It is the first and only cloud environment built on Red Hat OpenStack Platform and Red Hat OpenShift Container Platform to achieve FedRAMP Ready status as a High Baseline cloud.\nA Federal Small Business, ORock Technologies provides infrastructure, cloud, and compliance services to U.S. government agencies and commercial organizations in highly regulated industries. ORock HighCloud services feature a flat-rate billing model for data transport with no egress fees for predictable costs and lower total cost of ownership, as well as extensive use of enterprise-grade open source technologies (hardened and supported by Red Hat) to increase flexibility and minimize vendor lock-in.\nAdditional information is available at [http://orocktech.com](http://orocktech.com/) .",
         "CSP_POC_Name": "John Conniff",
         "CSP_POC_Email": "fedramp@orocktech.com",
-        "Fedramp_Ready_Date": "2020-10-07T04:00:00.000Z",
+        "Fedramp_Ready_Date": "2021-08-26T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -17086,12 +17095,12 @@
         "website": "www.excentium.com",
         "Remediation": "N",
         "Founded": 2006,
-        "Primary_Office_Locations": "3110 Fairview Park Drive Suite 250, Falls Church, VA 22042",
+        "Primary_Office_Locations": "1768 Business Center Drive Suite 220, Reston, VA 20190",
         "FedRAMP_Assessed": "None",
         "Provide_Consulting_Services": "Y",
         "Description_of_Consulting_Services": "**FedRAMP Preparedness/Assessment and Authorization (A&A).**\n\nEducate CSPs and other solution providers on the FedRAMP process. Perform gap assessment of existing offering including the technical and non-technical aspects of the process. Analyze non-cloud offering to guide organizations as to the activities and resource/technology investments necessary to provide capability via the cloud for Federal customers. Advice on both Federal Civilian and DoD requirements including the specifics assocated with providing Cloud Service Offering (CSO) the DoD customers. ",
-        "Consulting_Services_To": "* CSC\n* CSRA",
-        "Additional_Cyber_Frameworks": "* NIST\n* RMF"
+        "Consulting_Services_To": "None",
+        "Additional_Cyber_Frameworks": "* CMMC\n* NIST\n* RMF"
       },
       {
         "Name": "First Information Technology Services, Inc.",
