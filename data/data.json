@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-08-30T04:40:51.093Z",
+    "Created_At": "2021-08-31T04:40:50.579Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -559,14 +559,6 @@
         "FedRAMP_In-Process_Date": "2014-05-11T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Date": "2017-02-07T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-02-09T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Food and Drug Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2018-08-27T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-08-27T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Treasury",
@@ -652,6 +644,15 @@
             "Letter_Date": "2021-07-28T04:00:00.000Z",
             "Authorizing_Agency": "Universal Service Administrative Company",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAC-logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-08-04T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-08-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-08-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -3587,14 +3588,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-08-26T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-08-27T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-08-27T04:00:00.000Z",
-            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-06-30T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-07-09T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Interior",
@@ -3622,6 +3615,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-06-25T04:00:00.000Z",
             "Authorizing_Agency": "Department of Labor",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-08-23T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-08-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-08-26T04:00:00.000Z",
+            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -4066,51 +4067,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "DNAnexus, Inc.",
-        "Cloud_Service_Provider_Package": "DNAnexus Platform",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1814557199",
-        "Service_Model": [
-          "PaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2018-06-18T04:00:00.000Z",
-        "Original_Expiration_Date": "2021-06-01T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/DNAnexus%20Logo2.png",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "Underlying_CSP_Package_ID": [
-          "F1206061353",
-          "AGENCYAMAZONEW",
-          "FR1812058188",
-          "FR1805751477",
-          "F1603087869",
-          "F1512167750",
-          "F1508207205",
-          "AGENCYSF"
-        ],
-        "CSP_Website": "https://www.dnanexus.com/",
-        "CSO_Description": "The DNAnexus Platform is a public cloud analysis and data management platform for processing high-throughput molecular data; for combining molecular, clinical, and real-world data to discover relationships relevant to patient and population health, precision medicine, drug discovery and regulatory approval; and for enabling a network of government, academic, and commercial collaborators to securely form research communities. DNAnexus presents a Platform-as-a-Service including a brandable, customizable web interface, and an API for integration with upstream and downstream systems such as Laboratory Information Management, Clinical Trial Management, Electronic Data Capture, and clinical interpretation and reporting systems.\n[Precision.FDA.gov/](https://precision.fda.gov/) the FDA's web service for collaborative advancement of regulatory standards for Next Generation Sequencing-based drugs and devices, is enabled by the DNAnexus Platform API, leveraging the Platform's secure and compliant analysis and data management services to deliver a fit-for-purpose interface to a secure community of researchers from government, academic, and commercial sectors.",
-        "Announcement_Date": "2018-10-15T04:00:00.000Z",
-        "CSP_POC_Name": "DNAnexus Compliance Team",
-        "CSP_POC_Email": "compliance@dnanexus.com",
-        "FedRAMP_In-Process_Date": "2018-02-21T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2018-10-16T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-11-01T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Food and Drug Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "BMC Software",
         "Cloud_Service_Provider_Package": "BMC Helix",
         "Path": "Agency",
@@ -4547,6 +4503,42 @@
             "Include_In_Marketplace": "Y"
           }
         ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "DNAnexus, Inc.",
+        "Cloud_Service_Provider_Package": "DNAnexus Platform",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1814557199",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2018-11-01T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "Food and Drug Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/DNAnexus%20Logo2.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "Underlying_CSP_Package_ID": [
+          "F1206061353",
+          "AGENCYAMAZONEW",
+          "FR1812058188",
+          "FR1805751477",
+          "F1603087869",
+          "F1512167750",
+          "F1508207205",
+          "AGENCYSF"
+        ],
+        "CSP_Website": "https://www.dnanexus.com/",
+        "CSO_Description": "The DNAnexus Platform is a public cloud analysis and data management platform for processing high-throughput molecular data; for combining molecular, clinical, and real-world data to discover relationships relevant to patient and population health, precision medicine, drug discovery and regulatory approval; and for enabling a network of government, academic, and commercial collaborators to securely form research communities. DNAnexus presents a Platform-as-a-Service including a brandable, customizable web interface, and an API for integration with upstream and downstream systems such as Laboratory Information Management, Clinical Trial Management, Electronic Data Capture, and clinical interpretation and reporting systems.\n[Precision.FDA.gov/](https://precision.fda.gov/) the FDA's web service for collaborative advancement of regulatory standards for Next Generation Sequencing-based drugs and devices, is enabled by the DNAnexus Platform API, leveraging the Platform's secure and compliant analysis and data management services to deliver a fit-for-purpose interface to a secure community of researchers from government, academic, and commercial sectors.",
+        "Announcement_Date": "2018-10-15T04:00:00.000Z",
+        "CSP_POC_Name": "DNAnexus Compliance Team",
+        "CSP_POC_Email": "compliance@dnanexus.com",
+        "FedRAMP_In-Process_Date": "2018-02-21T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "Zscaler",
@@ -5438,14 +5430,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-08-26T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-08-27T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-08-27T04:00:00.000Z",
-            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-08-21T04:00:00.000Z",
             "Letter_Expiration_Date": "2021-09-12T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-09-08T04:00:00.000Z",
@@ -5511,6 +5495,14 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "United States Patent and Trademark Office",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-08-23T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-08-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-08-26T04:00:00.000Z",
+            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -6709,14 +6701,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-08-26T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-08-27T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-08-27T04:00:00.000Z",
-            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-08-21T04:00:00.000Z",
             "Letter_Expiration_Date": "2023-09-09T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-09-09T04:00:00.000Z",
@@ -6860,6 +6844,14 @@
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-08-23T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-08-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-08-26T04:00:00.000Z",
+            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -8883,14 +8875,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2021-05-20T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-08-27T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-05-21T04:00:00.000Z",
-            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2021-07-23T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-07-23T04:00:00.000Z",
             "Authorizing_Agency": "U.S. Office of Special Counsel",
@@ -8904,6 +8888,14 @@
             "Authorizing_Agency": "Department of Homeland Security",
             "Authorizing_Subagency": "Customs and Border Protection",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-08-23T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-08-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-08-26T04:00:00.000Z",
+            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -12367,6 +12359,14 @@
             "Authorizing_Agency": "Social Security Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-08-20T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-08-27T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-08-27T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -13703,14 +13703,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-08-26T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-08-27T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-08-27T04:00:00.000Z",
-            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-08-21T04:00:00.000Z",
             "Letter_Expiration_Date": "2021-09-12T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-09-08T04:00:00.000Z",
@@ -13857,6 +13849,14 @@
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "United States Army Corps of Engineers",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-08-23T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-08-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-08-26T04:00:00.000Z",
+            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -14167,14 +14167,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-08-26T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-08-27T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-08-27T04:00:00.000Z",
-            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-08-24T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-08-24T04:00:00.000Z",
             "Authorizing_Agency": "United States Securities and Exchange Commission",
@@ -14200,6 +14192,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-02-24T05:00:00.000Z",
             "Authorizing_Agency": "Environmental Protection Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-08-23T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-08-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-08-26T04:00:00.000Z",
+            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
