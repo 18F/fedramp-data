@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-08-31T04:40:50.579Z",
+    "Created_At": "2021-09-01T14:50:28.039Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -5277,7 +5277,24 @@
         "CSP_POC_Name": "Josh Dustin",
         "CSP_POC_Email": "fedramp@hirevue.com",
         "FedRAMP_In-Process_Date": "2018-08-15T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2021-07-14T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-07-13T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-07-22T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Cybersecurity & Infrastructure Security Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2024-08-12T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-08-12T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Microsoft",
@@ -16307,6 +16324,29 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Qlik Technologies Inc.",
+        "Cloud_Service_Provider_Package": "Qlik Cloud Government",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2125653037",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Environmental Protection Agency",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
+        "Authorizing_Agency": "Environmental Protection Agency",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Qlik%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "qlik.com",
+        "CSO_Description": "Qlik Cloud Government is a multi-tenant Software-as-a Service Cloud offering that provides U.S Public Sector clients with a complete data analytics platform that sets the benchmark for a new generation of analytics. With its one-of-a-kind associative analytics engine, sophisticated augmented intelligence, and high performance cloud platform, you can empower everyone in your organization to make better decisions daily, creating a truly data-driven enterprise.",
+        "CSP_POC_Name": "Qlik FedRAMP Team",
+        "CSP_POC_Email": "fedramp@qlik.com",
+        "FedRAMP_In-Process_Date": "2021-08-31T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Rescale",
         "Cloud_Service_Provider_Package": "Rescale ScaleX Government",
         "Path": "Agency",
@@ -17187,6 +17227,23 @@
         "Description_of_Consulting_Services": "ITC has a proven approach to providing advisory and assessment services by leveraging our deep understanding of various regulatory compliance frameworks (DIACAP, NIST RMF, and FedRAMP SAF). We offer the following services to assist federal agencies and CSPs in preparing for FedRAMP authorization:\n\n* FedRAMP Readiness Assessment\n* FedRAMP Advisory and Consulting Services\n* 3PAO Assessment\n* Continuous Monitoring\n* Penetration Testing",
         "Consulting_Services_To": "None",
         "Additional_Cyber_Frameworks": "* NIST RMF\n* ISO 17020"
+      },
+      {
+        "Name": "InfusionPoints, LLC",
+        "Accreditation_Date": "2020-06-18T04:00:00.000Z",
+        "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/InfusionPoints%20Logo.jpg",
+        "Description": "InfusionPoints is a leading FedRAMP consulting firm that has extensive FedRAMP experience.  With this experience and our FedRAMP 3PAO accreditation, we can conduct FedRAMP pre-assessments and security assessments based on published templates and testing guidance.  We leverage our vast FedRAMP knowledge base and experience to streamline the security risk assessment process. We offer a comprehensive suite of 3PAO services to assist CSPs in successfully navigating through the FedRAMP certification process which includes readiness assessment, security package development, remediation services, 3PAO security assessment, and 3PAO continuous monitoring services.",
+        "POC_Name": "Shiloh Casey",
+        "POC_Email": "3pao@infusionpoints.com",
+        "website": "http://www.infusionpoints.com/solutions/FedRAMP",
+        "Remediation": "N",
+        "Founded": 2007,
+        "Primary_Office_Locations": "613 Elkin Highway, North Wilkesboro, North Carolina, 28659",
+        "FedRAMP_Assessed": "None",
+        "Provide_Consulting_Services": "Y",
+        "Description_of_Consulting_Services": "We are comprised of both audit and compliance professionals, each with several years of FedRAMP experience. We have significant experience in Building, Testing, and Defending our customers’ FedRAMP cloud-based environments. Specific to FedRAMP, we can work with cloud service providers to perform a series of services to help them prepare, including:\n\r\n* Performing a gap analysis over the FedRAMP requirements\r\n* Developing scoping diagrams, to include boundary, data flow, and network diagrams\r\n* Developing the FedRAMP Authorization Package to include System Security Plan, policies, and/or other FedRAMP Authorization Package documents\r\n* Building and deploying a complete FedRAMP compliant cloud environment \r\n* Providing continuous monitoring services to include vulnerability management and flaw remediation\r\n* Providing Managed Detection and Response Services 24X7X365 ",
+        "Consulting_Services_To": "* Casepoint \n* Check Point\n* Civis Analytics\n* CORAS\n* Exterro\n* FedHIVE\n* MIS GovPoint\n* RSA SecureID\n* Teladoc\n* VMware\n* Workiva",
+        "Additional_Cyber_Frameworks": "None"
       },
       {
         "Name": "Jacobs",
