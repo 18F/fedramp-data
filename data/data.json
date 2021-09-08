@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-09-07T04:40:50.591Z",
+    "Created_At": "2021-09-08T04:40:50.458Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1354,14 +1354,6 @@
             "Authorizing_Agency": "Department of State",
             "Authorizing_Subagency": "Bureau of Public Affairs",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-09-04T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-09-04T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-09-04T04:00:00.000Z",
-            "Authorizing_Agency": "United States Government Publishing Office",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USGPO%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -5031,6 +5023,7 @@
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW",
+          "F1303191948",
           "F1508207205"
         ],
         "CSP_Website": "http://www.maximus.com/federal/intelligent-assistant",
@@ -16102,6 +16095,29 @@
         "CSP_POC_Name": "Wes Bowen\r",
         "CSP_POC_Email": "fedramp@meridianksi.com",
         "Fedramp_Ready_Date": "2021-06-11T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "MicroStrategy",
+        "Cloud_Service_Provider_Package": "MicroStrategy Cloud for Government",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2126176344",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MicroStrategy%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "https://www.microstrategy.com",
+        "CSO_Description": "MicroStrategy is the world’s top-rated platform for enterprise analytics. The MicroStrategy Intelligence Platform offers a full range of trusted, modern BI experiences, and is designed to help departments and agencies build data-driven cultures and make faster, smarter decisions. \r\n\r\nBuilt for performance at scale, MicroStrategy delivers concrete answers to users where and when they’re needed. Foundationally, the platform offers a range of 200+ out-of-the-box drivers and gateways for a variety of data sources, types, and formats, and a robust suite of APIs and SDKs that allow users to integrate data into a unified data fabric to meet the needs of their entire organization. Using the platform’s proprietary enterprise semantic graph, agencies can establish a unified, governed, secure, and reusable data model on which a variety of intelligence solutions can be built to deliver accurate, personalized, and trusted information to individual users based on each agency’s enterprise data dictionary. \r\n\r\nThe MicroStrategy Cloud for Government is a fully managed enterprise analytics solution that offers all the market-leading capabilities of the MicroStrategy Intelligence Platform on a unique Amazon Web Services (AWS) GovCloud implementation. MicroStrategy Cloud for Government features a fully optimized reference architecture built specifically for deployment in a customer-licensed AWS environment, offered as a platform-as-a-service (PaaS) solution. MicroStrategy administers each unique MicroStrategy Cloud for Government environment on the behalf of each government department or agency, including steady state operations, routine application of software upgrades, robust system monitoring and alerting, and 24/7/365 technical support for priority issues.",
+        "CSP_POC_Name": "MicroStrategy FedRAMP Team",
+        "CSP_POC_Email": "fedramp@microstrategy.com",
+        "FedRAMP_In-Process_Date": "2021-09-02T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
