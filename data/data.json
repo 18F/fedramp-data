@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-09-09T04:40:50.444Z",
+    "Created_At": "2021-09-10T04:40:50.916Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -13878,7 +13878,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Avaya, Inc.",
-        "Cloud_Service_Provider_Package": "Avaya OneCloud Private For Government",
+        "Cloud_Service_Provider_Package": "Avaya OneCloud For Government",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "F1506046708",
@@ -15320,6 +15320,25 @@
         "CSP_POC_Name": "Said Syed",
         "CSP_POC_Email": "fedrampdl@commvault.com",
         "Fedramp_Ready_Date": "2021-05-24T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Conga",
+        "Cloud_Service_Provider_Package": "Conga Contract Lifecycle Management (CLM)",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2115854333",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Conga%20Logo.png",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "CSP_Website": "https://conga.com/",
+        "CSO_Description": "Conga CLM runs on the Salesforce platform with the backend processing systems residing on Project Hosts Federal Private Cloud and all the contract data is stored in Salesforce. Conga CLM data-handling practices are the same for Conga CLM as they are for any Salesforce implementation: cross-border data exchange, data transmission methods, data storage and encryption, and logical and physical separation of data. As an administrator, you can design the user interface of Conga CLM by creating page layouts, customizing agreement actions, adding custom links, and customizing the action panel. Conga CLM lets you manage user profiles by configuring user permissions and secure the agreement documents by implementing document protection. With X-Author for Contracts, you can create agreement templates and agreement clauses and use Conga CLM to manage them. You can design workflows and agreement lifecycles in Conga CLM. You can track agreement versions and secure agreement documents. Conga CLM allows you to schedule jobs to automate recurring tasks, such as refreshing agreement data, setting the expiration date for the links used to download multiple agreements, extracting intelligent data, and generating reports.",
+        "CSP_POC_Name": "Scott Fraass",
+        "CSP_POC_Email": "fedramp@conga.com",
+        "Fedramp_Ready_Date": "2021-09-07T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
