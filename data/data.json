@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-09-16T04:40:50.885Z",
+    "Created_At": "2021-09-17T04:40:50.538Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -5867,19 +5867,19 @@
         "FedRAMP_In-Process_Date": "2018-09-10T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Date": "2020-09-02T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-09-10T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-09-17T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "United States Patent and Trademark Office",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2023-09-21T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-09-20T04:00:00.000Z",
             "Authorizing_Agency": "Small Business Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SmallBusinessAdmin-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-08-23T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-09-10T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-08-30T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "United States Patent and Trademark Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -10044,14 +10044,6 @@
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-02-18T05:00:00.000Z",
-            "Letter_Expiration_Date": "2021-07-28T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-02-18T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -14995,7 +14987,7 @@
           "F1603047866"
         ],
         "CSP_Website": "www.cloud.vmware.com/govcloud",
-        "CSO_Description": "**VMC is currently FedRAMP Ready & In Process at the High Level**\nVMware CloudTM on AWS GovCloud (US) brings VMware’s rich Software-Defined Data Center software to the AWS GovCloud (US) Region, and enables U.S public sector agencies to securely run production applications across VMware vSphere®-based private, public and hybrid cloud environments, with optimized access to AWS services. Jointly engineered by VMware and AWS, this on-demand service enables IT teams to seamlessly extend, migrate and manage their cloud-based resources with familiar VMware tools – without the hassles of learning new skills or utilizing new tools. VMware Cloud on AWS GovCloud (US) integrates VMware’s flagship compute, storage and network virtualization products (VMware vSphere®, VMware vSANTM and VMware NSX®) along with VMware vCenter® management as well as robust disaster protection, and optimizes it to run on dedicated, elastic, Amazon EC2 bare-metal infrastructure that is fully integrated as part of the AWS GovCloud (US). This service is delivered, sold and supported by VMware and its partners. With the same architecture and operational experience on-premises and in the cloud, IT teams can now quickly derive instant business value from use of the AWS and VMware hybrid cloud experience.",
+        "CSO_Description": "VMware CloudTM on AWS GovCloud (US) brings VMware’s rich Software-Defined Data Center software to the AWS GovCloud (US) Region, and enables U.S public sector agencies to securely run production applications across VMware vSphere®-based private, public and hybrid cloud environments, with optimized access to AWS services. Jointly engineered by VMware and AWS, this on-demand service enables IT teams to seamlessly extend, migrate and manage their cloud-based resources with familiar VMware tools – without the hassles of learning new skills or utilizing new tools. VMware Cloud on AWS GovCloud (US) integrates VMware’s flagship compute, storage and network virtualization products (VMware vSphere®, VMware vSANTM and VMware NSX®) along with VMware vCenter® management as well as robust disaster protection, and optimizes it to run on dedicated, elastic, Amazon EC2 bare-metal infrastructure that is fully integrated as part of the AWS GovCloud (US). This service is delivered, sold and supported by VMware and its partners. With the same architecture and operational experience on-premises and in the cloud, IT teams can now quickly derive instant business value from use of the AWS and VMware hybrid cloud experience.",
         "Announcement_Date": "2021-09-13T04:00:00.000Z",
         "CSP_POC_Name": "VMware Government Services",
         "CSP_POC_Email": "fedramp-vmc@vmware.com",
@@ -16321,6 +16313,30 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "OpenWater Software",
+        "Cloud_Service_Provider_Package": "OpenWater Awards",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2113346550",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "LI-SaaS",
+        "Sponsoring_Agency": "Department of Commerce",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+        "Authorizing_Agency": "Department of Commerce",
+        "Authorizing_Subagency": "United States Patent and Trademark Office",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/OpenWater%20Logo.png",
+        "Independent_Assessor": "United States Patent and Trademark Office",
+        "CSP_Website": "getopenwater.com",
+        "CSO_Description": "Application Collection and Review Portal",
+        "CSP_POC_Name": "Kunal Johar",
+        "CSP_POC_Email": "help@getopenwater.com",
+        "FedRAMP_In-Process_Date": "2021-09-16T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Opus Interactive",
         "Cloud_Service_Provider_Package": "OpusGov (OG)",
         "Designation": "FedRAMP Ready",
@@ -17465,9 +17481,9 @@
         "Accreditation_Date": "2017-04-26T04:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/NCC%20Group%20Logo.jpg",
         "Description": "NCC Group Security Services, Inc. provides independent 3PAO assessment services for Cloud Service Provider (CSP) systems, (IaaS, PaaS, SaaS), through the JAB P-ATO, Agency ATO, CSP Ready and FedRAMP Accelerated and Tailored processes.  Our team of security professionals have years of prior USG and DoD cybersecurity experience ranging from highly complex and integrated research and development projects to assessments of the most current cloud architectures.\n\nOur security professionals employ a fully integrated assessment approach to ensure comprehensive testing and assessment/discovery.  This approach minimizes duplication of effort, while driving efficiently and effectively through the required test cases and technical testing activities.  We ensure transparency in planning, testing and reporting from initiation meetings through completion of the SAP, Test Cases and SAR.",
-        "POC_Name": "Jim Jordan",
-        "POC_Email": "fedramp@nccgroup.trust",
-        "website": "http://www.nccgroup.trust",
+        "POC_Name": "Jennifer Hawks",
+        "POC_Email": "fedramp@nccgroup.com",
+        "website": "www.nccgroup.com/us/compliance/government-regulations",
         "Remediation": "N",
         "Founded": 1999,
         "Primary_Office_Locations": "48 West 25th Street, Fourth Floor, New York, New York 10010",
