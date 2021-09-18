@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-09-17T04:40:50.538Z",
+    "Created_At": "2021-09-18T04:40:50.443Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -6871,6 +6871,14 @@
             "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2024-05-11T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-05-11T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Immigration and Customs Enforcement",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -11483,7 +11491,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20CI%20Logo.png",
         "Independent_Assessor": "Schellman & Company, LLC",
         "CSP_Website": "https://cloud.oracle.com",
-        "CSO_Description": "Oracle Cloud Infrastructure is a government-community cloud architected to provide U.S. public sector entities with best-in-class security and industry leading price-performance. Oracle Cloud Infrastructure services are a set of complementary infrastructure and platform cloud services that enable customers to build and run their enterprise workloads through high-performance, secure, and available services that scale elastically. With Oracle Cloud Infrastructure, public sector entities can use Oracle development tools to enhance existing applications while creating and integrating new cloud-native applications.\r\n\r\nThe following Oracle Cloud Infrastructure services are authorized at the FedRAMP High Impact Level and approved by the JAB: OCI Compute Services, Object Storage Service, Block Storage Service, Database Cloud Service, Exadata Cloud Service, Key Management Service (Vault), Virtual Cloud Networks, FastConnect, Load Balancing as a Service, Identity and Access Management, Auditing, Announcements, Autoscaling, Cloud Events, Container Engine for Kubernetes (OKE), Compute Monitoring, Digital Assistant, File Storage Service, Linux/YUM Repo, Metering Usage Reports, Notifications (ONS), OCI Monitoring, OCI Registry (OCIR), Oracle Resource Manager (Orchestration), Private Endpoints, Streaming (OSS), Terraform, API Gateway, Cloud Shell, Data Flow Service, Data Science Service, Data Transfer Service, Email Delivery Service, Functions, OCI Marketplace, Oracle Cloud VMware Solution, Secrets in Vault.",
+        "CSO_Description": "Oracle Cloud Infrastructure is a government-community cloud architected to provide U.S. public sector entities with best-in-class security and industry leading price-performance. Oracle Cloud Infrastructure services are a set of complementary infrastructure and platform cloud services that enable customers to build and run their enterprise workloads through high-performance, secure, and available services that scale elastically. With Oracle Cloud Infrastructure, public sector entities can use Oracle development tools to enhance existing applications while creating and integrating new cloud-native applications.\r\n\r\nThe following Oracle Cloud Infrastructure services are authorized at the FedRAMP High Impact Level and approved by the JAB: Announcements; API Gateway; Audit; Autonomous Dedicated; Autonomous Shared; Autoscaling; Block Storage; Cloud Shell; Compute; Compute Monitoring; Container Engine for Kubernetes; Data Catalog; Data Flow; Data Science; Database Cloud Service; Data Transfer; Digital Assistant; Email Delivery; Events; Exadata Cloud Service; FastConnect; File Storage; Functions; Identity and Access Management; Load Balancing; Linux/YUM Repo; Marketplace; Metering; Monitoring; Notifications; Object Storage; Oracle Integration Cloud; Private Endpoints; Public Logging; Registry; Resource Manager; Secrets in Vault; Service Connector Hub; Streaming; Terraform; Vault; Virtual Cloud Networks; VCN Flow Logs; VMware Solution;\r\n\r\nThe following services have completed 3PAO assessment and are currently under JAB review for approval: Oracle Analytics Cloud; OS Management Service; Management Agent Service; Cloud Guard; Tenant Manager",
         "Announcement_Date": "2020-10-01T04:00:00.000Z",
         "CSP_POC_Name": "Rico McGee",
         "CSP_POC_Email": "fedrampinfo_us@oracle.com",
@@ -16330,7 +16338,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/OpenWater%20Logo.png",
         "Independent_Assessor": "United States Patent and Trademark Office",
         "CSP_Website": "getopenwater.com",
-        "CSO_Description": "Application Collection and Review Portal",
+        "CSO_Description": "OpenWater is a Software as a Service platform used to collect applications of all types.  Typical uses include awards nominations, fellowship applications, scholarships, prizes.  Applications can consist of dozens to hundreds of fields, and there is a built in form builder.  Applications can have complex logic around required fields, large file uploads, and streaming video based applications.\n\nOnce data is collected in OpenWater, customizable judging / scoring rubrics can be configured.  Reviewers will be able to access the portal and only see submissions assigned to them.  The platform supports simple review modes all the way up to auto-assignment of 1000s of applications across 100s of reviewers.",
         "CSP_POC_Name": "Kunal Johar",
         "CSP_POC_Email": "help@getopenwater.com",
         "FedRAMP_In-Process_Date": "2021-09-16T04:00:00.000Z",
