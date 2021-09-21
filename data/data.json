@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-09-20T04:41:01.320Z",
+    "Created_At": "2021-09-21T04:40:50.648Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3327,135 +3327,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Qualtrics",
-        "Cloud_Service_Provider_Package": "Qualtrics XM Platform",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1606097904",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2018-06-20T04:00:00.000Z",
-        "Original_Expiration_Date": "2021-06-01T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Qualtrics%20Logo2.png",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866",
-          "F1206081364",
-          "F1508207205",
-          "F1206061353"
-        ],
-        "CSP_Website": "www.qualtrics.com",
-        "CSO_Description": "The Qualtrics XM Platform is a web-based application that allows Government agencies to create surveys and then collect, analyze, and store the data produced from those surveys. Government agencies can use the application to collect and analyze citizen, employee, and community feedback to improve services and engagement for both external customers (citizens) and internal customers (public sector employees). The Qualtrics XM Platform enables multiple departments within an agency to collect and analyze survey data within a single enterprise system, allowing all levels of the agency or department to have access to important feedback data. The XM Platform includes an array of services that can be utilized to track, manage, and improve the experience of external and internal customers, such as:\r\n\r\n• XM Core – Allows agencies to construct surveys, distribute them to participants, and then manage and analyze individual participant responses. Agencies can then create reports that present the results and publish these reports to the web or share the report links with others.\r\n• Customer Experience - Allows agencies to study and improve the customer experience by employing Relationship NPS, Transactional NPS, Customer Satisfaction, and Event Feedback programs.\r\n• Employee Experience - Allows agencies to measure and manage employee engagement by creating feedback loops for relevant aspects of public sector employment, such as Manager Feedback, Training Feedback, Employee Engagement, and Employee Pulse programs.\r\n• Site Intercept – Allows agencies to display a piece of text, graphic, or widget that encourages a visitor to their website to take a survey or redirect to a specific webpage. To implement, the agency administrator places a snippet of Qualtrics’ JavaScript code on the agency’s website.\r\n• Actions and Tickets - Allows defining and triggering a workflow when a set of conditions are met, such as creating support tickets or integrating with external systems via web service API.\r\n• Data Analytics - Provides ability to perform natural language processing, statistical and predictive analysis of the data collected via the Research Suite.\r\n• Reports and Dashboards – Enables agencies to build dashboards that provide visual displays of the data collected from an agency’s surveys combined with other imported data sources.\r\n\r\nQualtrics creates a library where each agency can store question templates, graphics, messages, and files to be used in building surveys and sending messages to participants. Agencies can integrate data from other sources, such as their customer relationship management (CRM) tools, and produce and share reports. They can upload a list of contacts as a CSV file or manually enter or edit contacts. Agencies can also view the complete history of interactions that they have had with their contacts via emails or survey responses.\r\n\r\nThe XM Platform allows customers to send surveys, notifications, and other messages via a built-in email mechanism. To enable this, the application provides an outbound mail delivery engine via SMTP. In addition, customers can generate a URL that links to their survey and send the URL out to survey participants via their own email systems.\r\n\r\nReports and data can be exported to a variety of formats, including Word, Excel, PDF, and CSV/TSV, etc.\r\n\r\nThe XM Platform provides an Administration tool that allows designated agency admins to create groups and user permissions and assign them to authorized agency users. Permissions can be set up at the agency, division, or organization level. A single sign-on (SSO) capability enables agencies to implement identity federation via LDAP, SAML / Shibboleth, central authentication service (CAS), or OAuth 2.0. Qualtrics also makes available a REST API to allow agencies to automate functions such as connecting Qualtrics surveys with external systems such as a CRM like Salesforce.",
-        "Announcement_Date": "2018-06-29T04:00:00.000Z",
-        "CSP_POC_Name": "Craig Kulfan",
-        "CSP_POC_Email": "fedramp@qualtrics.com",
-        "FedRAMP_In-Process_Date": "2016-06-09T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2018-10-05T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-10-05T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "United States Census Bureau",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-03-28T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-03-28T04:00:00.000Z",
-            "Authorizing_Agency": "Social Security Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-04-17T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-04-17T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-03-26T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-03-28T04:00:00.000Z",
-            "Authorizing_Agency": "Consumer Financial Protection Bureau",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFPB_Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2022-10-31T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-11-03T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-03-26T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-03-25T04:00:00.000Z",
-            "Authorizing_Agency": "General Services Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-02-13T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-04-23T04:00:00.000Z",
-            "Authorizing_Agency": "United States International Trade Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USITC%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-06-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-07-07T04:00:00.000Z",
-            "Authorizing_Agency": "National Science Foundation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-08-21T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-09-09T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-09-09T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "FirstNet",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2023-04-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-04-21T04:00:00.000Z",
-            "Authorizing_Agency": "Environmental Protection Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-05-27T04:00:00.000Z",
-            "Letter_Expiration_Date": "2024-05-26T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-05-27T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Veterans Affairs",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-06-04T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-06-04T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-07-07T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-07-13T04:00:00.000Z",
-            "Authorizing_Agency": "Consumer Product Safety Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CPSC%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Infor",
         "Cloud_Service_Provider_Package": "Infor Government Solutions (IGS) Software as a Service",
         "Path": "JAB",
@@ -4523,6 +4394,120 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Qualtrics",
+        "Cloud_Service_Provider_Package": "Qualtrics XM Platform",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1606097904",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2018-10-05T04:00:00.000Z",
+        "Original_Expiration_Date": "2021-10-05T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Commerce",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+        "Authorizing_Agency": "Department of Commerce",
+        "Authorizing_Subagency": "United States Census Bureau",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "F1206081364",
+          "F1508207205",
+          "F1206061353"
+        ],
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2019-03-28T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-03-28T04:00:00.000Z",
+            "Authorizing_Agency": "Social Security Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-04-17T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-04-17T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-03-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-03-28T04:00:00.000Z",
+            "Authorizing_Agency": "Consumer Financial Protection Bureau",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFPB_Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2022-10-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-11-03T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-03-26T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-03-25T04:00:00.000Z",
+            "Authorizing_Agency": "General Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-02-13T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-04-23T04:00:00.000Z",
+            "Authorizing_Agency": "United States International Trade Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USITC%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-06-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-07-07T04:00:00.000Z",
+            "Authorizing_Agency": "National Science Foundation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-08-21T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-09-09T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-09-09T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "FirstNet",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-04-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-04-21T04:00:00.000Z",
+            "Authorizing_Agency": "Environmental Protection Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-05-27T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-05-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-05-27T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-06-04T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-06-04T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-07-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-07-13T04:00:00.000Z",
+            "Authorizing_Agency": "Consumer Product Safety Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CPSC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "Zscaler",
         "Cloud_Service_Provider_Package": "Zscaler Internet Access – Government (Secure Web Gateway – vTIC)",
         "Path": "Agency",
@@ -4682,6 +4667,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-05-25T04:00:00.000Z",
             "Authorizing_Agency": "Department of Transportation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-07-30T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-07-30T04:00:00.000Z",
+            "Authorizing_Agency": "General Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -9925,7 +9917,15 @@
         "CSP_POC_Name": "Drew Jaehnig",
         "CSP_POC_Email": "fedramp@bizagi.com",
         "FedRAMP_In-Process_Date": "2019-04-02T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2021-07-30T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-07-30T04:00:00.000Z",
+            "Authorizing_Agency": "General Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Okta ",
@@ -10222,7 +10222,7 @@
         "CSP_Website": "www.decisionlens.com",
         "CSO_Description": "The Decision Lens Software is a cloud-based prioritization and resource optimization software solution. Decision Lens enables governmental organizations to make critical decisions in program and project prioritization and resourcing, modernization, resource allocation and optimization, and workforce planning. This cloud-based software, which is hosted on the FedRAMP-authorized Amazon Web Services (AWS) Infrastructure as a Service (IaaS), rapidly engages decision-makers to achieve better outcomes in a resource-constrained environment. Driven by sophisticated analytics, the Decision Lens Software empowers organizations to identify those investments that will deliver the best future outcomes.",
         "Announcement_Date": "2015-12-21T05:00:00.000Z",
-        "CSP_POC_Name": "Andy Keller",
+        "CSP_POC_Name": "Ryan Gay",
         "CSP_POC_Email": "ISSO@decisionlens.com",
         "FedRAMP_In-Process_Date": "2014-06-10T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
@@ -16571,6 +16571,30 @@
         "CSP_POC_Email": "SAS_FedRAMP_PaaS@sas.com",
         "Fedramp_Ready_Date": "2021-03-17T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2021-03-04T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Securonix, Inc.",
+        "Cloud_Service_Provider_Package": "Securonix Security Operations and Analytics Platform",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2102543861",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Defense",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+        "Authorizing_Agency": "Department of Defense",
+        "Authorizing_Subagency": "United States Army",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Securonix%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "www.securonix.com",
+        "CSO_Description": "Securonix Security Operations and Analytics Platform\r\n\r\n The Securonix Security Operations and Analytics Platform combines log management; user and entity behavior analytics (UEBA); next-generation security information and event management (SIEM); network detection and response (NDR); and security orchestration, automation and response (SOAR) into a complete, end-to-end security operations platform.\r\n\r\n* automates security operations while our analytics capabilities reduce noise, fine tunes alerts, and identifies threats both inside and out of the enterprise\r\n* delivers analytics driven SIEM, SOAR, and NTA, with UEBA at its core, as a pure cloud solution without compromise.\n* delivers unlimited scale, powered by advanced analytics, behavior detection, threat modeling, and machine learning. It increases your security through improved visibility, actionability, and security posture, while reducing management and analyst burden.",
+        "CSP_POC_Name": "Greg McDermott",
+        "CSP_POC_Email": "fedramp@securonix.com",
+        "FedRAMP_In-Process_Date": "2021-09-17T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
