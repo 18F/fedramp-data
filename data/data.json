@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-09-23T04:40:50.489Z",
+    "Created_At": "2021-09-24T04:40:50.735Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -11344,7 +11344,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "SailPoint Technologies Holdings, Inc.",
-        "Cloud_Service_Provider_Package": "IdentityIQ",
+        "Cloud_Service_Provider_Package": "Identity Security",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "FR2001938710",
@@ -11367,7 +11367,7 @@
           "F1305072116"
         ],
         "CSP_Website": "https://www.sailpoint.com/identity-for/government/",
-        "CSO_Description": "SailPoint IdentityIQ provides cloud identity governance, enabling customers to gain complete visibility and control of access for all users, applications, data, and infrastructure. With the IdentityIQ FedRAMP Service, SailPoint manages the IdentityIQ Platform, allowing you to focus on fulfilling the identity governance requirements driving your organization.",
+        "CSO_Description": " SailPoint provides Identity Security, enabling customers to gain complete visibility and control of access for all users, applications, data, and infrastructure. With the IdentityIQ FedRAMP Service, SailPoint manages the IdentityIQ Platform, allowing you to focus on fulfilling the identity security requirements driving your organization.  SailPoint via the significant change request process is updating the SailPoint Platform to include SailPoint SaaS services to provide a complete Identity Security Solution.  These services include IdentityNow, Cloud Access Management, SaaS Management, and Predictive Identity. ",
         "Announcement_Date": "2021-03-17T04:00:00.000Z",
         "CSP_POC_Name": "FedRAMP Management",
         "CSP_POC_Email": "fedramp@sailpoint.com",
@@ -15045,7 +15045,7 @@
         "Cloud_Service_Provider_Name": "AgilQuest Corporation",
         "Cloud_Service_Provider_Package": "Forum",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "FR2100740435",
         "Service_Model": [
           "SaaS"
@@ -15059,8 +15059,15 @@
         "Authorizing_Subagency": "Federal Aviation Administration",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/AgilQuest%20Logo.png",
         "Independent_Assessor": "The Cadence Group",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "FR1807853629",
+          "MSO365MT",
+          "F1607197917"
+        ],
         "CSP_Website": "login.agilquest.com",
         "CSO_Description": "Forum, AgilQuest’s Workplace Management Software, is the solution to managing your space whether it’s desks, conference rooms, amenities, or resources. AgilQuest Corporation, a certified VOSB, provides this innovative, SaaS scheduling system to enhance the Government’s Workforce Productivity and Workspace Optimization.\n\n**Workforce Productivity:** With Forum, you are giving your employees the choice and flexibility to work where they work best, leading to improved collaboration and increased productivity.\n\n* Find available places to work and reserve workstations, conference rooms, and resources like equipment, services, health & wellness, parking, and transportation to be your most efficient and productive self. \n* Quickly and easily locate colleagues to enhance engagement, teamwork, and productivity. \n* Use the desktop platform to create workspace reservations for the upcoming weeks or quickly secure a meeting room on the mobile app.\n* Create your dynamic, efficient workplace with digital signage like Room Kiosks, Lobby Kiosks, Desk Signs, and ID Screens, so employees can create and manage their reservations from anywhere in the office.\n* Utilize integrations with platforms you already know well, like Microsoft Office, to make Forum’s adoption and deployment simple.\n\n**Workplace Optimization:** Forum not only leads to a more productive, efficient office but also makes it easy to understand how your office and people are working to better optimize your workplace. By measuring actual utilization of your office space and managing your workplace operations such as occupancy management, permanently assigned space, and the flexible office strategies of hoteling, free address and hotdesking, Forum helps you make data-driven decisions about your workplace and real estate. \n\n\nAgencies leverage this mission critical solution to manage:\n\n* **Telework & Flexibility** – Manage and measure work from any location including WFH (work from home), the office, other Agencies, or coworking locations. \n* **Freeze The Footprint** – Measure the actual utilization of space for short duration Workplace Surveys as well as continuous, consistent, and systematic measurement of People, Presence, and Workplace use across the entire portfolio year after year. Agencies can cut their office space by up to 50%, as AgilQuest facilitated for GSA’s 1800F HQ. Forum Analytics data analysis provides management the support tool necessary to make space planning and office space invest/divest decisions.\n* **Zero Emission Buildings** – Through actual utilization measurement, real estate reduction, and shared desk strategies, Agencies can reduce their office space, and thus reduce their Carbon Footprint by up to 50%. \n* **COVID-19 Back to the Workplace & Contact Tracing** – Provide employee trust to encourage coming back to the workplace, contactless operations through mobile app and QR code bookings, partition stagger strategies, physical/social Distancing, contact trace and verification, and compliance support.   ",
+        "Announcement_Date": "2021-09-21T04:00:00.000Z",
         "CSP_POC_Name": "Don Davidson",
         "CSP_POC_Email": "FedRAMP@agilquest.com",
         "FedRAMP_In-Process_Date": "2020-12-08T05:00:00.000Z",
@@ -15075,7 +15082,7 @@
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Government Community Cloud",
+        "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2021-03-24T04:00:00.000Z",
         "Sponsoring_Agency": "Department of Commerce",
@@ -15096,7 +15103,7 @@
         "CSP_Website": "https://www.tenable.com/products/tenable-io",
         "CSO_Description": "Tenable.io is a risk-based vulnerability management platform. Built on an open and elastic platform, it continuously tracks and assess known and unknown assets and their vulnerabilities in your environment to provide a risk-based view of your entire attack surface- from IT to cloud and web applications. Powered by Nessus technology, Tenable.io provides the industry's most comprehensive vulnerability coverage with the ability to understand your cyber risk and predict which vulnerabilities you need to remediate first. Its streamlined and intuitive user experience, gives you immediate insight with intuitive dashboards to quickly deliver value and help your team identify, investigate and prioritize vulnerabilities.",
         "Announcement_Date": "2021-09-22T04:00:00.000Z",
-        "CSP_POC_Name": "Robert Huber",
+        "CSP_POC_Name": "InfoSec-Risk & Compliance",
         "CSP_POC_Email": "Compliance@tenable.com",
         "FedRAMP_In-Process_Date": "2020-07-29T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
