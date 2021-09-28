@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-09-27T04:40:51.004Z",
+    "Created_At": "2021-09-28T04:40:50.617Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2330,6 +2330,7 @@
         "CSO_Description": "NICE inContact is the cloud contact center software leader, with the most complete, easiest and most reliable solution to help organizations achieve their customer experience goals. Recognized as a market leader by Gartner, IDC, Frost & Sullivan, Ovum and DMG, NICE inContact continuously innovates in the cloud and is the only provider to offer a complete solution that includes NICE inContact CXone cloud, an expert service model and the broadest partner ecosystem. NICE inContact CXone combines best-in-class Omnichannel Routing, Workforce Optimization, Analytics, Automation and Artificial Intelligence—all on an Open Cloud Foundation. [www.niceincontact.com](www.niceincontact.com)",
         "Announcement_Date": "2018-04-09T04:00:00.000Z",
         "CSP_POC_Name": "Barry Pearson",
+        "CSP_POC_Email": "FedRAMPsolutions@NiceinContact.com",
         "FedRAMP_In-Process_Date": "2016-11-17T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
@@ -4090,40 +4091,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "XTec, Incorporated",
-        "Cloud_Service_Provider_Package": "AuthentX Cloud",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1714261912",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "High",
-        "Original_Authorization_Date": "2018-09-24T04:00:00.000Z",
-        "Original_Expiration_Date": "2021-09-24T04:00:00.000Z",
-        "Sponsoring_Agency": "United States Agency for Global Media",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAGM%20Logo.jpg",
-        "Authorizing_Agency": "United States Agency for Global Media",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/AuthentX%20Cloud%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "http://www.xtec.com/",
-        "CSO_Description": "The AuthentX Cloud provides end-to-end identity, credential and access management to US Federal agencies, quasi-federal agencies, and private organizations that require interoperable identity authentication services with Federal systems and infrastructure. The primary use of AuthentX in the Federal government is to satisfy Homeland Security Presidential Directive #12 (HSPD-12), Federal Identity, Credential and Access Management (FICAM) and related policies, mandates and standards from the Office of Management and Budget (OMB), Department of Homeland Security (DHS), and National Institute of Standards and Technology (NIST) Special Publications (SP). Therefore, the AuthentX Cloud solution offered is aligned with federal mandates and high assurance requirements regarding cybersecurity, multi-factor authentication, Federal interoperability, and secure solutions for consolidation of data centers. The AuthentX Cloud consists of COTS hardware, software, and network components assembled and connected in multiple data centers. Hardware includes the XTec AuthentX XaNode appliances, the XTec AuthentX Secure Appliance (ASA) 2000 enrollment and issuance peripherals, the XTec XNode and XTec card readers, and SafeNet Hardware Security Modules. The software of the AuthentX system is built entirely from source to produce the AuthentX Linux Operating System (OS), customized embedded Microsoft OS, the AuthentX Enrollment Manager application, as well as other software packages.",
-        "Announcement_Date": "2019-08-02T04:00:00.000Z",
-        "CSP_POC_Name": "Heather Brooks",
-        "CSP_POC_Email": "fedramp@xtec.com",
-        "FedRAMP_In-Process_Date": "2018-04-26T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2021-03-11T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-03-11T05:00:00.000Z",
-            "Authorizing_Agency": "National Science Foundation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "United States Department of the Treasury",
         "Cloud_Service_Provider_Package": "Workplace.gov Community Cloud High (WC2-H)",
         "Path": "Agency",
@@ -4417,6 +4384,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
         "Authorizing_Agency": "Department of Commerce",
         "Authorizing_Subagency": "United States Census Bureau",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Qualtrics%20Logo2.png",
         "Underlying_CSP_Package_ID": [
           "F1603047866",
           "F1206081364",
@@ -5524,6 +5492,14 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Telecommunications and Information Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-08-20T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-08-27T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "United States Military Academy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -10470,8 +10446,8 @@
         "CSP_Website": "www.ains.com",
         "CSO_Description": "eCase is a robust Platform as a Service for implementing multiple, coexisting adaptive case management SaaS solutions including eCase-Correspondence, eCase-HR, eCase-Audit and FOIAXpress (the industry leading purpose-built FOIA case processing software) within a single commercial off-the-shelf (COTS) solution. eCase provides a dynamic case management framework with the capability to power a wide range of workflow-driven processes and core case management functions, tracking and reporting around a wide range of business process verticals and can help agencies manage their business information efficiently and automate workflow processes, gaining a valuable competitive advantage.",
         "Announcement_Date": "2014-02-21T05:00:00.000Z",
-        "CSP_POC_Name": "GP Sinha",
-        "CSP_POC_Email": "info@ains.com",
+        "CSP_POC_Name": "Srinivas Sristy",
+        "CSP_POC_Email": "ainsisso@ains.com",
         "FedRAMP_In-Process_Date": "2012-12-18T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
@@ -11459,6 +11435,40 @@
         "CSP_POC_Email": "DL-FedRAMP@att.com",
         "FedRAMP_In-Process_Date": "2020-09-28T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "XTec, Incorporated",
+        "Cloud_Service_Provider_Package": "AuthentX Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1714261912",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Original_Authorization_Date": "2019-10-17T04:00:00.000Z",
+        "Original_Expiration_Date": "2022-10-17T04:00:00.000Z",
+        "Sponsoring_Agency": "United States Agency for Global Media",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAGM%20Logo.jpg",
+        "Authorizing_Agency": "United States Agency for Global Media",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/AuthentX%20Cloud%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "http://www.xtec.com/",
+        "CSO_Description": "The AuthentX Cloud provides end-to-end identity, credential and access management to US Federal agencies, quasi-federal agencies, and private organizations that require interoperable identity authentication services with Federal systems and infrastructure. The primary use of AuthentX in the Federal government is to satisfy Homeland Security Presidential Directive #12 (HSPD-12), Federal Identity, Credential and Access Management (FICAM) and related policies, mandates and standards from the Office of Management and Budget (OMB), Department of Homeland Security (DHS), and National Institute of Standards and Technology (NIST) Special Publications (SP). Therefore, the AuthentX Cloud solution offered is aligned with federal mandates and high assurance requirements regarding cybersecurity, multi-factor authentication, Federal interoperability, and secure solutions for consolidation of data centers. The AuthentX Cloud consists of COTS hardware, software, and network components assembled and connected in multiple data centers. Hardware includes the XTec AuthentX XaNode appliances, the XTec AuthentX Secure Appliance (ASA) 2000 enrollment and issuance peripherals, the XTec XNode and XTec card readers, and SafeNet Hardware Security Modules. The software of the AuthentX system is built entirely from source to produce the AuthentX Linux Operating System (OS), customized embedded Microsoft OS, the AuthentX Enrollment Manager application, as well as other software packages.",
+        "Announcement_Date": "2019-08-02T04:00:00.000Z",
+        "CSP_POC_Name": "Heather Brooks",
+        "CSP_POC_Email": "fedramp@xtec.com",
+        "FedRAMP_In-Process_Date": "2018-04-26T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2021-03-11T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-03-11T05:00:00.000Z",
+            "Authorizing_Agency": "National Science Foundation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "MicroFocus",
@@ -13882,6 +13892,14 @@
             "Authorizing_Subagency": "National Telecommunications and Information Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-08-20T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-08-27T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "United States Military Academy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -14923,7 +14941,7 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-11-29T05:00:00.000Z",
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Defense Information Systems Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -16800,7 +16818,7 @@
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
         "Sponsoring_Agency": "Department of Defense",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
         "Authorizing_Agency": "Department of Defense",
         "Authorizing_Subagency": "United States Army",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Securonix%20Logo.png",
