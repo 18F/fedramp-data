@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-09-30T04:40:50.558Z",
+    "Created_At": "2021-10-01T04:40:50.585Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1855,43 +1855,7 @@
             "Letter_Expiration_Date": "2024-09-28T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-09-28T04:00:00.000Z",
             "Authorizing_Agency": "Department of Energy",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Ivanti",
-        "Cloud_Service_Provider_Package": "MobileIron Government Cloud",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1507116930",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2016-11-07T05:00:00.000Z",
-        "Sponsoring_Agency": "United States Postal Service",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USPS%20Logo.png",
-        "Authorizing_Agency": "United States Postal Service",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Ivanti%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW"
-        ],
-        "CSP_Website": "www.mobileiron.com",
-        "CSO_Description": "MobileIron Government Cloud provides Government agencies with the foundation of the first mobile-centric, zero trust security platform to securely access and protect data across the digital workplace. MobileIron’s zero trust approach validates the device, to ensure that only authorized users, devices, apps, and services can access business resources. With MobileIron, Government agencies can secure and manage data on any device across multiple operating systems such as iOS, Android, Windows 10, macOS, Zebra and Oculus. MobileIron technology automatically provisions enterprise settings such as Wi-Fi and VPN, secures corporate email and email attachments, applications and content delivery for both GSE and BYOD programs. With MobileIron, IT departments can deliver the right resources to authorized personnel while protecting sensitive government data, preserving the privacy of end-user data, and maintaining the seamless native device experience. MobileIron Government Cloud has been purpose built to provide a cloud-based, scalable architecture that enables rapid deployment and scales up to millions of users. The MobileIron Unified Endpoint Management (UEM) platform incorporates identity, context, and privacy enforcement to set the appropriate level of access to data and services while allowing IT departments to securely manage their global mobile workforce from a single console. . When user choice and end user experience matters, MobileIron Cloud provides the simplest onboarding and superior on device experience which improves user productivity.\n\nMobileIron Government Cloud offering now includes MobileIron Threat Defense (MTD). MTD builds upon MobileIron’s mobile-centric, zero trust security framework by providing a single app that continually detects and remediates against known and unknown (zero-day) device, network and app-level threats on Android and iOS devices, with or without cellular or Wi-Fi connectivity. Deployment and activation of MTD on mobile devices is accomplished silently on managed and unmanaged devices in order to drive towards 100 percent user adoption. In addition to protecting federal data from mobile attacks, MTD helps federal agencies to comply with regulatory requirements, reduce total cost of ownership, and drive business innovation with secure mobile devices, apps, and cloud services.",
-        "Announcement_Date": "2016-12-08T05:00:00.000Z",
-        "CSP_POC_Name": "Phil Richards",
-        "CSP_POC_Email": "security@ivanti.com",
-        "FedRAMP_In-Process_Date": "2015-12-23T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Expiration_Date": "2022-03-31T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-05-19T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Authorizing_Subagency": "United States Mint",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -3302,15 +3266,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-09-23T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-09-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-09-23T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Telecommunications and Information Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-11-19T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-07-27T04:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
@@ -3323,6 +3278,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-07-13T04:00:00.000Z",
             "Authorizing_Agency": "Council of the Inspectors General on Integrity and Efficiency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CIGIE%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-09-29T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-09-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-09-30T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Telecommunications and Information Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -3442,14 +3406,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-06-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-07-09T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Authorizing_Subagency": "Bureau of Safety and Environmental Enforcement",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-05-18T04:00:00.000Z",
             "Letter_Expiration_Date": "2023-05-29T04:00:00.000Z",
             "Authorizing_Agency": "Court Services and Offender Supervision Agency",
@@ -3477,6 +3433,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-08-26T04:00:00.000Z",
             "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-06-29T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-07-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-07-30T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Authorizing_Subagency": "Bureau of Safety and Environmental Enforcement",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -5057,14 +5022,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-09-29T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-09-29T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-09-29T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Trade Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-06-09T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-06-12T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Interior",
@@ -5184,6 +5141,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-08-13T04:00:00.000Z",
             "Authorizing_Agency": "National Mediation Board",
             "Authorizing_Subagency": " ",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NMB%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-03-05T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-03-05T05:00:00.000Z",
+            "Authorizing_Agency": "Federal Trade Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -7200,20 +7165,20 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-09-23T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-09-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-09-23T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Telecommunications and Information Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-10-08T04:00:00.000Z",
             "Letter_Expiration_Date": "2021-10-08T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-10-08T04:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "United States Census Bureau",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-09-29T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-09-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-09-30T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Telecommunications and Information Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
@@ -11358,7 +11323,7 @@
           "F1305072116"
         ],
         "CSP_Website": "https://www.sailpoint.com/identity-for/government/",
-        "CSO_Description": " SailPoint provides Identity Security, enabling customers to gain complete visibility and control of access for all users, applications, data, and infrastructure. With the IdentityIQ FedRAMP Service, SailPoint manages the IdentityIQ Platform, allowing you to focus on fulfilling the identity security requirements driving your organization.  SailPoint via the significant change request process is updating the SailPoint Platform to include SailPoint SaaS services to provide a complete Identity Security Solution.  These services include IdentityNow, Cloud Access Management, SaaS Management, and Predictive Identity. ",
+        "CSO_Description": "SailPoint provides Identity Security, enabling customers to gain complete visibility and control of access for all users, applications, data, and infrastructure. With the IdentityIQ FedRAMP Service, SailPoint manages the IdentityIQ Platform, allowing you to focus on fulfilling the identity security requirements driving your organization.  \n\nSailPoint via the significant change request process is updating the SailPoint Platform to include SailPoint SaaS services to provide a complete Identity Security Solution.  These services include IdentityNow, Cloud Access Management, SaaS Management, and Predictive Identity. ",
         "Announcement_Date": "2021-03-17T04:00:00.000Z",
         "CSP_POC_Name": "FedRAMP Management",
         "CSP_POC_Email": "fedramp@sailpoint.com",
@@ -13456,12 +13421,6 @@
         "FedRAMP_In-Process_Date": "2014-05-11T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Date": "2014-12-22T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Housing and Urban Development",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHUD-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2015-04-13T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2015-04-13T04:00:00.000Z",
             "Authorizing_Agency": "Department of Homeland Security",
@@ -13678,6 +13637,13 @@
             "Include_In_Marketplace": "Y"
           },
           {
+            "Letter_Date": "2019-08-20T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-08-20T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Housing and Urban Development",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHUD-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
             "Letter_Date": "2019-12-04T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-12-04T05:00:00.000Z",
             "Authorizing_Agency": "Farm Credit Administration",
@@ -13891,6 +13857,36 @@
             "Include_In_Marketplace": "Y"
           }
         ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Ivanti",
+        "Cloud_Service_Provider_Package": "MobileIron Government Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1507116930",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-05-19T04:00:00.000Z",
+        "Original_Expiration_Date": "2022-03-31T04:00:00.000Z",
+        "Sponsoring_Agency": "United States Postal Service",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+        "Authorizing_Agency": "Department of the Treasury",
+        "Authorizing_Subagency": "United States Mint",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Ivanti%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
+        "CSP_Website": "www.mobileiron.com",
+        "CSO_Description": "MobileIron Government Cloud provides Government agencies with the foundation of the first mobile-centric, zero trust security platform to securely access and protect data across the digital workplace. MobileIron’s zero trust approach validates the device, to ensure that only authorized users, devices, apps, and services can access business resources. With MobileIron, Government agencies can secure and manage data on any device across multiple operating systems such as iOS, Android, Windows 10, macOS, Zebra and Oculus. MobileIron technology automatically provisions enterprise settings such as Wi-Fi and VPN, secures corporate email and email attachments, applications and content delivery for both GSE and BYOD programs. With MobileIron, IT departments can deliver the right resources to authorized personnel while protecting sensitive government data, preserving the privacy of end-user data, and maintaining the seamless native device experience. MobileIron Government Cloud has been purpose built to provide a cloud-based, scalable architecture that enables rapid deployment and scales up to millions of users. The MobileIron Unified Endpoint Management (UEM) platform incorporates identity, context, and privacy enforcement to set the appropriate level of access to data and services while allowing IT departments to securely manage their global mobile workforce from a single console. . When user choice and end user experience matters, MobileIron Cloud provides the simplest onboarding and superior on device experience which improves user productivity.\n\nMobileIron Government Cloud offering now includes MobileIron Threat Defense (MTD). MTD builds upon MobileIron’s mobile-centric, zero trust security framework by providing a single app that continually detects and remediates against known and unknown (zero-day) device, network and app-level threats on Android and iOS devices, with or without cellular or Wi-Fi connectivity. Deployment and activation of MTD on mobile devices is accomplished silently on managed and unmanaged devices in order to drive towards 100 percent user adoption. In addition to protecting federal data from mobile attacks, MTD helps federal agencies to comply with regulatory requirements, reduce total cost of ownership, and drive business innovation with secure mobile devices, apps, and cloud services.",
+        "Announcement_Date": "2016-12-08T05:00:00.000Z",
+        "CSP_POC_Name": "Phil Richards",
+        "CSP_POC_Email": "security@ivanti.com",
+        "FedRAMP_In-Process_Date": "2015-12-23T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "TRAPWIRE",
@@ -15204,7 +15200,7 @@
         "Cloud_Service_Provider_Name": "Level Access",
         "Cloud_Service_Provider_Package": "Accessibility Management Platform (AMP)",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "FR2020767053",
         "Service_Model": [
           "SaaS"
@@ -15217,8 +15213,12 @@
         "Authorizing_Agency": "General Services Administration",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Level%20Access%20Logo.png",
         "Independent_Assessor": "SecureIT",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
         "CSP_Website": "https://www.levelaccess.com",
         "CSO_Description": "AMP is an accessibility management platform that provides organizations everything they need to effectively manage Section 508 compliance and address digital accessibility across the organization and development lifecycle. With AMP, organizations have everything they need to efficiently build, test, and maintain accessible software and user experiences. This includes the most advanced accessibility test engine available via a smooth workflow, intelligent reporting, convenient and contextual best practices, as well as an extensive training course library.",
+        "Announcement_Date": "2021-09-29T04:00:00.000Z",
         "CSP_POC_Name": "FedRAMP Team",
         "CSP_POC_Email": "fedramp@levelaccess.com",
         "FedRAMP_In-Process_Date": "2021-04-13T04:00:00.000Z",
@@ -16631,6 +16631,29 @@
         "CSP_POC_Name": "Brad Bartholomew",
         "CSP_POC_Email": "fedramp@paloaltonetworks.com",
         "FedRAMP_In-Process_Date": "2020-12-18T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Ping Identity Corporation",
+        "Cloud_Service_Provider_Package": "PingCloud for Gov",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2112263551",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Energy",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+        "Authorizing_Agency": "Department of Energy",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Ping%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "https://www.pingidentity.com",
+        "CSO_Description": "PingOne for Government is a cloud service offering that gives commercial suppliers and Federal agencies the identity and access management services they need to enable the right individual to access the right resource, at the right time, for the right reason in support of federal business objectives.\r\n\r\nPingOne for Government is a suite of services that includes three products/components:\r\n\r\n* PingFederate is an enterprise federation server that enables user authentication and single sign-on (SSO). It is designed to serve as a global authentication authority that allows employees, contractors, and partners to access the applications they need from any device securely. PingFederate easily integrates with applications across the enterprise, third-party authentication sources, user directories, and existing IAM systems, leveraging integration kits and identity standards like OAuth, OpenID Connect, SAML, and WS-Federation. And with full support for x.509 PKI certificates, organizations can expand the use of their existing PIV and CAC authenticators to allow for MFA wherever their users are.\r\n\r\n* PingAccess is a centralized access security solution with a comprehensive policy engine. It helps provide secure access to applications and APIs down to the URL level and ensures that only authorized users can access the resources they need. Additionally, PingAccess can enable SSO for web applications and APIs; when used in combination with PingFederate for authentication and token services, both internal and external users can gain secure access to applications.\r\n\r\n* PingDirectory is a high-performance, extensible data store for citizen, mission partner, and government employee and contractor identity data. PingDirectory allows agencies to manage profiles for a multiplicity of channels and devices.",
+        "CSP_POC_Name": "Zach Pugh",
+        "CSP_POC_Email": "fedramp@pingidentity.com",
+        "FedRAMP_In-Process_Date": "2021-09-30T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
