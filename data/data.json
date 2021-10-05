@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-10-04T04:40:50.547Z",
+    "Created_At": "2021-10-05T04:40:50.301Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1856,6 +1856,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-09-28T04:00:00.000Z",
             "Authorizing_Agency": "Department of Energy",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-07-28T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-07-27T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-07-28T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Department of the Navy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -11772,14 +11781,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2018-12-11T05:00:00.000Z",
-            "Letter_Expiration_Date": "2021-09-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-12-11T05:00:00.000Z",
-            "Authorizing_Agency": "Environmental Protection Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2022-05-21T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-05-21T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Treasury",
@@ -12031,6 +12032,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-08-19T04:00:00.000Z",
             "Authorizing_Agency": "Department of Labor",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2024-07-19T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-07-29T04:00:00.000Z",
+            "Authorizing_Agency": "Environmental Protection Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -13856,6 +13864,13 @@
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "United States Military Academy",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2024-05-12T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-05-12T04:00:00.000Z",
+            "Authorizing_Agency": "Millennium Challenge Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-MillenniumChallengeCorporation-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -15933,34 +15948,27 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Government Retirement & Benefits, Inc.",
-        "Cloud_Service_Provider_Package": "GRB Platform",
+        "Cloud_Service_Provider_Name": "HealthVerity",
+        "Cloud_Service_Provider_Package": "Privacy Preserving Records Linkage (PPRL)",
         "Path": "Agency",
         "Designation": "In Process",
-        "Package_ID": "FR2002757173",
+        "Package_ID": "FR2135040486",
         "Service_Model": [
           "SaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Veterans Affairs",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-        "Authorizing_Agency": "Department of Veterans Affairs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/GRB%20Logo.png",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/HealthVerity%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.grbinc.com",
-        "CSO_Description": "The GRB Platform™ is a complete Software-as-a-Service (SaaS) cloud-based Federal Retirement and Benefits Administration solution that meets the goals and objectives of the HR Line of Business (HRLoB).  Offered on a subscription basis for unlimited use and developed specifically for the Federal sector, the GRB Platform™ combines tools and capabilities for human resource specialists, managers, and employees into a common system.  The GRB Platform™ contains a flexible bi-directional interface used to communicate with an Agency’s payroll/HRIS system, third party benefits providers, and any outside parties as necessary.",
-        "CSP_POC_Name": "GRB Platform FedRAMP Team",
-        "CSP_POC_Email": "fedramp@grbinc.com",
-        "FedRAMP_In-Process_Date": "2020-08-07T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Authorizing_Agency": "Department of the Treasury",
-            "Authorizing_Subagency": "Bureau of the Fiscal Service",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
+        "CSP_Website": "https://www.healthverity.com",
+        "CSO_Description": "The HealthVerity IPGE Platform includes a state-of-the-art Privacy Preserving Record Linkage (PPRL) identity management solution that is the leading SaaS solution to de-identify and match individuals at scale in a privacy-protecting fashion across multiple datasets with the highest level of accuracy. It acts as an honest broker service that permits centralized de-identified linkage of individual person-level records across systems, organizations, and settings over time. HealthVerity technology supports key applications that require the ability to create a unique anonymized identifier that can unify data across source systems while meeting privacy standards such as HIPAA. The solution can be implemented using either batch processing or real-time API-enabled record linkage to support multi-party data integration needs for applications and analytics.",
+        "CSP_POC_Name": "Emily Bartlett",
+        "CSP_POC_Email": "fedramp@healthverity.com",
+        "FedRAMP_In-Process_Date": "2021-10-04T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "IBM",
