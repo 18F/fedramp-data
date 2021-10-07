@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-10-06T04:40:50.529Z",
+    "Created_At": "2021-10-07T04:40:50.579Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1541,6 +1541,15 @@
             "Authorizing_Agency": "Pretrial Services Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PSA%20Logo.jpg",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-10-04T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-03-14T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-10-04T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "National Training Center",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -2221,6 +2230,13 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Telecommunications and Information Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-09-22T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-09-27T04:00:00.000Z",
+            "Authorizing_Agency": "Executive Office of the President",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_Executive_Office_of_the_President_of_the_United_States_2014.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -3791,36 +3807,6 @@
             "Include_In_Marketplace": "Y"
           }
         ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "NetComm",
-        "Cloud_Service_Provider_Package": "Beacon",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1508127183",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2018-09-18T04:00:00.000Z",
-        "Original_Expiration_Date": "2021-09-18T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "Authorizing_Subagency": "National Institutes of Health",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/NetComm%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866"
-        ],
-        "CSP_Website": "www.netcomm.net",
-        "CSO_Description": "NetComm is the government’s expert for unifying the user experience at the agency IT edge, delivering custom information management software solutions to a wide range of government clients. A Women-Owned Small Business (WOSB) with 30 years of Federal experience, NetComm offers a variety of cloud-based services through Beacon, NetComm’s data analytics toolset that allows users to create customized dashboards tailored to an organization’s or agency’s particular needs, including:\n- Automated HR, finance, property management, digital signatures, e-workflows, online collaboration and dashboard tools, specifically tailored to help clients meet their organizational goals - Improved access to and analysis of complex data - Standards & best practices for security & privacy management in the cloud - Mobile Capabilities - Data Visualization and Dashboarding\nBeacon leverages the Amazon Web Services GovCloud region FedRAMP moderate cloud Infrastructure as a Service (IaaS).",
-        "Announcement_Date": "2016-01-15T05:00:00.000Z",
-        "CSP_POC_Name": "Laurel Fielding",
-        "CSP_POC_Email": "fedramp@netcomm.net",
-        "FedRAMP_In-Process_Date": "2015-09-06T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "Oracle",
@@ -7489,6 +7475,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-02-22T05:00:00.000Z",
             "Authorizing_Agency": "Farm Credit Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FCA%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-09-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-09-29T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Justice",
+            "Authorizing_Subagency": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -11342,7 +11336,7 @@
         "CSP_Website": "https://www.sailpoint.com/identity-for/government/",
         "CSO_Description": "SailPoint provides Identity Security, enabling customers to gain complete visibility and control of access for all users, applications, data, and infrastructure. With the IdentityIQ FedRAMP Service, SailPoint manages the IdentityIQ Platform, allowing you to focus on fulfilling the identity security requirements driving your organization.  \n\nSailPoint via the significant change request process is updating the SailPoint Platform to include SailPoint SaaS services to provide a complete Identity Security Solution.  These services include IdentityNow, Cloud Access Management, SaaS Management, and Predictive Identity. ",
         "Announcement_Date": "2021-03-17T04:00:00.000Z",
-        "CSP_POC_Name": "FedRAMP Management",
+        "CSP_POC_Name": "Ryan Cooney",
         "CSP_POC_Email": "fedramp@sailpoint.com",
         "FedRAMP_In-Process_Date": "2020-07-20T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
@@ -15238,6 +15232,36 @@
         "CSP_POC_Name": "FedRAMP Team",
         "CSP_POC_Email": "fedramp@levelaccess.com",
         "FedRAMP_In-Process_Date": "2021-04-13T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "NetComm",
+        "Cloud_Service_Provider_Package": "Beacon",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1508127183",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-09-14T04:00:00.000Z",
+        "Original_Expiration_Date": "2024-09-13T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "National Institutes of Health",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/NetComm%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.netcomm.net",
+        "CSO_Description": "NetComm is the government’s expert for unifying the user experience at the agency IT edge, delivering custom information management software solutions to a wide range of government clients. A Women-Owned Small Business (WOSB) with 30 years of Federal experience, NetComm offers a variety of cloud-based services through Beacon, NetComm’s data analytics toolset that allows users to create customized dashboards tailored to an organization’s or agency’s particular needs, including:\n- Automated HR, finance, property management, digital signatures, e-workflows, online collaboration and dashboard tools, specifically tailored to help clients meet their organizational goals - Improved access to and analysis of complex data - Standards & best practices for security & privacy management in the cloud - Mobile Capabilities - Data Visualization and Dashboarding\nBeacon leverages the Amazon Web Services GovCloud region FedRAMP moderate cloud Infrastructure as a Service (IaaS).",
+        "Announcement_Date": "2016-01-15T05:00:00.000Z",
+        "CSP_POC_Name": "Laurel Fielding",
+        "CSP_POC_Email": "fedramp@netcomm.net",
+        "FedRAMP_In-Process_Date": "2015-09-06T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
