@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-10-07T04:40:50.579Z",
+    "Created_At": "2021-10-08T04:40:50.467Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1752,15 +1752,6 @@
             "Authorizing_Agency": "Department of the Treasury",
             "Authorizing_Subagency": "Bureau of the Fiscal Service",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-09-19T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-09-19T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-09-20T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "Federal Emergency Management Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -4165,45 +4156,6 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-02-11T05:00:00.000Z",
             "Authorizing_Agency": "Department of Veterans Affairs",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "OneSpan Inc.",
-        "Cloud_Service_Provider_Package": "OneSpan Sign, E-Signature and Digital Signature Service",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1828848692",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2018-10-16T04:00:00.000Z",
-        "Original_Expiration_Date": "2021-10-06T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Agriculture",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-        "Authorizing_Agency": "Department of Agriculture",
-        "Authorizing_Subagency": "Animal and Plant Health Inspection Service",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/OneSpan%20Logo3.png",
-        "Independent_Assessor": "Lunarline, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1403283529"
-        ],
-        "CSP_Website": "www.onespan.com",
-        "CSO_Description": "OneSpan Sign has been helping government organizations move to paperless signing since 1997, making it the longest standing electronic signature solution in the U.S. Federal Government. As the first e-signature and digital transaction management solution granted ATO under FedRAMP, OneSpan Sign helps digitize and automate manual, paper-based processes in support of the government’s digital transformation efforts.\nOneSpan Sign features include templates, workflow automation, mobile and offline signing, transaction management and comprehensive audit trails. OneSpan Sign also meets the government’s stringent authentication requirements with out-of-the-box support for signing with government-issued Common Access Cards (CAC), PIV smart cards and derived credentials.\nOur proven FedRAMP authorized solution in used by the U.S. Census Bureau, U.S. Small Business Administration (SBA), USDA Natural Resources Conservation Service (NRCS), GSA and many others. The FedRAMP Program Management Office (PMO) itself also uses our platform to sign off on internal authorizations.\nOneSpan partners with Cloud Services Provider, Project Hosts, to deliver its e-signature solution in a FedRAMP compliant cloud hosted on Microsoft’s world-class Azure cloud infrastructure.\nMore information about OneSpan Sign can be found here: [https://www.esignlive.com/fedramp/](https://www.esignlive.com/fedramp/)",
-        "Announcement_Date": "2019-05-03T04:00:00.000Z",
-        "CSP_POC_Name": "Tony Moncada",
-        "CSP_POC_Email": "fedramp@onespan.com",
-        "FedRAMP_In-Process_Date": "2018-07-23T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2016-11-02T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-11-02T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "United States Census Bureau",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -8074,6 +8026,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-08-04T04:00:00.000Z",
             "Authorizing_Agency": "Social Security Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-10-04T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-10-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-10-07T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -15265,6 +15225,44 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "OneSpan Inc.",
+        "Cloud_Service_Provider_Package": "OneSpan Sign, E-Signature and Digital Signature Service",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1828848692",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-06-11T04:00:00.000Z",
+        "Original_Expiration_Date": "2024-06-11T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Agriculture",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+        "Authorizing_Agency": "Department of Agriculture",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/OneSpan%20Logo3.png",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1403283529"
+        ],
+        "CSP_Website": "www.onespan.com",
+        "CSO_Description": "OneSpan Sign has been helping government organizations move to paperless signing since 1997, making it the longest standing electronic signature solution in the U.S. Federal Government. As the first e-signature and digital transaction management solution granted ATO under FedRAMP, OneSpan Sign helps digitize and automate manual, paper-based processes in support of the government’s digital transformation efforts.\nOneSpan Sign features include templates, workflow automation, mobile and offline signing, transaction management and comprehensive audit trails. OneSpan Sign also meets the government’s stringent authentication requirements with out-of-the-box support for signing with government-issued Common Access Cards (CAC), PIV smart cards and derived credentials.\nOur proven FedRAMP authorized solution in used by the U.S. Census Bureau, U.S. Small Business Administration (SBA), USDA Natural Resources Conservation Service (NRCS), GSA and many others. The FedRAMP Program Management Office (PMO) itself also uses our platform to sign off on internal authorizations.\nOneSpan partners with Cloud Services Provider, Project Hosts, to deliver its e-signature solution in a FedRAMP compliant cloud hosted on Microsoft’s world-class Azure cloud infrastructure.\nMore information about OneSpan Sign can be found here: [https://www.esignlive.com/fedramp/](https://www.esignlive.com/fedramp/)",
+        "Announcement_Date": "2019-05-03T04:00:00.000Z",
+        "CSP_POC_Name": "Tony Moncada",
+        "CSP_POC_Email": "fedramp@onespan.com",
+        "FedRAMP_In-Process_Date": "2018-07-23T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2016-11-02T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2016-11-02T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "United States Census Bureau",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "Acalvio Technologies Inc.",
         "Cloud_Service_Provider_Package": "ShadowPlex",
         "Designation": "FedRAMP Ready",
@@ -15724,6 +15722,30 @@
         "CSP_POC_Name": "Russell Cozart",
         "CSP_POC_Email": "FedRAMP@cyxtera.com",
         "Fedramp_Ready_Date": "2021-08-05T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Databricks, Inc.",
+        "Cloud_Service_Provider_Package": "Databricks",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1834740315",
+        "Service_Model": [
+          "PaaS, SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Databricks%20Logo.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "https://databricks.com/solutions/industries/federal-government",
+        "CSO_Description": "The Databricks Platform, from the original creators of Apache Spark™, enables data teams to collaborate in order to solve some of the world’s toughest problems. Databricks excels at enabling data scientists, data engineers, and data analysts to work together on uses cases like:\n\r\n* Applying advanced analytics for machine learning and graph processing at scale\r\n* Using deep learning for harnessing the power of unstructured data such for AI, image interpretation, automatic translation, natural language processing, and more\r\n* Making data warehousing fast, simple, and scalable\r\n* Proactively detecting threats with data science and AI\r\n* Analyzing high-velocity sensor and time-series IoT data in real-time\r\n* Making GDPR data subject requests easy to execute",
+        "CSP_POC_Name": "Andrew Ledford",
+        "CSP_POC_Email": "federal-compliance@databricks.com ",
+        "FedRAMP_In-Process_Date": "2021-10-07T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
