@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-10-08T04:40:50.467Z",
+    "Created_At": "2021-10-09T04:40:50.794Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -469,15 +469,6 @@
             "Authorizing_Agency": "Federal Housing Finance Agency",
             "Authorizing_Subagency": "FHFA Office of the Inspector General",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-08-31T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-09-04T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-09-04T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Authorizing_Subagency": "Bureau of Engraving and Printing",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -4137,14 +4128,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2021-10-03T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-02-18T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Centers for Disease Control and Prevention",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Authorizing_Letter_Last_Sign_Date": "2020-03-26T04:00:00.000Z",
             "Authorizing_Agency": "Nuclear Regulatory Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
@@ -5226,14 +5209,6 @@
             "Letter_Date": "2018-07-19T04:00:00.000Z",
             "Authorizing_Agency": "Tennessee Valley Authority",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-TennesseeValleyAuthority-Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-08-30T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-08-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-08-30T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Housing and Urban Development",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHUD-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -9445,14 +9420,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2018-08-22T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-08-22T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-08-22T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Agriculture",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-10-28T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-10-29T04:00:00.000Z",
             "Authorizing_Agency": "Farm Credit Administration",
@@ -12671,14 +12638,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2018-09-10T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-10-05T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-10-03T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Labor",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-01-07T05:00:00.000Z",
             "Letter_Expiration_Date": "2022-01-11T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-01-11T05:00:00.000Z",
@@ -12818,6 +12777,13 @@
             "Authorizing_Agency": "Department of Justice",
             "Authorizing_Subagency": "Federal Bureau of Prisons",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2022-04-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-10-01T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Labor",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -15423,6 +15389,30 @@
         "CSP_POC_Name": "Mel Zeledon",
         "CSP_POC_Email": "fedramp@blackline.com",
         "Fedramp_Ready_Date": "2020-08-10T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "BJL Associates",
+        "Cloud_Service_Provider_Package": "BJL|ai",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2118855533",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of the Interior",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+        "Authorizing_Agency": "Department of the Interior",
+        "Authorizing_Subagency": "Bureau of Trust Funds Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/BJL%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "www.bjlassoc.com",
+        "CSO_Description": "BJL|ai provides a scalable suite of AI solutions capable of classifying and extracting data from structured, semi-structured, and unstructured content (documents, databases, websites, images, etc.).  The content is read, and the required data extracted and validated by BJL|ai.\n \nBJL|ai utilizes cloud-based technology and proprietary Artificial Intelligence (AI) algorithms to classify documents and extract data from sentences, paragraphs or entire pages.  BJL provides Business Process Automation and Robotic Process Automation services through our BJL|ai federal platform. \n\nBJL|ai provides a customizable, user-friendly interface and dashboard to simplify the AI enabled QC process for the end user. BJL|ai utilizes Natural Language Processing (NLP), Machine Learning (ML), AI OCR, data extraction, and the integration of customer provided data to create accurate federal records/deliverables that meet NARA standards.\n\nBJL|ai dramatically streamlines business processes, enables improved decision making, improves SLA’s and customer service by reducing document identification and data extraction or manual data entry.  BJL|ai can assist customers with their M19-21 initiatives.\n\nBJL|ai makes Federal Records more valuable to the agency, business unit and end user.",
+        "CSP_POC_Name": "James Bejoian",
+        "CSP_POC_Email": "fedramp@bjlassoc.com",
+        "FedRAMP_In-Process_Date": "2021-10-08T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
