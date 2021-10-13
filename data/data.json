@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-10-12T04:40:50.403Z",
+    "Created_At": "2021-10-13T04:40:50.320Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -690,14 +690,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2018-09-14T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-10-12T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-10-12T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-06-12T04:00:00.000Z",
             "Authorizing_Agency": "National Science Foundation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
@@ -732,6 +724,14 @@
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Defense Information Systems Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-10-12T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-01-12T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-10-12T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -1675,14 +1675,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2018-07-18T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-07-18T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-07-18T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2018-12-03T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-12-03T05:00:00.000Z",
             "Authorizing_Agency": "Corporation for National & Community Service (CNCS)",
@@ -1855,6 +1847,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-07-28T04:00:00.000Z",
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Department of the Navy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-09-23T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-09-23T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-09-23T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
@@ -3095,7 +3095,7 @@
           "F1209051525"
         ],
         "CSP_Website": "www.projecthosts.com",
-        "CSO_Description": "The Federal Private Cloud (FPC) is a General Support System (GSS) platform (PaaS) built primarily on Microsoft Azure Government. Project Hosts also deploys customer dedicated subnets on Azure commercial for those customers/ agencies that request this. The GSS is composed of systems and services that manage access control, authentication, auditing, monitoring, scanning, patching, configuration management, malware prevention, intrusion prevention, incident response, backup, and disaster recovery for each Application deployed on the FPC. The Federal Private Cloud is classified as a hybrid cloud deployment model to enable state and local agencies as well as commercial entities to deploy applications in a secure environment on top of the FPC GSS system.\r\n\r\nThere are two main types of customers who use the FPC: (i) Independent Software Vendors (ISVs) deploying multi tenant SaaS applications and (ii) Federal, state or local agencies and commercial customers deploying dedicated applications just for their agency or organization. For both types of customer, their applications are deployed on customer-dedicated virtual servers or Azure PaaS services inside customer-dedicated subnets. Network security group access controls ensure that each customer’s subnet is completely isolated from and has no access to any other customer’s subnet. PaaS security subnets handling functions such as authentication, DMZ, SIEM, etc. are built on Azure Government.\r\n\r\nFor FPC customers, Project Hosts also provides services that are over and above the PaaS offering described in the FPC FedRAMP package. Namely, Project Hosts deploys, secures, manages, and provides continuous monitoring for applications that are compatible with FPC architecture, authentication, operating system, database, and access requirements.\r\n\r\nFor ISV customers, Project Hosts also helps to create their SaaS-level FedRAMP package, helps them throughout the agency authorization process, and manages their 3PAO annual assessments.\r\n\r\nFor agency customers, Project Hosts assists them in the creation of their own SSP, manages annual 3PAO scanning and penetration testing of their dedicated applications, and provides a monthly application-level POA&M. Following is a partial list of applications for which Project Hosts is providing these services over and above the FPC platform:\n\n* Accenture Federal (Task management Tool)\r\n* Blue Prism (Blue Prism)\r\n* BrightWork (BrightWork SharePoint-based Project Management)\r\n* Checkmarx (CxSAST Source Code Scanner)\r\n* Drupal (Drupal CMS)\r\n* FlowVU (FlowVU Collaboration)\r\n* Gimmal (Gimmal Records Management)\r\n* Lexmark (Managed Print Service)\r\n* Microsoft (Office, Dynamics, Power BI Server, Project Server, SharePoint, SSRS)\r\n* Sopheon (Accolade Enterprise Innovation Management)\r\n* UMT360 (SharePoint-based Enterprise Portfolio Management)\r\n* Vendigital (Vendigital)\r\n* WordPress (WordPress CMS)\r\n* Permuta (Defense Ready)\r\n* ORDR (ORDR)\r\n* Nuance (Dragon Medical One)\r\n* Gimmal (Records Management)\r\n* Invoke (UiPath Orchestrator)\r\n* Conga (Contract Lifecycle Management and Conga Approvals)\r\n* Davra (WebEx Legislate)\n\nIf an agency would like to use one of these Applications or bring in another FPC-compatible Application, Project Hosts will provide application-level artifacts that will help the agency assess the risk of deploying that application in the FPC as well as any other documentation or evidence required in order to grant an Authority to Operate (ATO).",
+        "CSO_Description": "The Federal Private Cloud (FPC) is a General Support System (GSS) platform (PaaS) built primarily on Microsoft Azure Government. Project Hosts also deploys customer dedicated subnets on Azure commercial for those customers/ agencies that request this. The GSS is composed of systems and services that manage access control, authentication, auditing, monitoring, scanning, patching, configuration management, malware prevention, intrusion prevention, incident response, backup, and disaster recovery for each Application deployed on the FPC. The Federal Private Cloud is classified as a hybrid cloud deployment model to enable state and local agencies as well as commercial entities to deploy applications in a secure environment on top of the FPC GSS system.\r\n\r\nThere are two main types of customers who use the FPC: (i) Independent Software Vendors (ISVs) deploying multitenant SaaS applications and (ii) Federal, state or local agencies and commercial customers deploying dedicated applications just for their agency or organization (not multitenant).  For both types of customers, their applications are deployed on customer-dedicated virtual servers (or Azure PaaS services) inside customer-dedicated subnets.  Network security group access controls ensure that each customer’s subnet is completely isolated from and has no access to any other customer’s subnet.  PaaS security subnets handling functions such as authentication, DMZ, SIEM, etc. are built on Azure Government.  Customers have the option to have their dedicated application subnets built on either Azure Government or Azure Commercial.  Either way, customer subnets are connected to the PaaS security subnets through V-net peering as described more fully here: https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview.\r\n\r\nFor FPC customers, Project Hosts also provides services that are over and above the PaaS offering described in the FPC FedRAMP package.  Namely, Project Hosts deploys, secures, manages, and provides continuous monitoring for applications that are compatible with FPC architecture, authentication, operating system, database, and access requirements.\r\n\r\nFor ISV customers, Project Hosts also creates their SaaS-level FedRAMP package, helps them throughout the agency authorization process, and manages their 3PAO annual assessments.\r\n\r\nFor agency customers, Project Hosts assists them in the creation of their own SSP, manages annual 3PAO scanning and penetration testing of their dedicated applications, and provides a monthly application-level POA&M.  Following is a partial list of applications for which Project Hosts is providing these services over and above the FPC platform:\r\n\r\n* Accenture Federal (Task management Tool)\r\n* Blue Prism (Blue Prism)\r\n* BrightWork (BrightWork SharePoint-based Project Management)\r\n* Checkmarx (CxSAST Source Code Scanner)\r\n* Drupal (Drupal CMS)\r\n* FlowVU (FlowVU Collaboration)\r\n* Gimmal (Gimmal Records Management)\r\n* Lexmark (Managed Print Service)\r\n* Microsoft (Office, Dynamics, Power BI Server, Project Server, SharePoint, SSRS)\r\n* Sopheon (Accolade Enterprise Innovation Management)\r\n* UMT360 (SharePoint-based Enterprise Portfolio Management)\r\n* Veritas (eVault, eDiscovery, Merge1)\r\n* WordPress (WordPress CMS)\r\n* Permuta (Defense Ready)\r\n* Gimmal (Records Management)\r\n* Invoke (UiPath Orchestrator and RPA)\r\n* Conga (Contract Lifecycle Management and Conga Approvals)\r\n* Davra (WebEx Legislate, Internet of Things)\r\n* Ephesoft (Transact)\r\n* OM Group Inc (ProjNet)\r\n* Nintex (K2 Five, Workflow Cloud)\r\n* WordPress As a Service (WPaaS)\r\n* C3 AI (C3 AI Suites)\r\n\r\nIf an agency would like to use one of these Applications or bring in another FPC-compatible Application, Project Hosts will provide application-level artifacts that will help the agency assess the risk of deploying that application in the FPC as well as any other documentation or evidence required in order to grant an Authority to Operate (ATO).",
         "Announcement_Date": "2016-03-11T05:00:00.000Z",
         "CSP_POC_Name": "Scott Chapman",
         "CSP_POC_Email": "info@projecthosts.com",
@@ -4229,121 +4229,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Qualtrics",
-        "Cloud_Service_Provider_Package": "Qualtrics XM Platform",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1606097904",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2018-10-05T04:00:00.000Z",
-        "Original_Expiration_Date": "2021-10-05T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Commerce",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-        "Authorizing_Agency": "Department of Commerce",
-        "Authorizing_Subagency": "United States Census Bureau",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Qualtrics%20Logo2.png",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866",
-          "F1206081364",
-          "F1508207205",
-          "F1206061353"
-        ],
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2019-03-28T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-03-28T04:00:00.000Z",
-            "Authorizing_Agency": "Social Security Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-04-17T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-04-17T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-03-26T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-03-28T04:00:00.000Z",
-            "Authorizing_Agency": "Consumer Financial Protection Bureau",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFPB_Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2022-10-31T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-11-03T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-03-26T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-03-25T04:00:00.000Z",
-            "Authorizing_Agency": "General Services Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-02-13T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-04-23T04:00:00.000Z",
-            "Authorizing_Agency": "United States International Trade Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USITC%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-06-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-07-07T04:00:00.000Z",
-            "Authorizing_Agency": "National Science Foundation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-08-21T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-09-09T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-09-09T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "FirstNet",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2023-04-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-04-21T04:00:00.000Z",
-            "Authorizing_Agency": "Environmental Protection Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-05-27T04:00:00.000Z",
-            "Letter_Expiration_Date": "2024-05-26T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-05-27T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Veterans Affairs",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-06-04T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-06-04T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-07-07T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-07-13T04:00:00.000Z",
-            "Authorizing_Agency": "Consumer Product Safety Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CPSC%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Zscaler",
         "Cloud_Service_Provider_Package": "Zscaler Internet Access – Government (Secure Web Gateway – vTIC)",
         "Path": "Agency",
@@ -5088,6 +4973,129 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-03-05T05:00:00.000Z",
             "Authorizing_Agency": "Federal Trade Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Qualtrics",
+        "Cloud_Service_Provider_Package": "Qualtrics XM Platform",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1606097904",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-03-28T04:00:00.000Z",
+        "Original_Expiration_Date": "2022-03-28T04:00:00.000Z",
+        "Sponsoring_Agency": "Social Security Administration",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
+        "Authorizing_Agency": "Social Security Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Qualtrics%20Logo2.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "F1206081364",
+          "F1508207205",
+          "F1206061353"
+        ],
+        "CSP_Website": "www.qualtrics.com",
+        "CSO_Description": "The Qualtrics XM Platform is a web-based application that allows Government agencies to create surveys and then collect, analyze, and store the data produced from those surveys. Government agencies can use the application to collect and analyze citizen, employee, and community feedback to improve services and engagement for both external customers (citizens) and internal customers (public sector employees). The Qualtrics XM Platform enables multiple departments within an agency to collect and analyze survey data within a single enterprise system, allowing all levels of the agency or department to have access to important feedback data. The XM Platform includes an array of services that can be utilized to track, manage, and improve the experience of external and internal customers, such as:\n\n• XM Core – Allows agencies to construct surveys, distribute them to participants, and then manage and analyze individual participant responses. Agencies can then create reports that present the results and publish these reports to the web or share the report links with others.\n• Customer Experience - Allows agencies to study and improve the customer experience by employing Relationship NPS, Transactional NPS, Customer Satisfaction, and Event Feedback programs.\n• Employee Experience - Allows agencies to measure and manage employee engagement by creating feedback loops for relevant aspects of public sector employment, such as Manager Feedback, Training Feedback, Employee Engagement, and Employee Pulse programs.\n• Site Intercept – Allows agencies to display a piece of text, graphic, or widget that encourages a visitor to their website to take a survey or redirect to a specific webpage. To implement, the agency administrator places a snippet of Qualtrics’ JavaScript code on the agency’s website.\n• Actions and Tickets - Allows defining and triggering a workflow when a set of conditions are met, such as creating support tickets or integrating with external systems via web service API.\n• Data Analytics - Provides ability to perform natural language processing, statistical and predictive analysis of the data collected via the Research Suite.\n• Reports and Dashboards – Enables agencies to build dashboards that provide visual displays of the data collected from an agency’s surveys combined with other imported data sources.\n\nQualtrics creates a library where each agency can store question templates, graphics, messages, and files to be used in building surveys and sending messages to participants. Agencies can integrate data from other sources, such as their customer relationship management (CRM) tools, and produce and share reports. They can upload a list of contacts as a CSV file or manually enter or edit contacts. Agencies can also view the complete history of interactions that they have had with their contacts via emails or survey responses.\n\nThe XM Platform allows customers to send surveys, notifications, and other messages via a built-in email mechanism. To enable this, the application provides an outbound mail delivery engine via SMTP. In addition, customers can generate a URL that links to their survey and send the URL out to survey participants via their own email systems.\n\nReports and data can be exported to a variety of formats, including Word, Excel, PDF, and CSV/TSV, etc.\n\nThe XM Platform provides an Administration tool that allows designated agency admins to create groups and user permissions and assign them to authorized agency users. Permissions can be set up at the agency, division, or organization level. A single sign-on (SSO) capability enables agencies to implement identity federation via LDAP, SAML / Shibboleth, central authentication service (CAS), or OAuth 2.0. Qualtrics also makes available a REST API to allow agencies to automate functions such as connecting Qualtrics surveys with external systems such as a CRM like Salesforce.",
+        "Announcement_Date": "2018-06-29T04:00:00.000Z",
+        "CSP_POC_Name": "Craig Kulfan",
+        "CSP_POC_Email": "fedramp@qualtrics.com",
+        "FedRAMP_In-Process_Date": "2016-06-09T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2019-04-17T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-04-17T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-03-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-03-28T04:00:00.000Z",
+            "Authorizing_Agency": "Consumer Financial Protection Bureau",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFPB_Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2022-10-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-11-03T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-03-26T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-03-25T04:00:00.000Z",
+            "Authorizing_Agency": "General Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-02-13T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-04-23T04:00:00.000Z",
+            "Authorizing_Agency": "United States International Trade Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USITC%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-06-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-07-07T04:00:00.000Z",
+            "Authorizing_Agency": "National Science Foundation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-08-21T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-09-09T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-09-09T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "FirstNet",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-04-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-04-21T04:00:00.000Z",
+            "Authorizing_Agency": "Environmental Protection Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-05-27T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-05-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-05-27T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-06-04T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-06-04T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-07-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-07-13T04:00:00.000Z",
+            "Authorizing_Agency": "Consumer Product Safety Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CPSC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-06-30T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-06-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-06-30T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "United States Census Bureau",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -7969,7 +7977,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Google%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "https://cloud.google.com",
-        "CSO_Description": "Google Services is comprised of Google’s multi-tenant public cloud Google Cloud Platform and built atop the Google Common Infrastructure. The Google Common Infrastructure powers Google worldwide.\n\n\nThe in-scope Google Cloud Platform services Authorized at High are: Admin Console, App Engine, BigQuery, Cloud Bigtable, Cloud DNS, Cloud HSM, Cloud Identity, Cloud Key Management Service, Cloud Spanner, Cloud SQL, Cloud Storage, Compute Engine, Container Registry, Dataflow, Dataproc, Firestore, Google Kubernetes Engine, Identity & Access Management (IAM), Memorystore, Persistent Disk, Pub/Sub, Virtual Private Cloud (VPC).\n\n\nThe in-scope Google Cloud Platform services Authorized at Moderate are: Access Context Manager, Access Transparency, AI Platform Training and Prediction (formerly Cloud Machine Learning Engine), AI Platform Notebooks, AutoML Natural Language, AutoML Tables, AutoML Translation, AutoML Video, AutoML Vision, BigQuery, Care Studio, Cloud Billing, Cloud Build, Cloud CDN, Cloud Composer, Cloud Console (including Context Aware Access), Cloud Console App, Cloud Data Fusion, Cloud Data Loss Prevention, Cloud Debugger (formerly Stackdriver Debugger), Cloud Deployment Manager, Cloud Endpoints, Cloud Filestore, Cloud Functions, Cloud Healthcare, Cloud Interconnect, Cloud Life Sciences (formerly Google Genomics), Cloud Load Balancing, Cloud Logging (formerly Stackdriver Logging; includes Error Reporting), Cloud NAT (Network Address Translation), Cloud Natural Language API, Cloud Monitoring, Cloud Profiler (formerly Stackdriver Profiler) , Cloud Router, Cloud Run (fully managed), Cloud SDK, Cloud Shell, Cloud Source Repositories, Cloud Trace (formerly Stackdriver Trace) , Cloud Translation, Cloud Vision, Cloud VPN, Data Catalog, Datalab, Datastore, Data Transfer Service, Dialogflow, GCP Marketplace, Google Cloud Armor, Google Cloud Identity-Aware Proxy, Identity Platform, IoT Core, Network Service Tiers, Resource Manager API, Security Command Center – Web Security Scanner (formerly Cloud Security Scanner, Service Consumer Management API), Service Infrastructure (formerly Service Control; includes Service Management API and Service Consumer Management API), Speech-to-Text , Storage Transfer Service, Talent Solution, Text-to-Speech, Video Intelligence API, VPC Service Controls.",
+        "CSO_Description": "Google Services is comprised of Google’s multi-tenant public cloud Google Cloud Platform and built atop the Google Common Infrastructure. The Google Common Infrastructure powers Google worldwide.\n\n\nThe in-scope Google Cloud Platform services Authorized at High are: Admin Console, App Engine, BigQuery, Cloud Bigtable, Cloud DNS, Cloud HSM, Cloud Identity, Cloud Key Management Service, Cloud Spanner, Cloud SQL, Cloud Storage, Compute Engine, Container Registry, Dataflow, Dataproc, Firestore, Google Kubernetes Engine, Identity & Access Management (IAM), Memorystore, Persistent Disk, Pub/Sub, Virtual Private Cloud (VPC).\n\n\nThe in-scope Google Cloud Platform services Authorized at Moderate are: Access Context Manager, Access Transparency, AI Platform Training and Prediction (formerly Cloud Machine Learning Engine), AI Platform Notebooks, Apigee, AutoML Natural Language, AutoML Tables, AutoML Translation, AutoML Video, AutoML Vision, BigQuery, Care Studio, Cloud Billing, Cloud Build, Cloud CDN, Cloud Composer, Cloud Console (including Context Aware Access), Cloud Console App, Cloud Data Fusion, Cloud Data Loss Prevention, Cloud Debugger (formerly Stackdriver Debugger), Cloud Deployment Manager, Cloud Endpoints, Cloud Filestore, Cloud Functions, Cloud Healthcare, Cloud Interconnect, Cloud Life Sciences (formerly Google Genomics), Cloud Load Balancing, Cloud Logging (formerly Stackdriver Logging; includes Error Reporting), Cloud NAT (Network Address Translation), Cloud Natural Language API, Cloud Monitoring, Cloud Profiler (formerly Stackdriver Profiler) , Cloud Router, Cloud Run (fully managed), Cloud SDK, Cloud Shell, Cloud Source Repositories, Cloud Trace (formerly Stackdriver Trace) , Cloud Translation, Cloud Vision, Cloud VPN, Data Catalog, Datalab, Datastore, Data Transfer Service, Dialogflow, GCP Marketplace, Google Cloud Armor, Google Cloud Identity-Aware Proxy, Identity Platform, IoT Core, Network Service Tiers, Resource Manager API, Security Command Center – Web Security Scanner (formerly Cloud Security Scanner, Service Consumer Management API), Service Infrastructure (formerly Service Control; includes Service Management API and Service Consumer Management API), Speech-to-Text , Storage Transfer Service, Talent Solution, Text-to-Speech, Video Intelligence API, VPC Service Controls.",
         "Announcement_Date": "2019-12-04T05:00:00.000Z",
         "CSP_POC_Name": "Google FedRAMP Team",
         "CSP_POC_Email": "fedramp@google.com",
@@ -9225,12 +9233,13 @@
         "Independent_Assessor": "Schellman & Company, LLC",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW",
-          "F1206081364"
+          "F1206081364",
+          "F1512167750"
         ],
         "CSP_Website": "https://slack.com/",
         "CSO_Description": "Slack has transformed business communication. It’s the leading channels-based messaging platform, used by millions to align their teams, unify their systems, and drive their businesses forward. Only Slack offers a secure, enterprise-grade environment that can scale with the largest companies in the world. It is a new layer of the business technology stack where people can work together more effectively, connect all their other software tools and services, and find the information they need to do their best work. Slack is where work happens. \r\n\r\nSlack is able to be configured to support Moderate workloads with our Enterprise offerings and Low workloads with our Standard and Plus plans.",
         "Announcement_Date": "2020-05-20T04:00:00.000Z",
-        "CSP_POC_Name": "Nick Hardy",
+        "CSP_POC_Name": "Taylor Trigger",
         "CSP_POC_Email": "fedramp@slack-corp.com",
         "FedRAMP_In-Process_Date": "2019-08-16T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
@@ -15229,6 +15238,36 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Vyopta Incorporated",
+        "Cloud_Service_Provider_Package": "Vyopta CPM Suite",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2017459185",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "LI-SaaS",
+        "Original_Authorization_Date": "2021-09-30T04:00:00.000Z",
+        "Sponsoring_Agency": "General Services Administration",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+        "Authorizing_Agency": "General Services Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Vyopta%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "FR1912658130",
+          "F1607057910"
+        ],
+        "CSP_Website": "www.vyopta.com\r",
+        "CSO_Description": "Vyopta CPM products and services provides a single pane of glass monitoring and analytics solution for unified collaboration and communication systems. We enable organizations to view both simplified and detailed comprehensive metrics for their collaboration investment, provide alerting for troubleshooting and present insights on the use of collaboration technology in the  workspace. \r",
+        "Announcement_Date": "2021-10-12T04:00:00.000Z",
+        "CSP_POC_Name": "Cody Bell",
+        "CSP_POC_Email": "fedramp@vyopta.com",
+        "FedRAMP_In-Process_Date": "2020-12-28T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Acalvio Technologies Inc.",
         "Cloud_Service_Provider_Package": "ShadowPlex",
         "Designation": "FedRAMP Ready",
@@ -17207,29 +17246,6 @@
         "CSP_POC_Name": "VMware Government Services",
         "CSP_POC_Email": "fedramp-vmc@vmware.com",
         "Fedramp_Ready_Date": "2020-05-06T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Vyopta Incorporated",
-        "Cloud_Service_Provider_Package": "Vyopta CPM Suite",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2017459185",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "LI-SaaS",
-        "Sponsoring_Agency": "General Services Administration",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-        "Authorizing_Agency": "General Services Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Vyopta%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.vyopta.com\r",
-        "CSO_Description": "Vyopta CPM products and services provides a single pane of glass monitoring and analytics solution for unified collaboration and communication systems. We enable organizations to view both simplified and detailed comprehensive metrics for their collaboration investment, provide alerting for troubleshooting and present insights on the use of collaboration technology in the  workspace. \r",
-        "CSP_POC_Name": "Cody Bell",
-        "CSP_POC_Email": "fedramp@vyopta.com",
-        "FedRAMP_In-Process_Date": "2020-12-28T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
