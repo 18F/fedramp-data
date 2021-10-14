@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-10-13T04:40:50.320Z",
+    "Created_At": "2021-10-14T04:40:51.133Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -5512,13 +5512,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2018-10-05T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-08-24T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-01-30T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-01-31T05:00:00.000Z",
             "Authorizing_Agency": "Corporation for National & Community Service (CNCS)",
@@ -5573,13 +5566,6 @@
             "Letter_Date": "2018-09-17T04:00:00.000Z",
             "Authorizing_Agency": "Federal Deposit Insurance Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-10-05T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-08-24T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -11246,7 +11232,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "SailPoint Technologies Holdings, Inc.",
+        "Cloud_Service_Provider_Name": "SailPoint Technologies, Inc.",
         "Cloud_Service_Provider_Package": "Identity Security",
         "Path": "Agency",
         "Designation": "Compliant",
@@ -15370,7 +15356,7 @@
         "CSO_Description": "Aruba Central is a cloud-hosted solution, offering IT organizations a simple and effective way to manage and monitor their wired, wireless, and SD-Branch networks. It brings device and network monitoring, wireless management, wired management, and maintenance activities into a cloud hosted management tool.",
         "CSP_POC_Name": "Hemant Chaskar",
         "CSP_POC_Email": "hpe-aruba-fedramp-pgmteam@hpe.com",
-        "FedRAMP_In-Process_Date": "2020-10-15T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2021-03-22T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -15664,7 +15650,7 @@
         "CSO_Description": "Auto-mapped standards, automated documentation, real-time status, risk & maturity. When it comes to Compliance Cartography, no one is more comprehensive, secure and automated saving you time, trouble and money. Serving the enterprise to the start-up community. Continuum GRC is a software as a service (SaaS) product that is purpose build for users who perform audit & compliance assessments, risk assessment & risk management, governance & policy development, and all other manner of audits and assessments.\r\n\r\nIn addition to pre-configured questionnaires, assessment modules, and forms, the Continuum GRC ITAM SaaS application has creation tools that provide drag-n-drop easy custom creation for system administrators to construct their own assessment modules in 26 languages. Real time reports on Compliance Status, Risk Scores, Maturity Scores, workflows, tasking records, evidence management, and historical performance helping you stay proactive; not reactive.\r\n\r\nMany of the Continuum GRC ITAM SaaS application assessment modules include support for NIST 800-53. CMMC, 800-171, 800-66, 800-30, FedRAMP, CJIS, DFARS, HIPAA, ITRM, AICPA SOC 1, SOC 2, GDPR, ISO 27001, NERC CIP, and hundreds of other modules available to customers. Customer use Continuum GRC to replace existing tools, templates, and manual processes in place to support internal compliance and GRC requirements. The automation of Continuum GRC reduces manual labor, complexity of and between frameworks, produces reports, SSPs, POA&Ms, graphics, dashboards, and related outputs all sustained over the entire life-cycle of the program.",
         "CSP_POC_Name": "Michael Peters",
         "CSP_POC_Email": "FedRAMP@ContinuumGRC.com",
-        "FedRAMP_In-Process_Date": "2020-10-08T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2020-12-23T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -16739,6 +16725,29 @@
         "CSP_POC_Name": "Brad Bartholomew",
         "CSP_POC_Email": "fedramp@paloaltonetworks.com",
         "FedRAMP_In-Process_Date": "2020-12-18T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "PC Matic",
+        "Cloud_Service_Provider_Package": "PC Matic Federal Support System",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2131553959",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Small Business Administration",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SmallBusinessAdmin-Seal.png",
+        "Authorizing_Agency": "Small Business Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/PC%20Matic%20Logo.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "https://www.pcmatic.com/federal/",
+        "CSO_Description": "PC Matic Federal provides essential security that satisfies NIST 800-53 CM-7 (5) Least Functionality and fills other potential gaps left by traditional endpoint security software. With a foundation in application whitelisting, PC Matic uses a default-deny approach that prevents all known bad and untrusted applications from executing. Our patented globally automated whitelist technology provides a backbone of millions of known good applications to remove the headaches that come with traditional application whitelisting solutions by drastically reducing false positives during and after implementation.\r\n\r\nPC Matic Federal is hosted on the FedRAMP Authorized Hybrid ORockCloud and is operated by employees that are all U.S. citizens working for a U.S.-based company.  PC Matic has partnered with NIST on implementing a Zero Trust Architecture using application whitelisting as required by the recent executive order on improving cybersecurity.",
+        "CSP_POC_Name": "Rob Woodworth",
+        "CSP_POC_Email": "fedramp@pcmaticfederal.com",
+        "FedRAMP_In-Process_Date": "2021-10-13T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
