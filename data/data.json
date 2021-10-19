@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-10-18T04:40:50.865Z",
+    "Created_At": "2021-10-19T04:40:51.240Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -218,14 +218,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-09-30T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-09-30T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Contract Management Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2023-03-31T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-06-05T04:00:00.000Z",
             "Authorizing_Agency": "Department of Homeland Security",
@@ -256,6 +248,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-04-15T04:00:00.000Z",
             "Authorizing_Agency": "Department of State",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-09-23T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-09-23T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Contract Management Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -2826,6 +2826,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-07-12T04:00:00.000Z",
             "Authorizing_Agency": "National Science Foundation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-10-18T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-10-18T04:00:00.000Z",
+            "Authorizing_Agency": "Council of the Inspectors General on Integrity and Efficiency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CIGIE%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -7002,6 +7009,13 @@
             "Authorizing_Agency": "Department of the Treasury",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-10-18T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-10-18T04:00:00.000Z",
+            "Authorizing_Agency": "Council of the Inspectors General on Integrity and Efficiency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CIGIE%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -9167,7 +9181,15 @@
         "CSP_POC_Email": "cloudassured@smartronix.com",
         "Fedramp_Ready_Date": "2018-05-24T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2019-05-15T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2021-05-21T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "HHS Office of the Inspector General",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Newyu, Inc.",
