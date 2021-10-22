@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-10-21T04:40:50.625Z",
+    "Created_At": "2021-10-22T04:40:50.691Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -5588,6 +5588,14 @@
             "Authorizing_Subagency": "United States Census Bureau",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2024-05-05T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-05-05T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Immigration and Customs Enforcement",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -8800,6 +8808,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-08-25T04:00:00.000Z",
             "Authorizing_Agency": "Environmental Protection Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-09-23T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-09-27T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Alcohol and Tobacco Tax and Trade Bureau",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -12168,7 +12184,16 @@
         "CSP_POC_Name": "Rahat Sethi",
         "CSP_POC_Email": "fedramp@adobe.com",
         "FedRAMP_In-Process_Date": "2018-06-20T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Expiration_Date": "2024-05-05T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-05-05T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Immigration and Customs Enforcement",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Palo Alto Networks, Inc.",
@@ -17705,9 +17730,9 @@
       {
         "Name": "Emagine IT",
         "Accreditation_Date": "2015-05-26T04:00:00.000Z",
-        "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Emagine%20Logo.jpg",
-        "Description": "Emagine IT is an information technology services and consulting company based in the Washington, DC metropolitan area that specializes in delivering cost conscious, innovative solutions to meet the evolving business requirements of the clients we serve. As a FedRAMP accredited Third Party Assessment Organization (3PAO), Emagine IT is authorized to conduct independent security risk assessments for Cloud Service Providers (CSP). Emagine’s 3PAO services provide multiple levels of security assessment for CSP’s looking to comply with FedRAMP requirements. While many CSP’s set out to and achieve a Provisional Authority To Operate (P-ATO), others simply want to be held to the highest standard. With over 1,000 federal assessments based on NIST controls, EIT is ready to support your needs. We offer 3PAO services in Pre-Assessments, Assessments, Advisory, and Penetration Testing.",
-        "POC_Name": "Song Pak",
+        "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/EIT%20Logo.png",
+        "Description": "Based in the Washington, DC metropolitan area, Emagine IT (EIT) provides tailored cybersecurity and enterprise IT services to improve risk postures and deliver digital transformation to its commercial and federal customer. EIT specializes in delivering cost conscious, innovative solutions to meet the evolving business requirements of the clients we serve. As a Type C FedRAMP accredited Third Party Assessment Organization (3PAO), EIT is authorized to conduct independent security risk assessments for Cloud Service Providers (CSP) and deliver FedRAMP consulting services. EIT’s 3PAO services provide multiple levels of security assessment for CSP’s looking to comply with FedRAMP and Department of Defense (DoD) requirements. While many CSP’s set out to and achieve an Authority To Operate (ATO), others simply want to be held to the highest standard. With over 1,000 federal assessments based on NIST controls, EIT is ready to support your needs. We offer Gap Assessments, FedRAMP Assessments, Readiness Assessments, Turn-key SSP Documentation and Consulting, Penetration Testing, and Threat Hunting.\n\n**FedRAMP Readiness Assessment / Readiness Assessment Report (RAR)**\n\nSome organizations may opt to pursue a FedRAMP Readiness Assessment to help market their platform and attract an agency sponsor. This step toward your eventual FedRAMP authorization does not require a full penetration test, but you must still demonstrate a level of maturity aligned with the FedRAMP security framework. EIT can quickly support this FedRAMP stage with a four-week assessment timeline that may lead to your “FedRAMP Ready” designation on the FedRAMP Marketplace.\n\n**FedRAMP Assessment & Attestation**\n\nAs a FedRAMP 3PAO, EIT has performed thousands of security assessments across the federal and commercial landscape. Because EIT has been on both sides of the process, we believe advisors make the best assessors. Our subject matter experts are not solely focused on checklists. They understand which findings are real, rather than false flags that disrupt and slow down the assessment process. Working with EIT means you are mitigating risk and maintaining the agreed-upon timelines. Through the FedRAMP assessment process, EIT will develop the required documentation, including a Security Assessment Plan (SAP), Security Requirements Traceability Matrix (SRTM) to document assessment results, Security Assessment Report (SAR), and recommendation for authorization.\n\n**FedRAMP Advisory & Remediation**\n\nAre you transitioning to a new FIPS-199 designation, requiring you to comply with more controls? Are you thinking about implementing a multi-cloud deployment strategy? Are you trying to find ways to leverage your current compliance and security investments to help you achieve your FedRAMP authorization? Working collaboratively with your teams, we will identify, understand, and help you overcome your unique FedRAMP compliance challenges as we walk you through your FedRAMP preparation. With the gap assessment in-hand, EIT will work with your team to map out and engineer the ideal system architecture and to document the necessary environment and security practices within your custom-tailored System Security Plan (SSP). Our advisory services can encompass various CSP systems and service models to ensure that timelines are defined and met, deficiencies in system architecture and policies are mended, understanding of FedRAMP controls and procedures is achieved, annual audits and ATO renewal process is smooth with dedicated continuous monitoring.\n\n**Gap Assessment**\n\nThe first step in the certification process is to determine your organization’s readiness. How confident are you that you can move forward with your FedRAMP goals? Do you meet the FedRAMP showstoppers and critical controls? EIT will work with your team to identify how FedRAMP requirements may impact your organization’s operations and security architecture. These discovery activities are led by EIT’s subject matter experts through hands-on workshops and interviews with key personnel in your organization, culminating in a final report that describes critical gaps and prescribes recommendations for remediation.\n\n**FedRAMP Continuous Monitoring (ConMonaaS)**\n\nMaintaining documentation and systems that are outmoded but still essential can command more resources than most organizations can sustain. FedRAMP is a continuous program, rather than just a project with a start and end date. The EIT team will establish and assist with the monthly, quarterly, and annual continuous monitoring activities and reports required to maintain your authority to operate. This offering can be integrated with your organization’s many compliance requirements, such as CMMC, FISMA, HITRUST, ISO, and more.",
+        "POC_Name": "Adam Chun",
         "POC_Email": "3pao@eit2.com",
         "website": "www.eit2.com/services/federal-assessments/",
         "Remediation": "N",
@@ -17717,7 +17742,7 @@
         "Provide_Consulting_Services": "Y",
         "Description_of_Consulting_Services": "Emagine IT provides expert advisory services that grant Cloud Service Providers everything that is needed to pass assessments and obtain/renew their ATOs. By leveraging our advisory services, Cloud Service Providers receive the guidance needed to refine security documentation and procedures.\n\nOur advisory services can encompass various CSP systems and service models to ensure that timelines are defined and met, deficiencies in system architecture and policies are mended, understanding of FedRAMP controls and procedures is achieved, annual audits and ATO renewal process is smooth with dedicated continuous monitoring, all while following Emagine IT’s methodology proven to reduce time and cost.\n\nEmagine IT will conduct readiness reviews to determine completion of deliverables and project timelines for FedRAMP package submissions.\n",
         "Consulting_Services_To": "* Complete Discovery Source (CDS)\n* Cornerstone OnDemand\n* Definitive Logic\n* Fortinet\n* MDRC\n* Netspective\n* Philips North America\n* Philips Signify\n* R&K Solutions\n* Scientific Consulting Group\n* Symantec\n* Unisys\n* Veritone",
-        "Additional_Cyber_Frameworks": "* DFARS\n* DoD-RMF \n* FISMA\n* RMF\n* NIST 800-171"
+        "Additional_Cyber_Frameworks": "* CMMC\n* DFARS\n* DoD-RMF \n* FISMA\n* HIPAA/HITECH\n* HITRUST\n* IMO Resolution MSC.428(98)(Maritime Cybersecurity)\n* ISO 27001\n* PCI DSS\n* RMF\n* NIST 800-171\n* SOC 2 Type 2"
       },
       {
         "Name": "EmeSec Incorporated",
