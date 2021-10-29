@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-10-28T04:40:50.983Z",
+    "Created_At": "2021-10-29T04:40:50.871Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -235,15 +235,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-10-12T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-10-14T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-10-12T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Information Systems Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2023-11-30T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-04-15T04:00:00.000Z",
             "Authorizing_Agency": "Department of State",
@@ -255,6 +246,15 @@
             "Letter_Expiration_Date": "2022-09-23T04:00:00.000Z",
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Defense Contract Management Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-10-18T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-10-13T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-10-18T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Information Systems Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
@@ -10236,93 +10236,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Google",
-        "Cloud_Service_Provider_Package": "Google Workspace",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1206081364",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2020-08-24T04:00:00.000Z",
-        "Sponsoring_Agency": "General Services Administration",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-        "Authorizing_Agency": "General Services Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Google%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "FR1805751477"
-        ],
-        "CSP_Website": "https://workspace.google.com",
-        "CSO_Description": "Google Workspace (formerly G Suite) is comprised of Google’s multi-tenant public and hybrid\ncloud instances and leverages Google Services (Google Cloud Platform Products). \n\nThe following Google Workspace editions are FedRAMP authorized: Google Workspace Basic,\nGoogle Workspace Business, Google Workspace Enterprise, Google Workspace for Education,\nGoogle Workspace Enterprise for Education, Google Workspace for Nonprofits, and Google\nWorkspace for Governments. The following Google Workspace services are FedRAMP\nauthorized: Admin Console, Admin SDK, Android and Chrome Device Management, Calendar,\nChrome Sync (for Google Workspace for Education domains only), Classroom, Cloud Identity\n(including Auto Provisioning), Cloud Search (including 3P), Contacts, Directory Sync, Docs,\nDrawings, Drive, Google Drive for Work, Forms, Google Workspace Security Center (for Google\nWorkspace Enterprise and Google Workspace Enterprise for Education domains only), Gmail\n(incl. Talk), Google Tasks, Groups for Business, Google Chat (including Classic Hangouts Bot,\nGoogle Drive Bot, and Meet Bot), Google Hangouts, Google Meet (including Live Stream),\nGoogle Voice, Jamboard, Keep, Secure LDAP, Sheets, Sites Classic, Sites New, Slides, Vault;\nAdmin SDK: Admin Settings API, Apps Email Audit API, Calendar Resource API, Directory API\n(replaced Provisioning API), Domain Shared Contacts API, Email Settings API, Enterprise\nLicense Manager API, Groups Migration API, Groups Settings API, Reports API, Reseller API;\nDocs APIs: Apps Activity API, Calendar API, Contacts API, Drive REST API (replaced\nDocuments List API), Gmail REST API (replaced Email Migration API), Sheets API, Sites API,\nTasks API.\n\nGoogle Cloud Platform services are now described on the Google Services (Google Cloud Platform Products and\nunderlying Infrastructure) authorized FedRAMP Marketplace page.",
-        "Announcement_Date": "2016-01-22T05:00:00.000Z",
-        "CSP_POC_Name": "Google FedRAMP Team",
-        "CSP_POC_Email": "fedramp@google.com",
-        "FedRAMP_In-Process_Date": "2014-05-11T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2014-06-24T04:00:00.000Z",
-            "Authorizing_Agency": "National Archives and Records Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NARA_Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2014-10-31T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2017-02-17T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Institute of Standards and Technology",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-03-26T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-03-25T04:00:00.000Z",
-            "Authorizing_Agency": "General Services Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-01-21T05:00:00.000Z",
-            "Letter_Expiration_Date": "2024-03-29T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-03-29T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Authorizing_Subagency": "Los Alamos National Laboratory",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-04-16T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-04-19T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-04-19T04:00:00.000Z",
-            "Authorizing_Agency": "Library of Congress",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/LoC%20logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-01-29T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-02-05T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2021-12-06T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-08-02T04:00:00.000Z",
-            "Authorizing_Agency": "United States Agency for International Development",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "mLINQS",
         "Cloud_Service_Provider_Package": "mLINQS Hosting Service",
         "Path": "Agency",
@@ -15359,6 +15272,99 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Google",
+        "Cloud_Service_Provider_Package": "Google Workspace",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "F1206081364",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "High",
+        "Original_Authorization_Date": "2021-10-27T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Google%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "FR1805751477"
+        ],
+        "CSP_Website": "https://workspace.google.com",
+        "CSO_Description": "Google Workspace (formerly G Suite) is comprised of Google’s multi-tenant public and hybrid cloud instances and leverages Google Services (Google Cloud Platform Products).\n\nThe following Google Workspace services are FedRAMP In-Process at High: Calendar, Docs, Drive, Forms, Gmail, Google Chat, Google Meet, Keep, New Sites, Sheets, Slides, Vault\n\nThe following Google Workspace services are FedRAMP In-Process at Moderate: Admin SDK, Android and Chrome Device Management, Chrome Sync (for Google Workspace for Education domains only), Classroom, Cloud Search (including 3P), Contacts, Directory Sync, Drawings, Google Drive for Work, Google Workspace Security Center (for Google Workspace Enterprise and Google Workspace Enterprise for Education domains only), Google Tasks, Groups for Business, Jamboard, Secure LDAP, Sites Classic, Vault; Admin SDK: Admin Settings API, Apps Email Audit API, Calendar Resource API, Directory API (replaced Provisioning API), Domain Shared Contacts API, Email Settings API, Enterprise License Manager API, Groups Migration API, Groups Settings API, Reports API, Reseller API; Docs APIs: Apps Activity API, Calendar API, Contacts API, Drive REST API (replaced Documents List API), Gmail REST API (replaced Email Migration API), Sheets API, Sites API, Tasks API.",
+        "Announcement_Date": "2021-10-28T04:00:00.000Z",
+        "CSP_POC_Name": "Google FedRAMP Team",
+        "CSP_POC_Email": "fedramp@google.com",
+        "Fedramp_Ready_Date": "2020-12-16T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2021-05-25T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2014-06-24T04:00:00.000Z",
+            "Authorizing_Agency": "National Archives and Records Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NARA_Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2014-10-31T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2017-02-17T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Institute of Standards and Technology",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-03-26T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-03-25T04:00:00.000Z",
+            "Authorizing_Agency": "General Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-08-24T04:00:00.000Z",
+            "Authorizing_Agency": "General Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-01-21T05:00:00.000Z",
+            "Letter_Expiration_Date": "2024-03-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-03-29T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "Los Alamos National Laboratory",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-04-16T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-04-19T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-04-19T04:00:00.000Z",
+            "Authorizing_Agency": "Library of Congress",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/LoC%20logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-01-29T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-02-05T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2021-12-06T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-08-02T04:00:00.000Z",
+            "Authorizing_Agency": "United States Agency for International Development",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "Acalvio Technologies Inc.",
         "Cloud_Service_Provider_Package": "ShadowPlex",
         "Designation": "FedRAMP Ready",
@@ -15560,7 +15566,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
         "Authorizing_Agency": "Department of Veterans Affairs",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/UoC%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Independent_Assessor": "Optic Cyber Solutions, LLC",
         "CSP_Website": "http://research.data-commons.org",
         "CSO_Description": "The Gen3 Commons Service (Gen3) is an open-source multi-tenant Software as a Service (SaaS) platform for developing, creating and operating cloud-based data commons, data ecosystems, and workspaces for managing, analyzing, and sharing data.",
         "CSP_POC_Name": "Robert Grossman",
@@ -16111,29 +16117,6 @@
         "CSP_POC_Name": "Chad Cragle",
         "CSP_POC_Email": "fedramp@formassembly.com",
         "Fedramp_Ready_Date": "2020-12-29T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Google",
-        "Cloud_Service_Provider_Package": "Google Workspace - JAB",
-        "Path": "JAB",
-        "Designation": "In Process",
-        "Package_ID": "F1206081364A",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "High",
-        "Sponsoring_Agency": "JAB Authorization",
-        "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Google%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://workspace.google.com",
-        "CSO_Description": "Google Workspace (formerly G Suite) is comprised of Google’s multi-tenant public and hybrid cloud instances and leverages Google Services (Google Cloud Platform Products).\n\nThe following Google Workspace services are FedRAMP In-Process at High: Calendar, Docs, Drive, Forms, Gmail, Google Chat, Google Meet, Keep, New Sites, Sheets, Slides, Vault\n\nThe following Google Workspace services are FedRAMP In-Process at Moderate: Admin SDK, Android and Chrome Device Management, Chrome Sync (for Google Workspace for Education domains only), Classroom, Cloud Search (including 3P), Contacts, Directory Sync, Drawings, Google Drive for Work, Google Workspace Security Center (for Google Workspace Enterprise and Google Workspace Enterprise for Education domains only), Google Tasks, Groups for Business, Jamboard, Secure LDAP, Sites Classic, Vault; Admin SDK: Admin Settings API, Apps Email Audit API, Calendar Resource API, Directory API (replaced Provisioning API), Domain Shared Contacts API, Email Settings API, Enterprise License Manager API, Groups Migration API, Groups Settings API, Reports API, Reseller API; Docs APIs: Apps Activity API, Calendar API, Contacts API, Drive REST API (replaced Documents List API), Gmail REST API (replaced Email Migration API), Sheets API, Sites API, Tasks API.",
-        "CSP_POC_Name": "Google FedRAMP Team",
-        "CSP_POC_Email": "fedramp@google.com",
-        "Fedramp_Ready_Date": "2020-12-16T05:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2021-05-25T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
