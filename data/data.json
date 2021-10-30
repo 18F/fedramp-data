@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-10-29T04:40:50.871Z",
+    "Created_At": "2021-10-30T04:40:50.543Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -5418,7 +5418,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Envisage Technologies, LLC",
+        "Cloud_Service_Provider_Name": "Acadis",
         "Cloud_Service_Provider_Package": "Acadis Readiness Suite",
         "Path": "Agency",
         "Designation": "Compliant",
@@ -5433,16 +5433,16 @@
         "Sponsoring_Agency": "Department of State",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
         "Authorizing_Agency": "Department of State",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Envisage%20Logo.png",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Acadis%20Logo.png",
         "Independent_Assessor": "Kratos",
         "Underlying_CSP_Package_ID": [
           "F1603047866"
         ],
-        "CSP_Website": "https://www.envisagenow.com",
+        "CSP_Website": "https://www.acadis.com",
         "CSO_Description": "Envisage Technologies, LLC is the creator and developer of the Acadis Readiness Suite, a secure, enterprise solution that ensures our Law Enforcement, Government, Public Safety and Military personnel are trained, equipped and mission ready. We offer secure hosting as part of our SaaS solution. Unlike generic platforms, Envisage's Acadis solution is designed specifically for government training operations. In addition, Acadis is an operational and essential shared service for many DHS agencies for modernizing high-risk training operations. As such, it meets the unique needs of the Federal, Public Safety, and Military workforce.",
         "Announcement_Date": "2019-06-05T04:00:00.000Z",
         "CSP_POC_Name": "Scott Beauregard",
-        "CSP_POC_Email": "fedramp@envisagenow.com",
+        "CSP_POC_Email": "fedramp@acadis.com",
         "FedRAMP_In-Process_Date": "2018-05-09T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
@@ -5482,6 +5482,14 @@
             "Authorizing_Agency": "Department of Homeland Security",
             "Authorizing_Subagency": "Immigration and Customs Enforcement",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-09-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-10-14T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Authorizing_Subagency": "Fish and Wildlife Service",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -8005,7 +8013,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Google%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "https://cloud.google.com",
-        "CSO_Description": "Google Services is comprised of Google’s multi-tenant public cloud Google Cloud Platform and built atop the Google Common Infrastructure. The Google Common Infrastructure powers Google worldwide.\n\n\nThe in-scope Google Cloud Platform services Authorized at High are: Admin Console, App Engine, BigQuery, Cloud Bigtable, Cloud DNS, Cloud HSM, Cloud Identity, Cloud Key Management Service, Cloud Spanner, Cloud SQL, Cloud Storage, Compute Engine, Container Registry, Dataflow, Dataproc, Firestore, Google Kubernetes Engine, Identity & Access Management (IAM), Memorystore, Persistent Disk, Pub/Sub, Virtual Private Cloud (VPC).\n\n\nThe in-scope Google Cloud Platform services Authorized at Moderate are: Access Context Manager, Access Transparency, AI Platform Training and Prediction (formerly Cloud Machine Learning Engine), AI Platform Notebooks, Apigee, AutoML Natural Language, AutoML Tables, AutoML Translation, AutoML Video, AutoML Vision, BigQuery, Care Studio, Cloud Billing, Cloud Build, Cloud CDN, Cloud Composer, Cloud Console (including Context Aware Access), Cloud Console App, Cloud Data Fusion, Cloud Data Loss Prevention, Cloud Debugger (formerly Stackdriver Debugger), Cloud Deployment Manager, Cloud Endpoints, Cloud Filestore, Cloud Functions, Cloud Healthcare, Cloud Interconnect, Cloud Life Sciences (formerly Google Genomics), Cloud Load Balancing, Cloud Logging (formerly Stackdriver Logging; includes Error Reporting), Cloud NAT (Network Address Translation), Cloud Natural Language API, Cloud Monitoring, Cloud Profiler (formerly Stackdriver Profiler) , Cloud Router, Cloud Run (fully managed), Cloud SDK, Cloud Shell, Cloud Source Repositories, Cloud Trace (formerly Stackdriver Trace) , Cloud Translation, Cloud Vision, Cloud VPN, Data Catalog, Datalab, Datastore, Data Transfer Service, Dialogflow, GCP Marketplace, Google Cloud Armor, Google Cloud Identity-Aware Proxy, Identity Platform, IoT Core, Network Service Tiers, Resource Manager API, Security Command Center – Web Security Scanner (formerly Cloud Security Scanner, Service Consumer Management API), Service Infrastructure (formerly Service Control; includes Service Management API and Service Consumer Management API), Speech-to-Text , Storage Transfer Service, Talent Solution, Text-to-Speech, Video Intelligence API, VPC Service Controls.",
+        "CSO_Description": "Google Services is comprised of Google’s multi-tenant public cloud Google Cloud Platform and built atop the Google Common Infrastructure. The Google Common Infrastructure powers Google worldwide.\r\n\r\nThe in-scope Google Cloud Platform services Authorized at High are: Admin Console (including Admin SDK, Directory Sync), App Engine, BigQuery, Cloud Bigtable, Cloud DNS, Cloud HSM, Cloud Identity, Cloud Key Management Service, Cloud Spanner, Cloud SQL, Cloud Storage, Compute Engine, Container Registry, Dataflow, Dataproc, Firestore, Google Kubernetes Engine, Identity & Access Management (IAM), Memorystore, Persistent Disk, Pub/Sub, Virtual Private Cloud (VPC).\r\n\r\nThe in-scope Google Cloud Platform services Authorized at Moderate are: Access Context Manager, Access Transparency, AI Platform Training and Prediction (formerly Cloud Machine Learning Engine), AI Platform Notebooks, Apigee, AutoML Natural Language, AutoML Tables, AutoML Translation, AutoML Video, AutoML Vision, BigQuery, Care Studio, Cloud Billing, Cloud Build, Cloud CDN, Cloud Composer, Cloud Console (including BeyondCorp Enterprise formerly Context Aware Access), Cloud Console App, Cloud Data Fusion, Cloud Data Loss Prevention, Cloud Debugger (formerly Stackdriver Debugger), Cloud Deployment Manager, Cloud Endpoints, Cloud Filestore, Cloud Functions, Cloud Healthcare, Cloud Interconnect, Cloud Life Sciences (formerly Google Genomics), Cloud Load Balancing, Cloud Logging (formerly Stackdriver Logging; includes Error Reporting), Cloud NAT (Network Address Translation), Cloud Natural Language API, Cloud Monitoring, Cloud Profiler (formerly Stackdriver Profiler), Cloud Router, Cloud Run (fully managed), Cloud SDK, Cloud Shell, Cloud Source Repositories, Cloud Trace (formerly Stackdriver Trace) , Cloud Translation, Cloud Vision, Cloud VPN, Data Catalog, Datalab, Datastore, Data Transfer Service, Dialogflow, GCP Marketplace, Google Cloud Armor, Google Cloud Identity-Aware Proxy, Identity Platform, IoT Core, Network Service Tiers, Resource Manager API, Security Command Center – Web Security Scanner (formerly Cloud Security Scanner, Service Consumer Management API), Service Infrastructure (formerly Service Control; includes Service Management API and Service Consumer Management API), Speech-to-Text , Storage Transfer Service, Talent Solution, Text-to-Speech, Video Intelligence API, VPC Service Controls.",
         "Announcement_Date": "2019-12-04T05:00:00.000Z",
         "CSP_POC_Name": "Google FedRAMP Team",
         "CSP_POC_Email": "fedramp@google.com",
@@ -13349,7 +13357,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
         "Authorizing_Agency": "Department of Justice",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/ZibaSec%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Independent_Assessor": "Fortreum, LLC",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW",
           "F1206081364",
@@ -15291,7 +15299,7 @@
           "FR1805751477"
         ],
         "CSP_Website": "https://workspace.google.com",
-        "CSO_Description": "Google Workspace (formerly G Suite) is comprised of Google’s multi-tenant public and hybrid cloud instances and leverages Google Services (Google Cloud Platform Products).\n\nThe following Google Workspace services are FedRAMP In-Process at High: Calendar, Docs, Drive, Forms, Gmail, Google Chat, Google Meet, Keep, New Sites, Sheets, Slides, Vault\n\nThe following Google Workspace services are FedRAMP In-Process at Moderate: Admin SDK, Android and Chrome Device Management, Chrome Sync (for Google Workspace for Education domains only), Classroom, Cloud Search (including 3P), Contacts, Directory Sync, Drawings, Google Drive for Work, Google Workspace Security Center (for Google Workspace Enterprise and Google Workspace Enterprise for Education domains only), Google Tasks, Groups for Business, Jamboard, Secure LDAP, Sites Classic, Vault; Admin SDK: Admin Settings API, Apps Email Audit API, Calendar Resource API, Directory API (replaced Provisioning API), Domain Shared Contacts API, Email Settings API, Enterprise License Manager API, Groups Migration API, Groups Settings API, Reports API, Reseller API; Docs APIs: Apps Activity API, Calendar API, Contacts API, Drive REST API (replaced Documents List API), Gmail REST API (replaced Email Migration API), Sheets API, Sites API, Tasks API.",
+        "CSO_Description": "Google Workspace (formerly G Suite) is comprised of Google’s multi-tenant public and hybrid cloud instances and leverages Google Services (Google Cloud Platform Products).\n\nThe following Google Workspace services are FedRAMP In-Process at High: Calendar, Docs, Drive, Forms, Gmail, Google Chat, Google Meet, Keep, New Sites, Sheets, Slides, Vault\n\nThe following Google Workspace services are FedRAMP In-Process at Moderate: Android and Chrome Device Management, Chrome Sync (for Google Workspace for Education domains only), Classroom, Cloud Search (including 3P), Contacts, Drawings, Google Drive for Work, Google Workspace Security Center (for Google Workspace Enterprise and Google Workspace Enterprise for Education domains only), Google Tasks, Groups for Business, Jamboard, Secure LDAP, Sites Classic, Vault; Docs APIs: Apps Activity API, Calendar API, Contacts API, Drive REST API (replaced Documents List API), Gmail REST API (replaced Email Migration API), Sheets API, Sites API, Tasks API.",
         "Announcement_Date": "2021-10-28T04:00:00.000Z",
         "CSP_POC_Name": "Google FedRAMP Team",
         "CSP_POC_Email": "fedramp@google.com",
@@ -15571,6 +15579,7 @@
         "CSO_Description": "The Gen3 Commons Service (Gen3) is an open-source multi-tenant Software as a Service (SaaS) platform for developing, creating and operating cloud-based data commons, data ecosystems, and workspaces for managing, analyzing, and sharing data.",
         "CSP_POC_Name": "Robert Grossman",
         "CSP_POC_Email": "info@data-commons.org",
+        "FedRAMP_In-Process_Date": "2021-10-25T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -16317,25 +16326,6 @@
         "CSP_POC_Name": "Arvind Murthy",
         "CSP_POC_Email": "fedramp@ironmountain.com",
         "Fedramp_Ready_Date": "2021-03-05T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "IronNet Cybersecurity Inc.",
-        "Cloud_Service_Provider_Package": "IronCloud",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR2020681957",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/IronNet%20Logo.png",
-        "Independent_Assessor": "Kratos",
-        "CSP_Website": "https://www.ironnet.com",
-        "CSO_Description": "IronCloud delivers IronNet’s IronDome Collective Defense and IronDefense Network Detection & Response (NDR) solution as a Moderate security level Software as a Service (SaaS) offering deployed on Amazon Web Services (AWS) GovCloud East/West. \r\n \r\nIronCloud detects network-based malicious traffic using advanced behavioral analysis, artificial intelligence techniques, and integrated hunt capabilities across the cyber security kill chain. IronCloud also delivers the industry’s first collective defense solution that links industry peers, third-party suppliers, and other stakeholders anonymously and in real-time into a joint cyber defense infrastructure.\r\n \r\nThe IronCloud environment aligns with the NIST SP 800-145 definition of cloud computing by leveraging AWS US GovCloud East & West on their customers' behalf, granting the benefits of cloud computing: on-demand self-service, broad network access, resource pooling, rapid elasticity and measured service without the need for direct customer intervention.",
-        "CSP_POC_Name": "George Lamont",
-        "CSP_POC_Email": "fedramp@ironnetcybersecurity.com",
-        "Fedramp_Ready_Date": "2020-07-29T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
