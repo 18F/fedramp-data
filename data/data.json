@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-11-04T04:40:51.209Z",
+    "Created_At": "2021-11-05T04:40:51.051Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4039,29 +4039,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Centrify",
-        "Cloud_Service_Provider_Package": "Centrify Privileged Access Service",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "F1606177905",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "U.S. International Development Finance Corporation",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DFC%20Logo.jpg",
-        "Authorizing_Agency": "U.S. International Development Finance Corporation",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Centrify%20Logo3.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.centrify.com",
-        "CSO_Description": "The Centrify Privileged Access Service (PAS) allows government agencies to establish the core privileged access controls across their growing attack surface as mandated by many regulations and industry standards (e.g., CIS, DHS CDM Phase 2, FISMA, HIPAA, NIST SP 800-Series, PCI DSS). Vaulting away shared account passwords, application passwords, and secrets is just one of the best practices to secure privileged access. Managing the vaulted credentials, leveraging secure administrative access via a distributed local jump box, establishing VPN-less privileged session to remotely access targeted infrastructure, and implementing multi-factor authentication are at the root of reducing threats, intentional or not. Centrify PAS allows for all the above, as well as enables agencies to authenticate internal and outsourced IT users through Active Directory, LDAP, or other cloud identity stores. Agencies can use one or any combination of these identity stores or grant granular, federated privileged access to resources for partners and third-party vendors. Ultimately, Centrify PAS grants access from a Web UI or mobile app and covers an agency’s entire attack surface, both on-premises and in the cloud. Centrify PAS minimizes the attack surface, improves audit and compliance visibility, and reduces risk, complexity, and costs. Centrify PAS seamlessly integrates with Centrify’s other solutions, namely the Centrify Authentication Service (which helps verify who requests privileged access by leveraging enterprise directory identities rather than local accounts) and Centrify Privilege Elevation Service (which enables host-based enforcement of just enough, just-in-time privileged access best practices).",
-        "CSP_POC_Name": "Centrify FedRAMP Team",
-        "CSP_POC_Email": "fedramp@centrify.com",
-        "FedRAMP_In-Process_Date": "2020-11-05T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "United States Department of the Treasury",
         "Cloud_Service_Provider_Package": "Workplace.gov Community Cloud High (WC2-H)",
         "Path": "Agency",
@@ -5403,6 +5380,14 @@
             "Authorizing_Subagency": "United States Patent and Trademark Office",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-10-21T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-10-25T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "United States Census Bureau",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -5645,7 +5630,7 @@
         "CSP_Website": "https://www.zimperium.com",
         "CSO_Description": "Zimperium Mobile Endpoint Cyber Security is a Cloud based application deployed on the AWS GovCloud infrastructure which, when combined with the Zimperium mobile application (zIPS), provides a comprehensive Mobile Threat Defense (MTD) solution. Zimperium's Amazon GovCloud based application provides security teams with visibility on the threats and vulnerabilities across all mobile devices in the organization to assess organization risk, identify security gaps and remediate. The zIPS on-device app incorporates machine learning techniques to detect anomalies to the mobile device's operating system's statistics, memory, CPU and other system parameters and accurately identify not only the specific type of malicious attack, but also the forensics associated with the who, what, where, when, and how of an attack occurrence.",
         "Announcement_Date": "2019-07-01T04:00:00.000Z",
-        "CSP_POC_Name": "Jerome Brock",
+        "CSP_POC_Name": "Brian Caldwell",
         "CSP_POC_Email": "fedramp@zimperium.com",
         "FedRAMP_In-Process_Date": "2018-05-01T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
@@ -8134,7 +8119,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/PowerTrain%20Logo.png",
         "Independent_Assessor": "MindPoint Group, LLC",
         "CSP_Website": "www.powertrain.com",
-        "CSO_Description": "PowerTrain is an on-line application development, implementation, and hosting provider for a range of federal government agencies through multiple federal contract vehicles. PowerTrain currently runs systems under multiple federal agency Assessment and Authorizations to Operate.",
+        "CSO_Description": "Software as a Service (SaaS) for the USALearning Federal Learning Enclave (USAL-FLE) supporting training and on-line system delivery, tracking, and reporting as well as a range of human capital solutions. FedRAMP product offerings include:\n\n* Full Learning Management System (LMS)\n* LMS-Lite\n* Custom modules to support Federal agencies including EHRI, SF-182, Single Sign-On, Two-Factor Authentication, IDP, registration, wait list, and enhanced reporting\n* Content Management System (CMS)\n* Learning Record Store (LRS) connected to learning activities and integrated with USAL LMS via xAPI\n* Additional Secure on-line applications including:\n    * Event Registration System\n    * Career Mapping Tool\n    * Competency Management\n    * Reporting Tool\n    * Testing System \n    * Survey Too",
         "Announcement_Date": "2017-04-27T04:00:00.000Z",
         "CSP_POC_Name": "Courtney Cox",
         "CSP_POC_Email": "ccox@powertrain.com",
@@ -8549,7 +8534,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Microsoft%20Logo.png",
         "Independent_Assessor": "Kratos",
         "CSP_Website": "http://azure.microsoft.com/en-us/",
-        "CSO_Description": "Microsoft Azure Government is a government-community cloud that offers hyper-scale compute, storage, networking, and identity management services, with world-class security. A physically and network-isolated instance of Microsoft Azure, operated by screened U.S. citizens, Azure Government provides standards-compliant IaaS and PaaS that has now received a FedRAMP JAB P-ATO. All services are available immediately for supporting secure US government workloads, including CJIS, IRS 1075 FTI, HIPAA, DoD, and federal agency data.\n\nThe following Microsoft services are FedRAMP Authorized and approved by the JAB at the High Impact Level: AI Builder, API Management, Application Gateway, Automation, Azure Active Directory (AAD) Free, Azure Advanced Threat Protection, Azure Advisor, Azure Active Directory Domain Services, Azure Active Directory (AAD) Premium P1 + P2, Azure Analysis Services, Azure API for FHIR, Azure App Configuration, Azure Archive Storage, Azure Backup, Azure Bastion, Azure Blueprints, Azure Bot Service, Azure Container Instances, Azure Content Delivery Network, Azure Cosmos DB, Azure Database for MariaDB, Azure Database for MySQL, Azure Database for PostgreSQL, Azure Data Box Edge, Azure Data Explorer, Azure Database Migration Service, Azure Data Share, Azure DDOS Protection, Azure Dedicated HSM, Azure DevTest Labs, Azure DNS, Azure File Sync, Azure Firewall, Azure Firewall Manager, Azure Front Door, Azure HPC Cache, Azure Information Protection, Azure Import/Export , Azure IoT Hub, Azure Key Vault, Azure Kubernetes Service, Azure Lab Services, Azure LockBox, Azure Machine Learning, Azure Managed Applications, Azure Managed Services – Azure Light House, Azure Maps, Azure Migrate, Azure Monitor, Azure NetApp Files, Azure Policy, Azure Portal, Azure Private Link, Azure Public IP, Azure Resource Graph, Azure Resource Manager (ARM), Azure Search, Azure Security Center, Azure Security for IoT, Azure Sentinel, Azure Service Health, Azure Service Manager (RDFE), Azure SignalR Service, Azure Sign Up Portal, Azure Site Recovery, Azure Stack Bridge, Azure Virtual WAN, Batch, Cloud Shell, Cognitive Services - Computer Vision, Cognitive Services Container Platform, Cognitive Services - Content Moderator, Cognitive Services – Custom Vision, Cognitive Services - Face, Cognitive Services Form Recognizer, Cognitive Services - Language Understanding, Cognitive Services – Personalizer, Cognitive Services – QnA Maker, Cognitive Services - Text Analytics, Cognitive Services - Translator Text, Cloud Services, Container Registry, Cost Management, D365 Integrator APP, Databox Datacenter Infra Service, Databox Disk and Pod Service, Databricks, Data Factory, Dynamics 365, Dynamics 365 Athena – CDS to Azure Data Lake, Dynamics 365 Customer Engagement, Dynamics 365 Customer Insights, Dynamics 365 Customer Service, Dynamics 365 Field Service, Dynamics 365 Finance, Dynamics 365 Forms Pro, Dynamics 365 Project Service Automation, Dynamics 365 Sales, Dynamics 365 Service Omni-Channel Engagement Hub, Dynamics 365 Supply Chain Mangement, Event Grid, Event Hubs, ExpressRoute, Functions, GitHub AE, Guest Configuration, HDInsight, Intune, Load Balancer, Log Analytics, Logic Apps, Media Services, Microsoft 365 Defender, Microsoft Azure Government Management Portal, Microsoft Cloud App Security, Microsoft Defender Advanced Threat Protection (MDATP), Microsoft Flow, Microsoft Graph, Microsoft Peering Service, Microsoft PowerApps, Microsoft Stream, Multi-factor Authentication (MFA), Network Datapath, Network Watcher, Network Watcher-Traffic Analytics, NM Agent, Notification Hubs, Planned Maintenance, Power BI Embedded, Power BI, Power Query Online, Power Virtual Agents, Push Agent V2, Redis Cache, Regional Network Manager, Scheduler, SDN PubSub Service, Service Fabric, Services Bus, SQL Data Warehouse, SQL Database, SQL Server Stretch Database, Speech Services, StorSimple, Storage (Blobs, Disks, Files, Queues, Tables), Stream Analytics, Traffic Manager, Virtual Machines Scale Sets (VMSS), Virtual Machines, Virtual NAT, Virtual Network, Virtual Network Directory Service, VPN Gateway, Web Application Firewall, Web Apps (App Service) Windows Virtual Desktop, and supporting infrastructure and platform services.",
+        "CSO_Description": "Microsoft Azure Government is a government-community cloud that offers hyper-scale compute, storage, networking, and identity management services, with world-class security. A physically and network-isolated instance of Microsoft Azure, operated by screened U.S. citizens, Azure Government provides standards-compliant IaaS and PaaS that has now received a FedRAMP JAB P-ATO. All services are available immediately for supporting secure US government workloads, including CJIS, IRS 1075 FTI, HIPAA, DoD, and federal agency data.\n\nThe following Microsoft services are FedRAMP Authorized and approved by the JAB at the High Impact Level: AI Builder, API Management, Application Gateway, Automation, Azure Active Directory (AAD) Free, Azure Advanced Threat Protection, Azure Advisor, Azure Active Directory Domain Services, Azure Active Directory (AAD) Premium P1 + P2, Azure Analysis Services, Azure API for FHIR, Azure App Configuration, Azure Archive Storage, Azure Backup, Azure Bastion, Azure Blueprints, Azure Bot Service, Azure Container Instances, Azure Content Delivery Network, Azure Cosmos DB, Azure CXP Nomination Portal, Azure Database for MariaDB, Azure Database for MySQL, Azure Database for PostgreSQL, Azure Data Box Edge, Azure Data Explorer, Azure Database Migration Service, Azure Data Share, Azure DDOS Protection, Azure Dedicated HSM, Azure DevTest Labs, Azure DNS, Azure File Sync, Azure Firewall, Azure Firewall Manager, Azure Front Door, Azure HPC Cache, Azure Information Protection, Azure Import/Export , Azure IoT Hub, Azure Key Vault, Azure Kubernetes Service, Azure Lab Services, Azure LockBox, Azure Machine Learning, Azure Managed Applications, Azure Managed Services – Azure Light House, Azure Maps, Azure Migrate, Azure Monitor, Azure NetApp Files, Azure Policy, Azure Portal, Azure Private Link, Azure Public IP, Azure Resource Graph, Azure Resource Manager (ARM), Azure Search, Azure Security Center, Azure Security for IoT, Azure Sentinel, Azure Service Health, Azure Service Manager (RDFE), Azure SignalR Service, Azure Sign Up Portal, Azure Site Recovery, Azure Stack Bridge, Azure Virtual WAN, Batch, Cloud Shell, Cognitive Services - Computer Vision, Cognitive Services Container Platform, Cognitive Services - Content Moderator, Cognitive Services – Custom Vision, Cognitive Services - Face, Cognitive Services Form Recognizer, Cognitive Services - Language Understanding, Cognitive Services – Personalizer, Cognitive Services – QnA Maker, Cognitive Services - Text Analytics, Cognitive Services - Translator Text, Cloud Services, Container Registry, Cost Management, D365 Integrator APP, Databox Datacenter Infra Service, Databox Disk and Pod Service, Databricks, Data Factory, Dynamics 365, Dynamics 365 Athena – CDS to Azure Data Lake, Dynamics 365 Customer Engagement, Dynamics 365 Customer Insights, Dynamics 365 Customer Service, Dynamics 365 Field Service, Dynamics 365 Finance, Dynamics 365 Forms Pro, Dynamics 365 Project Service Automation, Dynamics 365 Sales, Dynamics 365 Service Omni-Channel Engagement Hub, Dynamics 365 Supply Chain Mangement, Event Grid, Event Hubs, ExpressRoute, Functions, GitHub AE, Guest Configuration, HDInsight, Intune, Load Balancer, Log Analytics, Logic Apps, Media Services, Microsoft 365 Defender, Microsoft Azure Government Management Portal, Microsoft Cloud App Security, Microsoft Defender Advanced Threat Protection (MDATP), Microsoft Flow, Microsoft Graph, Microsoft Peering Service, Microsoft PowerApps, Microsoft Stream, Multi-factor Authentication (MFA), Network Datapath, Network Watcher, Network Watcher-Traffic Analytics, NM Agent, Notification Hubs, Planned Maintenance, Power BI Embedded, Power BI, Power Query Online, Power Virtual Agents, Push Agent V2, Redis Cache, Regional Network Manager, Scheduler, SDN PubSub Service, Service Fabric, Services Bus, SQL Data Warehouse, SQL Database, SQL Server Stretch Database, Speech Services, StorSimple, Storage (Blobs, Disks, Files, Queues, Tables), Stream Analytics, Traffic Manager, Virtual Machines Scale Sets (VMSS), Virtual Machines, Virtual NAT, Virtual Network, Virtual Network Directory Service, VPN Gateway, Web Application Firewall, Web Apps (App Service) Windows Virtual Desktop, and supporting infrastructure and platform services.",
         "Announcement_Date": "2020-04-29T04:00:00.000Z",
         "CSP_POC_Name": "Microsoft Azure FedRAMP Requests",
         "CSP_POC_Email": "AzureFedRAMP@microsoft.com",
@@ -15287,7 +15272,7 @@
           "FR1805751477"
         ],
         "CSP_Website": "https://workspace.google.com",
-        "CSO_Description": "Google Workspace (formerly G Suite) is comprised of Google’s multi-tenant public and hybrid cloud instances and leverages Google Services (Package ID FR1805751477).\n\nThe following Google Workspace services are FedRAMP High: Calendar, Docs, Drive, Forms, Gmail, Google Chat, Google Meet, Keep, New Sites, Sheets, Slides, Vault\n\nThe following Google Workspace services are FedRAMP Moderate: Android and Chrome Device Management, Chrome Sync (for Google Workspace for Education domains only), Classroom, Cloud Search (including 3P), Contacts, Drawings, Google Drive for Work, Google Workspace Security Center (for Google Workspace Enterprise and Google Workspace Enterprise for Education domains only), Google Tasks, Groups for Business, Jamboard, Secure LDAP, Sites Classic, Vault; Docs APIs: Apps Activity API, Calendar API, Contacts API, Drive REST API (replaced Documents List API), Gmail REST API (replaced Email Migration API), Sheets API, Sites API, Tasks API.",
+        "CSO_Description": "Google Workspace (formerly G Suite) is comprised of Google’s multi-tenant public and hybrid cloud instances and leverages Google Services (Package ID FR1805751477).\n\nThe following Google Workspace services are FedRAMP High: Calendar, Docs, Drive, Forms, Gmail, Google Chat, Google Meet, Keep, New Sites, Sheets, Slides, Vault\n\nThe following Google Workspace services are FedRAMP Moderate: Android and Chrome Device Management, Chrome Sync (for Google Workspace for Education domains only), Classroom, Cloud Search (including 3P), Contacts, Drawings, Google Drive for Work, Google Workspace Security Center (for Google Workspace Enterprise and Google Workspace Enterprise for Education domains only), Google Tasks, Groups for Business, Jamboard, Secure LDAP, Sites Classic, Vault, Voice; Docs APIs: Apps Activity API, Calendar API, Contacts API, Drive REST API (replaced Documents List API), Gmail REST API (replaced Email Migration API), Sheets API, Sites API, Tasks API.",
         "Announcement_Date": "2021-10-28T04:00:00.000Z",
         "CSP_POC_Name": "Google FedRAMP Team",
         "CSP_POC_Email": "fedramp@google.com",
@@ -15602,6 +15587,29 @@
         "CSP_POC_Name": "Robert Grossman",
         "CSP_POC_Email": "info@data-commons.org",
         "FedRAMP_In-Process_Date": "2021-10-25T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Centrify",
+        "Cloud_Service_Provider_Package": "Centrify Privileged Access Service",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "F1606177905",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Agriculture",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+        "Authorizing_Agency": "Department of Agriculture",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Centrify%20Logo3.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.centrify.com",
+        "CSO_Description": "The Centrify Privileged Access Service (PAS) allows government agencies to establish the core privileged access controls across their growing attack surface as mandated by many regulations and industry standards (e.g., CIS, DHS CDM Phase 2, FISMA, HIPAA, NIST SP 800-Series, PCI DSS). Vaulting away shared account passwords, application passwords, and secrets is just one of the best practices to secure privileged access. Managing the vaulted credentials, leveraging secure administrative access via a distributed local jump box, establishing VPN-less privileged session to remotely access targeted infrastructure, and implementing multi-factor authentication are at the root of reducing threats, intentional or not. Centrify PAS allows for all the above, as well as enables agencies to authenticate internal and outsourced IT users through Active Directory, LDAP, or other cloud identity stores. Agencies can use one or any combination of these identity stores or grant granular, federated privileged access to resources for partners and third-party vendors. Ultimately, Centrify PAS grants access from a Web UI or mobile app and covers an agency’s entire attack surface, both on-premises and in the cloud. Centrify PAS minimizes the attack surface, improves audit and compliance visibility, and reduces risk, complexity, and costs. Centrify PAS seamlessly integrates with Centrify’s other solutions, namely the Centrify Authentication Service (which helps verify who requests privileged access by leveraging enterprise directory identities rather than local accounts) and Centrify Privilege Elevation Service (which enables host-based enforcement of just enough, just-in-time privileged access best practices).",
+        "CSP_POC_Name": "Centrify FedRAMP Team",
+        "CSP_POC_Email": "fedramp@centrify.com",
+        "FedRAMP_In-Process_Date": "2021-10-27T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -16193,6 +16201,29 @@
         "CSP_POC_Name": "Emily Bartlett",
         "CSP_POC_Email": "fedramp@healthverity.com",
         "FedRAMP_In-Process_Date": "2021-10-04T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Huron Consulting Group",
+        "Cloud_Service_Provider_Package": "Huron Performance Accelerators ",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2020746034",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Huron%20Logo.png",
+        "Independent_Assessor": "MBL Technologies",
+        "CSP_Website": "www.huronconsultinggroup.com",
+        "CSO_Description": "The Huron Accelerators Portal (HAP) is a web-based entry portal, hosted on AWS GovCloud. HAP is composed of three components: the Leader Evaluation Manager® (LEM) software application, the Patient Call Manager™ (PCM) software application, and the Huron Rounding software application.\r\n\r\n* Leader Evaluation Manager: Through research and more than a decade of working with healthcare organizations, Huron has perfected and accelerated the art and science of goal cascading, weighting and accountability for leaders to build consistency — and as consistency grows, so does engagement. With Leader Evaluation Manager® (LEM), organizations can guarantee that all employees get the same leadership experience, practice the same evidence-based tactics and are held accountable to the same behavioral standards. Use LEM to track and manage the components that take accountability to the next level.\r\n \r\n* Patient Call Manager: Checking on a patient at a critical point in their care is proven to have an impact. Whether it’s showing empathy or providing a clinical intervention, these calls improve patient safety and experiences — and offer an opportunity to receive first-hand feedback from patients. With Patient Call Manager™ (PCM), healthcare organizations can prioritize and connect patients with caregivers to ease transitions from in-person care to home. This fully HIPAA-compliant tool allows healthcare staff to serve as quality touchpoints and ensure quality outcomes along a patient’s continuum of care from pre-visit calls through post-visit.\r\n \r\n* Huron Rounding: A cloud-based, multiplatform technology, the Huron Rounding application helps organizations easily collect quality, safety, satisfaction, and other audit and compliance data for analysis and reporting.",
+        "CSP_POC_Name": "Pam Bursch",
+        "CSP_POC_Email": "fedrampmarketplace@hcg.com",
+        "FedRAMP_In-Process_Date": "2021-10-07T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -17446,7 +17477,7 @@
         "CSO_Description": "Waggl is the #1 real time employee voice platform for improving organizational performance. Waggl’s real time crowding-sourcing enables informed decision-making, rapid alignment, and immediate action on topics that matter. Waggl delivers actionable insights to leaders while improving employee engagement through meaningful inclusion and participation.",
         "CSP_POC_Name": "Tony Mitchell",
         "CSP_POC_Email": "fedramp@waggl.com",
-        "FedRAMP_In-Process_Date": "2020-11-19T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2021-05-13T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -17542,6 +17573,28 @@
         "CSP_POC_Email": "fedramp@yello.co",
         "FedRAMP_In-Process_Date": "2021-04-13T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Zscaler",
+        "Cloud_Service_Provider_Package": "Zscaler Internet Access – Government (Secure Web Gateway – vTIC) - High",
+        "Path": "JAB",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR1720454205A",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Zscaler%20Logo.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "www.zscaler.com",
+        "CSO_Description": "Zscaler Internet Access delivers your security stack as a service from the cloud, eliminating the cost and complexity of traditional secure web gateway approaches. By moving security to a globally distributed cloud, Zscaler brings the Internet gateway closer to the user for a faster experience. Organizations can easily scale protection to all offices or users, regardless of location, and minimize network and appliance infrastructure.\n**The Cloud and Mobility Have Broken Perimeter Security**\nThe data center used to be the center of gravity. When applications resided there, it made sense to backhaul traffic from branch offices over a hub-and-spoke network. As traffic patterns shifted to the Internet, gateways were built with stacks of security appliances to allow secure Internet access. These gateways were also centralized to minimize the cost and complexity of securing multiple locations.\nHowever, as applications have moved to the cloud, the center of gravity has moved with it. User traffic often goes straight to the cloud, bypassing the security perimeter. Additionally, today’s complex threats have triggered an explosion of new security appliances, all finding their way into your overworked gateway. Administrators are in a constant battle to keep up with required security updates for their appliances. The complexity of deploying and managing all these appliances — and their associated costs — are out of control. Furthermore, it’s all associated with what is now an outdated architecture.\n**Zscaler Internet Access**\nZscaler Internet Access is a secure Internet and web gateway delivered as a service from the cloud. Think of it as a secure Internet onramp — all you do is make Zscaler your next hop to the Internet. For offices, simply set up a router tunnel (GRE or IPsec) to the closest Zscaler data center. For mobile employees, you can forward traffic via our lightweight Zscaler App or PAC file. No matter where users connect — a coffee shop in Milan, a hotel in Hong Kong, or the office — they get identical protection.\nZscaler Internet Access sits between your users and the Internet, inspecting every byte of traffic inline across multiple security techniques, even within SSL. You get full protection from web and Internet threats. And with a cloud platform that supports Cloud Sandboxing, Next-Generation Firewall, Data Loss Prevention (DLP), and Cloud Application Visibility and Control, you can start with the services you need today and activate others as your needs grow.\nAll these capabilities are delivered from the Zscaler Cloud Security Platform, the world’s largest security cloud, which processes more than 30 billion requests a day. With over 100 patents, the Zscaler platform has been architected from the ground up as a truly distributed, multi-tenant cloud with enterprise performance and scale.",
+        "CSP_POC_Name": "Stephen Kovac",
+        "CSP_POC_Email": "fedramp@zscaler.com",
+        "Fedramp_Ready_Date": "2021-11-04T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
       }
     ],
     "Assessors": [
@@ -17584,7 +17637,7 @@
         "Accreditation_Date": "2014-07-21T04:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/BAH%20Logo.jpg",
         "Description": "Booz Allen Hamilton, a leading strategy and technology consulting firm, is the first accredited 3PAO that is ISO/IEC 17020 compliant. We leverage our vast cybersecurity knowledge base and experience to streamline the security risk assessment process. We offer a comprehensive suite of 3PAO services to assist CSPs in successfully navigating through the FedRAMP certification process, which include: Readiness assessment, Security package development, Remediation services, 3PAO security assessment and 3PAO continuous monitoring services.",
-        "POC_Name": "Whitney White",
+        "POC_Name": "Darryl Arnold",
         "POC_Email": "fedramp@bah.com",
         "website": "www.boozallen.com/consulting/technology/cloud-computing/fedramp",
         "Remediation": "N",
