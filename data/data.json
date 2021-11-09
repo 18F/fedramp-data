@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-11-08T05:40:50.444Z",
+    "Created_At": "2021-11-09T05:40:50.982Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4739,6 +4739,12 @@
             "Authorizing_Subagency": "United States Citizenship and Immigration Services",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2021-10-25T04:00:00.000Z",
+            "Authorizing_Agency": "Office of Personnel Management",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -7832,6 +7838,13 @@
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "United States Air Force",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-08-02T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-08-01T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Deposit Insurance Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -16350,7 +16363,7 @@
         "CSO_Description": "As a Global leader in market research, Ipsos delivers reliable information and true understanding of Society, Markets and People. Ipsos has a long history of providing research and advisory services to the US Government and clients in the private sector. We believe our clients need more than a data supplier, they need a partner who can produce accurate and relevant information and turn it into actionable truth.",
         "CSP_POC_Name": "Clifford Young",
         "CSP_POC_Email": "Us-Pa-Contracts@ipsos.com",
-        "FedRAMP_In-Process_Date": "2020-10-28T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2021-02-18T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -16984,7 +16997,31 @@
         "CSO_Description": "**Pitney Bowes SendPro®360 Sending, Receiving, and Locker Solution**\r\n \r\nPitney Bowes **SendPro 360** is a comprehensive, cloud-based sending, receiving, locker, and analytics solution that powers your mailroom operations for maximum efficiency and transparency. SendPro 360 offers a lightweight footprint that allows users to track, ship, and mail without significant hardware requirements.  \r\n\r\n**Multi-Carrier Shipping and Mailing**\n\r\nSendPro 360 makes mailing and shipping quick and easy by empowering departments with the flexibility to send in the way that’s right for them.  Users save time and money by printing stamps directly from the online interface and by accessing SendPro 360 multi-carrier shipping functionality to compare rates and print labels across major carriers.  The ability to track spend and activity by account or department, facilitates project or departmental chargebacks for accurate accounting.  SendPro360 includes a dedicated certified and electronic return receipt (ERR) and registered mailing process with proof of delivery reporting. Also, qualified users can prepare ship requests for packages sent to the mailroom for processing.\r\n\r\n**Package Receiving, Tracking and Delivery**\n\r\nThe SendPro 360 platform automates the process of receiving, tracking and delivering incoming packages and mail through a simple scan of a barcode.  Manually logging items instantly becomes a process of the past. It can configure delivery routes, provide lists of packages, and has the ability to manage assets. Package tracking notifications via email and SMS as well as SLA management simplify and enhance the experience.  \r\n\r\n**Intelligent Lockers**\n\r\nKeep packages secure and users safe via monitored delivery and contactless pickup with SendPro 360 Intelligent Locker capabilities. This solution modernizes package pickup with convenient 24/7 self-service access, barcode scanning and automated alerts notifying recipients they have packages. Upon package pickup, recipient photos or optional signatures can be captured for proof of receipt. Lockers free up crowded mail room space, mitigate risk of lost or stolen packages or assets, preserve chain-of-custody and provide next generation customer experience. The superior build quality and durability ensures lockers and contents are always secure. Lockers have additional features to simplify administrative functions, delivery and departmental management. \r\n\r\n**Analytics**\n\r\nFrom smaller mailrooms to multi-location operations, SendPro 360 offers complete visibility into your receiving and sending operations. Dynamic views can be filtered by divisions, locations, cost accounts, and users, across any date range. View and manage postage and shipping spend, and gain insights to your receiving and locker metrics all the way through final delivery to ensure packages and mail are accounted for and delivered on time.\n    \r\nGauge performance, operator efficiency, and resource utilization to ensure service level agreement (SLA) metrics are being met. To locate a package, SendPro 360 provides end-to-end tracking of packages, locker activity, as well as shipping and mailing activity across your government agency.",
         "CSP_POC_Name": "John Jones",
         "CSP_POC_Email": "fedramp@pb.com",
-        "FedRAMP_In-Process_Date": "2020-10-20T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2021-09-02T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Point Blue Conservation Science",
+        "Cloud_Service_Provider_Package": "Point Blue Science Cloud",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2127765215",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "LI-SaaS",
+        "Sponsoring_Agency": "Department of the Interior",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+        "Authorizing_Agency": "Department of the Interior",
+        "Authorizing_Subagency": "Fish and Wildlife Service",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/PointBlue%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "https://www.pointblue.org/",
+        "CSO_Description": "Point Blue Conservation Science (Point Blue) hosts the multi-user Software as a Service (SaaS) named the Point Blue Science Cloud, a collection of tools that manage, share, curate, and analyze scientifically collected biodiversity observations and samples in support of the Avian Knowledge Network.  These tools include data-rich, interactive websites that integrate bird and other indicator species data with ecosystem and climate change data to improve conservation outcomes today and in the future. Many tools incorporate original research data from Point Blue scientists and our partners. The Point Blue Science Cloud is used by Federal agencies, State agencies, local government agencies, non-for-profit organizations, and other conservation-minded individuals. Federal agencies use the Point Blue Science Cloud to manage and curate observations, conduct research, and analyze information related to wildlife and ecosystems.  Point Blue Conservation Science is a 501(C)(3) non-profit organization with a mission to conserve birds, other wildlife and ecosystems through science, partnerships, and outreach. ",
+        "CSP_POC_Name": "Michael Fitzgibbon",
+        "CSP_POC_Email": "fedramp@pointblue.org",
+        "FedRAMP_In-Process_Date": "2021-11-04T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -17031,29 +17068,6 @@
         "CSP_POC_Name": "Qlik FedRAMP Team",
         "CSP_POC_Email": "fedramp@qlik.com",
         "FedRAMP_In-Process_Date": "2021-08-31T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Rescale",
-        "Cloud_Service_Provider_Package": "Rescale ScaleX Government",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1931476240",
-        "Service_Model": [
-          "PaaS, SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Energy",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-        "Authorizing_Agency": "Department of Energy",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Rescale%20Logo.png",
-        "Independent_Assessor": "The Cadence Group",
-        "CSP_Website": "https://www.rescale.com/",
-        "CSO_Description": "Rescale ScaleX Government is a variant of Rescale’s ScaleX Platform for enterprise big compute that is trusted by the Global Fortune 500 and leading research institutions.It enables IT leaders, governments, engineers, and scientists to securely manage product innovation and perform groundbreaking research and development faster at a lower cost. Rescale’s offering of ScaleX® platform solutions transform traditional fixed IT resources into flexible hybrid, private, and public cloud resources—built on the largest and most secure high performance computing infrastructure network in the world.\nIn addition to complying with FedRAMP requirements, ScaleX Government adheres to U.S. International Traffic in Arms Regulations (ITAR) regulations. Additional information is available at [https://info.rescale.com/gov/fedramp](https://info.rescale.com/gov/fedramp).",
-        "CSP_POC_Name": "Kevin Kelly",
-        "CSP_POC_Email": "fedramp@rescale.com",
-        "FedRAMP_In-Process_Date": "2020-10-26T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -17400,7 +17414,7 @@
         "CSO_Description": "Vaultara offers an enterprise-wide software-only solution that provides secure, bi-directional electronic transfer to any digital file using Vaultara's Hybrid/SaaS technology. Maximizing security, efficiency, and cost savings, Vaultara offers this solution for quick, secure, contact-less data sharing, drastically reducing the need for physical media. Vaultara is committed to the secure digital delivery of data in the public sector. \n\nBy achieving FedRAMP authorization, the U.S. federal government will be able to deploy Vaultara software across various departments and agencies.",
         "CSP_POC_Name": "John Klinck",
         "CSP_POC_Email": "fedramp@vaultara.com",
-        "FedRAMP_In-Process_Date": "2020-11-09T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2021-06-03T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
