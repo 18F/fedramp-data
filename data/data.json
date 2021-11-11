@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-11-10T05:40:50.742Z",
+    "Created_At": "2021-11-11T05:40:50.808Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2735,6 +2735,13 @@
             "Authorizing_Agency": "Environmental Protection Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-10-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-11-09T05:00:00.000Z",
+            "Authorizing_Agency": "Federal Communications Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -3040,56 +3047,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Socrata",
-        "Cloud_Service_Provider_Package": "Socrata Data Platform",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "SOCRATA",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2018-04-27T04:00:00.000Z",
-        "Sponsoring_Agency": "Federal Communications Commission",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
-        "Authorizing_Agency": "Federal Communications Commission",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Socrata%20Logo%201.png",
-        "Independent_Assessor": "SecureIT",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW"
-        ],
-        "CSP_Website": "www.socrata.com",
-        "CSO_Description": "Socrata is the market leader in making existing government data discoverable, usable, and actionable for government workers and the people they serve. Socrata provides a data-as-a-service data platform and cloud applications exclusively for city, county, state, and federal government organizations. Socrata delivers unprecedented data-driven innovation and cost-savings for hundreds of public sector leaders and millions of their constituents around the world.\nGovernment programs generate massive amounts of data, but most of it is locked away in hard-to-access data silos, including archaic databases. Socrata enables unprecedented data access by bringing together disparate systems and leveraging the cloud to dramatically enhance the effectiveness of government programs, to improve quality of life for residents, positively impact local economies, and achieve excellence in government operations. Socrata solutions are designed and developed to meet strict government standards. The technology is optimized on the Amazon Web Services (AWS) Public Sector cloud and delivered using the exclusive Socrata Blueprint Methodology.",
-        "Announcement_Date": "2017-05-15T04:00:00.000Z",
-        "CSP_POC_Name": "Jeffrey Newball",
-        "CSP_POC_Email": "fedramp-l@socrata.com",
-        "FedRAMP_In-Process_Date": "2015-03-02T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2016-09-14T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Transportation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-07-09T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-07-09T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Justice",
-            "Authorizing_Subagency": "Office of Justice Programs",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-01-27T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-01-27T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Veterans Affairs",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Project Hosts",
         "Cloud_Service_Provider_Package": "Federal Private Cloud",
         "Path": "Agency",
@@ -3314,6 +3271,13 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-10-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-11-09T05:00:00.000Z",
+            "Authorizing_Agency": "Federal Communications Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -3750,6 +3714,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-03-09T05:00:00.000Z",
             "Authorizing_Agency": "Social Security Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-11-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-11-09T05:00:00.000Z",
+            "Authorizing_Agency": "Federal Communications Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -5350,6 +5321,13 @@
             "Authorizing_Subagency": "United States Census Bureau",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-10-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-11-09T05:00:00.000Z",
+            "Authorizing_Agency": "Federal Communications Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -6091,97 +6069,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "MuleSoft",
-        "Cloud_Service_Provider_Package": "MuleSoft Government Cloud",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1818161169",
-        "Service_Model": [
-          "PaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2019-05-09T04:00:00.000Z",
-        "Sponsoring_Agency": "Federal Communications Commission",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
-        "Authorizing_Agency": "Federal Communications Commission",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MuleSoft%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866"
-        ],
-        "CSP_Website": "www.mulesoft.com",
-        "CSO_Description": "MuleSoft’s Anypoint Platform is a hybrid platform for designing, developing and managing APIs and integrations. Uniquely built as a single solution, it includes integration Platform as a Service (iPaaS) functionality which provides users with enterprise messaging, advanced user and role based management, services/tools for providing API and integration analytics and management, API design and publishing tools, and the ability to share and collaborate on API specifications, code snippets and templates of best practices.",
-        "Announcement_Date": "2019-07-31T04:00:00.000Z",
-        "CSP_POC_Name": "N/A",
-        "CSP_POC_Email": "Public.Sector.Compliance@salesforce.com",
-        "FedRAMP_In-Process_Date": "2018-04-04T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2019-06-18T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-07-05T04:00:00.000Z",
-            "Authorizing_Agency": "Consumer Financial Protection Bureau",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFPB_Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2022-10-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-10-01T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Agriculture",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-03-06T05:00:00.000Z",
-            "Letter_Expiration_Date": "2023-03-06T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-03-06T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Veterans Affairs",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-05-31T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-05-31T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-05-27T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-09-23T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-09-23T04:00:00.000Z",
-            "Authorizing_Agency": "Pretrial Services Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PSA%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-10-21T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-10-21T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Deposit Insurance Corporation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-01-05T05:00:00.000Z",
-            "Letter_Expiration_Date": "2022-01-05T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-01-05T05:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Authorizing_Subagency": "Bureau of Land Management",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-01-21T05:00:00.000Z",
-            "Letter_Expiration_Date": "2024-02-01T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-02-01T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Food and Drug Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Boomi",
         "Cloud_Service_Provider_Package": "AtomSphere",
         "Path": "Agency",
@@ -6391,12 +6278,6 @@
             "Authorizing_Agency": "Department of Energy",
             "Authorizing_Subagency": "Southwestern Power Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2017-12-20T05:00:00.000Z",
-            "Authorizing_Agency": "Federal Communications Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -6722,6 +6603,13 @@
             "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-10-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-11-09T05:00:00.000Z",
+            "Authorizing_Agency": "Federal Communications Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -6863,12 +6751,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Authorizing_Letter_Last_Sign_Date": "2017-12-07T05:00:00.000Z",
-            "Authorizing_Agency": "Federal Communications Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2018-04-05T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-04-06T04:00:00.000Z",
             "Authorizing_Agency": "Department of Justice",
@@ -6993,6 +6875,13 @@
             "Letter_Date": "2021-10-01T04:00:00.000Z",
             "Authorizing_Agency": "Department of State",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-10-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-11-09T05:00:00.000Z",
+            "Authorizing_Agency": "Federal Communications Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -7480,6 +7369,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-10-27T04:00:00.000Z",
             "Authorizing_Agency": "Department of Education",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-10-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-11-09T05:00:00.000Z",
+            "Authorizing_Agency": "Federal Communications Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -9926,12 +9822,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Authorizing_Letter_Last_Sign_Date": "2017-12-07T05:00:00.000Z",
-            "Authorizing_Agency": "Federal Communications Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-08-07T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-08-07T04:00:00.000Z",
             "Authorizing_Agency": "Federal Trade Commission",
@@ -10022,6 +9912,13 @@
             "Authorizing_Agency": "Department of Homeland Security",
             "Authorizing_Subagency": "Customs and Border Protection",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-10-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-11-09T05:00:00.000Z",
+            "Authorizing_Agency": "Federal Communications Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -10859,7 +10756,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Xerox Corporation",
-        "Cloud_Service_Provider_Package": "Managed Print Services for US Federal Government",
+        "Cloud_Service_Provider_Package": "Managed Print Services for US Government",
         "Path": "JAB",
         "Designation": "Compliant",
         "Package_ID": "FR1730334049",
@@ -11053,6 +10950,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-09-10T04:00:00.000Z",
             "Authorizing_Agency": "United States Agency for International Development",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-10-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-11-09T05:00:00.000Z",
+            "Authorizing_Agency": "Federal Communications Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -13787,6 +13691,13 @@
             "Authorizing_Agency": "Millennium Challenge Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-MillenniumChallengeCorporation-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-10-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-11-09T05:00:00.000Z",
+            "Authorizing_Agency": "Federal Communications Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -13946,7 +13857,15 @@
         "CSP_POC_Name": "Chris Weiskirch",
         "CSP_POC_Email": "fedramp@zendesk.com",
         "FedRAMP_In-Process_Date": "2020-01-30T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2021-10-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-11-09T05:00:00.000Z",
+            "Authorizing_Agency": "Federal Communications Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "ID.me",
@@ -15396,6 +15315,147 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "MuleSoft",
+        "Cloud_Service_Provider_Package": "MuleSoft Government Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1818161169",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-11-09T05:00:00.000Z",
+        "Sponsoring_Agency": "Federal Communications Commission",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
+        "Authorizing_Agency": "Federal Communications Commission",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MuleSoft%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.mulesoft.com",
+        "CSO_Description": "MuleSoft’s Anypoint Platform is a hybrid platform for designing, developing and managing APIs and integrations. Uniquely built as a single solution, it includes integration Platform as a Service (iPaaS) functionality which provides users with enterprise messaging, advanced user and role based management, services/tools for providing API and integration analytics and management, API design and publishing tools, and the ability to share and collaborate on API specifications, code snippets and templates of best practices.",
+        "Announcement_Date": "2019-07-31T04:00:00.000Z",
+        "CSP_POC_Name": "N/A",
+        "CSP_POC_Email": "Public.Sector.Compliance@salesforce.com",
+        "FedRAMP_In-Process_Date": "2018-04-04T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2019-06-18T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-07-05T04:00:00.000Z",
+            "Authorizing_Agency": "Consumer Financial Protection Bureau",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFPB_Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2022-10-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-10-01T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-03-06T05:00:00.000Z",
+            "Letter_Expiration_Date": "2023-03-06T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-03-06T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-05-31T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-05-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-05-27T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-09-23T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-09-23T04:00:00.000Z",
+            "Authorizing_Agency": "Pretrial Services Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PSA%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-10-21T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-10-21T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Deposit Insurance Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-01-05T05:00:00.000Z",
+            "Letter_Expiration_Date": "2022-01-05T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-01-05T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Authorizing_Subagency": "Bureau of Land Management",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-01-21T05:00:00.000Z",
+            "Letter_Expiration_Date": "2024-02-01T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-02-01T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Socrata",
+        "Cloud_Service_Provider_Package": "Socrata Data Platform",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "SOCRATA",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-11-09T05:00:00.000Z",
+        "Sponsoring_Agency": "Federal Communications Commission",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
+        "Authorizing_Agency": "Federal Communications Commission",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Socrata%20Logo%201.png",
+        "Independent_Assessor": "SecureIT",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
+        "CSP_Website": "www.socrata.com",
+        "CSO_Description": "Socrata is the market leader in making existing government data discoverable, usable, and actionable for government workers and the people they serve. Socrata provides a data-as-a-service data platform and cloud applications exclusively for city, county, state, and federal government organizations. Socrata delivers unprecedented data-driven innovation and cost-savings for hundreds of public sector leaders and millions of their constituents around the world.\nGovernment programs generate massive amounts of data, but most of it is locked away in hard-to-access data silos, including archaic databases. Socrata enables unprecedented data access by bringing together disparate systems and leveraging the cloud to dramatically enhance the effectiveness of government programs, to improve quality of life for residents, positively impact local economies, and achieve excellence in government operations. Socrata solutions are designed and developed to meet strict government standards. The technology is optimized on the Amazon Web Services (AWS) Public Sector cloud and delivered using the exclusive Socrata Blueprint Methodology.",
+        "Announcement_Date": "2017-05-15T04:00:00.000Z",
+        "CSP_POC_Name": "Jeffrey Newball",
+        "CSP_POC_Email": "fedramp-l@socrata.com",
+        "FedRAMP_In-Process_Date": "2015-03-02T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2016-09-14T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Transportation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-07-09T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-07-09T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Justice",
+            "Authorizing_Subagency": "Office of Justice Programs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-01-27T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-01-27T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "Acalvio Technologies Inc.",
         "Cloud_Service_Provider_Package": "ShadowPlex",
         "Designation": "FedRAMP Ready",
@@ -15537,25 +15597,6 @@
         "CSP_POC_Name": "Manish Sharma",
         "CSP_POC_Email": "fedramp@aurigo.com",
         "Fedramp_Ready_Date": "2020-10-28T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "BlackLine, Inc.",
-        "Cloud_Service_Provider_Package": "BlackLine Gov",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR2023547968",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/BlackLine%20Logo.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "CSP_Website": "https://www.blackline.com",
-        "CSO_Description": "Organizations come to BlackLine because their traditional manual accounting processes are not sustainable. Scaling with the dynamic needs of your constituencies requires a move to modern accounting. The BlackLine Government solution helps public sector entities take a more modern approach to accounting by unifying their data and processes, automating repetitive work, and driving accountability through visibility. Built on a highly secure cloud platform tailored to meet the needs of the public sector, BlackLine provides solutions to manage the financial close and automate accounting processes, helping government agencies of all sizes close faster with complete and accurate results.",
-        "CSP_POC_Name": "Mel Zeledon",
-        "CSP_POC_Email": "fedramp@blackline.com",
-        "Fedramp_Ready_Date": "2020-08-10T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -15900,7 +15941,7 @@
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "High",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CyLogic%20Logo.png",
-        "Independent_Assessor": "Fortreum",
+        "Independent_Assessor": "Fortreum, LLC",
         "CSP_Website": "https://CyLogic.com",
         "CSO_Description": "CyLogic’s CyCloud is a VMware-based, Secure Enterprise Cloud offering designed from the ground up to deliver VMware Cloud Foundation’s next-generation Software Defined Data Center capabilities in compliance with FedRAMP High requirements.  As recognized by the FedRAMP Program Management Office (PMO), CyCloud is a “closed system” and does not inherit external services. CyCloud allows full control and operational insight to U.S. Federal Agencies.  CyLogic delivers the ease-of-use and economies-of-scale of a public cloud combined with the dedicated resources and customer control of a private cloud deployment to deliver a new highly compliant model for government organizations.\n\nIncorporating the latest version of VMware Cloud Foundation 4 (VCF4), CyCloud merges compliant automated deployment capabilities with CyLogic’s Software-Defined Cybersecurity framework.\n\nCyCloud is a dedicated air-gapped infrastructure designed for Government Agencies, that delivers next generation virtual machine, orchestration, and cybersecurity capabilities including a dedicated Government-only Management Console.  CyCloud is a closed system that does not utilize any external services, providing complete control across all layers of the cloud stack. CyCloud provides isolated network, data, storage, virtual machines, Federally Compliant Identity and Access Management (IdAM), dedicated management portal, and FIPS 140-2 Validated cryptographic modules for data-in-transit and data-at-rest.\n\nCyCloud is supported and monitored via CyLogic-controlled Operations Centers in two locations including an Operations Center and COOP DR site located over 200 feet underground. CyCloud is 100% deployed in the Continental United States and supported by 100% U.S. Citizen Access located CONUS.\n\nAs a Federal Small Business, CyLogic delivers Cloud Infrastructure as it was meant to be – with native security, compliance, performance, control, ease-of-use, continuous monitoring, predictable pricing, and zero lock-in.  Using a unique implementation of VMware Cloud Foundation (VCF) 4, CyLogic delivers full control and operational insight to its customers.  Additional information is available at [http://CyLogic.com](http://CyLogic.com).\n",
         "CSP_POC_Name": "Christopher Grady",
