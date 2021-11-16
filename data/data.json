@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-11-15T05:40:50.573Z",
+    "Created_At": "2021-11-16T05:40:50.581Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -8797,14 +8797,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2021-11-07T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-11-07T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "Customs and Border Protection",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-04-02T04:00:00.000Z",
             "Authorizing_Agency": "Federal Deposit Insurance Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
@@ -11850,6 +11842,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-07-29T04:00:00.000Z",
             "Authorizing_Agency": "Environmental Protection Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-03-02T05:00:00.000Z",
+            "Letter_Expiration_Date": "2023-09-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-03-02T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "United States Air Force",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -15144,6 +15145,30 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Continuum GRC, Inc.",
+        "Cloud_Service_Provider_Package": "ITAM",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1915750265",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-12-23T05:00:00.000Z",
+        "Sponsoring_Agency": "Small Business Administration",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SmallBusinessAdmin-Seal.png",
+        "Authorizing_Agency": "Small Business Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Continuum%20Logo.png",
+        "Independent_Assessor": "Earthling Security, LLC",
+        "CSP_Website": "ContinuumGRC.com",
+        "CSO_Description": "Auto-mapped standards, automated documentation, real-time status, risk & maturity. When it comes to Compliance Cartography, no one is more comprehensive, secure and automated saving you time, trouble and money. Serving the enterprise to the start-up community. Continuum GRC is a software as a service (SaaS) product that is purpose build for users who perform audit & compliance assessments, risk assessment & risk management, governance & policy development, and all other manner of audits and assessments.\r\n\r\nIn addition to pre-configured questionnaires, assessment modules, and forms, the Continuum GRC ITAM SaaS application has creation tools that provide drag-n-drop easy custom creation for system administrators to construct their own assessment modules in 26 languages. Real time reports on Compliance Status, Risk Scores, Maturity Scores, workflows, tasking records, evidence management, and historical performance helping you stay proactive; not reactive.\r\n\r\nMany of the Continuum GRC ITAM SaaS application assessment modules include support for NIST 800-53. CMMC, 800-171, 800-66, 800-30, FedRAMP, CJIS, DFARS, HIPAA, ITRM, AICPA SOC 1, SOC 2, GDPR, ISO 27001, NERC CIP, and hundreds of other modules available to customers. Customer use Continuum GRC to replace existing tools, templates, and manual processes in place to support internal compliance and GRC requirements. The automation of Continuum GRC reduces manual labor, complexity of and between frameworks, produces reports, SSPs, POA&Ms, graphics, dashboards, and related outputs all sustained over the entire life-cycle of the program.",
+        "CSP_POC_Name": "Michael Peters",
+        "CSP_POC_Email": "FedRAMP@ContinuumGRC.com",
+        "FedRAMP_In-Process_Date": "2020-12-23T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Google",
         "Cloud_Service_Provider_Package": "Google Workspace",
         "Path": "JAB",
@@ -15857,29 +15882,6 @@
         "CSP_POC_Name": "Scott Fraass",
         "CSP_POC_Email": "fedramp@conga.com",
         "Fedramp_Ready_Date": "2021-09-07T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Continuum GRC, Inc.",
-        "Cloud_Service_Provider_Package": "ITAM",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1915750265",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Small Business Administration",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SmallBusinessAdmin-Seal.png",
-        "Authorizing_Agency": "Small Business Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Continuum%20Logo.png",
-        "Independent_Assessor": "Earthling Security, LLC",
-        "CSP_Website": "ContinuumGRC.com",
-        "CSO_Description": "Auto-mapped standards, automated documentation, real-time status, risk & maturity. When it comes to Compliance Cartography, no one is more comprehensive, secure and automated saving you time, trouble and money. Serving the enterprise to the start-up community. Continuum GRC is a software as a service (SaaS) product that is purpose build for users who perform audit & compliance assessments, risk assessment & risk management, governance & policy development, and all other manner of audits and assessments.\r\n\r\nIn addition to pre-configured questionnaires, assessment modules, and forms, the Continuum GRC ITAM SaaS application has creation tools that provide drag-n-drop easy custom creation for system administrators to construct their own assessment modules in 26 languages. Real time reports on Compliance Status, Risk Scores, Maturity Scores, workflows, tasking records, evidence management, and historical performance helping you stay proactive; not reactive.\r\n\r\nMany of the Continuum GRC ITAM SaaS application assessment modules include support for NIST 800-53. CMMC, 800-171, 800-66, 800-30, FedRAMP, CJIS, DFARS, HIPAA, ITRM, AICPA SOC 1, SOC 2, GDPR, ISO 27001, NERC CIP, and hundreds of other modules available to customers. Customer use Continuum GRC to replace existing tools, templates, and manual processes in place to support internal compliance and GRC requirements. The automation of Continuum GRC reduces manual labor, complexity of and between frameworks, produces reports, SSPs, POA&Ms, graphics, dashboards, and related outputs all sustained over the entire life-cycle of the program.",
-        "CSP_POC_Name": "Michael Peters",
-        "CSP_POC_Email": "FedRAMP@ContinuumGRC.com",
-        "FedRAMP_In-Process_Date": "2020-12-23T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
