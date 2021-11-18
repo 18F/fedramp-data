@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-11-17T05:41:08.009Z",
+    "Created_At": "2021-11-18T05:40:50.912Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -10461,9 +10461,9 @@
         "FedRAMP_In-Process_Date": "2018-09-19T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Date": "2021-03-27T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-10-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-03-27T04:00:00.000Z",
+            "Letter_Date": "2021-11-14T05:00:00.000Z",
+            "Letter_Expiration_Date": "2022-11-14T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-11-14T05:00:00.000Z",
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Defense Information Systems Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
@@ -15160,14 +15160,14 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SmallBusinessAdmin-Seal.png",
         "Authorizing_Agency": "Small Business Administration",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Continuum%20Logo.png",
-        "Independent_Assessor": "Earthling Security, LLC",
+        "Independent_Assessor": "Securisea, Inc.",
         "Underlying_CSP_Package_ID": [
           "F1603047866",
           "F1206081364",
           "F1512167750"
         ],
         "CSP_Website": "ContinuumGRC.com",
-        "CSO_Description": "Auto-mapped standards, automated documentation, real-time status, risk & maturity. When it comes to Compliance Cartography, no one is more comprehensive, secure and automated saving you time, trouble and money. Serving the enterprise to the start-up community. Continuum GRC is a software as a service (SaaS) product that is purpose build for users who perform audit & compliance assessments, risk assessment & risk management, governance & policy development, and all other manner of audits and assessments.\r\n\r\nIn addition to pre-configured questionnaires, assessment modules, and forms, the Continuum GRC ITAM SaaS application has creation tools that provide drag-n-drop easy custom creation for system administrators to construct their own assessment modules in 26 languages. Real time reports on Compliance Status, Risk Scores, Maturity Scores, workflows, tasking records, evidence management, and historical performance helping you stay proactive; not reactive.\r\n\r\nMany of the Continuum GRC ITAM SaaS application assessment modules include support for NIST 800-53. CMMC, 800-171, 800-66, 800-30, FedRAMP, CJIS, DFARS, HIPAA, ITRM, AICPA SOC 1, SOC 2, GDPR, ISO 27001, NERC CIP, and hundreds of other modules available to customers. Customer use Continuum GRC to replace existing tools, templates, and manual processes in place to support internal compliance and GRC requirements. The automation of Continuum GRC reduces manual labor, complexity of and between frameworks, produces reports, SSPs, POA&Ms, graphics, dashboards, and related outputs all sustained over the entire life-cycle of the program.",
+        "CSO_Description": "Auto-mapped standards, automated documentation, real-time status, risk & maturity. When it comes to Compliance Cartography, no one is more comprehensive, secure and automated saving you time, trouble and money. Serving the enterprise to the start-up community. Continuum GRC is a software as a service (SaaS) product that is purpose build for users who perform audit & compliance assessments, risk assessment & risk management, governance & policy development, and all other manner of audits and assessments.\n\r\nContinuum GRC modules include support for the world’s frameworks including NIST 800-53. DoD SRG, CMMC, 800-171, 800-66, 800-30, FedRAMP, StateRAMP, CJIS, DFARS, HIPAA, ITRM, AICPA SOC 1, SOC 2, GDPR, ISO 27001, NERC CIP, EUCS, C5, PCI DSS, LADMF and hundreds of others.\n\r\nIn addition to pre-configured questionnaires, assessment modules, and forms, the Continuum GRC ITAM SaaS application has creation tools that provide drag-n-drop easy custom creation for system administrators to construct their own assessment modules in 26 languages. Real time reports on Compliance Status, Risk Scores, Maturity Scores, workflows, tasking records, evidence management, and historical performance helping you stay proactive; not reactive.\n\r\nUse Continuum GRC to replace existing tools, templates, and manual processes in place to support internal compliance and GRC requirements. The automation of Continuum GRC reduces manual labor, complexity of and between frameworks, produces reports, SSPs, POA&Ms, graphics, dashboards, and related outputs all sustained over the entire lifecycle of the program all within a single view with a unified source for governance, risk and compliance that supercharges performance and eliminates complexity.\r\nFor a complete list of features and capabilities, please visit [https://continuumgrc.com/subscription-options/](https://continuumgrc.com/subscription-options/)",
         "Announcement_Date": "2021-11-15T05:00:00.000Z",
         "CSP_POC_Name": "Michael Peters",
         "CSP_POC_Email": "FedRAMP@ContinuumGRC.com",
@@ -17574,6 +17574,24 @@
             "Include_In_Marketplace": "Y"
           }
         ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "WidePoint Integrated Solutions Corp.",
+        "Cloud_Service_Provider_Package": "Intelligent Telecommunications Management System (ITMS)",
+        "Designation": "FedRAMP Ready",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/WidePoint%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "CSP_Website": "www.widepoint.com",
+        "CSO_Description": "ITMS™ (Intelligent Telecommunications Management System) is Moderate security level Software as a Service (SaaS) providing cloud-based telecom lifecycle management functions. ITMS™ offers a user-friendly, customizable Web portal interface that allows for online configuration, ordering, tracking, auditing, updating of databases, and the ability to view and generate reports. ITMS™ enables WidePoint to optimize and manage a client’s telecommunications assets, services, contracts, and invoices with transparency and accountability to deliver maximum savings.",
+        "CSP_POC_Name": "Victoria Engleking",
+        "CSP_POC_Email": "fedramp@widepoint.com",
+        "Fedramp_Ready_Date": "2021-11-15T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "WingSwept",
