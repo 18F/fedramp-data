@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-11-30T05:40:50.588Z",
+    "Created_At": "2021-12-01T05:40:50.285Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -7926,7 +7926,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Google%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "https://cloud.google.com",
-        "CSO_Description": "Google Services is comprised of Google’s multi-tenant public cloud Google Cloud Platform and built atop the Google Common Infrastructure. The Google Common Infrastructure powers Google worldwide.\r\n\r\nThe in-scope Google Cloud Platform services Authorized at High are: Admin Console (including Admin SDK, Directory Sync), App Engine, BigQuery, Cloud Bigtable, Cloud DNS, Cloud HSM, Cloud Identity, Cloud Key Management Service, Cloud Spanner, Cloud SQL, Cloud Storage, Compute Engine, Container Registry, Dataflow, Dataproc, Firestore, Google Kubernetes Engine, Identity & Access Management (IAM), Memorystore, Persistent Disk, Pub/Sub, Virtual Private Cloud (VPC).\r\n\r\nThe in-scope Google Cloud Platform services Authorized at Moderate are: Access Context Manager, Access Transparency, AI Platform Training and Prediction (formerly Cloud Machine Learning Engine), AI Platform Notebooks, Apigee, AutoML Natural Language, AutoML Tables, AutoML Translation, AutoML Video, AutoML Vision, BigQuery, Care Studio, Cloud Billing, Cloud Build, Cloud CDN, Cloud Composer, Cloud Console (including BeyondCorp Enterprise formerly Context Aware Access), Cloud Console App, Cloud Data Fusion, Cloud Data Loss Prevention, Cloud Debugger (formerly Stackdriver Debugger), Cloud Deployment Manager, Cloud Endpoints, Cloud Filestore, Cloud Functions, Cloud Healthcare, Cloud Interconnect, Cloud Life Sciences (formerly Google Genomics), Cloud Load Balancing, Cloud Logging (formerly Stackdriver Logging; includes Error Reporting), Cloud NAT (Network Address Translation), Cloud Natural Language API, Cloud Monitoring, Cloud Profiler (formerly Stackdriver Profiler), Cloud Router, Cloud Run (fully managed), Cloud SDK, Cloud Shell, Cloud Source Repositories, Cloud Trace (formerly Stackdriver Trace) , Cloud Translation, Cloud Vision, Cloud VPN, Data Catalog, Datalab, Datastore, Data Transfer Service, Dialogflow, GCP Marketplace, Google Cloud Armor, Google Cloud Identity-Aware Proxy, Identity Platform, IoT Core, Network Service Tiers, Resource Manager API, Security Command Center – Web Security Scanner (formerly Cloud Security Scanner, Service Consumer Management API), Service Infrastructure (formerly Service Control; includes Service Management API and Service Consumer Management API), Speech-to-Text , Storage Transfer Service, Talent Solution, Text-to-Speech, Video Intelligence API, VPC Service Controls.",
+        "CSO_Description": "Google Services is comprised of Google’s multi-tenant public cloud Google Cloud Platform and built atop the Google Common Infrastructure. The Google Common Infrastructure powers Google worldwide.\n\nThe in-scope Google Cloud Platform services Authorized at High are: Admin Console (including Admin SDK, Directory Sync), App Engine, BigQuery, Cloud Bigtable, Cloud DNS, Cloud HSM, Cloud Identity, Cloud Key Management Service, Cloud Spanner, Cloud SQL, Cloud Storage, Compute Engine, Container Registry, Dataflow, Dataproc, Firestore, Google Kubernetes Engine, Identity & Access Management (IAM), Memorystore, Persistent Disk, Pub/Sub, Virtual Private Cloud (VPC).\n\nThe in-scope Google Cloud Platform services Authorized at Moderate are: Access Context Manager, Access Transparency, AI Platform Training and Prediction (formerly Cloud Machine Learning Engine), AI Platform Notebooks, Apigee, AutoML Natural Language, AutoML Tables, AutoML Translation, AutoML Video, AutoML Vision, BigQuery, Care Studio, Cloud Billing, Cloud Build, Cloud CDN, Cloud Composer, Cloud Console (including BeyondCorp Enterprise formerly Context Aware Access), Cloud Console App, Cloud Data Fusion, Cloud Data Loss Prevention, Cloud Debugger (formerly Stackdriver Debugger), Cloud Deployment Manager, Cloud Endpoints, Cloud Filestore, Cloud Functions, Cloud Healthcare, Cloud Interconnect, Cloud Life Sciences (formerly Google Genomics), Cloud Load Balancing, Cloud Logging (formerly Stackdriver Logging; includes Error Reporting), Cloud NAT (Network Address Translation), Cloud Natural Language API, Cloud Monitoring, Cloud Profiler (formerly Stackdriver Profiler), Cloud Router, Cloud Run (fully managed), Cloud SDK, Cloud Shell, Cloud Source Repositories, Cloud Trace (formerly Stackdriver Trace) , Cloud Translation, Cloud Vision, Cloud VPN, Data Catalog, Datalab, Datastore, Data Transfer Service, Dialogflow, GCP Marketplace, Google Cloud Armor, Google Cloud Identity-Aware Proxy, Identity Platform, IoT Core, Network Service Tiers, Resource Manager API, Security Command Center – Web Security Scanner (formerly Cloud Security Scanner, Service Consumer Management API), Service Infrastructure (formerly Service Control; includes Service Management API and Service Consumer Management API), Speech-to-Text , Storage Transfer Service, Talent Solution, Text-to-Speech, Video Intelligence API, VPC Service Controls.",
         "Announcement_Date": "2019-12-04T05:00:00.000Z",
         "CSP_POC_Name": "Google FedRAMP Team",
         "CSP_POC_Email": "fedramp@google.com",
@@ -11718,15 +11718,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-11-18T05:00:00.000Z",
-            "Letter_Expiration_Date": "2021-11-30T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-11-18T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "United States Air Force",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2024-04-01T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-04-01T04:00:00.000Z",
             "Authorizing_Agency": "Millennium Challenge Corporation",
@@ -11850,6 +11841,15 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Telecommunications and Information Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-11-29T05:00:00.000Z",
+            "Letter_Expiration_Date": "2024-11-16T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-11-29T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "United States Air Force",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -16816,7 +16816,13 @@
         "CSP_POC_Email": "fedramp@monster.com",
         "FedRAMP_In-Process_Date": "2021-05-28T04:00:00.000Z",
         "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Motorola Solutions",
@@ -17369,6 +17375,28 @@
         "CSP_POC_Name": "Brad MacDonald",
         "CSP_POC_Email": "fedramp@skillsoft.com",
         "FedRAMP_In-Process_Date": "2021-08-17T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Snowflake Inc.",
+        "Cloud_Service_Provider_Package": "The Data Cloud on AWS GovCloud",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2127835801",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "National Aeronautics and Space Administration",
+        "Authorizing_Agency": "National Aeronautics and Space Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Snowflake%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://www.snowflake.com",
+        "CSO_Description": "Snowflake is the only data warehouse built for the cloud, enabling the data-driven enterprise with instant elasticity, secure data sharing and per-second pricing, across multiple clouds. Snowflake combines the power of data warehousing, the flexibility of big data platforms and the elasticity of the cloud at a fraction of the cost of traditional solutions. Find out more at [https://www.snowflake.com/](https://www.snowflake.com/).",
+        "CSP_POC_Name": "Siddique Chaudhry",
+        "CSP_POC_Email": "FedRAMP@snowflake.com",
+        "FedRAMP_In-Process_Date": "2021-11-30T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
