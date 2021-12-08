@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-12-07T05:40:50.359Z",
+    "Created_At": "2021-12-08T05:40:50.647Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2353,6 +2353,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-08-31T04:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2024-11-19T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-11-19T05:00:00.000Z",
+            "Authorizing_Agency": "General Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -7699,19 +7706,19 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-12-17T05:00:00.000Z",
-            "Letter_Expiration_Date": "2021-12-31T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-12-21T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "United States Air Force",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2021-08-02T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-08-01T04:00:00.000Z",
             "Authorizing_Agency": "Federal Deposit Insurance Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-11-19T05:00:00.000Z",
+            "Letter_Expiration_Date": "2022-12-30T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-11-19T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "United States Air Force",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -10063,6 +10070,7 @@
         "Independent_Assessor": "Schellman & Company, LLC",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW",
+          "F1212191840",
           "FR1823149273",
           "F1209051525",
           "MSO365MT"
@@ -14156,6 +14164,15 @@
             "Authorizing_Agency": "Department of Education",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-12-08T05:00:00.000Z",
+            "Letter_Expiration_Date": "2024-12-08T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-12-07T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "National Institute of Environmental Health Sciences",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -15156,7 +15173,7 @@
         "Cloud_Service_Provider_Name": "Somnoware Healthcare Systems",
         "Cloud_Service_Provider_Package": "Somnoware",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "FR2002367706",
         "Service_Model": [
           "SaaS"
@@ -15170,8 +15187,16 @@
         "Authorizing_Agency": "Department of Veterans Affairs",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Somnoware%20Logo.png",
         "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1512167750",
+          "FR1812446342",
+          "FR1919071020",
+          "FR1821856903"
+        ],
         "CSP_Website": "www.somnoware.com",
         "CSO_Description": "Somnoware delivers accelerated diagnosis and outcome management for patients with OSA and COPD through its cloud-based platform. Physicians can generate diagnostic reports for any sleep or pulmonary test instantly by leveraging Somnoware’s clinical intelligence and integrations with all major diagnostic devices, EMR applications, and therapy manufacturers. Providers have real-time insights to patient CPAP therapy progress, risk profiles, and engagement metrics via Somnoware’s Care Management Console.  ",
+        "Announcement_Date": "2021-12-06T05:00:00.000Z",
         "CSP_POC_Name": "Michael Kenny",
         "CSP_POC_Email": "fedadmin@somnoware.com",
         "FedRAMP_In-Process_Date": "2020-12-17T05:00:00.000Z",
@@ -15539,7 +15564,8 @@
         "Underlying_CSP_Package_ID": [
           "F1603047866",
           "AGENCYAMAZONEW",
-          "FR1807853629"
+          "FR1807853629",
+          "F1603087869"
         ],
         "CSP_Website": "www.blackboard.com",
         "CSO_Description": "Blackboard’s Learn SaaS solution offers government and military agencies next-generation online, social and mobile tools that create a continuous learning environment, built around peer-to-peer interaction, content and discussions.",
@@ -15658,25 +15684,6 @@
         "CSP_POC_Name": "Rahat Sethi",
         "CSP_POC_Email": "fedramp@adobe.com",
         "FedRAMP_In-Process_Date": "2021-02-23T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Armis Public Sector LLC",
-        "Cloud_Service_Provider_Package": "Armis FedRAMP Edition (AFE)",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR2031936863",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Armis%20Logo.png",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "CSP_Website": "armis.com",
-        "CSO_Description": "Armis is the first agentless, enterprise-class security platform to address the new threat landscape of unmanaged and IoT devices. Governments and Fortune 1000 companies trust our unique out-of-band sensing technology to discover and analyze all managed, unmanaged, and IoT devices—from traditional devices like laptops and smartphones to new unmanaged smart devices like smart TVs, webcams, printers, HVAC systems, industrial robots, medical devices and more. Armis discovers devices on and off the network, continuously analyzes endpoint behavior to identify risks and attacks, and protects critical information and systems by identifying suspicious or malicious devices and quarantining them. Armis is a privately held company and headquartered in Palo Alto, California.",
-        "CSP_POC_Name": "Christian Terlecki",
-        "CSP_POC_Email": "fedramp@armis.com\r",
-        "Fedramp_Ready_Date": "2020-09-02T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -17686,7 +17693,7 @@
         "Cloud_Service_Provider_Name": "VMware, Inc.",
         "Cloud_Service_Provider_Package": "VMware Cloud on AWS GovCloud (VMC) - JAB",
         "Path": "JAB",
-        "Designation": "FedRAMP Ready",
+        "Designation": "In Process",
         "Package_ID": "FR1916163735",
         "Service_Model": [
           "IaaS"
@@ -17702,6 +17709,7 @@
         "CSP_POC_Name": "VMware Government Services",
         "CSP_POC_Email": "fedramp-vmc@vmware.com",
         "Fedramp_Ready_Date": "2020-05-06T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2021-12-07T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
