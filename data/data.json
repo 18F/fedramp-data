@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-12-08T05:40:50.647Z",
+    "Created_At": "2021-12-09T05:40:50.424Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4216,6 +4216,15 @@
             "Authorizing_Subagency": "Alcohol and Tobacco Tax and Trade Bureau",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-11-18T05:00:00.000Z",
+            "Letter_Expiration_Date": "2022-06-18T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-12-08T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -5312,6 +5321,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-08-30T04:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "United States Patent and Trademark Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-09-14T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-09-30T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "International Trade Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           },
@@ -6620,6 +6637,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-11-09T05:00:00.000Z",
             "Authorizing_Agency": "Federal Communications Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-11-30T05:00:00.000Z",
+            "Letter_Expiration_Date": "2024-11-30T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-12-07T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Security Cooperation Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -8778,6 +8804,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-10-05T04:00:00.000Z",
             "Authorizing_Agency": "Federal Trade Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-11-18T05:00:00.000Z",
+            "Letter_Expiration_Date": "2022-06-18T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-12-08T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -13664,6 +13699,15 @@
             "Include_In_Marketplace": "Y"
           },
           {
+            "Letter_Date": "2021-03-16T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-03-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-03-24T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "International Trade Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
             "Letter_Date": "2021-10-29T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-11-09T05:00:00.000Z",
             "Authorizing_Agency": "Federal Communications Commission",
@@ -15645,6 +15689,31 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Center for Translational Data Science (CTDS), University of Chicago and Open Commons Consortium (OCC)",
+        "Cloud_Service_Provider_Package": "Gen3 Data Commons Service",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2125059322",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "LI-SaaS",
+        "Original_Authorization_Date": "2021-11-18T05:00:00.000Z",
+        "Original_Expiration_Date": "2024-11-17T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/UoC%20Logo.png",
+        "Independent_Assessor": "Optic Cyber Solutions, LLC",
+        "CSP_Website": "http://research.data-commons.org",
+        "CSO_Description": "The Gen3 Commons Service (Gen3) is an open-source multi-tenant Software as a Service (SaaS) platform for developing, creating and operating cloud-based data commons, data ecosystems, and workspaces for managing, analyzing, and sharing data.",
+        "CSP_POC_Name": "Robert Grossman",
+        "CSP_POC_Email": "info@data-commons.org",
+        "FedRAMP_In-Process_Date": "2021-10-25T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Acalvio Technologies Inc.",
         "Cloud_Service_Provider_Package": "ShadowPlex",
         "Designation": "FedRAMP Ready",
@@ -15767,29 +15836,6 @@
         "CSP_POC_Name": "Shellie Dreistadt",
         "CSP_POC_Email": "solutions@bamboohealth.com",
         "FedRAMP_In-Process_Date": "2021-11-17T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Center for Translational Data Science (CTDS), University of Chicago and Open Commons Consortium (OCC)",
-        "Cloud_Service_Provider_Package": "Gen3 Data Commons Service",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2125059322",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "LI-SaaS",
-        "Sponsoring_Agency": "Department of Veterans Affairs",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-        "Authorizing_Agency": "Department of Veterans Affairs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/UoC%20Logo.png",
-        "Independent_Assessor": "Optic Cyber Solutions, LLC",
-        "CSP_Website": "http://research.data-commons.org",
-        "CSO_Description": "The Gen3 Commons Service (Gen3) is an open-source multi-tenant Software as a Service (SaaS) platform for developing, creating and operating cloud-based data commons, data ecosystems, and workspaces for managing, analyzing, and sharing data.",
-        "CSP_POC_Name": "Robert Grossman",
-        "CSP_POC_Email": "info@data-commons.org",
-        "FedRAMP_In-Process_Date": "2021-10-25T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -16315,30 +16361,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Forcepoint",
-        "Cloud_Service_Provider_Package": "Forcepoint Dynamic Cloud Solution",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2018065529",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Energy",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-        "Authorizing_Agency": "Department of Energy",
-        "Authorizing_Subagency": "Federal Energy Regulatory Commission",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Forcepoint%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://www.forcepoint.com/",
-        "CSO_Description": "Forcepoint Dynamic Cloud Solutions for CASB automatically discovers cloud application use, analyzes the risks, and enforces appropriate controls for SaaS and production applications to stop evolving threats by uncovering risky user activity.  \r\n\r\nFeatures and Benefits:\r\n\n* Comprehensive App Discovery, Governance, Analytics, and Protection in one integrated solution\r\n* Deployment options for offline (API mode) and/or inline (proxy mode)\r\n* Granular policies for mobile and endpoint devices enable access control and data protection for managed and unmanaged mobile phones, tablets, and laptops\r\n* Built-in integration with enterprise directories, SIEM, and MDM\r\n* Deep support for Office 365, AWS, Salesforce, Google Apps, Box, Dropbox, NetSuite, Workday, Microsoft Azure, and more\r\n* Extends an organization’s anomaly and threat detection capabilities to cloud apps\r\n* IP reputation data enables the creation and enforcement of more accurate risk-mitigation policies\r\n* Part of the Forcepoint family of Cloud Security products that span on-premise and cloud environments",
-        "CSP_POC_Name": "Darryl Strucko",
-        "CSP_POC_Email": "fedramp@forcepoint.com",
-        "FedRAMP_In-Process_Date": "2021-06-29T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "FormAssembly",
         "Cloud_Service_Provider_Package": "FormAssembly Government Cloud (FAGC)",
         "Designation": "FedRAMP Ready",
@@ -16812,7 +16834,7 @@
         "CSO_Description": "InfraLink, formerly known as Infrastructure Maintenance Management System (IMMS), integrates the cyber-physical systems lifecycle from design through implementation and sustainment, enabling configuration management and providing a systematic approach to planning and continuous improvement across project activities. Rely on InfraLink to support all aspects of critical infrastructure management.\n  \n* **Configuration Baselines** - Effectively manage system security, planned maintenance, issue management, and systems availability/performance reporting by ensuring the integrity of your system baseline configurations. InfraLink supports customization to each system element.\n* **Preventive Maintenance** - Ensure critical systems and equipment availability and avoid unplanned outages. Based on the concepts of reliability-centered maintenance, InfraLink provides a foundation for effective scheduling, tracking, and performance management activities. Model data, capture tools, and electronic forms document and validate information in near-real time. \n* **Issues Management & Analysis** - InfraLink’s flexible and customizable ticketing system allows you to define work categories and workflows that align with program scope and priorities, set service level agreement (SLA) milestones, and capture customized status-specific issue attributes. Comprehensive case details help you better assess system and process performance, conduct effective root cause analysis and ensure individual accountability.\n* **Installation Management** - InfraLink allows project teams to effectively track complex system implementation workflows, from simple component testing and installation to the integration of complex subsystems and hundreds of components. InfraLink enables effective planning and data integrity, which promote worker safety, accountability, and coordination across job functions.\n* **Materials Inventory** - Avoid work delays caused by stock shortages and extensive inventory carrying costs through effective inventory management. InfraLink helps you plan replacements based on a reliable configuration baseline, performance history and operational priorities, while streamlining stringent Government and enterprise property reporting requirements.\n* **Reporting** - Maintain a comprehensive assessment of your systems and team performance. InfraLink provides a range of standard and customizable reports and dashboards that offer critical insights to support ongoing improvements in systems performance and management.",
         "CSP_POC_Name": "Evgeny Kaplun",
         "CSP_POC_Email": "info@infralink.com",
-        "Fedramp_Ready_Date": "2021-06-09T04:00:00.000Z",
+        "Fedramp_Ready_Date": "2021-12-08T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -16998,7 +17020,7 @@
         "CSO_Description": "Netskope's Security Cloud (NSC) platform is a highly scalable, secure solution that processes and protects customer data traffic without the need to deploy on-premise physical hardware. The NSC services help customers eliminate cloud blind spots and to quickly analyze, target and control activities across thousands of cloud services and millions of websites with full control from one cloud platform. The full suite of services provided through the NSC provides 360-degree data protection that guards data backed by advanced threat protection that stops intrusive attacks.\r\n\r\nNSC’s services provide real-time analytics and policies for third-party applications used by its customers. The service allows for the termination of private cloud-based Software as a Service (SaaS) applications as well as standard web traffic to a single Netskope cloud endpoint that allows for auditing and policy enforcement on the use of these applications and web sites. NSC enables businesses to use SaaS applications and web services while still being compliant with business and/or auditing policies.",
         "CSP_POC_Name": "Beau Hutto",
         "CSP_POC_Email": "fedramp@netskope.com",
-        "FedRAMP_In-Process_Date": "2020-11-30T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2021-11-30T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -17046,29 +17068,6 @@
         "CSP_POC_Name": "Amanda Walker",
         "CSP_POC_Email": "fedramp@nuna.com",
         "FedRAMP_In-Process_Date": "2021-08-04T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "OnSolve LLC",
-        "Cloud_Service_Provider_Package": "OnSolve Platform for Critical Event Management",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2100059668",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Tennessee Valley Authority",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-TennesseeValleyAuthority-Logo.png",
-        "Authorizing_Agency": "Tennessee Valley Authority",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/OnSolve%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.onsolve.com",
-        "CSO_Description": "OnSolve provides leading-edge technology that keeps people safer and strengthens government, business and community crisis response.  The OnSolve Critical Event Management platform provides unparalleled coverage of critical events around the world, as well as the actionable intelligence needed to understand their impact. This platform combines our AI-powered risk intelligence, award-winning critical communications, and enhanced incident management to create better outcomes for people, communities and organizations.  With over two billion notifications sent annually and over 60 years of proven support to both the public and private sectors, OnSolve delivers critical event management solutions backed by unmatched industry expertise, which gives our customers the ability to proactively keep everyone informed, instill confidence, foster teamwork, mitigate disruptions, improve operational outcomes, protect assets, and save lives.",
-        "CSP_POC_Name": "Tony Munno",
-        "CSP_POC_Email": "fedramp@onsolve.com",
-        "FedRAMP_In-Process_Date": "2020-11-13T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -17177,7 +17176,7 @@
         "CSO_Description": "Zingbox® IoT Guardian discovers, identifies, secures, monitors and optimizes the use of connected medical devices, industrial control systems, physical security systems, and other non-traditional IT. Using Zingbox, federal agencies can safely enable IoT devices in their facilities while optimizing their lifecycle management. \r",
         "CSP_POC_Name": "Brad Bartholomew",
         "CSP_POC_Email": "fedramp@paloaltonetworks.com",
-        "FedRAMP_In-Process_Date": "2020-12-18T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2021-04-08T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
