@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-12-14T05:40:51.135Z",
+    "Created_At": "2021-12-15T05:40:50.731Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -6629,6 +6629,15 @@
             "Include_In_Marketplace": "Y"
           },
           {
+            "Letter_Date": "2021-05-11T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-05-10T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-05-11T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "Los Alamos National Laboratory",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
             "Letter_Date": "2021-10-13T04:00:00.000Z",
             "Letter_Expiration_Date": "2022-06-04T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-10-18T04:00:00.000Z",
@@ -12443,8 +12452,7 @@
           "FR1823149273",
           "F1206081364",
           "FR1805751477",
-          "F1512167750",
-          "F1605037894"
+          "F1512167750"
         ],
         "CSP_Website": "https://www.authentic8.com",
         "CSO_Description": "Silo is a remote browser that embeds security, identity and data policies directly into the browser. Available from anywhere, policies follow users regardless of environment. By shifting exposure away from the user's network and devices, Silo reduces risk and improves internal processes. With a configurable, centrally managed browser, users unlock the power of SaaS.\n\nAuthentic8 is redefining how enterprises conduct business on the web with the Silo web isolation platform. Silo insulates and isolates all web data and code execution from user endpoints, providing powerful, proactive security while giving users full, interactive access to the web. Silo also gives IT complete control over how the web is used. Commercial enterprises and public sector organizations use Silo solutions to provide secure web access; to control web data, apps, and workflows; and to conduct sensitive online research.",
@@ -12452,36 +12460,6 @@
         "CSP_POC_Name": "Michael Fledderjohann",
         "CSP_POC_Email": "fedramp@authentic8.com",
         "FedRAMP_In-Process_Date": "2020-11-12T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Virtru",
-        "Cloud_Service_Provider_Package": "Virtru Data Protection Platform",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1605037894",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2021-03-29T04:00:00.000Z",
-        "Original_Expiration_Date": "2022-03-29T04:00:00.000Z",
-        "Sponsoring_Agency": "United States Agency for International Development",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
-        "Authorizing_Agency": "United States Agency for International Development",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Virtru%20Logo.png",
-        "Independent_Assessor": "Kratos",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW",
-          "FR1823447014"
-        ],
-        "CSP_Website": "https://www.virtru.com",
-        "CSO_Description": "Virtru provides seamless end-to-end email encryption, powerful access controls, and unparalleled security - built for the enterprise, yet easy enough for everyone.\nGovernment agencies and large enterprises trust Virtru to protect and control sensitive information – such as regulated personal data and proprietary intellectual property – regardless of where it’s created, stored, or shared. Based on the Trusted Data Format (TDF) open standard, the Virtru Data Protection Platform allows users anywhere, on any device, to work the way they do today – without requiring a separate log-in, user interface, or application.\nEnforced through seamless integrations with G Suite, Office 365, and other SaaS business applications, Virtru is offered as a SaaS platform for access control, policy enforcement, and key management.",
-        "Announcement_Date": "2019-03-01T05:00:00.000Z",
-        "CSP_POC_Name": "Peter Nancarrow",
-        "CSP_POC_Email": "fedramp@virtru.com",
-        "FedRAMP_In-Process_Date": "2017-06-23T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -15272,7 +15250,7 @@
         "Cloud_Service_Provider_Name": "Immersion Consulting LLC",
         "Cloud_Service_Provider_Package": "Immersion Cloud",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "FR2106133460",
         "Service_Model": [
           "SaaS"
@@ -15286,8 +15264,13 @@
         "Authorizing_Agency": "Department of Veterans Affairs",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Immersion%20Logo.png",
         "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "F1512167750"
+        ],
         "CSP_Website": "https://www.immersioninc.com/",
         "CSO_Description": "Immersion Cloud is a software-as-a-service (SaaS) deployment of a commercial-of-the-shelf software product, Altair Knowledge Hub deployed in AWS GovCloud.  Altair Knowledge Hub is a browser-based and team-oriented shared data exploration, preparation, Automation, and Distribution Across Organizations preparation tool.  It automates the data extraction from a wide variety of data file formats including Microsoft Excel spreadsheets, Adobe PDF documents, delimited files, XML, JSON, and integrates that information with disparate database and reporting tools.\r\n\r\nGovernment users across mission areas from benefits to finance and operations to intelligence can use Immersion Cloud to centrally organize historical information, connect data repositories, and automate extraction, transformation, and reporting. Altair Knowledge Hub facilitates a team-oriented approach where:\r\n\r\n* users have roles, where some simply access an existing model/automation and process reports, while others create those automations, and even other curate and approve them;\r\n* work can be isolated to groups of users, where data can be separate by job function or task\r\n* administrative functions allow modifications of roles, group building, managing libraries of data, and even migrating\r\n\r\nEnd-users access Immersion Cloud using a browser on their government-issued computer. They access through FedRAMP authorized Identity-as-a-Service provider, Okta, with strong authentication using SAML federation of government identity credentials from inside their enterprise IT infrastructure.  Users access a customer-private instance dedicated to their use exclusively through this browser session. \r\n\r\nThe Immersion Cloud combines a private instance of Altair Knowledge Hub with a shared instance of a general support system (GSS) comprised of stackArmor ThreatAlert and OpsAlert. The GSS provides a comprehensive security and operations platform for the Immersion Cloud. \r\n\r\nThe stackArmor GSS ThreatAlert security stack (ThreatAlert) provides security support services for all Immersion Cloud AWS Accounts. AWS Landing Zone architecture based on common foundational management and services that segregate data into AWS accounts and Virtual Private Cloud (VPC) enclaves with governance provided using AWS Organizations for policy enforcement, access control and separation through segregation. The Landing zone pattern provides the capability for separated AWS accounts for production data and the associated security & management services. The landing zone architecture also allows for efficiencies through common foundational security services segregated from the production environment for greater scalability and security through separation of access and responsibilities.",
+        "Announcement_Date": "2021-12-13T05:00:00.000Z",
         "CSP_POC_Name": "Phil Magrogan",
         "CSP_POC_Email": "fedramp@immersioninc.com",
         "FedRAMP_In-Process_Date": "2021-03-03T05:00:00.000Z",
@@ -16356,7 +16339,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Deloitte%20Logo.png",
         "Independent_Assessor": "First Information Technology Services, Inc.",
         "CSP_Website": "The Future of Government Digital Contact Centers | Deloitte UScustomer-service.html",
-        "CSO_Description": "The Deloitte Digital Call Center (D2C2) is a Contact Center as a Solution (CCaaS) that transforms the services that contact centers can provide by implementing a secure platform that supports conversational AI, sentiment analysis, streamlined case management, and intelligent automation in order to efficiently and proactively address customer needs.",
+        "CSO_Description": "Deloitte’s Digital Call Center (D2C2) is a Contact Center as a Service (CCaaS) that transforms the services that contact centers can provide by implementing a secure platform that supports conversational AI, sentiment analysis, streamlined case management, and intelligent automation in order to efficiently and proactively address customer needs.",
         "CSP_POC_Name": "Kelvin Dominic",
         "CSP_POC_Email": "D2C2@deloitte.com",
         "Fedramp_Ready_Date": "2021-12-03T05:00:00.000Z",
@@ -17040,25 +17023,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Mimecast",
-        "Cloud_Service_Provider_Package": "Mimecast Federal Grid",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR2027841666",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Mimecast%20Logo.png",
-        "Independent_Assessor": "Schellman & Company, LLC",
-        "CSP_Website": "https://www.mimecast.com/solutions/industries/federal-government/",
-        "CSO_Description": "Mimecast solutions enable your organization to implement a cyber resilience strategy that secures your data and people by providing a world class, cloud-based email and web security, awareness training, and domain abuse and brand imitation protection.\n\nMimecast offering includes:\n\n* **Mimecast Email Security with Targeted Threat Protection** designed to protect inbound, outbound, and internal email from malware, spam, advanced persistent threats, email Denial of Service (DoS), Distributed Denial of Service (DDoS), data leaks, and other security threats\n  - **Target Threat Protection (TTP)** helps protect against targeted attacks including ransomware, impersonation and spear-phishing emails that infiltrate organizations, exploit users, and steal IP and user entity data\n  - **URL Protect** tackles the threat of emails containing malicious links\n  - **Attachment Protect** reduces the threat from weaponized or malware-laden attachments used in ransomware, spear-phishing and other advanced attacks\n  - **Impersonation Protect** tackles the threat of malware-less social engineering-based email attacks, often called CEO fraud, impersonation, whaling or business email compromise\n  - **Internal Email Protect** helps reduce the risk of a breach or damaging security incident spreading throughout the organization\n\n* **Information Protection**\n\n  - **Content Control & DLP** integrated into customer’s email service to enforce the organization’s content security policies\n  - **Secure Messaging** allows employees or administrators to initiate secure email delivery directly from the email client\n  - **Large File Send** enables PC and Mac users to send and receive large files, up to 2GB in size, directly within Outlook, a native Mac application or the Mimecast Personal Portal (web application)\n\n* **Email Continuity** service protects against on-premises, cloud and hybrid primary email system downtime with always-on email access for employees via desktop, web, and mobile applications\n* **Cloud Archive** offers storage of email, files and instant messaging conversations and associated critical metadata that identifies if activity is sent or received\n* **Web Security** is a cloud-based service that protects against malicious web activity initiated by user action or malware (ransomware and other malicious software)\n* **Security Awareness Training**",
-        "CSP_POC_Name": "Jon Goodwin",
-        "CSP_POC_Email": "fedramp@mimecast.com",
-        "Fedramp_Ready_Date": "2020-09-04T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "MongoDB",
         "Cloud_Service_Provider_Package": "MongoDB Atlas for Government",
         "Path": "Agency",
@@ -17731,6 +17695,29 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Totara Learning Inc.",
+        "Cloud_Service_Provider_Package": "Totara Talent Development Government Cloud Platform",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2118555665",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Agriculture",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+        "Authorizing_Agency": "Department of Agriculture",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Totara%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://www.totaralearning.com/",
+        "CSO_Description": "The Totara Talent Experience Platform for Government & Public Sector, **TotaraGov**, provides adaptable learning management, learning experience, and performance management technologies for Federal, State and Local agencies.   \n\nTotaraGov includes three distinct modules – Totara Learn, Totara Perform and Totara Engage.   Combined, they form a unified talent experience platform for your users, bringing together all the critically important employee experience management tools and processes you need to thrive in your new world of work; learning, employee engagement, collaboration, high performance and, ultimately, productivity.\n\n* **Totara Learn** – An enterprise level learning management system supporting the full range of learning management activities and requirements.  These include, but are not limited to, course and catalog management, compliance and required training, certification management, extensive learning activities including SCORM/AICC, Assessments, Instructor Lead and Virtual sessions, interactive lessons, and a robust reporting platform.  As part of TotaraGov, our Government & Public Sector clients are also provided access to Totara Learning Inc.’s SF-182 module and Enterprise Human Resources Integration (EHRI) reporting solution.\n\n* **Totara Perform** – A performance management module with a focus on ongoing employee development.  Perform features include a full suite of development activities to unlock the power of the organization and the employee and includes a tight integration with the LMS and Engage modules.\n\n* **Totara Engage** – An engagement module that presents a full range of collaboration, content curation, and workspace activities to unlock the Learning Experience in new and innovative ways.\n\nHosted in Amazon Web Services (AWS) GovCloud, TotaraGov provides a completely managed AWS (SaaS) hosted platform(s) as part of the Totara Learning Inc. AWS ecosystem in AWS GovCloud (US) Region(s).",
+        "CSP_POC_Name": "Mike Maurath",
+        "CSP_POC_Email": "fedramp@totaralearning.com",
+        "FedRAMP_In-Process_Date": "2021-12-08T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "United Solutions, LLC",
         "Cloud_Service_Provider_Package": "US AI",
         "Path": "Agency",
@@ -17798,6 +17785,25 @@
         "CSP_POC_Name": "Veracode FedRAMP Team",
         "CSP_POC_Email": "fedramp@veracode.com",
         "FedRAMP_In-Process_Date": "2021-07-15T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Virtru",
+        "Cloud_Service_Provider_Package": "Virtru Data Protection Platform",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "F1605037894",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Virtru%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "CSP_Website": "https://www.virtru.com",
+        "CSO_Description": "Virtru provides seamless end-to-end email encryption, powerful access controls, and unparalleled security - built for the enterprise, yet easy enough for everyone.\nGovernment agencies and large enterprises trust Virtru to protect and control sensitive information – such as regulated personal data and proprietary intellectual property – regardless of where it’s created, stored, or shared. Based on the Trusted Data Format (TDF) open standard, the Virtru Data Protection Platform allows users anywhere, on any device, to work the way they do today – without requiring a separate log-in, user interface, or application.\nEnforced through seamless integrations with G Suite, Office 365, and other SaaS business applications, Virtru is offered as a SaaS platform for access control, policy enforcement, and key management.",
+        "CSP_POC_Name": "Peter Nancarrow",
+        "CSP_POC_Email": "fedramp@virtru.com",
+        "Fedramp_Ready_Date": "2021-12-14T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -17879,6 +17885,7 @@
         "Cloud_Service_Provider_Name": "WidePoint Integrated Solutions Corp.",
         "Cloud_Service_Provider_Package": "Intelligent Telecommunications Management System (ITMS)",
         "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2032042635",
         "Service_Model": [
           "SaaS"
         ],
