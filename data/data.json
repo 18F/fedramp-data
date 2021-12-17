@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-12-16T05:40:50.557Z",
+    "Created_At": "2021-12-17T05:40:50.418Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -15912,6 +15912,29 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "3M",
+        "Cloud_Service_Provider_Package": "RevCycle Health Service Platform (RHSP)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2135915901",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/3M%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.3mhis.com",
+        "CSO_Description": "3M RHSP is a Health Service Platform that hosts and supports the operations of key 3M Health Software Systems. These systems include but are not limited to Natural Language Processing support for medical coding, Clinical Documentation Integrity, clinician input as well as medical coding edits, self-service reporting, and evaluation and management. 3M RHSP utilizes robust statistical methodologies to create a comprehensive NLP platform to derive medical codes, assist with medical terminology, and ease the provider front-end workflow.",
+        "CSP_POC_Name": "Jonathan Higbee",
+        "CSP_POC_Email": "fedramp-his@mmm.com",
+        "FedRAMP_In-Process_Date": "2021-12-08T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Acalvio Technologies Inc.",
         "Cloud_Service_Provider_Package": "ShadowPlex",
         "Designation": "FedRAMP Ready",
@@ -17010,7 +17033,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Menlo Security",
-        "Cloud_Service_Provider_Package": "Menlo Security Isolation Platform powered by an Isolation Core™",
+        "Cloud_Service_Provider_Package": "Cloud Security Platform powered by Isolation Core™",
         "Path": "Agency",
         "Designation": "In Process",
         "Package_ID": "FR2032665434",
@@ -17023,7 +17046,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
         "Authorizing_Agency": "Department of Energy",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Menlo%20Logo.png",
-        "Independent_Assessor": "NCC Group Security Services, Inc.",
+        "Independent_Assessor": "Schellman & Company, LLC",
         "CSP_Website": "https://www.menlosecurity.com/",
         "CSO_Description": "Menlo Security delivers security and data policy, including ransomware and malware prevention from a cloud-native platform. This shift from traditional on-premises deployment allows agencies to secure users anywhere, on any device, accessing any applications.\r\n\r\n**Menlo Cloud Security Platform with Isolation Core™**\n\r\nUtilizing our cloud platform powered by an elastic Isolation Core ™, Menlo Security secures access to the web (Secure Web Gateway - SWG) and SaaS applications (Cloud Access Security Broker – CASB), preventing malware, ransomware, and unauthorized access. It also ensures that data security policies are enforced to prevent malicious or unintentional data theft (Data Loss Prevention – DLP).\r\n\r\nA user’s access to an Internet website is secured with URL categorization, File Hashcheck, Antivirus, and Cloud Sandbox. Based on an administrator-defined policy, if a website is isolated, Menlo instantiates a browser on the user’s behalf in the Menlo platform. This remote browser connects to the target website and all the active content from the website is executed in the remote browser rather than on the end user device. Only the safe visuals are sent to the user’s browser--ensuring the user is protected from any web threat.\r\n\r\nThe Menlo Security cloud will auto-scale as demand increases, enabling users to work securely without impact, even in times of high workload volume. Consistent security policy and visibility can be enforced at a cloud location in close proximity to the user, ensuring the highest performance.",
         "CSP_POC_Name": "Devin Ertel",
