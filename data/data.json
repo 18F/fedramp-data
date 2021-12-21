@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2021-12-20T05:40:50.563Z",
+    "Created_At": "2021-12-21T05:40:50.582Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1985,51 +1985,6 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-05-25T04:00:00.000Z",
             "Authorizing_Agency": "National Science Foundation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "MAXIMUS Inc.",
-        "Cloud_Service_Provider_Package": "MAXIMUS Genesys Engagement Platform",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1509307433",
-        "Service_Model": [
-          "PaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2017-02-16T05:00:00.000Z",
-        "Sponsoring_Agency": "Office of Personnel Management",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
-        "Authorizing_Agency": "Office of Personnel Management",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MAXIMUS%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1303191948"
-        ],
-        "CSP_Website": "https://www.maximus.com/federal/business-operations/citizen-engagement-services",
-        "CSO_Description": "The MAXIMUS Genesys Engagement Platform, brought to you by proven and trusted contact center leaders, is an enterprise-class omnichannel platform-as-a-service (PAAS) cloud contact center solution.\n\nThe Engagement Platform leverages Genesys technology to provide the omnichannel functionality required for an optimized citizen engagement experience that enables citizens to communicate with your agency across all channels – including voice, email, SMS and web chat. The Engagement Platform also provides key additional modular features such as workforce management, recording and quality management, analytics, AI and a robust reporting framework. The platform features a full range of secure capabilities to customize and operate contact centers of any size, supporting organizations’ security, accessibility and privacy requirements. With the Engagement Platform, agencies can leverage a broad range of proven and certified implementation partners to guide and enable their contact center solution.",
-        "Announcement_Date": "2016-10-03T04:00:00.000Z",
-        "CSP_POC_Name": "Scott Clarke",
-        "CSP_POC_Email": "federalservices@maximus.com",
-        "FedRAMP_In-Process_Date": "2016-05-12T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2017-04-28T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-06-12T04:00:00.000Z",
-            "Authorizing_Agency": "Consumer Financial Protection Bureau",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFPB_Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-06-07T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-06-04T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-06-17T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Authorizing_Subagency": "Federal Student Aid",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -8663,6 +8618,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-06-09T04:00:00.000Z",
             "Authorizing_Agency": "United States Agency for International Development",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-08-24T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-08-24T04:00:00.000Z",
+            "Authorizing_Agency": "Office of Personnel Management",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -15373,7 +15335,7 @@
           "FR1812058188",
           "F1206081364",
           "FR1823447014",
-          "FR1821856903 "
+          "FR1821856903"
         ],
         "CSP_Website": "https://www.datadoghq.com/",
         "CSO_Description": "Datadog is the monitoring and security platform for cloud applications. Our SaaS platform integrates and automates infrastructure monitoring, application performance monitoring and log management to provide unified, real-time observability of our customers’ entire technology stack. Datadog is used by organizations of all sizes and across a wide range of industries to enable digital transformation and cloud migration, drive collaboration among development, operations, security and business teams, accelerate time to market for applications, reduce time to problem resolution, secure applications and infrastructure, understand user behavior and track key business metrics.\r\nThe services in scope for Datadog for Government are:\n\n* Infrastructure Metrics – Observe, analyze, and alert based on infrastructure metrics from hosts, containers and serverless.\n* Application Performance Monitoring – Collect, search, and analyze traces across fully distributed architectures.\n* Log Management – Collect, enrich, monitor, and analyze logs from all systems for troubleshooting, auditing, visualization, and alerting.\n* Real User Monitoring – Collect user actions (e.g., button clicks) to understand user activity within a page.\n* Network Performance Monitoring – Provide multi-cloud visibility into network flows in granular detail and enabling users to aggregate and monitor that data.\n* Synthetics – Monitor applications and API endpoints via simulated user requests and browser rendering.\n* Security Monitoring – Enable real time threat detection and investigate security alerts across infrastructure metrics, distributed traces, and logs.\n* Error Tracking – Capture, visualize, and browse errors reported by services.",
@@ -15910,6 +15872,52 @@
         "Fedramp_Ready_Date": "2016-03-04T05:00:00.000Z",
         "FedRAMP_In-Process_Date": "2018-05-16T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "MAXIMUS Inc.",
+        "Cloud_Service_Provider_Package": "MAXIMUS Genesys Engagement Platform",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1509307433",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-05-12T04:00:00.000Z",
+        "Original_Expiration_Date": "2022-04-16T04:00:00.000Z",
+        "Sponsoring_Agency": "Office of Personnel Management",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
+        "Authorizing_Agency": "Office of Personnel Management",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MAXIMUS%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1303191948"
+        ],
+        "CSP_Website": "https://www.maximus.com/federal/business-operations/citizen-engagement-services",
+        "CSO_Description": "The MAXIMUS Genesys Engagement Platform, brought to you by proven and trusted contact center leaders, is an enterprise-class omnichannel platform-as-a-service (PAAS) cloud contact center solution.\n\nThe Engagement Platform leverages Genesys technology to provide the omnichannel functionality required for an optimized citizen engagement experience that enables citizens to communicate with your agency across all channels – including voice, email, SMS and web chat. The Engagement Platform also provides key additional modular features such as workforce management, recording and quality management, analytics, AI and a robust reporting framework. The platform features a full range of secure capabilities to customize and operate contact centers of any size, supporting organizations’ security, accessibility and privacy requirements. With the Engagement Platform, agencies can leverage a broad range of proven and certified implementation partners to guide and enable their contact center solution.",
+        "Announcement_Date": "2016-10-03T04:00:00.000Z",
+        "CSP_POC_Name": "Scott Clarke",
+        "CSP_POC_Email": "federalservices@maximus.com",
+        "FedRAMP_In-Process_Date": "2016-05-12T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2017-04-28T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-06-12T04:00:00.000Z",
+            "Authorizing_Agency": "Consumer Financial Protection Bureau",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFPB_Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-06-07T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-06-04T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-06-17T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Authorizing_Subagency": "Federal Student Aid",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "3M",
@@ -16905,6 +16913,29 @@
         "CSP_POC_Name": "Keeper FedRAMP Team",
         "CSP_POC_Email": "fedramp@keepersecurity.com",
         "FedRAMP_In-Process_Date": "2021-05-20T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "KnowBe4, Inc.",
+        "Cloud_Service_Provider_Package": "PhishER",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2201340492",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of State",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
+        "Authorizing_Agency": "Department of State",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/KnowBe4%20Logo.png",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "CSP_Website": "https://www.knowbe4.com/",
+        "CSO_Description": "PhishER is a lightweight Security Orchestration, Automation and Response (SOAR) platform to orchestrate threat response and manage the volume of potentially malicious email messages reported by users.  PhishER includes automatic prioritization of email to help teams identify risks and respond to the most dangerous threats more quickly. PhishER can also automate the workstream of the reported emails that are not threats.",
+        "CSP_POC_Name": "Rosa Smothers",
+        "CSP_POC_Email": "infosec@knowbe4.com",
+        "FedRAMP_In-Process_Date": "2021-12-09T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
