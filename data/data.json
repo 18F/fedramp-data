@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-01-03T05:40:50.357Z",
+    "Created_At": "2022-01-04T05:40:50.602Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3358,6 +3358,8 @@
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW",
+          "FR1912658130",
+          "FR1918740338",
           "F1508207205",
           "FR1719759604"
         ],
@@ -5049,6 +5051,14 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "United States Census Bureau",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2022-07-02T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-12-29T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "National Institute of Environmental Health Sciences",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -7050,7 +7060,9 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Esri%20Logo2.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW"
+          "AGENCYAMAZONEW",
+          "FR1823149273",
+          "MSO365MT"
         ],
         "CSP_Website": "https://www.esri.com/en-us/arcgis/services/managed-cloud",
         "CSO_Description": "Esri is a leading provider of geographic information systems (GIS) with decades of experience hosting solutions for customers. Esri Managed Cloud Services provides organizations with ready-to-use instances of ArcGIS running in the cloud and includes the infrastructure (facilities, hardware, network, and security), the software (Esri and third party), application deployment, testing, ongoing data management (data updates, backup, and archive), technical support, monitoring, and supporting 24/7 Security Operations Center. The environment has been architected following FISMA, NIST, and CIS guidance to facilitate FedRAMP moderate geospatial Platform-as-a-Service (PaaS) and Software-as-a-Service (SaaS) authorizations of our customer environments. EMCS enables quickly sharing geospatial content and providing access to critical information while the organization maintains complete control over the access to their services and maps. EMCS leverages the Amazon Web Services East / West Regions FedRAMP moderate cloud infrastructure.",
@@ -7579,15 +7591,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-12-11T05:00:00.000Z",
-            "Letter_Expiration_Date": "2021-12-31T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-12-15T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Food and Drug Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2021-01-29T05:00:00.000Z",
             "Letter_Expiration_Date": "2024-01-30T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-01-29T05:00:00.000Z",
@@ -7618,6 +7621,15 @@
             "Letter_Date": "2021-11-19T05:00:00.000Z",
             "Authorizing_Agency": "Department of State",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-12-21T05:00:00.000Z",
+            "Letter_Expiration_Date": "2025-01-03T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-01-03T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -10185,9 +10197,9 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Elastic%20Logo.png",
         "Independent_Assessor": "Kratos",
         "Underlying_CSP_Package_ID": [
-          "F1206061353",
           "F1603047866",
           "FR1812058188",
+          "FR1805751477",
           "F1512167750",
           "F1508207205",
           "FR1823447014"
@@ -13669,15 +13681,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-12-15T05:00:00.000Z",
-            "Letter_Expiration_Date": "2021-12-27T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-12-15T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "National Institutes of Health",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-11-20T05:00:00.000Z",
             "Letter_Expiration_Date": "2023-11-25T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-11-25T05:00:00.000Z",
@@ -13829,6 +13832,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-12-17T05:00:00.000Z",
             "Authorizing_Agency": "United States House of Representatives",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/House%20of%20Reps%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-12-15T05:00:00.000Z",
+            "Letter_Expiration_Date": "2024-12-28T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-12-22T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "National Institutes of Health",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
