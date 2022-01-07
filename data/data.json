@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-01-06T05:40:50.327Z",
+    "Created_At": "2022-01-07T05:40:50.998Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -840,21 +840,21 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2021-07-29T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-12-30T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-08-02T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "United States Air Force",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2021-10-13T04:00:00.000Z",
             "Letter_Expiration_Date": "2022-06-04T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-10-18T04:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-12-16T05:00:00.000Z",
+            "Letter_Expiration_Date": "2022-12-30T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-12-16T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "United States Air Force",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -9305,6 +9305,13 @@
             "Authorizing_Agency": "Department of Veterans Affairs",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-09-21T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-10-08T04:00:00.000Z",
+            "Authorizing_Agency": "Department of State",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -11327,7 +11334,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20CI%20Logo.png",
         "Independent_Assessor": "Schellman & Company, LLC",
         "CSP_Website": "https://cloud.oracle.com",
-        "CSO_Description": "Oracle Cloud Infrastructure is a government-community cloud architected to provide U.S. public sector entities with best-in-class security and industry leading price-performance. Oracle Cloud Infrastructure services are a set of complementary infrastructure and platform cloud services that enable customers to build and run their enterprise workloads through high-performance, secure, and available services that scale elastically. With Oracle Cloud Infrastructure, public sector entities can use Oracle development tools to enhance existing applications while creating and integrating new cloud-native applications.\r\n\r\nThe following Oracle Cloud Infrastructure services are authorized at the FedRAMP High Impact Level and approved by the JAB: Announcements; API Gateway; Audit; Autonomous Dedicated; Autonomous Shared; Autoscaling; Block Storage; Cloud Shell; Compute; Compute Monitoring; Container Engine for Kubernetes; Data Catalog; Data Flow; Data Science; Database Cloud Service; Data Transfer; Digital Assistant; Email Delivery; Events; Exadata Cloud Service; FastConnect; File Storage; Functions; Identity and Access Management; Load Balancing; Linux/YUM Repo; Marketplace; Metering; Monitoring; Notifications; Object Storage; Oracle Integration Cloud; Private Endpoints; Public Logging; Registry; Resource Manager; Secrets in Vault; Service Connector Hub; Streaming; Terraform; Vault; Virtual Cloud Networks; VCN Flow Logs; VMware Solution;\r\n\r\nThe following services have completed 3PAO assessment and are currently under JAB review for approval: Oracle Analytics Cloud; OS Management Service; Management Agent Service; Cloud Guard; Tenant Manager",
+        "CSO_Description": "Oracle Cloud Infrastructure is a government-community cloud architected to provide U.S. public sector entities with best-in-class security and industry leading price-performance. Oracle Cloud Infrastructure services are a set of complementary infrastructure and platform cloud services that enable customers to build and run their enterprise workloads through high-performance, secure, and available services that scale elastically. With Oracle Cloud Infrastructure, public sector entities can use Oracle development tools to enhance existing applications while creating and integrating new cloud-native applications.\r\n\r\nThe following Oracle Cloud Infrastructure services are authorized at the FedRAMP High Impact Level and approved by the JAB: Announcements; API Gateway; Audit; Autonomous Dedicated; Autonomous Shared; Autoscaling; Block Storage; Cloud Guard; Cloud Shell; Compute; Compute Monitoring; Container Engine for Kubernetes; Data Catalog; Data Flow; Data Science; Database Cloud Service; Data Transfer; Digital Assistant; Email Delivery; Events; Exadata Cloud Service; FastConnect; File Storage; Functions; Identity and Access Management; Load Balancing; Linux/YUM Repo; Management Agent Service; Marketplace; Metering; Monitoring; Notifications; Object Storage; Oracle Analytics Cloud; Oracle Integration Cloud; OS Management Service; Private Endpoints; Public Logging; Registry; Resource Manager; Secrets in Vault; Service Connector Hub; Streaming; Tenant Manager; Terraform; Vault; Virtual Cloud Networks; VCN Flow Logs; VMware Solution.",
         "Announcement_Date": "2020-10-01T04:00:00.000Z",
         "CSP_POC_Name": "Rico McGee",
         "CSP_POC_Email": "fedrampinfo_us@oracle.com",
@@ -13925,33 +13932,6 @@
             "Include_In_Marketplace": "Y"
           }
         ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Recovery Point Systems, Inc.",
-        "Cloud_Service_Provider_Package": "INCloud Gov",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1806354023",
-        "Service_Model": [
-          "IaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2021-06-14T04:00:00.000Z",
-        "Original_Expiration_Date": "2021-12-31T05:00:00.000Z",
-        "Sponsoring_Agency": "Department of Energy",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-        "Authorizing_Agency": "Department of Energy",
-        "Authorizing_Subagency": "Federal Energy Regulatory Commission",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Recovery%20Point%20Logo.png",
-        "Independent_Assessor": "SecureIT",
-        "CSP_Website": "www.recoverypoint.com",
-        "CSO_Description": "The RPS INcloudGov system provides IaaS / DRaaS services deployed as a federal government-only cloud. INcloudGov provides the necessary compute, storage, and networking capabilities to host our government customers’ disaster recovery environments. RPS provides Disaster Recovery as a Service (DRaaS) by providing government customers a solution for full and partial site failover to a virtual DR site, and failback to restore normal operations.",
-        "Announcement_Date": "2021-06-17T04:00:00.000Z",
-        "CSP_POC_Name": "Nancy Pettit",
-        "CSP_POC_Email": "incloudgov@recoverypoint.com",
-        "FedRAMP_In-Process_Date": "2020-09-24T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "General Services Administration",
