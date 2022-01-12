@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-01-11T18:05:53.514Z",
+    "Created_At": "2022-01-12T05:40:50.711Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1983,6 +1983,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-05-18T04:00:00.000Z",
             "Authorizing_Agency": "United States Agency for International Development",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2022-04-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-05-15T04:00:00.000Z",
+            "Authorizing_Agency": "Office of Personnel Management",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -4988,6 +4995,12 @@
             "Authorizing_Agency": "Department of Homeland Security",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2021-03-02T05:00:00.000Z",
+            "Authorizing_Agency": "Office of Personnel Management",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -6257,14 +6270,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2018-12-17T05:00:00.000Z",
-            "Letter_Expiration_Date": "2022-01-11T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-01-11T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2024-02-07T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-02-08T05:00:00.000Z",
             "Authorizing_Agency": "Department of the Interior",
@@ -6581,6 +6586,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-12-02T05:00:00.000Z",
             "Authorizing_Agency": "United States Agency for International Development",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-01-07T05:00:00.000Z",
+            "Letter_Expiration_Date": "2023-01-11T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-01-11T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -16264,6 +16277,29 @@
         "CSP_POC_Name": "Rahat Sethi",
         "CSP_POC_Email": "fedramp@adobe.com",
         "FedRAMP_In-Process_Date": "2021-02-23T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Armedia, LLC",
+        "Cloud_Service_Provider_Package": "Armedia Content Cloud",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1708752710",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Postal Regulatory Commission",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PRC%20Logo.png",
+        "Authorizing_Agency": "Postal Regulatory Commission",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Armedia%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "Armedia Content Cloud",
+        "CSO_Description": "The Armedia Content Cloud (ACC) provides an operational, fully provisioned infrastructure that meets FedRAMP Moderate requirements. ACC is a digital transformation platform that allows public sector clients to meet agency requirements with enhanced reliability and security without major capital investment and reduced technical staff. \r\n\r\nACC offers four applications to support digital transformation and hyperautomation – ArkCase for case management system; Hyland Alfresco for document, business process and records management system; Ephesoft Transact for Intelligent Document Processing; and the OpenText Documentum enterprise content management (ECM) system.\r\n\r\nACC provides a wide array of digital transformation solutions to include Business Process Management, Case Management, Complaint Management, Correspondence Management, Document Management, eFiling and eDocket Management, FOIA Management, Intelligent Document Capture, Public Records Request, Records Management, etc.",
+        "CSP_POC_Name": "Matilda Asiedu",
+        "CSP_POC_Email": "fedramp@armedia.com",
+        "FedRAMP_In-Process_Date": "2022-01-06T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
