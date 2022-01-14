@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-01-13T05:40:50.747Z",
+    "Created_At": "2022-01-14T05:40:50.624Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -5620,7 +5620,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Federal%20Logo.png",
         "Authorizing_Agency": "Other Executive Branch Agency",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Leidos%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Independent_Assessor": "Fortreum, LLC",
         "Underlying_CSP_Package_ID": [
           "F1510137547"
         ],
@@ -12476,6 +12476,44 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "The Coleridge Initiative, Inc.",
+        "Cloud_Service_Provider_Package": "Administrative Data Research Facility (ADRF)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1819057982",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-03-30T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Commerce",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
+        "Authorizing_Agency": "National Science Foundation",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Coleridge%20Logo.png",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "F1206081364",
+          "FR1812058188"
+        ],
+        "CSP_Website": "https://coleridgeinitiative.org",
+        "CSO_Description": "The ADRF system is designed to promote access to and use of government administrative records across agency lines. It provides access to collaborative tools and rich documentation so that knowledge and analysis can be shared and reused. It hosts confidential data for a range of agencies at the federal, state and local levels, and serves multiple domains – including criminal justice, welfare, labor, education, health, housing and transportation.",
+        "Announcement_Date": "2018-09-12T04:00:00.000Z",
+        "CSP_POC_Name": "Julia Lane",
+        "CSP_POC_Email": "info@coleridgeinitiative.org",
+        "FedRAMP_In-Process_Date": "2018-04-09T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2019-05-01T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-02-08T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "AvePoint Inc.",
         "Cloud_Service_Provider_Package": "AvePoint Online Services for US Government (AOS-USG)",
         "Path": "Agency",
@@ -14178,20 +14216,20 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2021-01-14T05:00:00.000Z",
-            "Letter_Expiration_Date": "2022-01-14T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-01-14T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2021-12-08T05:00:00.000Z",
             "Letter_Expiration_Date": "2024-12-08T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-12-07T05:00:00.000Z",
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "National Institute of Environmental Health Sciences",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-01-12T05:00:00.000Z",
+            "Letter_Expiration_Date": "2022-05-13T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-01-13T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -14322,53 +14360,6 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-06-25T04:00:00.000Z",
             "Authorizing_Agency": "Department of Labor",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "The Coleridge Initiative, Inc.",
-        "Cloud_Service_Provider_Package": "Administrative Data Research Facility (ADRF)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1819057982",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2021-06-30T04:00:00.000Z",
-        "Original_Expiration_Date": "2022-06-30T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Commerce",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-        "Authorizing_Agency": "Department of Commerce",
-        "Authorizing_Subagency": "United States Census Bureau",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Coleridge%20Logo.png",
-        "Independent_Assessor": "Lunarline, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866",
-          "F1206081364",
-          "FR1812058188"
-        ],
-        "CSP_Website": "https://coleridgeinitiative.org",
-        "CSO_Description": "The ADRF system is designed to promote access to and use of government administrative records across agency lines. It provides access to collaborative tools and rich documentation so that knowledge and analysis can be shared and reused. It hosts confidential data for a range of agencies at the federal, state and local levels, and serves multiple domains – including criminal justice, welfare, labor, education, health, housing and transportation.",
-        "Announcement_Date": "2018-09-12T04:00:00.000Z",
-        "CSP_POC_Name": "Julia Lane",
-        "CSP_POC_Email": "info@coleridgeinitiative.org",
-        "FedRAMP_In-Process_Date": "2018-04-09T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2019-05-01T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-02-08T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Agriculture",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-03-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-03-30T04:00:00.000Z",
-            "Authorizing_Agency": "National Science Foundation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -15230,7 +15221,7 @@
           "F1512167750"
         ],
         "CSP_Website": "https://www.immersioninc.com/",
-        "CSO_Description": "Immersion Cloud is a software-as-a-service (SaaS) deployment of a commercial-of-the-shelf software product, Altair Knowledge Hub deployed in AWS GovCloud.  Altair Knowledge Hub is a browser-based and team-oriented shared data exploration, preparation, Automation, and Distribution Across Organizations preparation tool.  It automates the data extraction from a wide variety of data file formats including Microsoft Excel spreadsheets, Adobe PDF documents, delimited files, XML, JSON, and integrates that information with disparate database and reporting tools.\r\n\r\nGovernment users across mission areas from benefits to finance and operations to intelligence can use Immersion Cloud to centrally organize historical information, connect data repositories, and automate extraction, transformation, and reporting. Altair Knowledge Hub facilitates a team-oriented approach where:\r\n\r\n* users have roles, where some simply access an existing model/automation and process reports, while others create those automations, and even other curate and approve them;\r\n* work can be isolated to groups of users, where data can be separate by job function or task\r\n* administrative functions allow modifications of roles, group building, managing libraries of data, and even migrating\r\n\r\nEnd-users access Immersion Cloud using a browser on their government-issued computer. They access through FedRAMP authorized Identity-as-a-Service provider, Okta, with strong authentication using SAML federation of government identity credentials from inside their enterprise IT infrastructure.  Users access a customer-private instance dedicated to their use exclusively through this browser session. \r\n\r\nThe Immersion Cloud combines a private instance of Altair Knowledge Hub with a shared instance of a general support system (GSS) comprised of stackArmor ThreatAlert and OpsAlert. The GSS provides a comprehensive security and operations platform for the Immersion Cloud. \r\n\r\nThe stackArmor GSS ThreatAlert security stack (ThreatAlert) provides security support services for all Immersion Cloud AWS Accounts. AWS Landing Zone architecture based on common foundational management and services that segregate data into AWS accounts and Virtual Private Cloud (VPC) enclaves with governance provided using AWS Organizations for policy enforcement, access control and separation through segregation. The Landing zone pattern provides the capability for separated AWS accounts for production data and the associated security & management services. The landing zone architecture also allows for efficiencies through common foundational security services segregated from the production environment for greater scalability and security through separation of access and responsibilities.",
+        "CSO_Description": "Immersion Cloud is a software-as-a-service (SaaS) deployment of a commercial-of-the-shelf software product, Altair Knowledge Hub deployed in AWS GovCloud.  Altair Knowledge Hub is a browser-based and team-oriented shared data exploration, preparation, Automation, and Distribution Across Organizations preparation tool.  It automates the data extraction from a wide variety of data file formats including Microsoft Excel spreadsheets, Adobe PDF documents, delimited files, XML, JSON, and integrates that information with disparate database and reporting tools.\n\nGovernment users across mission areas from benefits to finance and operations to intelligence can use Immersion Cloud to centrally organize historical information, connect data repositories, and automate extraction, transformation, and reporting. Altair Knowledge Hub facilitates a team-oriented approach where:\n\n* users have roles, where some simply access an existing model/automation and process reports, while others create those automations, and even other curate and approve them;\n* work can be isolated to groups of users, where data can be separate by job function or task\n* administrative functions allow modifications of roles, group building, managing libraries of data, and even migrating\n\nEnd-users access Immersion Cloud using a browser on their government-issued computer. They access through FedRAMP authorized Identity-as-a-Service provider, Okta, with strong authentication using SAML federation of government identity credentials from inside their enterprise IT infrastructure.  Users access a customer-private instance dedicated to their use exclusively through this browser session. \n\nThe Immersion Cloud combines a private instance of Altair Knowledge Hub with a shared instance of a general support system (GSS) comprised of stackArmor ThreatAlert and OpsAlert. The GSS provides a comprehensive security and operations platform for the Immersion Cloud. \n\nThe stackArmor GSS ThreatAlert security stack (ThreatAlert) provides security support services for all Immersion Cloud AWS Accounts. AWS Landing Zone architecture based on common foundational management and services that segregate data into AWS accounts and Virtual Private Cloud (VPC) enclaves with governance provided using AWS Organizations for policy enforcement, access control and separation through segregation. The Landing zone pattern provides the capability for separated AWS accounts for production data and the associated security & management services. The landing zone architecture also allows for efficiencies through common foundational security services segregated from the production environment for greater scalability and security through separation of access and responsibilities.",
         "Announcement_Date": "2021-12-13T05:00:00.000Z",
         "CSP_POC_Name": "Phil Magrogan",
         "CSP_POC_Email": "fedramp@immersioninc.com",
@@ -15414,7 +15405,7 @@
         "Cloud_Service_Provider_Name": "Aruba Networks",
         "Cloud_Service_Provider_Package": "Aruba Central",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "FR1908649566",
         "Service_Model": [
           "SaaS"
@@ -15427,10 +15418,20 @@
         "Authorizing_Agency": "U.S. International Development Finance Corporation",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Aruba%20Logo.png",
         "Independent_Assessor": "Kratos",
-        "CSP_Website": "https://www.arubanetworks.com/products/networking/management/central/",
-        "CSO_Description": "Aruba Central is a cloud-hosted solution, offering IT organizations a simple and effective way to manage and monitor their wired, wireless, and SD-Branch networks. It brings device and network monitoring, wireless management, wired management, and maintenance activities into a cloud hosted management tool.",
-        "CSP_POC_Name": "Hemant Chaskar",
-        "CSP_POC_Email": "hpe-aruba-fedramp-pgmteam@hpe.com",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "FR1912658130",
+          "F1206081364",
+          "F1607057910",
+          "F1512167750",
+          "F1508207205",
+          "FR1823447014"
+        ],
+        "CSP_Website": "https://www.arubanetworks.com/products/network-management-operations/central/",
+        "CSO_Description": "Aruba Central is the cloud-native single-pane-of-glass console for all Aruba network and edge device operations providing unified management, AI and security for wired and wireless operations across customers campus, branch and data center environments.",
+        "Announcement_Date": "2021-12-27T05:00:00.000Z",
+        "CSP_POC_Name": "HPE Aruba FedRAMP Team",
+        "CSP_POC_Email": "hpe-aruba-central-fedramp@hpe.com",
         "FedRAMP_In-Process_Date": "2021-03-22T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
