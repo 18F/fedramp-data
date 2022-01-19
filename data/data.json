@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-01-18T05:40:50.641Z",
+    "Created_At": "2022-01-19T05:40:50.373Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3649,10 +3649,12 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Intelliworx%20Logo.png",
         "Independent_Assessor": "Schellman & Company, LLC",
         "Underlying_CSP_Package_ID": [
+          "F1604217888",
           "F1603047866",
           "FR1807853629",
-          "FR1823149273",
-          "F1206081364"
+          "F1206081364",
+          "F1512167750",
+          "F1508207205"
         ],
         "CSP_Website": "https://intelliworxit.com",
         "CSO_Description": "The Intelliworx Platform is a secure, multi-tenant, cloud-based, Software/Subscription as a Service (SaaS) environment which powers data collection and workflow process applications. The Intelliworx Platform provides the functionality behind multiple government workflows, such as FDonline - an automation of the OGE Financial Disclosure process, HRIT applications for Onboarding, Offboarding, and Telework management. The Intelliworx Platform transforms agency workflow and form-based business processes, making them simple to complete for the employee and efficient to review and approve for the staff, in a single secure environment.",
@@ -4108,7 +4110,11 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/GitHub_Logo.png",
         "Independent_Assessor": "The Cadence Group",
         "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW"
+          "AGENCYAMAZONEW",
+          "F1206081364",
+          "FR1919750997",
+          "F1209051525",
+          "FR1814276801"
         ],
         "CSP_Website": "https://government.github.com",
         "CSO_Description": "GitHub is a collaborative development platform inspired by the way you work. From open source [https://github.com/open-source](https://github.com/open-source) to business [https://github.com/business](https://github.com/business) , you can plan, build, review, and ship software at work—all while tracking bugs and discussing ideas. You can securely develop your organization's software on GitHub, whether you work for a small startup or a large agency.",
@@ -4511,13 +4517,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Authorizing_Letter_Last_Sign_Date": "2020-07-21T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "Immigration and Customs Enforcement",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-08-17T04:00:00.000Z",
             "Letter_Expiration_Date": "2023-08-17T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-08-31T04:00:00.000Z",
@@ -4558,6 +4557,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-06-07T04:00:00.000Z",
             "Authorizing_Agency": "Department of Homeland Security",
             "Authorizing_Subagency": "Customs and Border Protection",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2024-11-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-11-21T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Immigration and Customs Enforcement",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
           }
@@ -4945,6 +4952,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-08-27T04:00:00.000Z",
             "Authorizing_Agency": "Office of Personnel Management",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2021-04-16T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Institute of Standards and Technology",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -5497,45 +5511,6 @@
             "Authorizing_Agency": "Department of Homeland Security",
             "Authorizing_Subagency": "Immigration and Customs Enforcement",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Zimperium",
-        "Cloud_Service_Provider_Package": "Zimperium Mobile Endpoint Cyber Security",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1731347234",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2019-03-12T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Homeland Security",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-        "Authorizing_Agency": "Department of Homeland Security",
-        "Authorizing_Subagency": "Immigration and Customs Enforcement",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Zimperium%20Logo.png",
-        "Independent_Assessor": "Kratos",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866"
-        ],
-        "CSP_Website": "https://www.zimperium.com",
-        "CSO_Description": "Zimperium Mobile Endpoint Cyber Security is a Cloud based application deployed on the AWS GovCloud infrastructure which, when combined with the Zimperium mobile application (zIPS), provides a comprehensive Mobile Threat Defense (MTD) solution. Zimperium's Amazon GovCloud based application provides security teams with visibility on the threats and vulnerabilities across all mobile devices in the organization to assess organization risk, identify security gaps and remediate. The zIPS on-device app incorporates machine learning techniques to detect anomalies to the mobile device's operating system's statistics, memory, CPU and other system parameters and accurately identify not only the specific type of malicious attack, but also the forensics associated with the who, what, where, when, and how of an attack occurrence.",
-        "Announcement_Date": "2019-07-01T04:00:00.000Z",
-        "CSP_POC_Name": "Brian Caldwell",
-        "CSP_POC_Email": "fedramp@zimperium.com",
-        "FedRAMP_In-Process_Date": "2018-05-01T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2020-02-07T05:00:00.000Z",
-            "Letter_Expiration_Date": "2023-02-19T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-02-19T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Food and Drug Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -6732,13 +6707,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2017-02-17T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Institute of Standards and Technology",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2017-04-13T04:00:00.000Z",
             "Authorizing_Agency": "Department of Agriculture",
             "Authorizing_Subagency": "United States Forest Service",
@@ -6864,6 +6832,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-06-30T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Treasury",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2021-04-16T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Institute of Standards and Technology",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -10160,50 +10135,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Decision Lens Inc.",
-        "Cloud_Service_Provider_Package": "Decision Lens Software",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1507317125",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2020-04-10T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-        "Authorizing_Agency": "Department of Agriculture",
-        "Authorizing_Subagency": "United States Forest Service",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Decision%20Lens%20Logo.png",
-        "Independent_Assessor": "Kratos",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866"
-        ],
-        "CSP_Website": "www.decisionlens.com",
-        "CSO_Description": "The Decision Lens Software is a cloud-based prioritization and resource optimization software solution. Decision Lens enables governmental organizations to make critical decisions in program and project prioritization and resourcing, modernization, resource allocation and optimization, and workforce planning. This cloud-based software, which is hosted on the FedRAMP-authorized Amazon Web Services (AWS) Infrastructure as a Service (IaaS), rapidly engages decision-makers to achieve better outcomes in a resource-constrained environment. Driven by sophisticated analytics, the Decision Lens Software empowers organizations to identify those investments that will deliver the best future outcomes.",
-        "Announcement_Date": "2015-12-21T05:00:00.000Z",
-        "CSP_POC_Name": "Ryan Gay",
-        "CSP_POC_Email": "ISSO@decisionlens.com",
-        "FedRAMP_In-Process_Date": "2014-06-10T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2018-12-21T05:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Authorizing_Subagency": "National Park Service",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-03-26T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-03-25T04:00:00.000Z",
-            "Authorizing_Agency": "General Services Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "mLINQS",
         "Cloud_Service_Provider_Package": "mLINQS Hosting Service",
         "Path": "Agency",
@@ -12021,6 +11952,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
         "Authorizing_Agency": "Department of State",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/EnergyCAP%20Logo.png",
+        "Independent_Assessor": "Securisea, Inc.",
         "Underlying_CSP_Package_ID": [
           "F1603047866",
           "F1209051525",
@@ -13881,7 +13813,7 @@
         "CSP_Website": "https://www.avaya.com/en/onecloud/",
         "CSO_Description": "Avaya Cloud Secure is a government only, FedRAMP Moderate Unified Communications collaboration (UCaaS) cloud offering the following features and benefits to government agencies:\n* **Government Only Cloud** - The Government Only Cloud is a preferred characteristics for Government wide solutions and it comes with lesser risk to Government agencies than other forms of cloud models (e.g. public).\n* **Better customization and security** - The Service is a dedicated (not multi-tenant) Unified Communication (UC) cloud offering. Each agency is provided their own individual instance on a virtual platform that provides a highly customizable, reliable and secure environment. The Service is monitored and managed 365 X 24 X7.\n* **Avaya industry recognized Unified Communications (UC) software** is at the heart of the Service providing __enterprise quality__ UC features including telephony, unified messaging, mobility, instant messaging, presence, and audio, web and video collaboration.\n* **Secure Full Featured Collaboration** provides a reservation-less “Meet-me” audio, video and web collaboration bridge with security code access and the ability to launch the bridge from any phone anywhere.\n* **Future technology acceleration** as technology refreshes are included and managed by Avaya as part of the service, eliminating capital expenditures associated with updating obsolete communications systems.\n* **Predictable Operational Expense (OPEX) Billing Model** offers cost savings over traditional build and operate solution.\nAvaya Cloud Secure provides a cloud solution for all real time communication needs that enable agencies to support their missions expediently and efficiently.",
         "Announcement_Date": "2019-04-29T04:00:00.000Z",
-        "CSP_POC_Name": "Joseph F. Santostefano",
+        "CSP_POC_Name": "Lemuel Hatcher",
         "CSP_POC_Email": "fedramp@avaya.com",
         "Fedramp_Ready_Date": "2017-12-11T05:00:00.000Z",
         "FedRAMP_In-Process_Date": "2018-05-15T04:00:00.000Z",
@@ -15474,6 +15406,91 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Zimperium",
+        "Cloud_Service_Provider_Package": "Zimperium Mobile Endpoint Cyber Security",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1731347234",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-11-23T05:00:00.000Z",
+        "Original_Expiration_Date": "2023-11-23T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Homeland Security",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+        "Authorizing_Agency": "Department of Homeland Security",
+        "Authorizing_Subagency": "Immigration and Customs Enforcement",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Zimperium%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "https://www.zimperium.com",
+        "CSO_Description": "Zimperium Mobile Endpoint Cyber Security is a Cloud based application deployed on the AWS GovCloud infrastructure which, when combined with the Zimperium mobile application (zIPS), provides a comprehensive Mobile Threat Defense (MTD) solution. Zimperium's Amazon GovCloud based application provides security teams with visibility on the threats and vulnerabilities across all mobile devices in the organization to assess organization risk, identify security gaps and remediate. The zIPS on-device app incorporates machine learning techniques to detect anomalies to the mobile device's operating system's statistics, memory, CPU and other system parameters and accurately identify not only the specific type of malicious attack, but also the forensics associated with the who, what, where, when, and how of an attack occurrence.",
+        "Announcement_Date": "2019-07-01T04:00:00.000Z",
+        "CSP_POC_Name": "Brian Caldwell",
+        "CSP_POC_Email": "fedramp@zimperium.com",
+        "FedRAMP_In-Process_Date": "2018-05-01T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2020-02-07T05:00:00.000Z",
+            "Letter_Expiration_Date": "2023-02-19T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-02-19T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Decision Lens Inc.",
+        "Cloud_Service_Provider_Package": "Decision Lens Software",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1507317125",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-04-01T04:00:00.000Z",
+        "Original_Expiration_Date": "2024-03-30T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Agriculture",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+        "Authorizing_Agency": "Department of Agriculture",
+        "Authorizing_Subagency": "United States Forest Service",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Decision%20Lens%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.decisionlens.com",
+        "CSO_Description": "The Decision Lens Software is a cloud-based prioritization and resource optimization software solution. Decision Lens enables governmental organizations to make critical decisions in program and project prioritization and resourcing, modernization, resource allocation and optimization, and workforce planning. This cloud-based software, which is hosted on the FedRAMP-authorized Amazon Web Services (AWS) Infrastructure as a Service (IaaS), rapidly engages decision-makers to achieve better outcomes in a resource-constrained environment. Driven by sophisticated analytics, the Decision Lens Software empowers organizations to identify those investments that will deliver the best future outcomes.",
+        "Announcement_Date": "2015-12-21T05:00:00.000Z",
+        "CSP_POC_Name": "Ryan Gay",
+        "CSP_POC_Email": "ISSO@decisionlens.com",
+        "FedRAMP_In-Process_Date": "2014-06-10T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2018-12-21T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Authorizing_Subagency": "National Park Service",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-03-26T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-03-25T04:00:00.000Z",
+            "Authorizing_Agency": "General Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "Google",
         "Cloud_Service_Provider_Package": "Google Workspace",
         "Path": "JAB",
@@ -15513,13 +15530,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2017-02-17T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Institute of Standards and Technology",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-03-26T04:00:00.000Z",
             "Letter_Expiration_Date": "2023-03-25T04:00:00.000Z",
             "Authorizing_Agency": "General Services Administration",
@@ -15547,6 +15557,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-04-19T04:00:00.000Z",
             "Authorizing_Agency": "Library of Congress",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/LoC%20logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2021-04-16T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Institute of Standards and Technology",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
