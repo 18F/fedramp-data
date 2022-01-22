@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-01-21T05:40:50.640Z",
+    "Created_At": "2022-01-22T05:40:50.547Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2603,14 +2603,6 @@
             "Letter_Expiration_Date": "2022-03-29T04:00:00.000Z",
             "Authorizing_Agency": "Social Security Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-12-10T05:00:00.000Z",
-            "Letter_Expiration_Date": "2021-12-10T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-12-10T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -6600,6 +6592,14 @@
             "Authorizing_Agency": "United States International Trade Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USITC%20Logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-01-21T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-01-21T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "Bureau of Economic Analysis",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -8357,7 +8357,8 @@
         "Independent_Assessor": "Lunarline, Inc.",
         "Underlying_CSP_Package_ID": [
           "F1403283529",
-          "AGENCYSF"
+          "AGENCYSF",
+          "FR2003061248"
         ],
         "CSP_Website": "www.nintex.com",
         "CSO_Description": "Nintex Drawloop DocGen™ equips government organizations to generate precise and accurate documents. With just a few clicks users can instantly transform data from any standard or custom object in Salesforce into documents such as contracts, work orders, or recruitment documents. Nintex Drawloop DocGen allows users to create, manage and generate document packages in both Lightning or Classic, without losing the benefits of an easy-to-use and familiar user experience. Users can output data to a variety of endpoints and know their document data is secure and compliant throughout the process.\nMore information about Nintex Drawloop DocGen™ can be found at [https://www.nintex.com/docgen](https://www.nintex.com/docgen)",
@@ -10955,8 +10956,7 @@
           "F1512167750",
           "F1606097904",
           "F1508207205",
-          "AGENCYSF",
-          "F1607197917"
+          "AGENCYSF"
         ],
         "CSP_Website": "mdrc.org",
         "CSO_Description": "MDRC SPROUT provides compartmentalized cloud spaces for evidence-based social policy research and operations.  SPROUT handles the randomization of samples, secure data collection of participant information, participant monitoring, data processing, and analytics. SPROUT integrates operational, administrative, and research aspects of policy programs for better planning insights and improved policymaking.",
@@ -12948,8 +12948,6 @@
           "FR1814240140",
           "FR1805751477",
           "F1206081364",
-          "F1508207205",
-          "FR1919071020",
           "FR1918740338"
         ],
         "CSP_Website": "app.terra.bio",
@@ -14043,6 +14041,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-08-26T04:00:00.000Z",
             "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-09-09T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-09-08T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-09-09T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -15618,6 +15624,8 @@
         "Independent_Assessor": "The Cadence Group",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW",
+          "F1209051525",
+          "F1507116930",
           "F1512167750",
           "F1508207205"
         ],
@@ -18490,7 +18498,7 @@
         "Accreditation_Date": "2019-03-29T04:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Accenture%20Logo2.png",
         "Description": "Accenture, as an accredited 3PAO organization, is authorized to provide the below services:\n\nStrategy & Risk Advisory\n\n* Journey to the Cloud Policy & Guidance\n* Strategy Enhancement & Implementation\n* Trusted Advisory Services\n* Technical Architecture Guidance\n* Governance (FISMA, ISSO Support, CSF, Security A&A)\n* Security Artifact Creation (FedRAMP and Agency approved artifacts)\n\nReadiness Assessment\n\n* Impact Assessment & Gap Analysis\n* Readiness Assessment\n\nFedRAMP Assessment\n\n* Full assessment based on FedRAMP controls\n* Provide assessment documentation (ex: Security Assessment Plan (SAP), Security Assessment Report (SAR), Plan of Action & Milestones)\n* Penetration Testing\n\nContinuous Monitoring Services\n\n* Required ongoing risk evaluation activities to maintain your FedRAMP ATO\n  \r\n",
-        "POC_Name": "Michael Smith",
+        "POC_Name": "Ed Quismorio",
         "POC_Email": "AFS.3PAO@accenturefederal.com",
         "website": "https://www.accenture.com/us-en/insights/us-federal-government/3pao",
         "Remediation": "N",
@@ -18947,14 +18955,14 @@
       {
         "Name": "MindPoint Group, LLC",
         "Accreditation_Date": "2015-02-25T05:00:00.000Z",
-        "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/MindPoint%20Logo.jpg",
+        "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/MindPoint%20Logo.png",
         "Description": "3PAO Pre-Assessment – For organizations with SSPs that are ready to start the FedRAMP process and are going through the FedRAMP JAB path this is the first step in that process. \n \n3PAO Assessment – Full, FedRAMP compliant assessment of your system.\n\nContinuous Monitoring – FedRAMP requires that all FedRAMP complaint CSPs participate in continues monitoring with a 3PAO, this continuous monitoring includes a limited scope assessment, review of POA&Ms and the corrective action responses.  This service also includes penetration testing.",
         "POC_Name": "Samantha Dizor Carter",
         "POC_Email": "fedramp@mindpointgroup.com",
         "website": "www.mindpointgroup.com",
         "Remediation": "N",
         "Founded": 2009,
-        "Primary_Office_Locations": "7800 Rose Garden Lane, Springfield, VA 22153",
+        "Primary_Office_Locations": "8200 Greensboro Drive, Suite #900, McLean, Virginia 22102",
         "FedRAMP_Assessed": "PowerTrain",
         "Provide_Consulting_Services": "Y",
         "Description_of_Consulting_Services": "FedRAMP Readiness Assessment – A one week gap assessment of your  system to help gauge the level of effort required to get your system ready for a full FedRAMP assessment.\n\nFedRAMP Readiness Consulting –  Designed to help you get your system ready for a full FedRAMP assessment.\n",
