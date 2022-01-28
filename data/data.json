@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-01-27T05:40:50.681Z",
+    "Created_At": "2022-01-28T05:40:50.601Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3229,7 +3229,8 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Avue%20Logo.png",
         "Independent_Assessor": "The Cadence Group",
         "Underlying_CSP_Package_ID": [
-          "F1603047866"
+          "F1603047866",
+          "FR1823149273"
         ],
         "CSP_Website": "www.avuetech.com",
         "CSO_Description": "Avue is a web-based, outsourced, digital service delivery system offered by Avue Technologies Corporation; remotely-hosted in the Amazon GovCloud, and remotely-managed by Avue Technologies Corporation in Tacoma, Washington. The Avue service is provided through a single interface to handle all aspects of human capital management. Avue is a Software-as-a-Service (SaaS) cloud-based Human Capital Management and Operations Management platform. Avue is the leader in federal talent acquisition, talent management, talent science, and human capital technology solutions. The platform serves include a diverse array of agencies that include Title 5 and alternative personnel systems such as Title 38, Title 10, Title 32, and FIRREA. Avue is a native-federal HCM platform offered as a SaaS/cloud solution, with 99.9% uptime, since 2001.\nAvue’s firm-fixed price offering includes a five component solution: (1) the native federal enterprise SaaS platform, (2) highly expert Avue staff available online and onsite to ensure the platform is responsive to the client’s operational needs, (3) embedded IT services that ensure all elements of the technology and data flow and operate seamlessly with the client’s IT environment, (4) social media, communications, and marketing services for online-, mobile-, and social-media based talent acquisition, and (5) on-demand HR staff augmentation to add capacity and assist agency HR staff with Avue HR experts, in any location at any time. Avue’s database contains job duties, skills, and competencies, developmental activities, training courses, performance standards, recruitment criteria and applicant assessment criteria, along with a range of other associated content. This database and its companion rules engines allow Avue to deliver services in a rapid and efficient manner while at the same time ensuring compliance with statutes and regulations, notably the Uniform Guidelines on Employee Selection Procedures, governing OPM and delegated examining regulations, and the federal Merit System. Avue’s services are bundled with the database and technology platform in a manner that ensures delivery of the services are not only compliant but responsive to management’s needs, quick, and superior in quality and result.\nAvue is HRLOB certified by OPM, OMB, and GSA for both Core and Non-Core HR services including Classification, Staffing and Recruitment, Performance Management, Enterprise Learning Management, Worker Compensation, Payroll, Time and Attendance, Benefits and Retirement Management, Organization Optimization, and Workforce Planning and Management – a total of 15 modules. Avue Technologies is currently interconnected to electronically post vacancies to USAJOBs and receive online application and with the National Finance Center (NFC) for personnel actions and workforce management activities.",
@@ -4838,14 +4839,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2021-01-11T05:00:00.000Z",
-            "Letter_Expiration_Date": "2022-01-06T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-01-11T05:00:00.000Z",
-            "Authorizing_Agency": "Executive Office of the President",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_Executive_Office_of_the_President_of_the_United_States_2014.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2021-01-29T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-01-29T05:00:00.000Z",
             "Authorizing_Agency": "National Science Foundation",
@@ -5490,6 +5483,14 @@
             "Authorizing_Agency": "Department of Homeland Security",
             "Authorizing_Subagency": "Immigration and Customs Enforcement",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-12-16T05:00:00.000Z",
+            "Letter_Expiration_Date": "2026-12-16T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-12-23T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -8894,7 +8895,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Lookout, Inc.",
-        "Cloud_Service_Provider_Package": "Lookout Mobile Endpoint Security",
+        "Cloud_Service_Provider_Package": "Lookout Security Platform",
         "Path": "JAB",
         "Designation": "Compliant",
         "Package_ID": "F1603297883",
@@ -8912,7 +8913,7 @@
           "AGENCYAMAZONEW"
         ],
         "CSP_Website": "www.lookout.com/gov",
-        "CSO_Description": "Lookout Mobile Endpoint Security is an enterprise-grade mobile security solution that provides comprehensive risk management across mobile devices, including iOS and Android, to secure against application, device, and network-based threats while providing visibility and control over data leakage. The Lookout Mobile Endpoint Security suite enables government agencies to secure the organization from mobile threats, identify and control non-compliant mobile apps that pose data leakage risks, and gain visibility into mobile endpoints. Lookout empowers government agencies to adopt secure mobility across personal and GFE devices without compromising productivity.",
+        "CSO_Description": "The Lookout Security Platform is a scalable cloud-delivered solution to protect agency data accessed by any endpoint from any location in any application including on-premises apps, SaaS apps and enterprise apps running in IaaS.\r\n\r\nThe platform enables government agencies to meet the Zero Trust Architecture requirements in the Executive Orders and mitigate risk when enabling critical initiatives like telework.\r\n\r\nTo secure agency data, the platform delivers a triple-play integration of User and Entity Behavior Analytics (UEBA), Data Loss Prevention (DLP), and Enterprise Digital Rights Management (EDRM) across secure access technologies –  Cloud Access Security Broker (CASB), and Zero Trust Network Access (ZTNA) – and  Secure Email Gateway (SEG) and Mobile Endpoint Security (MES). This triple-play protects data against insider threats and credential theft, dynamically adapts to changes in user and device risk posture and prevents agency data from being exposed to unauthorized users. This enables unified data protection policies to be consistently applied across all users, devices and applications, improving security administration.",
         "Announcement_Date": "2020-04-29T04:00:00.000Z",
         "CSP_POC_Name": "Tim LeMaster",
         "CSP_POC_Email": "fedramp@lookout.com",
@@ -18499,6 +18500,28 @@
         "CSP_POC_Name": "Larry Jennings",
         "CSP_POC_Email": "fedramp@yello.co",
         "FedRAMP_In-Process_Date": "2021-04-13T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Zoom Video Communications, LLC",
+        "Cloud_Service_Provider_Package": "Zoom for Government - JAB",
+        "Path": "JAB",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR1825941347A",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Zoom%20Logo.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "www.zoomgov.com",
+        "CSO_Description": "The Zoom For Government Platform unifies cloud video conferencing, cloud phone system, messaging, simple online meetings, and a software-defined conference room solution into one easy-to-use platform. The solution offers video, audio, phone, and wireless screen-sharing across Windows, Mac, Linux, Chrome OS, iOS, Android, Blackberry, Zoom Rooms, and H.323/SIP room systems. Zoom Products include:\n\n* **Zoom Cloud Video Conferencing** – a cloud-based collaboration service which includes video, audio, content sharing webinars and collaboration.\n* **Zoom Phone** - a cloud-based phone system with traditional PBX features, integrated PSTN connectivity, enhanced emergency services, and support for calling from mobile apps, desktop apps, and legacy desk phone devices.\n* **Zoom Chat** - send chat messages in public or private channels organized by projects, teams, or topics with the ability to share files, emojis, screenshots, and more.\n* **Zoom Rooms** – software-based group video conferencing for conference and huddle rooms that run off-the-shelf hardware including a dedicated MAC or PC, camera, and speaker with an iPad controller.\n* **Zoom Room Connector** – a gateway allowing H.323 and Session Initiation Protocol (SIP) systems to connect to Zoom meetings. Room Connector is available in both cloud computing and as software (VM) for installation on the customer premise.\n* **Zoom Meeting Connector** – a software (VM) version of the Zoom Cloud infrastructure intended for installation on the customer premise.\n* **Zoom API** - provides the ability for developers to easily add Video, Voice and Screen Sharing to your application. Our API is a server side implementation designed around REST. The Zoom API helps manage the pre-meeting experience such as creating, editing and deleting resources like users, meetings and webinars.",
+        "CSP_POC_Name": "John Keese",
+        "CSP_POC_Email": "fedramp@zoom.us",
+        "Fedramp_Ready_Date": "2022-01-26T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
