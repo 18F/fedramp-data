@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-01-31T05:40:51.175Z",
+    "Created_At": "2022-02-01T05:40:50.766Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3739,14 +3739,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2018-12-28T05:00:00.000Z",
-            "Letter_Expiration_Date": "2021-12-28T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-12-28T05:00:00.000Z",
-            "Authorizing_Agency": "Export-Import Bank of the United States",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/EXIM%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-07-24T04:00:00.000Z",
             "Authorizing_Agency": "Institute of Museum and Library Services",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/IMLS%20Logo.jpg",
@@ -3821,6 +3813,14 @@
             "Letter_Date": "2021-11-15T05:00:00.000Z",
             "Authorizing_Agency": "U.S. Commission for the Preservation of America's Heritage Abroad",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USCPAHA%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-12-23T05:00:00.000Z",
+            "Letter_Expiration_Date": "2024-12-23T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-12-23T05:00:00.000Z",
+            "Authorizing_Agency": "Export-Import Bank of the United States",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/EXIM%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -8915,7 +8915,7 @@
         "Sponsoring_Agency": "JAB Authorization",
         "Authorizing_Agency": "JAB Authorization",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Lookout%20Logo.png",
-        "Independent_Assessor": "EmeSec Incorporated",
+        "Independent_Assessor": "Schellman & Company, LLC",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW"
         ],
@@ -15952,6 +15952,14 @@
             "Authorizing_Subagency": "Federal Emergency Management Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-01-27T05:00:00.000Z",
+            "Letter_Expiration_Date": "2025-01-26T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-01-27T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -16860,7 +16868,7 @@
         "CSP_Website": "https://www2.deloitte.com/us/en/pages/public-sector/solutions/cloud-services-for-government-agencies.html",
         "CSO_Description": "The Deloitte OpenCloud is a fully managed platform-as-a-service (PaaS) that offers public sector communities and their commercial service providers the ability to host mission critical applications requiring custom development and with complex compliance requirements.  OpenCloud is designed to accelerate and automate leading practices across seven multi-disciplinary areas (infrastructure management, service management, application management service, automation and DevOps, cybersecurity, risk and compliance, and optimization and transparency) that provide the scalability, agility, and continuous deployment capabilities that can help you realize the transformative value of the cloud.  Deloitte OpenCloud and our Cloud Managed Services can help accelerate your speed to mission.",
         "CSP_POC_Name": "Deloitte Cloud Managed Services",
-        "CSP_POC_Email": "CloudMangedServices@deloitte.com",
+        "CSP_POC_Email": "gpscms@deloitte.com",
         "Fedramp_Ready_Date": "2021-12-08T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
@@ -17823,6 +17831,29 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Pexip Inc.",
+        "Cloud_Service_Provider_Package": "Pexip Government Cloud- (PGC)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2202555908",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Labor",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+        "Authorizing_Agency": "Department of Labor",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Pexip%20Logo.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "www.pexip.com",
+        "CSO_Description": "Pexip Government Cloud is a SaaS-based video teleconferencing (VTC) solution for U.S. federal, state, and local government organizations. With Pexip, government customers can augment their existing on-premise VTC infrastructure with a subscription-based service model while retaining ownership of their specific endpoint dial plan and call control routing rules. By migrating to an SaaS or hybrid service model, government organizations maintain operational control of their endpoints and systems without incurring the long-term costs of developing and maintaining additional infrastructure.\n\nPexip Government Cloud’s secure VTC platform brings the modernized meeting experience to the government user base in the following ways:\n\n* **Microsoft-certified Cloud Video Interoperability (CVI) for Microsoft Teams**, which helps agencies securely collaborate on Microsoft Teams in their hybrid workplace. With Pexip Government Cloud, employees can join Microsoft Teams calls from their existing standards-based meeting room video systems as well as enterprise-class standards-based soft clients.\n* **Standards-based Virtual Meeting Rooms (VMRs)** for customer VTC endpoint devices and clients, featuring Pexip’s native CMVP-validated FIPS 140-2 encryption suite.\n* **Self-hosted platform integration** for hybrid VTC deployments. Pexip Government Cloud may serve as an extension of the customer’s existing self-hosted platform, enabling VTC system integration with enterprise third-party applications and global policy frameworks such as Zero Trust Architecture (ZTA) and Secure Access Service Edge (SASE).",
+        "CSP_POC_Name": "Joel Bilheimer",
+        "CSP_POC_Email": "fedramp@pexip.com",
+        "FedRAMP_In-Process_Date": "2022-01-25T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Ping Identity Corporation",
         "Cloud_Service_Provider_Package": "PingOne for Government",
         "Path": "Agency",
@@ -18283,6 +18314,29 @@
         "CSP_POC_Name": "Macey Smith ",
         "CSP_POC_Email": "business@unitedsolutions.biz",
         "FedRAMP_In-Process_Date": "2021-03-12T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Unqork, inc.",
+        "Cloud_Service_Provider_Package": "Unqork for Government",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2125561001",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Unqork%20Logo.png",
+        "Independent_Assessor": "Schellman & Company, LLC",
+        "CSP_Website": "https://www.unqork.com/solutions/government/federal",
+        "CSO_Description": "Unqork is a no-code, cloud-based development platform that empowers organizations to rapidly build robust enterprise- grade software without writing a single line of code. Advanced no-code platforms such as Unqork come \"out-of-the-box\"  with all the toolsets and elements necessary to build and manage applications.",
+        "CSP_POC_Name": "Kim Thompson",
+        "CSP_POC_Email": "fedramp@unqork.com",
+        "FedRAMP_In-Process_Date": "2022-01-26T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
