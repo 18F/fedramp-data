@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-02-01T05:40:50.766Z",
+    "Created_At": "2022-02-02T05:40:50.474Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1516,6 +1516,14 @@
             "Authorizing_Subagency": "United States Patent and Trademark Office",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-01-12T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-01-12T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "Office of Electricity",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -2755,6 +2763,14 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "International Trade Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2022-05-25T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-05-25T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Transportation",
+            "Authorizing_Subagency": "Federal Highway Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -15550,6 +15566,31 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Rescale",
+        "Cloud_Service_Provider_Package": "Rescale ScaleX Government",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1931476240",
+        "Service_Model": [
+          "PaaS, SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-11-02T05:00:00.000Z",
+        "Original_Expiration_Date": "2023-09-30T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Energy",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+        "Authorizing_Agency": "Department of Energy",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Rescale%20Logo.png",
+        "Independent_Assessor": "The Cadence Group",
+        "CSP_Website": "https://www.rescale.com/",
+        "CSO_Description": "Rescale ScaleX Government is a variant of Rescale’s ScaleX Platform for enterprise big compute that is trusted by the Global Fortune 500 and leading research institutions.It enables IT leaders, governments, engineers, and scientists to securely manage product innovation and perform groundbreaking research and development faster at a lower cost. Rescale’s offering of ScaleX® platform solutions transform traditional fixed IT resources into flexible hybrid, private, and public cloud resources—built on the largest and most secure high performance computing infrastructure network in the world.\nIn addition to complying with FedRAMP requirements, ScaleX Government adheres to U.S. International Traffic in Arms Regulations (ITAR) regulations. Additional information is available at [https://info.rescale.com/gov/fedramp](https://info.rescale.com/gov/fedramp).",
+        "CSP_POC_Name": "Kevin Kelly",
+        "CSP_POC_Email": "fedramp@rescale.com",
+        "FedRAMP_In-Process_Date": "2020-11-02T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Google",
         "Cloud_Service_Provider_Package": "Google Workspace",
         "Path": "JAB",
@@ -18317,7 +18358,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Unqork, inc.",
+        "Cloud_Service_Provider_Name": "Unqork, Inc.",
         "Cloud_Service_Provider_Package": "Unqork for Government",
         "Path": "Agency",
         "Designation": "In Process",
