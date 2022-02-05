@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-02-04T05:40:50.468Z",
+    "Created_At": "2022-02-05T05:40:51.735Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -9405,6 +9405,14 @@
             "Include_In_Marketplace": "Y"
           },
           {
+            "Letter_Expiration_Date": "2026-05-24T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-05-24T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Authorizing_Subagency": "Interior Business Center",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
             "Letter_Date": "2021-09-21T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-10-08T04:00:00.000Z",
             "Authorizing_Agency": "Department of State",
@@ -13972,6 +13980,15 @@
             "Authorizing_Subagency": "Internal Revenue Service",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-11-01T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-12-31T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-11-29T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "United States Patent and Trademark Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -14884,6 +14901,13 @@
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "Administration for Children & Families",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-01-14T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-01-18T05:00:00.000Z",
+            "Authorizing_Agency": "Farm Credit Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FCA%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -16606,6 +16630,29 @@
         "CSP_POC_Name": "Centrify FedRAMP Team",
         "CSP_POC_Email": "fedramp@centrify.com",
         "FedRAMP_In-Process_Date": "2021-10-27T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "CGI Federal",
+        "Cloud_Service_Provider_Package": "Sunflower Asset Management Cloud (SAMC)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2018946952",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Justice",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+        "Authorizing_Agency": "Department of Justice",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CGI%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "CSP_Website": "https://www.cgi.com/us/en-us/federal/cgi-sunflower-solutions",
+        "CSO_Description": "CGI Federal Sunflower Asset Management Cloud (SAMC) is a suite of applications that enable management of both personal and real property from acquisition through disposal. Capabilities include tracking physical location and accountability for assets, performing physical inventory audits, work order and maintenance management, and excess/disposal screening and processing.  Sunflower also supports integration with financial and procurement systems to manage financial accountability and reporting. Real property software features enable rent reconciliation, occupancy agreements, lease management, and Federal Real Property Profile (FRPP) reporting. The Sunflower suite also includes applications for creating custom reports and dashboards for data analysis and financial statement reconciliation. Sunflower provides barcode scanning and RFID solutions to support physical inventory, asset receiving, and other applications.",
+        "CSP_POC_Name": "Brandon Kriner",
+        "CSP_POC_Email": "sunflower.support@cgifederal.com",
+        "FedRAMP_In-Process_Date": "2022-02-03T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
