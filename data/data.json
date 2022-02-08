@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-02-07T05:40:50.524Z",
+    "Created_At": "2022-02-08T05:40:50.626Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3799,7 +3799,7 @@
           },
           {
             "Letter_Date": "2021-06-14T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-06-22T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-06-22T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-06-22T04:00:00.000Z",
             "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
@@ -8094,7 +8094,7 @@
           },
           {
             "Letter_Date": "2021-06-14T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-06-22T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-06-22T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-06-22T04:00:00.000Z",
             "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
@@ -9725,7 +9725,7 @@
         "Authorizing_Agency": "Department of Health and Human Services",
         "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Snowflake%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Independent_Assessor": "Fortreum, LLC",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW",
           "F1512167750"
@@ -9756,7 +9756,7 @@
         "Authorizing_Agency": "Department of Health and Human Services",
         "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Snowflake%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Independent_Assessor": "Fortreum, LLC",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW",
           "F1603087869",
@@ -12515,8 +12515,11 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/AvePoint%20Logo.png",
         "Independent_Assessor": "Lunarline, Inc.",
         "Underlying_CSP_Package_ID": [
+          "F1206081364",
           "MSO365MT",
-          "F1403283529"
+          "F1403283529",
+          "AGENCYSF",
+          "FR2003061248"
         ],
         "CSP_Website": "www.avepoint.com",
         "CSO_Description": "Microsoft Office 365 gives users flexibility to create and share information from anywhere, at any time, and on any device. While this promotes collaboration and rapid adoption, a lack of information architecture can lead to operational inefficiencies and increased risks in data security and privacy. Organizations must find ways to reduce time spent searching for enterprise-wide content, mitigate incorrect or unauthorized changes in permissions, and closely monitor the sharing of sensitive content. \r\n\r\nAvePoint Online Services for US Government is the industry’s first and only 100 percent Microsoft Azure-based Software-as-a-Service (SaaS) platform for Office 365. Requiring no installation or agents, AvePoint Online Services for US Government provides centralized management, governance, backup, reporting and ECM/records management for your Office 365 environment.",
@@ -15630,7 +15633,7 @@
         "Cloud_Service_Provider_Name": "Rescale",
         "Cloud_Service_Provider_Package": "Rescale ScaleX Government",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "FR1931476240",
         "Service_Model": [
           "PaaS, SaaS"
@@ -15644,8 +15647,16 @@
         "Authorizing_Agency": "Department of Energy",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Rescale%20Logo.png",
         "Independent_Assessor": "The Cadence Group",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1603047866",
+          "F1206081364",
+          "F1209051525",
+          "F1603087869"
+        ],
         "CSP_Website": "https://www.rescale.com/",
         "CSO_Description": "Rescale ScaleX Government is a variant of Rescale’s ScaleX Platform for enterprise big compute that is trusted by the Global Fortune 500 and leading research institutions.It enables IT leaders, governments, engineers, and scientists to securely manage product innovation and perform groundbreaking research and development faster at a lower cost. Rescale’s offering of ScaleX® platform solutions transform traditional fixed IT resources into flexible hybrid, private, and public cloud resources—built on the largest and most secure high performance computing infrastructure network in the world.\nIn addition to complying with FedRAMP requirements, ScaleX Government adheres to U.S. International Traffic in Arms Regulations (ITAR) regulations. Additional information is available at [https://info.rescale.com/gov/fedramp](https://info.rescale.com/gov/fedramp).",
+        "Announcement_Date": "2022-01-31T05:00:00.000Z",
         "CSP_POC_Name": "Kevin Kelly",
         "CSP_POC_Email": "fedramp@rescale.com",
         "FedRAMP_In-Process_Date": "2020-11-02T05:00:00.000Z",
