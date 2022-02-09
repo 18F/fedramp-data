@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-02-08T05:40:50.626Z",
+    "Created_At": "2022-02-09T05:40:50.386Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4040,7 +4040,7 @@
         "CSP_Website": "www.qualys.com",
         "CSO_Description": "The Qualys Cloud Platform (QCP) is a multi-tenant shared cloud service environment. Its unique computing power is capable of continuously analyzing and correlating information, to assist IT management with identifying and homing-in on threats and eliminating vulnerabilities.\nWith its Qualys sensors, a core service of the Qualys Cloud Platform, make it easy to extend your security throughout your global enterprise. These sensors, which can be in the form of appliances or lightweight agents, are remotely deployable, centrally managed and self-updating. They collect data automatically and seamlessly sending it to the Qualys Cloud Platform.\nSubscribers simply use the Qualys software without the burden of licensing, maintenance and costs for owning the software itself.",
         "Announcement_Date": "2016-11-02T04:00:00.000Z",
-        "CSP_POC_Name": "Samuel Aydlette",
+        "CSP_POC_Name": "Enoch Boakye Acheampong",
         "CSP_POC_Email": "fedramp@qualys.com",
         "Fedramp_Ready_Date": "2016-05-05T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2015-08-26T04:00:00.000Z",
@@ -8024,6 +8024,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/PowerTrain%20Logo.png",
         "Independent_Assessor": "MindPoint Group, LLC",
         "CSP_Website": "www.powertrain.com",
+        "CSO_Description": "Software as a Service (SaaS) for the USALearning Federal Learning Enclave (USAL-FLE) supporting training and on-line system delivery, tracking, and reporting as well as a range of human capital solutions. FedRAMP product offerings include:\n\n* Full Learning Management System (LMS)\n* LMS-Lite\n* Custom modules to support Federal agencies including EHRI, SF-182, Single Sign-On, Two-Factor Authentication, IDP, registration, wait list, and enhanced reporting\n* Content Management System (CMS)\n* Learning Record Store (LRS) connected to learning activities and integrated with USAL LMS via xAPI\n* Additional Secure on-line applications including:\n    * Event Registration System\n    * Career Mapping Tool\n    * Competency Management\n    * Reporting Tool\n    * Testing System \n    * Survey Tool",
         "Announcement_Date": "2017-04-27T04:00:00.000Z",
         "CSP_POC_Name": "Courtney Cox",
         "CSP_POC_Email": "ccox@powertrain.com",
@@ -9899,7 +9900,7 @@
         "Authorizing_Agency": "Department of Justice",
         "Authorizing_Subagency": "Executive Office for United States Attorneys",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Okta%20Logo.png",
-        "Independent_Assessor": "Schellman Compliance, LLC",
+        "Independent_Assessor": "Fortreum, LLC",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW"
         ],
@@ -13184,6 +13185,12 @@
             "Authorizing_Agency": "Department of Veterans Affairs",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2025-02-08T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-02-08T05:00:00.000Z",
+            "Authorizing_Agency": "Social Security Administration",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -14124,6 +14131,12 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-09-09T04:00:00.000Z",
             "Authorizing_Agency": "Department of Veterans Affairs",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2025-02-08T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-02-08T05:00:00.000Z",
+            "Authorizing_Agency": "Social Security Administration",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -16574,6 +16587,25 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Aurigo Software Technologies, Inc.",
+        "Cloud_Service_Provider_Package": "Aurigo Masterworks Cloud and Aurigo Essentials",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2031222637",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Aurigo%20Logo.png",
+        "Independent_Assessor": "The Cadence Group",
+        "CSP_Website": "www.aurigo.com",
+        "CSO_Description": "The Aurigo Masterworks Cloud is an integrated suite of enterprise software products for owners to plan, build, and maintain large capital assets, infrastructure, and facilities. Aurigo Essentials is an all-in-one product for small to mid-size agencies with easy-to-deploy and industry-ready configurations.",
+        "CSP_POC_Name": "Manish Sharma",
+        "CSP_POC_Email": "fedramp@aurigo.com",
+        "Fedramp_Ready_Date": "2022-02-07T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Bamboo Health, Inc.",
         "Cloud_Service_Provider_Package": "PMP Government-Gateway",
         "Path": "Agency",
@@ -17913,7 +17945,7 @@
         "CSP_Website": "www.pexip.com",
         "CSO_Description": "Pexip Government Cloud is a SaaS-based video teleconferencing (VTC) solution for U.S. federal, state, and local government organizations. With Pexip, government customers can augment their existing on-premise VTC infrastructure with a subscription-based service model while retaining ownership of their specific endpoint dial plan and call control routing rules. By migrating to an SaaS or hybrid service model, government organizations maintain operational control of their endpoints and systems without incurring the long-term costs of developing and maintaining additional infrastructure.\n\nPexip Government Cloud’s secure VTC platform brings the modernized meeting experience to the government user base in the following ways:\n\n* **Microsoft-certified Cloud Video Interoperability (CVI) for Microsoft Teams**, which helps agencies securely collaborate on Microsoft Teams in their hybrid workplace. With Pexip Government Cloud, employees can join Microsoft Teams calls from their existing standards-based meeting room video systems as well as enterprise-class standards-based soft clients.\n* **Standards-based Virtual Meeting Rooms (VMRs)** for customer VTC endpoint devices and clients, featuring Pexip’s native CMVP-validated FIPS 140-2 encryption suite.\n* **Self-hosted platform integration** for hybrid VTC deployments. Pexip Government Cloud may serve as an extension of the customer’s existing self-hosted platform, enabling VTC system integration with enterprise third-party applications and global policy frameworks such as Zero Trust Architecture (ZTA) and Secure Access Service Edge (SASE).",
         "CSP_POC_Name": "Joel Bilheimer",
-        "CSP_POC_Email": "fedramp@pexip.com",
+        "CSP_POC_Email": "fedramp@pexgov.com",
         "FedRAMP_In-Process_Date": "2022-01-25T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
