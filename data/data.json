@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-02-16T05:40:50.570Z",
+    "Created_At": "2022-02-17T05:40:51.317Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1267,54 +1267,6 @@
         "CSP_POC_Email": "saas_fedramp_us_grp@oracle.com",
         "FedRAMP_In-Process_Date": "2015-02-10T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "MAXIMUS Inc.",
-        "Cloud_Service_Provider_Package": "MAXIMUS Cloud",
-        "Path": "JAB",
-        "Designation": "Compliant",
-        "Package_ID": "F1303191948",
-        "Service_Model": [
-          "IaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2016-01-08T05:00:00.000Z",
-        "Sponsoring_Agency": "JAB Authorization",
-        "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MAXIMUS%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://www.maximus.com/federal/technology/enterprise-it-services/infrastructure-and-platform-support-services",
-        "CSO_Description": "An enterprise-level, FedRAMP-compliant cloud to support programs of all sizes and complexities. MAXIMUS Cloud provides security, visibility and enhanced performance through proactive monitoring, alerting and maintenance without service interruption. Serving multiple government customers, this multi-tenant Private and Community Cloud is hosted in geographically dispersed Data Centers located in the United States.",
-        "Announcement_Date": "2016-01-08T05:00:00.000Z",
-        "CSP_POC_Name": "Scott Clarke",
-        "CSP_POC_Email": "federalservices@maximus.com",
-        "FedRAMP_In-Process_Date": "2014-08-18T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2017-03-16T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "United States Census Bureau",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2022-12-31T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-12-11T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Labor",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-06-07T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-06-04T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-06-17T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Authorizing_Subagency": "Federal Student Aid",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
       },
       {
         "Cloud_Service_Provider_Name": "Granicus",
@@ -5939,14 +5891,14 @@
       },
       {
         "Cloud_Service_Provider_Name": "OneStream Software",
-        "Cloud_Service_Provider_Package": "OneStream XF Cloud",
+        "Cloud_Service_Provider_Package": "OneStream Cloud",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "FR1721059275",
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Public Cloud",
+        "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2019-07-19T04:00:00.000Z",
         "Sponsoring_Agency": "Department of the Treasury",
@@ -5995,51 +5947,6 @@
             "Authorizing_Agency": "Department of the Treasury",
             "Authorizing_Subagency": "Office of the Comptroller of the Currency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "CoSo Cloud, LLC.",
-        "Cloud_Service_Provider_Package": "CoSo Cloud FedRAMP Managed Service Platform",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1206111371",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2019-02-01T05:00:00.000Z",
-        "Original_Expiration_Date": "2022-02-28T05:00:00.000Z",
-        "Sponsoring_Agency": "Department of Homeland Security",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-        "Authorizing_Agency": "Department of Defense",
-        "Authorizing_Subagency": "United States Marine Corps",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CoSo%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://www.cosocloud.com",
-        "CSO_Description": "CoSo Cloud's Private FedRAMP Compliant Cloud for Adobe Connect and Adobe Captivate Prime is a powerful and proven platform, enabling agencies to excel in their missions. It provides 99.99% uptime to ensure government agencies have reliable collaboration for critical communications. It allows organizations to deliver modern, digital learning experiences for self-paced and real time training and skill development in a highly secure and reliable environment.\nAdobe Connect offers immersive online meeting experiences for collaboration, large scale webinars, and virtual classrooms. Adobe Captivate Prime is a Learning Management System that allows enterprise Learning and Development teams to drive personalized learning experiences for the employees and partners of their organization, across multiple devices.\nCoSo Cloud’s platform and services have been used to facilitate crisis-communications regarding food tampering, drug recalls, and international disasters & emergencies. Additionally, both the military and many federal agencies utilize CoSo Cloud's platform to provide secure training around the globe.",
-        "Announcement_Date": "2017-06-21T04:00:00.000Z",
-        "CSP_POC_Name": "David Thompson",
-        "CSP_POC_Email": "security@cosocloud.com",
-        "FedRAMP_In-Process_Date": "2012-09-12T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2021-04-02T04:00:00.000Z",
-            "Letter_Expiration_Date": "2024-04-19T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-04-19T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Food and Drug Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2022-02-07T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-02-09T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "Federal Law Enforcement Training Centers",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -9316,7 +9223,7 @@
           "F1512167750"
         ],
         "CSP_Website": "https://slack.com/",
-        "CSO_Description": "Slack has transformed business communication. It’s the leading channels-based messaging platform, used by millions to align their teams, unify their systems, and drive their businesses forward. Only Slack offers a secure, enterprise-grade environment that can scale with the largest companies in the world. It is a new layer of the business technology stack where people can work together more effectively, connect all their other software tools and services, and find the information they need to do their best work. Slack is where work happens. \r\n\r\nSlack is able to be configured to support Moderate workloads with our Enterprise offerings and Low workloads with our Standard and Plus plans.",
+        "CSO_Description": "Slack has transformed business communication. It’s the leading channels-based messaging platform, used by millions to align their teams, unify their systems, and drive their businesses forward. Only Slack offers a secure, enterprise-grade environment that can scale with the largest companies in the world. It is a new layer of the business technology stack where people can work together more effectively, connect all their other software tools and services, and find the information they need to do their best work. Slack is where work happens. \n\nSlack can support customers who are seeking both an Li-SaaS (FedRAMP low impact level) and FedRAMP Moderate impact level authorization or ATO. Our Enterprise plans (Enterprise Select and Enterprise Grid) are for customers who require compliance with FedRAMP Moderate. Slack's Pro and Business+ plans are for customers who require compliance with FedRAMP Li-SaaS or Low. ",
         "Announcement_Date": "2020-05-20T04:00:00.000Z",
         "CSP_POC_Name": "Taylor Trigger",
         "CSP_POC_Email": "fedramp@slack-corp.com",
@@ -12923,6 +12830,51 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "CoSo Cloud, LLC.",
+        "Cloud_Service_Provider_Package": "CoSo Cloud FedRAMP Managed Service Platform",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1206111371",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-04-19T04:00:00.000Z",
+        "Original_Expiration_Date": "2024-04-19T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Homeland Security",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "Food and Drug Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CoSo%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://www.cosocloud.com",
+        "CSO_Description": "CoSo Cloud's Private FedRAMP Compliant Cloud for Adobe Connect and Adobe Captivate Prime is a powerful and proven platform, enabling agencies to excel in their missions. It provides 99.99% uptime to ensure government agencies have reliable collaboration for critical communications. It allows organizations to deliver modern, digital learning experiences for self-paced and real time training and skill development in a highly secure and reliable environment.\nAdobe Connect offers immersive online meeting experiences for collaboration, large scale webinars, and virtual classrooms. Adobe Captivate Prime is a Learning Management System that allows enterprise Learning and Development teams to drive personalized learning experiences for the employees and partners of their organization, across multiple devices.\nCoSo Cloud’s platform and services have been used to facilitate crisis-communications regarding food tampering, drug recalls, and international disasters & emergencies. Additionally, both the military and many federal agencies utilize CoSo Cloud's platform to provide secure training around the globe.",
+        "Announcement_Date": "2017-06-21T04:00:00.000Z",
+        "CSP_POC_Name": "David Thompson",
+        "CSP_POC_Email": "security@cosocloud.com",
+        "FedRAMP_In-Process_Date": "2012-09-12T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2022-02-07T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-02-09T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Federal Law Enforcement Training Centers",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-01-12T05:00:00.000Z",
+            "Letter_Expiration_Date": "2024-06-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-01-14T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "United States Marine Corps",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "CGI Federal",
         "Cloud_Service_Provider_Package": "Momentum® Enterprise Suite - JAB",
         "Path": "JAB",
@@ -15789,6 +15741,54 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Wellspring Worldwide, Inc.",
+        "Cloud_Service_Provider_Package": "Sophia Knowledge Management System",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1924344515",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-03-04T05:00:00.000Z",
+        "Original_Expiration_Date": "2024-03-03T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Wellspring%20Logo.png",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "FR1833967442",
+          "FR1823149273",
+          "FR1812058188",
+          "F1206081364",
+          "F1512167750",
+          "FR1919071020",
+          "FR1823447014",
+          "FR1918740338",
+          "FR1821856903"
+        ],
+        "CSP_Website": "https://www.wellspring.com",
+        "CSO_Description": "Wellspring Sophia is a government compliant Software-as-a-Service (SaaS) solution to manage all of the initiatives and activities required in the technology transfer field. Sophia provides over 30 modules, plug-ins, and integrations that include IP management, contract management, reporting, disclosure and project submissions, and more. With more than 15 years in the tech transfer industry and more than 250 institutions using our solutions, Wellspring provides the most complete technology transfer management software available with unparalleled functionality, flexibility, and support staff to professionals in the technology transfer field worldwide.",
+        "Announcement_Date": "2022-02-14T05:00:00.000Z",
+        "CSP_POC_Name": "Matt Hamilton",
+        "CSP_POC_Email": "fedramp@wellspring.com",
+        "FedRAMP_In-Process_Date": "2021-03-04T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2021-12-23T05:00:00.000Z",
+            "Letter_Expiration_Date": "2024-12-29T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-12-29T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "DOE Office of the General Counsel",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "Google",
         "Cloud_Service_Provider_Package": "Google Workspace",
         "Path": "JAB",
@@ -16591,6 +16591,54 @@
         "CSP_POC_Email": "fedramp@informatica.com",
         "FedRAMP_In-Process_Date": "2021-10-08T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "MAXIMUS Inc.",
+        "Cloud_Service_Provider_Package": "MAXIMUS Cloud",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "F1303191948",
+        "Service_Model": [
+          "IaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-02-07T05:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MAXIMUS%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://www.maximus.com/federal/technology/enterprise-it-services/infrastructure-and-platform-support-services",
+        "CSO_Description": "An enterprise-level, FedRAMP-compliant cloud to support programs of all sizes and complexities. MAXIMUS Cloud provides security, visibility and enhanced performance through proactive monitoring, alerting and maintenance without service interruption. Serving multiple government customers, this multi-tenant Private and Community Cloud is hosted in geographically dispersed Data Centers located in the United States.",
+        "Announcement_Date": "2016-01-08T05:00:00.000Z",
+        "CSP_POC_Name": "Scott Clarke",
+        "CSP_POC_Email": "federalservices@maximus.com",
+        "FedRAMP_In-Process_Date": "2014-08-18T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2017-03-16T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "United States Census Bureau",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2022-12-31T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-12-11T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Labor",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-06-07T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-06-04T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-06-17T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Authorizing_Subagency": "Federal Student Aid",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "3M",
@@ -18352,7 +18400,7 @@
         "Designation": "In Process",
         "Package_ID": "FR2028958787",
         "Service_Model": [
-          "IaaS"
+          "SaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
@@ -18707,35 +18755,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Wellspring Worldwide, Inc.",
-        "Cloud_Service_Provider_Package": "Sophia Knowledge Management System",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1924344515",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Veterans Affairs",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-        "Authorizing_Agency": "Department of Veterans Affairs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Wellspring%20Logo.png",
-        "Independent_Assessor": "Lunarline, Inc.",
-        "CSP_Website": "https://www.wellspring.com",
-        "CSO_Description": "Wellspring Sophia is a government compliant Software-as-a-Service (SaaS) solution to manage all of the initiatives and activities required in the technology transfer field. Sophia provides over 30 modules, plug-ins, and integrations that include IP management, contract management, reporting, disclosure and project submissions, and more. With more than 15 years in the tech transfer industry and more than 250 institutions using our solutions, Wellspring provides the most complete technology transfer management software available with unparalleled functionality, flexibility, and support staff to professionals in the technology transfer field worldwide.",
-        "CSP_POC_Name": "Matt Hamilton",
-        "CSP_POC_Email": "fedramp@wellspring.com",
-        "FedRAMP_In-Process_Date": "2021-03-04T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Authorizing_Agency": "Department of Energy",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "WidePoint Integrated Solutions Corp.",
         "Cloud_Service_Provider_Package": "Intelligent Telecommunications Management System (ITMS)",
         "Designation": "FedRAMP Ready",
@@ -18955,7 +18974,7 @@
         "Accreditation_Date": "2014-10-21T04:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Coalfire%20Logo.jpg",
         "Description": "Coalfire provides FedRAMP 3PAO Assessment Support Services for any customer looking to have an external, independent third party assessment. Having performed the very first JAB, Agency, and CSP-Supplied (now defunct) assessments, we know what it takes to successfully assess small and large CSPs against the FedRAMP requirements. Our testers are industry certified and internally trained with our structured process to ensure everyone conducts their tests in the same manner. We are also well-versed in the FedRAMP Accelerated process, having conducted 2 of the first 3 through the program. The results of our Readiness Assessments for those CSPs helped shape the updated requirements for the Readiness Review process. Lastly, we successfully completed 2 of the first 3 FedRAMP High Baseline assessments. Our constant involvement in the FedRAMP program allows us to share internal lessons learned across our team to ensure everyone is up to date on the latest guidance and requirements. We are the 3PAO for 5 of the first 7 CSPs entering the initial FedRAMP Connect program.",
-        "POC_Name": "Travis Abatemarco",
+        "POC_Name": "Michael Caruso",
         "POC_Email": "3pao@coalfire.com",
         "website": "www.coalfire.com",
         "Remediation": "N",
@@ -19451,7 +19470,7 @@
         "POC_Name": "John Kipp",
         "POC_Email": "fedramp@sera-brynn.com",
         "website": "www.sera-brynn.com",
-        "Remediation": "N",
+        "Remediation": "Y",
         "Founded": 2011,
         "Primary_Office_Locations": "1435 Crossways Blvd., Suite 100, Chesapeake, Virginia 23320",
         "FedRAMP_Assessed": "None",
@@ -19529,13 +19548,30 @@
         "Additional_Cyber_Frameworks": "* Cybersecurity Maturity Model Certification (CMMC)\n* NIST SP 800-171\n* NIST SP 800-53"
       },
       {
+        "Name": "Wilson Consulting Group, LLC",
+        "Accreditation_Date": "2020-10-08T04:00:00.000Z",
+        "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Wilson%20Logo.png",
+        "Description": "Wilson Consulting Group is an accredited FedRAMP 3PAO authorized by the U.S. General Services Administration (GSA) to conduct security assessments for cloud service providers (CSPs) seeking FedRAMP Ready and FedRAMP Provisional/Agency Authorizations.            \r\n\r\n**Governance and Risk Management Consulting**\r\n* Technical Infrastructure Consulting \r\n* Governance (FISMA, ISSO Support, CSF, Security A&A)\r\n* Security Artifact Creation (FedRAMP and Agency approved artifacts)\r\n\r\n**Readiness Assessment**\r\n* Impact Assessment and Gap Analysis\r\n* Readiness Assessment Report (RAR) \r\n\r\n**FedRAMP Assessment**\r\n* Full assessment based on FedRAMP requirements\r\n* Provide assessment documentation (e.g., Security Assessment Plan (SAP), Security Assessment Report (SAR), Plan of Action & Milestones (POA &M), etc.)\r\n* Vulnerability & Penetration Testing\r\n\r\n**Continuous Monitoring Services**\r\n* Ongoing risk evaluation to maintain organization's FedRAMP ATO",
+        "POC_Name": "Orville Wilson",
+        "POC_Email": "fedramp@wilsoncgrp.com\r\n",
+        "website": "https://wilsoncgrp.com/fedramp-consulting\r",
+        "Remediation": "N",
+        "Founded": 2014,
+        "Primary_Office_Locations": "800 Maine Avenue SW, Suite 200, Washington D.C. 20024\r",
+        "FedRAMP_Assessed": "None",
+        "Provide_Consulting_Services": "Y",
+        "Description_of_Consulting_Services": "Wilson Consulting Group, LLC (WCG) provides FedRAMP Consulting Services which include: \r\n\r\n**Readiness Assessment**\r\n* An overview of the FedRAMP requirements, FedRAMP authorization process and timeline\r\n* Review of boundary and data flow documentation\r\n* In-depth assessment and gap analysis of the current implemented controls\r\n* Concise and clear recommendations to close gaps accordingly based on FedRAMP requirements\r\n* A readiness assessment report listing the detailed risks and threats\r\n\r\n**Documentation and Remediation Support**\r\nTailored to your organization’s desired compliant-level and other needs, WCG assists with the completion of:\r\n* the required FedRAMP documentation,\r\n* policy and procedure development, and\r\n* the design of the controls\r\n\r\nWe aim to address your organization’s deficient controls, close the gaps on your FedRAMP Compliance, and save time and money to achieve FedRAMP requirements and Authorization to Operate (ATO) effectively and efficiently.",
+        "Consulting_Services_To": "None",
+        "Additional_Cyber_Frameworks": "* HIPAA / HITECH\n* PCI DSS\n* SOC 2 Audit\n* SOC 3 Audit"
+      },
+      {
         "Name": "Dakota Consulting, Inc. (In Remediation)",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Dakota%20Consulting%20Inc%20Logo%202016.jpg",
         "Description": "We have successfully completed a wide variety of security projects including:  assessment and authorization; enterprise and system risk management; creation of security program policy, procedures, and documentation; continuous monitoring; independent verification and validation; security training; gap assessments; requirements analysis; FISMA audit; information assurance; and additional activities in support of these broader services. Our expertise, staff certifications, and company credentials allow us to guide our customers’ cybersecurity strategies for maintaining cost effective programs for compliance with FedRAMP, FISMA, Office of Management and Budget (OMB), and other Federal civilian and Department of Defense (DoD) mandates.",
         "POC_Name": "Felece Whitfield",
         "POC_Email": "3pao@dakota-consulting.com",
         "website": "www.dakota-consulting.com",
-        "Remediation": "Y",
+        "Remediation": "N",
         "Founded": 2004,
         "Primary_Office_Locations": "1110 Bonifant Street Suite 310, Silver Spring, MD 20910",
         "FedRAMP_Assessed": "* OnWire.com\n* EPAY Systems",
