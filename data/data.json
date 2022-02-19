@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-02-18T05:40:50.551Z",
+    "Created_At": "2022-02-19T05:40:50.635Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3108,6 +3108,12 @@
             "Authorizing_Agency": "National Science Foundation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2020-04-23T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -3926,6 +3932,12 @@
             "Include_In_Marketplace": "Y"
           },
           {
+            "Authorizing_Letter_Last_Sign_Date": "2020-04-23T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
             "Letter_Date": "2021-03-05T05:00:00.000Z",
             "Letter_Expiration_Date": "2022-03-05T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-03-05T05:00:00.000Z",
@@ -4734,8 +4746,9 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Zoom%20Logo.png",
         "Independent_Assessor": "Schellman Compliance, LLC",
         "Underlying_CSP_Package_ID": [
+          "F1206061353",
           "F1603047866",
-          "F1508207205",
+          "FR1818161169",
           "F1305072116"
         ],
         "CSP_Website": "www.zoomgov.com",
@@ -4815,6 +4828,12 @@
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "Centers for Disease Control and Prevention",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2020-06-12T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -5098,6 +5117,12 @@
             "Authorizing_Agency": "Department of State",
             "Authorizing_Subagency": "State Office of the Inspector General",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2018-12-17T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -6181,6 +6206,12 @@
             "Authorizing_Letter_Last_Sign_Date": "2018-05-31T04:00:00.000Z",
             "Authorizing_Agency": "Farm Credit Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FCA%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2017-12-21T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -7954,7 +7985,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "PowerTrain Inc.",
-        "Cloud_Service_Provider_Package": "USALearning Federal Learning Enclave",
+        "Cloud_Service_Provider_Package": "USALearning Federal Learning Enclave - SaaS",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "F1405214357",
@@ -13477,6 +13508,12 @@
             "Include_In_Marketplace": "Y"
           },
           {
+            "Authorizing_Letter_Last_Sign_Date": "2017-12-21T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
             "Letter_Date": "2018-11-21T05:00:00.000Z",
             "Authorizing_Agency": "National Capital Planning Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NationalCapitalPlanningCommission-Logo.png",
@@ -13871,7 +13908,14 @@
         "CSP_POC_Name": "Phil Richards",
         "CSP_POC_Email": "security@ivanti.com",
         "FedRAMP_In-Process_Date": "2015-12-23T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2018-03-08T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "TRAPWIRE",
@@ -14586,6 +14630,7 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-09-03T04:00:00.000Z",
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "United States Army",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -15849,6 +15894,12 @@
             "Include_In_Marketplace": "Y"
           },
           {
+            "Authorizing_Letter_Last_Sign_Date": "2020-04-23T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
             "Letter_Date": "2021-01-21T05:00:00.000Z",
             "Letter_Expiration_Date": "2024-03-29T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-03-29T04:00:00.000Z",
@@ -16069,8 +16120,8 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Socrata",
-        "Cloud_Service_Provider_Package": "Socrata Data Platform",
+        "Cloud_Service_Provider_Name": "Tyler Technologies Data & Insights",
+        "Cloud_Service_Provider_Package": "Tyler Data Platform, powered by Socrata",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "SOCRATA",
@@ -16083,13 +16134,13 @@
         "Sponsoring_Agency": "Federal Communications Commission",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
         "Authorizing_Agency": "Federal Communications Commission",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Socrata%20Logo%201.png",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Tyler%20Logo.png",
         "Independent_Assessor": "SecureIT",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW"
         ],
-        "CSP_Website": "www.socrata.com",
-        "CSO_Description": "Socrata is the market leader in making existing government data discoverable, usable, and actionable for government workers and the people they serve. Socrata provides a data-as-a-service data platform and cloud applications exclusively for city, county, state, and federal government organizations. Socrata delivers unprecedented data-driven innovation and cost-savings for hundreds of public sector leaders and millions of their constituents around the world.\nGovernment programs generate massive amounts of data, but most of it is locked away in hard-to-access data silos, including archaic databases. Socrata enables unprecedented data access by bringing together disparate systems and leveraging the cloud to dramatically enhance the effectiveness of government programs, to improve quality of life for residents, positively impact local economies, and achieve excellence in government operations. Socrata solutions are designed and developed to meet strict government standards. The technology is optimized on the Amazon Web Services (AWS) Public Sector cloud and delivered using the exclusive Socrata Blueprint Methodology.",
+        "CSP_Website": "https://www.tylertech.com/",
+        "CSO_Description": "The Tyler Data Platform, powered by Socrata®, which includes Enterprise Data Platform and Open Data Platform, is the market leader in making government data discoverable, usable, and actionable for government workers and the people they serve. Tyler Data & Insights provides the data platform and cloud applications exclusively for city, county, state, and federal government organizations. Government programs generate massive amounts of data, but most of it is locked away in hard-to-access data silos. The Tyler Data Platform provides enterprise-wide data management for government analytics by bringing together disparate systems and leveraging the cloud to enable secure access to authoritative data. Tyler Data & Insights solutions are designed and developed to meet strict government compliance standards. The technology is optimized on the Amazon Web Services (AWS) Cloud.",
         "Announcement_Date": "2017-05-15T04:00:00.000Z",
         "CSP_POC_Name": "Jeffrey Newball",
         "CSP_POC_Email": "fedramp-l@socrata.com",
@@ -18213,6 +18264,29 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "PowerTrain Inc.",
+        "Cloud_Service_Provider_Package": "USALearning Federal Learning Enclave - PaaS",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2213436880",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Office of Personnel Management",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
+        "Authorizing_Agency": "Office of Personnel Management",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/PowerTrain%20Logo.png",
+        "Independent_Assessor": "MindPoint Group, LLC",
+        "CSP_Website": "www.powertrain.com",
+        "CSO_Description": "The USALearning Federal Learning Enclave (USAL FLE) is a fully managed Platform-as-a-Service (PaaS) that offers Government agencies and their partners the ability to host mission critical applications in an authorized FedRAMP Moderate Level environment. The USAL FLE offers infrastructure management, service management, application management, automation, cybersecurity, risk management, compliance, optimization and transparency support services to assist DoD and Federal Agencies in achieving and maintaining a higher-level security posture that supports mission execution.",
+        "CSP_POC_Name": "Courtney Cox",
+        "CSP_POC_Email": "ccox@powertrain.com",
+        "FedRAMP_In-Process_Date": "2022-02-14T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Proofpoint, Inc.",
         "Cloud_Service_Provider_Package": "Proofpoint Security Awareness Training",
         "Path": "Agency",
@@ -18505,6 +18579,7 @@
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
         "Sponsoring_Agency": "National Aeronautics and Space Administration",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NASA_logo.png",
         "Authorizing_Agency": "National Aeronautics and Space Administration",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Snowflake%20Logo.png",
         "Independent_Assessor": "Fortreum, LLC",
@@ -18867,6 +18942,30 @@
         "CSP_POC_Name": "Workday Government Cloud Team",
         "CSP_POC_Email": "fedramp@workday.com",
         "Fedramp_Ready_Date": "2021-08-16T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Wolters Kluwer",
+        "Cloud_Service_Provider_Package": "TeamMate+ FedRAMP",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2207643307",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "National Institutes of Health",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/WK%20Logo.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "CSP_Website": "https://www.wolterskluwer.com/en/solutions/teammate/teammate-public-sector",
+        "CSO_Description": "The TeamMate+ FedRAMP platform is a suite of services that provides tooling and functionality to auditors for management and tracking of the entire auditing process. The product suite includes TeamMate+ Audit, TeamMate+ Controls, and TeamMate+ Public Sector. The TeamMate+ FedRAMP suite allows auditors and audit organizations to define, track, and manage the audit process within their own standards. TeamMate+ FedRAMP leverages tooling and software to integrate with various services and resources across many systems, enabling auditors to achieve a holistic view of the organization. Through use of cloud technology and wide tooling integration, TeamMate+ FedRAMP enables organizations to align processes and goals for better strategic and tactical insights.\n\nTeamMate+ FedRAMP's environment utilizes higher standards for security and compliance, this system has very well-defined boundaries and controlled data ingress and egress patterns.",
+        "CSP_POC_Name": "Jennifer Esterheld",
+        "CSP_POC_Email": "TeamMate-FedRAMP@wolterskluwer.com",
+        "FedRAMP_In-Process_Date": "2022-02-15T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
