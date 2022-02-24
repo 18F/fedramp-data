@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-02-23T05:40:50.548Z",
+    "Created_At": "2022-02-24T05:40:50.829Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2229,6 +2229,14 @@
             "Authorizing_Subagency": "National Telecommunications and Information Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-01-11T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-01-11T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Authorizing_Subagency": "Interior Business Center",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -4375,6 +4383,13 @@
             "Authorizing_Agency": "Federal Deposit Insurance Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2022-05-17T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-11-18T05:00:00.000Z",
+            "Authorizing_Agency": "Environmental Protection Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -6155,7 +6170,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/ServiceNow%20Logo2.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.servicenow.com",
-        "CSO_Description": "The ServiceNow Service Automation Government Cloud Suite is a suite of natively integrated applications designed to support IT service automation, resource management and shared support services. ServiceNow is built on modern web technologies. The ServiceNow platform includes easy-to-use, point-and-click customization tools to help customers create solutions for unique business requirements. ServiceNow applications cover all Information Technology Infrastructure Library (ITIL) processes and are natively integrated on a single platform providing web intuitiveness and unprecedented process automation.\nThe ServiceNow Service Automation Government Cloud Suite uses Continental United States (CONUS)-based dedicated infrastructure (facilities, servers, databases, networking devices) to process, store, and transmit government information using a multi-instance architecture. This Government Community Cloud is available for use by United States Federal, State, Local, and Tribal Government with registered .gov or .mil domain addresses, Government Consultants, and Federally Funded Research and Development Centers (FFRDC).",
+        "CSO_Description": "Government Community Cloud (GCC) is a ServiceNow cloud service offering that delivers the Now Platform in an environment that complies with stringent cloud security and privacy compliance requirements defined by the United States Federal Government. Government Community Cloud (GCC) is a multitenant environment restricted to the United States public sector and regulated private sector organizations with a government affiliation.\r\n\r\nThis cloud service offering and the ServiceNow personnel who support it are physically located in the United States. Government Community Cloud (GCC) is hosted in geographically diverse mirrored data centers on infrastructure dedicated to Government Community Cloud (GCC).",
         "Announcement_Date": "2019-08-12T04:00:00.000Z",
         "CSP_POC_Name": "ServiceNow US Federal Compliance",
         "CSP_POC_Email": "USFederalCompliance@servicenow.com",
@@ -6244,13 +6259,6 @@
             "Authorizing_Letter_Last_Sign_Date": "2019-02-08T05:00:00.000Z",
             "Authorizing_Agency": "Department of the Interior",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2022-02-21T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-02-21T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Labor",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -6591,6 +6599,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-02-13T05:00:00.000Z",
             "Authorizing_Agency": "Social Security Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-12-17T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-12-17T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Labor",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -10126,7 +10141,13 @@
         "CSP_POC_Name": "Elastic FedRAMP Team",
         "CSP_POC_Email": "fedramp@elastic.co",
         "FedRAMP_In-Process_Date": "2020-01-15T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2022-02-10T05:00:00.000Z",
+            "Authorizing_Agency": "Tennessee Valley Authority",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Dynatrace LLC",
@@ -11843,14 +11864,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2022-01-22T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-01-22T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Transportation",
-            "Authorizing_Subagency": "Federal Highway Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Authorizing_Letter_Last_Sign_Date": "2021-04-21T04:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Institute of Standards and Technology",
@@ -11932,6 +11945,14 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Telecommunications and Information Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-02-22T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-02-22T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Transportation",
+            "Authorizing_Subagency": "Federal Highway Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -14946,7 +14967,16 @@
         "CSP_POC_Name": "Clifton H. Poole",
         "CSP_POC_Email": "securityteam@unisonglobal.com",
         "FedRAMP_In-Process_Date": "2015-10-20T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Expiration_Date": "2023-01-11T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-01-11T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Authorizing_Subagency": "Interior Business Center",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Workiva",
@@ -15376,7 +15406,7 @@
           "F1512167750"
         ],
         "CSP_Website": "https://www.immersioninc.com/",
-        "CSO_Description": "Immersion Cloud is a software-as-a-service (SaaS) deployment of a commercial-of-the-shelf software product, Altair Knowledge Hub deployed in AWS GovCloud.  Altair Knowledge Hub is a browser-based and team-oriented shared data exploration, preparation, Automation, and Distribution Across Organizations preparation tool.  It automates the data extraction from a wide variety of data file formats including Microsoft Excel spreadsheets, Adobe PDF documents, delimited files, XML, JSON, and integrates that information with disparate database and reporting tools.\n\nGovernment users across mission areas from benefits to finance and operations to intelligence can use Immersion Cloud to centrally organize historical information, connect data repositories, and automate extraction, transformation, and reporting. Altair Knowledge Hub facilitates a team-oriented approach where:\n\n* users have roles, where some simply access an existing model/automation and process reports, while others create those automations, and even other curate and approve them;\n* work can be isolated to groups of users, where data can be separate by job function or task\n* administrative functions allow modifications of roles, group building, managing libraries of data, and even migrating\n\nEnd-users access Immersion Cloud using a browser on their government-issued computer. They access through FedRAMP authorized Identity-as-a-Service provider, Okta, with strong authentication using SAML federation of government identity credentials from inside their enterprise IT infrastructure.  Users access a customer-private instance dedicated to their use exclusively through this browser session. \n\nThe Immersion Cloud combines a private instance of Altair Knowledge Hub with a shared instance of a general support system (GSS) comprised of stackArmor ThreatAlert and OpsAlert. The GSS provides a comprehensive security and operations platform for the Immersion Cloud. \n\nThe stackArmor GSS ThreatAlert security stack (ThreatAlert) provides security support services for all Immersion Cloud AWS Accounts. AWS Landing Zone architecture based on common foundational management and services that segregate data into AWS accounts and Virtual Private Cloud (VPC) enclaves with governance provided using AWS Organizations for policy enforcement, access control and separation through segregation. The Landing zone pattern provides the capability for separated AWS accounts for production data and the associated security & management services. The landing zone architecture also allows for efficiencies through common foundational security services segregated from the production environment for greater scalability and security through separation of access and responsibilities.",
+        "CSO_Description": "Immersion Cloud is a software-as-a-service (SaaS) deployment of a commercial-of-the-shelf software product, Altair Knowledge Hub deployed in AWS GovCloud.  Altair Knowledge Hub is a browser-based and team-oriented shared data exploration, preparation, Automation, and Distribution Across Organizations preparation tool.  It automates the data extraction from a wide variety of data file formats including Microsoft Excel spreadsheets, Adobe PDF documents, delimited files, XML, JSON, and integrates that information with disparate database and reporting tools.\n\nGovernment users across mission areas from benefits to finance and operations to intelligence can use Immersion Cloud to centrally organize historical information, connect data repositories, and automate extraction, transformation, and reporting. Altair Knowledge Hub facilitates a team-oriented approach where:\n\n* users have roles, where some simply access an existing model/automation and process reports, while others create those automations, and even other curate and approve them;\n* work can be isolated to groups of users, where data can be separate by job function or task\n* administrative functions allow modifications of roles, group building, managing libraries of data, and even migrating\n\nEnd-users access Immersion Cloud using a browser on their government-issued computer. They access through FedRAMP authorized Identity-as-a-Service provider, Okta, with strong authentication using SAML federation of government identity credentials from inside their enterprise IT infrastructure.  Users access a customer-private instance dedicated to their use exclusively through this browser session.",
         "Announcement_Date": "2021-12-13T05:00:00.000Z",
         "CSP_POC_Name": "Phil Magrogan",
         "CSP_POC_Email": "fedramp@immersioninc.com",
@@ -16758,29 +16788,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Adobe",
-        "Cloud_Service_Provider_Package": "Adobe Sign",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2108360349",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Energy",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-        "Authorizing_Agency": "Department of Energy",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Adobe%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.adobe.com/go/adobesign-gov",
-        "CSO_Description": "Adobe Sign (Moderate) is a security-enhanced instance of Adobe’s industry-leading SaaS application that lets agencies rapidly replace manual, paper-based approval and signature processes with automated, all-digital workflows. Adobe Sign makes employees more productive in the office or working remotely by letting them sign documents, request signatures, and track processes from web and mobile devices – as well as inside applications they use every day. Constituents can sign on desktop or mobile devices with no downloads or signups required. Adobe Sign capabilities include webforms, batch signing, automated workflows and document templates, multifactor signer authentication, and support for both citizen e-signatures and employee digital signatures (using PIV or CAC cards) in a single process. Adobe Sign (Moderate) is hosted on Microsoft Azure Government Cloud and designated for the sole use of U.S. federal, tribal, state, and local government customers, and U.S. government contractors and partners. Adobe Sign is used by the majority of Fortune 100 companies. And, it’s Microsoft’s preferred e-signature solution. Learn more.",
-        "CSP_POC_Name": "Rahat Sethi",
-        "CSP_POC_Email": "fedramp@adobe.com",
-        "FedRAMP_In-Process_Date": "2021-02-23T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Armedia, LLC",
         "Cloud_Service_Provider_Package": "Armedia Content Cloud",
         "Path": "Agency",
@@ -17470,7 +17477,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Huron%20Logo.png",
         "Independent_Assessor": "MBL Technologies",
         "CSP_Website": "www.huronconsultinggroup.com",
-        "CSO_Description": "The Huron Accelerators Portal (HAP) is a web-based entry portal, hosted on AWS GovCloud. HAP is composed of three components: the Leader Evaluation Manager® (LEM) software application, the Patient Call Manager™ (PCM) software application, and the Huron Rounding software application.\r\n\r\n* Leader Evaluation Manager: Through research and more than a decade of working with healthcare organizations, Huron has perfected and accelerated the art and science of goal cascading, weighting and accountability for leaders to build consistency — and as consistency grows, so does engagement. With Leader Evaluation Manager® (LEM), organizations can guarantee that all employees get the same leadership experience, practice the same evidence-based tactics and are held accountable to the same behavioral standards. Use LEM to track and manage the components that take accountability to the next level.\r\n \r\n* Patient Call Manager: Checking on a patient at a critical point in their care is proven to have an impact. Whether it’s showing empathy or providing a clinical intervention, these calls improve patient safety and experiences — and offer an opportunity to receive first-hand feedback from patients. With Patient Call Manager™ (PCM), healthcare organizations can prioritize and connect patients with caregivers to ease transitions from in-person care to home. This fully HIPAA-compliant tool allows healthcare staff to serve as quality touchpoints and ensure quality outcomes along a patient’s continuum of care from pre-visit calls through post-visit.\r\n \r\n* Huron Rounding: A cloud-based, multiplatform technology, the Huron Rounding application helps organizations easily collect quality, safety, satisfaction, and other audit and compliance data for analysis and reporting.",
+        "CSO_Description": "The Huron Accelerators Portal (HAP) is a web-based entry portal, hosted on AWS GovCloud. HAP is composed of three components: the Leader Evaluation Manager® (LEM) software application, the Patient Call Manager™ (PCM) software application, and the Huron Rounding software application.\n\n* Leader Evaluation Manager: Through research and more than a decade of working with healthcare organizations, Huron has perfected and accelerated the art and science of goal cascading, weighting and accountability for leaders to build consistency — and as consistency grows, so does engagement. With Leader Evaluation Manager® (LEM), organizations can guarantee that all employees get the same leadership experience, practice the same evidence-based tactics and are held accountable to the same behavioral standards. Use LEM to track and manage the components that take accountability to the next level.\n \n* Patient Call Manager: Checking on a patient at a critical point in their care is proven to have an impact. Whether it’s showing empathy or providing a clinical intervention, these calls improve patient safety and experiences — and offer an opportunity to receive first-hand feedback from patients. With Patient Call Manager™ (PCM), healthcare organizations can prioritize and connect patients with caregivers to ease transitions from in-person care to home. This fully HIPAA-compliant tool allows healthcare staff to serve as quality touchpoints and ensure quality outcomes along a patient’s continuum of care from pre-visit calls through post-visit.\n \n* Huron Rounding: A cloud-based, multiplatform technology, the Huron Rounding application helps organizations easily collect quality, safety, satisfaction, and other audit and compliance data for analysis and reporting.",
         "CSP_POC_Name": "Pam Bursch",
         "CSP_POC_Email": "fedrampmarketplace@hcg.com",
         "FedRAMP_In-Process_Date": "2021-10-07T04:00:00.000Z",
@@ -18079,6 +18086,30 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Okta",
+        "Cloud_Service_Provider_Package": "Okta IDaaS Government High Cloud (GHC)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2131856836",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Sponsoring_Agency": "Department of Justice",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+        "Authorizing_Agency": "Department of Justice",
+        "Authorizing_Subagency": "Executive Office for United States Attorneys",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Okta%20Logo.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "CSP_Website": "okta.com/federal",
+        "CSO_Description": "Okta IDaaS Government High Cloud (GHC) service offering provides centralized identity and access management capabilities to customers who want to manage access across any application or device, whether they are on-premise in the customer’s office/data center or in the cloud. Okta IDaaS GHC service provides several important capabilities, including:\n\r\n* Okta Identity Engine (OIE)\r\n* Okta Access Gateway (OAG)\r\n* Okta Multi-factor authentication (MFA)\r\n* Okta Adaptive MFA (AMFA)\r\n* Okta Single Sign-On (SSO)\r\n* Okta Verify\r\n* Okta API Integration",
+        "CSP_POC_Name": "San Buonassisi",
+        "CSP_POC_Email": "fedramp@okta.com",
+        "FedRAMP_In-Process_Date": "2022-02-17T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Ontario Systems, LLC",
         "Cloud_Service_Provider_Package": "Ontario Cloud Federal",
         "Path": "Agency",
@@ -18538,29 +18569,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Signature Performance",
-        "Cloud_Service_Provider_Package": "ClaimsXM",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2028958787",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Veterans Affairs",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-        "Authorizing_Agency": "Department of Veterans Affairs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Signature%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.signatureperformance.com",
-        "CSO_Description": "ClaimsXM provides the software, program code and business logic to support the operation and management of customer claims processing. ",
-        "CSP_POC_Name": "Karen Hudgins",
-        "CSP_POC_Email": "info@signatureperformance.com",
-        "FedRAMP_In-Process_Date": "2020-11-19T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Skillsoft",
         "Cloud_Service_Provider_Package": "Percipio",
         "Path": "Agency",
@@ -18677,25 +18685,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Terida LLC",
-        "Cloud_Service_Provider_Package": "Terida RegTech Framework - CLASsoft™",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR1901852210",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Terida%20Logo.png",
-        "Independent_Assessor": "Kratos",
-        "CSP_Website": "https://www.terida.com/",
-        "CSO_Description": "The Terida RegTech Framework - CLASsoft™ is a cloud-based claims and electronic-form (e-form) management application, with an integrated optional e-signature module, to receive, evaluate, resolve and track registrations, applications, claims or cases.\n\nWith Terida CLASsoft™, persons, events, objects, operations, certifications, communications, documents and workflow are integrated into a single cloud application for application and review process management; credentialing, attestation and certification; compliance and risk management; claims, damages and settlements; incident registries; disaster and emergency management; document and forms management; procurement and supply chain management; litigation mitigation and litigation support.\n\nWith CLASsoft™, all information collected and processed, and their chain of custody and access, are secured, managed and protected for the term(s) necessitated by laws, regulations, evidentiary standards and operational requirements.",
-        "CSP_POC_Name": "Teri Marlene Prince",
-        "CSP_POC_Email": "fedramp@terida.com",
-        "Fedramp_Ready_Date": "2020-11-30T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "T-Metrics, Inc.",
         "Cloud_Service_Provider_Package": "T-Metrics Cloud Contact Center (TCCC)",
         "Path": "Agency",
@@ -18716,6 +18705,25 @@
         "CSP_POC_Name": "Jim Beckner III",
         "CSP_POC_Email": "fedramp@tmetrics.com",
         "FedRAMP_In-Process_Date": "2021-07-01T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Terida LLC",
+        "Cloud_Service_Provider_Package": "Terida RegTech Framework - CLASsoft™",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR1901852210",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Terida%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "CSP_Website": "https://www.terida.com/",
+        "CSO_Description": "The Terida RegTech Framework - CLASsoft™ is a cloud-based claims and electronic-form (e-form) management application, with an integrated optional e-signature module, to receive, evaluate, resolve and track registrations, applications, claims or cases.\n\nWith Terida CLASsoft™, persons, events, objects, operations, certifications, communications, documents and workflow are integrated into a single cloud application for application and review process management; credentialing, attestation and certification; compliance and risk management; claims, damages and settlements; incident registries; disaster and emergency management; document and forms management; procurement and supply chain management; litigation mitigation and litigation support.\n\nWith CLASsoft™, all information collected and processed, and their chain of custody and access, are secured, managed and protected for the term(s) necessitated by laws, regulations, evidentiary standards and operational requirements.",
+        "CSP_POC_Name": "Teri Marlene Prince",
+        "CSP_POC_Email": "fedramp@terida.com",
+        "Fedramp_Ready_Date": "2020-11-30T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
