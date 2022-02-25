@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-02-24T05:40:50.829Z",
+    "Created_At": "2022-02-25T05:40:52.055Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2222,6 +2222,15 @@
             "Include_In_Marketplace": "Y"
           },
           {
+            "Letter_Date": "2021-05-07T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-05-11T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-05-11T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Health Resources and Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
             "Letter_Date": "2022-02-18T05:00:00.000Z",
             "Letter_Expiration_Date": "2022-08-31T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-02-18T05:00:00.000Z",
@@ -2374,6 +2383,15 @@
             "Authorizing_Agency": "General Services Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-12-14T05:00:00.000Z",
+            "Letter_Expiration_Date": "2024-12-23T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-12-23T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Health Resources and Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -2428,14 +2446,6 @@
         "CSP_POC_Email": "aws-compliance-fedramp@amazon.com",
         "FedRAMP_In-Process_Date": "2012-11-02T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2014-02-24T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2014-04-11T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Health Resources and Services Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
           {
             "Authorizing_Letter_Last_Sign_Date": "2014-12-24T05:00:00.000Z",
             "Authorizing_Agency": "Department of Housing and Urban Development",
@@ -2754,6 +2764,15 @@
             "Authorizing_Agency": "Department of Transportation",
             "Authorizing_Subagency": "Federal Highway Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-05-04T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-05-11T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-05-11T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Health Resources and Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -4144,47 +4163,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Proofpoint, Inc.",
-        "Cloud_Service_Provider_Package": "Proofpoint Email Archive",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1304222071",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2018-11-07T05:00:00.000Z",
-        "Sponsoring_Agency": "Department of Transportation",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
-        "Authorizing_Agency": "Department of Transportation",
-        "Authorizing_Subagency": "Federal Aviation Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Proofpoint%20Logo.png",
-        "Independent_Assessor": "Schellman Compliance, LLC",
-        "CSP_Website": "www.proofpoint.com",
-        "CSO_Description": "The Federal Production Environment provides a complete message archiving solution that can protect an organization from legal liabilities and regulatory risks while improving email storage management and end-user productivity. Its web interface offers fully secure email archiving with robust search and discovery, supervision, and enforcement features. The solution securely stores electronic messages for a specified retention period, while keeping the messages fully searchable and retrievable in real-time or with a batch process. This allows archived messages to be easily viewed, retrieved to a user’s email inbox or exported to an Outlook data file.\nThe Archiving Customer Premise Equipment (CPE) is software-based, a hardware-based version is also available, and is installed within the Microsoft Office 365 ITAR environment behind the firewall to provide the tight integration and security typically only afforded to internal systems. The CPE integrates with Microsoft Exchange to ensure reliable, native format message archiving. Its integration with Active Directory facilitates unified login and access control management. Since the CPE is the only holder of the encryption keys used with *Proofpoint’s DoubleBlind™ Encryption* technology, any processing that involves encryption or decryption happens on the CPE.\n*Proofpoint’s DoubleBlind™ Encryption* technology guarantees the security of data, ensuring that no one outside the organization can access archived data. When a message reaches the CPE, it is encrypted before being sent outside the Microsoft Office 365 ITAR firewall over a secure connection to the Proofpoint Federal Production Environment. Messages are only decrypted when an authorized user on the customer network conducts a search from Outlook or from the CPE’s web-based user interface. Data can never be viewed without access to both the archiving CPE within the Microsoft Office 365 ITAR environment and the Proofpoint Federal Production Environment.",
-        "Announcement_Date": "2016-11-23T05:00:00.000Z",
-        "CSP_POC_Name": "Information System Security Manager",
-        "CSP_POC_Email": "fedramp@proofpoint.com",
-        "FedRAMP_In-Process_Date": "2015-12-04T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2017-07-26T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-08-15T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Agriculture",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-12-03T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-12-03T05:00:00.000Z",
-            "Authorizing_Agency": "Corporation for National & Community Service (CNCS)",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/cncs_1.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Zscaler",
         "Cloud_Service_Provider_Package": "Zscaler Internet Access – Government (Secure Web Gateway – vTIC)",
         "Path": "Agency",
@@ -4969,6 +4947,15 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Institute of Standards and Technology",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-06-24T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-07-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-07-01T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Health Resources and Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -7921,7 +7908,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Google%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "https://cloud.google.com",
-        "CSO_Description": "Google Services is comprised of Google’s multi-tenant public cloud Google Cloud Platform and built atop the Google Common Infrastructure. The Google Common Infrastructure powers Google worldwide.\n\nThe in-scope Google Cloud Platform services Authorized at High are: Admin Console (including Admin SDK, Directory Sync), App Engine, BigQuery, Cloud Bigtable, Cloud DNS, Cloud HSM, Cloud Identity, Cloud Key Management Service, Cloud Spanner, Cloud SQL, Cloud Storage, Compute Engine, Container Registry, Dataflow, Dataproc, Firestore, Google Kubernetes Engine, Identity & Access Management (IAM), Memorystore, Persistent Disk, Pub/Sub, Virtual Private Cloud (VPC).\n\nThe in-scope Google Cloud Platform services Authorized at Moderate are: Access Context Manager, Access Transparency, AI Platform Training and Prediction (formerly Cloud Machine Learning Engine), Apigee, AutoML Natural Language, AutoML Tables, AutoML Translation, AutoML Video, AutoML Vision, BigQuery, Care Studio, Cloud Billing, Cloud Build, Cloud CDN, Cloud Composer, Cloud Console (including BeyondCorp Enterprise formerly Context Aware Access), Cloud Console App, Cloud Data Fusion, Cloud Data Loss Prevention, Cloud Debugger (formerly Stackdriver Debugger), Cloud Deployment Manager, Cloud Endpoints, Cloud Filestore, Cloud Functions, Cloud Healthcare, Cloud Interconnect, Cloud Life Sciences (formerly Google Genomics), Cloud Load Balancing, Cloud Logging (formerly Stackdriver Logging; includes Error Reporting), Cloud NAT (Network Address Translation), Cloud Natural Language API, Cloud Monitoring, Cloud Profiler (formerly Stackdriver Profiler), Cloud Router, Cloud Run (fully managed), Cloud SDK, Cloud Shell, Cloud Source Repositories, Cloud Trace (formerly Stackdriver Trace) , Cloud Translation, Cloud Vision, Cloud VPN, Data Catalog, Datalab, Datastore, Data Transfer Service, Dialogflow, GCP Marketplace, Google Cloud Armor, Google Cloud Identity-Aware Proxy, Identity Platform, IoT Core, Network Service Tiers, Resource Manager API, Security Command Center – Web Security Scanner (formerly Cloud Security Scanner), Service Infrastructure (formerly Service Control; includes Service Management API and Service Consumer Management API), Speech-to-Text , Storage Transfer Service, Talent Solution, Text-to-Speech, Vertex AI Workbench (formerly AI Platform Notebooks), Video Intelligence API, VPC Service Controls.",
+        "CSO_Description": "Google Services is comprised of Google’s multi-tenant public cloud Google Cloud Platform and built atop the Google Common Infrastructure. The Google Common Infrastructure powers Google worldwide.\n\nThe in-scope Google Cloud Platform services Authorized at High are: Admin Console (including Admin SDK, Directory Sync), App Engine, BigQuery, Cloud Bigtable, Cloud DNS, Cloud HSM, Cloud Identity, Cloud Key Management Service, Cloud Spanner, Cloud SQL, Cloud Storage, Compute Engine, Container Registry, Dataflow, Dataproc, Firestore, Google Kubernetes Engine, Identity & Access Management (IAM), Memorystore, Persistent Disk, Pub/Sub, Virtual Private Cloud (VPC).\n\nThe in-scope Google Cloud Platform services Authorized at Moderate are: Access Context Manager, Access Transparency, AI Platform Training and Prediction (formerly Cloud Machine Learning Engine), Anthos Config Management (ACM), Anthos Service Mesh, Apigee X, Assured Workloads, AutoML Natural Language, AutoML Tables, AutoML Translation, AutoML Video, AutoML Vision, BigQuery, Binary Authorization, Care Studio, Certificate Authority Service, Cloud Billing, Cloud Build, Cloud CDN, Cloud Composer, Cloud Console (including BeyondCorp Enterprise formerly Context Aware Access), Cloud Console App, Cloud Data Fusion, Cloud Data Loss Prevention, Cloud Debugger (formerly Stackdriver Debugger), Cloud Deployment Manager, Cloud Endpoints, Cloud External Key Manager (Cloud EKM), Cloud Filestore, Cloud Functions, Cloud Healthcare, Cloud Interconnect, Cloud Life Sciences (formerly Google Genomics), Cloud Load Balancing, Cloud Logging (formerly Stackdriver Logging; includes Error Reporting), Cloud NAT (Network Address Translation), Cloud Natural Language API, Cloud Monitoring, Cloud Profiler (formerly Stackdriver Profiler), Cloud Router, Cloud Run (fully managed), Cloud Run for Anthos, Cloud SDK, Cloud Scheduler, Cloud Shell, Cloud Source Repositories, Cloud Tasks, Cloud Trace (formerly Stackdriver Trace) , Cloud Translation, Cloud Vision, Cloud VPN, Connect, Data Catalog, Datalab, Datastore, Data Transfer Service, Dialogflow, Document AI, Game Servers, GCP Marketplace, Google Cloud Armor, Google Cloud Identity-Aware Proxy, Identity Platform, IoT Core, Network Service Tiers, Resource Manager API, Secret Manager, Security Command Center – Web Security Scanner (formerly Cloud Security Scanner), Service Directory, Service Infrastructure (formerly Service Control; includes Service Management API and Service Consumer Management API), Speech-to-Text , Storage Transfer Service, Talent Solution, Text-to-Speech, Vertex AI Workbench (formerly AI Platform Notebooks), Video Intelligence API, VPC Service Controls.",
         "Announcement_Date": "2019-12-04T05:00:00.000Z",
         "CSP_POC_Name": "Google FedRAMP Team",
         "CSP_POC_Email": "fedramp@google.com",
@@ -10145,6 +10132,7 @@
           {
             "Authorizing_Letter_Last_Sign_Date": "2022-02-10T05:00:00.000Z",
             "Authorizing_Agency": "Tennessee Valley Authority",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-TennesseeValleyAuthority-Logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -10636,6 +10624,15 @@
             "Authorizing_Subagency": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-05-08T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-05-08T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-05-08T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Health Resources and Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -11011,6 +11008,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-11-09T05:00:00.000Z",
             "Authorizing_Agency": "Federal Communications Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-01-24T05:00:00.000Z",
+            "Letter_Expiration_Date": "2023-01-31T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-01-24T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Department of the Navy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -11622,13 +11628,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2019-02-27T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Food and Drug Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-05-07T04:00:00.000Z",
             "Letter_Expiration_Date": "2022-05-09T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-05-07T04:00:00.000Z",
@@ -11954,6 +11953,24 @@
             "Authorizing_Subagency": "Federal Highway Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-12-14T05:00:00.000Z",
+            "Letter_Expiration_Date": "2024-12-23T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-12-23T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Health Resources and Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-02-15T05:00:00.000Z",
+            "Letter_Expiration_Date": "2025-02-24T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-02-24T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -12174,7 +12191,7 @@
           "FR1719759604"
         ],
         "CSP_Website": "https://www.sumologic.com/public-sector/",
-        "CSO_Description": "Sumo Logic provides a cloud-based log management and machine data analytics service that uses an elastic infrastructure for ingesting, managing, and analyzing large volumes of audit log data from any application, cloud, server, network device or sensors. Sumo Logic is also used as a security incident and event management (SIEM) tool by organizations supplying customized real-time dashboards and automated alerting.",
+        "CSO_Description": "Sumo Logic is the Cloud-Native SaaS log analytics Platform enabling application reliability; securing and protecting against modern threats, gaining insights into cloud infrastructures, and comprehensive visibility across your threatscape. \n\r\nSumo Logic provides the following solutions within the FedRAMP-Moderate product offering:\r\n\n* **Cloud Security Monitoring & Analytics -** Sumo Logic supports the entire spectrum of security use cases—from centrally logging compliance data, to monitoring and securing hybrid clouds, to delivering market-leading Security Incident & Event Management (SIEM) capabilities.\r\n* **Application Modernization and Observability -** Reduce downtime by finding, investigating, and resolving customer-impacting issues faster with real-time alerting and dashboards for all data - logs, metrics, and traces.\r\n* **Infrastructure Monitoring -** On-call teams can reduce mean-time-to-resolution (MTTR) by simplifying the work required to validate issues, identify suspects, and quickly remediate. Reduce downtime and solve customer-impacting issues faster with an integrated observability platform for all application data.\r\n* **Compliance Monitoring -** Security and configuration analytics provide the data monitoring, dashboards, analyses, and reporting capabilities necessary to achieve rapid, cost-effective continuous compliance readiness for many industry leading cybersecurity frameworks and programs - NIST 800-53, FISMA, FedRAMP, PCI, SOC2, ISO, HIPAA and more.\r\n* **Multi-cloud support -** Unify and monitor logs, metrics, and traces from multi-cloud or hybrid cloud environments. Sumo Logic enables real-time visibility into AWS, Azure, and GCP cloud applications and infrastructure. Moreover, 150 apps and native integrations give out-of-the-box visibility into the technologies that power your applications.\r\n* **Service Maps -** The Sumo Logic service visualizes all service dependencies to give you insights into end-to-end execution of your mission critical transactions with open standard compatible distributed tracing data. Application and service dashboards break down latency, load, and errors to identify services contributing to application slowdowns\r\n* **Advanced Alert Analytics -** Advanced analytics are applied across a unified repository of telemetry data to surface noteworthy insights that guide on-call teams to the root cause.",
         "Announcement_Date": "2021-01-29T05:00:00.000Z",
         "CSP_POC_Name": "Sumo Logic Federal Compliance Team",
         "CSP_POC_Email": "compliance@sumologic.com",
@@ -12505,7 +12522,14 @@
         "CSP_POC_Name": "Michael Fledderjohann",
         "CSP_POC_Email": "fedramp@authentic8.com",
         "FedRAMP_In-Process_Date": "2020-11-12T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2022-02-09T05:00:00.000Z",
+            "Authorizing_Agency": "United States Securities and Exchange Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/SEC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "The Coleridge Initiative, Inc.",
@@ -14376,6 +14400,15 @@
             "Include_In_Marketplace": "Y"
           },
           {
+            "Letter_Date": "2020-05-06T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-05-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-05-29T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Health Resources and Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
             "Letter_Date": "2021-12-08T05:00:00.000Z",
             "Letter_Expiration_Date": "2024-12-08T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-12-07T05:00:00.000Z",
@@ -15287,6 +15320,15 @@
             "Authorizing_Subagency": "United States Census Bureau",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-11-23T05:00:00.000Z",
+            "Letter_Expiration_Date": "2024-11-23T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-11-26T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Authorizing_Subagency": "Federal Student Aid",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -15883,6 +15925,47 @@
             "Authorizing_Agency": "Department of Energy",
             "Authorizing_Subagency": "DOE Office of the General Counsel",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Proofpoint, Inc.",
+        "Cloud_Service_Provider_Package": "Proofpoint Email Archive",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1304222071",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-07-22T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Transportation",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
+        "Authorizing_Agency": "Department of Transportation",
+        "Authorizing_Subagency": "Federal Aviation Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Proofpoint%20Logo.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "CSP_Website": "www.proofpoint.com",
+        "CSO_Description": "The Federal Production Environment provides a complete message archiving solution that can protect an organization from legal liabilities and regulatory risks while improving email storage management and end-user productivity. Its web interface offers fully secure email archiving with robust search and discovery, supervision, and enforcement features. The solution securely stores electronic messages for a specified retention period, while keeping the messages fully searchable and retrievable in real-time or with a batch process. This allows archived messages to be easily viewed, retrieved to a user’s email inbox or exported to an Outlook data file.\nThe Archiving Customer Premise Equipment (CPE) is software-based, a hardware-based version is also available, and is installed within the Microsoft Office 365 ITAR environment behind the firewall to provide the tight integration and security typically only afforded to internal systems. The CPE integrates with Microsoft Exchange to ensure reliable, native format message archiving. Its integration with Active Directory facilitates unified login and access control management. Since the CPE is the only holder of the encryption keys used with *Proofpoint’s DoubleBlind™ Encryption* technology, any processing that involves encryption or decryption happens on the CPE.\n*Proofpoint’s DoubleBlind™ Encryption* technology guarantees the security of data, ensuring that no one outside the organization can access archived data. When a message reaches the CPE, it is encrypted before being sent outside the Microsoft Office 365 ITAR firewall over a secure connection to the Proofpoint Federal Production Environment. Messages are only decrypted when an authorized user on the customer network conducts a search from Outlook or from the CPE’s web-based user interface. Data can never be viewed without access to both the archiving CPE within the Microsoft Office 365 ITAR environment and the Proofpoint Federal Production Environment.",
+        "Announcement_Date": "2016-11-23T05:00:00.000Z",
+        "CSP_POC_Name": "Information System Security Manager",
+        "CSP_POC_Email": "fedramp@proofpoint.com",
+        "FedRAMP_In-Process_Date": "2015-12-04T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2017-07-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-08-15T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2018-12-03T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-12-03T05:00:00.000Z",
+            "Authorizing_Agency": "Corporation for National & Community Service (CNCS)",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/cncs_1.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -17129,6 +17212,29 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Copado",
+        "Cloud_Service_Provider_Package": "Copado GovCloud",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2200507410",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Copado%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "https://www.copado.com/solutions/solutions-by-industry/public-sector/",
+        "CSO_Description": "Copado GovCloud is a cloud DevOps platform designed to make Salesforce releases faster, more efficient, and scalable across hundreds of production and sandbox instances. Copado GovCloud integrates with all major Git solutions and ensures developers, administrators, and low-code Salesforce users can all commit changes to a central Git repository or seamlessly deploy from a QA environment to production. Copado is used by small organizations and large enterprises across a wide range of industries to accelerate time to market for Salesforce applications, enhance developer efficiency, increase security visibility, improve Salesforce testing capabilities and enable digital cloud transformations. The services in scope for Copado GovCloud are:\n\n* Deploying Salesforce metadata to production and sandbox instances, with Git integration for version control and branch management. \n* Change management including agile development processes, quality gates, and code scanning. \n* Continuous deployment and continuous integration, including visual pipeline configuration.\n* Compliance rules for Salesforce metadata, including rule creation, monitoring, and enforcement of policies across user stories, Git snapshots, and deployments. \n* Test data seeding across sandboxes ensuring accurate quality assurance prior to production deployments. ",
+        "CSP_POC_Name": "Meg LaVelle",
+        "CSP_POC_Email": "fedramp@copado.com",
+        "FedRAMP_In-Process_Date": "2022-02-23T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Cority Software Inc.",
         "Cloud_Service_Provider_Package": "Cority Trusted Environmental, Health, Safety and Quality Management (EHSQ) Software",
         "Path": "Agency",
@@ -17174,6 +17280,25 @@
         "CSP_POC_Email": "sales@coupa.com  ",
         "Fedramp_Ready_Date": "2020-10-22T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2021-09-14T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "CyLogic",
+        "Cloud_Service_Provider_Package": "CyCloud for VMware Cloud Foundation 4 (VCF4)",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2108731521",
+        "Service_Model": [
+          "IaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CyLogic%20Logo.png",
+        "Independent_Assessor": "Fortreum, LLC",
+        "CSP_Website": "https://CyLogic.com",
+        "CSO_Description": "CyLogic’s CyCloud is a VMware-based, Secure Enterprise Cloud offering designed from the ground up to deliver VMware Cloud Foundation’s next-generation Software Defined Data Center capabilities in compliance with FedRAMP High requirements.  As recognized by the FedRAMP Program Management Office (PMO), CyCloud is a “closed system” and does not inherit external services. CyCloud allows full control and operational insight to U.S. Federal Agencies.  CyLogic delivers the ease-of-use and economies-of-scale of a public cloud combined with the dedicated resources and customer control of a private cloud deployment to deliver a new highly compliant model for government organizations.\n\nIncorporating the latest version of VMware Cloud Foundation 4 (VCF4), CyCloud merges compliant automated deployment capabilities with CyLogic’s Software-Defined Cybersecurity framework.\n\nCyCloud is a dedicated air-gapped infrastructure designed for Government Agencies, that delivers next generation virtual machine, orchestration, and cybersecurity capabilities including a dedicated Government-only Management Console.  CyCloud is a closed system that does not utilize any external services, providing complete control across all layers of the cloud stack. CyCloud provides isolated network, data, storage, virtual machines, Federally Compliant Identity and Access Management (IdAM), dedicated management portal, and FIPS 140-2 Validated cryptographic modules for data-in-transit and data-at-rest.\n\nCyCloud is supported and monitored via CyLogic-controlled Operations Centers in two locations including an Operations Center and COOP DR site located over 200 feet underground. CyCloud is 100% deployed in the Continental United States and supported by 100% U.S. Citizen Access located CONUS.\n\nAs a Federal Small Business, CyLogic delivers Cloud Infrastructure as it was meant to be – with native security, compliance, performance, control, ease-of-use, continuous monitoring, predictable pricing, and zero lock-in.  Using a unique implementation of VMware Cloud Foundation (VCF) 4, CyLogic delivers full control and operational insight to its customers.  Additional information is available at [http://CyLogic.com](http://CyLogic.com).\n",
+        "CSP_POC_Name": "Christopher Grady",
+        "CSP_POC_Email": "fedramp@cylogic.com",
+        "Fedramp_Ready_Date": "2022-02-23T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -17351,25 +17476,6 @@
         "CSP_POC_Email": "e-builderfedramp@trimble.com",
         "Fedramp_Ready_Date": "2019-05-08T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2021-10-20T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Egnyte Inc.",
-        "Cloud_Service_Provider_Package": "Egnyte Platform",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR2024952734",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Egnyte%20Logo.png",
-        "Independent_Assessor": "NCC Group Security Services, Inc.",
-        "CSP_Website": "https://www.egnyte.com",
-        "CSO_Description": "The Egnyte platform provides a unified cloud content governance platform for collaboration, data security, compliance, and threat prevention. Unified across devices, apps and repositories, and powered by a combination of human and machine-generated metadata, Egnyte enables companies to gain 360-degree insight into their content, make smarter decisions, and respond to risks and opportunities across a wide variety of use cases. More than 16,000 organizations trust Egnyte to reduce risks and IT complexity, prevent ransomware, protect business-critical data and boost employee productivity on any app, any cloud, anywhere.",
-        "CSP_POC_Name": "Kris Lahiri",
-        "CSP_POC_Email": "fedramp@egnyte.com",
-        "Fedramp_Ready_Date": "2020-11-18T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -19542,7 +19648,7 @@
         "Accreditation_Date": "2015-12-15T05:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/RSM%20Logo.jpg",
         "Description": "RSM provides comprehensive FedRAMP 3PAO services and support for both federal government and commercial organizations. We leverage our extensive knowledge and experience with regulations to help you address any issues and develop a road map for your organization’s FedRAMP success. \nAttaining FedRAMP approval requires a potentially substantial investment of internal resources. Therefore, we begin with a preliminary gap analysis, providing your decision-makers with a clear picture of program costs, timelines, and internal resource demands to make an informed decision about whether to pursue FedRAMP operational authority. As an accredited 3PAO, our professionals provide assessment support services, including assessment planning, assessment and package testing (audit) and submission of the final assessment to the FedRAMP Program Management Office (PMO). In addition, our security analysts help educate your stakeholders about final assessment requirements, timelines and likely Authority to Operate (ATO) sponsor expectations (if applicable).\n",
-        "POC_Name": "Daimon Geopfert",
+        "POC_Name": "Charles Barley Jr.",
         "POC_Email": "fedramp@rsmus.com",
         "website": "www.rsmus.com",
         "Remediation": "N",
@@ -19552,7 +19658,7 @@
         "Provide_Consulting_Services": "Y",
         "Description_of_Consulting_Services": "If FedRAMP is the right choice for your organization, we offer several advisory services to help shape your program, including: \n* Development of specific required documents\n* Full security authorization package development, with documentation review, security architecture review and implementation\n* Effectiveness testing of your organizations’ vulnerability management program\n* Vulnerability remediation support\n* Implementation of security controls to satisfy FedRAMP requirements \n\nIf you need additional assistance, we also offer full support for your FedRAMP program, including: \n* FIPS 199 and Control Implementation Summary development\n* Design and development of system security, contingency, incident response and configuration management plans, as well as the privacy impact assessment, eAuthentication workbook, user guide, rules of behavior, and policies and procedures\n* Ongoing support during 3PAO assessment\n* Vulnerability scanning, penetration testing and security hardening\n",
         "Consulting_Services_To": "None",
-        "Additional_Cyber_Frameworks": "* PCI (QSAC and PA-QSAC)\n* SOC (SOC 1, SOC 2, and SOC 3)\n* HITRUST CSF"
+        "Additional_Cyber_Frameworks": "* CCPA\n* CJIS\n* CMMC 1.0 / 2.0\n* GDPR\n* FISMA / RMF\n* HIPAA / HITECH\n* HITRUST\n* ISO27001 / 701\n* ISO27017 / 18\n* MARS-E\n* NIST 800-171 (DFARS)\n* NIST CSF\n* PCI DSS\n* PCI PA-DSS\n* PCI P2PE\n* PCI PA-P2PE\n* SSAE 16 SOC1/2\""
       },
       {
         "Name": "Securisea, Inc.",
