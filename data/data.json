@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-02-25T05:40:52.055Z",
+    "Created_At": "2022-02-26T05:40:50.664Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1825,15 +1825,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2021-02-05T05:00:00.000Z",
-            "Letter_Expiration_Date": "2022-02-04T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-02-05T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Human Resource Activity",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2021-07-22T04:00:00.000Z",
             "Letter_Expiration_Date": "2022-07-22T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-07-23T04:00:00.000Z",
@@ -1886,6 +1877,15 @@
             "Letter_Date": "2021-12-02T05:00:00.000Z",
             "Authorizing_Agency": "Department of State",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-01-20T05:00:00.000Z",
+            "Letter_Expiration_Date": "2025-01-20T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-01-20T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Human Resource Activity",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -4181,9 +4181,7 @@
         "Independent_Assessor": "Schellman Compliance, LLC",
         "Underlying_CSP_Package_ID": [
           "F1603047866",
-          "F1512167750",
-          "F1508207205",
-          "FR1719759604"
+          "F1603087869"
         ],
         "CSP_Website": "www.zscaler.com",
         "CSO_Description": "Zscaler Internet Access delivers your security stack as a service from the cloud, eliminating the cost and complexity of traditional secure web gateway approaches. By moving security to a globally distributed cloud, Zscaler brings the Internet gateway closer to the user for a faster experience. Organizations can easily scale protection to all offices or users, regardless of location, and minimize network and appliance infrastructure.\n**The Cloud and Mobility Have Broken Perimeter Security**\nThe data center used to be the center of gravity. When applications resided there, it made sense to backhaul traffic from branch offices over a hub-and-spoke network. As traffic patterns shifted to the Internet, gateways were built with stacks of security appliances to allow secure Internet access. These gateways were also centralized to minimize the cost and complexity of securing multiple locations.\nHowever, as applications have moved to the cloud, the center of gravity has moved with it. User traffic often goes straight to the cloud, bypassing the security perimeter. Additionally, today’s complex threats have triggered an explosion of new security appliances, all finding their way into your overworked gateway. Administrators are in a constant battle to keep up with required security updates for their appliances. The complexity of deploying and managing all these appliances — and their associated costs — are out of control. Furthermore, it’s all associated with what is now an outdated architecture.\n**Zscaler Internet Access**\nZscaler Internet Access is a secure Internet and web gateway delivered as a service from the cloud. Think of it as a secure Internet onramp — all you do is make Zscaler your next hop to the Internet. For offices, simply set up a router tunnel (GRE or IPsec) to the closest Zscaler data center. For mobile employees, you can forward traffic via our lightweight Zscaler App or PAC file. No matter where users connect — a coffee shop in Milan, a hotel in Hong Kong, or the office — they get identical protection.\nZscaler Internet Access sits between your users and the Internet, inspecting every byte of traffic inline across multiple security techniques, even within SSL. You get full protection from web and Internet threats. And with a cloud platform that supports Cloud Sandboxing, Next-Generation Firewall, Data Loss Prevention (DLP), and Cloud Application Visibility and Control, you can start with the services you need today and activate others as your needs grow.\nAll these capabilities are delivered from the Zscaler Cloud Security Platform, the world’s largest security cloud, which processes more than 30 billion requests a day. With over 100 patents, the Zscaler platform has been architected from the ground up as a truly distributed, multi-tenant cloud with enterprise performance and scale.",
@@ -15865,7 +15863,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
         "Authorizing_Agency": "Department of Veterans Affairs",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Palo%20Alto%20Logo.png",
-        "Independent_Assessor": "Kratos",
+        "Independent_Assessor": "Fortreum, LLC",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW",
           "F1206081364",
@@ -17614,6 +17612,29 @@
       },
       {
         "Cloud_Service_Provider_Name": "IBM",
+        "Cloud_Service_Provider_Package": "IBM QRadar on Cloud",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2205342859",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/IBM%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://www.ibm.com/products/hosted-security-intelligence",
+        "CSO_Description": "The IBM QRadar on Cloud offering delivers an advanced security intelligence solution based on the IBM Security QRadar SIEM product. It allows Clients to collect, correlate, and store events generated from both on premise and cloud environments and perform security and threat management As part of the offering, IBM also provides infrastructure monitoring on a 24x7 basis and applies the latest software level or critical patches whenever they are available.",
+        "CSP_POC_Name": "Christopher Collard",
+        "CSP_POC_Email": "QRadarFederalCloud@ibm.com",
+        "FedRAMP_In-Process_Date": "2022-02-22T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "IBM",
         "Cloud_Service_Provider_Package": "IBM Security Verify (ISV)",
         "Designation": "FedRAMP Ready",
         "Package_ID": "FR2106256292",
@@ -17653,6 +17674,25 @@
         "CSP_POC_Name": "Heath Crocker",
         "CSP_POC_Email": "fedramp@ibossgov.com",
         "FedRAMP_In-Process_Date": "2021-08-10T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Icertis Inc.",
+        "Cloud_Service_Provider_Package": "Icertis Contract Management (ICM) for Government",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2022963780",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Icertis%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "https://www.icertis.com/contract-management/solutions/industry/federal/ ",
+        "CSO_Description": "Icertis, the leading enterprise Contract Lifecycle Management (CLM) platform in the cloud, enables government agencies and contractors alike to transform contracts into strategic assets in order to increase productivity, protect against risk and ensure proactive regulatory and policy compliance. The AI-infused Icertis Contract Management (ICM) platform is a Software-as-a-Service (SaaS) solution deployed on dedicated Microsoft Azure Government infrastructure that provides federal clients with these powerful capabilities:\n\n* Support for all contract types, agreement relationships and flow-up/flow-down of terms across the full contract lifecycle, from RFx/proposal to closeout.\n* Standardized integrations with most major ERP, CRM, procurement, electronic signature and identity management applications to enable a seamless flow of data into and out of the CLM system during both standard run-of-business and audits.\n* Advanced document association intelligence and enhanced visibility for automated obligations and compliance with FAR/DFARS, Cost Accounting Standards (CAS), and other regulatory/compliance mandates.\n* Centralized clause and template library control to quickly and efficiently update contract language and approval rules based on changing government requirements.\n\nToday, the [analyst-validated](https://www.icertis.com/resources/analyst-reports) ICM platform is used by innovative organizations like Airbus, Cognizant, Chemonics, Daimler, Johnson & Johnson, Microsoft and Saltchuk across 90+ countries to manage 10+ million contracts in 40+ languages.\"",
+        "CSP_POC_Name": "Preston Mathis",
+        "CSP_POC_Email": "fedramp@icertis.com",
+        "Fedramp_Ready_Date": "2022-02-23T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -17932,6 +17972,25 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Mandiant, Inc.",
+        "Cloud_Service_Provider_Package": "Mandiant Advantage Services (MAS)",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2121656025",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Mandiant%20Logo.png",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "CSP_Website": "https://www.mandiant.com/advantage/automated-defense",
+        "CSO_Description": "Mandiant Advantage Services (MAS) is an artificial intelligence (AI) security event triage system. Utilizing a combination of relevant threat intelligence from multiple sources and Mandiant’s proprietary intelligent decision engine, MAS evaluates broad security sensor data sources (e.g., endpoint, network, cloud security tools, and vulnerability management solutions) in real time to produce contextual, actionable incident escalations. MAS information system components are fully hosted on the FedRAMP-authorized Amazon Web Services (AWS) GovCloud IaaS. End-users access MAS utilizing their web browser.",
+        "CSP_POC_Name": "Ryan Black",
+        "CSP_POC_Email": "fedramp@mandiant.com",
+        "Fedramp_Ready_Date": "2022-02-23T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Manhattan Associates, Inc.",
         "Cloud_Service_Provider_Package": "Manhattan Government Cloud",
         "Path": "Agency",
@@ -18207,7 +18266,7 @@
         "Authorizing_Agency": "Department of Justice",
         "Authorizing_Subagency": "Executive Office for United States Attorneys",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Okta%20Logo.png",
-        "Independent_Assessor": "Schellman Compliance, LLC",
+        "Independent_Assessor": "Fortreum, LLC",
         "CSP_Website": "okta.com/federal",
         "CSO_Description": "Okta IDaaS Government High Cloud (GHC) service offering provides centralized identity and access management capabilities to customers who want to manage access across any application or device, whether they are on-premise in the customer’s office/data center or in the cloud. Okta IDaaS GHC service provides several important capabilities, including:\n\r\n* Okta Identity Engine (OIE)\r\n* Okta Access Gateway (OAG)\r\n* Okta Multi-factor authentication (MFA)\r\n* Okta Adaptive MFA (AMFA)\r\n* Okta Single Sign-On (SSO)\r\n* Okta Verify\r\n* Okta API Integration",
         "CSP_POC_Name": "San Buonassisi",
