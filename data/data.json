@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-02-28T05:40:50.756Z",
+    "Created_At": "2022-03-01T05:40:50.659Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -12419,7 +12419,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Hootsuite%20Logo.png",
         "Independent_Assessor": "Department of the Interior",
         "Underlying_CSP_Package_ID": [
-          "F1603047866"
+          "AGENCYAMAZONEW"
         ],
         "CSP_Website": "https://hootsuite.com/industries/government",
         "CSO_Description": "Hootsuite is an enterprise social media management platform used by governments and agencies to engage with citizens, manage crisis communications, and deliver services and\r\ninformation via social media. By managing all social media activity through a single, secure platform, agencies with large and distributed teams can engage directly with citizens across\r\npublic and private social channels without compromising control over messaging and access.Hootsuite’s real-time social listening capabilities, integrations with compliance partners, and\r\necosystem of more than 200 connected applications help agencies monitor and measure public sentiment, stay compliant with FOIA and other public records laws, and integrate social media across their organization.\r",
@@ -13197,7 +13197,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
         "Authorizing_Agency": "Department of Veterans Affairs",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Amplifire%20Logo.png",
-        "Independent_Assessor": "Department of Veterans Affairs",
+        "Independent_Assessor": "Lunarline, Inc.",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW"
         ],
@@ -16930,6 +16930,28 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Axon",
+        "Cloud_Service_Provider_Package": "US Axon FedCloud - High",
+        "Path": "JAB",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR1703752011A",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Axon%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.axon.com",
+        "CSO_Description": "US Axon FedCloud enables cloud-based workflows for digital evidence management, situational awareness, and records management to support the operational needs of agencies. The system operates as an isolated region of Axon Cloud Services that is dedicated to the US Federal community. US Axon FedCloud offerings include Axon Evidence, Axon Respond, and Axon Records while also acting as the core control center over Axon devices and client applications. These devices and client applications include in-car camera systems, body-worn cameras, TASER devices, Axon Interview Room, and Axon Upload XT.\r\n\r\nAxon Evidence acts as a central repository for customers' digital evidence and a central management console for Axon products and devices. With expansive ingest, smooth playback, and intuitive search, Axon Evidence makes it simple to connect and manage growing stores of data—video, photos, documents and more—in a single, secure system.\r\n\r\nAxon Respond is a real-time operations platform which integrates real-time situational awareness and unified communications within a modern incident management solution. Gathering data from sensors in the field, agencies are empowered to know when events occur before it's voiced through traditional contact methods and rapidly coordinate responses with a unified communications platform.\r\n\r\nAxon Records harnesses the power of automation to save countless hours in the report writing, submission, and review process, helping agencies get more efficiency by breaking down data silos. With direct access to body-worn camera, in-car and citizen-captured video footage, documents, images, and more, reports can be created faster. Critical evidence can be easily shared to remove the wall between digital evidence and reports.",
+        "CSP_POC_Name": "Gregory Hewes",
+        "CSP_POC_Email": "infosec@axon.com",
+        "Fedramp_Ready_Date": "2022-02-24T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Bamboo Health, Inc.",
         "Cloud_Service_Provider_Package": "PMP Government-Gateway",
         "Path": "Agency",
@@ -17273,7 +17295,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Coupa%20Logo.png",
         "Independent_Assessor": "Schellman Compliance, LLC",
         "CSP_Website": "www.coupa.com",
-        "CSO_Description": "Coupa Spend Management for Federal is the industry's leading cloud and mobile platform for managing procurement/acquisition/contract related processes. It covers the end-to-end process, including supplier identification, sourcing, contracting, procurement against contracts, invoicing, payments, and spend analytics to ensure compliance and efficiency.\n\nKey capabilities include:\r\n\r\n* Consumer-grade end user and supplier experience to ensure broad adoption of the platform and maximize the value of each dollar spent   \r\n* Proven, secure solution that offers extensive configuration options, avoiding the need for custom code that is expensive to write and maintain\r\n* Full auditability for FAR/DFARS processes,  including related contract documents and communications across internal agency team members and external vendors  \r\n* Reduction in manual and paper-based processes using the latest in Artificial Intelligence (AI), Machine Learning (ML), and Image Recognition.\r\n* Support for compliance with Cost Accounting Standards (CAS) and other regulatory and/or compliance mandates.",
+        "CSO_Description": "Coupa Spend Management for Federal is a cloud and mobile platform for managing procurement/acquisition/contract related processes. It covers the end-to-end process, including supplier identification, sourcing, contracting, procurement against contracts, invoicing, payments, and spend analytics to ensure compliance and efficiency.\n\nKey capabilities include:\n\n* Consumer-grade end user and supplier experience to ensure broad adoption of the platform and maximize the value of each dollar spent   \n* Proven, secure solution that offers extensive configuration options, avoiding the need for custom code that is expensive to write and maintain\n* Full auditability for FAR/DFARS processes,  including related contract documents and communications across internal agency team members and external vendors  \n* Reduction in manual and paper-based processes using the latest in Artificial Intelligence (AI), Machine Learning (ML), and Image Recognition.\n* Support for compliance with Cost Accounting Standards (CAS) and other regulatory and/or compliance mandates.",
         "CSP_POC_Name": "Andy Malay",
         "CSP_POC_Email": "sales@coupa.com  ",
         "Fedramp_Ready_Date": "2020-10-22T04:00:00.000Z",
@@ -17689,7 +17711,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Icertis%20Logo.png",
         "Independent_Assessor": "Kratos",
         "CSP_Website": "https://www.icertis.com/contract-management/solutions/industry/federal/ ",
-        "CSO_Description": "Icertis enables government agencies and contractors alike to transform contracts into strategic assets in order to increase productivity, protect against risk and ensure proactive regulatory and policy compliance. The AI-infused Icertis Contract Intelligence (ICI) for Government platform is a Software-as-a-Service (SaaS) solution deployed on dedicated Microsoft Azure Government infrastructure that provides federal clients with these powerful capabilities:\n\n* Support for all contract types, agreement relationships and flow-up/flow-down of terms across the full contract lifecycle, from RFx/proposal to closeout.\n* Standardized integrations with most major ERP, CRM, procurement, electronic signature and identity management applications to enable a seamless flow of data into and out of the CLM system during both standard run-of-business and audits.\n* Advanced document association intelligence and enhanced visibility for automated obligations and compliance with FAR/DFARS, Cost Accounting Standards (CAS), and other regulatory/compliance mandates.\n* Centralized clause and template library control to quickly and efficiently update contract language and approval rules based on changing government requirements.",
+        "CSO_Description": "Icertis Contract Intelligence (ICI) for Government is a Contract Lifecycle Management (CLM) platform in the cloud. ICI enables government agencies and contractors alike to transform contracts into strategic assets in order to increase productivity, protect against risk and ensure proactive regulatory and policy compliance. The AI-infused Icertis Contract Intelligence (ICI) for Government platform is a Software-as-a-Service (SaaS) solution deployed on dedicated Microsoft Azure Government infrastructure that provides federal clients with these powerful capabilities:\n\n* Support for all contract types, agreement relationships and flow-up/flow-down of terms across the full contract lifecycle, from RFx/proposal to closeout.\n* Standardized integrations with most major ERP, CRM, procurement, electronic signature and identity management applications to enable a seamless flow of data into and out of the CLM system during both standard run-of-business and audits.\n* Advanced document association intelligence and enhanced visibility for automated obligations and compliance with FAR/DFARS, Cost Accounting Standards (CAS), and other regulatory/compliance mandates.\n* Centralized clause and template library control to quickly and efficiently update contract language and approval rules based on changing government requirements.",
         "CSP_POC_Name": "Preston Mathis",
         "CSP_POC_Email": "fedramp@icertis.com",
         "Fedramp_Ready_Date": "2022-02-23T05:00:00.000Z",
@@ -18565,6 +18587,25 @@
         "CSP_POC_Name": "Qlik FedRAMP Team",
         "CSP_POC_Email": "fedramp@qlik.com",
         "FedRAMP_In-Process_Date": "2021-08-31T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Quzara, LLC.",
+        "Cloud_Service_Provider_Package": "Quzara Cybertorch™ (Soc-as-a-Service)",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2214150164",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Quzara%20Logo.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "CSP_Website": "https://www.cybertorch.com/",
+        "CSO_Description": "Quzara Cybertorch™ for Government is a Managed Detection and Response (MDR) and Security Operations Center as a Service (SOCaaS) Platform offering security monitoring and vulnerability management services.  Quzara’s cloud-native Security architecture separates customer log collection and threat event remediation for the customer and their environments. Quzara Analysts perform Incident response, threat hunting, and report triaged events and incidents to customers in a secure manner to their environment. Customers then remediate threats identified within their environment following SOCaaS notification and response alerts. \r\n\r\nQuzara Cybertorch™ for Government is supported by a cloud computing architecture that is delivered from Azure Government.  Customers must identify and configure sensors, data sources, monitoring tenants (e.g. Azure), and Tenable agents as part of customer responsibilities to fully utilize Quzara Cybertorch’s capabilities.",
+        "CSP_POC_Name": "AJ Malik",
+        "CSP_POC_Email": "Cybertorch@quzara.com",
+        "Fedramp_Ready_Date": "2022-02-24T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
