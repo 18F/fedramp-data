@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-03-02T05:40:50.349Z",
+    "Created_At": "2022-03-03T05:40:50.543Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -6100,15 +6100,6 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-03-22T04:00:00.000Z",
             "Authorizing_Agency": "Council of the Inspectors General on Integrity and Efficiency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CIGIE%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-06-30T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-10-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-06-29T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Authorizing_Subagency": "Bureau of Land Management",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -12407,36 +12398,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Hootsuite",
-        "Cloud_Service_Provider_Package": "Hootsuite Enterprise",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1728349078",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "LI-SaaS",
-        "Original_Authorization_Date": "2021-02-26T05:00:00.000Z",
-        "Original_Expiration_Date": "2022-02-26T05:00:00.000Z",
-        "Sponsoring_Agency": "Department of the Interior",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
-        "Authorizing_Agency": "Department of the Interior",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Hootsuite%20Logo.png",
-        "Independent_Assessor": "Department of the Interior",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW"
-        ],
-        "CSP_Website": "https://hootsuite.com/industries/government",
-        "CSO_Description": "Hootsuite is an enterprise social media management platform used by governments and agencies to engage with citizens, manage crisis communications, and deliver services and\r\ninformation via social media. By managing all social media activity through a single, secure platform, agencies with large and distributed teams can engage directly with citizens across\r\npublic and private social channels without compromising control over messaging and access.Hootsuite’s real-time social listening capabilities, integrations with compliance partners, and\r\necosystem of more than 200 connected applications help agencies monitor and measure public sentiment, stay compliant with FOIA and other public records laws, and integrate social media across their organization.\r",
-        "Announcement_Date": "2021-03-11T05:00:00.000Z",
-        "CSP_POC_Name": "Cuneyt Karul",
-        "CSP_POC_Email": "fedramp@hootsuite.com\r",
-        "FedRAMP_In-Process_Date": "2020-12-16T05:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "MediaLab, Inc.",
         "Cloud_Service_Provider_Package": "MediaLab Federal",
         "Path": "Agency",
@@ -15978,7 +15939,7 @@
         "Cloud_Service_Provider_Name": "WingSwept",
         "Cloud_Service_Provider_Package": "Case Management & Tracking System (CMTS)",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "FR2106045767",
         "Service_Model": [
           "SaaS"
@@ -15991,8 +15952,12 @@
         "Authorizing_Agency": "Department of Energy",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/WingSwept%20Logo.png",
         "Independent_Assessor": "Lunarline, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
         "CSP_Website": "securecasemanagement.com",
         "CSO_Description": "WingSwept has provided case management solutions to investigators at government agencies for more than a decade.  WingSwept converted its Case Management & Tracking System (CMTS) into a Commercial Off-The-Shelf (COTS) service offering in 2010.\n\nBuilt with both security and flexibility in mind, CMTS provides for the secure storage, retrieval, and reporting of case management data for investigative offices at all levels of government.  The CMTS design is neither static nor monolithic.  Intentionally flexible, CMTS provides government agencies with the ability to establish unique naming conventions, tailor agency-specific workflows, and to support a wide range of other user-preferred configurations.  An idle-case tracking function also includes both time and activity-based notifications in order to establish and maintain a seamless agency workflow. \n\nAs an added layer of security, each CMTS customer operates in a secure environment with data separated by customer.  Hosted on Amazon Web Services (AWS), CMTS is a web-based, browser-accessible application that requires no device-specific software for implementation.   \n\nHighly customizable dashboards, combined with specialized labels and entry fields provide investigators with the ability to compile and display comprehensive case metrics in a simplified, user-friendly format.  CMTS can display ad-hoc and pre-defined reports in minutes, drastically reducing processing times and increasing staff efficiency. This flexible design allows agencies to tailor workflows in order to match existing processes and to provide for continuity in ongoing investigations.  As a result, CMTS may be readily adapted to serve investigative offices of any size.\n\nMany of the CMTS customers leverage our optional Online Intake Service (OIS) which allows customers to host or leverage OIS hosted internet facing forms which can collect case intakes to be later securely picked up by the agency CMTS server for potential ingestion as a case.",
+        "Announcement_Date": "2022-03-01T05:00:00.000Z",
         "CSP_POC_Name": "Allison Lehman",
         "CSP_POC_Email": "fedramp@wingswept.com",
         "FedRAMP_In-Process_Date": "2021-04-01T04:00:00.000Z",
@@ -16857,6 +16822,34 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Hootsuite",
+        "Cloud_Service_Provider_Package": "Hootsuite Enterprise",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1728349078",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "LI-SaaS",
+        "Original_Authorization_Date": "2022-03-02T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of the Interior",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+        "Authorizing_Agency": "Department of the Interior",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Hootsuite%20Logo.png",
+        "Independent_Assessor": "Department of the Interior",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
+        "CSP_Website": "https://hootsuite.com/industries/government",
+        "CSO_Description": "Hootsuite is an enterprise social media management platform used by governments and agencies to engage with citizens, manage crisis communications, and deliver services and\r\ninformation via social media. By managing all social media activity through a single, secure platform, agencies with large and distributed teams can engage directly with citizens across\r\npublic and private social channels without compromising control over messaging and access.Hootsuite’s real-time social listening capabilities, integrations with compliance partners, and\r\necosystem of more than 200 connected applications help agencies monitor and measure public sentiment, stay compliant with FOIA and other public records laws, and integrate social media across their organization.\r",
+        "Announcement_Date": "2021-03-11T05:00:00.000Z",
+        "CSP_POC_Name": "Cuneyt Karul",
+        "CSP_POC_Email": "fedramp@hootsuite.com\r",
+        "FedRAMP_In-Process_Date": "2020-12-16T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "3M",
         "Cloud_Service_Provider_Package": "RevCycle Health Services Platform (RHSP)",
         "Path": "Agency",
@@ -17535,6 +17528,25 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Eightfold AI Inc.",
+        "Cloud_Service_Provider_Package": "Eightfold Talent Intelligence Platform (TIP)",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2016962740",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Eightfold%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "https://eightfold.ai/",
+        "CSO_Description": "Eightfold provides a Talent Intelligence Platform built on Artificial Intelligence that enables governmental agencies to increase productivity and fight bias in their talent acquisition efforts and internal talent management. Eightfold’s deep learning AI platform empowers agencies to reduce the overall time and cost to hire, surface existing skill inventories to facilitate workforce planning, provide employees abilities to self-service their career planning, achieve diversity hiring goals, and optimize career search for job seekers. To that end, Eightfold offers two sets of services: one set for agency oriented solutions for talent acquisition and management, and the other set for citizen oriented solutions to enable the government to improve employment.  Eightfold allows agencies to select modules based on their goals and mission.  These modules include: workforce recruiting, workforce management, workforce mobility, and workforce marketplace",
+        "CSP_POC_Name": "Megan Garrett",
+        "CSP_POC_Email": "mgarrett@eightfold.ai ",
+        "Fedramp_Ready_Date": "2022-02-24T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "End To End Computing",
         "Cloud_Service_Provider_Package": "Singularity",
         "Path": "Agency",
@@ -17555,6 +17567,25 @@
         "CSP_POC_Name": "Carlton Harris",
         "CSP_POC_Email": "FedRAMP@eecomputing.com",
         "FedRAMP_In-Process_Date": "2021-03-10T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Equifax",
+        "Cloud_Service_Provider_Package": "Equifax Government Data Exchange (EGDE)",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2203952548",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Equifax%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "CSP_Website": "https://www.equifax.com/government/",
+        "CSO_Description": "Equifax Government Data Exchange provides real-time income and employment verification service as well as HR management services to federal customers. These services are cloud-native and delivered using Equifax’s Data Fabric enterprise data management platform to provide maximum availability, scalability, and security. ",
+        "CSP_POC_Name": "Equifax FedRAMP team",
+        "CSP_POC_Email": "FedRAMP.Security@equifax.com",
+        "Fedramp_Ready_Date": "2022-02-22T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -18937,16 +18968,17 @@
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "United States Equal Employment Opportunity Commission",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/EEOC%20Logo.jpg",
-        "Authorizing_Agency": "United States Equal Employment Opportunity Commission",
+        "Sponsoring_Agency": "Department of Energy",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+        "Authorizing_Agency": "Department of Energy",
+        "Authorizing_Subagency": "Lawrence Berkeley National Laboratory",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/TMetrics%20Logo.png",
         "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
         "CSP_Website": "https://tmetrics.com/industries/fedramp",
         "CSO_Description": "As the primary point of contact an organization has with its customers and constituents, the T-Metrics TM-Cloud Contact Center provides a powerful skills-based routing platform to efficiently connect these people with the agents best equipped to effectively respond to their needs. The platform provides flexibility, scalability, lower total cost of ownership, improved agency service levels, and a superior customer experience. Service offerings include:\n\r\n* Skills-based and Priority Routing \r\n* Interactive Voice Response\r\n* Self-service Offerings\r\n* VIP Treatments\r\n* Omni-channel Communication\r\n* Customer & Agent Callbacks\r\n* Voice and Screen Recordings\r\n* Section 508 compliance (for agents and for callers)\r\n* Advanced Agent and Supervisory Dashboards\r\n* Standard and Custom Reporting\r\n* Administration Portals \r\n*… [ask about more related capabilities!](https://www.tmetrics.com/support/sales-team)\n\r\nThe TM-Cloud Contact Center can be scaled to accommodate current and future contact center resource demands and requirements. The ability to obtain agent subscriptions in small or large quantities enables organizations to quickly scale to levels necessary to handle even the most dynamic volume, especially for emergencies or seasonal demand.\n\r\nThe contact center distributed architecture ensures that a high-available and high-performance system is deployed in the T-Metrics FedRAMP cloud. Resiliency, scalability, and advanced feature access had been traditionally available to only the largest of contact centers with a significant capital investment. Through the TM-Cloud Contact Center, these advantages are now available to every customer through flexible monthly subscriptions. Strategically designed, TM-Cloud Contact Center capitalizes on cloud architecture and goes over the top of existing customer telephony platforms, including FedRAMP & JITC certified voice solutions. \n\r\nFor two decades, T-Metrics has provided government agencies with contact center solutions. Additionally, because the T Metrics Contact Center passes the Department of Defense (DoD) rigorous and selective security and interoperability demands for Joint Interoperability Test Command (JITC) certification, T-Metrics contact center solutions are widely deployed at DoD locations around the globe. By receiving FedRAMP In Process status, T Metrics expands the partnership scope to provide the most advanced cloud contact center platform that meets federal mandates for a standardized approach to security assessment, authorization, and continuous monitoring for cloud contact center services.",
         "CSP_POC_Name": "Jim Beckner III",
         "CSP_POC_Email": "fedramp@tmetrics.com",
-        "FedRAMP_In-Process_Date": "2021-07-01T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2022-03-02T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
