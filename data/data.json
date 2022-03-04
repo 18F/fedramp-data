@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-03-03T05:40:50.543Z",
+    "Created_At": "2022-03-04T05:40:50.797Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -582,15 +582,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2019-02-12T05:00:00.000Z",
-            "Letter_Expiration_Date": "2022-02-12T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-02-18T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Program Support Center",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-02-13T05:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
@@ -652,6 +643,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-08-26T04:00:00.000Z",
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-12-13T05:00:00.000Z",
+            "Letter_Expiration_Date": "2024-12-08T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-03T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Program Support Center",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           }
@@ -3106,7 +3106,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "BlackBerry",
-        "Cloud_Service_Provider_Package": "BlackBerry Protect",
+        "Cloud_Service_Provider_Package": "BlackBerry Protect & Optics",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "F1602167854",
@@ -3124,8 +3124,8 @@
         "Underlying_CSP_Package_ID": [
           "F1603047866"
         ],
-        "CSP_Website": "www.cylance.com",
-        "CSO_Description": "CylancePROTECT redefines what antivirus (AV) can and should do for your organization by leveraging artificial intelligence to detect AND prevent malware from executing on your endpoints in real time. By taking a mathematical approach to malware identification utilizing patent-pending, machine learning techniques instead of reactive signatures and sandboxes, CylancePROTECT renders new malware, viruses, bots and unknown future variants useless. Cylance has developed the most accurate, efficient and effective solution for preventing advanced persistent threats and malware from executing on your organization’s endpoints. At the core of Cylance’s unprecedented malware identification capability is a revolutionary machine learning research platform that harnesses the power of algorithmic science and artificial intelligence. It analyzes and classifies hundreds of thousands of characteristics per file, breaking them down to an atomic level to discern whether an object is “good” or “bad” in real time.\nCylanceOPTICS, part of the prevention-first Cylance Security Platform, is an artificial intelligence (AI) driven endpoint detection and response (EDR) solution designed to extend the prevention delivered by CylancePROTECT through root cause analysis, scalable threat hunting, and automated threat detection and response without increasing costs or security team workloads.\nCylancePROTECT and CylanceOPTICS are managed through a single web interface within the FedRAMP boundary, and both capabilities are included in the CylancePROTECT cloud service offering.",
+        "CSP_Website": "https://www.blackberry.com/us/en/products/unified-endpoint-security",
+        "CSO_Description": "BlackBerry Protect redefines what antivirus (AV) can and should do for your organization by leveraging artificial intelligence to detect AND prevent malware from executing on your endpoints in real time. By taking a mathematical approach to malware identification utilizing patent-pending, machine learning techniques instead of reactive signatures and sandboxes, BlackBerry Protect renders new malware, viruses, bots and unknown future variants useless. At the core of BlackBerry ’s unprecedented malware identification capability is a revolutionary machine learning research platform that harnesses the power of algorithmic science and artificial intelligence. It analyzes and classifies hundreds of thousands of characteristics per file, breaking them down to an atomic level to discern whether an object is “good” or “bad” in real time. BlackBerry Optics, part of the prevention-first BlackBerry Security Platform, is an artificial intelligence (AI) driven endpoint detection and response (EDR) solution designed to extend the prevention delivered by BlackBerry Protect through root cause analysis, scalable threat hunting, and automated threat detection and response without increasing costs or security team workloads. BlackBerry Protect and BlackBerry Optics are managed through a single web interface within the FedRAMP boundary, and both capabilities are included in the BlackBerry Protect and Optics cloud service offering.",
         "Announcement_Date": "2017-06-26T04:00:00.000Z",
         "CSP_POC_Name": "Rashad Munawar",
         "CSP_POC_Email": "bbfedcompliance@blackberry.com",
@@ -3972,9 +3972,9 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2021-03-05T05:00:00.000Z",
-            "Letter_Expiration_Date": "2022-03-05T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-03-05T05:00:00.000Z",
+            "Letter_Date": "2022-03-02T05:00:00.000Z",
+            "Letter_Expiration_Date": "2023-03-03T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-03T05:00:00.000Z",
             "Authorizing_Agency": "Department of Education",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
@@ -6296,13 +6296,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-02-25T05:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Authorizing_Subagency": "Bureau of Safety and Environmental Enforcement",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Authorizing_Letter_Last_Sign_Date": "2020-03-23T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Treasury",
             "Authorizing_Subagency": "Internal Revenue Service",
@@ -6588,6 +6581,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-12-17T05:00:00.000Z",
             "Authorizing_Agency": "Department of Labor",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-03-01T05:00:00.000Z",
+            "Letter_Expiration_Date": "2023-03-02T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-02T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Authorizing_Subagency": "Bureau of Safety and Environmental Enforcement",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -8514,13 +8516,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2018-12-14T05:00:00.000Z",
-            "Letter_Expiration_Date": "2021-12-20T05:00:00.000Z",
-            "Authorizing_Agency": "Environmental Protection Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-06-10T04:00:00.000Z",
             "Letter_Expiration_Date": "2022-07-03T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-07-03T04:00:00.000Z",
@@ -8753,6 +8748,13 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "Bureau of Economic Analysis",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2022-08-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-02-10T05:00:00.000Z",
+            "Authorizing_Agency": "Environmental Protection Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -15154,6 +15156,15 @@
             "Authorizing_Agency": "Department of State",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-02-16T05:00:00.000Z",
+            "Letter_Expiration_Date": "2025-02-14T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-02-22T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "National Heart, Lung, and Blood Institute",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -17046,6 +17057,25 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "C3 AI",
+        "Cloud_Service_Provider_Package": "C3 AI Suite",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2213342813",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/C#%20AI%20Logo.png",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "CSP_Website": "https://c3.ai/c3-ai-suite/",
+        "CSO_Description": "The C3 AI Suite uses a unique model-driven architecture to accelerate delivery and reduce the complexities of developing enterprise AI applications. The C3 AI model-driven architecture provides an “abstraction layer,” that allows developers to build enterprise AI applications by using conceptual models of all the elements an application requires, instead of writing lengthy code.",
+        "CSP_POC_Name": "Kevin Eveker",
+        "CSP_POC_Email": "info@c3.ai",
+        "Fedramp_Ready_Date": "2022-03-02T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Centrify",
         "Cloud_Service_Provider_Package": "Centrify Privileged Access Service",
         "Path": "Agency",
@@ -17541,8 +17571,7 @@
         "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
         "CSP_Website": "https://eightfold.ai/",
         "CSO_Description": "Eightfold provides a Talent Intelligence Platform built on Artificial Intelligence that enables governmental agencies to increase productivity and fight bias in their talent acquisition efforts and internal talent management. Eightfold’s deep learning AI platform empowers agencies to reduce the overall time and cost to hire, surface existing skill inventories to facilitate workforce planning, provide employees abilities to self-service their career planning, achieve diversity hiring goals, and optimize career search for job seekers. To that end, Eightfold offers two sets of services: one set for agency oriented solutions for talent acquisition and management, and the other set for citizen oriented solutions to enable the government to improve employment.  Eightfold allows agencies to select modules based on their goals and mission.  These modules include: workforce recruiting, workforce management, workforce mobility, and workforce marketplace",
-        "CSP_POC_Name": "Megan Garrett",
-        "CSP_POC_Email": "mgarrett@eightfold.ai ",
+        "CSP_POC_Name": "Chris Mullaney",
         "Fedramp_Ready_Date": "2022-02-24T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
@@ -18364,6 +18393,29 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "OnSolve LLC",
+        "Cloud_Service_Provider_Package": "OnSolve Platform for Critical Event Management",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2100059668",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Tennessee Valley Authority",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-TennesseeValleyAuthority-Logo.png",
+        "Authorizing_Agency": "Tennessee Valley Authority",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/OnSolve%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.onsolve.com",
+        "CSO_Description": "OnSolve provides leading-edge technology that keeps people safer and strengthens government, business and community crisis response.  The OnSolve Critical Event Management platform provides unparalleled coverage of critical events around the world, as well as the actionable intelligence needed to understand their impact. This platform combines our AI-powered risk intelligence, award-winning critical communications, and enhanced incident management to create better outcomes for people, communities and organizations.  With over two billion notifications sent annually and over 60 years of proven support to both the public and private sectors, OnSolve delivers critical event management solutions backed by unmatched industry expertise, which gives our customers the ability to proactively keep everyone informed, instill confidence, foster teamwork, mitigate disruptions, improve operational outcomes, protect assets, and save lives.",
+        "CSP_POC_Name": "Tony Munno",
+        "CSP_POC_Email": "fedramp@onsolve.com",
+        "FedRAMP_In-Process_Date": "2022-01-18T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Ontario Systems, LLC",
         "Cloud_Service_Provider_Package": "Ontario Cloud Federal",
         "Path": "Agency",
@@ -18385,29 +18437,6 @@
         "CSP_POC_Name": "Michael Wolfe",
         "CSP_POC_Email": "federal@ontariosystems.com",
         "FedRAMP_In-Process_Date": "2021-05-19T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "OnSolve LLC",
-        "Cloud_Service_Provider_Package": "OnSolve Platform for Critical Event Management",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2100059668",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Tennessee Valley Authority",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-TennesseeValleyAuthority-Logo.png",
-        "Authorizing_Agency": "Tennessee Valley Authority",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/OnSolve%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.onsolve.com",
-        "CSO_Description": "OnSolve provides leading-edge technology that keeps people safer and strengthens government, business and community crisis response.  The OnSolve Critical Event Management platform provides unparalleled coverage of critical events around the world, as well as the actionable intelligence needed to understand their impact. This platform combines our AI-powered risk intelligence, award-winning critical communications, and enhanced incident management to create better outcomes for people, communities and organizations.  With over two billion notifications sent annually and over 60 years of proven support to both the public and private sectors, OnSolve delivers critical event management solutions backed by unmatched industry expertise, which gives our customers the ability to proactively keep everyone informed, instill confidence, foster teamwork, mitigate disruptions, improve operational outcomes, protect assets, and save lives.",
-        "CSP_POC_Name": "Tony Munno",
-        "CSP_POC_Email": "fedramp@onsolve.com",
-        "FedRAMP_In-Process_Date": "2022-01-18T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -19201,25 +19230,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Workday Inc.",
-        "Cloud_Service_Provider_Package": "Workday Government Cloud (WGC)",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR2103344623",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Workday%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://www.workday.com/",
-        "CSO_Description": "Workday is a provider of enterprise applications for financial management, human capital management, planning, and analytics. Workday Government Cloud is a multi-tenant public cloud-based offering for U.S. federal, state and local government customers, as well as U.S. government contractors, and Federally Funded Research and Development Centers (FFRDCs). It comprises the following enterprise management cloud applications:  Workday Core Financial Management, Projects, Project Billing, Expenses, Procurement, Inventory, Grants Management, Human Capital Management, Cloud Connect for Benefits, Payroll for the United States, Cloud Connect for Third-Party Payroll, Time Tracking, Recruiting, Prism Analytics, and Student.  Also available is Workday Success Plans, a subscription-based success package that provides education, tools, and expertise to help agencies maximize their use of Workday.",
-        "CSP_POC_Name": "Workday Government Cloud Team",
-        "CSP_POC_Email": "fedramp@workday.com",
-        "Fedramp_Ready_Date": "2021-08-16T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Wolters Kluwer",
         "Cloud_Service_Provider_Package": "TeamMate+ FedRAMP",
         "Path": "Agency",
@@ -19241,6 +19251,25 @@
         "CSP_POC_Name": "Jennifer Esterheld",
         "CSP_POC_Email": "TeamMate-FedRAMP@wolterskluwer.com",
         "FedRAMP_In-Process_Date": "2022-02-15T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Workday Inc.",
+        "Cloud_Service_Provider_Package": "Workday Government Cloud (WGC)",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2103344623",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Workday%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://www.workday.com/",
+        "CSO_Description": "Workday is a provider of enterprise applications for financial management, human capital management, planning, and analytics. Workday Government Cloud is a multi-tenant public cloud-based offering for U.S. federal, state and local government customers, as well as U.S. government contractors, and Federally Funded Research and Development Centers (FFRDCs). It comprises the following enterprise management cloud applications:  Workday Core Financial Management, Projects, Project Billing, Expenses, Procurement, Inventory, Grants Management, Human Capital Management, Cloud Connect for Benefits, Payroll for the United States, Cloud Connect for Third-Party Payroll, Time Tracking, Recruiting, Prism Analytics, and Student.  Also available is Workday Success Plans, a subscription-based success package that provides education, tools, and expertise to help agencies maximize their use of Workday.",
+        "CSP_POC_Name": "Workday Government Cloud Team",
+        "CSP_POC_Email": "fedramp@workday.com",
+        "Fedramp_Ready_Date": "2021-08-16T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
