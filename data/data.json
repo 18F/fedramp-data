@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-03-04T05:40:50.797Z",
+    "Created_At": "2022-03-05T05:40:50.384Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4323,13 +4323,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2022-02-09T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-02-09T05:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2021-03-31T04:00:00.000Z",
             "Letter_Expiration_Date": "2024-03-31T04:00:00.000Z",
             "Authorizing_Agency": "Department of Health and Human Services",
@@ -4371,6 +4364,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-11-18T05:00:00.000Z",
             "Authorizing_Agency": "Environmental Protection Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2027-01-20T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-03T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -16861,6 +16861,31 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Skillsoft",
+        "Cloud_Service_Provider_Package": "Percipio",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2118043605",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-10-04T04:00:00.000Z",
+        "Original_Expiration_Date": "2024-09-10T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Agriculture",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+        "Authorizing_Agency": "Department of Agriculture",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Skillsoft%20Logo.png",
+        "Independent_Assessor": "Booz Allen Hamilton",
+        "CSP_Website": "https://www.skillsoft.com",
+        "CSO_Description": "Skillsoft Percipio is the learning experience platform from Skillsoft. Skillsoft offers 1000s of video-based courses along with best-selling ebooks, audiobooks, practice labs, bootcamps, assessments to help your workforce build skills in the following areas:\n\n* **Leadership** – leading yourself, leading your team, leading your business, and leading digital transformation for your organization\n* **Business/power skills** – team management, customer service, project management, effectively using common tools like Microsoft Office, G-Suite, MS Teams, Slack\n* **Technology & Developers** – high demand technical skills like cloud computing, Python, DevOps, agile development with sandbox environments to practice coding without the burden of installing software; certification prep for various technical certifications\n* **Compliance** – Environment/Health/Safety and Legal Compliance with the capability to customize the courses, enable Code of Ethics attestation, give assessments\n\nSkillsoft Percipio is an award-winning learning platform that delivers on-demand and virtual live learning with many capabilities to engage your learners:  \n\n* **Aspire Journeys Learning Paths:** pre-curated, prescriptive, role-based, and skill-based learning paths that prepare employees for high-demand roles \n* **Curated channels:** offer video-based courses, books, audiobooks, practice labs, test prep for 800+ high demand skills giving the user many options to fit into busy schedules\n* **AI-driven personalization:** Allow learners to create playlists, receive assignments, and get AI-driven recommendations that personalize the learning based on their interests and online behaviors\n* **Goals, reminders, badges:** to help learners stay motivated and see their progress\n* **Practice Labs:** coding and cloud labs in sandbox environments to help learners build confidence in their skills and practice without the burden of installing software\n* **Micro-learning videos:** Provide quick, targeted learning focusing on specific tasks delivered in real-time\n* **Mobile-friendly:** Enables learners to watch, read, and listen anytime, anywhere, download content for offline use, and use voice-commands for easy access\n* **Manage, promote, measure learning:** L&D administrators have the ability to promote content on homepage, customized email notifications, assess learning using visual dashboards, give assignments with due dates\n* **Aggregate content from different providers:** turnkey integrations for YouTube, Coursera and others to deliver that content in Percipio with a consistent user experience",
+        "CSP_POC_Name": "Brad MacDonald",
+        "CSP_POC_Email": "fedramp@skillsoft.com",
+        "FedRAMP_In-Process_Date": "2021-08-17T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "3M",
         "Cloud_Service_Provider_Package": "RevCycle Health Services Platform (RHSP)",
         "Path": "Agency",
@@ -17066,7 +17091,7 @@
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/C#%20AI%20Logo.png",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/C3%20AI%20Logo.png",
         "Independent_Assessor": "Lunarline, Inc.",
         "CSP_Website": "https://c3.ai/c3-ai-suite/",
         "CSO_Description": "The C3 AI Suite uses a unique model-driven architecture to accelerate delivery and reduce the complexities of developing enterprise AI applications. The C3 AI model-driven architecture provides an “abstraction layer,” that allows developers to build enterprise AI applications by using conceptual models of all the elements an application requires, instead of writing lengthy code.",
@@ -18801,7 +18826,7 @@
         "Cloud_Service_Provider_Name": "SAS Institute, Inc.",
         "Cloud_Service_Provider_Package": "SAS Cloud for Government",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "FedRAMP Ready",
         "Package_ID": "FR2105254343",
         "Service_Model": [
           "PaaS"
@@ -18819,7 +18844,6 @@
         "CSP_POC_Name": "Gary Smith",
         "CSP_POC_Email": "SAS_FedRAMP_PaaS@sas.com",
         "Fedramp_Ready_Date": "2021-03-17T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2021-03-04T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -18868,29 +18892,6 @@
         "CSP_POC_Name": "Drazen Doutlik",
         "CSP_POC_Email": "compliance@sevenbridges.com",
         "FedRAMP_In-Process_Date": "2021-08-12T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Skillsoft",
-        "Cloud_Service_Provider_Package": "Percipio",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2118043605",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Agriculture",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-        "Authorizing_Agency": "Department of Agriculture",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Skillsoft%20Logo.png",
-        "Independent_Assessor": "Booz Allen Hamilton",
-        "CSP_Website": "https://www.skillsoft.com",
-        "CSO_Description": "Skillsoft Percipio is the learning experience platform from Skillsoft. Skillsoft is a global corporate learning company that serves 70% of the Fortune 1000 in 160 countries around the world to help them create a future-fit workforce skilled and ready for the jobs of tomorrow. Skillsoft offers 1000s of video-based courses along with best-selling ebooks, audiobooks, practice labs, bootcamps, assessments to help your workforce build skills in the following areas:\r\n\r\n* **Leadership** – leading yourself, leading your team, leading your business, and leading digital transformation for your organization\r\n* **Business/power skills** – team management, customer service, project management, effectively using common tools like Microsoft Office, G-Suite, MS Teams, Slack\r\n* **Technology & Developers** – high demand technical skills like cloud computing, Python, DevOps, agile development with sandbox environments to practice coding without the burden of installing software; certification prep for various technical certifications\r\n* **Compliance** – Environment/Health/Safety and Legal Compliance with the capability to customize the courses, enable Code of Ethics attestation, give assessments\r\n\r\nSkillsoft Percipio is an award-winning learning platform that delivers on-demand and virtual live learning with many capabilities to engage your learners:  \r\n\r\n* **Aspire Journeys Learning Paths:** pre-curated, prescriptive, role-based, and skill-based learning paths that prepare employees for high-demand roles \r\n* **Curated channels:** offer video-based courses, books, audiobooks, practice labs, test prep for 800+ high demand skills giving the user many options to fit into busy schedules\r\n* **AI-driven personalization:** Allow learners to create playlists, receive assignments, and get AI-driven recommendations that personalize the learning based on their interests and online behaviors\r\n* **Goals, reminders, badges:** to help learners stay motivated and see their progress\r\n* **Practice Labs:** coding and cloud labs in sandbox environments to help learners build confidence in their skills and practice without the burden of installing software\r\n* **Micro-learning videos:** Provide quick, targeted learning focusing on specific tasks delivered in real-time\r\n* **Mobile-friendly:** Enables learners to watch, read, and listen anytime, anywhere, download content for offline use, and use voice-commands for easy access\r\n* **Manage, promote, measure learning:** L&D administrators have the ability to promote content on homepage, customized email notifications, assess learning using visual dashboards, give assignments with due dates\r\n* **Aggregate content from different providers:** turnkey integrations for YouTube, Coursera and others to deliver that content in Percipio with a consistent user experience",
-        "CSP_POC_Name": "Brad MacDonald",
-        "CSP_POC_Email": "fedramp@skillsoft.com",
-        "FedRAMP_In-Process_Date": "2021-08-17T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
