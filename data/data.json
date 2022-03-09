@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-03-08T05:40:50.758Z",
+    "Created_At": "2022-03-09T05:40:50.921Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -15530,52 +15530,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "MAXIMUS Inc.",
-        "Cloud_Service_Provider_Package": "MAXIMUS Genesys Engagement Platform",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1509307433",
-        "Service_Model": [
-          "PaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2021-05-12T04:00:00.000Z",
-        "Original_Expiration_Date": "2022-04-16T04:00:00.000Z",
-        "Sponsoring_Agency": "Office of Personnel Management",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
-        "Authorizing_Agency": "Office of Personnel Management",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MAXIMUS%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1303191948"
-        ],
-        "CSP_Website": "https://www.maximus.com/federal/business-operations/citizen-engagement-services",
-        "CSO_Description": "The MAXIMUS Genesys Engagement Platform, brought to you by proven and trusted contact center leaders, is an enterprise-class omnichannel platform-as-a-service (PAAS) cloud contact center solution.\n\nThe Engagement Platform leverages Genesys technology to provide the omnichannel functionality required for an optimized citizen engagement experience that enables citizens to communicate with your agency across all channels – including voice, email, SMS and web chat. The Engagement Platform also provides key additional modular features such as workforce management, recording and quality management, analytics, AI and a robust reporting framework. The platform features a full range of secure capabilities to customize and operate contact centers of any size, supporting organizations’ security, accessibility and privacy requirements. With the Engagement Platform, agencies can leverage a broad range of proven and certified implementation partners to guide and enable their contact center solution.",
-        "Announcement_Date": "2016-10-03T04:00:00.000Z",
-        "CSP_POC_Name": "Scott Clarke",
-        "CSP_POC_Email": "federalservices@maximus.com",
-        "FedRAMP_In-Process_Date": "2016-05-12T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2017-04-28T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-06-12T04:00:00.000Z",
-            "Authorizing_Agency": "Consumer Financial Protection Bureau",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFPB_Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-06-07T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-06-04T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-06-17T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Authorizing_Subagency": "Federal Student Aid",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Ipsos America, Inc.",
         "Cloud_Service_Provider_Package": "Ipsos Research",
         "Path": "Agency",
@@ -16787,12 +16741,12 @@
       },
       {
         "Cloud_Service_Provider_Name": "MAXIMUS Inc.",
-        "Cloud_Service_Provider_Package": "MAXIMUS Cloud",
+        "Cloud_Service_Provider_Package": "MAXIMUS Cloud (includes Genesys Engagement Platform)",
         "Path": "JAB",
         "Designation": "Compliant",
         "Package_ID": "F1303191948",
         "Service_Model": [
-          "IaaS"
+          "IaaS, PaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
@@ -16802,8 +16756,8 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MAXIMUS%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "https://www.maximus.com/federal/technology/enterprise-it-services/infrastructure-and-platform-support-services",
-        "CSO_Description": "An enterprise-level, FedRAMP-compliant cloud to support programs of all sizes and complexities. MAXIMUS Cloud provides security, visibility and enhanced performance through proactive monitoring, alerting and maintenance without service interruption. Serving multiple government customers, this multi-tenant Private and Community Cloud is hosted in geographically dispersed Data Centers located in the United States.",
-        "Announcement_Date": "2016-01-08T05:00:00.000Z",
+        "CSO_Description": "The **Maximus Cloud (MC)** is a managed Infrastructure-as-a-service (IAAS) private cloud service designed to enable secure management of mission critical systems and applications. MAXIMUS Cloud provides managed security, visibility and enhanced performance through proactive monitoring, alerting and maintenance without service interruption. Serving multiple government customers, this multi-tenant Private and Community Cloud exclusive for government customers only is hosted in geographically dispersed Data Centers located in the United States. This Maximus cloud infrastructure provides the foundation for our expanded FedRAMP compliant cloud service offerings.\n\n**Maximus Genesys Engagement Platform (MGEP)**\n\r\nThe MAXIMUS Genesys Engagement Platform is an enterprise-class omnichannel cloud contact center solution.\n\r\nThe Engagement Platform leverages Genesys technology to provide the omnichannel functionality required for an optimized citizen engagement experience that enables citizens to communicate with your agency across all channels – including voice, email, SMS and web chat. The Engagement Platform also provides key additional modular features such as workforce management, recording and quality management, analytics, AI and a robust reporting framework. The platform features a full range of secure capabilities to customize and operate contact centers of any size, supporting organizations’ security, accessibility and privacy requirements. With the Engagement Platform, agencies can leverage a broad range of proven and certified implementation partners to guide and enable their contact center solution.",
+        "Announcement_Date": "2022-02-16T05:00:00.000Z",
         "CSP_POC_Name": "Scott Clarke",
         "CSP_POC_Email": "federalservices@maximus.com",
         "FedRAMP_In-Process_Date": "2014-08-18T04:00:00.000Z",
@@ -16813,6 +16767,13 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "United States Census Bureau",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2017-04-28T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2017-06-12T04:00:00.000Z",
+            "Authorizing_Agency": "Consumer Financial Protection Bureau",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFPB_Logo.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -16829,6 +16790,13 @@
             "Authorizing_Agency": "Department of Education",
             "Authorizing_Subagency": "Federal Student Aid",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2022-04-16T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-05-12T04:00:00.000Z",
+            "Authorizing_Agency": "Office of Personnel Management",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -16865,7 +16833,7 @@
         "Cloud_Service_Provider_Name": "Skillsoft",
         "Cloud_Service_Provider_Package": "Percipio",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "FR2118043605",
         "Service_Model": [
           "SaaS"
@@ -16879,8 +16847,13 @@
         "Authorizing_Agency": "Department of Agriculture",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Skillsoft%20Logo.png",
         "Independent_Assessor": "Booz Allen Hamilton",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1207261443"
+        ],
         "CSP_Website": "https://www.skillsoft.com",
         "CSO_Description": "Skillsoft Percipio is the learning experience platform from Skillsoft. Skillsoft offers 1000s of video-based courses along with best-selling ebooks, audiobooks, practice labs, bootcamps, assessments to help your workforce build skills in the following areas:\n\n* **Leadership** – leading yourself, leading your team, leading your business, and leading digital transformation for your organization\n* **Business/power skills** – team management, customer service, project management, effectively using common tools like Microsoft Office, G-Suite, MS Teams, Slack\n* **Technology & Developers** – high demand technical skills like cloud computing, Python, DevOps, agile development with sandbox environments to practice coding without the burden of installing software; certification prep for various technical certifications\n* **Compliance** – Environment/Health/Safety and Legal Compliance with the capability to customize the courses, enable Code of Ethics attestation, give assessments\n\nSkillsoft Percipio is an award-winning learning platform that delivers on-demand and virtual live learning with many capabilities to engage your learners:  \n\n* **Aspire Journeys Learning Paths:** pre-curated, prescriptive, role-based, and skill-based learning paths that prepare employees for high-demand roles \n* **Curated channels:** offer video-based courses, books, audiobooks, practice labs, test prep for 800+ high demand skills giving the user many options to fit into busy schedules\n* **AI-driven personalization:** Allow learners to create playlists, receive assignments, and get AI-driven recommendations that personalize the learning based on their interests and online behaviors\n* **Goals, reminders, badges:** to help learners stay motivated and see their progress\n* **Practice Labs:** coding and cloud labs in sandbox environments to help learners build confidence in their skills and practice without the burden of installing software\n* **Micro-learning videos:** Provide quick, targeted learning focusing on specific tasks delivered in real-time\n* **Mobile-friendly:** Enables learners to watch, read, and listen anytime, anywhere, download content for offline use, and use voice-commands for easy access\n* **Manage, promote, measure learning:** L&D administrators have the ability to promote content on homepage, customized email notifications, assess learning using visual dashboards, give assignments with due dates\n* **Aggregate content from different providers:** turnkey integrations for YouTube, Coursera and others to deliver that content in Percipio with a consistent user experience",
+        "Announcement_Date": "2022-03-04T05:00:00.000Z",
         "CSP_POC_Name": "Brad MacDonald",
         "CSP_POC_Email": "fedramp@skillsoft.com",
         "FedRAMP_In-Process_Date": "2021-08-17T04:00:00.000Z",
@@ -18714,7 +18687,7 @@
         "CSO_Description": "The TRAIN Learning Network is the trusted leader in providing training and other learning opportunities to public health, healthcare, behavioral health, preparedness, and other health professionals across government agencies through an innovative, flexible learning platform designed around agency needs, workforce requirements, and learner interaction.",
         "CSP_POC_Name": "Ilya Plotkin",
         "CSP_POC_Email": "training@phf.org ",
-        "FedRAMP_In-Process_Date": "2021-03-22T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2021-07-08T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -19104,7 +19077,7 @@
         "CSO_Description": "United Solutions Artificial Intelligence (US AI) is a suite of scalable AI solutions with broad applicability to common business problems faced by both government and commercial sectors alike. US AI leverages visually exciting user experience / user interfaces to simplify and make complex AI capabilities available to business users. US AI uses various complex data science models such as Natural Language Processing (NLP), Machine Learning (ML), and Deep Learning (DL) to create a curated source of data that provides actionable business insights for a variety of business processes including, but not limited to acquisition, finance, supply chain, logistics, emergency response, and health. The platform memorializes curated data, builds a training model from that, and continuously teaches the machine to make better predictions such as compliance, risk, fraud, value, health, security, and safety.",
         "CSP_POC_Name": "Macey Smith ",
         "CSP_POC_Email": "business@unitedsolutions.biz",
-        "FedRAMP_In-Process_Date": "2021-03-12T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2022-02-02T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
