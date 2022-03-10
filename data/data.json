@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-03-09T05:40:50.921Z",
+    "Created_At": "2022-03-10T05:40:51.025Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -10995,13 +10995,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2022-02-14T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-09-10T04:00:00.000Z",
-            "Authorizing_Agency": "United States Agency for International Development",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2021-10-29T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-11-09T05:00:00.000Z",
             "Authorizing_Agency": "Federal Communications Commission",
@@ -11015,6 +11008,14 @@
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Department of the Navy",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-02-10T05:00:00.000Z",
+            "Letter_Expiration_Date": "2023-02-14T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-02-11T05:00:00.000Z",
+            "Authorizing_Agency": "United States Agency for International Development",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -16902,6 +16903,29 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Adobe",
+        "Cloud_Service_Provider_Package": "Adobe Sign",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2108360349",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Energy",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+        "Authorizing_Agency": "Department of Energy",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Adobe%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.adobe.com/go/adobesign-gov",
+        "CSO_Description": "Adobe Sign (Moderate) is a security-enhanced instance of Adobe’s industry-leading SaaS application that lets agencies rapidly replace manual, paper-based approval and signature processes with automated, all-digital workflows. Adobe Sign makes employees more productive in the office or working remotely by letting them sign documents, request signatures, and track processes from web and mobile devices – as well as inside applications they use every day. Constituents can sign on desktop or mobile devices with no downloads or signups required. Adobe Sign capabilities include webforms, batch signing, automated workflows and document templates, multifactor signer authentication, and support for both citizen e-signatures and employee digital signatures (using PIV or CAC cards) in a single process. Adobe Sign (Moderate) is hosted on Microsoft Azure Government Cloud and designated for the sole use of U.S. federal, tribal, state, and local government customers, and U.S. government contractors and partners. Adobe Sign is used by the majority of Fortune 100 companies. And, it’s Microsoft’s preferred e-signature solution. Learn more.",
+        "CSP_POC_Name": "Rahat Sethi",
+        "CSP_POC_Email": "fedramp@adobe.com",
+        "FedRAMP_In-Process_Date": "2022-03-09T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Armedia, LLC",
         "Cloud_Service_Provider_Package": "Armedia Content Cloud",
         "Path": "Agency",
@@ -17571,6 +17595,7 @@
         "CSP_Website": "https://eightfold.ai/",
         "CSO_Description": "Eightfold provides a Talent Intelligence Platform built on Artificial Intelligence that enables governmental agencies to increase productivity and fight bias in their talent acquisition efforts and internal talent management. Eightfold’s deep learning AI platform empowers agencies to reduce the overall time and cost to hire, surface existing skill inventories to facilitate workforce planning, provide employees abilities to self-service their career planning, achieve diversity hiring goals, and optimize career search for job seekers. To that end, Eightfold offers two sets of services: one set for agency oriented solutions for talent acquisition and management, and the other set for citizen oriented solutions to enable the government to improve employment.  Eightfold allows agencies to select modules based on their goals and mission.  These modules include: workforce recruiting, workforce management, workforce mobility, and workforce marketplace",
         "CSP_POC_Name": "Chris Mullaney",
+        "CSP_POC_Email": "fedramp@eightfold.ai",
         "Fedramp_Ready_Date": "2022-02-24T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
@@ -17633,6 +17658,25 @@
         "CSP_POC_Name": "Chad Cragle",
         "CSP_POC_Email": "fedramp@formassembly.com",
         "Fedramp_Ready_Date": "2020-12-29T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Global Telehealth Services, inc.",
+        "Cloud_Service_Provider_Package": "GTS VirtualHealth Platform (GTS-VP)",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2035860874",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/GTS%20Logo.png",
+        "Independent_Assessor": "EmeSec Incorporated",
+        "CSP_Website": "https://www.globaltelehealthservices.com/",
+        "CSO_Description": "The GTS-VP offers Customer Agencies a powerful, flexible and convenient solution to provide Remote Patient Monitoring (RPM), Real Time Telehealth visits, and Store and Forward Technology (labs, images, and clinical data) services. The GTS-VP connects healthcare providers, patients, and patient families to communicate healthcare information from remote patient monitoring tools and through video-teleconferencing.  The GTS-VP integrates with RPM medical devices from most any manufacturer and can be readily configured to work across multiple disease types and chronic conditions. The GTS-VP is also designed to make use of existing agency workflows and business processes with the ability to expand to address conditions and incorporate devices and capabilities that have yet to be developed.",
+        "CSP_POC_Name": "James McCartney",
+        "CSP_POC_Email": "fedramp@globaltelehealthservices.com",
+        "Fedramp_Ready_Date": "2022-01-03T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
