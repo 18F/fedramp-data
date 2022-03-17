@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-03-16T04:40:50.696Z",
+    "Created_At": "2022-03-17T04:40:50.663Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -5688,14 +5688,6 @@
         "CSP_POC_Email": "collab-usgov@cisco.com",
         "FedRAMP_In-Process_Date": "2015-04-23T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2017-08-09T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-08-25T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Food and Drug Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
           {
             "Authorizing_Letter_Last_Sign_Date": "2018-09-05T04:00:00.000Z",
             "Authorizing_Agency": "Department of Homeland Security",
@@ -16915,7 +16907,7 @@
         "Cloud_Service_Provider_Name": "Kahua, Inc.",
         "Cloud_Service_Provider_Package": "Kahua Federal Network (KFN)",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "FR2032565438",
         "Service_Model": [
           "SaaS"
@@ -16928,9 +16920,18 @@
         "Authorizing_Agency": "General Services Administration",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Kahua%20Logo.png",
         "Independent_Assessor": "Schellman Compliance, LLC",
+        "Underlying_CSP_Package_ID": [
+          "F1609267945",
+          "FR1823149273",
+          "F1603087869",
+          "MSO365MT",
+          "FR1818161169"
+        ],
         "CSP_Website": "https://www.kahua.com/industries/government/",
-        "CSO_Description": "Kahua is a leading provider of capital program and construction project management software. Government agencies use Kahua’s collaborative construction management solutions to improve efficiency, lower costs and reduce project risk throughout the lifecycle of their capital programs. Kahua’s purpose-built solutions for agencies, program managers and contractors enable rapid implementation that minimizes time-to-value and enhances user adoption. And with the industry’s only low-code application platform agencies can easily customize existing Kahua apps or even build their own new apps to run their programs and projects at peak efficiency today and rapidly adapt as conditions dictate.\r\n\r\nKahua’s collaborative solutions include:\n\n* Capital Planning\n* Design Management\n* Bid Management\n* Cost Management\n* Construction Administration\n* Asset Handover",
+        "CSO_Description": "Government agencies use Kahua’s collaborative construction management solutions to improve efficiency, lower costs and reduce project risk throughout the lifecycle of their capital programs. Kahua’s purpose-built solutions for agencies, program managers and contractors enable rapid implementation that minimizes time-to-value and enhances user adoption. And with the industry’s only low-code application platform agencies can easily customize existing Kahua apps or even build their own new apps to run their programs and projects at peak efficiency today and rapidly adapt as conditions dictate.\n\nKahua’s collaborative solutions include:\n\n* Capital Planning\n* Design Management\n* Bid Management\n* Cost Management\n* Construction Administration\n* Asset Handover",
+        "Announcement_Date": "2022-03-15T04:00:00.000Z",
         "CSP_POC_Name": "Chris Faklaris",
+        "CSP_POC_Email": "fedramp@kahua.com",
         "FedRAMP_In-Process_Date": "2022-01-07T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
@@ -19333,13 +19334,17 @@
       {
         "Cloud_Service_Provider_Name": "Workday Inc.",
         "Cloud_Service_Provider_Package": "Workday Government Cloud (WGC)",
-        "Designation": "FedRAMP Ready",
+        "Path": "Agency",
+        "Designation": "In Process",
         "Package_ID": "FR2103344623",
         "Service_Model": [
           "SaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Federal Reserve System",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRS%20Logo.png",
+        "Authorizing_Agency": "Federal Reserve System",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Workday%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "https://www.workday.com/",
@@ -19347,6 +19352,7 @@
         "CSP_POC_Name": "Workday Government Cloud Team",
         "CSP_POC_Email": "fedramp@workday.com",
         "Fedramp_Ready_Date": "2021-08-16T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2022-03-16T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -19439,7 +19445,7 @@
       {
         "Name": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
         "Accreditation_Date": "2015-07-16T04:00:00.000Z",
-        "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/A-Lign%20Logo.JPG",
+        "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/ALIGN%20Logo.png",
         "Description": "As an accredited FedRAMP 3PAO, A-LIGN is able to conduct the FedRAMP pre-assessment and security assessment based on the published templates and testing guidance. A-LIGN offers a FedRAMP pre-assessment to identify potential non-conformities, prior to beginning the security assessment. A-LIGN's security assessors and dedicated penetration testing team execute the FedRAMP assessment in accordance with the FedRAMP requirements.  As an assessor firm originally accredited by FedRAMP and having performed a security assessment for a certified CSP, we have the experience required to execute a comprehenisve assessment.",
         "POC_Name": "Petar Besalev",
         "POC_Email": "FedRAMP@a-lign.com",
