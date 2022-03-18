@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-03-17T04:40:50.663Z",
+    "Created_At": "2022-03-18T04:40:50.563Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2951,6 +2951,14 @@
             "Authorizing_Agency": "Council of the Inspectors General on Integrity and Efficiency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CIGIE%20Logo.jpg",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-03-04T05:00:00.000Z",
+            "Letter_Expiration_Date": "2023-01-05T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-04T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -4368,6 +4376,14 @@
             "Letter_Expiration_Date": "2027-01-20T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-03-03T05:00:00.000Z",
             "Authorizing_Agency": "Department of the Interior",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2027-01-20T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-01-20T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Authorizing_Subagency": "Interior Business Center",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
             "Include_In_Marketplace": "Y"
           }
@@ -7905,7 +7921,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Google%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "https://cloud.google.com",
-        "CSO_Description": "Google Services is comprised of Google’s multi-tenant public cloud Google Cloud Platform and built atop the Google Common Infrastructure. The Google Common Infrastructure powers Google worldwide.\n\nThe in-scope Google Cloud Platform services Authorized at High are: Admin Console (including Admin SDK, Directory Sync), App Engine, BigQuery, Cloud Bigtable, Cloud DNS, Cloud HSM, Cloud Identity, Cloud Key Management Service, Cloud Spanner, Cloud SQL, Cloud Storage, Compute Engine, Container Registry, Dataflow, Dataproc, Firestore, Google Kubernetes Engine, Identity & Access Management (IAM), Memorystore, Persistent Disk, Pub/Sub, Virtual Private Cloud (VPC).\n\nThe in-scope Google Cloud Platform services Authorized at Moderate are: Access Context Manager, Access Transparency, AI Platform Training and Prediction (formerly Cloud Machine Learning Engine), Anthos Config Management (ACM), Anthos Service Mesh, Apigee X, Assured Workloads, AutoML Natural Language, AutoML Tables, AutoML Translation, AutoML Video, AutoML Vision, BigQuery, Binary Authorization, Care Studio, Certificate Authority Service, Cloud Billing, Cloud Build, Cloud CDN, Cloud Composer, Cloud Console (including BeyondCorp Enterprise formerly Context Aware Access), Cloud Console App, Cloud Data Fusion, Cloud Data Loss Prevention, Cloud Debugger (formerly Stackdriver Debugger), Cloud Deployment Manager, Cloud Endpoints, Cloud External Key Manager (Cloud EKM), Cloud Filestore, Cloud Functions, Cloud Healthcare, Cloud Interconnect, Cloud Life Sciences (formerly Google Genomics), Cloud Load Balancing, Cloud Logging (formerly Stackdriver Logging; includes Error Reporting), Cloud NAT (Network Address Translation), Cloud Natural Language API, Cloud Monitoring, Cloud Profiler (formerly Stackdriver Profiler), Cloud Router, Cloud Run (fully managed), Cloud Run for Anthos, Cloud SDK, Cloud Scheduler, Cloud Shell, Cloud Source Repositories, Cloud Tasks, Cloud Trace (formerly Stackdriver Trace) , Cloud Translation, Cloud Vision, Cloud VPN, Connect, Data Catalog, Datalab, Datastore, Data Transfer Service, Dialogflow, Document AI, Game Servers, GCP Marketplace, Google Cloud Armor, Google Cloud Identity-Aware Proxy, Identity Platform, IoT Core, Network Service Tiers, Resource Manager API, Secret Manager, Security Command Center – Web Security Scanner (formerly Cloud Security Scanner), Service Directory, Service Infrastructure (formerly Service Control; includes Service Management API and Service Consumer Management API), Speech-to-Text , Storage Transfer Service, Talent Solution, Text-to-Speech, Vertex AI Workbench (formerly AI Platform Notebooks), Video Intelligence API, VPC Service Controls.",
+        "CSO_Description": "Google Services is comprised of Google’s multi-tenant public cloud Google Cloud Platform and built atop the Google Common Infrastructure. The Google Common Infrastructure powers Google worldwide.\r\n\r\nThe in-scope Google Cloud Platform services Authorized at High are: Admin Console (including Admin SDK, Directory Sync), App Engine, BigQuery, Cloud Bigtable, Cloud Data Loss Protection, Cloud DNS, Cloud HSM, Cloud Identity, Cloud Key Management Service, Cloud Logging, Cloud Spanner, Cloud SQL, Cloud Storage, Compute Engine, Container Registry, Dataflow, Dataproc, Firestore, Google Kubernetes Engine, Identity & Access Management (IAM), Memorystore, Persistent Disk, Pub/Sub, Virtual Private Cloud (VPC).\r\n\r\nThe in-scope Google Cloud Platform services Authorized at Moderate are: Access Approval, Access Context Manager, Access Transparency, AI Platform Data Labeling, AI Platform Training and Prediction (formerly Cloud Machine Learning Engine), Anthos Config Management (ACM), Anthos Service Mesh, Apigee X, Assured Workloads, AutoML Natural Language, AutoML Tables, AutoML Translation, AutoML Video, AutoML Vision, BigQuery, Binary Authorization, Care Studio, Certificate Authority Service, Cloud Asset Inventory, Cloud Billing, Cloud Build, Cloud CDN, Cloud Composer, Cloud Console (including BeyondCorp Enterprise formerly Context Aware Access), Cloud Console App, Cloud Data Fusion, Cloud Data Loss Prevention, Cloud Debugger (formerly Stackdriver Debugger), Cloud Deployment Manager, Cloud Endpoints, Cloud External Key Manager (Cloud EKM), Cloud Filestore, Cloud Functions, Cloud Functions for Firebase, Cloud Healthcare, Cloud Interconnect, Cloud Life Sciences (formerly Google Genomics), Cloud Load Balancing, Cloud Logging (formerly Stackdriver Logging; includes Error Reporting), Cloud NAT (Network Address Translation), Cloud Natural Language API, Cloud Monitoring, Cloud Profiler (formerly Stackdriver Profiler), Cloud Router, Cloud Run (fully managed), Cloud Run for Anthos, Cloud SDK, Cloud Scheduler, Cloud Shell, Cloud Source Repositories, Cloud Tasks, Cloud Trace (formerly Stackdriver Trace), Cloud Translation, Cloud Vision, Cloud VPN, Connect, Data Catalog, Datalab, Datastore, Data Transfer Service, Dialogflow, Document AI, Firebase Authentication, Game Servers, GCP Marketplace, Google Cloud Armor, Google Cloud Identity-Aware Proxy, Hub, Identity Platform, IoT Core, Network Service Tiers, Resource Manager API, Secret Manager, Security Command Center (including Web Security Scanner) (formerly Cloud Security Scanner), Service Directory, Service Infrastructure (formerly Service Control; includes Service Management API and Service Consumer Management API), Speech-to-Text , Storage Transfer Service, Talent Solution, Text-to-Speech, Traffic Director, Vertex AI Workbench (formerly AI Platform Notebooks), Video Intelligence API, VPC Service Controls.",
         "Announcement_Date": "2019-12-04T05:00:00.000Z",
         "CSP_POC_Name": "Google FedRAMP Team",
         "CSP_POC_Email": "fedramp@google.com",
@@ -15937,6 +15953,33 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "DLH Corporation",
+        "Cloud_Service_Provider_Package": "DLH Infinibyte Cloud",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2000951694",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-09-21T04:00:00.000Z",
+        "Original_Expiration_Date": "2024-08-02T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "National Institutes of Health",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/DLH%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.dlhcorp.com",
+        "CSO_Description": "Infinibyte Cloud is a secure, flexible, and highly available public cloud platform-as-a-service (PaaS) that allows customers to host federal applications in a FedRAMP Moderate compliant environment.  Infinibyte Cloud is a multi-tenant hosting platform that provides comprehensive managed solutions including the setup, configuration, security hardening, management, patching, monitoring, scanning, backup, and support of customer environments comprised of virtual machines, operating systems, and databases.  The information security architecture leverages “defense in depth” concepts to provide multiple layers of security controls for customer systems.  Infinibyte Cloud supports a number of operating systems, databases, services, and applications, including Microsoft Windows Server, Red Hat Enterprise Linux, AlmaLinux, Microsoft Active Directory, Microsoft SQL Server, Oracle Database, MySQL, MongoDB, Microsoft IIS, Apache HTTP Server.",
+        "CSP_POC_Name": "Jeffrey Hsii",
+        "CSP_POC_Email": "fedramp@infinibytecloud.com",
+        "Fedramp_Ready_Date": "2020-02-19T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2021-09-21T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Google",
         "Cloud_Service_Provider_Package": "Google Workspace",
         "Path": "JAB",
@@ -16936,6 +16979,37 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Point Blue Conservation Science",
+        "Cloud_Service_Provider_Package": "Point Blue Science Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2127765215",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "LI-SaaS",
+        "Original_Authorization_Date": "2022-02-28T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of the Interior",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+        "Authorizing_Agency": "Department of the Interior",
+        "Authorizing_Subagency": "Fish and Wildlife Service",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/PointBlue%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1512167750",
+          "FR1823447014"
+        ],
+        "CSP_Website": "https://www.pointblue.org/",
+        "CSO_Description": "Point Blue Conservation Science (Point Blue) hosts the multi-user Software as a Service (SaaS) named the Point Blue Science Cloud, a collection of tools that manage, share, curate, and analyze scientifically collected biodiversity observations and samples in support of the Avian Knowledge Network.  These tools include data-rich, interactive websites that integrate bird and other indicator species data with ecosystem and climate change data to improve conservation outcomes today and in the future. Many tools incorporate original research data from Point Blue scientists and our partners. The Point Blue Science Cloud is used by Federal agencies, State agencies, local government agencies, non-for-profit organizations, and other conservation-minded individuals. Federal agencies use the Point Blue Science Cloud to manage and curate observations, conduct research, and analyze information related to wildlife and ecosystems.  Point Blue Conservation Science is a 501(C)(3) non-profit organization with a mission to conserve birds, other wildlife and ecosystems through science, partnerships, and outreach. ",
+        "Announcement_Date": "2022-03-17T04:00:00.000Z",
+        "CSP_POC_Name": "Michael Fitzgibbon",
+        "CSP_POC_Email": "fedramp@pointblue.org",
+        "FedRAMP_In-Process_Date": "2021-11-04T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "3M",
         "Cloud_Service_Provider_Package": "RevCycle Health Services Platform (RHSP)",
         "Path": "Agency",
@@ -17580,31 +17654,6 @@
         "CSP_POC_Name": "Rachel DeHoyos",
         "CSP_POC_Email": "fedramp-info@digital.ai",
         "FedRAMP_In-Process_Date": "2021-07-22T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "DLH Corporation",
-        "Cloud_Service_Provider_Package": "DLH Infinibyte Cloud",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2000951694",
-        "Service_Model": [
-          "PaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "Authorizing_Subagency": "National Institutes of Health",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/DLH%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.dlhcorp.com",
-        "CSO_Description": "The Infinibyte Cloud is a secure, flexible, and highly available cloud platform-as-a-service (PaaS) offering that allows its customers to focus on its business strategies, while allowing infrastructure management to be handled by the system. Infinibyte Cloud provides on-demand access to system shared computing resources, which are made highly available to customers through virtualization and elasticity to meet the NIST 800-145 definition of cloud computing. The Infinibyte Cloud security architecture has been developed to provide a high level of data segmentation for increased data control within the environment and meet FedRAMP requirements.",
-        "CSP_POC_Name": "Jeffrey Hsii",
-        "CSP_POC_Email": "fedramp@infinibytecloud.com",
-        "Fedramp_Ready_Date": "2020-02-19T05:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2021-09-21T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -18672,30 +18721,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Point Blue Conservation Science",
-        "Cloud_Service_Provider_Package": "Point Blue Science Cloud",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2127765215",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "LI-SaaS",
-        "Sponsoring_Agency": "Department of the Interior",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-        "Authorizing_Agency": "Department of the Interior",
-        "Authorizing_Subagency": "Fish and Wildlife Service",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/PointBlue%20Logo.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "CSP_Website": "https://www.pointblue.org/",
-        "CSO_Description": "Point Blue Conservation Science (Point Blue) hosts the multi-user Software as a Service (SaaS) named the Point Blue Science Cloud, a collection of tools that manage, share, curate, and analyze scientifically collected biodiversity observations and samples in support of the Avian Knowledge Network.  These tools include data-rich, interactive websites that integrate bird and other indicator species data with ecosystem and climate change data to improve conservation outcomes today and in the future. Many tools incorporate original research data from Point Blue scientists and our partners. The Point Blue Science Cloud is used by Federal agencies, State agencies, local government agencies, non-for-profit organizations, and other conservation-minded individuals. Federal agencies use the Point Blue Science Cloud to manage and curate observations, conduct research, and analyze information related to wildlife and ecosystems.  Point Blue Conservation Science is a 501(C)(3) non-profit organization with a mission to conserve birds, other wildlife and ecosystems through science, partnerships, and outreach. ",
-        "CSP_POC_Name": "Michael Fitzgibbon",
-        "CSP_POC_Email": "fedramp@pointblue.org",
-        "FedRAMP_In-Process_Date": "2021-11-04T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "PowerTrain Inc.",
         "Cloud_Service_Provider_Package": "USALearning Federal Learning Enclave - PaaS",
         "Path": "Agency",
@@ -18897,30 +18922,6 @@
         "CSP_POC_Email": "fedramp.selling@rsa.com",
         "Fedramp_Ready_Date": "2021-02-02T05:00:00.000Z",
         "FedRAMP_In-Process_Date": "2021-12-02T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "SAS Institute, Inc.",
-        "Cloud_Service_Provider_Package": "SAS Cloud for Government",
-        "Path": "Agency",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR2105254343",
-        "Service_Model": [
-          "PaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Justice",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
-        "Authorizing_Agency": "Department of Justice",
-        "Authorizing_Subagency": "Office of Justice Programs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/SAS%20Logo.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "CSP_Website": "www.sas.com",
-        "CSO_Description": "The SAS Cloud for Government (SAS Cloud) is a Platform-as-a-Service (PaaS) Cloud Service Offering (CSO) that intends to provide federal clients with a platform that current and future SAS software offerings may be hosted. The SAS Cloud environment is hosted within SAS’ datacenter and managed by SAS resources. SAS Cloud is a multi-tenant government cloud with four State Government customers.",
-        "CSP_POC_Name": "Gary Smith",
-        "CSP_POC_Email": "SAS_FedRAMP_PaaS@sas.com",
-        "Fedramp_Ready_Date": "2021-03-17T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
