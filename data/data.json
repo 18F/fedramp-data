@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-03-23T14:49:14.560Z",
+    "Created_At": "2022-03-24T04:40:50.423Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3065,6 +3065,12 @@
             "Authorizing_Agency": "Department of Education",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2024-03-14T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-23T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -4105,9 +4111,9 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2021-03-22T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-03-22T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-03-22T04:00:00.000Z",
+            "Letter_Date": "2022-03-14T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-03-14T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-14T04:00:00.000Z",
             "Authorizing_Agency": "Library of Congress",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/LoC%20logo.jpg",
             "Include_In_Marketplace": "Y"
@@ -5419,6 +5425,13 @@
             "Letter_Date": "2021-12-01T05:00:00.000Z",
             "Authorizing_Agency": "Department of State",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2025-03-22T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-22T04:00:00.000Z",
+            "Authorizing_Agency": "Social Security Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -7924,7 +7937,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Google%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "https://cloud.google.com",
-        "CSO_Description": "Google Services is comprised of Google’s multi-tenant public cloud Google Cloud Platform and built atop the Google Common Infrastructure. The Google Common Infrastructure powers Google worldwide.\r\n\r\nThe in-scope Google Cloud Platform services Authorized at High are: Admin Console (including Admin SDK, Directory Sync), App Engine, BigQuery, Cloud Bigtable, Cloud Data Loss Protection, Cloud DNS, Cloud HSM, Cloud Identity, Cloud Key Management Service, Cloud Logging, Cloud Spanner, Cloud SQL, Cloud Storage, Compute Engine, Container Registry, Dataflow, Dataproc, Firestore, Google Kubernetes Engine, Identity & Access Management (IAM), Memorystore, Persistent Disk, Pub/Sub, Virtual Private Cloud (VPC).\r\n\r\nThe in-scope Google Cloud Platform services Authorized at Moderate are: Access Approval, Access Context Manager, Access Transparency, AI Platform Data Labeling, AI Platform Training and Prediction (formerly Cloud Machine Learning Engine), Anthos Config Management (ACM), Anthos Service Mesh, Apigee X, Assured Workloads, AutoML Natural Language, AutoML Tables, AutoML Translation, AutoML Video, AutoML Vision, BigQuery, Binary Authorization, Care Studio, Certificate Authority Service, Cloud Asset Inventory, Cloud Billing, Cloud Build, Cloud CDN, Cloud Composer, Cloud Console (including BeyondCorp Enterprise formerly Context Aware Access), Cloud Console App, Cloud Data Fusion, Cloud Data Loss Prevention, Cloud Debugger (formerly Stackdriver Debugger), Cloud Deployment Manager, Cloud Endpoints, Cloud External Key Manager (Cloud EKM), Cloud Filestore, Cloud Functions, Cloud Functions for Firebase, Cloud Healthcare, Cloud Interconnect, Cloud Life Sciences (formerly Google Genomics), Cloud Load Balancing, Cloud Logging (formerly Stackdriver Logging; includes Error Reporting), Cloud NAT (Network Address Translation), Cloud Natural Language API, Cloud Monitoring, Cloud Profiler (formerly Stackdriver Profiler), Cloud Router, Cloud Run (fully managed), Cloud Run for Anthos, Cloud SDK, Cloud Scheduler, Cloud Shell, Cloud Source Repositories, Cloud Tasks, Cloud Trace (formerly Stackdriver Trace), Cloud Translation, Cloud Vision, Cloud VPN, Connect, Data Catalog, Datalab, Datastore, Data Transfer Service, Dialogflow, Document AI, Firebase Authentication, Game Servers, GCP Marketplace, Google Cloud Armor, Google Cloud Identity-Aware Proxy, Hub, Identity Platform, IoT Core, Network Service Tiers, Resource Manager API, Secret Manager, Security Command Center (including Web Security Scanner) (formerly Cloud Security Scanner), Service Directory, Service Infrastructure (formerly Service Control; includes Service Management API and Service Consumer Management API), Speech-to-Text , Storage Transfer Service, Talent Solution, Text-to-Speech, Traffic Director, Vertex AI Workbench (formerly AI Platform Notebooks), Video Intelligence API, VPC Service Controls.",
+        "CSO_Description": "Google Services is comprised of Google’s multi-tenant public cloud Google Cloud Platform and built atop the Google Common Infrastructure. The Google Common Infrastructure powers Google worldwide.\r\n\r\nThe in-scope Google Cloud Platform services Authorized at High are: Admin Console (including Admin SDK, Directory Sync), App Engine, BigQuery, Cloud Bigtable, Cloud Data Loss Protection, Cloud DNS, Cloud HSM, Cloud Identity, Cloud Key Management Service, Cloud Logging, Cloud Spanner, Cloud SQL, Cloud Storage, Compute Engine, Container Registry, Dataflow, Dataproc, Firestore, Google Kubernetes Engine, Identity & Access Management (IAM), Memorystore, Persistent Disk, Pub/Sub, Virtual Private Cloud (VPC).\r\n\r\nThe in-scope Google Cloud Platform services Authorized at Moderate are: Access Approval, Access Context Manager, Access Transparency, AI Platform Data Labeling, AI Platform Training and Prediction (formerly Cloud Machine Learning Engine), Anthos Config Management (ACM), Anthos Service Mesh, Apigee X, Assured Workloads, AutoML Natural Language, AutoML Tables, AutoML Translation, AutoML Video, AutoML Vision, BigQuery, Binary Authorization, Care Studio, Certificate Authority Service, Chronicle, Cloud Asset Inventory, Cloud Billing, Cloud Build, Cloud CDN, Cloud Composer, Cloud Console (including BeyondCorp Enterprise formerly Context Aware Access), Cloud Console App, Cloud Data Fusion, Cloud Data Loss Prevention, Cloud Debugger (formerly Stackdriver Debugger), Cloud Deployment Manager, Cloud Endpoints, Cloud External Key Manager (Cloud EKM), Cloud Filestore, Cloud Functions, Cloud Functions for Firebase, Cloud Healthcare, Cloud Interconnect, Cloud Life Sciences (formerly Google Genomics), Cloud Load Balancing, Cloud Logging (formerly Stackdriver Logging; includes Error Reporting), Cloud NAT (Network Address Translation), Cloud Natural Language API, Cloud Monitoring, Cloud Profiler (formerly Stackdriver Profiler), Cloud Router, Cloud Run (fully managed), Cloud Run for Anthos, Cloud SDK, Cloud Scheduler, Cloud Shell, Cloud Source Repositories, Cloud Tasks, Cloud Trace (formerly Stackdriver Trace), Cloud Translation, Cloud Vision, Cloud VPN, Connect, Data Catalog, Datalab, Datastore, Data Transfer Service, Dialogflow, Document AI, Firebase Authentication, Game Servers, GCP Marketplace, Google Cloud Armor, Google Cloud Identity-Aware Proxy, Hub, Identity Platform, IoT Core, Network Service Tiers, Resource Manager API, Secret Manager, Security Command Center (including Web Security Scanner) (formerly Cloud Security Scanner), Service Directory, Service Infrastructure (formerly Service Control; includes Service Management API and Service Consumer Management API), Speech-to-Text , Storage Transfer Service, Talent Solution, Text-to-Speech, Traffic Director, Vertex AI Workbench (formerly AI Platform Notebooks), Video Intelligence API, VPC Service Controls.",
         "Announcement_Date": "2019-12-04T05:00:00.000Z",
         "CSP_POC_Name": "Google FedRAMP Team",
         "CSP_POC_Email": "fedramp@google.com",
@@ -11528,6 +11541,12 @@
             "Authorizing_Subagency": "Defense Information Systems Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-10-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-23T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -12589,8 +12608,8 @@
         "FedRAMP_In-Process_Date": "2018-04-09T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Date": "2019-05-01T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-02-08T05:00:00.000Z",
+            "Letter_Expiration_Date": "2024-03-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-23T04:00:00.000Z",
             "Authorizing_Agency": "Department of Agriculture",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
             "Include_In_Marketplace": "Y"
@@ -13632,13 +13651,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2019-03-18T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-03-18T04:00:00.000Z",
-            "Authorizing_Agency": "Social Security Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-07-09T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-07-09T04:00:00.000Z",
             "Authorizing_Agency": "Department of Justice",
@@ -13972,6 +13984,13 @@
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "United States Army Corps of Engineers",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2025-03-22T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-22T04:00:00.000Z",
+            "Authorizing_Agency": "Social Security Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -15131,6 +15150,12 @@
             "Authorizing_Agency": "Farm Credit Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FCA%20Logo.jpg",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2024-10-09T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-23T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -15239,6 +15264,12 @@
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "National Heart, Lung, and Blood Institute",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2024-09-21T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-23T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -16733,6 +16764,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-12-12T05:00:00.000Z",
             "Authorizing_Agency": "United States Securities and Exchange Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/SEC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-03-21T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-03-21T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-21T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Reserve System",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRS%20Logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -19238,7 +19277,7 @@
         "Independent_Assessor": "Schellman Compliance, LLC",
         "CSP_Website": "https://www.sprinklr.com/ ",
         "CSO_Description": "Sprinklr CXM for Government helps organizations create, manage, and optimize customer experiences across various digital channels including social media, messaging, email, and websites. Sprinklr’s AI-backed core platform consists of five products:  Modern Marketing, Modern Advertising, Modern Research, Modern Care, and Modern Engagement.",
-        "CSP_POC_Name": "K. Yvonne Lucas",
+        "CSP_POC_Name": "Sonal Agrawal",
         "CSP_POC_Email": "FedRAMP-SUPPORT@SPRINKLR.COM ",
         "Fedramp_Ready_Date": "2020-12-01T05:00:00.000Z",
         "FedRAMP_In-Process_Date": "2021-05-26T04:00:00.000Z",
@@ -19271,7 +19310,7 @@
         "Cloud_Service_Provider_Name": "Synergetics Incorporated",
         "Cloud_Service_Provider_Package": "Open Federal Logistics Information System (OpenFLIS)",
         "Path": "JAB",
-        "Designation": "FedRAMP Ready",
+        "Designation": "In Process",
         "Package_ID": "FR1901136437",
         "Service_Model": [
           "SaaS"
@@ -19287,6 +19326,7 @@
         "CSP_POC_Name": "Bill Barton",
         "CSP_POC_Email": "fedramp@synergetics.com",
         "Fedramp_Ready_Date": "2020-12-16T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2022-03-23T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -20046,7 +20086,7 @@
         "Accreditation_Date": "2015-12-22T05:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/MBL%20LOGO.jpg",
         "Description": "**Pre-Assessment**: Review and/or create FedRAMP compliant system security documentation, to include but not limited to System Security Plan (SSP), Contingency Plan, and a Control Implementation Summary. These documents may also be leveraged in support of the organization’s Authorization to Operate (ATO). \n\n**Full Assessment**: Review all system documentation to ensure all NIST SP 800-53 and organizational security controls are in place. The assessors will interview necessary organizational staff to confirm policy implementation and gather applicable evidence. This will also include vulnerability and penetration testing of the environment. At the conclusion of this phase, the package will be submitted to either the sponsoring federal agency or the Joint Authorization Board (JAB).\n\n**Continuous Monitoring**: Mitigate the assessment findings by working with system owners to update any policy or procedures that are non-compliant. MBL will also work with network administrators to recommend remediation processes for technical vulnerabilities. \n\n**Annual Assessment/Monthly Scanning**: Perform monthly scanning of the environment in support of the FedRAMP continuous monitoring requirements. This phase will also include an annual assessment of one-third of the information system’s security controls. \n\n**FedRAMP Readiness**: Conduct the readiness assessment, which would result in identified gaps for mitigation as an organization moves into the assessment preparation/pre-assessment phase.\n\nPerformed Assessments for SAP NS2 (2018) & Avue Technologies (2016 & 2017)",
-        "POC_Name": "Danielle Shostal",
+        "POC_Name": "Ilene Yarnoff",
         "POC_Email": "fedramp@mbltechnologies.com",
         "website": "www.mbltechnologies.com",
         "Remediation": "Y",
