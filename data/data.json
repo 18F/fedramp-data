@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-03-27T04:40:50.787Z",
+    "Created_At": "2022-03-28T04:40:50.539Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -11893,13 +11893,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2022-03-25T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-03-25T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2025-08-05T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-08-05T04:00:00.000Z",
             "Authorizing_Agency": "Department of Energy",
@@ -12054,6 +12047,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-03-21T04:00:00.000Z",
             "Authorizing_Agency": "Executive Office of the President",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_Executive_Office_of_the_President_of_the_United_States_2014.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-03-22T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-07-22T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-23T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -17305,25 +17306,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Aunalytics, Inc.",
-        "Cloud_Service_Provider_Package": "Aunalytics Cloud",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR2033253261",
-        "Service_Model": [
-          "IaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Aunalytics%20Logo.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "CSP_Website": "www.aunalytics.com",
-        "CSO_Description": "Aunalytics is a managed cloud services provider that offers Infrastructure-as-a-Service (IaaS) to its customers. Aunalytics fully owns and maintains its  infrastructure and has full responsibility over physical and logical security. Aunalytics' Cisco Flexpod reference architecture based cloud infrastructure is spread across two datacenters in South Bend, Indiana, and Kalamazoo, Michigan. Each customer leveraging the Aunalytics infrastructure is given their own private VLANs protected by virtual firewalls to ensure there is logical separation from other customers.Aunalytics Cloud’s strengths include a robust configuration management process using ticketing in Autotask with well-documented security impact analyses, implementation plans, and back-out plans; daily authenticated vulnerability scans that exceed the FedRAMP required frequency; strong datacenter physical security; and DNSSEC that provides authoritative certificate-based name resolution and the capability to deploy hierarchical DNS namespaces.",
-        "CSP_POC_Name": "Kerry Vickers",
-        "CSP_POC_Email": "info@aunalytics.com",
-        "Fedramp_Ready_Date": "2021-03-26T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Aurigo Software Technologies, Inc.",
         "Cloud_Service_Provider_Package": "Aurigo Masterworks Cloud and Aurigo Essentials",
         "Designation": "FedRAMP Ready",
@@ -18840,25 +18822,6 @@
         "CSP_POC_Name": "Michael Wolfe",
         "CSP_POC_Email": "federal@ontariosystems.com",
         "FedRAMP_In-Process_Date": "2021-05-19T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Opus Interactive",
-        "Cloud_Service_Provider_Package": "OpusGov (OG)",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR1906574488",
-        "Service_Model": [
-          "IaaS, PaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Opus%20Logo.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "CSP_Website": "https://www.opusinteractive.com/",
-        "CSO_Description": "OpusGov is a Moderate PaaS and IaaS, Government-Only Cloud Service Offering (CSO) that intends to provide federal clients with secure infrastructure to deploy and scale resources without the direct overhead associated with on-premises data facilities. OpusGov is a custom environment based on the high performance, high security architecture that OpusCloud, the commercial product, is built upon. The OpusGov primary system resides in the Iron Mountain datacenter in Manassas, Virginia, which maintains FISMA High authorization. Iron Mountain enforces all physical and environmental controls through a Data Center Customer Agreement with Opus Interactive who accepts all responsibilities for the physical and environmental controls, which were tested by A-LIGN as part of the Readiness Assessment. The OpusGov secondary site is located at the Data Bank facility in Dallas, Texas. Data Bank enforces all physical and environmental controls through a Master Service Agreement with Opus Interactive.",
-        "CSP_POC_Name": "Eric Hulbert",
-        "CSP_POC_Email": "govsales@opusinteractive.com",
-        "Fedramp_Ready_Date": "2021-03-26T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
