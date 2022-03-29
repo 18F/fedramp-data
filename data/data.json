@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-03-28T04:40:50.539Z",
+    "Created_At": "2022-03-29T04:40:51.217Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2594,15 +2594,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2019-01-18T05:00:00.000Z",
-            "Letter_Expiration_Date": "2022-01-18T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-01-18T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Authorizing_Subagency": "Energy Information Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2024-03-29T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-03-29T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Interior",
@@ -2901,6 +2892,15 @@
             "Authorizing_Agency": "Department of Homeland Security",
             "Authorizing_Subagency": "Federal Emergency Management Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-03-28T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-03-28T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-28T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "Energy Information Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -3487,7 +3487,17 @@
         "CSP_POC_Email": "IGS@Infor.com",
         "Fedramp_Ready_Date": "2017-07-25T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2018-04-18T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2021-11-22T05:00:00.000Z",
+            "Letter_Expiration_Date": "2024-11-10T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-11-23T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Federal Emergency Management Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Everbridge",
@@ -9052,6 +9062,14 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "Bureau of Economic Analysis",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-03-24T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-24T04:00:00.000Z",
+            "Authorizing_Agency": "Department of State",
+            "Authorizing_Subagency": "State Office of the Inspector General",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
