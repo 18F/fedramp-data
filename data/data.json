@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-03-29T04:40:51.217Z",
+    "Created_At": "2022-03-30T04:40:50.780Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2561,13 +2561,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2017-07-06T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-07-06T04:00:00.000Z",
-            "Authorizing_Agency": "Social Security Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Authorizing_Letter_Last_Sign_Date": "2017-11-19T05:00:00.000Z",
             "Authorizing_Agency": "Department of Transportation",
             "Authorizing_Subagency": "Federal Aviation Administration",
@@ -2635,13 +2628,6 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Institute of Standards and Technology",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-03-29T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-03-29T04:00:00.000Z",
-            "Authorizing_Agency": "Social Security Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -2901,6 +2887,13 @@
             "Authorizing_Agency": "Department of Energy",
             "Authorizing_Subagency": "Energy Information Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2025-03-25T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-25T04:00:00.000Z",
+            "Authorizing_Agency": "Social Security Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -4844,7 +4837,7 @@
         "CSP_Website": "http://www.innovestsystems.com/",
         "CSO_Description": "A browser-based, highly secure, integrated, real-time trust accounting and wealth management platform offered in a multi-currency Software as a Service (SaaS) environment.",
         "Announcement_Date": "2019-04-23T04:00:00.000Z",
-        "CSP_POC_Name": "Joanne Smith",
+        "CSP_POC_Name": "Ryan Alexis",
         "CSP_POC_Email": "fedramp@innovestsystems.com",
         "FedRAMP_In-Process_Date": "2018-06-13T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
@@ -9389,7 +9382,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "DocuSign",
-        "Cloud_Service_Provider_Package": "DocuSign CLM (formerly SpringCM)",
+        "Cloud_Service_Provider_Package": "DocuSign CLM",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "F1605027893",
@@ -17969,25 +17962,6 @@
         "CSP_POC_Name": "Equifax FedRAMP team",
         "CSP_POC_Email": "FedRAMP.Security@equifax.com",
         "Fedramp_Ready_Date": "2022-02-22T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "FormAssembly",
-        "Cloud_Service_Provider_Package": "FormAssembly Government Cloud (FAGC)",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR2031156016",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/FormAssembly%20Logo.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "CSP_Website": "https://formassembly.com",
-        "CSO_Description": "FormAssembly Government Cloud (FAGC) is a Software-as-a-Service (SaaS) Cloud Service Offering (CSO) that allows federal government agencies to improve the way they collect and manage data. FAGC is a custom environment developed from the high-performance, high-security architecture that the commercial product, FormAssembly Cloud is built upon. FAGC’s form builder and data collection platform allows government professionals to streamline complex workflows, eliminate tedious manual data entry, and drive quality form conversions—all while maintaining the highest standards of security and compliance. FAGC integrates seamlessly with Salesforce and other commonly used systems to further take the hassle out of collecting and managing large amounts of sensitive data.",
-        "CSP_POC_Name": "Chad Cragle",
-        "CSP_POC_Email": "fedramp@formassembly.com",
-        "Fedramp_Ready_Date": "2020-12-29T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
