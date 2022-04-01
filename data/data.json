@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-03-31T04:40:50.365Z",
+    "Created_At": "2022-04-01T04:40:51.135Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1026,15 +1026,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2021-07-12T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-03-31T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-07-20T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "United States Patent and Trademark Office",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2021-09-22T04:00:00.000Z",
             "Letter_Expiration_Date": "2024-10-05T04:00:00.000Z",
             "Authorizing_Agency": "Environmental Protection Agency",
@@ -1067,6 +1058,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-02-23T05:00:00.000Z",
             "Authorizing_Agency": "Federal Housing Finance Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-03-09T05:00:00.000Z",
+            "Letter_Expiration_Date": "2023-02-18T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-23T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "United States Patent and Trademark Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -2481,7 +2481,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Amazon%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.aws.amazon.com",
-        "CSO_Description": "Amazon US East/West is a multi-tenant public cloud for Federal, State and Local Government customers, as well as commercial customers, designed to meet a wide range of regulatory requirements, to include government compliance and security requirements. AWS leverages the Infrastructure-as-a-Service (IaaS) cloud computing model, which enables convenient, on-demand Internet access to a shared pool of configurable computing resources such as servers, storage, network infrastructure, and various other web services. Customers can rapidly provision or release computing resources on demand.\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: Amazon API Gateway, Amazon AppStream 2.0, Amazon Athena, Amazon Aurora (MySQL), Amazon Chime, Amazon Cloud Directory, Amazon CloudFront, Amazon CloudWatch, Amazon CloudWatch Logs, AWS CloudHSM, Amazon Cognito, Amazon Comprehend, Amazon Comprehend Medical, Amazon Connect, Amazon Detective, Amazon DynamoDB, Amazon ElastiCache for Redis, Amazon Elastic Block Store (EBS), Amazon Elastic Container Registry (ECR), Amazon Elastic Container Service (ECS), Amazon Elastic File System (EFS), Amazon Elastic Compute Cloud (EC2), Amazon Elastic Kubernetes Service (EKS), Amazon Elastic MapReduce, Amazon EventBridge, Amazon Glacier, Amazon Inspector, Amazon Guard Duty, Amazon Kendra, Amazon Keyspaces, Amazon Kinesis Data Firehose, Amazon Kinesis Data Streams, Amazon Lex, Amazon Macie, Amazon MQ, Amazon PinPoint, Amazon OpenSearch (formerly Amazon Elasticsearch), Amazon Polly, Amazon QuickSight, Amazon Redshift, Amazon RDS (MariaDB, MySQL, Oracle, Postgres, SQL Server), Amazon Rekognition, Amazon Route 53, Amazon SageMaker, Amazon Simple Email Service (SES), Amazon Simple Notification Service (SNS), Amazon Simple Queue Service (SQS), Amazon Simple Storage Service (S3), Amazon Simple Workflow Service (SWF), Amazon Textract, Amazon Transcribe, Amazon Translate, Amazon Virtual Private Cloud (VPC), AWS Backup, AWS Batch, AWS Certificate Manager, AWS CloudFormation, AWS Cloud Map, AWS CloudTrail, AWS CodeBuild, AWS CodeCommit, AWS CodeDeploy, AWS CodePipeline, AWS Config, AWS Control Tower, AWS Database Migration Service, AWS Data Sync, AWS Direct Connect, AWS Directory Service, AWS Elastic Beanstalk, AWS Firewall Manager, AWS Glue, AWS Glue Data Brew, AWS Ground Station, AWS Identity & Access Management (IAM), AWS IoT Core, AWS IoT Device Manager, AWS IoT Greengrass, AWS Key Management Service (KMS), AWS Lambda, AWS License Manager, AWS Managed Service, AWS Opsworks for Chef Automate and Puppet Enterprise, AWS Organizations, AWS Outposts, AWS Personal Health Dashboard, AWS Secrets Manager, AWS Security Hub, AWS Serverless Application Repository, AWS Service Catalog, AWS Server Migration Service (SMS), AWS Shield (Standard and Advanced), AWS Snowball, AWS Snowball Edge, AWS Snowmobile, AWS Step Functions, AWS Storage Gateway, AWS Systems Manager, AWS Transfer Family, AWS Trusted Advisor, AWS WAF, AWS WorkDocs, AWS WorkSpaces, AWS X-Ray, CloudWatch Events, FSx for Lustre, FSx for Windows File Server",
+        "CSO_Description": "Amazon US East/West is a multi-tenant public cloud for Federal, State and Local Government customers, as well as commercial customers, designed to meet a wide range of regulatory requirements, to include government compliance and security requirements. AWS leverages the Infrastructure-as-a-Service (IaaS) cloud computing model, which enables convenient, on-demand Internet access to a shared pool of configurable computing resources such as servers, storage, network infrastructure, and various other web services. Customers can rapidly provision or release computing resources on demand.\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: Amazon API Gateway, Amazon AppStream 2.0, Amazon Athena, Amazon Audit Manager, Amazon Aurora (MySQL), Amazon Chime, Amazon Cloud Directory, Amazon CloudFront, Amazon CloudWatch, Amazon CloudWatch Logs, AWS CloudHSM, Amazon Cognito, Amazon Comprehend, Amazon Comprehend Medical, Amazon Connect, Amazon Detective, Amazon DynamoDB, Amazon ElastiCache for Redis, Amazon Elastic Block Store (EBS), Amazon Elastic Container Registry (ECR), Amazon Elastic Container Service (ECS), Amazon Elastic File System (EFS), Amazon Elastic Compute Cloud (EC2), Amazon Elastic Kubernetes Service (EKS), Amazon Elastic MapReduce, Amazon EventBridge, Amazon Glacier, Amazon Inspector, Amazon Guard Duty, Amazon Kendra, Amazon Keyspaces, Amazon Kinesis Data Firehose, Amazon Kinesis Data Streams, Amazon Lex, Amazon Macie, Amazon MQ, Amazon PinPoint, Amazon OpenSearch (formerly Amazon Elasticsearch), Amazon Polly, Amazon QuickSight, Amazon Redshift, Amazon RDS (MariaDB, MySQL, Oracle, Postgres, SQL Server), Amazon Rekognition, Amazon Route 53, Amazon SageMaker, Amazon Simple Email Service (SES), Amazon Simple Notification Service (SNS), Amazon Simple Queue Service (SQS), Amazon Simple Storage Service (S3), Amazon Simple Workflow Service (SWF), Amazon Textract, Amazon Transcribe, Amazon Translate, Amazon Virtual Private Cloud (VPC), AWS AppMesh, AWS Backup, AWS Batch, AWS Certificate Manager, AWS CloudFormation, AWS Cloud Map, AWS CloudTrail, AWS CodeBuild, AWS CodeCommit, AWS CodeDeploy, AWS CodePipeline, AWS Config, AWS Control Tower, AWS Database Migration Service, AWS Data Sync, AWS Direct Connect, AWS Directory Service, AWS Elastic Beanstalk, AWS Firewall Manager, AWS Glue, AWS Glue Data Brew, AWS Ground Station, AWS Identity & Access Management (IAM), AWS IoT Core, AWS IoT Device Manager, AWS IoT Greengrass, AWS Key Management Service (KMS), AWS Lambda, AWS License Manager, AWS Managed Service, AWS Network Firewall, AWS Opsworks for Chef Automate and Puppet Enterprise, AWS Organizations, AWS Outposts, AWS Personal Health Dashboard, AWS Resource Access Manager, AWS Secrets Manager, AWS Security Hub, AWS Serverless Application Repository, AWS Service Catalog, AWS Server Migration Service (SMS), AWS Shield (Standard and Advanced), AWS Snowball, AWS Snowball Edge, AWS Snowmobile, AWS Step Functions, AWS Storage Gateway, AWS Systems Manager, AWS Transfer Family, AWS Trusted Advisor, AWS WAF, AWS WorkDocs, AWS WorkSpaces, AWS X-Ray, CloudWatch Events, FSx for Lustre, FSx for Windows File Server",
         "Announcement_Date": "2013-05-01T04:00:00.000Z",
         "CSP_POC_Name": "AWS FedRAMP Compliance Team",
         "CSP_POC_Email": "aws-compliance-fedramp@amazon.com",
@@ -4201,6 +4201,34 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Ivanti",
+        "Cloud_Service_Provider_Package": "MobileIron Government Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1507116930",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2018-03-08T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Energy",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+        "Authorizing_Agency": "Department of Energy",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Ivanti%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
+        "CSP_Website": "www.mobileiron.com",
+        "CSO_Description": "MobileIron Government Cloud provides Government agencies with the foundation of the first mobile-centric, zero trust security platform to securely access and protect data across the digital workplace. MobileIron’s zero trust approach validates the device, to ensure that only authorized users, devices, apps, and services can access business resources. With MobileIron, Government agencies can secure and manage data on any device across multiple operating systems such as iOS, Android, Windows 10, macOS, Zebra and Oculus. MobileIron technology automatically provisions enterprise settings such as Wi-Fi and VPN, secures corporate email and email attachments, applications and content delivery for both GSE and BYOD programs. With MobileIron, IT departments can deliver the right resources to authorized personnel while protecting sensitive government data, preserving the privacy of end-user data, and maintaining the seamless native device experience. MobileIron Government Cloud has been purpose built to provide a cloud-based, scalable architecture that enables rapid deployment and scales up to millions of users. The MobileIron Unified Endpoint Management (UEM) platform incorporates identity, context, and privacy enforcement to set the appropriate level of access to data and services while allowing IT departments to securely manage their global mobile workforce from a single console. . When user choice and end user experience matters, MobileIron Cloud provides the simplest onboarding and superior on device experience which improves user productivity.\n\nMobileIron Government Cloud offering now includes MobileIron Threat Defense (MTD). MTD builds upon MobileIron’s mobile-centric, zero trust security framework by providing a single app that continually detects and remediates against known and unknown (zero-day) device, network and app-level threats on Android and iOS devices, with or without cellular or Wi-Fi connectivity. Deployment and activation of MTD on mobile devices is accomplished silently on managed and unmanaged devices in order to drive towards 100 percent user adoption. In addition to protecting federal data from mobile attacks, MTD helps federal agencies to comply with regulatory requirements, reduce total cost of ownership, and drive business innovation with secure mobile devices, apps, and cloud services.",
+        "Announcement_Date": "2016-12-08T05:00:00.000Z",
+        "CSP_POC_Name": "Phil Richards",
+        "CSP_POC_Email": "security@ivanti.com",
+        "FedRAMP_In-Process_Date": "2015-12-23T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "GitHub",
         "Cloud_Service_Provider_Package": "GitHub Enterprise Cloud",
         "Path": "Agency",
@@ -4470,6 +4498,12 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-01-20T05:00:00.000Z",
             "Authorizing_Agency": "Department of the Interior",
             "Authorizing_Subagency": "Interior Business Center",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2022-02-03T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Labor",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
             "Include_In_Marketplace": "Y"
           }
@@ -13898,15 +13932,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2021-03-16T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-03-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-03-24T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "International Trade Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2021-04-23T04:00:00.000Z",
             "Authorizing_Agency": "Department of State",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
@@ -14016,42 +14041,14 @@
             "Authorizing_Agency": "Social Security Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
             "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Ivanti",
-        "Cloud_Service_Provider_Package": "MobileIron Government Cloud",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1507116930",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2021-05-19T04:00:00.000Z",
-        "Original_Expiration_Date": "2022-03-31T04:00:00.000Z",
-        "Sponsoring_Agency": "United States Postal Service",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-        "Authorizing_Agency": "Department of the Treasury",
-        "Authorizing_Subagency": "United States Mint",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Ivanti%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW"
-        ],
-        "CSP_Website": "www.mobileiron.com",
-        "CSO_Description": "MobileIron Government Cloud provides Government agencies with the foundation of the first mobile-centric, zero trust security platform to securely access and protect data across the digital workplace. MobileIron’s zero trust approach validates the device, to ensure that only authorized users, devices, apps, and services can access business resources. With MobileIron, Government agencies can secure and manage data on any device across multiple operating systems such as iOS, Android, Windows 10, macOS, Zebra and Oculus. MobileIron technology automatically provisions enterprise settings such as Wi-Fi and VPN, secures corporate email and email attachments, applications and content delivery for both GSE and BYOD programs. With MobileIron, IT departments can deliver the right resources to authorized personnel while protecting sensitive government data, preserving the privacy of end-user data, and maintaining the seamless native device experience. MobileIron Government Cloud has been purpose built to provide a cloud-based, scalable architecture that enables rapid deployment and scales up to millions of users. The MobileIron Unified Endpoint Management (UEM) platform incorporates identity, context, and privacy enforcement to set the appropriate level of access to data and services while allowing IT departments to securely manage their global mobile workforce from a single console. . When user choice and end user experience matters, MobileIron Cloud provides the simplest onboarding and superior on device experience which improves user productivity.\n\nMobileIron Government Cloud offering now includes MobileIron Threat Defense (MTD). MTD builds upon MobileIron’s mobile-centric, zero trust security framework by providing a single app that continually detects and remediates against known and unknown (zero-day) device, network and app-level threats on Android and iOS devices, with or without cellular or Wi-Fi connectivity. Deployment and activation of MTD on mobile devices is accomplished silently on managed and unmanaged devices in order to drive towards 100 percent user adoption. In addition to protecting federal data from mobile attacks, MTD helps federal agencies to comply with regulatory requirements, reduce total cost of ownership, and drive business innovation with secure mobile devices, apps, and cloud services.",
-        "Announcement_Date": "2016-12-08T05:00:00.000Z",
-        "CSP_POC_Name": "Phil Richards",
-        "CSP_POC_Email": "security@ivanti.com",
-        "FedRAMP_In-Process_Date": "2015-12-23T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
+          },
           {
-            "Authorizing_Letter_Last_Sign_Date": "2018-03-08T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Letter_Date": "2022-03-29T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-03-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-29T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "International Trade Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -19326,25 +19323,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Terida LLC",
-        "Cloud_Service_Provider_Package": "Terida RegTech Framework - CLASsoft™",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR1901852210",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Terida%20Logo.png",
-        "Independent_Assessor": "Kratos",
-        "CSP_Website": "https://www.terida.com/",
-        "CSO_Description": "The Terida RegTech Framework - CLASsoft™ is a cloud-based claims and electronic-form (e-form) management application, with an integrated optional e-signature module, to receive, evaluate, resolve and track registrations, applications, claims or cases.\n\nWith Terida CLASsoft™, persons, events, objects, operations, certifications, communications, documents and workflow are integrated into a single cloud application for application and review process management; credentialing, attestation and certification; compliance and risk management; claims, damages and settlements; incident registries; disaster and emergency management; document and forms management; procurement and supply chain management; litigation mitigation and litigation support.\n\nWith CLASsoft™, all information collected and processed, and their chain of custody and access, are secured, managed and protected for the term(s) necessitated by laws, regulations, evidentiary standards and operational requirements.",
-        "CSP_POC_Name": "Teri Marlene Prince",
-        "CSP_POC_Email": "fedramp@terida.com",
-        "Fedramp_Ready_Date": "2020-11-30T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Thomson Reuters",
         "Cloud_Service_Provider_Package": "Caselines",
         "Designation": "FedRAMP Ready",
@@ -20235,7 +20213,7 @@
         "website": "https://www.sentar.com/fedramp/",
         "Remediation": "N",
         "Founded": 1990,
-        "Primary_Office_Locations": "315 Wynn Drive, Suite 1, Huntsville, AL 35806",
+        "Primary_Office_Locations": "675 Discovery Drive NW, Suite 205, Huntsville, AL 35806",
         "FedRAMP_Assessed": "None",
         "Provide_Consulting_Services": "Y",
         "Description_of_Consulting_Services": "As part of our consulting services, Sentar 3PAO can help ensure CSPs are prepared for a successful assessment by a 3PAO.\r\n\r\nSentar’s Consulting Support Packages include the following options:\r\n\r\n* Customized FedRAMP Training to explain the criteria your Cloud Service Offering (CSO) will need to meet in order to successfully achieve FedRAMP authorization;\r\n* Gap assessment to determine current baseline and analysis of gaps\r\n* Development of FedRAMP Security Authorization Package \r\n* Remediation Services\r\n* Independent annual assessments \r\n* Continuous Monitoring activities\r\n* Scans and Penetration Testing",
