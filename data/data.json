@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-04-05T04:40:50.842Z",
+    "Created_At": "2022-04-06T04:40:50.567Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1727,14 +1727,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2019-03-11T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-03-12T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-03-12T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Trade Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-05-22T04:00:00.000Z",
             "Authorizing_Agency": "Department of Energy",
             "Authorizing_Subagency": "National Nuclear Security Administration / Lawrence Livermore National Laboratory",
@@ -2591,14 +2583,6 @@
             "Authorizing_Letter_Last_Sign_Date": "2019-03-29T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Interior",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-03-11T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-03-12T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-03-12T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Trade Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -5359,14 +5343,6 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-03-11T05:00:00.000Z",
             "Authorizing_Agency": "Federal Deposit Insurance Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-11-17T05:00:00.000Z",
-            "Letter_Expiration_Date": "2022-03-11T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-11-18T05:00:00.000Z",
-            "Authorizing_Agency": "Federal Trade Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -8655,14 +8631,6 @@
             "Authorizing_Agency": "Department of State",
             "Authorizing_Subagency": "State Office of the Inspector General",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2022-02-28T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-07-30T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "Transportation Security Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -16604,7 +16572,7 @@
         "Cloud_Service_Provider_Package": "Gen3 Data Commons Service",
         "Path": "Agency",
         "Designation": "Compliant",
-        "Package_ID": "FR2125059322",
+        "Package_ID": "FR2110056334",
         "Service_Model": [
           "SaaS"
         ],
@@ -17278,6 +17246,54 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Digital.ai",
+        "Cloud_Service_Provider_Package": "Digital.ai Government Cloud",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2118743892",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-01-14T05:00:00.000Z",
+        "Original_Expiration_Date": "2025-01-05T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Digital.ai.png",
+        "Independent_Assessor": "The Cadence Group",
+        "CSP_Website": "https://www.digital.ai",
+        "CSO_Description": "Digital.ai Government Cloud (DGC) is a suite of application modules that provides Enterprise Agile Planning (EAP), DevOps, Continuous Testing, Application Security, and AI powered Analytics.  DGC is being offered as a Government Only Community Software-as-a-Service (SaaS) solution.",
+        "CSP_POC_Name": "Rachel DeHoyos",
+        "CSP_POC_Email": "fedramp-info@digital.ai",
+        "FedRAMP_In-Process_Date": "2021-07-22T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "3M",
+        "Cloud_Service_Provider_Package": "Grouper Plus Content Services (GPCS)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2200458671",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/3M%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.3mhis.com",
+        "CSO_Description": "3M Grouper Plus Content Services (3M GPCS) provides reliable and secure processing of patient claims and other coded data in the cloud. The web-based delivery system hosts a selection of classification and reimbursement content users need to group, edit and calculate reimbursement of claims.",
+        "CSP_POC_Name": "Jonathan Higbee",
+        "CSP_POC_Email": "fedramp-his@mmm.com",
+        "FedRAMP_In-Process_Date": "2022-03-15T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "3M",
         "Cloud_Service_Provider_Package": "RevCycle Health Services Platform (RHSP)",
         "Path": "Agency",
@@ -17949,29 +17965,6 @@
         "CSP_POC_Name": "John Allison",
         "CSP_POC_Email": "fedramp@devo.com",
         "FedRAMP_In-Process_Date": "2022-02-17T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Digital.ai",
-        "Cloud_Service_Provider_Package": "Digital.ai Government Cloud",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2118743892",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Veterans Affairs",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-        "Authorizing_Agency": "Department of Veterans Affairs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Digital.ai.png",
-        "Independent_Assessor": "The Cadence Group",
-        "CSP_Website": "https://www.digital.ai",
-        "CSO_Description": "Digital.ai Government Cloud (DGC) is a suite of application modules that provides Enterprise Agile Planning (EAP), DevOps, Continuous Testing, Application Security, and AI powered Analytics.  DGC is being offered as a Government Only Community Software-as-a-Service (SaaS) solution.",
-        "CSP_POC_Name": "Rachel DeHoyos",
-        "CSP_POC_Email": "fedramp-info@digital.ai",
-        "FedRAMP_In-Process_Date": "2021-07-22T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -19455,6 +19448,30 @@
         "CSP_POC_Name": "Mike Maurath",
         "CSP_POC_Email": "fedramp@totaralearning.com",
         "FedRAMP_In-Process_Date": "2021-12-08T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Center for Translational Data Science (CTDS), University of Chicago and Open Commons Consortium (OCC)",
+        "Cloud_Service_Provider_Package": "Gen3 Data Ecosystems Platform",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2125059322",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "National Heart, Lung, and Blood Institute",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/UoC%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://Gen3.data-commons.org",
+        "CSO_Description": "The Gen3 Data Ecosystems Platform (Gen3) is an open-source multi-tenant Software as a Service (SaaS) platform for developing, creating, and operating cloud-based data commons, data ecosystems, and workspaces for managing, analyzing, and sharing both open access and controlled access data. The goal of Gen3 is to provide research data in a uniform and co-localized database and to serve as a foundation for future expanded data access, computational capabilities, and bioinformatics cloud research",
+        "CSP_POC_Name": "Robert Grossman",
+        "CSP_POC_Email": "Gen3platform@data-commons.org",
+        "FedRAMP_In-Process_Date": "2022-03-24T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
