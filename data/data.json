@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-04-12T04:40:51.335Z",
+    "Created_At": "2022-04-13T04:40:51.181Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -12946,6 +12946,15 @@
             "Authorizing_Agency": "Department of Labor",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-04-11T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-04-10T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-04-11T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Housing and Urban Development",
+            "Authorizing_Subagency": "HUD Office of the Inspector General",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHUD-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -17071,7 +17080,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
         "Authorizing_Agency": "Department of the Interior",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Hootsuite%20Logo.png",
-        "Independent_Assessor": "Department of the Interior",
+        "Independent_Assessor": "Deloitte & Touche LLP",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW"
         ],
@@ -17334,6 +17343,30 @@
         "CSP_POC_Name": "Rachel DeHoyos",
         "CSP_POC_Email": "fedramp-info@digital.ai",
         "FedRAMP_In-Process_Date": "2021-07-22T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Yello Dba Recsolu Inc",
+        "Cloud_Service_Provider_Package": "Yello Government Recruiting Solution",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2113557839",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-11-03T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of State",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
+        "Authorizing_Agency": "Department of State",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Yello%20Logo.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "CSP_Website": "https://yello.co/government-recruiting/",
+        "CSO_Description": "Yello's technology (YGRS) helps organizations find, prioritize, manage, engage with, and hire talent. Currently, more than 100 of the Fortune 500 and 20+ federal agencies use Yello to modernize the recruiting process — ultimately helping them find and hire candidates faster. \n\r\nOrganizations find job candidates by participating in designated recruiting and hiring events (i.e. in-person career fairs, virtual career fairs, job fairs, classroom presentations, info sessions, diversity conferences, webinars, live-stream events, etc.) Organizations invest hundreds of thousands of dollars to plan and attend — in addition to hours of staff time after the event needed to follow up with candidates. YGRS manages this process from end-to-end in one platform, ultimately leading to faster and more efficient hiring decisions and processes.  The solution also helps agencies understand the overall return on investment. \n\r\nThe solution includes tools to find candidates, manage recruiting events and keep in touch with candidates, all leading to successful hiring. ",
+        "CSP_POC_Name": "Larry Jennings",
+        "CSP_POC_Email": "fedramp@yello.co",
+        "FedRAMP_In-Process_Date": "2021-04-13T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -19751,29 +19784,6 @@
         "CSP_POC_Email": "fedramp@workday.com",
         "Fedramp_Ready_Date": "2021-08-16T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2022-03-16T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Yello Dba Recsolu Inc",
-        "Cloud_Service_Provider_Package": "Yello Government Recruiting Solution",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2113557839",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of State",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
-        "Authorizing_Agency": "Department of State",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Yello%20Logo.png",
-        "Independent_Assessor": "Schellman Compliance, LLC",
-        "CSP_Website": "https://yello.co/government-recruiting/",
-        "CSO_Description": "Yello's technology (YGRS) helps organizations find, prioritize, manage, engage with, and hire talent. Currently, more than 100 of the Fortune 500 and 20+ federal agencies use Yello to modernize the recruiting process — ultimately helping them find and hire candidates faster. \n\r\nOrganizations find job candidates by participating in designated recruiting and hiring events (i.e. in-person career fairs, virtual career fairs, job fairs, classroom presentations, info sessions, diversity conferences, webinars, live-stream events, etc.) Organizations invest hundreds of thousands of dollars to plan and attend — in addition to hours of staff time after the event needed to follow up with candidates. YGRS manages this process from end-to-end in one platform, ultimately leading to faster and more efficient hiring decisions and processes.  The solution also helps agencies understand the overall return on investment. \n\r\nThe solution includes tools to find candidates, manage recruiting events and keep in touch with candidates, all leading to successful hiring. ",
-        "CSP_POC_Name": "Larry Jennings",
-        "CSP_POC_Email": "fedramp@yello.co",
-        "FedRAMP_In-Process_Date": "2021-04-13T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
