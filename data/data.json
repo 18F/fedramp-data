@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-04-19T04:40:50.817Z",
+    "Created_At": "2022-04-20T04:40:50.707Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -5970,6 +5970,14 @@
             "Authorizing_Subagency": "National Institute of Standards and Technology",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-04-19T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-04-19T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Justice",
+            "Authorizing_Subagency": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -7723,7 +7731,16 @@
         "CSP_POC_Name": "Benjamin Card",
         "CSP_POC_Email": "fedramp@sirsidynix.com",
         "FedRAMP_In-Process_Date": "2018-11-14T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Expiration_Date": "2023-03-04T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-01T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Authorizing_Subagency": "Bureau of Reclamation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Innovative Discovery, LLC",
@@ -10303,6 +10320,13 @@
             "Authorizing_Agency": "Department of Agriculture",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2022-04-15T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Transportation",
+            "Authorizing_Subagency": "Federal Aviation Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -12147,6 +12171,14 @@
             "Authorizing_Agency": "National Aeronautics and Space Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NASA_logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-04-19T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-04-19T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Justice",
+            "Authorizing_Subagency": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -12292,7 +12324,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Palo Alto Networks, Inc.",
-        "Cloud_Service_Provider_Package": "Palo Alto Networks Government Cloud Services",
+        "Cloud_Service_Provider_Package": "Palo Alto Networks Government Cloud Services (Includes Prisma Access)",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "FR1913470600",
@@ -12324,6 +12356,27 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-02-17T05:00:00.000Z",
             "Authorizing_Agency": "Nuclear Regulatory Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-03-16T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-03-16T04:00:00.000Z",
+            "Authorizing_Agency": "U.S. International Development Finance Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DFC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-07-23T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-07-23T04:00:00.000Z",
+            "Authorizing_Agency": "U.S. Office of Special Counsel",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/OSC%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-12-14T05:00:00.000Z",
+            "Letter_Expiration_Date": "2024-12-14T05:00:00.000Z",
+            "Authorizing_Agency": "Federal Reserve System",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRS%20Logo.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -14289,53 +14342,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Palo Alto Networks, Inc.",
-        "Cloud_Service_Provider_Package": "Palo Alto Networks Government Cloud Services - Prisma Access",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR2015148466",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2021-03-16T04:00:00.000Z",
-        "Sponsoring_Agency": "U.S. International Development Finance Corporation",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DFC%20Logo.jpg",
-        "Authorizing_Agency": "U.S. International Development Finance Corporation",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Palo%20Alto%20Logo.png",
-        "Independent_Assessor": "Kratos",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW",
-          "FR1805751477",
-          "F1512167750",
-          "FR1913470600",
-          "FR1812446342"
-        ],
-        "CSP_Website": "www.paloaltonetworks.com",
-        "CSO_Description": "Prisma Access is a Secure Access Service Edge (SASE) that provides scalable, cloud-delivered networking and security to branch offices and remote users. With Prisma Access, agencies are able to rapidly enable consistent, secure connectivity for remote locations and employees.",
-        "Announcement_Date": "2021-06-29T04:00:00.000Z",
-        "CSP_POC_Name": "Brad Bartholomew",
-        "CSP_POC_Email": "fedramp@paloaltonetworks.com",
-        "FedRAMP_In-Process_Date": "2021-03-16T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2021-07-23T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-07-23T04:00:00.000Z",
-            "Authorizing_Agency": "U.S. Office of Special Counsel",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/OSC%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-12-14T05:00:00.000Z",
-            "Letter_Expiration_Date": "2024-12-14T05:00:00.000Z",
-            "Authorizing_Agency": "Federal Reserve System",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRS%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "General Services Administration",
         "Cloud_Service_Provider_Package": "Login.gov",
         "Path": "Agency",
@@ -16156,6 +16162,14 @@
             "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-04-19T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-04-19T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Justice",
+            "Authorizing_Subagency": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -16163,7 +16177,7 @@
         "Cloud_Service_Provider_Name": "United Solutions, LLC",
         "Cloud_Service_Provider_Package": "US AI",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "FR2009746321",
         "Service_Model": [
           "SaaS"
@@ -16177,8 +16191,14 @@
         "Authorizing_Agency": "Department of Health and Human Services",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/United%20Solutions%20Logo.png",
         "Independent_Assessor": "Lunarline, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "F1206081364",
+          "FR1805751477"
+        ],
         "CSP_Website": "https://www.unitedsolutions.biz",
         "CSO_Description": "United Solutions Artificial Intelligence (US AI) is a suite of scalable AI solutions with broad applicability to common business problems faced by both government and commercial sectors alike. US AI leverages visually exciting user experience / user interfaces to simplify and make complex AI capabilities available to business users. US AI uses various complex data science models such as Natural Language Processing (NLP), Machine Learning (ML), and Deep Learning (DL) to create a curated source of data that provides actionable business insights for a variety of business processes including, but not limited to acquisition, finance, supply chain, logistics, emergency response, and health. The platform memorializes curated data, builds a training model from that, and continuously teaches the machine to make better predictions such as compliance, risk, fraud, value, health, security, and safety.",
+        "Announcement_Date": "2022-04-18T04:00:00.000Z",
         "CSP_POC_Name": "Macey Smith ",
         "CSP_POC_Email": "business@unitedsolutions.biz",
         "FedRAMP_In-Process_Date": "2022-02-02T05:00:00.000Z",
@@ -16773,7 +16793,7 @@
         "Underlying_CSP_Package_ID": [
           "F1603047866",
           "F1206081364",
-          "FR2015148466",
+          "FR1913470600",
           "F1508207205",
           "F1206061353"
         ],
@@ -17437,7 +17457,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "VMware, Inc.",
-        "Cloud_Service_Provider_Package": "VMware Cloud on AWS GovCloud (VMC)",
+        "Cloud_Service_Provider_Package": "VMware Government Services (VGS)",
         "Path": "JAB",
         "Designation": "Compliant",
         "Package_ID": "FR1916163735",
@@ -18102,7 +18122,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Cyxtera%20Logo.png",
         "Independent_Assessor": "Schellman Compliance, LLC",
         "CSP_Website": "www.cyxtera.com",
-        "CSO_Description": "The CXD Federal Edition IaaS is a software-defined architecture that combines software-defined network fabric and an on-demand service provisioning system to provide customers the capability to procure and consume data center services.",
+        "CSO_Description": "The Cyxtera Platform Government Edition (CPGE) IaaS is a software-defined architecture that combines software-defined network fabric and an on-demand service provisioning system to provide customers the capability to procure and consume data center services. The authorization package consists of an application infrastructure hosted within Microsoft Azure Government and a physical infrastructure located in Cyxtera-owned data centers.  The application infrastructure is made available to simplify the installation, removal, and general management of the physical infrastructure; whereas the physical infrastructure itself is connected per customer requirements and hosts the customers infrastructure within the perimeter of a FedRAMP High service offering.",
         "CSP_POC_Name": "Russell Cozart",
         "CSP_POC_Email": "FedRAMP@cyxtera.com",
         "Fedramp_Ready_Date": "2021-08-05T04:00:00.000Z",
@@ -18277,6 +18297,29 @@
         "CSP_POC_Name": "Equifax FedRAMP team",
         "CSP_POC_Email": "FedRAMP.Security@equifax.com",
         "Fedramp_Ready_Date": "2022-02-22T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Genesys",
+        "Cloud_Service_Provider_Package": "Genesys Cloud CX",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2210035634",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Small Business Administration",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SmallBusinessAdmin-Seal.png",
+        "Authorizing_Agency": "Small Business Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Genesys%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "https://genesys.com/fedramp/genesys-cloud-cx",
+        "CSO_Description": "Genesys Cloud CX is a suite of cloud services for enterprise-grade communication, collaboration, and contact center management. Genesys Cloud CX provides the ability to securely communicate with customers over a range of channels, including voice, text, and video conference. Genesys Cloud CX can also integrate seamlessly with customer call center systems to provide visibility into customer interactions with existing communication channels.\r\n\r\nTo provide additional functionality, Genesys Cloud CX allows customers to enable third-party integrations through AppFoundry, a Genesys marketplace of integrations supported by the Genesys Cloud CX application. Users of the application can also leverage self-service tools that provide speech-enabled Interactive Voice Response (IVR), voicebots, and chatbots, as well as tools to enhance workforce engagement management (WEM). These tools allow users to optimize Genesys Cloud CX for their unique requirements. A microservices-based architecture and API-first development supports rapid deployment and highly configurable components within the Genesys Cloud CX system",
+        "CSP_POC_Name": "Eric Cohen",
+        "CSP_POC_Email": "GCCXSecGRCFedRAMPPMO@genesys.com",
+        "FedRAMP_In-Process_Date": "2022-04-19T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
