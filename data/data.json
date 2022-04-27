@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-04-26T04:40:50.791Z",
+    "Created_At": "2022-04-27T04:40:51.372Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2629,15 +2629,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2019-04-19T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-04-19T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-04-19T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Authorizing_Letter_Last_Sign_Date": "2020-02-26T05:00:00.000Z",
             "Authorizing_Agency": "Nuclear Regulatory Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
@@ -2891,6 +2882,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-03-25T04:00:00.000Z",
             "Authorizing_Agency": "Social Security Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2025-04-18T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-04-18T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -3540,13 +3539,6 @@
             "Authorizing_Letter_Last_Sign_Date": "2018-12-03T05:00:00.000Z",
             "Authorizing_Agency": "Corporation for National & Community Service (CNCS)",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/cncs_1.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-03-26T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-03-26T04:00:00.000Z",
-            "Authorizing_Agency": "Social Security Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -4810,63 +4802,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "MAXIMUS Inc.",
-        "Cloud_Service_Provider_Package": "MAXIMUS Intelligent Assistant (MIA)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1728351539",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2018-10-31T04:00:00.000Z",
-        "Original_Expiration_Date": "2021-10-31T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MAXIMUS%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW",
-          "F1303191948",
-          "F1508207205"
-        ],
-        "CSP_Website": "http://www.maximus.com/federal/intelligent-assistant",
-        "CSO_Description": "The MAXIMUS Intelligent Assistant (MIA) is a Hosted Interactive Voice Response (HIVR) system that is designed to offer best in class automated voice service to the general public calling for assistance with Government applications. MIA utilizes automation to gather caller intent and questions, and provide responses. When the automation does not understand information received from the caller, the snippet of information is delivered instantaneously to a human Intent Analyst (IA). The IA will hear the “utterance”, inform the system of the caller’s response or intent, and allow the HIVR to continue through the Government’s defined application.",
-        "Announcement_Date": "2019-04-09T04:00:00.000Z",
-        "CSP_POC_Name": "Scott Clarke",
-        "CSP_POC_Email": "fedramp@maximus.com",
-        "Fedramp_Ready_Date": "2017-12-01T05:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2017-07-14T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2014-10-28T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2014-10-31T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "United States Citizenship and Immigration Services",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2021-10-25T04:00:00.000Z",
-            "Authorizing_Agency": "Office of Personnel Management",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2022-03-04T05:00:00.000Z",
-            "Letter_Expiration_Date": "2022-09-03T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-03-07T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Centers for Disease Control and Prevention",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Innovest Systems, LLC",
         "Cloud_Service_Provider_Package": "Trust & Wealth Management Solutions",
         "Path": "Agency",
@@ -5282,14 +5217,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2018-11-02T04:00:00.000Z",
-            "Letter_Expiration_Date": "2021-10-31T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-11-02T04:00:00.000Z",
-            "Authorizing_Agency": "Environmental Protection Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-08-14T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-08-20T04:00:00.000Z",
             "Authorizing_Agency": "Department of Energy",
@@ -5487,6 +5414,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-04-01T04:00:00.000Z",
             "Authorizing_Agency": "Department of Education",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-03-02T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-02T05:00:00.000Z",
+            "Authorizing_Agency": "Commodity Futures Trading Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFTC%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -7781,6 +7715,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-11-17T05:00:00.000Z",
             "Authorizing_Agency": "Federal Deposit Insurance Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2022-07-05T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-04-19T04:00:00.000Z",
+            "Authorizing_Agency": "Office of Personnel Management",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -10587,6 +10528,15 @@
             "Letter_Expiration_Date": "2025-03-28T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-03-29T04:00:00.000Z",
             "Authorizing_Agency": "United States Agency for International Development",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-04-14T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-04-12T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-04-25T04:00:00.000Z",
+            "Authorizing_Agency": "U.S. International Development Finance Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DFC%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -14261,6 +14211,13 @@
             "Authorizing_Subagency": "International Trade Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-01-24T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-01-24T05:00:00.000Z",
+            "Authorizing_Agency": "Commodity Futures Trading Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFTC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -16362,14 +16319,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2021-04-16T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-04-19T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-04-19T04:00:00.000Z",
-            "Authorizing_Agency": "Library of Congress",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/LoC%20logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Authorizing_Letter_Last_Sign_Date": "2021-04-16T04:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Institute of Standards and Technology",
@@ -16390,6 +16339,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-12-06T05:00:00.000Z",
             "Authorizing_Agency": "United States Agency for International Development",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-04-07T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-04-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-04-07T04:00:00.000Z",
+            "Authorizing_Agency": "Library of Congress",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/LoC%20logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -16428,6 +16385,55 @@
         "Fedramp_Ready_Date": "2018-09-05T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2019-07-10T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "MAXIMUS Inc.",
+        "Cloud_Service_Provider_Package": "MAXIMUS Intelligent Assistant (MIA)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1728351539",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-10-25T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
+        "Authorizing_Agency": "Office of Personnel Management",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MAXIMUS%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1303191948",
+          "F1508207205"
+        ],
+        "CSP_Website": "http://www.maximus.com/federal/intelligent-assistant",
+        "CSO_Description": "The MAXIMUS Intelligent Assistant (MIA) is a Hosted Interactive Voice Response (HIVR) system that is designed to offer best in class automated voice service to the general public calling for assistance with Government applications. MIA utilizes automation to gather caller intent and questions, and provide responses. When the automation does not understand information received from the caller, the snippet of information is delivered instantaneously to a human Intent Analyst (IA). The IA will hear the “utterance”, inform the system of the caller’s response or intent, and allow the HIVR to continue through the Government’s defined application.",
+        "Announcement_Date": "2019-04-09T04:00:00.000Z",
+        "CSP_POC_Name": "Scott Clarke",
+        "CSP_POC_Email": "fedramp@maximus.com",
+        "Fedramp_Ready_Date": "2017-12-01T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2017-07-14T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2014-10-28T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2014-10-31T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "United States Citizenship and Immigration Services",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-03-04T05:00:00.000Z",
+            "Letter_Expiration_Date": "2022-09-03T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-07T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Centers for Disease Control and Prevention",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "FM:Systems",
@@ -16895,13 +16901,6 @@
         "FedRAMP_In-Process_Date": "2016-06-09T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Date": "2019-03-28T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-03-28T04:00:00.000Z",
-            "Authorizing_Agency": "Social Security Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-03-26T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-03-28T04:00:00.000Z",
             "Authorizing_Agency": "Consumer Financial Protection Bureau",
@@ -17016,6 +17015,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-03-12T05:00:00.000Z",
             "Authorizing_Agency": "Federal Deposit Insurance Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-01-05T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-01-05T05:00:00.000Z",
+            "Authorizing_Agency": "Commodity Futures Trading Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFTC%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -17508,6 +17514,35 @@
         "CSP_POC_Email": "bruce.shim@citrix.com",
         "Fedramp_Ready_Date": "2020-10-08T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2021-06-15T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "RSA",
+        "Cloud_Service_Provider_Package": "SecurID – Federal Edition",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "FR2102652499",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-04-21T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/RSA%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "F1603087869"
+        ],
+        "CSP_Website": "https://www.rsa.com/en-us/solutions/public-sector",
+        "CSO_Description": "RSA SecurID® Access Federal, enables the U.S. Federal Government and the public sector organizations to digitally transform, embrace the benefits of modern technologies, and operate nimbly with highly secure and convenient cloud-based identity assurance. Building on the enterprise-grade security that is the hallmark of all RSA SecurID Access solutions, RSA SecurID® Access Federal meets the high standards required by the FedRAMP authorization process and is a key component of Zero Trust initiatives. When coupled with RSA’s on-prem offering, Federal Agencies can quickly and cost-effectively move to the cloud at their own pace, leveraging existing infrastructure and authentication methods.",
+        "Announcement_Date": "2022-04-26T04:00:00.000Z",
+        "CSP_POC_Name": "Joseph Welsh",
+        "CSP_POC_Email": "fedramp.selling@rsa.com",
+        "Fedramp_Ready_Date": "2021-02-02T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2021-12-02T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -19443,29 +19478,6 @@
         "CSP_POC_Name": "Tim Wesselman",
         "CSP_POC_Email": "fedramp@rosalind.bio",
         "FedRAMP_In-Process_Date": "2022-02-08T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "RSA",
-        "Cloud_Service_Provider_Package": "SecurID – Federal Edition - JAB",
-        "Path": "JAB",
-        "Designation": "In Process",
-        "Package_ID": "FR2102652499A",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "JAB Authorization",
-        "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/RSA%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://www.rsa.com/en-us/solutions/public-sector",
-        "CSO_Description": "RSA SecurID® Access Federal, enables the U.S. Federal Government and the public sector organizations to digitally transform, embrace the benefits of modern technologies, and operate nimbly with highly secure and convenient cloud-based identity assurance. Building on the enterprise-grade security that is the hallmark of all RSA SecurID Access solutions, RSA SecurID® Access Federal meets the high standards required by the FedRAMP authorization process and is a key component of Zero Trust initiatives. When coupled with RSA’s on-prem offering, Federal Agencies can quickly and cost-effectively move to the cloud at their own pace, leveraging existing infrastructure and authentication methods.",
-        "CSP_POC_Name": "Joseph Welsh",
-        "CSP_POC_Email": "fedramp.selling@rsa.com",
-        "Fedramp_Ready_Date": "2021-02-02T05:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2021-12-02T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
