@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-04-28T04:40:50.600Z",
+    "Created_At": "2022-04-29T04:40:50.680Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -19502,6 +19502,30 @@
         "CSP_POC_Name": "Tim Wesselman",
         "CSP_POC_Email": "fedramp@rosalind.bio",
         "FedRAMP_In-Process_Date": "2022-02-08T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "SAS Institute, Inc.",
+        "Cloud_Service_Provider_Package": "SAS Intelligent Analytics Cloud",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2210352243",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Justice",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+        "Authorizing_Agency": "Department of Justice",
+        "Authorizing_Subagency": "Office of Justice Programs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/SAS%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "https://www.sas.com/en_us/industry/government.html",
+        "CSO_Description": "The SAS Intelligent Analytics Cloud is a hosted SAS® Azure private cloud where customers can subscribe to SAS® Azure tools and technologies to receive rapid, self-service access to SAS® Azure analytics tools and solutions.  SAS performs all hardware and software management and maintenance and guarantees that the most current version of SAS® software is running at all times.  Customers will utilize SAS data storage capabilities along with the SAS® Viya Platform for executing robust analytics and repporting on the data fed to the cloud environment.  The software stack will include SAS® Visual Analytics, SAS® Visual Statistics, SAS® Visual Data Mining & Machine Learning, SAS® Text Analytics, SAS® Model Studio, SAS® Model Manager and SAS® Data Preparation.\r\n\r\nSAS® Visual Analytics lets you create and view interactive reports, explore data, and discover hidden insights with advanced analytics.  SAS® Visual Statistics offers a leading predictive analytics solution to explore data and build analytical models for a variety of use cases. It is well-suited for data scientists, statisticians, and analysts to collaborate and iteratively refine models, for each segment or group, to make decisions based on accurate insights. SAS® Visual Data Mining and Machine Learning combines data wrangling, data exploration, visualization, feature engineering, and modern statistical, data mining and machine-learning techniques all in a single, scalable in-memory processing environment. This provides faster, more accurate answers to complex business problems, increased deployment flexibility and one easy-to-administer and fluid IT environment. SAS® Visual Text Analytics in SAS® Viya® uses context to provide a comprehensive solution to the challenge of identifying and categorizing key textual data.  SAS® Model Studio is the VDMML Viya application that enables organizations to register, modify, track, score, publish, and report on analytical models.  SAS® Data Preparation is the SAS tool for mapping, joining, wrangling, cleansing, and integrating data into the SAS Viya Platform for analytic use. SAS® Model Manager simplifies the model collection creation and management with a web-based interface that easily automates the model management process. SAS Visual Text Analytics gain insights from data with a combination of natural language processing, machine learning and linguistic rules. ",
+        "CSP_POC_Name": "SAS Institute",
+        "CSP_POC_Email": "SASFedRAMP@sas.com",
+        "FedRAMP_In-Process_Date": "2022-04-26T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
