@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-05-03T04:40:50.749Z",
+    "Created_At": "2022-05-04T04:40:51.013Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1509,6 +1509,14 @@
             "Authorizing_Agency": "Department of Energy",
             "Authorizing_Subagency": "Office of Electricity",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-05-02T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-05-02T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -3264,15 +3272,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-03-29T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-03-01T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-03-29T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Information Systems Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2021-02-18T05:00:00.000Z",
             "Letter_Expiration_Date": "2024-01-29T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-02-18T05:00:00.000Z",
@@ -3295,6 +3294,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-02-25T05:00:00.000Z",
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Defense Security Cooperation Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-04-24T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-03-01T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-04-24T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Information Systems Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
@@ -4307,7 +4315,7 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Zscaler",
+        "Cloud_Service_Provider_Name": "Zscaler, Inc.",
         "Cloud_Service_Provider_Package": "Zscaler Internet Access – Government (Secure Web Gateway – vTIC)",
         "Path": "Agency",
         "Designation": "Compliant",
@@ -7681,6 +7689,14 @@
             "Authorizing_Subagency": "Bureau of Reclamation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-04-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-05-01T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Authorizing_Subagency": "National Park Service",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -8278,7 +8294,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
         "Authorizing_Agency": "Department of Agriculture",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Replicon%20Logo.png",
-        "Independent_Assessor": "Schellman Compliance, LLC",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW",
           "F1206061353",
@@ -8826,7 +8842,7 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Zscaler",
+        "Cloud_Service_Provider_Name": "Zscaler, Inc.",
         "Cloud_Service_Provider_Package": "Zscaler Private Access – Government (Zero Trust Networking – VPN Replacement)",
         "Path": "JAB",
         "Designation": "Compliant",
@@ -9303,7 +9319,8 @@
         "Independent_Assessor": "Schellman Compliance, LLC",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW",
-          "F1206081364"
+          "FR1805751477",
+          "F1206081364,"
         ],
         "CSP_Website": "https://www.datadoghq.com/",
         "CSO_Description": "Datadog is the essential monitoring platform for cloud applications. We bring together data from servers, containers, databases, and third-party services to make your stack entirely observable. These capabilities help DevOps teams avoid downtime, resolve performance issues, and ensure customers are getting the best user experience.\nDatadog is a monitoring service for modern cloud environments offering Infrastructure Metrics, Application Performance Monitoring (APM), and Log Management within a single platform.",
@@ -10947,37 +10964,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "McAfee",
-        "Cloud_Service_Provider_Package": "MVISION for Endpoint (ePO, EDR)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1935245314",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2020-08-28T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Homeland Security",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-        "Authorizing_Agency": "Department of Homeland Security",
-        "Authorizing_Subagency": "Immigration and Customs Enforcement",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/McAfee%20Logo.png",
-        "Independent_Assessor": "Kratos",
-        "Underlying_CSP_Package_ID": [
-          "F1206061353",
-          "F1603047866",
-          "F1512167750"
-        ],
-        "CSP_Website": "www.mcafee.com",
-        "CSO_Description": "MVISION for Endpoint platform includes a varies of cloud-assisting endpoint technologies, such as MVISION ePO, Real Protect Cloud, and MVISION EDR providing centralized management, cloud-assisted machine learning, and Endpoint Detection and Response (EDR).\n\n* [MVISION ePO](https://www.mcafee.com/enterprise/en-us/products/mvision-epo.html) is complete centralized management for using McAfee solution and enhance native security controls without the complexity of on-premises infrastructure. \n* [MVISION EDR](https://www.mcafee.com/enterprise/en-us/products/mvision-edr.html) provides Artificial Intelligence guided Endpoint, Detection, and Response solution to assist and force multiple your analyst capabilities when investigating attacks\n* Real Protect Cloud is a machine learning cloud which enhances’ our Endpoints pre-execution machine learning with post-execution to detect dynamic behavior based on machine learning algorithms derived from over a billion sensors and over 30 years of experience.",
-        "Announcement_Date": "2020-10-02T04:00:00.000Z",
-        "CSP_POC_Name": "Arve Kjoelen",
-        "CSP_POC_Email": "FedRAMP@mcafee.com",
-        "FedRAMP_In-Process_Date": "2019-09-25T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Cornerstone OnDemand",
         "Cloud_Service_Provider_Package": "Unified Talent Management Suite (CUTMS)",
         "Path": "Agency",
@@ -11653,7 +11639,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
         "Authorizing_Agency": "Department of Veterans Affairs",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/SCMC%20Logo.png",
-        "Independent_Assessor": "Department of Veterans Affairs",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
         "Underlying_CSP_Package_ID": [
           "F1602167854",
           "F1603087869"
@@ -19259,6 +19245,29 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Perceptyx, Inc",
+        "Cloud_Service_Provider_Package": "Perceptyx Insights Platform (Formerly Waggl)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1818240234",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Perceptyx%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "www.perceptyx.com",
+        "CSO_Description": "Perceptyx’s online employee engagement survey technology is built to support four phases of service to Perceptyx clients, including a configuration module to support planning and survey set-up, data collection module, diagnostic reporting module and action planning module, each module runs on the Perceptyx proprietary web software platform.\r\n\r\nUsing the Perceptyx real-time technology for each phase of a project, Perceptyx can create web applications specifically suited to the unique data collection and reporting needs of any organization. From creation to collection to interactive result reporting, the whole process is done in real-time and is hosted on the Perceptyx robust, secure network.\r\n\r\nPerceptyx technology supports performance improvement services for each client in the following phases:\r\n\r\n1. Design, development, configuration, and testing.\r\n2. Deploy, data collection, training, and monitoring.\r\n3.Analysis, diagnosis, and final report configuration.\r\n4. Report distribution, action planning, and executive presentations.\r\n\nEach phase of the project provides specific services for the client leveraged by the Perceptyx technology and facilitated by Project Managers.\r\n\r\nThe services included as part of the Perceptyx Insights Platform include the following:\r\n\r\n1. Ask Service - Point-in-time employee surveys to illuminate the employee experience\r\n2. Sense Service - Lifecycle surveys and always-on listening to keep pace with your people\r\n3. Dialogue Service - Crowdsourced insights to engage your people on the topics that matter most\r\n4. Develop Service - Multi-rater feedback to improve manager effectiveness and build leaders",
+        "CSP_POC_Name": "Gary Everekyan",
+        "CSP_POC_Email": "FedRAMP@Perceptyx.com ",
+        "FedRAMP_In-Process_Date": "2021-05-13T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Pexip Inc.",
         "Cloud_Service_Provider_Package": "Pexip Government Cloud- (PGC)",
         "Path": "Agency",
@@ -19899,29 +19908,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Waggl, Inc.",
-        "Cloud_Service_Provider_Package": "Waggl",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1818240234",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Veterans Affairs",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-        "Authorizing_Agency": "Department of Veterans Affairs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Waggl%20Logo.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "CSP_Website": "www.waggl.com",
-        "CSO_Description": "Waggl is the #1 real time employee voice platform for improving organizational performance. Waggl’s real time crowding-sourcing enables informed decision-making, rapid alignment, and immediate action on topics that matter. Waggl delivers actionable insights to leaders while improving employee engagement through meaningful inclusion and participation.",
-        "CSP_POC_Name": "Tony Mitchell",
-        "CSP_POC_Email": "fedramp@waggl.com",
-        "FedRAMP_In-Process_Date": "2021-05-13T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "WidePoint Integrated Solutions Corp.",
         "Cloud_Service_Provider_Package": "Intelligent Telecommunications Management System (ITMS)",
         "Designation": "FedRAMP Ready",
@@ -20011,7 +19997,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Zscaler",
+        "Cloud_Service_Provider_Name": "Zscaler, Inc.",
         "Cloud_Service_Provider_Package": "Zscaler Internet Access – Government (Secure Web Gateway – vTIC) - High",
         "Path": "JAB",
         "Designation": "In Process",
@@ -20031,6 +20017,29 @@
         "CSP_POC_Email": "fedramp@zscaler.com",
         "Fedramp_Ready_Date": "2021-11-04T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2022-03-15T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Zscaler, Inc.",
+        "Cloud_Service_Provider_Package": "Zscaler Private Access – Government (Zero Trust Exchange – VPN Replacement)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2219763604",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Federal Communications Commission",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
+        "Authorizing_Agency": "Federal Communications Commission",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Zscaler%20Logo.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "CSP_Website": "www.zscaler.com",
+        "CSO_Description": "**ZSCALER PRIVATE ACCESS The first major breakthrough in Zero Trust Networking, and is the future of remote access.** Zscaler is a leader Zero Trust Networking and securing Internet traffic for enterprises around the globe, with a cloud-based security platform designed to protect enterprise Internet traffic with Secure Web Gateway, Cloud Application Visibility and Control, Cloud Sandboxing, Data Loss Prevention, and more. Zscaler Private Access builds from the same cloud-based, elastically scalable infrastructure to deliver seamless connectivity to private internal applications and assets. Zscaler Private Access solves the challenges posed by a traditional VPN infrastructure by decoupling your internal assets and applications from the limitations, cost, and complexity of direct IP network connections. Zscaler Private Access delivers seamless connectivity to private internal applications and assets whether they are in the cloud, the data center, or both. Policy-driven access adjusts dynamically to network changes, enabling enterprise agility while improving user experience. With Zscaler Private Access, there is no need to provision VPN termination hardware, or to ensure that such a deployment is globally distributed and redundant. Users no longer need to go through a termination appliance in the data center to get to apps in the cloud. In fact, there is no hardware to buy at all, because Zscaler Private Access, like our Cloud Security Platform, functions as a service. Zscaler maintains all hardware and software, freeing both your IT team and your budget even as we reduce latency and boost scalability. Zscaler Private Access is tied directly to your existing authentication infrastructure, leveraging single sign-on to further reduce complexity. The result is that unlike traditional, network-based remote access solutions, Zscaler Private Access can be deployed in a matter of hours instead of taking weeks or months.\n\n**Improve your security posture even as you provide seamless access** The reductions in overall cost and complexity are compelling on their own, but the paramount feature of the Zscaler Private Access solution is security. Once a connection is established between the asset and the client, the traffic traversing the solution remains completely isolated; because Zscaler Private Access is built on the premise of zero trust for your private applications, the traffic is isolated from us, as well. And because Zscaler Private Access abstracts the asset from the network, it not only ensures seamless access regardless of physical location, it dramatically increases your overall security posture by effectively making your most sensitive material invisible. Any attempt to route back to the application/asset meets a dead end.\n\n**Connect by application, not by IP address** VPNs have been designed to deliver access to a network, not to an application. Once on a network, malware can propagate, and users may be able to get access to adjacent applications from which they should be restricted. In addition, because VPN concentrators must listen for inbound connection attempts, they present an attack surface which may be exploited by such things as Distributed Denial of Service attacks. Eliminate the cost of VPNs and associated equipment As part of our global, cloud-based security platform, Zscaler maintains all hardware and software, which frees both your IT staff and your budget and enables deployment in a matter of hours. Even better, Zscaler Private Access is deployed via the same Zscaler App you use to access our cloud security platform, which greatly reduces your “client sprawl” by delivering a single app that provisions Zscaler Remote Access, Secure Web Gateway, Data Loss Prevention, Cloud Sandboxing, Cloud Firewall, and more. Take your applications from “on-net” to “dark- net,” at the same time YOU get complete visibility. Zscaler Private Access renders your applications invisible to all but authorized users, and unrouteable to anyone. But because the solution works at the application layer, we also deliver a level of visibility to you that has never been possible. Once you provision a Connector in front of a bank of assets, you can use a wildcard attribute to discover exactly what applications are running there. Some customers have found almost ten times as many applications in use as they had expected! And once you know what applications are running, you can easily create granular access rules for them. App Discovery makes deployment easy.",
+        "CSP_POC_Name": "Stephen Kovac",
+        "CSP_POC_Email": "fedramp@zscaler.com",
+        "FedRAMP_In-Process_Date": "2022-04-29T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       }
     ],
