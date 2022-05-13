@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-05-12T04:40:50.860Z",
+    "Created_At": "2022-05-13T04:40:50.745Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2099,74 +2099,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "FireEye, Inc.",
-        "Cloud_Service_Provider_Package": "FireEye Email Security GovCloud",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1512017637",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2017-04-26T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of the Interior",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-        "Authorizing_Agency": "Department of the Interior",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/FireEye%20Logo2.png",
-        "Independent_Assessor": "Schellman Compliance, LLC",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866",
-          "MSO365MT"
-        ],
-        "CSP_Website": "www.FireEye.com",
-        "CSO_Description": "Reduce the risk of a breach and keep your organization safe from the ever-growing threat of malicious email attacks. FireEye Email Security – GovCloud Edition stops email-borne threats with first-hand knowledge of attacks and attackers before they can cause any harm.\r\n\r\nWith the use of email specific threat intelligence gained from firsthand investigations and observations of adversaries, the solution identifies threats with minimal noise and false positives. This frees security teams to focus on investigating and responding to real attacks and allows them to use scarce resources efficiently.\r\n\r\nFireEye Email Security – GovCloud Edition enables organizations to consolidate their email security stack with a comprehensive, single-vendor solution that blocks not only malware and suspicious URLs, but also advanced threats, such as impersonation attacks and phishing, leaving attackers no chance to take advantage of email users.",
-        "Announcement_Date": "2017-07-05T04:00:00.000Z",
-        "CSP_POC_Name": "Matt Shelton",
-        "CSP_POC_Email": "FedRAMP@FireEye.com",
-        "FedRAMP_In-Process_Date": "2015-12-02T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2018-12-17T05:00:00.000Z",
-            "Authorizing_Agency": "National Science Foundation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-05-27T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-05-27T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-05-27T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Reserve System",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRS%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-10-24T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-10-28T04:00:00.000Z",
-            "Authorizing_Agency": "United States Securities and Exchange Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/SEC%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-04-01T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-04-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-04-01T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "United States Census Bureau",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-04-29T04:00:00.000Z",
-            "Letter_Expiration_Date": "2024-04-29T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-04-29T04:00:00.000Z",
-            "Authorizing_Agency": "United States Agency for International Development",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "DocuSign",
         "Cloud_Service_Provider_Package": "DocuSign Federal (eSignature, Gen, Negotiate)",
         "Path": "Agency",
@@ -3072,6 +3004,7 @@
             "Letter_Expiration_Date": "2024-03-14T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-03-23T04:00:00.000Z",
             "Authorizing_Agency": "Department of Agriculture",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -4395,6 +4328,68 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-01-19T05:00:00.000Z",
             "Authorizing_Agency": "American Battle Monuments Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/ABMC%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "FireEye, Inc.",
+        "Cloud_Service_Provider_Package": "FireEye Email Security GovCloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1512017637",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2018-12-17T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of the Interior",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
+        "Authorizing_Agency": "National Science Foundation",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/FireEye%20Logo2.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "MSO365MT"
+        ],
+        "CSP_Website": "www.FireEye.com",
+        "CSO_Description": "Reduce the risk of a breach and keep your organization safe from the ever-growing threat of malicious email attacks. FireEye Email Security – GovCloud Edition stops email-borne threats with first-hand knowledge of attacks and attackers before they can cause any harm.\r\n\r\nWith the use of email specific threat intelligence gained from firsthand investigations and observations of adversaries, the solution identifies threats with minimal noise and false positives. This frees security teams to focus on investigating and responding to real attacks and allows them to use scarce resources efficiently.\r\n\r\nFireEye Email Security – GovCloud Edition enables organizations to consolidate their email security stack with a comprehensive, single-vendor solution that blocks not only malware and suspicious URLs, but also advanced threats, such as impersonation attacks and phishing, leaving attackers no chance to take advantage of email users.",
+        "Announcement_Date": "2017-07-05T04:00:00.000Z",
+        "CSP_POC_Name": "Matt Shelton",
+        "CSP_POC_Email": "FedRAMP@FireEye.com",
+        "FedRAMP_In-Process_Date": "2015-12-02T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2020-05-27T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-05-27T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-05-27T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Reserve System",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRS%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-10-24T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-10-28T04:00:00.000Z",
+            "Authorizing_Agency": "United States Securities and Exchange Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/SEC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-04-01T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-04-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-04-01T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "United States Census Bureau",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-04-29T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-04-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-04-29T04:00:00.000Z",
+            "Authorizing_Agency": "United States Agency for International Development",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -11579,15 +11574,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2021-05-07T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-05-06T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-05-07T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Human Resource Activity",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2021-08-11T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-08-11T04:00:00.000Z",
             "Authorizing_Agency": "National Science Foundation",
@@ -11615,6 +11601,16 @@
             "Letter_Expiration_Date": "2023-10-01T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-03-23T04:00:00.000Z",
             "Authorizing_Agency": "Department of Agriculture",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-04-14T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-10-13T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-04-14T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Human Resource Activity",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -15288,6 +15284,7 @@
             "Letter_Expiration_Date": "2024-10-09T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-03-23T04:00:00.000Z",
             "Authorizing_Agency": "Department of Agriculture",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -15373,6 +15370,7 @@
             "Letter_Expiration_Date": "2024-09-21T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-03-23T04:00:00.000Z",
             "Authorizing_Agency": "Department of Agriculture",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -17607,6 +17605,31 @@
       },
       {
         "Cloud_Service_Provider_Name": "3M",
+        "Cloud_Service_Provider_Package": "RevCycle Health Services Platform (RHSP)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2135915901",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-02-04T05:00:00.000Z",
+        "Original_Expiration_Date": "2025-02-02T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/3M%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.3mhis.com",
+        "CSO_Description": "3M RHSP is a Health Services Platform that hosts and supports the operations of key 3M Health Software Systems. These systems include but are not limited to Natural Language Processing support for medical coding, Clinical Documentation Integrity, clinician input as well as medical coding edits, self-service reporting, and evaluation and management. 3M RHSP utilizes robust statistical methodologies to create a comprehensive NLP platform to derive medical codes, assist with medical terminology, and ease the provider front-end workflow.",
+        "CSP_POC_Name": "Jonathan Higbee",
+        "CSP_POC_Email": "fedramp-his@mmm.com",
+        "FedRAMP_In-Process_Date": "2021-12-08T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "3M",
         "Cloud_Service_Provider_Package": "Grouper Plus Content Services (GPCS)",
         "Path": "Agency",
         "Designation": "In Process",
@@ -17626,29 +17649,6 @@
         "CSP_POC_Name": "Jonathan Higbee",
         "CSP_POC_Email": "fedramp-his@mmm.com",
         "FedRAMP_In-Process_Date": "2022-03-15T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "3M",
-        "Cloud_Service_Provider_Package": "RevCycle Health Services Platform (RHSP)",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2135915901",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Veterans Affairs",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-        "Authorizing_Agency": "Department of Veterans Affairs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/3M%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.3mhis.com",
-        "CSO_Description": "3M RHSP is a Health Services Platform that hosts and supports the operations of key 3M Health Software Systems. These systems include but are not limited to Natural Language Processing support for medical coding, Clinical Documentation Integrity, clinician input as well as medical coding edits, self-service reporting, and evaluation and management. 3M RHSP utilizes robust statistical methodologies to create a comprehensive NLP platform to derive medical codes, assist with medical terminology, and ease the provider front-end workflow.",
-        "CSP_POC_Name": "Jonathan Higbee",
-        "CSP_POC_Email": "fedramp-his@mmm.com",
-        "FedRAMP_In-Process_Date": "2021-12-08T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -17714,6 +17714,30 @@
         "CSP_POC_Name": "Matilda Asiedu",
         "CSP_POC_Email": "fedramp@armedia.com",
         "FedRAMP_In-Process_Date": "2022-01-06T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Armis Federal LLC",
+        "Cloud_Service_Provider_Package": "Armis FedRAMP Edition (AFE)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2031936863",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "Office of the National Coordinator for HealthIT ",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Armis%20Logo.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "CSP_Website": "www.armis.com",
+        "CSO_Description": "Armis, FedRAMP Edition (AFE) is an agentless, enterprise-class security platform purpose-built to help organizations discover and secure managed, unmanaged, and IoT devices, including medical devices and industrial control systems (ICS).. Armis discovers every managed, unmanaged, and IoT device in any environment, analyzes device behavior to identify risks, vulnerabilities or attacks, and protects critical business information and systems. Armis easily integrates with existing security products.\r\n\r\nAFE passively monitors wired and wireless traffic in the environment to identify every device and to understand its behavior without disruption. AFE analyzes this data in the AFE Risk Engine which uses device profiles and characteristics from the AFE Device Knowledgebase to identify each device, assess its risks & vulnerabilities, detect threats, and recommend remediation actions.\r\n\r\n**Visibility**\r\n\r\nAFE closes the Continuous Diagnostic and Mitigation Dashboard visibility gap with unmanaged and IoT devices.  AFE discovers and classifies every managed, unmanaged, and IoT device in the environment including servers, laptops, smartphones, VoIP phones, smart TVs, IP cameras, printers, 5G, HVAC controls, medical devices, industrial controls, and more. AFE can even identify off-network devices using Wi-Fi, Bluetooth, and other protocols in any environment. The comprehensive device inventory that AFE generates includes critical information such as device manufacturer, model, serial number, location, username, operating system, installed applications, and connections made over time. In addition to discovering and classifying a device, AFE calculates its risk score based on factors such as vulnerabilities, known attack patterns, as well as the behaviors observed of each device in the environment. This risk score helps security teams understand their attack surface and meet compliance with regulatory frameworks that require identification and prioritization of vulnerabilities.\r\n\r\n**Insights**\n\r\nThe AFE Risk Engine continuously monitors the behavior of every device in the environment for behavioral anomalies. Working with the AFE Device Knowledgebase, AFE compares the real-time behavior of each device with:\r\n\r\n* Historical device behavior\r\n* Behavior of similar devices in the Customer's environment\r\n* Behavior of similar devices in other environments\r\n* Common attack techniques\r\n* Information from threat intelligence feeds\r\n\n**Actions**\r\n\r\nWith these types of critical device and behavioral insights, AFE is able to identify threats and attacks.\r\n\r\nWhen AFE detects a threat, it can alert security teams and trigger automated action to stop an attack. Through integrations with network infrastructure, as well as the Customer's existing security enforcement points like Cisco and Palo Alto Networks firewalls, and network access control (NAC) products such as Cisco ISE and Aruba ClearPass, AFE can restrict access or quarantine suspicious or malicious devices.\r\n\r\n**Easy Integration**\n\r\nAFE requires no agents or additional hardware to deploy. AFE integrates with existing firewalls or NAC, security management systems such as  SIEM, ticketing systems, and asset databases. These integrations allow AFE to leverage existing investments to achieve greater value and more automated response.",
+        "CSP_POC_Name": "Youssef Takhssaiti",
+        "CSP_POC_Email": "fedramp@armis.com",
+        "FedRAMP_In-Process_Date": "2022-05-12T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -18395,7 +18419,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "FormAssembly, Inc.",
-        "Cloud_Service_Provider_Package": "FormAssembly Gov Cloud (FAGC)",
+        "Cloud_Service_Provider_Package": "FormAssembly Gov Cloud",
         "Designation": "FedRAMP Ready",
         "Package_ID": "FR2031156016",
         "Service_Model": [
@@ -18626,7 +18650,7 @@
         "Independent_Assessor": "Kratos",
         "CSP_Website": "https://www.icertis.com/contract-management/solutions/industry/federal/",
         "CSO_Description": "Icertis Contract Intelligence (ICI) for Government is a Contract Lifecycle Management (CLM) platform in the cloud. ICI enables government agencies and contractors alike to transform contracts into strategic assets in order to increase productivity, protect against risk and ensure proactive regulatory and policy compliance. The AI-infused Icertis Contract Intelligence (ICI) for Government platform is a Software-as-a-Service (SaaS) solution deployed on dedicated Microsoft Azure Government infrastructure that provides federal clients with these powerful capabilities:\n\n* Support for all contract types, agreement relationships and flow-up/flow-down of terms across the full contract lifecycle, from RFx/proposal to closeout.\n* Standardized integrations with most major ERP, CRM, procurement, electronic signature and identity management applications to enable a seamless flow of data into and out of the CLM system during both standard run-of-business and audits.\n* Advanced document association intelligence and enhanced visibility for automated obligations and compliance with FAR/DFARS, Cost Accounting Standards (CAS), and other regulatory/compliance mandates.\n* Centralized clause and template library control to quickly and efficiently update contract language and approval rules based on changing government requirements.",
-        "CSP_POC_Name": "Preston Mathis",
+        "CSP_POC_Name": "Tim Janikowski",
         "CSP_POC_Email": "fedramp@icertis.com",
         "Fedramp_Ready_Date": "2022-02-23T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
@@ -18831,25 +18855,6 @@
         "CSP_POC_Name": "Rosa Smothers",
         "CSP_POC_Email": "infosec@knowbe4.com",
         "FedRAMP_In-Process_Date": "2021-12-09T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Knowledge Services",
-        "Cloud_Service_Provider_Package": "dotStaff",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR2113552479",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/KS%20Logo.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "CSP_Website": "https://www.knowledgeservices.com/industry/federal-government",
-        "CSO_Description": "Knowledge Services dotStaff™ is a Software as a Service (SaaS) offering that includes a Vendor Management System and a Survey Management module. The dotStaff Vendor Management System allows for organizations to manage the contractor life cycle, statement of work bidding, tracking, and selection where contingent or temporary labor is used. Government customers enter position requisitions or projects that are viewable by Contractors, who can submit responsive bids. Activity associated with the winning bid is entered, tracked, and reported. The Survey Management module provides survey automation capabilities, and can be configured to survey certain locations, property types and/or resident classifications. Customers can send survey links, schedule face to face interviews, request information through the Survey Management module.\n**Survey Management**\nThe dotStaff™ Survey module delivers real-time, automated surveys which enhance access to actionable data. The module automates and improves the performance of in-person, mobile, web-based, and telephone surveys, including scheduling and data reporting. **Vendor/Consortium Management**\nThe dotStaff™ Vendor Management System allows for organizations to manage the contractor life cycle, statement of work bidding, tracking, and selection where contingent or temporary labor is used.\n**Field Based / Mobile Worker Management**\nAll services allow field-based and mobile workforce support through the dotStaff™ mobile application.",
-        "CSP_POC_Name": "Noah Brown",
-        "CSP_POC_Email": "fedramp@knowledgeservices.com",
-        "Fedramp_Ready_Date": "2021-02-12T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
