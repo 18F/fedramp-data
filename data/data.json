@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-06-02T04:40:50.570Z",
+    "Created_At": "2022-06-03T04:40:50.552Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4801,8 +4801,8 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2022-01-26T05:00:00.000Z",
-            "Letter_Expiration_Date": "2022-05-31T04:00:00.000Z",
+            "Letter_Date": "2022-05-24T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-10-31T04:00:00.000Z",
             "Authorizing_Agency": "General Services Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
             "Include_In_Marketplace": "Y"
@@ -7716,7 +7716,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Innovative Discovery, LLC",
-        "Cloud_Service_Provider_Package": "Innovative Discovery Government Cloud (IDGC)",
+        "Cloud_Service_Provider_Package": "Innovative Driven Government Cloud (IDGC)",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "FR1800263217",
@@ -8140,6 +8140,22 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-04-14T04:00:00.000Z",
             "Authorizing_Agency": "Department of Energy",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-05-23T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-05-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Contract Audit Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-06-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-06-01T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -14578,9 +14594,12 @@
         "Independent_Assessor": "Schellman Compliance, LLC",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW",
+          "FR1823149273",
+          "FR1812058188",
           "F1206081364",
+          "F1209051525",
           "F1607057910",
-          "F1508207205"
+          "FR1823447014"
         ],
         "CSP_Website": "www.acquia.com",
         "CSO_Description": "Acquia provides the leading cloud platform for building, delivering, and optimizing digital experiences.\nAcquia is the enterprise platform behind Drupal, the leading open-source content management system, recognized as a Magic Quadrant Leader by Gartner two years in a row. Our platform enables agencies to foster greater digital engagement with citizens and securely deliver mission essential information and services with greater speed, agility, and resiliency.\nThe City of LA, State of New York, FEMA, Department of Homeland Security and many other government agencies rely on the Acquia platform to build websites and digital experiences that meet the needs of their citizens, internal users and IT teams while moving their missions forward.\nThese agencies know that a citizen-centric government requires more than simply taking the existing physical structure and making it digital. Today the term “digital” has taken on a new meaning. In the private sector, consumers can shop, pay bills, and even conduct banking online, and now they’re expecting to conduct government business online in the same way. The most forward-thinking government IT managers are finding ways to meet expectations set by the private sector, and then going above and beyond to serve citizens.\nWith the Acquia Platform governments and agencies can use limited taxpayer dollars efficiently to build sites and experience that meet the needs of IT, deliver on the mission and give citizens crucial information they need.",
@@ -18133,6 +18152,29 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "CirrusMD",
+        "Cloud_Service_Provider_Package": "CirrusMD Virtual Health Chat for Government",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2220549818",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CirrusMD%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "https://www.cirrusmd.com/",
+        "CSO_Description": "CirrusMD Virtual Health Chat for Government increases patient access to health care. CirrusMD provides agencies with a clinical chat capability to increase the efficiency, capacity, and response time for clinical care for patients.",
+        "CSP_POC_Name": "CMD Compliance Team",
+        "CSP_POC_Email": "FedRAMP@CirrusMD.com",
+        "FedRAMP_In-Process_Date": "2022-05-27T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Cisco Systems Inc.",
         "Cloud_Service_Provider_Package": "WebEx Contact Center Enterprise for Government (WxCCE-G)",
         "Path": "JAB",
@@ -18698,7 +18740,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
         "Authorizing_Agency": "Department of Veterans Affairs",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Huron%20Logo.png",
-        "Independent_Assessor": "MBL Technologies (In Remediation)",
+        "Independent_Assessor": "MBL Technologies",
         "CSP_Website": "www.huronconsultinggroup.com",
         "CSO_Description": "The Huron Accelerators Portal (HAP) is a web-based entry portal, hosted on AWS GovCloud. HAP is composed of three components: the Leader Evaluation Manager® (LEM) software application, the Patient Call Manager™ (PCM) software application, and the Huron Rounding software application.\n\n* Leader Evaluation Manager: Through research and more than a decade of working with healthcare organizations, Huron has perfected and accelerated the art and science of goal cascading, weighting and accountability for leaders to build consistency — and as consistency grows, so does engagement. With Leader Evaluation Manager® (LEM), organizations can guarantee that all employees get the same leadership experience, practice the same evidence-based tactics and are held accountable to the same behavioral standards. Use LEM to track and manage the components that take accountability to the next level.\n \n* Patient Call Manager: Checking on a patient at a critical point in their care is proven to have an impact. Whether it’s showing empathy or providing a clinical intervention, these calls improve patient safety and experiences — and offer an opportunity to receive first-hand feedback from patients. With Patient Call Manager™ (PCM), healthcare organizations can prioritize and connect patients with caregivers to ease transitions from in-person care to home. This fully HIPAA-compliant tool allows healthcare staff to serve as quality touchpoints and ensure quality outcomes along a patient’s continuum of care from pre-visit calls through post-visit.\n \n* Huron Rounding: A cloud-based, multiplatform technology, the Huron Rounding application helps organizations easily collect quality, safety, satisfaction, and other audit and compliance data for analysis and reporting.",
         "CSP_POC_Name": "Pam Bursch",
@@ -20730,14 +20772,14 @@
         "Additional_Cyber_Frameworks": "* CERT Resilience Management Model (CERT-RMM)\n* FISMA\n* GDPR\n* Governance Risk and Compliance (GRC) Framework\n* HIPAA/HITECH\n* Insider Threat Vulnerability Assessment (ITVA)\n* ISO 27001/2\n* NIST 800-171\n* NIST Cybersecurity Framework (CSF)\n* Operationally Critical Threat, Asset, and Vulnerability Evaluation (OCTAVE)\n* PCI-DSS\n* RMF - DoD, DSS, Federal Civilian Agencies, and Intell Community\n* SOC 2\n"
       },
       {
-        "Name": "MBL Technologies (In Remediation)",
+        "Name": "MBL Technologies",
         "Accreditation_Date": "2015-12-22T05:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/MBL%20LOGO.jpg",
         "Description": "**Pre-Assessment**: Review and/or create FedRAMP compliant system security documentation, to include but not limited to System Security Plan (SSP), Contingency Plan, and a Control Implementation Summary. These documents may also be leveraged in support of the organization’s Authorization to Operate (ATO). \n\n**Full Assessment**: Review all system documentation to ensure all NIST SP 800-53 and organizational security controls are in place. The assessors will interview necessary organizational staff to confirm policy implementation and gather applicable evidence. This will also include vulnerability and penetration testing of the environment. At the conclusion of this phase, the package will be submitted to either the sponsoring federal agency or the Joint Authorization Board (JAB).\n\n**Continuous Monitoring**: Mitigate the assessment findings by working with system owners to update any policy or procedures that are non-compliant. MBL will also work with network administrators to recommend remediation processes for technical vulnerabilities. \n\n**Annual Assessment/Monthly Scanning**: Perform monthly scanning of the environment in support of the FedRAMP continuous monitoring requirements. This phase will also include an annual assessment of one-third of the information system’s security controls. \n\n**FedRAMP Readiness**: Conduct the readiness assessment, which would result in identified gaps for mitigation as an organization moves into the assessment preparation/pre-assessment phase.\n\nPerformed Assessments for SAP NS2 (2018) & Avue Technologies (2016 & 2017)",
         "POC_Name": "Ilene Yarnoff",
         "POC_Email": "fedramp@mbltechnologies.com",
         "website": "www.mbltechnologies.com",
-        "Remediation": "Y",
+        "Remediation": "N",
         "Founded": 2007,
         "Primary_Office_Locations": "1100 N Glebe Road Suite 1010, Arlington, VA 22201",
         "FedRAMP_Assessed": "Avue Technologies\nSAP NS2",
