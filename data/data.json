@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-06-03T04:40:50.552Z",
+    "Created_At": "2022-06-04T04:40:50.833Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1083,6 +1083,12 @@
             "Authorizing_Agency": "Commodity Futures Trading Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFTC%20Logo.jpg",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2022-06-02T04:00:00.000Z",
+            "Authorizing_Agency": "National Science Foundation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -2077,7 +2083,7 @@
         "CSP_Website": "www.skillsoft.com",
         "CSO_Description": "Skillsoft is a U.S. based educational technology company that produces learning management system software and content. It is one of the world's largest corporate training providers, with 10,000 customers, 60 million users, and 2,400 employees as of 2014. Skillsoft is an education provider to many U.S. DoD and U.S. Federal organizations.",
         "Announcement_Date": "2017-05-15T04:00:00.000Z",
-        "CSP_POC_Name": "Brad MacDonald",
+        "CSP_POC_Name": "David Bryant",
         "CSP_POC_Email": "fedramp@skillsoft.com",
         "FedRAMP_In-Process_Date": "2015-03-30T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
@@ -3617,42 +3623,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Acendre, Inc.",
-        "Cloud_Service_Provider_Package": "Acendre Talent Management Solution Suite",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1604217888",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2018-07-12T04:00:00.000Z",
-        "Sponsoring_Agency": "Federal Housing Finance Agency",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
-        "Authorizing_Agency": "Federal Housing Finance Agency",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Acendre%20Logo.png",
-        "Independent_Assessor": "SecureIT",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866"
-        ],
-        "CSP_Website": "https://www.acendre.com",
-        "CSO_Description": "Acendre is a worldwide leader in secure cloud-based talent management software and empowers organizations to increase their workforce performance. The company’s recruitment and performance management solutions provide data and insight that address the unique needs of organizations in regulated industries that require a high level of configurability to manage complex workflows and interoperability challenges. Acendre serves both public and private sectors, including government, education, healthcare, utilities and mining.\nWith offices in three continents, the company’s solutions are deployed in over 200 organizations around the globe, including almost 100 federal agencies, helping these organizations recruit, engage, retain and develop their employees to improve workforce performance. A recipient of numerous awards, Acendre processes more than one million applications annually and is used by 300,000 candidates every month.",
-        "Announcement_Date": "2018-08-10T04:00:00.000Z",
-        "CSP_POC_Name": "Acendre Compliance Team",
-        "CSP_POC_Email": "compliance@acendre.com",
-        "FedRAMP_In-Process_Date": "2018-02-06T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Expiration_Date": "2024-09-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-08-31T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "1901 Group",
         "Cloud_Service_Provider_Package": "in3sight",
         "Path": "Agency",
@@ -4095,7 +4065,7 @@
         "CSP_Website": "www.qualys.com",
         "CSO_Description": "The Qualys Cloud Platform (QCP) is a multi-tenant shared cloud service environment. Its unique computing power is capable of continuously analyzing and correlating information, to assist IT management with identifying and homing-in on threats and eliminating vulnerabilities.\nWith its Qualys sensors, a core service of the Qualys Cloud Platform, make it easy to extend your security throughout your global enterprise. These sensors, which can be in the form of appliances or lightweight agents, are remotely deployable, centrally managed and self-updating. They collect data automatically and seamlessly sending it to the Qualys Cloud Platform.\nSubscribers simply use the Qualys software without the burden of licensing, maintenance and costs for owning the software itself.",
         "Announcement_Date": "2016-11-02T04:00:00.000Z",
-        "CSP_POC_Name": "Enoch Boakye Acheampong",
+        "CSP_POC_Name": "Eric Kibisingo",
         "CSP_POC_Email": "fedramp@qualys.com",
         "Fedramp_Ready_Date": "2016-05-05T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2015-08-26T04:00:00.000Z",
@@ -9278,7 +9248,15 @@
         "CSP_POC_Name": "HackerOne FedRAMP Team",
         "CSP_POC_Email": "fedramp@hackerone.com",
         "FedRAMP_In-Process_Date": "2019-05-08T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2022-04-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-05-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of State",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "SMX (Formerly Smartronix)",
@@ -15712,38 +15690,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "CircleCI",
-        "Cloud_Service_Provider_Package": "CircleCI Cloud",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1814240140",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "LI-SaaS",
-        "Original_Authorization_Date": "2021-09-23T04:00:00.000Z",
-        "Original_Expiration_Date": "2024-09-24T04:00:00.000Z",
-        "Sponsoring_Agency": "Small Business Administration",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SmallBusinessAdmin-Seal.png",
-        "Authorizing_Agency": "Small Business Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CircleCi%20Logo.png",
-        "Independent_Assessor": "The Cadence Group",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866",
-          "FR1812058188",
-          "FR1805751477",
-          "FR1823447014"
-        ],
-        "CSP_Website": "https://circleci.com/",
-        "CSO_Description": "CircleCI is a highly configurable and powerful continuous integration and delivery platform that helps software teams confidently and securely release code by automating the build, test, and deploy process. Our cloud offering removes operational overhead as we oversee the setup, security, and maintenance of your continuous integration instances. With easy setup and configuration-as-code, CircleCI removes bottlenecks, allowing teams to focus on building great things, instead of waiting for great things to build. By enabling shorter iteration cycles and immediate feedback, innovation happens faster. The platform helps developers and QA find bugs and get fixes out quickly. Operations teams use CircleCI to simplify their tool chains without having to manage additional plugins and services. Scale is where [https://circleci.com](https://circleci.com) really shines. We're proud to support our customers, from small startups to the largest enterprises and government agencies on earth.",
-        "Announcement_Date": "2018-09-26T04:00:00.000Z",
-        "CSP_POC_Name": "Jane Kim",
-        "CSP_POC_Email": "government@circleci.com",
-        "FedRAMP_In-Process_Date": "2018-04-17T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "eGain Corporation",
         "Cloud_Service_Provider_Package": "eGain Suite",
         "Path": "Agency",
@@ -15870,36 +15816,6 @@
         "CSP_POC_Name": "HPE Aruba FedRAMP Team",
         "CSP_POC_Email": "hpe-aruba-central-fedramp@hpe.com",
         "FedRAMP_In-Process_Date": "2021-03-22T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Saviynt, Inc.",
-        "Cloud_Service_Provider_Package": "Saviynt Security Manager",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1821062403",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2020-11-20T05:00:00.000Z",
-        "Original_Expiration_Date": "2023-11-20T05:00:00.000Z",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Saviynt%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866"
-        ],
-        "CSP_Website": "www.saviynt.com",
-        "CSO_Description": "Saviynt delivers an intelligent and converged platform for Identity\r\nGovernance and Administration (IGA), Privileged Access Management (PAM) and\r\nCloud Security that enables its customers to effectively manage risk,\r\naddress continuous compliance needs and securely adopt cloud technologies\r\nwith confidence. The solution combines advanced analytics with fine-grained\r\nprivilege management to secure critical data, infrastructure and\r\napplication assets for Cloud and Enterprise in a unified platform.\r\nSaviynt’s completely managed and flexible platform ensures a worry-free\r\nadoption of IGA services such as user lifecycle management, access request\r\nand certification, SOD management, infrastructure access governance for\r\nIaaS providers (AWS, GCP & Azure), data access governance as well as PAM\r\nservices. Saviynt’s PAM solution is an identity-led service designed for\r\nelastic cloud and hybrid IT. It secures privileged access for any\r\napplication, infrastructure workloads and extends governance to\r\nbring-your-own vaults. It is designed to ensure zero standing privileges,\r\nprovide JIT access, accelerate rollout at any scale with auto-registration\r\nof workloads and lowers TCO by eliminating traditional jump boxes.",
-        "Announcement_Date": "2019-03-01T05:00:00.000Z",
-        "CSP_POC_Name": "Saviynt FedRAMP Team",
-        "CSP_POC_Email": "fedramp@saviynt.com",
-        "FedRAMP_In-Process_Date": "2018-04-24T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -17346,7 +17262,7 @@
         "CSP_Website": "https://www.skillsoft.com",
         "CSO_Description": "Skillsoft's Percipio is a SaaS learning experience platform that authenticates users, tracks learner's progress, and connects users to content and other optional services. Percipio offers 1000s of video-based courses along with ebooks, audiobooks, practice labs, boot camps, and assessments to help your workforce build skills. Percipio is accessible from both a web browser as well as Apple and Andriod mobile apps. The learning platform and mobile apps were assessed as in-boundary for FedRAMP. The external content providers are not assessed.",
         "Announcement_Date": "2022-03-04T05:00:00.000Z",
-        "CSP_POC_Name": "Brad MacDonald",
+        "CSP_POC_Name": "David Bryant",
         "CSP_POC_Email": "fedramp@skillsoft.com",
         "FedRAMP_In-Process_Date": "2021-08-17T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
