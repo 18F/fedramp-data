@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-06-09T04:40:50.964Z",
+    "Created_At": "2022-06-10T04:40:50.989Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -7719,13 +7719,13 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
         "Authorizing_Agency": "Department of the Treasury",
         "Authorizing_Subagency": "Office of the Comptroller of the Currency",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Innovative%20Logo.png",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Innovative%20Driven%20Logo.png",
         "Independent_Assessor": "Lunarline, Inc.",
-        "CSP_Website": "www.id-edd.com",
+        "CSP_Website": "www.innovativedriven.com",
         "CSO_Description": "The Innovative Discovery Government Cloud (ID Gov-Cloud) is a Software as a Service (SaaS) offering that provides a secure and scalable environment for government legal document services. ID Gov-Cloud provides software services to agencies within a secure, scalable, and compliant cloud environment, offering Relativity Analytics, and iCONECT Analytics inhouse – as well as expert consulting and application to get the most from them. Agencies can leverage the full scope of eDiscovery services within one scalable platform, to include but not limited to: processing, document review, advanced analytics, assisted review, legal hold services, and production. All these service packages are provided within a secure and user-friendly customer interface. Government agencies also leverage the added capabilities of Innovative Discovery’s government project management teams and workflows, benefitting from years of experience supporting complex government electronic discovery requests.",
         "Announcement_Date": "2018-07-25T04:00:00.000Z",
         "CSP_POC_Name": "James H. Perkins Jr.",
-        "CSP_POC_Email": "fedramp@id-edd.com",
+        "CSP_POC_Email": "fedramp@innovativedriven.com",
         "FedRAMP_In-Process_Date": "2017-10-18T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
@@ -12248,6 +12248,14 @@
             "Authorizing_Subagency": "Defense Information Systems Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-12-14T05:00:00.000Z",
+            "Letter_Expiration_Date": "2024-12-14T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-12-14T05:00:00.000Z",
+            "Authorizing_Agency": "Export-Import Bank of the United States",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/EXIM%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -15761,6 +15769,38 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "CircleCI",
+        "Cloud_Service_Provider_Package": "CircleCI Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1814240140",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "LI-SaaS",
+        "Original_Authorization_Date": "2021-09-23T04:00:00.000Z",
+        "Original_Expiration_Date": "2024-09-24T04:00:00.000Z",
+        "Sponsoring_Agency": "Small Business Administration",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SmallBusinessAdmin-Seal.png",
+        "Authorizing_Agency": "Small Business Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CircleCi%20Logo.png",
+        "Independent_Assessor": "The Cadence Group",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "FR1812058188",
+          "FR1805751477",
+          "FR1823447014"
+        ],
+        "CSP_Website": "https://circleci.com/",
+        "CSO_Description": "CircleCI is a highly configurable and powerful continuous integration and delivery platform that helps software teams confidently and securely release code by automating the build, test, and deploy process. Our cloud offering removes operational overhead as we oversee the setup, security, and maintenance of your continuous integration instances. With easy setup and configuration-as-code, CircleCI removes bottlenecks, allowing teams to focus on building great things, instead of waiting for great things to build. By enabling shorter iteration cycles and immediate feedback, innovation happens faster. The platform helps developers and QA find bugs and get fixes out quickly. Operations teams use CircleCI to simplify their tool chains without having to manage additional plugins and services. Scale is where [https://circleci.com](https://circleci.com) really shines. We're proud to support our customers, from small startups to the largest enterprises and government agencies on earth.",
+        "Announcement_Date": "2018-09-26T04:00:00.000Z",
+        "CSP_POC_Name": "Jane Kim",
+        "CSP_POC_Email": "government@circleci.com",
+        "FedRAMP_In-Process_Date": "2018-04-17T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "eGain Corporation",
         "Cloud_Service_Provider_Package": "eGain Suite",
         "Path": "Agency",
@@ -15887,6 +15927,36 @@
         "CSP_POC_Name": "HPE Aruba FedRAMP Team",
         "CSP_POC_Email": "hpe-aruba-central-fedramp@hpe.com",
         "FedRAMP_In-Process_Date": "2021-03-22T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Saviynt, Inc.",
+        "Cloud_Service_Provider_Package": "Saviynt Security Manager",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1821062403",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-11-20T05:00:00.000Z",
+        "Original_Expiration_Date": "2023-11-20T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Saviynt%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.saviynt.com",
+        "CSO_Description": "Saviynt delivers an intelligent and converged platform for Identity\rGovernance and Administration (IGA), Privileged Access Management (PAM) and\rCloud Security that enables its customers to effectively manage risk,\raddress continuous compliance needs and securely adopt cloud technologies\rwith confidence. The solution combines advanced analytics with fine-grained\rprivilege management to secure critical data, infrastructure and\rapplication assets for Cloud and Enterprise in a unified platform.\rSaviynt’s completely managed and flexible platform ensures a worry-free\radoption of IGA services such as user lifecycle management, access request\rand certification, SOD management, infrastructure access governance for\rIaaS providers (AWS, GCP & Azure), data access governance as well as PAM\rservices. Saviynt’s PAM solution is an identity-led service designed for\relastic cloud and hybrid IT. It secures privileged access for any\rapplication, infrastructure workloads and extends governance to\rbring-your-own vaults. It is designed to ensure zero standing privileges,\rprovide JIT access, accelerate rollout at any scale with auto-registration\rof workloads and lowers TCO by eliminating traditional jump boxes.",
+        "Announcement_Date": "2019-03-01T05:00:00.000Z",
+        "CSP_POC_Name": "Saviynt FedRAMP Team",
+        "CSP_POC_Email": "fedramp@saviynt.com",
+        "FedRAMP_In-Process_Date": "2018-04-24T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
