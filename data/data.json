@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-06-10T20:08:47.192Z",
+    "Created_At": "2022-06-10T20:13:37.844Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -394,7 +394,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_Executive_Office_of_the_President_of_the_United_States_2014.png",
         "Authorizing_Agency": "Executive Office of the President",
         "Authorizing_Subagency": "Office of Management and Budget",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/OMB%20Logo.png",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MAX%20Logo.png",
         "Independent_Assessor": "Sera-Brynn, LLC",
         "CSP_Website": "https://www.MAX.gov",
         "CSO_Description": "MAX.gov Shared Services ([https://MAX.gov](https://MAX.gov)) is a government-wide advanced collaboration, information sharing, data collection, publishing, and analytical capability for federal agencies and partners. MAX services include:\n\n* MAX Community – Collaboration, Content Management, and Knowledge\nManagement - MAX Calendar – Scheduling, Calendar Sharing, and Meeting Coordination\n* MAX Shared Desktop – Online meetings with a Secure Virtual Desktop\n* MAX Collect – Basic and Advanced Data Collection, Publishing, and\nWorkflows\n* MAX Survey – Basic and Advanced Data Collection \n* MAX Analytics – Business Intelligence with Data Cubes \n* MAX Authentication – Single Sign-On (SSO) and 2-Factor Authentication as a Service with HSPD-12 (CAC/PIV) integration \n\nMAX is built upon an integrated database that maintains the wide range of data necessary to meet multiple production and policy support demands. MAX is managed by the Budget Systems Branch (BSB), Budget Review Division (BRD), of the Office of Management and Budget (OMB), in conjunction with the Budget Formulation and Execution Line of Business (BFELoB) Program Management Office (PMO) at the Department of Education (ED).",
@@ -686,7 +686,7 @@
         "CSP_Website": "www.rackspace.com/government",
         "CSO_Description": "Rackspace Government Cloud (RGC) is purpose-built to help organizations achieve Assessment & Authorization faster and with cost savings of up to 70%. Whether you are a government agency, systems integrator, or independent software vendor, RGC is the foundation you need to rapidly deliver mission value via the cloud.\n\nRackspace Government Cloud (RGC) wraps VMware and AWS in a secure-by-design management platform to meet the compliance requirements for FedRAMP and DoD Cloud Computing SRG. Customer solutions will be deployed and managed in secured enclaves within US Rackspace datacenters and/or AWS East/West and GovCloud. Customers are provided with dedicated application stacks to maintain data security at the necessary levels. All this is backed by a 24x7x365 U.S. only support model that allows Rackspace to provide the highest levels of assurance and security to our government customers.\n\nBenefits Include:\n\n* 24/7/365 operations and system support providing a fully-managed cloud solution up to and including guest operating systems and networks\n\n* Secure-by-design cloud environment with proactive support, continuous monitoring, and governance\n\n* Fully redundant solutions, with backup, restore, and disaster recovery built-in\n\n* Comprehensive system security services as standard, including enterprise-grade log aggregation, endpoint protection, file integrity monitoring, and host-based Intrusion Prevention Systems (IPS) and Intrusion Detection Systems (IDS)\n\n* Unique combination of automation, accredited tooling, and human expertise, enabling cyber and operational support",
         "Announcement_Date": "2015-10-09T04:00:00.000Z",
-        "CSP_POC_Name": "Brad Schulteis",
+        "CSP_POC_Name": "Rick Rosenburg",
         "CSP_POC_Email": "FedRAMP@rackspace.com ",
         "FedRAMP_In-Process_Date": "2014-02-04T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
@@ -1068,6 +1068,21 @@
             "Authorizing_Subagency": "United States Patent and Trademark Office",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-03-17T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-03-16T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-31T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "United States Patent and Trademark Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-08T05:00:00.000Z",
+            "Authorizing_Agency": "Commodity Futures Trading Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFTC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -1137,20 +1152,20 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2021-04-07T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-04-07T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-04-07T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Human Resource Activity",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2021-08-12T04:00:00.000Z",
             "Letter_Expiration_Date": "2022-08-12T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-08-18T04:00:00.000Z",
             "Authorizing_Agency": "Department of Education",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-03-22T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-03-21T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-22T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Human Resource Activity",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -1589,7 +1604,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Amazon%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.aws.amazon.com",
-        "CSO_Description": "AWS GovCloud (US) is an AWS Region designed to allow US government agencies and customers supporting the US government to move more sensitive workloads into the cloud. In addition to complying with FedRAMP requirements, the AWS GovCloud (US) framework adheres to U.S. International Traffic in Arms Regulations (ITAR) regulations. Additional information is available at [http://aws.amazon.com/govcloud-us/](http://aws.amazon.com/govcloud-us/).\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: Amazon API Gateway, Amazon AppStream 2.0, Amazon Athena, Amazon Aurora (MySQL), Amazon Aurora (Postgres), Amazon Cloud Directory, Amazon Cloudwatch, Amazon CloudWatch Logs, Amazon Cognito, Amazon Comprehend, Amazon Comprehend Medical, Amazon DynamoDB, Amazon ElastiCache for Redis, Amazon Elastic Block Store (EBS), Amazon Elastic Compute Cloud (EC2), Amazon Elastic Container Registry, Amazon Elastic Container Service, Amazon Elastic File System, Amazon Elastic Kubernetes Service (EKS) , Amazon Elastic MapReduce, Amazon EventBridge, Amazon Glacier, Amazon Guard Duty, Amazon Inspector, Amazon Keyspaces, Amazon Kinesis Data Firehose, Amazon Kinesis Data Streams, Amazon OpenSearch (formerly Amazon Elasticsearch), Amazon Pinpoint, Amazon Polly, Amazon QuickSight, Amazon Redshift, Amazon RDS (MariaDB, MySQL, Oracle, Postgres, SQL Server), Amazon Rekognition, Amazon Route 53, Amazon SageMaker, Amazon Simple Email Service (SES), Amazon Simple Notification Service (SNS), Amazon Simple Queue Service (SQS), Amazon Simple Storage Service (S3), Amazon Simple Workflow Service (SWF), Amazon Textract, Amazon Transcribe, Amazon Translate, Amazon Virtual Private Cloud (VPC), Amazon WorkSpace, AWS Backup, AWS Batch, AWS Certificate Manager, AWS CodeDeploy, AWS CloudFormation, AWS CloudHSM, AWS CloudTrail, AWS CodeBuild, AWS CodeCommit, AWS CodePipeline, AWS Config, AWS Database Migration Service, AWS Data Sync, AWS Direct Connect, AWS Directory Services, AWS Elastic Beanstalk, AWS Elemental MediaConvert, AWS Firewall Manager, AWS Glue, AWS IoT Core, AWS IoT Device Manager, AWS IoT Greengrass, AWS Identity & Access Management (IAM), AWS Key Management Service (KMS), AWS Lambda, AWS License Manager, AWS Network Firewall, AWS Organizations, AWS Outposts, AWS Personal Health Dashboard, AWS Resource Access Manager, AWS Resource Groups, AWS Secrets Manager, AWS Security Hub, AWS Serverless Application Repository, AWS Server Migration Service (SMS), AWS Service Catalog, AWS Snowball, AWS Snowball Edge, AWS Snowmobile, AWS Step Functions, AWS Storage Gateway, AWS Systems Manager, AWS Transfer Family, AWS Trusted Advisor, AWS WAF, AWS X-Ray, FSx for Lustre, FSx for Windows File Server",
+        "CSO_Description": "AWS GovCloud (US) is an AWS Region designed to allow US government agencies and customers supporting the US government to move more sensitive workloads into the cloud. In addition to complying with FedRAMP requirements, the AWS GovCloud (US) framework adheres to U.S. International Traffic in Arms Regulations (ITAR) regulations. Additional information is available at [http://aws.amazon.com/govcloud-us/](http://aws.amazon.com/govcloud-us/).\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: Amazon API Gateway, Amazon AppStream 2.0, Amazon Athena, Amazon Aurora (MySQL), Amazon Aurora (Postgres), Amazon Chime SDK, Amazon Cloud Directory, Amazon Cloudwatch, Amazon CloudWatch Logs, Amazon Cognito, Amazon Comprehend, Amazon Comprehend Medical, Amazon DynamoDB, Amazon ElastiCache for Redis, Amazon Elastic Block Store (EBS), Amazon Elastic Compute Cloud (EC2), Amazon Elastic Container Registry, Amazon Elastic Container Service, Amazon Elastic File System, Amazon Elastic Kubernetes Service (EKS) , Amazon Elastic MapReduce, Amazon EventBridge, Amazon Glacier, Amazon Guard Duty, Amazon Inspector, Amazon Keyspaces, Amazon Kinesis Data Analytics, Amazon Kinesis Data Firehose, Amazon Kinesis Data Streams, Amazon MQ, Amazon OpenSearch (formerly Amazon Elasticsearch), Amazon Pinpoint, Amazon Polly, Amazon QuickSight, Amazon Redshift, Amazon RDS (MariaDB, MySQL, Oracle, Postgres, SQL Server), Amazon Rekognition, Amazon Route 53, Amazon SageMaker, Amazon Simple Email Service (SES), Amazon Simple Notification Service (SNS), Amazon Simple Queue Service (SQS), Amazon Simple Storage Service (S3), Amazon Simple Workflow Service (SWF), Amazon Textract, Amazon Transcribe, Amazon Translate, Amazon Virtual Private Cloud (VPC), Amazon WorkSpace, AWS Backup, AWS Batch, AWS Certificate Manager, AWS CodeDeploy, AWS CloudFormation, AWS CloudHSM, AWS CloudTrail, AWS CodeBuild, AWS CodeCommit, AWS CodePipeline, AWS Config, AWS Database Migration Service, AWS Data Sync, AWS Direct Connect, AWS Directory Services, AWS Elastic Beanstalk, AWS Elemental MediaConvert, AWS Firewall Manager, AWS Glue, AWS IoT Core, AWS IoT Device Manager, AWS IoT Greengrass, AWS Identity & Access Management (IAM), AWS Key Management Service (KMS), AWS Lambda, AWS License Manager, AWS Network Firewall, AWS Organizations, AWS Outposts, AWS Personal Health Dashboard, AWS Resource Access Manager, AWS Resource Groups, AWS Secrets Manager, AWS Security Hub, AWS Serverless Application Repository, AWS Server Migration Service (SMS), AWS Service Catalog, AWS Snowball, AWS Snowball Edge, AWS Snowmobile, AWS Step Functions, AWS Storage Gateway, AWS Systems Manager, AWS Transfer Family, AWS Trusted Advisor, AWS WAF, AWS X-Ray, FSx for Lustre, FSx for Windows File Server",
         "Announcement_Date": "2016-06-21T04:00:00.000Z",
         "CSP_POC_Name": "AWS FedRAMP Compliance Team",
         "CSP_POC_Email": "aws-compliance-fedramp@amazon.com",
@@ -1718,14 +1733,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2019-03-11T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-03-12T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-03-12T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Trade Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-05-22T04:00:00.000Z",
             "Authorizing_Agency": "Department of Energy",
             "Authorizing_Subagency": "National Nuclear Security Administration / Lawrence Livermore National Laboratory",
@@ -1754,13 +1761,6 @@
             "Authorizing_Agency": "Department of the Treasury",
             "Authorizing_Subagency": "Bureau of the Fiscal Service",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-09-13T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-11-20T05:00:00.000Z",
-            "Authorizing_Agency": "National Aeronautics and Space Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NASA_logo.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -1868,6 +1868,12 @@
             "Authorizing_Agency": "Department of Homeland Security",
             "Authorizing_Subagency": "Federal Emergency Management Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-10-23T04:00:00.000Z",
+            "Authorizing_Agency": "National Aeronautics and Space Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NASA_logo.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -2167,7 +2173,7 @@
         "CSP_Website": "https://www.docusign.com/solutions/industries/government/federal",
         "CSO_Description": "DocuSign is a San Francisco- and Seattle-based company that provides electronic signature technology and Digital Transaction Management services to facilitate electronic exchanges of contracts and signed documents. DocuSign’s features include authentication services, user identity management and workflow automation. Signatures processed by DocuSign are comparable to traditional signatures based on the product's compliance with the ESIGN Act as well as the European Union’s Directive 1999/93/EC on electronic signatures.\nDocuSign Federal is a SaaS application oriented towards federal government entities. Operated and managed as a government community cloud, DocuSign Federal provides government customers with an enterprise signing service to facilitate paperless workflow management. More information about DocuSign Federal can be found here: [https://www.docusign.com/federal](https://www.docusign.com/solutions/industries/government/federal)",
         "Announcement_Date": "2017-08-10T04:00:00.000Z",
-        "CSP_POC_Name": "Nick Bennett",
+        "CSP_POC_Name": "DocuSign FedRAMP Requests",
         "CSP_POC_Email": "FedRAMP@DocuSign.com",
         "FedRAMP_In-Process_Date": "2016-10-17T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
@@ -2481,7 +2487,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Amazon%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.aws.amazon.com",
-        "CSO_Description": "Amazon US East/West is a multi-tenant public cloud for Federal, State and Local Government customers, as well as commercial customers, designed to meet a wide range of regulatory requirements, to include government compliance and security requirements. AWS leverages the Infrastructure-as-a-Service (IaaS) cloud computing model, which enables convenient, on-demand Internet access to a shared pool of configurable computing resources such as servers, storage, network infrastructure, and various other web services. Customers can rapidly provision or release computing resources on demand.\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: Amazon API Gateway, Amazon AppStream 2.0, Amazon Athena, Amazon Audit Manager, Amazon Aurora (MySQL), Amazon Chime, Amazon Cloud Directory, Amazon CloudFront, Amazon CloudWatch, Amazon CloudWatch Logs, AWS CloudHSM, Amazon Cognito, Amazon Comprehend, Amazon Comprehend Medical, Amazon Connect, Amazon Detective, Amazon DynamoDB, Amazon ElastiCache for Redis, Amazon Elastic Block Store (EBS), Amazon Elastic Container Registry (ECR), Amazon Elastic Container Service (ECS), Amazon Elastic File System (EFS), Amazon Elastic Compute Cloud (EC2), Amazon Elastic Kubernetes Service (EKS), Amazon Elastic MapReduce, Amazon EventBridge, Amazon Glacier, Amazon Inspector, Amazon Guard Duty, Amazon Kendra, Amazon Keyspaces, Amazon Kinesis Data Firehose, Amazon Kinesis Data Streams, Amazon Lex, Amazon Macie, Amazon MQ, Amazon PinPoint, Amazon OpenSearch (formerly Amazon Elasticsearch), Amazon Polly, Amazon QuickSight, Amazon Redshift, Amazon RDS (MariaDB, MySQL, Oracle, Postgres, SQL Server), Amazon Rekognition, Amazon Route 53, Amazon SageMaker, Amazon Simple Email Service (SES), Amazon Simple Notification Service (SNS), Amazon Simple Queue Service (SQS), Amazon Simple Storage Service (S3), Amazon Simple Workflow Service (SWF), Amazon Textract, Amazon Transcribe, Amazon Translate, Amazon Virtual Private Cloud (VPC), AWS AppMesh, AWS Backup, AWS Batch, AWS Certificate Manager, AWS CloudFormation, AWS Cloud Map, AWS CloudTrail, AWS CodeBuild, AWS CodeCommit, AWS CodeDeploy, AWS CodePipeline, AWS Config, AWS Control Tower, AWS Database Migration Service, AWS Data Sync, AWS Direct Connect, AWS Directory Service, AWS Elastic Beanstalk, AWS Firewall Manager, AWS Glue, AWS Glue Data Brew, AWS Ground Station, AWS Identity & Access Management (IAM), AWS IoT Core, AWS IoT Device Manager, AWS IoT Greengrass, AWS Key Management Service (KMS), AWS Lambda, AWS License Manager, AWS Managed Service, AWS Network Firewall, AWS Opsworks for Chef Automate and Puppet Enterprise, AWS Organizations, AWS Outposts, AWS Personal Health Dashboard, AWS Resource Access Manager, AWS Secrets Manager, AWS Security Hub, AWS Serverless Application Repository, AWS Service Catalog, AWS Server Migration Service (SMS), AWS Shield (Standard and Advanced), AWS Snowball, AWS Snowball Edge, AWS Snowmobile, AWS Step Functions, AWS Storage Gateway, AWS Systems Manager, AWS Transfer Family, AWS Trusted Advisor, AWS WAF, AWS WorkDocs, AWS WorkSpaces, AWS X-Ray, CloudWatch Events, FSx for Lustre, FSx for Windows File Server",
+        "CSO_Description": "Amazon US East/West is a multi-tenant public cloud for Federal, State and Local Government customers, as well as commercial customers, designed to meet a wide range of regulatory requirements, to include government compliance and security requirements. AWS leverages the Infrastructure-as-a-Service (IaaS) cloud computing model, which enables convenient, on-demand Internet access to a shared pool of configurable computing resources such as servers, storage, network infrastructure, and various other web services. Customers can rapidly provision or release computing resources on demand.\n\nThe following AWS services are FedRAMP Authorized and approved by the JAB: Amazon API Gateway, Amazon AppStream 2.0, Amazon Athena, Amazon Audit Manager, Amazon Aurora (MySQL), Amazon Chime, Amazon Cloud Directory, Amazon CloudFront, Amazon CloudWatch, Amazon CloudWatch Logs, AWS CloudHSM, Amazon Cognito, Amazon Comprehend, Amazon Comprehend Medical, Amazon Connect, Amazon Detective, Amazon DynamoDB, Amazon EC2 Image Builder, Amazon ElastiCache for Redis, Amazon Elastic Block Store (EBS), Amazon Elastic Container Registry (ECR), Amazon Elastic Container Service (ECS), Amazon Elastic File System (EFS), Amazon Elastic Compute Cloud (EC2), Amazon Elastic Kubernetes Service (EKS), Amazon Elastic MapReduce, Amazon EventBridge, Amazon Glacier, Amazon Inspector, Amazon Guard Duty, Amazon Kendra, Amazon Keyspaces, Amazon Kinesis Data Analytics, Amazon Kinesis Data Firehose, Amazon Kinesis Data Streams, Amazon Lex, Amazon Macie, Amazon MQ, Amazon PinPoint, Amazon OpenSearch (formerly Amazon Elasticsearch), Amazon Polly, Amazon QuickSight, Amazon Redshift, Amazon RDS (MariaDB, MySQL, Oracle, Postgres, SQL Server), Amazon Rekognition, Amazon Route 53, Amazon SageMaker, Amazon Simple Email Service (SES), Amazon Simple Notification Service (SNS), Amazon Simple Queue Service (SQS), Amazon Simple Storage Service (S3), Amazon Simple Workflow Service (SWF), Amazon Textract, Amazon Transcribe, Amazon Translate, Amazon Virtual Private Cloud (VPC), AWS AppMesh, AWS Backup, AWS Batch, AWS Certificate Manager, AWS CloudFormation, AWS Cloud Map, AWS CloudTrail, AWS CodeBuild, AWS CodeCommit, AWS CodeDeploy, AWS CodePipeline, AWS Config, AWS Control Tower, AWS Database Migration Service, AWS Data Sync, AWS Direct Connect, AWS Directory Service, AWS Elastic Beanstalk, AWS Firewall Manager, AWS Glue, AWS Glue Data Brew, AWS Ground Station, AWS Identity & Access Management (IAM), AWS IoT Core, AWS IoT Device Manager, AWS IoT Greengrass, AWS Key Management Service (KMS), AWS Lambda, AWS License Manager, AWS Managed Service, AWS Network Firewall, AWS Opsworks for Chef Automate and Puppet Enterprise, AWS Organizations, AWS Outposts, AWS Personal Health Dashboard, AWS Resource Access Manager, AWS Secrets Manager, AWS Security Hub, AWS Serverless Application Repository, AWS Service Catalog, AWS Server Migration Service (SMS), AWS Shield (Standard and Advanced), AWS Snowball, AWS Snowball Edge, AWS Snowmobile, AWS Step Functions, AWS Storage Gateway, AWS Systems Manager, AWS Transfer Family, AWS Trusted Advisor, AWS WAF, AWS WorkDocs, AWS WorkSpaces, AWS X-Ray, CloudWatch Events, FSx for Lustre, FSx for Windows File Server",
         "Announcement_Date": "2013-05-01T04:00:00.000Z",
         "CSP_POC_Name": "AWS FedRAMP Compliance Team",
         "CSP_POC_Email": "aws-compliance-fedramp@amazon.com",
@@ -2586,14 +2592,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2019-03-11T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-03-12T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-03-12T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Trade Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-04-02T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-04-09T04:00:00.000Z",
             "Authorizing_Agency": "United States Securities and Exchange Commission",
@@ -2629,13 +2627,6 @@
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-09-13T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-11-20T05:00:00.000Z",
-            "Authorizing_Agency": "National Aeronautics and Space Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NASA_logo.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -2680,6 +2671,12 @@
             "Authorizing_Agency": "Department of Homeland Security",
             "Authorizing_Subagency": "Immigration and Customs Enforcement",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-04-17T04:00:00.000Z",
+            "Authorizing_Agency": "National Aeronautics and Space Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NASA_logo.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -3523,6 +3520,14 @@
             "Include_In_Marketplace": "Y"
           },
           {
+            "Letter_Date": "2018-09-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-09-27T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Office of the Comptroller of the Currency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
             "Letter_Date": "2018-12-03T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2018-12-03T05:00:00.000Z",
             "Authorizing_Agency": "Corporation for National & Community Service (CNCS)",
@@ -3926,6 +3931,14 @@
             "Authorizing_Agency": "Federal Housing Finance Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-03-31T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-06-25T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-31T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -4284,6 +4297,12 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-01-27T05:00:00.000Z",
             "Authorizing_Agency": "Department of Veterans Affairs",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-11-09T05:00:00.000Z",
+            "Authorizing_Agency": "National Aeronautics and Space Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NASA_logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -5069,13 +5088,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2022-04-08T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-04-08T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Authorizing_Letter_Last_Sign_Date": "2021-08-27T04:00:00.000Z",
             "Authorizing_Agency": "Office of Personnel Management",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
@@ -5119,6 +5131,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-03-21T04:00:00.000Z",
             "Authorizing_Agency": "Department of Education",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-04-15T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-04-15T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -5176,6 +5195,13 @@
             "Authorizing_Agency": "Office of Personnel Management",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-02-05T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-04-07T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -5227,13 +5253,6 @@
             "Authorizing_Agency": "Department of the Treasury",
             "Authorizing_Subagency": "Internal Revenue Service",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2017-07-24T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-08-03T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -5356,14 +5375,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-11-17T05:00:00.000Z",
-            "Letter_Expiration_Date": "2022-03-11T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-11-18T05:00:00.000Z",
-            "Authorizing_Agency": "Federal Trade Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Authorizing_Letter_Last_Sign_Date": "2020-11-03T05:00:00.000Z",
             "Authorizing_Agency": "Department of Transportation",
             "Authorizing_Subagency": "Federal Aviation Administration",
@@ -5462,38 +5473,16 @@
             "Authorizing_Agency": "Social Security Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-03-31T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-04-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-04-01T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "CFI Group",
-        "Cloud_Service_Provider_Package": "Customer Feedback Management System (CFMS)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1609087941",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2018-11-30T05:00:00.000Z",
-        "Original_Expiration_Date": "2021-11-26T05:00:00.000Z",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CFI%20Logo.png",
-        "Independent_Assessor": "Dakota Consulting, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866",
-          "MSO365MT"
-        ],
-        "CSP_Website": "www.cfigroup.com",
-        "CSO_Description": "The CFMS solution provides the ability to collect survey data from citizens and/or federal employees. Survey programs analyze and statistically model the data using the patented methodology of the American Customer Satisfaction Index (ACSI) and then share the results back to our clients via a secure web portal. In addition, CFI Group provides in depth reports and presentations to further analyze and provide recommendations based on the information collected. CFMS is hosted on Amazon.",
-        "Announcement_Date": "2019-05-31T04:00:00.000Z",
-        "CSP_POC_Name": "Wendy Brant",
-        "CSP_POC_Email": "wbrant@cfigroup.com",
-        "FedRAMP_In-Process_Date": "2016-08-25T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "Acadis",
@@ -7215,6 +7204,13 @@
             "Authorizing_Agency": "Department of State",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-03-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-04-12T04:00:00.000Z",
+            "Authorizing_Agency": "Tennessee Valley Authority",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-TennesseeValleyAuthority-Logo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -7314,6 +7310,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-10-25T04:00:00.000Z",
             "Authorizing_Agency": "National Labor Relations Board",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/National_Labor_Relations_Board_logo_-_color.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-02-11T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-02-11T05:00:00.000Z",
+            "Authorizing_Agency": "Federal Trade Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -7559,15 +7562,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-03-29T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-04-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-03-29T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Information Systems Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2021-01-29T05:00:00.000Z",
             "Letter_Expiration_Date": "2024-01-30T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-01-29T05:00:00.000Z",
@@ -7607,6 +7601,15 @@
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "Food and Drug Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-03-30T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-03-01T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-30T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Information Systems Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -7890,10 +7893,9 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/IBM%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www-01.ibm.com/software/lotus/cloud/government/",
-        "CSO_Description": "IBM’s SmartCloud for Government (SCG) is a secure multi-tenant Infrastructure as a Service (IaaS) cloud computing environment for U.S. Federal customers. SCG services include provisioning of compute, memory, network, OS, and storage resources to meet client production and development/test computing needs. SCG IaaS services can be bundled with enterprise class, fully managed cloud hosting services, including OS Provisioning and Administration, Enterprise System Management, Security Operation Center (SOC), Storage Management, and Backup. These SCG IaaS capabilities can also be leveraged to support a broad range of IBM and 3rd party software offerings using a PaaS or SaaS delivery model.\nIBM’s portfolio of cloud security expertise spans multiple security domains including people, data, applications and infrastructure, with an emphasis on visibility, control, isolation and automation. The SCG solutions are delivered from IBM Federal Data Centers (FDC) that are expressly designed and managed to meet FISMA requirements. IBM SCG enables customers to choose cloud solutions and services that meet their workload requirements and helps Government agencies deliver business outcomes with faster time to value and a lower total cost of ownership.",
+        "CSO_Description": "IBM’s SmartCloud for Government (SCG) is a secure multi-tenant Infrastructure as a Service (IaaS) cloud computing environment for U.S. Federal customers. SCG services include provisioning of compute, memory, network, OS, and storage resources to meet client production and development/test computing needs. SCG IaaS services can be bundled with enterprise class, fully managed cloud hosting services, including OS Provisioning and Administration, Enterprise System Management, Security Operation Center (SOC), Storage Management, and Backup. These SCG IaaS capabilities can also be leveraged to support a broad range of IBM and 3rd party software offerings using a PaaS or SaaS delivery model.\n\nThe SCG solutions are delivered from IBM Federal Data Centers (FDC) that are expressly designed and managed to meet FISMA requirements. IBM SCG enables customers to choose cloud solutions and services that meet their workload requirements and helps Government agencies deliver business outcomes with faster time to value and a lower total cost of ownership.\n\nThe following IBM services are FedRAMP Authorized and approved by the JAB at the High Impact Level: IBM Platform Services for Government with Red Hat Openshift (IPS4GRO) and IBM zCloud Platform as a Service.",
         "Announcement_Date": "2019-11-14T05:00:00.000Z",
-        "CSP_POC_Name": "Becky Lutz",
-        "CSP_POC_Email": "rlutz@us.ibm.com",
+        "CSP_POC_Name": "Christopher Goldberg",
         "FedRAMP_In-Process_Date": "2018-06-19T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
@@ -8120,6 +8122,13 @@
             "Authorizing_Subagency": "Federal Law Enforcement Training Centers",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-03-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-04-01T04:00:00.000Z",
+            "Authorizing_Agency": "Executive Office of the President",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_Executive_Office_of_the_President_of_the_United_States_2014.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -8162,6 +8171,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-06-22T04:00:00.000Z",
             "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-12-12T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-12-12T05:00:00.000Z",
+            "Authorizing_Agency": "Federal Deposit Insurance Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -8627,14 +8643,6 @@
             "Authorizing_Agency": "Department of State",
             "Authorizing_Subagency": "State Office of the Inspector General",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2022-02-28T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-07-30T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "Transportation Security Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -9443,7 +9451,7 @@
         "CSP_Website": "https://www.docusign.com/products/clm",
         "CSO_Description": "DocuSign CLM is a secure contract lifecycle management product in DocuSign's Agreement Cloud. DocuSign CLM manages contracts in addition to all other types of documents across desktop, mobile, and partner applications like Salesforce. DocuSign CLM goes beyond standard document and contract management with advanced workflows that automate manual tasks and complex processes to speed time-to-revenue. Businesses use DocuSign CLM to optimize collaboration and processes across internal departments, as well as with prospects and customers.",
         "Announcement_Date": "2017-08-24T04:00:00.000Z",
-        "CSP_POC_Name": "Nick Bennett",
+        "CSP_POC_Name": "DocuSign FedRAMP Requests",
         "CSP_POC_Email": "FedRAMP@DocuSign.com",
         "FedRAMP_In-Process_Date": "2015-05-03T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
@@ -10111,6 +10119,15 @@
             "Authorizing_Agency": "Federal Communications Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-04-11T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-04-10T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-04-11T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Department of the Navy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -10399,14 +10416,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2018-12-27T05:00:00.000Z",
-            "Letter_Expiration_Date": "2022-04-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-04-02T04:00:00.000Z",
-            "Authorizing_Agency": "United States Agency for International Development",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-07-09T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-07-09T04:00:00.000Z",
             "Authorizing_Agency": "Department of Justice",
@@ -10538,6 +10547,13 @@
             "Authorizing_Agency": "Department of Education",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-03-28T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-03-28T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-29T04:00:00.000Z",
+            "Authorizing_Agency": "United States Agency for International Development",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -10644,7 +10660,7 @@
         "Authorizing_Agency": "Department of Commerce",
         "Authorizing_Subagency": "FirstNet",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Galvanize%20Logo.png",
-        "Independent_Assessor": "Linford & Company",
+        "Independent_Assessor": "Schellman Compliance, LLC",
         "Underlying_CSP_Package_ID": [
           "F1603047866"
         ],
@@ -11595,7 +11611,7 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Liberty IT Solutions",
+        "Cloud_Service_Provider_Name": "Booz Allen Hamilton",
         "Cloud_Service_Provider_Package": "Supply Chain Master Catalog powered by ProdigoMarketplace",
         "Path": "Agency",
         "Designation": "Compliant",
@@ -11617,7 +11633,7 @@
           "F1603087869"
         ],
         "CSP_Website": "https://www.prodigosolutions.com",
-        "CSO_Description": "Offered as a SaaS solution, Prodigo Marketplace is a virtual e-commerce procurement product that enables maximum, sustained cost savings throughout VA’s healthcare supply chain for all clinical and non-clinical supplies and services. By effectively driving contract utilization at the point-of-requisition, Prodigo Marketplace assures users are purchasing the right items from the right vendors at the right price. As VA’s single purchasing gateway, enabled and sustained via Liberty IT Solutions’ secure cloud infrastructure, Prodigo Marketplace directs users to their preferred sources of supply. This online requisitioning tool offers users a simple, easy-to-use ordering experience; reducing clinical disruption and the time users spend on administrative tasks.",
+        "CSO_Description": "Offered as a SaaS solution, Prodigo Marketplace is a virtual e-commerce procurement product that enables maximum, sustained cost savings throughout VA’s healthcare supply chain for all clinical and non-clinical supplies and services. By effectively driving contract utilization at the point-of-requisition, Prodigo Marketplace assures users are purchasing the right items from the right vendors at the right price. As VA’s single purchasing gateway, enabled and sustained via Booz Allen Hamilton's secure cloud infrastructure, Prodigo Marketplace directs users to their preferred sources of supply. This online requisitioning tool offers users a simple, easy-to-use ordering experience; reducing clinical disruption and the time users spend on administrative tasks.",
         "Announcement_Date": "2020-11-04T05:00:00.000Z",
         "CSP_POC_Name": "Ted Dagnal",
         "CSP_POC_Email": "hello@prodigosolutions.com",
@@ -12100,6 +12116,12 @@
             "Authorizing_Agency": "Department of Commerce",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-11-15T05:00:00.000Z",
+            "Authorizing_Agency": "National Aeronautics and Space Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NASA_logo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -12263,6 +12285,7 @@
         "Underlying_CSP_Package_ID": [
           "F1603047866",
           "FR1805751477",
+          "F1512167750",
           "FR1812446342"
         ],
         "CSP_Website": "www.paloaltonetworks.com",
@@ -12558,7 +12581,17 @@
         "CSP_POC_Name": "Michael Davis",
         "CSP_POC_Email": "fedramp@medialab.com",
         "FedRAMP_In-Process_Date": "2020-05-18T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2022-03-29T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-03-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-04-07T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "National Institutes of Health",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Automattic, Inc.",
@@ -12920,6 +12953,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-11-29T05:00:00.000Z",
             "Authorizing_Agency": "Department of Labor",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-04-11T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-04-10T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-04-11T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Housing and Urban Development",
+            "Authorizing_Subagency": "HUD Office of the Inspector General",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHUD-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -14388,7 +14430,7 @@
         "CSP_Website": "www.acquia.com",
         "CSO_Description": "Acquia provides the leading cloud platform for building, delivering, and optimizing digital experiences.\nAcquia is the enterprise platform behind Drupal, the leading open-source content management system, recognized as a Magic Quadrant Leader by Gartner two years in a row. Our platform enables agencies to foster greater digital engagement with citizens and securely deliver mission essential information and services with greater speed, agility, and resiliency.\nThe City of LA, State of New York, FEMA, Department of Homeland Security and many other government agencies rely on the Acquia platform to build websites and digital experiences that meet the needs of their citizens, internal users and IT teams while moving their missions forward.\nThese agencies know that a citizen-centric government requires more than simply taking the existing physical structure and making it digital. Today the term “digital” has taken on a new meaning. In the private sector, consumers can shop, pay bills, and even conduct banking online, and now they’re expecting to conduct government business online in the same way. The most forward-thinking government IT managers are finding ways to meet expectations set by the private sector, and then going above and beyond to serve citizens.\nWith the Acquia Platform governments and agencies can use limited taxpayer dollars efficiently to build sites and experience that meet the needs of IT, deliver on the mission and give citizens crucial information they need.",
         "Announcement_Date": "2016-04-13T04:00:00.000Z",
-        "CSP_POC_Name": "Joseph Janik",
+        "CSP_POC_Name": "Robert Former",
         "CSP_POC_Email": "fedramp@acquia.com",
         "FedRAMP_In-Process_Date": "2014-05-11T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
@@ -15907,7 +15949,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Palo Alto Networks, Inc.",
-        "Cloud_Service_Provider_Package": "ZingBox IoT Guardian",
+        "Cloud_Service_Provider_Package": "IoT Security (Formerly ZingBox)",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "FR1831150485",
@@ -15931,7 +15973,7 @@
           "FR1812446342"
         ],
         "CSP_Website": "www.paloaltonetworks.com",
-        "CSO_Description": "Zingbox® IoT Guardian discovers, identifies, secures, monitors and optimizes the use of connected medical devices, industrial control systems, physical security systems, and other non-traditional IT. Using Zingbox, federal agencies can safely enable IoT devices in their facilities while optimizing their lifecycle management. \r",
+        "CSO_Description": "Protect your IoT attack surface with the industry’s smartest IoT Security solution delivering ML-powered visibility, prevention, and zero-trust enforcement in a single platform.",
         "Announcement_Date": "2022-02-09T05:00:00.000Z",
         "CSP_POC_Name": "Brad Bartholomew",
         "CSP_POC_Email": "fedramp@paloaltonetworks.com",
@@ -16082,6 +16124,45 @@
         "Fedramp_Ready_Date": "2020-02-19T05:00:00.000Z",
         "FedRAMP_In-Process_Date": "2021-09-21T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Monster Government Solutions",
+        "Cloud_Service_Provider_Package": "Monster Hiring Management Enterprise (MHME)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1711546389",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-05-28T04:00:00.000Z",
+        "Sponsoring_Agency": "General Services Administration",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+        "Authorizing_Agency": "General Services Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Monster%20Logo.png",
+        "Independent_Assessor": "SecureIT",
+        "Underlying_CSP_Package_ID": [
+          "F1212191840",
+          "MSO365MT"
+        ],
+        "CSP_Website": "https://www.monstergovernmentsolutions.com/",
+        "CSO_Description": "MHME is a Software as a Service (SaaS) application that automates and streamlines federal human resource recruitment, hiring, and management. MHME is a Moderate impact system, in production since January 1, 2003, and currently supporting over 68 federal customers.  ",
+        "Announcement_Date": "2022-04-07T04:00:00.000Z",
+        "CSP_POC_Name": "Lindsey Laney",
+        "CSP_POC_Email": "fedramp@monster.com",
+        "FedRAMP_In-Process_Date": "2021-05-28T04:00:00.000Z",
+        "Agency_POC": "Coming Soon",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2021-06-06T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-06-08T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-06-08T04:00:00.000Z",
+            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Google",
@@ -16509,6 +16590,13 @@
             "Authorizing_Subagency": "Federal Emergency Management Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-03-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-29T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Deposit Insurance Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -16563,7 +16651,7 @@
         "Cloud_Service_Provider_Package": "Gen3 Data Commons Service",
         "Path": "Agency",
         "Designation": "Compliant",
-        "Package_ID": "FR2125059322",
+        "Package_ID": "FR2110056334",
         "Service_Model": [
           "SaaS"
         ],
@@ -16800,6 +16888,12 @@
             "Authorizing_Agency": "Department of State",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-12T05:00:00.000Z",
+            "Authorizing_Agency": "Federal Deposit Insurance Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -16994,7 +17088,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
         "Authorizing_Agency": "Department of the Interior",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Hootsuite%20Logo.png",
-        "Independent_Assessor": "Department of the Interior",
+        "Independent_Assessor": "Deloitte & Touche LLP",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW"
         ],
@@ -17229,6 +17323,120 @@
             "Include_In_Marketplace": "Y"
           }
         ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Digital.ai",
+        "Cloud_Service_Provider_Package": "Digital.ai Government Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2118743892",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-01-14T05:00:00.000Z",
+        "Original_Expiration_Date": "2025-01-05T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Digital.ai.png",
+        "Independent_Assessor": "The Cadence Group",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "https://www.digital.ai",
+        "CSO_Description": "Digital.ai Government Cloud (DGC) is a suite of application modules that provides Enterprise Agile Planning (EAP), DevOps, Continuous Testing, Application Security, and AI powered Analytics.  DGC is being offered as a Government Only Community Software-as-a-Service (SaaS) solution.",
+        "Announcement_Date": "2022-04-05T04:00:00.000Z",
+        "CSP_POC_Name": "Rachel DeHoyos",
+        "CSP_POC_Email": "fedramp-info@digital.ai",
+        "FedRAMP_In-Process_Date": "2021-07-22T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Yello Dba Recsolu Inc",
+        "Cloud_Service_Provider_Package": "Yello Government Recruiting Solution",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2113557839",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-11-03T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of State",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
+        "Authorizing_Agency": "Department of State",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Yello%20Logo.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "F1206081364",
+          "F1607057910",
+          "F1512167750",
+          "AGENCYSF"
+        ],
+        "CSP_Website": "https://yello.co/government-recruiting/",
+        "CSO_Description": "Yello's technology (YGRS) helps organizations find, prioritize, manage, engage with, and hire talent. Currently, more than 100 of the Fortune 500 and 20+ federal agencies use Yello to modernize the recruiting process — ultimately helping them find and hire candidates faster. \n\r\nOrganizations find job candidates by participating in designated recruiting and hiring events (i.e. in-person career fairs, virtual career fairs, job fairs, classroom presentations, info sessions, diversity conferences, webinars, live-stream events, etc.) Organizations invest hundreds of thousands of dollars to plan and attend — in addition to hours of staff time after the event needed to follow up with candidates. YGRS manages this process from end-to-end in one platform, ultimately leading to faster and more efficient hiring decisions and processes.  The solution also helps agencies understand the overall return on investment. \n\r\nThe solution includes tools to find candidates, manage recruiting events and keep in touch with candidates, all leading to successful hiring. ",
+        "Announcement_Date": "2022-04-11T04:00:00.000Z",
+        "CSP_POC_Name": "Larry Jennings",
+        "CSP_POC_Email": "fedramp@yello.co",
+        "FedRAMP_In-Process_Date": "2021-04-13T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "CFI Group",
+        "Cloud_Service_Provider_Package": "Customer Feedback Management System (CFMS)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1609087941",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-04-13T04:00:00.000Z",
+        "Original_Expiration_Date": "2025-03-30T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CFI%20Logo.png",
+        "Independent_Assessor": "Dakota Consulting, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "MSO365MT"
+        ],
+        "CSP_Website": "www.cfigroup.com",
+        "CSO_Description": "The CFMS solution provides the ability to collect survey data from citizens and/or federal employees. Survey programs analyze and statistically model the data using the patented methodology of the American Customer Satisfaction Index (ACSI) and then share the results back to our clients via a secure web portal. In addition, CFI Group provides in depth reports and presentations to further analyze and provide recommendations based on the information collected. CFMS is hosted on Amazon.",
+        "Announcement_Date": "2019-05-31T04:00:00.000Z",
+        "CSP_POC_Name": "Wendy Brant",
+        "CSP_POC_Email": "wbrant@cfigroup.com",
+        "FedRAMP_In-Process_Date": "2016-08-25T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "3M",
+        "Cloud_Service_Provider_Package": "Grouper Plus Content Services (GPCS)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2200458671",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/3M%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.3mhis.com",
+        "CSO_Description": "3M Grouper Plus Content Services (3M GPCS) provides reliable and secure processing of patient claims and other coded data in the cloud. The web-based delivery system hosts a selection of classification and reimbursement content users need to group, edit and calculate reimbursement of claims.",
+        "CSP_POC_Name": "Jonathan Higbee",
+        "CSP_POC_Email": "fedramp-his@mmm.com",
+        "FedRAMP_In-Process_Date": "2022-03-15T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "3M",
@@ -17470,6 +17678,30 @@
         "CSP_POC_Name": "Kevin Eveker",
         "CSP_POC_Email": "info@c3.ai",
         "Fedramp_Ready_Date": "2022-03-02T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Center for Translational Data Science (CTDS), University of Chicago",
+        "Cloud_Service_Provider_Package": "Gen3 Data Ecosystems Platform",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2125059322",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "National Heart, Lung, and Blood Institute",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/UoC%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://Gen3.data-commons.org",
+        "CSO_Description": "The Gen3 Data Ecosystems Platform (Gen3) is an open-source multi-tenant Software as a Service (SaaS) platform for developing, creating, and operating cloud-based data commons, data ecosystems, and workspaces for managing, analyzing, and sharing both open access and controlled access data. The goal of Gen3 is to provide research data in a uniform and co-localized database and to serve as a foundation for future expanded data access, computational capabilities, and bioinformatics cloud research",
+        "CSP_POC_Name": "Robert Grossman",
+        "CSP_POC_Email": "Gen3platform@data-commons.org",
+        "FedRAMP_In-Process_Date": "2022-03-24T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -17735,6 +17967,52 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "CyberArk Software LTD",
+        "Cloud_Service_Provider_Package": "CyberArk Endpoint Privilege Manager for Government ",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2001619708",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Sponsoring_Agency": "Department of Agriculture",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+        "Authorizing_Agency": "Department of Agriculture",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CyberArk%20Logo.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "CSP_Website": "https://www.cyberark.com/products/endpoint-privilege-manager/ ",
+        "CSO_Description": "With CyberArk Endpoint Privilege Manager government organizations can confidently defend against attacks by automatically removing local admin rights, enforcing least privilege, enabling policy-based comprehensive conditional application control, maintaining application catalog, and protecting the entire endpoint security stack from tampering – in line with a number of recent CISA alerts, advisories and recommendations, and starting day one. Secure and flexible SaaS management console allows for centralized policy-based and role-based management to ensure automated, robust and differentiated application of policies based on the user’s role. Automatic elevation of known good programs requiring elevation, including those legacy and not-UAC-aware, significantly cuts down on the IT Service Desk requests, while optional automatic access restriction (for example, network connectivity restriction) for unknown applications significantly reduces the area of attack and helps break ransomware kill chain. Out-of-the-box anti-ransomware policy allows to add additional layer of security around sensitive data and prevent data corruption even in the event of successful asset compromise and ransomware execution. Another critical capability is blocking credential, key, secret, password, hash, cookie and other sensitive information from memory, browsers, operating system and credential stores, effectively blocking most attacks based on credential compromise. Endpoint Privilege Manager helps with audit and compliance by addressing specific regulation requirements and creating audit trail for identity and privilege events on the endpoints.",
+        "CSP_POC_Name": "Oshrit Itzhak-Montvelisky",
+        "CSP_POC_Email": "FedRAMPinfo@cyberark.com",
+        "FedRAMP_In-Process_Date": "2022-03-30T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "CyberArk Software LTD",
+        "Cloud_Service_Provider_Package": "CyberArk Identity for Government ",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2001619337",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Sponsoring_Agency": "Department of Agriculture",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+        "Authorizing_Agency": "Department of Agriculture",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CyberArk%20Logo.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "CSP_Website": "https://www.cyberark.com/products/access-management/",
+        "CSO_Description": "CyberArk Identity is a cloud-based identity and access management solution that unifies many of the essential identity and access management services such as single sign-on (SSO), multi-factor authentication (MFA), and automation of user lifecycle management (LCM) (on-boarding and off-boarding). Using CyberArk Identity, Government Organizations can secure access to all the critical resources (applications, devices, IaaS, PaaS, VPNs etc) across on-prem, in the cloud or hybrid.\r\n\r\n**CyberArk Identity Standard and Adaptive SSO, Application Gateway**\n\r\nThe CyberArk Identity App Catalog comes with thousands of application connections by default, but administrators can use a template to add any application to the catalog that is not already there and set up the authentication method through a variety of mechanisms, such as SAML, OpenID Connect (OIDC), OAuth2, WS-FED, or even user name/password. CyberArk Identity App Gateway enables VPN-less access to legacy on-prem applications. It allows companies to set up a per-application, per-user access to individual legacy applications.\r\n\r\n**CyberArk Identity Standard and Adaptive MFA**\n\r\nCyberArk Identity Standard Multi-factor Authentication (MFA) includes methods such as Security Keys, FIDO 2 Passwordless authenticators, Smart Cards, SMS/Email OTPs and Magic Links. These MFA methods are supported for all targets such as Windows Workstations, Servers and Macs, virtual desktops, VPNs, Web Apps, RADIUS Servers, 3rd party IDPs.\r\n\r\nCyberArk Identity Adaptive MFA allows customers to configure the solutions to consider various static and dynamic contexts such as device, location, network, day, time etc when evaluating access requests and applying authentication policies based on that.\r\n\r\n**CyberArk Identity Standard and Advanced Lifecycle Management**\n\r\nStandard Lifecycle Management (LCM) includes pre-integrated application provisioning and deprovisioning, AD sync and licensing for O365, self-service app request and automated approval workflow, app entitlement management, reporting and SIEM integration.\r\n\r\nAdvanced Lifecycle Management includes inbound provisioning from HCM apps such as Workday, SuccessFactors, Bamboo HR, and Ultipro, as well as custom provisioning based on SCIM.\r\n\r\n**CyberArk Identity Cloud Directory and Connector for On-Prem Directory Integrations**\r\n\r\nCustomers can also utilize the Identity Cloud Directory or install the Identity Connector inside their firewall to enable communication between their internal network (AD or LDAP) and the Identity services.",
+        "CSP_POC_Name": "Oshrit Itzhak-Montvelisky",
+        "CSP_POC_Email": "FedRAMPinfo@cyberark.com",
+        "FedRAMP_In-Process_Date": "2022-03-30T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "CyLogic",
         "Cloud_Service_Provider_Package": "CyCloud for VMware Cloud Foundation 4 (VCF4)",
         "Designation": "FedRAMP Ready",
@@ -17856,29 +18134,6 @@
         "CSP_POC_Name": "John Allison",
         "CSP_POC_Email": "fedramp@devo.com",
         "FedRAMP_In-Process_Date": "2022-02-17T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Digital.ai",
-        "Cloud_Service_Provider_Package": "Digital.ai Government Cloud",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2118743892",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Veterans Affairs",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-        "Authorizing_Agency": "Department of Veterans Affairs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Digital.ai.png",
-        "Independent_Assessor": "The Cadence Group",
-        "CSP_Website": "https://www.digital.ai",
-        "CSO_Description": "Digital.ai Government Cloud (DGC) is a suite of application modules that provides Enterprise Agile Planning (EAP), DevOps, Continuous Testing, Application Security, and AI powered Analytics.  DGC is being offered as a Government Only Community Software-as-a-Service (SaaS) solution.",
-        "CSP_POC_Name": "Rachel DeHoyos",
-        "CSP_POC_Email": "fedramp-info@digital.ai",
-        "FedRAMP_In-Process_Date": "2021-07-22T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -18019,6 +18274,8 @@
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-08-07T04:00:00.000Z",
+        "Original_Expiration_Date": "2023-08-07T04:00:00.000Z",
         "Sponsoring_Agency": "Department of Veterans Affairs",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
         "Authorizing_Agency": "Department of Veterans Affairs",
@@ -18323,6 +18580,25 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "KBR, Inc.",
+        "Cloud_Service_Provider_Package": "Vaault for Public Safety Video Evidence",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2124663764",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/KBR%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://www.kbr.com/kbrvaault",
+        "CSO_Description": "KBR Vaault for Public Safety Video Evidence implements a system that facilitates the secure collection, review, archival, and distribution of surveillance evidence collected by mobile users. Additionally, KBR Vaault for Public Safety Video Evidence facilitates the collection, consolidation, organization, review, retrieval, search, and distribution of video and audio surveillance data using cloud computing technologies. This FedRAMP solution enables remote monitoring, situational awareness, and incident management including the viewing and operation of live and recorded surveillance devices, anywhere and anytime, while within network connectivity.",
+        "CSP_POC_Name": "Sam Nicholson",
+        "CSP_POC_Email": "kbrvaault@us.kbr.com ",
+        "Fedramp_Ready_Date": "2022-04-05T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Keeper Security",
         "Cloud_Service_Provider_Package": "Keeper Security Government Cloud (KSGC)",
         "Path": "Agency",
@@ -18624,36 +18900,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Monster Government Solutions",
-        "Cloud_Service_Provider_Package": "Monster Hiring Management Enterprise (MHME)",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1711546389",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "General Services Administration",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-        "Authorizing_Agency": "General Services Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Monster%20Logo.png",
-        "Independent_Assessor": "SecureIT",
-        "CSP_Website": "https://www.monstergovernmentsolutions.com/",
-        "CSO_Description": "MHME is a Software as a Service (SaaS) application that automates and streamlines federal human resource recruitment, hiring, and management. MHME is a Moderate impact system, in production since January 1, 2003, and currently supporting over 68 federal customers.  ",
-        "CSP_POC_Name": "Lindsey Laney",
-        "CSP_POC_Email": "fedramp@monster.com",
-        "FedRAMP_In-Process_Date": "2021-05-28T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": [
-          {
-            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Motorola Solutions",
         "Cloud_Service_Provider_Package": "Motorola Solutions Federal Cloud (MSFC)",
         "Path": "Agency",
@@ -18721,30 +18967,6 @@
         "CSP_POC_Name": "Steve Witt",
         "CSP_POC_Email": "sales@nintex.com",
         "FedRAMP_In-Process_Date": "2021-09-22T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Nuna, Inc. ",
-        "Cloud_Service_Provider_Package": "Nuna Value Platform",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2118064250",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Nuna%20Logo.png",
-        "Independent_Assessor": "Kratos",
-        "CSP_Website": "www.nuna.com",
-        "CSO_Description": "The Nuna Value Platform helps healthcare plans and providers succeed in value-based care arrangements. The Nuna Value Platform provides the infrastructure, systems, tools, and techniques needed to gather, manage, model and analyze healthcare data from disparate sources.  Our mission is to reduce the cost of medical care and improve its quality with data-driven insights.",
-        "CSP_POC_Name": "Amanda Walker",
-        "CSP_POC_Email": "fedramp@nuna.com",
-        "FedRAMP_In-Process_Date": "2021-08-04T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -19365,6 +19587,29 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "UiPath",
+        "Cloud_Service_Provider_Package": "Automation Cloud Public Sector",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2132958724",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/UiPath%20Logo.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "CSP_Website": "www.uipath.com",
+        "CSO_Description": "**UiPath Automation Cloud Public Sector** is a SaaS solution, offered via the web to customers who want to manage their automations without the overhead of going through installing and managing the on-prem version of UiPath’s orchestrator and other management solutions.​UiPath Automation Cloud allows customers to manage their licenses, add multiple tenants with different services, manage user access for these services, access Orchestrator services to create Robots, environments, machines, processes, run jobs, create schedules – essentially allowing customers to perform robot management activities from one centralized, secure location on the cloud.​This is hosted at Microsoft Azure GovCloud data centers, leveraging a variety of Azure provided services in GovCloud. The Azure regions from which the services are hosted include Virginia and Arizona.​ \r\n\r\nServices included: Automation Cloud and Cloud Orchestrator.",
+        "CSP_POC_Name": "Rahul Dubey",
+        "CSP_POC_Email": "fedramp@uipath.com",
+        "FedRAMP_In-Process_Date": "2022-04-05T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "United Solutions, LLC",
         "Cloud_Service_Provider_Package": "US AI",
         "Path": "Agency",
@@ -19560,7 +19805,7 @@
         "Independent_Assessor": "Schellman Compliance, LLC",
         "CSP_Website": "https://www.wolterskluwer.com/en/solutions/teammate/teammate-public-sector",
         "CSO_Description": "The TeamMate+ FedRAMP platform is a suite of services that provides tooling and functionality to auditors for management and tracking of the entire auditing process. The product suite includes TeamMate+ Audit, TeamMate+ Controls, and TeamMate+ Public Sector. The TeamMate+ FedRAMP suite allows auditors and audit organizations to define, track, and manage the audit process within their own standards. TeamMate+ FedRAMP leverages tooling and software to integrate with various services and resources across many systems, enabling auditors to achieve a holistic view of the organization. Through use of cloud technology and wide tooling integration, TeamMate+ FedRAMP enables organizations to align processes and goals for better strategic and tactical insights.\n\nTeamMate+ FedRAMP's environment utilizes higher standards for security and compliance, this system has very well-defined boundaries and controlled data ingress and egress patterns.",
-        "CSP_POC_Name": "Jennifer Esterheld",
+        "CSP_POC_Name": "Alberto De Benito Aznar",
         "CSP_POC_Email": "TeamMate-FedRAMP@wolterskluwer.com",
         "FedRAMP_In-Process_Date": "2022-02-15T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
@@ -19587,29 +19832,6 @@
         "CSP_POC_Email": "fedramp@workday.com",
         "Fedramp_Ready_Date": "2021-08-16T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2022-03-16T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Yello Dba Recsolu Inc",
-        "Cloud_Service_Provider_Package": "Yello Government Recruiting Solution",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2113557839",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of State",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
-        "Authorizing_Agency": "Department of State",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Yello%20Logo.png",
-        "Independent_Assessor": "Schellman Compliance, LLC",
-        "CSP_Website": "https://yello.co/government-recruiting/",
-        "CSO_Description": "Yello's technology (YGRS) helps organizations find, prioritize, manage, engage with, and hire talent. Currently, more than 100 of the Fortune 500 and 20+ federal agencies use Yello to modernize the recruiting process — ultimately helping them find and hire candidates faster. \n\r\nOrganizations find job candidates by participating in designated recruiting and hiring events (i.e. in-person career fairs, virtual career fairs, job fairs, classroom presentations, info sessions, diversity conferences, webinars, live-stream events, etc.) Organizations invest hundreds of thousands of dollars to plan and attend — in addition to hours of staff time after the event needed to follow up with candidates. YGRS manages this process from end-to-end in one platform, ultimately leading to faster and more efficient hiring decisions and processes.  The solution also helps agencies understand the overall return on investment. \n\r\nThe solution includes tools to find candidates, manage recruiting events and keep in touch with candidates, all leading to successful hiring. ",
-        "CSP_POC_Name": "Larry Jennings",
-        "CSP_POC_Email": "fedramp@yello.co",
-        "FedRAMP_In-Process_Date": "2021-04-13T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
