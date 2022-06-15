@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-06-14T04:40:51.135Z",
+    "Created_At": "2022-06-15T04:40:50.743Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3508,14 +3508,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2019-05-14T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-05-23T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-05-23T04:00:00.000Z",
-            "Authorizing_Agency": "Peace Corps",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Peace%20Corps%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-03-26T04:00:00.000Z",
             "Letter_Expiration_Date": "2023-03-25T04:00:00.000Z",
             "Authorizing_Agency": "General Services Administration",
@@ -3595,6 +3587,14 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-05-11T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-09-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-05-13T04:00:00.000Z",
+            "Authorizing_Agency": "Peace Corps",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Peace%20Corps%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -8719,15 +8719,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-04-14T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-04-27T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-04-27T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Food and Drug Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-06-01T04:00:00.000Z",
             "Letter_Expiration_Date": "2023-06-30T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-06-09T04:00:00.000Z",
@@ -8893,6 +8884,15 @@
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Defense Information Systems Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-06-07T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-06-13T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-06-13T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -11746,7 +11746,8 @@
         "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
         "Underlying_CSP_Package_ID": [
           "F1602167854",
-          "F1603087869"
+          "F1603087869",
+          "FR1814276801"
         ],
         "CSP_Website": "https://www.prodigosolutions.com",
         "CSO_Description": "Offered as a SaaS solution, Prodigo Marketplace is a virtual e-commerce procurement product that enables maximum, sustained cost savings throughout VA’s healthcare supply chain for all clinical and non-clinical supplies and services. By effectively driving contract utilization at the point-of-requisition, Prodigo Marketplace assures users are purchasing the right items from the right vendors at the right price. As VA’s single purchasing gateway, enabled and sustained via Booz Allen Hamilton's secure cloud infrastructure, Prodigo Marketplace directs users to their preferred sources of supply. This online requisitioning tool offers users a simple, easy-to-use ordering experience; reducing clinical disruption and the time users spend on administrative tasks.",
@@ -15400,7 +15401,8 @@
           "FR1812058188",
           "FR1805751477",
           "F1206081364",
-          "F1209051525"
+          "F1209051525",
+          "FR1814276801"
         ],
         "CSP_Website": "https://www.devresults.com/",
         "CSO_Description": "DevResults is a web application with tools for data capture, analysis, reporting, visualizations, project management, and team collaboration. DevResults was designed to streamline fragmented data processes into a single proven system, allowing for the utilization of data for decision making across activities and throughout government agencies, non-profit organizations, and private sector companies. Over the past decade, DevResults has supported partners with managing data, measuring progress, and learning from the results. DevResults will allow users across an organization and around the world to better utilize data for management and decision-making.",
@@ -21070,7 +21072,7 @@
         "Additional_Cyber_Frameworks": "* FedRAMP\n* ISO\n* PCI\n* SOC\n* FISMA\n* DIACAP"
       },
       {
-        "Name": "Tevora Business Solutions, Inc. (In Remediation)",
+        "Name": "Tevora Business Solutions, Inc.",
         "Accreditation_Date": "2019-09-27T04:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Tevora%20Logo.png",
         "Description": "Tevora’s Federal Services Team is an accredited FedRAMP 3PAO that offers a comprehensive collection of accredited 3PAO services which are tailored to support individual CSPs in maintaining cost effective strategic initiatives for compliance with FedRAMP, FISMA, Office of Management and Budget (OMB), and other Federal civilian and Department of Defense (DoD) mandates. Tevora provides meaningful feedback throughout each project to help CSPs efficiently navigate the FedRAMP assessment and authorization process in partnership with the FedRAMP PMO and Agency sponsor.\n\nTevora’s Federal Services include:\n* Strategy Roadmap Development\n* IT Governance including creation of IT Security Policies, Standards, and Procedures\n* Development of System Security Plans (SSP)\n* Gap and Readiness Assessment Report (RAR)\n* Remediation Services\n* Penetration Testing\n* Accredited 3PAO Security Assessment Reports (SAR)\n* Accredited 3PAO Continuous Monitoring Services",
