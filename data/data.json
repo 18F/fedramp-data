@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-06-15T19:23:00.388Z",
+    "Created_At": "2022-06-15T19:36:10.796Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -39,6 +39,20 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "United States Census Bureau",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2015-07-17T04:00:00.000Z",
+            "Authorizing_Agency": "General Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2015-06-17T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2015-06-18T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Authorizing_Subagency": "Federal Student Aid",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -114,6 +128,12 @@
             "Authorizing_Agency": "Administrative Office of the United States Courts",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US%20Courts%20Logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2015-09-21T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -171,8 +191,244 @@
             "Authorizing_Agency": "National Endowment for the Humanities",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NEH%20Logo.jpg",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2015-03-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2015-03-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Information Systems Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Appian",
+        "Cloud_Service_Provider_Package": "Appian Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1210011608",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2015-04-23T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Transportation",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
+        "Authorizing_Agency": "Department of Transportation",
+        "Authorizing_Subagency": "Federal Transportation Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Appian%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1603047866"
+        ],
+        "CSP_Website": "www.appian.com",
+        "CSO_Description": "Appian software is delivered to the Appian Cloud through a Platform-as-a-Service (PaaS) model and leverages cloud-native robotic process automation (RPA), simplifying control management and reducing overhead for customers. Government agencies should consider the Appian Government Cloud (at Impact Level 5) for critical acquisitions, case management and logistics, especially when process and business rule complexities are high. The Appian Low-Code Platform unifies the key capabilities needed to get work done faster.",
+        "Announcement_Date": "2015-06-22T04:00:00.000Z",
+        "CSP_POC_Name": "N/A",
+        "CSP_POC_Email": "fedramp@appian.com",
+        "FedRAMP_In-Process_Date": "2014-05-11T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Rackspace Government Solutions",
+        "Cloud_Service_Provider_Package": "Rackspace Government Cloud",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "F1510137547",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2015-10-09T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Rackspace%20Logo.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1603047866"
+        ],
+        "CSP_Website": "www.rackspace.com/government",
+        "CSO_Description": "Rackspace Government Cloud (RGC) is purpose-built to help organizations achieve Assessment & Authorization faster and with cost savings of up to 70%. Whether you are a government agency, systems integrator, or independent software vendor, RGC is the foundation you need to rapidly deliver mission value via the cloud.\nRackspace Government Cloud (RGC) wraps VMware and AWS in a secure-by-design management platform to meet the compliance requirements for FedRAMP and DoD Cloud Computing SRG. Customer solutions will be deployed and managed in secured enclaves within US Rackspace datacenters and/or AWS East/West and GovCloud. Customers are provided with dedicated application stacks to maintain data security at the necessary levels. All this is backed by a 24x7x365 U.S. only support model that allows Rackspace to provide the highest levels of assurance and security to our government customers.\nBenefits Include:\n* 24/7/365 operations and system support providing a fully-managed cloud solution up to and including guest operating systems and networks\n* Secure-by-design cloud environment with proactive support, continuous monitoring, and governance\n* Fully redundant solutions, with backup, restore, and disaster recovery built-in\n* Comprehensive system security services as standard, including enterprise-grade log aggregation, endpoint protection, file integrity monitoring, and host-based Intrusion Prevention Systems (IPS) and Intrusion Detection Systems (IDS)\n* Unique combination of automation, accredited tooling, and human expertise, enabling cyber and operational support",
+        "Announcement_Date": "2015-10-09T04:00:00.000Z",
+        "CSP_POC_Name": "Rick Rosenburg",
+        "CSP_POC_Email": "FedRAMP@rackspace.com",
+        "FedRAMP_In-Process_Date": "2014-02-04T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "IBM",
+        "Cloud_Service_Provider_Package": "MaaS360 Enterprise Mobility Management",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "F1208031461",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2015-08-05T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MaaS360%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.maas360.com",
+        "CSO_Description": "IBM’s MaaS360 is a comprehensive, cloud-based security and management platform for devices, applications and content. Government agencies use MaaS360 to protect data and optimize productivity, enabling employees to work anytime and anywhere through trusted mobile interactions. Through a single console, agencies can:\n- Activate and configure devices over the air for instant set-up\n- Monitor and control the security posture of smartphones, tablets, and laptops - Distribute, secure and manage mobile apps for easy employee - Enforce policy compliance for stronger data protection - Access, sync and share business documents for seamless collaboration\n- Enable secure mobile web browsing and simple access to intranet sites - Contain email and attachments with data loss prevention controls\nMaaS360 provides a true, on-demand software-as-a-service delivery model, built on a secure, multi-tenant architecture. It offers immediate insight and control without the added costs and complexities of deploying hardware and software, dealing with intricate configurations, and dedicating additional resources to support the solution on an ongoing basis.",
+        "Announcement_Date": "2015-07-17T04:00:00.000Z",
+        "CSP_POC_Name": "Jeff Ward",
+        "CSP_POC_Email": "jeff.ward@us.ibm.com",
+        "FedRAMP_In-Process_Date": "2013-03-07T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Tyler Federal, LLC",
+        "Cloud_Service_Provider_Package": "Tyler Federal Product Suite",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2108649352",
+        "Service_Model": [
+          "PaaS, SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2015-07-28T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of the Interior",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+        "Authorizing_Agency": "Department of the Interior",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/TF%20Logo.png",
+        "Independent_Assessor": "Emagine IT",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1512167750"
+        ],
+        "CSP_Website": "https://www.tylertech.com/",
+        "CSO_Description": "The Tyler Federal Product Suite (formerly MicroPact Product Suite), which includes icomplaints® and entellitrak®, is delivered via a Software as a Service (SaaS) and a Platform as a Service (PaaS) model to U.S. federal, state, and local government customers. Icomplaints is the leading standard for federal EEO case management and is used by most major federal agencies. Entellitrak, which takes a Data-First™ approach to dynamic case management and Business Process Management (BPM), is available with fully integrated Document Management, Natural Language Analytics, and Mobile Modules. Whether based on-premises or in the cloud, entellitrak can be implemented immediately and configured continuously, enabling customers to get to work quickly while keeping costs low. Tyler Federal is unique as a developer of commercial off-the-shelf (COTS) case management and BPM software in that 97 percent of all federal agencies with more than 500 employees currently use one or more solution from the Tyler Federal Product Suite.",
+        "Announcement_Date": "2014-06-06T04:00:00.000Z",
+        "CSP_POC_Name": "N/A",
+        "CSP_POC_Email": "FD-infosec@tylertech.com",
+        "Fedramp_Ready_Date": "2014-05-20T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2013-12-04T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2015-02-12T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Customs and Border Protection",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Oracle",
+        "Cloud_Service_Provider_Package": "Oracle Service Cloud",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "F1206061351",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2014-12-05T05:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1508277234"
+        ],
+        "CSP_Website": "cloud.oracle.com/public-sector-cloud",
+        "CSO_Description": "The Oracle Service Cloud is Oracle’s premier Software as a Service (SaaS) solution providing the industry’s best in class customer service platform for enterprise customers. Oracle Service Cloud is deployed onto a robust, secure infrastructure hosting Oracle’s patented CX software applications in an environment accredited to FedRAMP-Moderate specifications. The Oracle Service Cloud leverages a fault-tolerant core application framework offering flexible add-on modules providing customers with a customizable, out-of-the-box feature set to support both customer-facing and customer service agent-facing functions. The Oracle Service Cloud is offered as a hosted cloud solution (i.e., operated and maintained by Oracle within its secure hosting environment at co-location facilities in the United States) providing customers with a modern, efficient and secure cloud solution via a proven Software as a Service (SaaS) delivery model.",
+        "Announcement_Date": "2014-12-05T05:00:00.000Z",
+        "CSP_POC_Name": "AJ Handy",
+        "CSP_POC_Email": "saas_fedramp_us_grp@oracle.com",
+        "FedRAMP_In-Process_Date": "2013-09-13T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Virtustream",
+        "Cloud_Service_Provider_Package": "Federal Cloud (VFC)",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "F1301091856",
+        "Service_Model": [
+          "IaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2015-06-09T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Virtustream%20Logo.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "CSP_Website": "www.virtustream.com",
+        "CSO_Description": "Virtustream Federal Cloud is an Infrastructure as a Service that allows organizations to cut costs from their most expensive and time-consuming mission-critical applications. Powered by our innovative xStream cloud management platform, Virtustream’s true consumption-based pricing model allows federal government IT departments to only pay for what they use—improving economics beyond basic virtualization, and freeing up budgetary funding to be allocated to other areas.\nOur xStream cloud management software can also be deployed on any x86-based infrastructure, giving agencies the efficiency where it's needed—all with a single interface for management and control. Agencies can deploy applications where they are required, saving costs across the entire hybrid landscape.\nMore information can be found at [https://www.virtustream.com/cloud/virtustream-federal-cloud] (https://www.virtustream.com/cloud/virtustream-federal-cloud)",
+        "Announcement_Date": "2015-06-09T04:00:00.000Z",
+        "CSP_POC_Name": "Brian Beckham",
+        "CSP_POC_Email": "Public.Sector.GRC@virtustream.com",
+        "FedRAMP_In-Process_Date": "2014-02-19T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "GDT",
+        "Cloud_Service_Provider_Package": "GDT Government Cloud",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "F1309252456",
+        "Service_Model": [
+          "IaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2015-02-04T05:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/GDT%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "https://www.gdt.com",
+        "CSO_Description": "The GDT Government Cloud is a FedRAMP Compliant Infrastructure as a Service (IaaS) offering that government agencies can leverage to deploy and manage compute, network, and storage resources in a self-service model. The Government Cloud holds a FISMA Moderate Joint Authorization Board Provisional ATO (P-ATO) and is authorized to support DoD Impact Level 2 (IL2) workloads. This Government Community Cloud deployment model ensures only government or supporting organizations supporting government agency workloads are hosted on the system. The GDT Government Cloud supports both single system and hybrid deployments to connect workloads in multiple locations aligning to current government agency adoption patterns. Learn more at [https://www.gdt.com/cloud/government-cloud/](https://www.gdt.com/cloud/government-cloud/)",
+        "Announcement_Date": "2015-02-04T05:00:00.000Z",
+        "CSP_POC_Name": "Steven Holmes",
+        "CSP_POC_Email": "fedramp@gdt.com",
+        "FedRAMP_In-Process_Date": "2014-06-18T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2015-06-11T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Information Systems Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Oracle",
+        "Cloud_Service_Provider_Package": "Oracle Service Cloud (DOD)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1304012002",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2015-08-14T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Defense",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+        "Authorizing_Agency": "Department of Defense",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "cloud.oracle.com/public-sector-cloud",
+        "CSO_Description": "**Oracle Service Cloud (DoD) has been authorized at the FedRAMP Moderate baseline + Impact Level (IL) 4 controls.**\nThe Oracle Service Cloud is Oracle’s premier Software as a Service (SaaS) solution providing the industry’s best in class customer service platform for enterprise customers. Oracle Service Cloud is deployed onto a robust, secure infrastructure hosting Oracle’s patented CX software applications in an environment accredited to FedRAMP-Moderate specifications. The Oracle Service Cloud leverages a fault-tolerant core application framework offering flexible add-on modules providing customers with a customizable, out-of-the-box feature set to support both customer-facing and customer service agent-facing functions. The Oracle Service Cloud is offered as a hosted cloud solution (i.e., operated and maintained by Oracle within its secure hosting environment at co-location facilities in the United States) providing customers with a modern, efficient and secure cloud solution via a proven Software as a Service (SaaS) delivery model.",
+        "Announcement_Date": "2015-08-14T04:00:00.000Z",
+        "CSP_POC_Name": "AJ Handy",
+        "CSP_POC_Email": "saas_fedramp_us_grp@oracle.com",
+        "FedRAMP_In-Process_Date": "2015-02-10T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "3M",
