@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-06-15T20:15:19.381Z",
+    "Created_At": "2022-06-15T20:30:02.160Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -175,39 +175,28 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Google",
-        "Cloud_Service_Provider_Package": "Google Workspace",
+        "Cloud_Service_Provider_Name": "IBM",
+        "Cloud_Service_Provider_Package": "MaaS360 Enterprise Mobility Management",
         "Path": "JAB",
         "Designation": "Compliant",
-        "Package_ID": "F1206081364",
+        "Package_ID": "F1208031461",
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "High",
-        "Original_Authorization_Date": "2021-10-27T04:00:00.000Z",
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2015-08-05T04:00:00.000Z",
         "Sponsoring_Agency": "JAB Authorization",
         "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Google%20Logo.png",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MaaS360%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "FR1805751477"
-        ],
-        "CSP_Website": "https://workspace.google.com",
-        "CSO_Description": "Google Workspace (formerly G Suite) is comprised of Google’s multi-tenant public and hybrid cloud instances and leverages Google Services (Package ID FR1805751477).\nThe following Google Workspace services are FedRAMP High: Calendar, Docs, Drive, Forms, Gmail, Google Chat, Google Meet, Keep, New Sites, Sheets, Slides, Vault\nThe following Google Workspace services are FedRAMP Moderate: Android and Chrome Device Management, Chrome Sync (for Google Workspace for Education domains only), Classroom, Cloud Search (including 3P), Contacts, Drawings, Google Drive for Work, Google Workspace Security Center (for Google Workspace Enterprise and Google Workspace Enterprise for Education domains only), Google Tasks, Groups for Business, Jamboard, Secure LDAP, Sites Classic, Vault, Voice; Docs APIs: Apps Activity API, Calendar API, Contacts API, Drive REST API (replaced Documents List API), Gmail REST API (replaced Email Migration API), Sheets API, Sites API, Tasks API.",
-        "Announcement_Date": "2021-10-28T04:00:00.000Z",
-        "CSP_POC_Name": "Google FedRAMP Team",
-        "CSP_POC_Email": "fedramp@google.com",
-        "Fedramp_Ready_Date": "2020-12-16T05:00:00.000Z",
-        "FedRAMP_In-Process_Date": "N",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2014-06-24T04:00:00.000Z",
-            "Authorizing_Agency": "National Archives and Records Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NARA_Logo.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
+        "CSP_Website": "www.maas360.com",
+        "CSO_Description": "IBM’s MaaS360 is a comprehensive, cloud-based security and management platform for devices, applications and content. Government agencies use MaaS360 to protect data and optimize productivity, enabling employees to work anytime and anywhere through trusted mobile interactions. Through a single console, agencies can:\n- Activate and configure devices over the air for instant set-up\n- Monitor and control the security posture of smartphones, tablets, and laptops - Distribute, secure and manage mobile apps for easy employee - Enforce policy compliance for stronger data protection - Access, sync and share business documents for seamless collaboration\n- Enable secure mobile web browsing and simple access to intranet sites - Contain email and attachments with data loss prevention controls\nMaaS360 provides a true, on-demand software-as-a-service delivery model, built on a secure, multi-tenant architecture. It offers immediate insight and control without the added costs and complexities of deploying hardware and software, dealing with intricate configurations, and dedicating additional resources to support the solution on an ongoing basis.",
+        "Announcement_Date": "2015-07-17T04:00:00.000Z",
+        "CSP_POC_Name": "Jeff Ward",
+        "CSP_POC_Email": "jeff.ward@us.ibm.com",
+        "FedRAMP_In-Process_Date": "2013-03-07T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "3M",
