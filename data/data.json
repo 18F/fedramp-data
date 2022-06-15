@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-06-15T20:30:02.160Z",
+    "Created_At": "2022-06-15T20:38:52.730Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -196,7 +196,23 @@
         "CSP_POC_Name": "Jeff Ward",
         "CSP_POC_Email": "jeff.ward@us.ibm.com",
         "FedRAMP_In-Process_Date": "2013-03-07T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2016-03-01T05:00:00.000Z",
+            "Authorizing_Agency": "Nuclear Regulatory Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-06-03T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-09-02T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-06-03T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "3M",
