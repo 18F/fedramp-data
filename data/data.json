@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-06-15T18:35:08.026Z",
+    "Created_At": "2022-06-15T18:40:47.695Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4789,12 +4789,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Authorizing_Letter_Last_Sign_Date": "2021-07-27T04:00:00.000Z",
-            "Authorizing_Agency": "National Aeronautics and Space Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NASA_logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2021-12-14T05:00:00.000Z",
             "Letter_Expiration_Date": "2024-12-13T05:00:00.000Z",
             "Authorizing_Agency": "Federal Reserve System",
@@ -5330,14 +5324,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2024-06-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-07-02T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "Transportation Security Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2021-12-16T05:00:00.000Z",
             "Letter_Expiration_Date": "2026-12-16T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-12-23T05:00:00.000Z",
@@ -5755,13 +5741,6 @@
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "Food and Drug Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-07-28T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-03-25T04:00:00.000Z",
-            "Authorizing_Agency": "General Services Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -9839,14 +9818,6 @@
             "Authorizing_Agency": "Department of Justice",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
             "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2024-09-02T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-09-02T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "United States Secret Service",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -13296,23 +13267,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2021-04-28T04:00:00.000Z",
-            "Letter_Expiration_Date": "2024-04-29T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-04-29T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Authorizing_Subagency": "Bureau of Engraving and Printing",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2023-10-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-10-01T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Authorizing_Subagency": "United States Mint",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2021-10-29T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-11-09T05:00:00.000Z",
             "Authorizing_Agency": "Federal Communications Commission",
@@ -15176,98 +15130,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Monster Government Solutions",
-        "Cloud_Service_Provider_Package": "Monster Hiring Management Enterprise (MHME)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1711546389",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2021-05-28T04:00:00.000Z",
-        "Sponsoring_Agency": "General Services Administration",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-        "Authorizing_Agency": "General Services Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Monster%20Logo.png",
-        "Independent_Assessor": "SecureIT",
-        "Underlying_CSP_Package_ID": [
-          "F1212191840",
-          "MSO365MT"
-        ],
-        "CSP_Website": "https://www.monstergovernmentsolutions.com/",
-        "CSO_Description": "MHME is a Software as a Service (SaaS) application that automates and streamlines federal human resource recruitment, hiring, and management. MHME is a Moderate impact system, in production since January 1, 2003, and currently supporting over 68 federal customers.",
-        "Announcement_Date": "2022-04-07T04:00:00.000Z",
-        "CSP_POC_Name": "Lindsey Laney",
-        "CSP_POC_Email": "fedramp@monster.com",
-        "FedRAMP_In-Process_Date": "2021-05-28T04:00:00.000Z",
-        "Agency_POC": "Coming Soon",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "United Solutions",
-        "Cloud_Service_Provider_Package": "US AI",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR2009746321",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "High",
-        "Original_Authorization_Date": "2021-03-12T05:00:00.000Z",
-        "Original_Expiration_Date": "2024-03-12T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/United%20Solutions%20Logo.png",
-        "Independent_Assessor": "Lunarline, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866",
-          "F1206081364",
-          "FR1805751477"
-        ],
-        "CSP_Website": "https://unitedsolutions.io",
-        "CSO_Description": "The US AI platform is a managed service comprised of a suite of microapps and microservices built on an AI-powered data lake, zero-trust framework, and hyperscale microservices infrastructure. Using microservices, US AI decomposes complex business components into smaller, autonomous services that are infinitely more scalable. US AI operates under a multi-tenancy model, where customers have the option to leverage the shared tenant to save money or have their own tenant to house their unique data; all while also leveraging the hyperscale community database containing hundreds of millions of valuable, common, and curated records for acquisition, grants, finance, health, and supply chain. A cloud native infrastructure, US AI scales elastically and dynamically, and relies on infrastructure automation and devsecops to optimize the operations and management of the infrastructure. The US AI suite consists of microapps, mobile apps, and microservices that power global business operations through a suite of services:\r1. **Archangel** - Archangel demystifies, automates, and streamlines the cybersecurity lifecycle, from Governance, Risk, and Compliance (GRC) to Continuous Diagnostics and Mitigation (CDM). Cloud Service Providers (CSPs) and security professionals apply AI to eliminate redundancy, digitize workflows, and automate security accreditation by predicting compliance with security controls. Additionally, CSPs and security professionals apply Blockchain, AI, and RPA to continuously monitor device logs and predict vulnerabilities and breaches. Lastly, security, supply chain, and risk management professionals apply AI to predict global security and supply chain risks.\r2. **Forsight** - Forsight is a novel general purpose AI platform that uses unsupervised and supervised machine learning to collect, sanitize, curate, and index both structured and unstructured acquisition, emergency response, finance, grants, health, and supply chain data within a high performing, parallel processing data lake. Forsight facilitates the extraction of crucial business insights and predictions for price optimization, compliance, risk, fraud, etc. Lastly, Forsight connects humans to the AI workflow to train the machine to make better predictions.\r3. **Gini** - Gini applies Blockchain, AI, and RPA to intelligently automate the grants life cycle, institutionalize a standardized pre-award risk framework, and reconcile financial ledgers throughout the grant ecosystem. Grants professionals and recipients use the digital dossier to share data and reduce recipient burden and administrative costs. Gini runs on hyperscale community database that consolidates, curates, and indexes over 100TB of data from 30+ public and private data sources. Gini uses AI to scan millions of records of data including single audits to extract key findings, including but not limited to financial health; procurement, suspension, and debarment; improper cash management; excessive executive pay, eligibility; etc.\r4. **Illuminate** - Illuminate is a collection of emerging technologies that power a state-of-the-art supply chain ecosystem. Contracting professionals leverage intelligent automation to accelerate acquisition, make smarter buys, and ensure compliance. Additionally, contracting professionals leverage AI to automate contract formation, administration, and closeout. Lastly, supply chain leaders use Blockchain and AI to track the provenance of goods and services and “illuminate” areas of inefficiencies.\r5. **Siqi** - Siqi is a collection of emerging technologies that power a state-of-the-art healthcare ecosystem. Siqi uses mobile and micro apps to collect vital personal health information and save transactional information onto a blockchain. Personal digital identity and health records are protected via encryption and self-sovereign identity. Siqi uses AI to predict the presence of disease such as COVID, skin cancer, etc. and provides an immutable digital provenance for contact tracing and disease analysis.\r6. **Velicus** – Velicus applies Blockchain and AI to combat global pandemics by transforming the global emergency response through a coordinated ecosystem. Velicus facilitates the global emergency response process to pandemics like COVID-19, Ebola, SARS, MERS, etc. Participants in the emergency response value chain can track the geolocation, health, and safety of responders, connecting to their deployment force anywhere in the world. AI is used to match responders to an event based on requirements such as skill, education, mental health, etc.",
-        "Announcement_Date": "2022-04-18T04:00:00.000Z",
-        "CSP_POC_Name": "Macey Smith",
-        "CSP_POC_Email": "business@unitedsolutions.io",
-        "FedRAMP_In-Process_Date": "2022-02-02T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Pitney Bowes",
-        "Cloud_Service_Provider_Package": "SendPro 360",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR2102577114",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2021-09-02T04:00:00.000Z",
-        "Original_Expiration_Date": "2024-09-02T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Veterans Affairs",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-        "Authorizing_Agency": "Department of Veterans Affairs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Pitney%20Bowes%20Logo.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW",
-          "F1212191840",
-          "F1512167750"
-        ],
-        "CSP_Website": "https://www.pb.com",
-        "CSO_Description": "**Pitney Bowes SendPro®360 Sending, Receiving, and Locker Solution**\rPitney Bowes **SendPro 360** is a comprehensive, cloud-based sending, receiving, locker, and analytics solution that powers your mailroom operations for maximum efficiency and transparency. SendPro 360 offers a lightweight footprint that allows users to track, ship, and mail without significant hardware requirements. **Multi-Carrier Shipping and Mailing**\nSendPro 360 makes mailing and shipping quick and easy by empowering departments with the flexibility to send in the way that’s right for them. Users save time and money by printing stamps directly from the online interface and by accessing SendPro 360 multi-carrier shipping functionality to compare rates and print labels across major carriers. The ability to track spend and activity by account or department, facilitates project or departmental chargebacks for accurate accounting. SendPro360 includes a dedicated certified and electronic return receipt (ERR) and registered mailing process with proof of delivery reporting. Also, qualified users can prepare ship requests for packages sent to the mailroom for processing.\r**Package Receiving, Tracking and Delivery**\nThe SendPro 360 platform automates the process of receiving, tracking and delivering incoming packages and mail through a simple scan of a barcode. Manually logging items instantly becomes a process of the past. It can configure delivery routes, provide lists of packages, and has the ability to manage assets. Package tracking notifications via email and SMS as well as SLA management simplify and enhance the experience. **Intelligent Lockers**\nKeep packages secure and users safe via monitored delivery and contactless pickup with SendPro 360 Intelligent Locker capabilities. This solution modernizes package pickup with convenient 24/7 self-service access, barcode scanning and automated alerts notifying recipients they have packages. Upon package pickup, recipient photos or optional signatures can be captured for proof of receipt. Lockers free up crowded mail room space, mitigate risk of lost or stolen packages or assets, preserve chain-of-custody and provide next generation customer experience. The superior build quality and durability ensures lockers and contents are always secure. Lockers have additional features to simplify administrative functions, delivery and departmental management. **Analytics**\nFrom smaller mailrooms to multi-location operations, SendPro 360 offers complete visibility into your receiving and sending operations. Dynamic views can be filtered by divisions, locations, cost accounts, and users, across any date range. View and manage postage and shipping spend, and gain insights to your receiving and locker metrics all the way through final delivery to ensure packages and mail are accounted for and delivered on time.\nGauge performance, operator efficiency, and resource utilization to ensure service level agreement (SLA) metrics are being met. To locate a package, SendPro 360 provides end-to-end tracking of packages, locker activity, as well as shipping and mailing activity across your government agency.",
-        "Announcement_Date": "2022-06-06T04:00:00.000Z",
-        "CSP_POC_Name": "John Jones",
-        "CSP_POC_Email": "fedramp@pb.com",
-        "FedRAMP_In-Process_Date": "2021-09-02T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Google",
         "Cloud_Service_Provider_Package": "Google Workspace",
         "Path": "JAB",
@@ -15939,13 +15801,6 @@
             "Authorizing_Letter_Last_Sign_Date": "2019-12-11T05:00:00.000Z",
             "Authorizing_Agency": "Department of Labor",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2024-04-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-06-03T04:00:00.000Z",
-            "Authorizing_Agency": "Office of Personnel Management",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -17022,7 +16877,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
         "Authorizing_Agency": "Department of Veterans Affairs",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Huron%20Logo.png",
-        "Independent_Assessor": "MBL Technologies",
+        "Independent_Assessor": "MBL Technologies (In Remediation)",
         "CSP_Website": "www.huronconsultinggroup.com",
         "CSO_Description": "The Huron Accelerators Portal (HAP) is a web-based entry portal, hosted on AWS GovCloud. HAP is composed of three components: the Leader Evaluation Manager® (LEM) software application, the Patient Call Manager™ (PCM) software application, and the Huron Rounding software application.\n* Leader Evaluation Manager: Through research and more than a decade of working with healthcare organizations, Huron has perfected and accelerated the art and science of goal cascading, weighting and accountability for leaders to build consistency — and as consistency grows, so does engagement. With Leader Evaluation Manager® (LEM), organizations can guarantee that all employees get the same leadership experience, practice the same evidence-based tactics and are held accountable to the same behavioral standards. Use LEM to track and manage the components that take accountability to the next level.\n* Patient Call Manager: Checking on a patient at a critical point in their care is proven to have an impact. Whether it’s showing empathy or providing a clinical intervention, these calls improve patient safety and experiences — and offer an opportunity to receive first-hand feedback from patients. With Patient Call Manager™ (PCM), healthcare organizations can prioritize and connect patients with caregivers to ease transitions from in-person care to home. This fully HIPAA-compliant tool allows healthcare staff to serve as quality touchpoints and ensure quality outcomes along a patient’s continuum of care from pre-visit calls through post-visit.\n* Huron Rounding: A cloud-based, multiplatform technology, the Huron Rounding application helps organizations easily collect quality, safety, satisfaction, and other audit and compliance data for analysis and reporting.",
         "CSP_POC_Name": "Pam Bursch",
