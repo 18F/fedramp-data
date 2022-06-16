@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-06-16T19:58:32.896Z",
+    "Created_At": "2022-06-16T20:04:09.205Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4590,6 +4590,873 @@
             "Include_In_Marketplace": "Y"
           }
         ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Digital.ai",
+        "Cloud_Service_Provider_Package": "Digital.ai Government Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2118743892",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-01-14T05:00:00.000Z",
+        "Original_Expiration_Date": "2025-01-05T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Digital.ai.png",
+        "Independent_Assessor": "The Cadence Group",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "https://www.digital.ai",
+        "CSO_Description": "Digital.ai Government Cloud an AI-Powered DevOps Platform that empowers US Government agencies to unify, secure and generate predictive insights across the software lifecycle, increasing business value with integrated software delivery, and driving down technical debt through enterprise connections. Additional information is available at [https://digital.ai/government](https://digital.ai/government). The following Digital.ai Government Cloud services are FedRAMP authorized:\n**Digital.ai Agility**\n* **Agile portfolio planning:** Plan and track strategic feature development across the entire organization – from teams to the portfolio\n* **Ideas management:** Automate the process of capturing, collaborating on, prioritizing, and sharing progress of feature requests from users and customers\n* **Strategic planning/roadmaps:** Agile planning and development with the product roadmaps used by stakeholders\n* **Out-of-box-integrations:** Seamlessly integrate with your tools and visualize everything in one place including Atlassian Jira, Broadcom Rally, or Microsoft Azure DevOps\n* **Delivery Insights (dashboards w/ metrics):** Visualize & track your business-value driven work items across the lifecycle - planning through production release. We leverage data from planning, creation (SCM),and other complex DevOps processes.\n* **Cross-team collaboration:** Communities of practice, forums, and contextual collaboration rooms enable everyone from executives to developers to communicate and collaborate\n* **Scalable agile framework support:** Support for your enterprise agile framework of choice, such as SAFe®, LeSS, DAD, and Spotify",
+        "Announcement_Date": "2022-04-05T04:00:00.000Z",
+        "CSP_POC_Name": "Olakunle Lawal",
+        "CSP_POC_Email": "fedramp-info@digital.ai",
+        "FedRAMP_In-Process_Date": "2021-07-22T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "VMware, Inc.",
+        "Cloud_Service_Provider_Package": "VMware Government Services (VGS)",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "FR1916163735",
+        "Service_Model": [
+          "IaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Original_Authorization_Date": "2022-04-11T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/VMware%20Logo.png",
+        "Independent_Assessor": "Fortreum, LLC",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.cloud.vmware.com/govcloud",
+        "CSO_Description": "VMware Government Services (VGS) is a set of cloud service offerings designed to allow US government agencies and customers supporting the US government to move more sensitive workloads into the cloud.\rA key offering of VGS is the VMware Cloud™ on AWS GovCloud (US) (VMC) IaaS. VMC brings VMware’s rich Software-Defined Data Center software to the AWS GovCloud (US) Region and enables U.S public sector agencies and customers to securely run production applications across VMware vSphere®-based private, public and hybrid cloud environments, with optimized access to AWS services. Jointly engineered by VMware and AWS, this on-demand service enables IT teams to seamlessly extend, migrate and manage their cloud-based resources with familiar VMware tools. VMC integrates VMware’s flagship compute, storage and network virtualization products (i.e., VMware vSphere®, VMware vSAN™ and VMware NSX®) with VMware vCenter® management.",
+        "Announcement_Date": "2022-04-18T04:00:00.000Z",
+        "CSP_POC_Name": "VMware Government Services",
+        "CSP_POC_Email": "fedramp-vmc@vmware.com",
+        "Fedramp_Ready_Date": "2020-05-06T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2021-12-07T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "3M",
+        "Cloud_Service_Provider_Package": "RevCycle Health Services Platform (RHSP)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2135915901",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-02-04T05:00:00.000Z",
+        "Original_Expiration_Date": "2025-02-02T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/3M%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.3mhis.com",
+        "CSO_Description": "3M RevCycle Health Services Platform (RHSP) is a Platform which hosts and supports the operations of key 3M Health Software Systems. These systems include but are not limited to key backend functions for frontend system 3M 360e (360e not part of RHSP FedRAMP authorization). RHSP hosted backend functions for 360e include: Natural Language Processing (NLP) support for medical coding, Clinical Documentation Integrity, clinician created document input and medical coding edits, self-service reporting, evaluation, and management. 3M RHSP utilizes robust statistical methodologies to create a comprehensive NLP platform to derive medical codes, assist with medical terminology, and ease the provider front-end workflow.",
+        "Announcement_Date": "2022-05-12T04:00:00.000Z",
+        "CSP_POC_Name": "Jonathan Higbee",
+        "CSP_POC_Email": "fedramp-his@mmm.com",
+        "FedRAMP_In-Process_Date": "2021-12-08T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "18F",
+        "Cloud_Service_Provider_Package": "18F Cloud.gov",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "F1607067912",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2017-01-18T05:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Cloud.gov%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.cloud.gov",
+        "CSO_Description": "[Cloud.gov](http://cloud.gov/) is designed and operated by US government workers, for US government work. [Cloud.gov](http://cloud.gov/) reduces the barriers to rapid, incremental, compliant, secure, and scalable delivery of government services by all government agencies, leveraging best-of-breed modern practices. [Cloud.gov](http://cloud.gov/) provides a Platform-as-a-Service (PaaS) based on Cloud Foundry, enabling instant provisioning of services and environments, easy deployment of applications, and rapid scaling to match demand. cloud.gov includes tools to quickly incorporate 800-53 NIST control documentation into easily-prepared and comprehensive System Security Plans (SSPs) for evaluation by local agency information security organizations or FedRAMP, reducing the time it takes for teams to gain Authority To Operate (ATO).",
+        "Announcement_Date": "2017-02-02T05:00:00.000Z",
+        "CSP_POC_Name": "N/A",
+        "CSP_POC_Email": "inquiries@cloud.gov",
+        "Fedramp_Ready_Date": "2016-05-20T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2016-08-09T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Apptio",
+        "Cloud_Service_Provider_Package": "The Apptio Technology Business Management (TBM)",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "F1603157879",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2018-04-03T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Apptio%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.apptio.com",
+        "CSO_Description": "Apptio is a SaaS provider of Technology Business Management (TBM) solutions that help IT leaders measure, manage and communicate the cost, quality, consumption, and value of IT. IT leaders leverage Apptio's TBM suite of applications, including cost transparency, benchmarking, showback/chargeback and planning, to optimize costs, consolidate infrastructure and applications, price and recover shared services, and execute cloud-first strategies. With FITARA mandates in place and growing, now more than ever, Federal IT leaders need transparency into their IT spend - what they have, what it's costing them, how it's being consumed, and the value it's delivering to federal program and mission objectives.",
+        "Announcement_Date": "2018-04-05T04:00:00.000Z",
+        "CSP_POC_Name": "Don Clifford",
+        "CSP_POC_Email": "securityriskcompliance@apptio.com",
+        "Fedramp_Ready_Date": "2017-01-27T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2017-12-19T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "BlackBerry",
+        "Cloud_Service_Provider_Package": "BlackBerry Protect & Optics",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1602167854",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2018-04-20T04:00:00.000Z",
+        "Sponsoring_Agency": "Office of Personnel Management",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SurfaceTransportationBoard-Seal.png",
+        "Authorizing_Agency": "Surface Transportation Board",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/BlackBerry%20Logo.png",
+        "Independent_Assessor": "Booz Allen Hamilton",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "https://www.blackberry.com/us/en/products/unified-endpoint-security",
+        "CSO_Description": "BlackBerry Protect redefines what antivirus (AV) can and should do for your organization by leveraging artificial intelligence to detect AND prevent malware from executing on your endpoints in real time. By taking a mathematical approach to malware identification utilizing patent-pending, machine learning techniques instead of reactive signatures and sandboxes, BlackBerry Protect renders new malware, viruses, bots and unknown future variants useless. At the core of BlackBerry ’s unprecedented malware identification capability is a revolutionary machine learning research platform that harnesses the power of algorithmic science and artificial intelligence. It analyzes and classifies hundreds of thousands of characteristics per file, breaking them down to an atomic level to discern whether an object is “good” or “bad” in real time. BlackBerry Optics, part of the prevention-first BlackBerry Security Platform, is an artificial intelligence (AI) driven endpoint detection and response (EDR) solution designed to extend the prevention delivered by BlackBerry Protect through root cause analysis, scalable threat hunting, and automated threat detection and response without increasing costs or security team workloads. BlackBerry Protect and BlackBerry Optics are managed through a single web interface within the FedRAMP boundary, and both capabilities are included in the BlackBerry Protect and Optics cloud service offering.",
+        "Announcement_Date": "2017-06-26T04:00:00.000Z",
+        "CSP_POC_Name": "Rashad Munawar",
+        "CSP_POC_Email": "bbfedcompliance@blackberry.com",
+        "FedRAMP_In-Process_Date": "2016-06-15T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "CrowdStrike, Inc.",
+        "Cloud_Service_Provider_Package": "Falcon Platform",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1807853629",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2018-08-02T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Commerce",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+        "Authorizing_Agency": "Department of Commerce",
+        "Authorizing_Subagency": "International Trade Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CrowdStrike%20Logo.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.crowdstrike.com",
+        "CSO_Description": "CrowdStrike is the leader in cloud-delivered next-generation endpoint protection. CrowdStrike has revolutionized endpoint protection by being the first and only company to unify next-generation antivirus, endpoint detection and response (EDR), and a 24/7 managed hunting service — all delivered via a single lightweight agent. The CrowdStrike Falcon™ platform, certified to replace legacy antivirus, has reinvented how endpoint security is delivered with its industry-leading, cloud native architecture. CrowdStrike Falcon protects customers against advanced cyber-attacks, using sophisticated signature-less artificial intelligence/machine learning and Indicator of Attack (IOA) based threat prevention to stop known and unknown threats in real-time. Core to its innovative approach is the CrowdStrike Threat Graph™ which analyzes and correlates over 45 billion events per day from millions of sensors deployed across more than 170 countries, uniquely providing crowdsourced protection for the entire customer community.\nIn today’s threat environment, it takes people, processes, technology AND intelligence to protect against sophisticated and persistent attacks. In addition to Falcon Endpoint protection, CrowdStrike provides Falcon Intelligence, a Cyber Threat Intelligence service delivered via the Cloud providing insights into the tools, tactics, and procedures of 80+ adversary groups – allowing government and organizations to plan for events in the future, diagnose incidents more efficiently, and monitor changes in the environment to prevent damage from advanced malware and targeted attacks.\nMany of the world’s largest organizations already put their trust in CrowdStrike, including three of the 10 largest global companies by revenue, five of the 10 largest financial institutions, three of the top 10 health care providers, and three of the top 10 energy companies.",
+        "Announcement_Date": "2018-09-19T04:00:00.000Z",
+        "CSP_POC_Name": "Cayce Beames",
+        "CSP_POC_Email": "FedRamp@crowdstrike.com",
+        "Fedramp_Ready_Date": "2018-05-01T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2017-12-19T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Acadis",
+        "Cloud_Service_Provider_Package": "Acadis Readiness Suite",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1707156421",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-04-30T04:00:00.000Z",
+        "Original_Expiration_Date": "2022-04-30T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of State",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
+        "Authorizing_Agency": "Department of State",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Acadis%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "https://www.acadis.com",
+        "CSO_Description": "Acadis is dedicated to ensuring our Law Enforcement, Government, Public Safety and Military personnel are trained, equipped and mission ready. Our flagship product, the Acadis Readiness Suite, is an enterprise Software-as-a-Service solution, hosted securely in a FedRAMP-authorized datacenter. Unlike generic platforms, Acadis is designed specifically for government training operations, and is an operational and essential shared service for many DHS agencies for modernizing high-risk training operations. As such, it meets the unique needs of the Federal, Public Safety, and Military workforce.",
+        "Announcement_Date": "2019-06-05T04:00:00.000Z",
+        "CSP_POC_Name": "Scott Beauregard",
+        "CSP_POC_Email": "fedramp@acadis.com",
+        "FedRAMP_In-Process_Date": "2018-05-09T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Adobe",
+        "Cloud_Service_Provider_Package": "Adobe Connect Managed Services (ACMS-GC)",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "F1509037236",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-06-27T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Adobe%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.adobe.com",
+        "CSO_Description": "Adobe Connect is a FedRAMP Moderate Software as a Service (SaaS) running on ITAR compliant IT infrastructure, offering immersive online meeting experiences for real-time collaboration, large scale webinars, and virtual classrooms in a secure environment.\nGo beyond simple screen sharing and web conferencing with an immersive digital experience utilizing: customizable pods and layouts, polls, quizzes, drawing boards, simulations, breakout rooms, live video, screensharing, chat, gamification, telephony integration, and persistent virtual rooms with strong access authentication. Section 508 accessibility, HIPAA, FERPA and GLBA compliance make it stand out as a secure & accessible platform adopted by most regulated industries. Adobe Connect supports both a browser-centric experience and installable applications on desktops and mobile devices with bandwidth management settings to provide the best experience. For real-time situational awareness and common operating picture applications, Adobe Connect delivers a persistent virtual command center environment to scale across federal, state & local agencies looking to run virtual operation briefings, citizen outreach and emergency preparedness. Adobe’s Connect Managed Service provides secure hosting and expert application support, with a named Customer Success Engineer for each subscribing organization, and ongoing maintenance, support, and continuous diagnostics and mitigation.",
+        "Announcement_Date": "2019-06-27T04:00:00.000Z",
+        "CSP_POC_Name": "Rahat Sethi",
+        "CSP_POC_Email": "fedramp@adobe.com",
+        "FedRAMP_In-Process_Date": "2019-02-19T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Adobe",
+        "Cloud_Service_Provider_Package": "Adobe Experience Manager Managed Services (AEMMS-GC)",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "F1509037239",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-06-27T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Adobe%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.adobe.com",
+        "CSO_Description": "Create, manage and deliver digital experiences across websites, mobile sites and on-site screens that are global in reach, yet personally relevant and engaging. Forrester ranks Adobe as the leader in web content management; Adobe received the highest scores possible for its current offering, strategy and market presence. This software as a service (SaaS) capability is FedRAMP certified and allows customers to:\n- Increase Efficiency: Build, share and deliver content from the same\nplace - Support Agile Delivery: Quickly deliver personalized experiences\nacross different screens, geos and channels Promote - Consistency: Use a library of content that can be easily reused enterprise-wide\nEntirely managed and maintained by Adobe; organizations can rely on Adobe’s expertise managing the most complex and mission-critical Experience Manager deployments all over the world. Adobe provides cloud hosting and expert application support enabling enterprises to concentrate on citizen engagement and digital transformation. A single, named point of contact (customer success engineer) is assigned to each customer to support “go-live” operations, as well as steady state continuous delivery and continuous diagnostics and mitigation. Adobe Experienced Manager Managed Services (AEMMS) is available for GovCloud (AEMMS-GC) and US East-US West (AEMMS-EW).",
+        "Announcement_Date": "2019-06-27T04:00:00.000Z",
+        "CSP_POC_Name": "Rahat Sethi",
+        "CSP_POC_Email": "fedramp@adobe.com",
+        "FedRAMP_In-Process_Date": "2019-02-19T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Smartsheet",
+        "Cloud_Service_Provider_Package": "Smartsheet Gov",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "FR1730866868",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-08-12T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Smartsheet%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "https://www.smartsheet.com/industries/government",
+        "CSO_Description": "Organizations need a way to get work done, not just talk about it. Smartsheet Gov is a secure and reliable platform that helps Federal agencies bring innovation, collaboration, and transparency to government initiatives. It helps eliminate productivity killers by automating repetitive tasks with simple rules that you can easily create without help from IT. With Smartsheet Gov, your agency can operate with an increased sense of agility, manage work in real time, and make better decisions with timely and accurate information. Find out why the GSA, Library of Congress, National Institutes of Health, National Parks Service, and US Department of Veterans Affairs trust Smartsheet for their strategic initiatives.",
+        "Announcement_Date": "2019-08-12T04:00:00.000Z",
+        "CSP_POC_Name": "Chris Aherne",
+        "CSP_POC_Email": "gov@smartsheet.com",
+        "Fedramp_Ready_Date": "2019-03-08T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2019-04-09T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Peraton Corporation",
+        "Cloud_Service_Provider_Package": "Next Generation Cloud Platform",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1716961549",
+        "Service_Model": [
+          "PaaS, SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-03-04T05:00:00.000Z",
+        "Original_Expiration_Date": "2023-03-04T05:00:00.000Z",
+        "Sponsoring_Agency": "United States Agency for Global Media",
+        "Authorizing_Agency": "United States Agency for Global Media",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Peraton%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.peraton.com",
+        "CSO_Description": "The Next Generation Cloud Platform (NGCP) is a FedRAMP compliant Platform-as-a-Service (PaaS) which deploys multiple Software-as-a-Service (SaaS) solutions to federal, state and commercial customers. The platform currently includes four Application Modules: Employee Performance Management (ePerformance), Environmental Program Information Management System (EPIMS), n.SITE for Connect:Direct transmissions of government data, and e.POWER for Business Process Management. Peraton is deploying multiple SaaS products on the same re-usable framework.",
+        "Announcement_Date": "2018-03-02T05:00:00.000Z",
+        "CSP_POC_Name": "Tim Braun",
+        "CSP_POC_Email": "ngcpaas@peraton.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAGM%20Logo.jpg",
+        "FedRAMP_In-Process_Date": "N",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Zscaler, Inc.",
+        "Cloud_Service_Provider_Package": "Zscaler Private Access – Government (Zero Trust Networking – VPN Replacement)",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "FR1719759604",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Original_Authorization_Date": "2020-04-21T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Zscaler%20Logo.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.zscaler.com",
+        "CSO_Description": "**ZSCALER PRIVATE ACCESS**\n**The first major breakthrough in secure remote access since the VPN**\nZscaler is a leader in securing Internet traffic for enterprises around the globe, with a cloud-based security platform designed to protect enterprise Internet traffic with Secure Web Gateway, Cloud Application Visibility and Control, Cloud Sandboxing, Data Loss Prevention, and more. Zscaler Private Access builds from the same cloud-based, elastically scalable infrastructure to deliver seamless connectivity to private internal applications and assets.\nZscaler Private Access solves the challenges posed by a traditional VPN infrastructure by decoupling your internal assets and applications from the limitations, cost, and complexity of direct IP network connections. Zscaler Private Access delivers seamless connectivity to private internal applications and assets whether they are in the cloud, the data center, or both. Policy-driven access adjusts dynamically to network changes, enabling enterprise agility while improving user experience.\nWith Zscaler Private Access, there is no need to provision VPN termination hardware, or to ensure that such a deployment is globally distributed and redundant. Users no longer need to go through a termination appliance in the data center to get to apps in the cloud. In fact, there is no hardware to buy at all, because Zscaler Private Access, like our Cloud Security Platform, functions as a service.\nZscaler maintains all hardware and software, freeing both your IT team and your budget even as we reduce latency and boost scalability. Zscaler Private Access is tied directly to your existing authentication infrastructure, leveraging single sign-on to further reduce complexity. The result is that unlike traditional, network-based remote access solutions, Zscaler Private Access can be deployed in a matter of hours instead of taking weeks or months.\n**Improve your security posture even as you provide seamless access**\nThe reductions in overall cost and complexity are compelling on their own, but the paramount feature of the Zscaler Private Access solution is security. Once a connection is established between the asset and the client, the traffic traversing the solution remains completely isolated; because Zscaler Private Access is built on the premise of zero trust for your private applications, the traffic is isolated from us, as well. And because Zscaler Private Access abstracts the asset from the network, it not only ensures seamless access regardless of physical location, it dramatically increases your overall security posture by effectively making your most sensitive material invisible. Any attempt to route back to the application/asset meets a dead end.\n**Connect by application, not by IP address**\nVPNs have been designed to deliver access to a network, not to an application. Once on a network, malware can propagate and users may be able to get access to adjacent applications from which they should be restricted. In addition, because VPN concentrators must listen for inbound connection attempts, they present an attack surface which may be exploited by such things as Distributed Denial of Service attacks.\nEliminate the cost of VPNs and associated equipment\nAs part of our global, cloud-based security platform, Zscaler maintains all hardware and software, which frees both your IT staff and your budget and enables deployment in a matter of hours. Even better, Zscaler Private Access is deployed via the same Zscaler App you use to access our cloud security platform, which greatly reduces your “client sprawl” by delivering a\nsingle app that provisions Zscaler Remote Access, Secure Web Gateway, Data Loss Prevention, Cloud Sandboxing, Cloud Firewall, and more.\nTake your applications from “on-net” to “dark- net,” at the same time YOU get complete visibility. Zscaler Private Access renders your applications invisible to all but authorized users, and unroutable to anyone. But because the solution works at the application layer, we also deliver a level of visibility to you that has never before been possible. Once you provision a Connector in front of a bank of assets, you can use a wildcard attribute to discover exactly what applications are actually running there. Some customers have found almost ten times as many applications in use as they had expected! And once you know what applications are running, you can easily create granular access rules for them.\nApp Discovery makes deployment easy.",
+        "Announcement_Date": "2020-04-29T04:00:00.000Z",
+        "CSP_POC_Name": "Stephen Kovac",
+        "CSP_POC_Email": "fedramp@zscaler.com",
+        "Fedramp_Ready_Date": "2019-08-30T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "N",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Skyhigh Security",
+        "Cloud_Service_Provider_Package": "Security Service Edge (Formerly McAfee MVISION)",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "F1506096710",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Original_Authorization_Date": "2020-03-31T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Skyhigh%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "https://www.skyhighsecurity.com/",
+        "CSO_Description": "**Skyhigh Security – Security Service Edge** discovers all cloud services in use across an organization’s network. It provides a corresponding readiness rating that allows system and data owners to assess cloud risk. It detects anomalous activity that may be indicative of a security breach or insider threat, enabling the organization to respond immediately to potential incidents.ices",
+        "Announcement_Date": "2020-04-29T04:00:00.000Z",
+        "CSP_POC_Name": "Anand Ramanathan",
+        "CSP_POC_Email": "fedramp@skyhighsecurity.com",
+        "Fedramp_Ready_Date": "2019-09-06T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "N",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Salesforce",
+        "Cloud_Service_Provider_Package": "Salesforce Government Cloud Plus",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "FR2003061248",
+        "Service_Model": [
+          "PaaS, SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Original_Authorization_Date": "2020-05-18T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Salesforce%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.salesforce.com/industries/public-sector",
+        "CSO_Description": "Salesforce Government Cloud is a partitioned instance of Salesforce’s industry-leading Platform-as-a-Service (PaaS) and Software-as-a-Service (SaaS), multi-tenant community cloud infrastructure specifically for use by U.S. federal, state, and local government customers, U.S. government contractors, and Federally Funded Research and Development Centers (FFRDCs). Salesforce Government Cloud is comprised of the following Salesforce services: Lightning Platform, Sales, Service, Communities, Analytics, and Industry Solutions. A list of current in-scope Salesforce products included in the authorization boundary is available at [https://help.salesforce.com/articleView?id=000270080&language=en_US&type=1](https://help.salesforce.com/articleView?id=000270080&language=en_US&type=1)\nAdditional information is available at: [http://pages.mail.salesforce.com/gettingstarted/government-cloud/](http://pages.mail.salesforce.com/gettingstarted/government-cloud/)",
+        "Announcement_Date": "2020-05-27T04:00:00.000Z",
+        "CSP_POC_Name": "N/A",
+        "CSP_POC_Email": "public.sector.compliance@salesforce.com",
+        "Fedramp_Ready_Date": "2019-11-08T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "N",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Galvanize, Inc.",
+        "Cloud_Service_Provider_Package": "HighBond",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1834172478",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-09-09T04:00:00.000Z",
+        "Original_Expiration_Date": "2023-09-09T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Commerce",
+        "Authorizing_Agency": "Department of Commerce",
+        "Authorizing_Subagency": "FirstNet",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Galvanize%20Logo.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.wegalvanize.com",
+        "CSO_Description": "HighBond, by Galvanize, is the enterprise governance software platform that creates stronger security, risk management, compliance, and assurance. It connects these professionals with the answers that drive change—so they can protect the organization and increase its capacity to meet strategic objectives.\rGalvanize builds security, risk management, compliance, and audit software. We’re on a mission to unite these different teams in our HighBond platform in order to strengthen individuals and protect organizations.",
+        "Announcement_Date": "2019-11-20T05:00:00.000Z",
+        "CSP_POC_Name": "James Bowman",
+        "CSP_POC_Email": "fedramp@wegalvanize.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+        "FedRAMP_In-Process_Date": "N",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "MicroFocus",
+        "Cloud_Service_Provider_Package": "Fortify on Demand",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "F1301101857",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-10-01T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MicroFocus%20Logo.png",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "https://software.microfocus.com/en-us/home",
+        "CSO_Description": "The Micro Focus Fortify on Demand (FoD) for US Public Sector performs security assessments of application code and web site/web services testing without any software to install or manage. Static Code Scanning of code such as Java, .NET and other major programming languages for security defects are performed in the FoD System at the code layer followed by an audit review by a Micro Focus Fortify Static auditor. Dynamic Web Site and Web Services testing use Micro Focus Fortify’s WebInspect software as the scan engine, followed by a review from a Micro Focus Fortify Dynamic tester.",
+        "Announcement_Date": "2015-02-04T05:00:00.000Z",
+        "CSP_POC_Name": "Patrick Query",
+        "CSP_POC_Email": "Patrick.Query@microfocus.com",
+        "FedRAMP_In-Process_Date": "N",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2014-06-07T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "IdeaScale",
+        "Cloud_Service_Provider_Package": "IdeaScale Gov",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1512017638",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-02-17T05:00:00.000Z",
+        "Original_Expiration_Date": "2024-02-17T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "Food and Drug Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Ideascale%20Logo.png",
+        "Independent_Assessor": "The Cadence Group",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.ideascale.com",
+        "CSO_Description": "IdeaScale is an innovation management SaaS provider that uses crowdsourcing to help organizations find and develop the next big thing, whether it's new policies and services or new cost-savings and employee engagement measures, IdeaScale allows organizations to solicit input from personnel and other stakeholders and collaboratively transform that input into actionable project plans.\nThe IdeaScale Gov offering provides these innovation management and crowdsourcing capabilities in a secure environment for federal agency use and benefit, allowing agencies to make the most of the collective knowledge of their numbers.",
+        "Announcement_Date": "2017-10-19T04:00:00.000Z",
+        "CSP_POC_Name": "IdeaScale Security Team",
+        "CSP_POC_Email": "fedramp@ideascale.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "FedRAMP_In-Process_Date": "Y",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "CGI Federal",
+        "Cloud_Service_Provider_Package": "Momentum® Enterprise Suite - JAB",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "FR2022243058",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-04-08T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CGI%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "https://www.cgi.com/en/solutions/momentum-federal-erp",
+        "CSO_Description": "CGI’s Momentum® is a market-leading, full-featured, flexible web-based system built to support the full federal financial, budget, asset and procurement management lifecycles. Designed specifically for federal business operations, CGI’s Momentum® Enterprise Solution helps federal IT leaders fulfill federal mandates, in an agile and cost-effective way. With zero expensive customizations or software extensions, Momentum is a transparent, accountable and proven solution that comes out-of-the-box ready to strengthen your agency’s ability to maximize taxpayer dollars and bolster its diverse business processes.",
+        "Announcement_Date": "2021-04-26T04:00:00.000Z",
+        "CSP_POC_Name": "Kerry Canfield",
+        "CSP_POC_Email": "Momentum.Support@cgifederal.com",
+        "Fedramp_Ready_Date": "2020-10-28T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "N",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Economic Systems",
+        "Cloud_Service_Provider_Package": "Economic Systems Federal Human Resources Navigator",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "F1301251880",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-04-13T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/EconSys%20Logo.png",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.Fedhrnavigator.com",
+        "CSO_Description": "FedHR Navigator provides U.S. Federal agencies with human resources (HR) tools and utilities that are tailored to the needs and requirements of the U.S. Federal government. FedHR Navigator is available to agency customers as a subscription and allows for agencies to choose what parts of the application to purchase. The application allows users to create forms and cases and route them through the agency's business process. The application also features specialized tools to support Federal HR including our retirement benefits calculator, PD+, our position management repository, and supports integrations with Federal government systems. FedHR Navigator supports talent acquisition, position management and classification, performance management, awards, personnel actions, benefits, retirement, separation, employee and labor relations, and workforce planning.",
+        "Announcement_Date": "2014-05-01T04:00:00.000Z",
+        "CSP_POC_Name": "Kimberly Kettner",
+        "CSP_POC_Email": "kimberly@econsys.com",
+        "FedRAMP_In-Process_Date": "Y",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "SAP National Security Services Inc. (SAP NS2)",
+        "Cloud_Service_Provider_Package": "SAP NS2 Secure Node with SuccessFactors Suite - DoD",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1602257856",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-07-01T04:00:00.000Z",
+        "Original_Expiration_Date": "2022-07-07T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Defense",
+        "Authorizing_Agency": "Department of Defense",
+        "Authorizing_Subagency": "Defense Information Systems Agency",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/SAP%20NS2%20Logo1.png",
+        "Independent_Assessor": "Fortreum, LLC",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "https://www.sapns2.com/cloud/",
+        "CSO_Description": "The SAP National Security Services (SAP NS2) Federal Secure Node delivers the SAP SuccessFactors Human Capital Management Suite (HCM) SaaS for the Federal Community. SAP SuccessFactors HCM Suite helps transform organizational strategies into measurable business and mission outcomes by simplifying HR processes and maximizing employee engagement. We provide unmatched solution breadth and depth through a full set of core HR and talent solutions based on modern cloud technology that makes them simple to use, simple to run and simple for your people to succeed.\nSAP SUCCESSFACTORS HCM SUITE INCLUDES:\n- Learning: Develop a comprehensive learning strategy with a complete learning management solution (LMS) that enables you to manage, develop and deploy instructor-led, formal and social online training. SAP SuccessFactors Learning helps learning professionals improv employees’ skills, develop leaders, reduce compliance risk, and better enable external audiences.\n- Performance & Goals: Communicate strategy, create meaningful individual goals across the organization, and focus employees on what matters, while enabling executives to monitor goal progress in real-time. Then reward, measure and tie employee performance to business results, streamline the performance appraisal process, and enable meaningful feedback.\n- Succession & Development: Anticipate and plan for staffing changes and assure the readiness of employee talent at all levels. Align learning activities with competency gaps to arm your workforce for current and future needs. Improve motivation with continuous development and career planning.\n- Compensation: Pay your people based on achievement, establish a pay-for-performance culture – retain top talent and increase productivity across the organization. Calibration drives better compensation decisions with and objective ratings.\n- Recruiting: Transform recruiting into a continuous, strategic part of your talent strategy with the only end-to-end recruiting solution that helps you attract, engage and select better candidates and then\nmeasure the results.\n- Onboarding: By guiding hiring managers, empowering new hires and connecting onboarding to other key talent management activities, SAP SuccessFactors makes onboarding a strategic process that improves job satisfaction, time to productivity and first year retention.\n- Workforce Planning: Leverage in-depth workforce information and benchmarks to assess readiness to execute strategies, forecast the impact of business decisions, mitigate risk and take action.\n- Workforce Analytics & Reporting: Deliver actionable, quantitative insights to your business leaders with a powerful combination of talent and business data that produces easy to understand and consume information. Creates a catalyst for positive change in the business.\n- Employee Central: Deliver real business impact with a next generation core HR system that puts the ‘self’ back in ‘self-service’. Strategically-minded HR and IT teams have realized that user-friendly core HR solution is the key to accurate employee data. Capturing employee, organizational and talent data all in one solution delivers better results, faster.\nIn addition, SAP NS2 offers the Secure CloudEdge providing customers with the enhanced availability, compliance and customer support to deliver that mission critical edge. Benefits include: - Enhanced Disaster Recovery/High Availability\n- U.S Federal, DoD ITAR and Critical Infrastructure compliance\n- NS2 US Citizen Operation & Support - Private US Support Ticketing System",
+        "Announcement_Date": "2017-06-13T04:00:00.000Z",
+        "CSP_POC_Name": "Winson Cumberland",
+        "CSP_POC_Email": "info@sapns2.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+        "FedRAMP_In-Process_Date": "N",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "R&K Solutions, Inc",
+        "Cloud_Service_Provider_Package": "GoRPM",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1733061545",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-07-05T04:00:00.000Z",
+        "Original_Expiration_Date": "2022-07-15T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Defense",
+        "Authorizing_Agency": "Department of Defense",
+        "Authorizing_Subagency": "Defense Information Systems Agency",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/RK%20Logo.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "https://rksolutions.com/gorpm",
+        "CSO_Description": "GoRPM empowers organizations to collect, aggregate, analyze, manage and understand their real property, personal property, and facilities investments. GoRPM provides data driven decision making in many areas including asset inventory, strategic movement of assets (Basing), space utilization, condition assessment, sustainability, cost analysis, and budget planning and forecasting. The GoRPM is highly configurable and can be quickly implemented and scaled to meet the needs of government agencies.",
+        "Announcement_Date": "2019-08-06T04:00:00.000Z",
+        "CSP_POC_Name": "Michael Nichols",
+        "CSP_POC_Email": "fedramp@rksolutions.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+        "FedRAMP_In-Process_Date": "Y",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "CORAS",
+        "Cloud_Service_Provider_Package": "CORAS Federal",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "FR1722160191",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Original_Authorization_Date": "2021-07-23T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CORAS%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "https://www.coras.com/fedramp/",
+        "CSO_Description": "CORAS Federal is a multi-tenant cloud offering of the CORAS NODES commercial offering for Federal, State and Local Government customers. CORAS Federal is a SaaS offering with a set of natively integrated Enterprise Decision Management Applications designed to solve the unique requirements of the Federal management and reporting processes. Our application enables federal organizations to make critical decisions rapidly and efficiently by utilizing Natural Language Processing, Artificial Intelligence, and Machine Learning-based decision management applications. CORAS NODES, through its platform and vast data discovery toolset, brings data and users together to collaborate on tasks, perform processes, and report in real-time.\rCORAS Federal is hosted on AWS GovCloud and utilizes AWS services to ensure both availability and scalability of the SaaS to meet its customers’ demands. CORAS Federal system features align with cloud computing essential characteristics described in the National Institute of Standards and Technology (NIST) Special Publication (SP) 800-145.CORAS is dedicated to the unique needs of the federal government. We believe in providing off-the-shelf software flexible enough to be configured to meet the specific, information-based decision-making challenges of the federal government. As decision management is migrating away from spreadsheets, presentations, and email messages, it is critical for federal agencies to make fast decisions based on accurate data and transparency throughout the organization.",
+        "Announcement_Date": "2021-07-27T04:00:00.000Z",
+        "CSP_POC_Name": "Dan Naselius",
+        "CSP_POC_Email": "FedRAMP@CORAS.com",
+        "Fedramp_Ready_Date": "2020-11-05T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "Y",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Druva, Inc.",
+        "Cloud_Service_Provider_Package": "Druva inSync",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1507136931",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-07-29T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "National Cancer Institute",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Druva%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.druva.com",
+        "CSO_Description": "Druva is the leader in cloud backup, data protection, and information management, leveraging the AWS GovCloud to offer a single pane of glass to protect, preserve and discover information - dramatically increasing the availability and visibility of business critical information, while reducing the risk, cost and complexity of managing and protecting it. Druva’s award-winning solutions intelligently collect data, and unify backup, disaster recovery, archival and governance capabilities onto a single, optimized data set. As the industry's fastest growing data protection provider, Druva is trusted by over 4,000 global organizations and protects over 25 PB of data.",
+        "Announcement_Date": "2017-10-18T04:00:00.000Z",
+        "CSP_POC_Name": "Druva FedRAMP Team",
+        "CSP_POC_Email": "fedramp@druva.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "FedRAMP_In-Process_Date": "N",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "NetComm",
+        "Cloud_Service_Provider_Package": "Beacon",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1508127183",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-09-14T04:00:00.000Z",
+        "Original_Expiration_Date": "2024-09-13T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "National Institutes of Health",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/NetComm%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.netcomm.net",
+        "CSO_Description": "NetComm is the government’s expert for unifying the user experience at the agency IT edge, delivering custom information management software solutions to a wide range of government clients. A Women-Owned Small Business (WOSB) with 30 years of Federal experience, NetComm offers a variety of cloud-based services through Beacon, NetComm’s data analytics toolset that allows users to create customized dashboards tailored to an organization’s or agency’s particular needs, including:\n- Automated HR, finance, property management, digital signatures, e-workflows, online collaboration and dashboard tools, specifically tailored to help clients meet their organizational goals - Improved access to and analysis of complex data - Standards & best practices for security & privacy management in the cloud - Mobile Capabilities - Data Visualization and Dashboarding\nBeacon leverages the Amazon Web Services GovCloud region FedRAMP moderate cloud Infrastructure as a Service (IaaS).",
+        "Announcement_Date": "2016-01-15T05:00:00.000Z",
+        "CSP_POC_Name": "Laurel Fielding",
+        "CSP_POC_Email": "fedramp@netcomm.net",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "FedRAMP_In-Process_Date": "Y",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Saviynt, Inc.",
+        "Cloud_Service_Provider_Package": "Saviynt Security Manager",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1821062403",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-11-20T05:00:00.000Z",
+        "Original_Expiration_Date": "2023-11-20T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Saviynt%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.saviynt.com",
+        "CSO_Description": "Saviynt delivers an intelligent and converged platform for Identity\rGovernance and Administration (IGA), Privileged Access Management (PAM) and\rCloud Security that enables its customers to effectively manage risk,\raddress continuous compliance needs and securely adopt cloud technologies\rwith confidence. The solution combines advanced analytics with fine-grained\rprivilege management to secure critical data, infrastructure and\rapplication assets for Cloud and Enterprise in a unified platform.\rSaviynt’s completely managed and flexible platform ensures a worry-free\radoption of IGA services such as user lifecycle management, access request\rand certification, SOD management, infrastructure access governance for\rIaaS providers (AWS, GCP & Azure), data access governance as well as PAM\rservices. Saviynt’s PAM solution is an identity-led service designed for\relastic cloud and hybrid IT. It secures privileged access for any\rapplication, infrastructure workloads and extends governance to\rbring-your-own vaults. It is designed to ensure zero standing privileges,\rprovide JIT access, accelerate rollout at any scale with auto-registration\rof workloads and lowers TCO by eliminating traditional jump boxes.",
+        "Announcement_Date": "2019-03-01T05:00:00.000Z",
+        "CSP_POC_Name": "Saviynt FedRAMP Team",
+        "CSP_POC_Email": "fedramp@saviynt.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "FedRAMP_In-Process_Date": "Y",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Zimperium",
+        "Cloud_Service_Provider_Package": "Zimperium Mobile Endpoint Cyber Security",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1731347234",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-11-23T05:00:00.000Z",
+        "Original_Expiration_Date": "2023-11-23T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Homeland Security",
+        "Authorizing_Agency": "Department of Homeland Security",
+        "Authorizing_Subagency": "Immigration and Customs Enforcement",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Zimperium%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "https://www.zimperium.com",
+        "CSO_Description": "Zimperium Mobile Endpoint Cyber Security is a Cloud based application deployed on the AWS GovCloud infrastructure which, when combined with the Zimperium mobile application (zIPS), provides a comprehensive Mobile Threat Defense (MTD) solution. Zimperium's Amazon GovCloud based application provides security teams with visibility on the threats and vulnerabilities across all mobile devices in the organization to assess organization risk, identify security gaps and remediate. The zIPS on-device app incorporates machine learning techniques to detect anomalies to the mobile device's operating system's statistics, memory, CPU and other system parameters and accurately identify not only the specific type of malicious attack, but also the forensics associated with the who, what, where, when, and how of an attack occurrence.",
+        "Announcement_Date": "2019-07-01T04:00:00.000Z",
+        "CSP_POC_Name": "Brian Caldwell",
+        "CSP_POC_Email": "fedramp@zimperium.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+        "FedRAMP_In-Process_Date": "Y",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Decision Lens Inc.",
+        "Cloud_Service_Provider_Package": "Decision Lens Software",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1507317125",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-04-01T04:00:00.000Z",
+        "Original_Expiration_Date": "2024-03-30T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Agriculture",
+        "Authorizing_Agency": "Department of Agriculture",
+        "Authorizing_Subagency": "United States Forest Service",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Decision%20Lens%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.decisionlens.com",
+        "CSO_Description": "The Decision Lens Software is a cloud-based prioritization and resource optimization software solution. Decision Lens enables governmental organizations to make critical decisions in program and project prioritization and resourcing, modernization, resource allocation and optimization, and workforce planning. This cloud-based software, which is hosted on the FedRAMP-authorized Amazon Web Services (AWS) Infrastructure as a Service (IaaS), rapidly engages decision-makers to achieve better outcomes in a resource-constrained environment. Driven by sophisticated analytics, the Decision Lens Software empowers organizations to identify those investments that will deliver the best future outcomes.",
+        "Announcement_Date": "2015-12-21T05:00:00.000Z",
+        "CSP_POC_Name": "Ryan Gay",
+        "CSP_POC_Email": "ISSO@decisionlens.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+        "FedRAMP_In-Process_Date": "Y",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "United States Department of the Treasury",
+        "Cloud_Service_Provider_Package": "Workplace.gov Community Cloud High (WC2-H)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1801046750",
+        "Service_Model": [
+          "IaaS, PaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Original_Authorization_Date": "2020-10-31T04:00:00.000Z",
+        "Original_Expiration_Date": "2023-10-31T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of the Treasury",
+        "Authorizing_Agency": "Department of the Treasury",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/DoT%20Logo.png",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "https://www.workplace.gov",
+        "CSO_Description": "Workplace.gov Community Cloud High (WC2-H) Platform is a federal agency managed hosting environment with capabilities to process High Impact level information. The WC2-H PaaS is owned and operated by the Department of the Treasury and hosted on Amazon Web Services GovCloud. Treasury customers can enable progressive tools and forward thinking IT solutions throughout the design, build, and maintenance phases of a cloud-based project. WC2-H offers the following services to fulfill business or mission requirements:\n* Public Web Hosting ensures the secure and high-availability of public-facing content to meet external communications needs\n* Authenticated/Restricted Web Hosting provides secure and restricted access enclaves with traffic routing through the Treasury TIC\n* Development and Testing Enclaves support the rapid development and testing of applications at the FedRAMP High Impact level.\nThe WC2-H PaaS has undergone rigorous 3PAO assessment and currently has no Critical or High findings. The results of this assessment were presented to the platform’s Authorizing Official in September 2018 and the package was subsequently approved for agency accreditation. WC2-H is fully authorized to onboard Treasury customers.\nThe WC2-H package includes the use of three (3) native AWS tools (Lambda, Config, and CloudWatch) that are pending JAB approval in the FedRAMP marketplace. Given that these tools are in process for CSP accreditation and that AWS is working with the JAB to expedite their approval, the WC2-H Authorizing Official issued an agency risk acceptance to allow use of the WC2-H platform while final accreditation is pending for these tools. Further information regarding this risk acceptance can be provided upon request by contacting the Compliance POC listed below.",
+        "Announcement_Date": "2020-03-02T05:00:00.000Z",
+        "CSP_POC_Name": "Kamil Kuza",
+        "CSP_POC_Email": "WC2HELPDESK@treasury.gov",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+        "FedRAMP_In-Process_Date": "N",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "MuleSoft",
+        "Cloud_Service_Provider_Package": "MuleSoft Government Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1818161169",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-11-09T05:00:00.000Z",
+        "Sponsoring_Agency": "Federal Communications Commission",
+        "Authorizing_Agency": "Federal Communications Commission",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MuleSoft%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.mulesoft.com",
+        "CSO_Description": "MuleSoft’s Anypoint Platform is a hybrid platform for designing, developing and managing APIs and integrations. Uniquely built as a single solution, it includes integration Platform as a Service (iPaaS) functionality which provides users with enterprise messaging, advanced user and role based management, services/tools for providing API and integration analytics and management, API design and publishing tools, and the ability to share and collaborate on API specifications, code snippets and templates of best practices.",
+        "Announcement_Date": "2019-07-31T04:00:00.000Z",
+        "CSP_POC_Name": "N/A",
+        "CSP_POC_Email": "Public.Sector.Compliance@salesforce.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
+        "FedRAMP_In-Process_Date": "N",
+        "Leveraged_ATO_Letters": []
       }
     ],
     "Assessors": [
