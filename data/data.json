@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-06-16T21:25:07.575Z",
+    "Created_At": "2022-06-16T21:30:31.368Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -6828,6 +6828,183 @@
         "CSP_POC_Email": "fedrampinfo@bmc.com",
         "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
         "FedRAMP_In-Process_Date": "N",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Collibra",
+        "Cloud_Service_Provider_Package": "Collibra Data Intelligence Cloud (CDIC)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1706403967",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-09-12T04:00:00.000Z",
+        "Sponsoring_Agency": "Tennessee Valley Authority",
+        "Authorizing_Agency": "Tennessee Valley Authority",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Collibra%20Logo2.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "F1512167750",
+          "F1508207205"
+        ],
+        "CSP_Website": "www.collibra.com",
+        "CSO_Description": "The Collibra Data Intelligence Cloud is your system of record for data. It delivers the only end-to-end, integrated Data Intelligence platform that is purpose-built to automate data workflows and deliver trusted data insights to users. Collibra connects IT and the business by removing the fragmentation and complexity of traditional data management technologies. The Collibra Data Intelligence Cloud enables Data Citizens to easily access trustworthy data, automate processes, manage compliance and, ultimately, make their data meaningful.",
+        "Announcement_Date": "2019-11-27T05:00:00.000Z",
+        "CSP_POC_Name": "Collibra FedRAMP Team",
+        "CSP_POC_Email": "fedramp@collibra.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-TennesseeValleyAuthority-Logo.png",
+        "FedRAMP_In-Process_Date": "Y",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Accenture Federal Services",
+        "Cloud_Service_Provider_Package": "Accenture Extended Detection and Response (XDR) for government",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1834336116",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-10-18T04:00:00.000Z",
+        "Sponsoring_Agency": "National Gallery of Art",
+        "Authorizing_Agency": "National Gallery of Art",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Accenture%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "F1512167750"
+        ],
+        "CSP_Website": "https://www.accenture.com/us-en/service-safeguard-secure",
+        "CSO_Description": "Defense Point Security (DPS) Managed Detection and Response (MDR) service is a proactive security platform designed for Federal agencies and customers. This scalable threat monitoring service enables all Continental United States (CONUS) government entities trusted and reliable cyber defense at a fraction of the cost of traditional 24/7 in-house incident response programs. MDR provides security monitoring using real-time threat intel and Security Orchestration, Automation and Response (SOAR) capabilities to decrease the mean time to resolution on all security incidents. MDR is built in the cloud to provide maximum availability and scalability.",
+        "Announcement_Date": "2020-01-28T05:00:00.000Z",
+        "CSP_POC_Name": "Asha Nair",
+        "CSP_POC_Email": "xdr.compliance@accenturefederal.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NGA%20Logo.png",
+        "FedRAMP_In-Process_Date": "N",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "AT&T Cybersecurity",
+        "Cloud_Service_Provider_Package": "AT&T Threat Detection and Response for Government",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1920363607",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-09-28T04:00:00.000Z",
+        "Sponsoring_Agency": "National Transportation Safety Board",
+        "Authorizing_Agency": "National Transportation Safety Board",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/ATT%20Cyber%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "F1512167750"
+        ],
+        "CSP_Website": "https://cybersecurity.att.com",
+        "CSO_Description": "USM Anywhere uses purpose-built cloud sensors to monitor your Amazon Web Services and Microsoft Azure Cloud environments, and VMware and Hyper-V virtual sensors to monitor your virtual and physical on-premises infrastructure. Security-related data is collected and sent to the AlienVault Cloud for security analysis, threat correlation, and secure, compliance-ready data storage. Centralized security monitoring in USM Anywhere gives you powerful threat detection capabilities across your cloud and on-premises landscape, helping to eliminate your security blind spots and regain control over shadow IT. Even as you migrate workloads and services from your data center to the cloud, you have the assurance of continuous security visibility.",
+        "Announcement_Date": "2021-05-12T04:00:00.000Z",
+        "CSP_POC_Name": "Ambra Bourne-Dumas",
+        "CSP_POC_Email": "DL-FedRAMP@att.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NTSB%20Logo.jpg",
+        "FedRAMP_In-Process_Date": "N",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Pegasystems Inc",
+        "Cloud_Service_Provider_Package": "Pega Cloud for Government",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1306282198",
+        "Service_Model": [
+          "PaaS, SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-02-17T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Justice",
+        "Authorizing_Agency": "Department of Justice",
+        "Authorizing_Subagency": "Office of Justice Programs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/PEGA%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "F1512167750"
+        ],
+        "CSP_Website": "www.pega.com",
+        "CSO_Description": "Pegasystems develops strategic applications for sales, marketing, service and operations. Pega’s applications streamline critical business operations, connect organizations to their customers seamlessly in real time across channels, and adapt to meet rapidly changing requirements. Pega’s Global 2000 customers include many of world’s most sophisticated and successful organizations and government agencies. Pega’s applications are built on the industry leading Pega 7 unified platform and made available via Pega Cloud. Pega Cloud provides customers and government agencies the ability to create, deliver and run Pega 7 applications on the cloud with operational excellence, enterprise-grade infrastructure and continuous lifecycle support.",
+        "Announcement_Date": "2019-03-15T04:00:00.000Z",
+        "CSP_POC_Name": "N/A",
+        "CSP_POC_Email": "CloudSales@pega.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+        "FedRAMP_In-Process_Date": "N",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Accenture Federal Services",
+        "Cloud_Service_Provider_Package": "Accenture Insights Platform (AIP) For Government",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "FR1704369518",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Original_Authorization_Date": "2021-07-23T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Accenture%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "F1603087869",
+          "FR1900048743"
+        ],
+        "CSP_Website": "https://www.accenture.com/us-en/insight-accenture-insights-platform",
+        "CSO_Description": "The Accenture Insight Platform (AIP), addresses the unique Advanced Analytics needs of U.S. federal agencies, helping them transform Big Data into actionable insight and mission impact faster. This Analytics-as-a-Service brings together best-of-breed software and pre-built accelerators to speed the development and deployment of agency, mission and function specific solutions. AIP meets at the intersection of technology and business-helping Government Agencies become insights-driven organizations. The Accenture Insights Platform is fast, flexible and scalable-ready to transform Agency’s performance in weeks, not years.",
+        "Announcement_Date": "2021-07-27T04:00:00.000Z",
+        "CSP_POC_Name": "Danielle Hillmer",
+        "CSP_POC_Email": "FedRAMP@accenturefederal.com",
+        "FedRAMP_In-Process_Date": "N",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Immersion Consulting LLC",
+        "Cloud_Service_Provider_Package": "Immersion Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2106133460",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-06-03T04:00:00.000Z",
+        "Original_Expiration_Date": "2024-06-02T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Immersion%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "F1512167750"
+        ],
+        "CSP_Website": "https://www.immersioninc.com/",
+        "CSO_Description": "Immersion Cloud is a software-as-a-service (SaaS) deployment of a commercial-of-the-shelf software product, Altair Knowledge Hub deployed in AWS GovCloud. Altair Knowledge Hub is a browser-based and team-oriented shared data exploration, preparation, Automation, and Distribution Across Organizations preparation tool. It automates the data extraction from a wide variety of data file formats including Microsoft Excel spreadsheets, Adobe PDF documents, delimited files, XML, JSON, and integrates that information with disparate database and reporting tools.\nGovernment users across mission areas from benefits to finance and operations to intelligence can use Immersion Cloud to centrally organize historical information, connect data repositories, and automate extraction, transformation, and reporting. Altair Knowledge Hub facilitates a team-oriented approach where:\n* users have roles, where some simply access an existing model/automation and process reports, while others create those automations, and even other curate and approve them;\n* work can be isolated to groups of users, where data can be separate by job function or task\n* administrative functions allow modifications of roles, group building, managing libraries of data, and even migrating\nEnd-users access Immersion Cloud using a browser on their government-issued computer. They access through FedRAMP authorized Identity-as-a-Service provider, Okta, with strong authentication using SAML federation of government identity credentials from inside their enterprise IT infrastructure. Users access a customer-private instance dedicated to their use exclusively through this browser session.",
+        "Announcement_Date": "2021-12-13T05:00:00.000Z",
+        "CSP_POC_Name": "Phil Magrogan",
+        "CSP_POC_Email": "fedramp@immersioninc.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "FedRAMP_In-Process_Date": "Y",
         "Leveraged_ATO_Letters": []
       }
     ],
