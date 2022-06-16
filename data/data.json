@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-06-16T20:19:51.057Z",
+    "Created_At": "2022-06-16T20:32:27.883Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -5688,6 +5688,92 @@
         "CSP_POC_Email": "fedramp@techtrend.us",
         "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
         "FedRAMP_In-Process_Date": "Y",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Project Hosts",
+        "Cloud_Service_Provider_Package": "Federal Private Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1403283529",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2018-05-31T04:00:00.000Z",
+        "Sponsoring_Agency": "Federal Housing Finance Agency",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
+        "Authorizing_Agency": "Federal Housing Finance Agency",
+        "Authorizing_Subagency": "FHFA Office of the Inspector General",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Project%20Hosts%20Logo1.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1209051525",
+          "F1603087869"
+        ],
+        "CSP_Website": "www.projecthosts.com",
+        "CSO_Description": "The Federal Private Cloud (FPC) is a General Support System (GSS) platform (PaaS) built primarily on Microsoft Azure Government. Project Hosts also deploys customer dedicated subnets on Azure commercial for those customers/ agencies that request this. The GSS is composed of systems and services that manage access control, authentication, auditing, monitoring, scanning, patching, configuration management, malware prevention, intrusion prevention, incident response, backup, and disaster recovery for each Application deployed on the FPC. The Federal Private Cloud is classified as a hybrid cloud deployment model to enable state and local agencies as well as commercial entities to deploy applications in a secure environment on top of the FPC GSS system.\rThere are two main types of customers who use the FPC: (i) Independent Software Vendors (ISVs) deploying multitenant SaaS applications and (ii) Federal, state or local agencies and commercial customers deploying dedicated applications just for their agency or organization (not multitenant). For both types of customers, their applications are deployed on customer-dedicated virtual servers (or Azure PaaS services) inside customer-dedicated subnets. Network security group access controls ensure that each customer’s subnet is completely isolated from and has no access to any other customer’s subnet. PaaS security subnets handling functions such as authentication, DMZ, SIEM, etc. are built on Azure Government. Customers have the option to have their dedicated application subnets built on either Azure Government or Azure Commercial. Either way, customer subnets are connected to the PaaS security subnets through V-net peering as described more fully here: https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview.\rFor FPC customers, Project Hosts also provides services that are over and above the PaaS offering described in the FPC FedRAMP package. Namely, Project Hosts deploys, secures, manages, and provides continuous monitoring for applications that are compatible with FPC architecture, authentication, operating system, database, and access requirements.\rFor ISV customers, Project Hosts also creates their SaaS-level FedRAMP package, helps them throughout the agency authorization process, and manages their 3PAO annual assessments.\rFor agency customers, Project Hosts assists them in the creation of their own SSP, manages annual 3PAO scanning and penetration testing of their dedicated applications, and provides a monthly application-level POA&M. Following is a partial list of applications for which Project Hosts is providing these services over and above the FPC platform:\r* Accenture Federal (Task management Tool)\r* Blue Prism (Blue Prism)\r* BrightWork (BrightWork SharePoint-based Project Management)\r* Checkmarx (CxSAST Source Code Scanner)\r* Drupal (Drupal CMS)\r* FlowVU (FlowVU Collaboration)\r* Gimmal (Gimmal Records Management)\r* Lexmark (Managed Print Service)\r* Microsoft (Office, Dynamics, Power BI Server, Project Server, SharePoint, SSRS)\r* Sopheon (Accolade Enterprise Innovation Management)\r* UMT360 (SharePoint-based Enterprise Portfolio Management)\r* Veritas (eVault, eDiscovery, Merge1)\r* WordPress (WordPress CMS)\r* Permuta (Defense Ready)\r* Gimmal (Records Management)\r* Invoke (UiPath Orchestrator and RPA)\r* Conga (Contract Lifecycle Management and Conga Approvals)\r* Davra (WebEx Legislate, Internet of Things)\r* Ephesoft (Transact)\r* OM Group Inc (ProjNet)\r* Nintex (K2 Five, Workflow Cloud)\r* WordPress As a Service (WPaaS)\r* C3 AI (C3 AI Suites)\rIf an agency would like to use one of these Applications or bring in another FPC-compatible Application, Project Hosts will provide application-level artifacts that will help the agency assess the risk of deploying that application in the FPC as well as any other documentation or evidence required in order to grant an Authority to Operate (ATO).",
+        "Announcement_Date": "2016-03-11T05:00:00.000Z",
+        "CSP_POC_Name": "Scott Chapman",
+        "CSP_POC_Email": "info@projecthosts.com",
+        "FedRAMP_In-Process_Date": "2014-11-20T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "SAP National Security Services Inc. (SAP NS2)",
+        "Cloud_Service_Provider_Package": "SAP NS2 Cloud Intelligent Enterprise",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "FR1719841002",
+        "Service_Model": [
+          "PaaS, SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-04-01T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/SAP%20NS2%20Logo1.png",
+        "Independent_Assessor": "Fortreum, LLC",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "F1206061353"
+        ],
+        "CSP_Website": "https://www.sapns2.com/cloud/",
+        "CSO_Description": "Explore solutions for the **SAP NS2 Cloud Intelligent Enterprise** – including a suite of intelligent applications and experience management tools. Our intelligent suite includes applications for managing the operational transactions, HR and people management, analytics, and other innovative capabilities. The applications are integration-ready, include embedded intelligence, and offer a consistent and intuitive user interface. The latest addition is our Platform as a Service (PaaS), Business Technology Platform (STP), which is the development foundation.\n**SuccessFactors** is an enterprise HR and People management Software as a Service (SaaS) solution. SuccessFactors delivers business results by driving business alignment, optimizing people performance, and building a competitive advantage through people. The solution provides a comprehensive suite of applications that improve executive insight and decision-making while ensuring the right people with the right skills are doing the right work. SuccessFactors includes: Learning, Performance & Goals, Succession & Development, Compensation, Recruiting, Onboarding, Workforce Planning, Workforce Analytics & Reporting, and Employee Central.\n**Employee Central Payroll** is a secure, industry-based payroll engine that is seamlessly integrated to the core HR system. In addition, SAP NS2 offers customers enhanced availability, compliance, and customer support to deliver a mission-critical edge. Benefits include: Enhanced Disaster Recovery/High Availability U.S. Federal and Critical Infrastructure compliance; and NS2 US Person Operation & Support.\n**SAP Analytics Cloud (SAC)** is a business intelligence platform SaaS solution. SAC connects people, information, and ideas to enable fast and confident decision making. With SAP Analytics Cloud machine learning technology and embedded artificial intelligence you can discover, analyze, plan, and predict in one experience across all devices. In addition, SAC allows you to make end-to-end decisions with data management and analytics together in one place. SAC will scale to meet the needs of your organization and diverse users across all decision types (strategic, operational, and tactical).\nBusiness Technology Platform replaces the previous solution name SAP Cloud Platform. **Business Technology Platform (BTP)** is a PaaS solution which acts as the foundation for the SAP NS2 Cloud Intelligent Enterprise. BTP helps you achieve agility, business value, and continual innovation through integration, data to value, and extensibility to your SAP NS2 landscape. Implement your organization goals with the flexibility to build, manage, and deploy new applications. It also allows you to connect data and business processes on one integrated platform. BTP is the secure core that integrates and extends the SAP NS2 Cloud.",
+        "Announcement_Date": "2017-11-13T05:00:00.000Z",
+        "CSP_POC_Name": "Winson Cumberland",
+        "CSP_POC_Email": "info@sapns2.com",
+        "FedRAMP_In-Process_Date": "N",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Medallia, Inc.",
+        "Cloud_Service_Provider_Package": "Medallia GovCloud",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "FR1711262842",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Original_Authorization_Date": "2021-04-01T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Medallia%20Logo2.png",
+        "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "F1206061353"
+        ],
+        "CSP_Website": "www.medallia.com",
+        "CSO_Description": "The **Medallia Experience Cloud (MEC)™**, leads the market in the understanding and management of experience for agencies, public sector employees, and citizens. Medallia® captures experience signals created on daily journeys in-person, traditional surveys, on calls, digital channels, over video and social media, and IoT interactions. Once net new data is captured or by leveraging legacy data previously collected by customers, Medallia applies proprietary AI technology on data that is structured and unstructured (text and comments) to reveal personalized and predictive insights that can drive action towards positive business / organizational results and outcomes. Using the Medallia Experience Cloud, government agencies can reduce employee churn, increase citizen and employee Trust and Equity, achieve in-the-moment service recovery, and drive data-driven business decisions while providing clear and potent returns on investment.\nThe Medallia Experience Cloud can support agency mission, focus, and objectives by:\n1. **Engaging Citizens and Employees Intuitively** in a secure, meaningful, continuous way to increase feedback response rate and help the agency better understand their sentiment, value, and behavior.\n2. **Empowering the Agency and Activating every Employee** by driving feedback and actionable insights to every agency employee.\n3. **Taking Action in Real-Time** with analysis and alerts that identify focus areas and help resolve issues quickly.\n4. **Optimizing Government Experience** by empowering agencies to align with mandates related to A-11, Trust, and Equity\n5. **Removing Silos** by tracking customer journeys that span across engagement channels including email, mobile, websites, chat, phone, video, and contact centers\n6. **Maintaining Trust and Security** with a platform that is FEDRAMP High certified with the JAB as well as HIPAA compliant allowing us to engage with sensitive PII.\n7. **Integrating at scale** by leveraging connectors for platforms such as Salesforce and ServiceNow and supported by a robust suite of Restful API\nThe following Medallia capabilities are currently Fedramp authorized and approved by the JAB at a High level:\nMedallia Experience Cloud, Crowdicity, Conversations, Medallia Speech, Medallia Digital Web, Medallia Digital Mobile SDK, Ask Now, Sampling Rules, LookupTables, Weighting, Goals, Alerts, Rapid Response, Case management, Medallia Alchemy Reporting, AdminSuite, Programs, Notification Center, Athena Text Analytics, Athena Action Intelligence, Multiple Translations, Sandboxes, Changesets, Packages, RESTful inbound and outbound API, bi-directional file transfer, Customer Owned SFTP and S3 connections, Social media Collection, Masking, Encryption, SSO, Mobile API",
+        "Announcement_Date": "2021-04-09T04:00:00.000Z",
+        "CSP_POC_Name": "Ruchi Gupta",
+        "CSP_POC_Email": "rgupta@medallia.com",
+        "FedRAMP_In-Process_Date": "N",
         "Leveraged_ATO_Letters": []
       }
     ],
