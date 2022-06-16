@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-06-16T21:17:56.282Z",
+    "Created_At": "2022-06-16T21:25:07.575Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -6701,6 +6701,132 @@
         "CSP_POC_Name": "Rahat Sethi",
         "CSP_POC_Email": "fedramp@adobe.com",
         "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "FedRAMP_In-Process_Date": "N",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Ivanti",
+        "Cloud_Service_Provider_Package": "Ivanti Service Manager",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1816364586",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-06-03T04:00:00.000Z",
+        "Original_Expiration_Date": "2022-09-02T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Commerce",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+        "Authorizing_Agency": "Department of Commerce",
+        "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Ivanti%20Logo.png",
+        "Independent_Assessor": "The Cadence Group",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1209051525",
+          "F1507116930",
+          "F1512167750",
+          "F1508207205"
+        ],
+        "CSP_Website": "https://www.ivanti.com/",
+        "CSO_Description": "Ivanti Service Manager, powered by HEAT, helps IT teams meet today’s government and user demands for effective service delivery and support. The solution, with workflow automation, mobile and integrated Voice support, enables IT teams to quickly deploy and configure a world-class service management solution. Cloud deployment is available from FedRAMP compliant AWS data centers in North America.\nService Manager is designed to be the central point of contact between users, employees and the IT organization. It offers first and second line support to users, where incidents, problems or inaccuracies in IT systems are reported. The solution can also be an important source of management information for reporting and auditing purposes.\nIvanti Service Manager fully supports Incident, Problem, Change and Release Management, Self-Service, 3rd party integration and more, and is Pink Verified on 13 ITIL processes, to improve IT support performance and efficiency.\nIvanti is headquartered in Salt Lake City, Utah, and has offices all over the world. For more information, visit [www.ivanti.com](http://www.ivanti.com) and follow us at @GoIvanti.",
+        "Announcement_Date": "2019-11-19T05:00:00.000Z",
+        "CSP_POC_Name": "Phil Richards",
+        "CSP_POC_Email": "security@ivanti.com",
+        "Fedramp_Ready_Date": "2018-09-05T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2019-07-10T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Tyler Federal, LLC",
+        "Cloud_Service_Provider_Package": "Tyler Federal Product Suite",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2108649352",
+        "Service_Model": [
+          "PaaS, SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2015-07-28T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of the Interior",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+        "Authorizing_Agency": "Department of the Interior",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/TF%20Logo.png",
+        "Independent_Assessor": "Emagine IT",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1512167750"
+        ],
+        "CSP_Website": "https://www.tylertech.com/",
+        "CSO_Description": "The Tyler Federal Product Suite (formerly MicroPact Product Suite), which includes icomplaints® and entellitrak®, is delivered via a Software as a Service (SaaS) and a Platform as a Service (PaaS) model to U.S. federal, state, and local government customers. Icomplaints is the leading standard for federal EEO case management and is used by most major federal agencies. Entellitrak, which takes a Data-First™ approach to dynamic case management and Business Process Management (BPM), is available with fully integrated Document Management, Natural Language Analytics, and Mobile Modules. Whether based on-premises or in the cloud, entellitrak can be implemented immediately and configured continuously, enabling customers to get to work quickly while keeping costs low. Tyler Federal is unique as a developer of commercial off-the-shelf (COTS) case management and BPM software in that 97 percent of all federal agencies with more than 500 employees currently use one or more solution from the Tyler Federal Product Suite.",
+        "Announcement_Date": "2014-06-06T04:00:00.000Z",
+        "CSP_POC_Name": "N/A",
+        "CSP_POC_Email": "FD-infosec@tylertech.com",
+        "Fedramp_Ready_Date": "2014-05-20T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2013-12-04T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Snowflake Inc.",
+        "Cloud_Service_Provider_Package": "The Data Cloud on AWS US East/West",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1809360201",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-05-01T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Snowflake%20Logo.png",
+        "Independent_Assessor": "Fortreum, LLC",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1512167750"
+        ],
+        "CSP_Website": "https://www.snowflake.com",
+        "CSO_Description": "Snowflake is the only data warehouse built for the cloud, enabling the data-driven enterprise with instant elasticity, secure data sharing and per-second pricing, across multiple clouds. Snowflake combines the power of data warehousing, the flexibility of big data platforms and the elasticity of the cloud at a fraction of the cost of traditional solutions. Find out more at [https://www.snowflake.com/](https://www.snowflake.com/).",
+        "Announcement_Date": "2020-07-02T04:00:00.000Z",
+        "CSP_POC_Name": "Siddique Chaudhry",
+        "CSP_POC_Email": "FedRAMP@snowflake.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "FedRAMP_In-Process_Date": "Y",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "BMC Software",
+        "Cloud_Service_Provider_Package": "BMC Helix",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1510057481",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-12-01T05:00:00.000Z",
+        "Original_Expiration_Date": "2024-05-05T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Agriculture",
+        "Authorizing_Agency": "Department of Agriculture",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/BMC%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1512167750",
+          "F1508207205"
+        ],
+        "CSP_Website": "www.bmc.com",
+        "CSO_Description": "BMC Helix ITSM is a powerful, industry leading service management platform that fuels your IT transformation with intelligent, people-centric user experiences helping you work smarter. BMC Helix ITSM is delivered in the cloud, or as a hybrid or on-premises solution:\n* Enables proactive service resolution, providing the ability to monitor, service, and remediate events as they occur\n* Modern persona-based UX optimized across devices\n* BMC Helix Multi-Cloud Service Management for a secure, seamless service experience across multi-cloud environments\n* Cognitive automation capabilities that transform the agent experience\n* Powerful, stunning reports and visualizations allowing data driven insights\n* Optimized for ITIL® 4\n* Leader in the Gartner Magic Quadrant for IT Service Support Management Tools\n* Designed specifically for government agencies, BMC Helix ITSM for Public Sector is hosted in the FedRAMP compliant Amazon Web Services (AWS) cloud and can be tailored to the needs of any agency with rapid implementations, flexible configuration, huge scalability and easy upgrades.",
+        "Announcement_Date": "2016-05-05T04:00:00.000Z",
+        "CSP_POC_Name": "Michelle Buckner",
+        "CSP_POC_Email": "fedrampinfo@bmc.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
         "FedRAMP_In-Process_Date": "N",
         "Leveraged_ATO_Letters": []
       }
