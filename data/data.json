@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-06-16T20:13:33.155Z",
+    "Created_At": "2022-06-16T20:19:51.057Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -5542,6 +5542,151 @@
         "CSP_POC_Name": "Paul Townsend",
         "CSP_POC_Email": "fedramp@acuant.com",
         "Fedramp_Ready_Date": "2020-11-30T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "Y",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "MediaLab, Inc.",
+        "Cloud_Service_Provider_Package": "MediaLab Federal",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2004146362",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-11-05T05:00:00.000Z",
+        "Original_Expiration_Date": "2023-11-05T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MediaLab%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Underlying_CSP_Package_ID": [
+          "F1209051525"
+        ],
+        "CSP_Website": "https://federal.medialab.com",
+        "CSO_Description": "MediaLab provides an integrated web-based SaaS platform for healthcare quality management. MediaLab's offering address many different areas of compliance within healthcare facilities, including continuing education and training, document management of policies and procedures, inspection readiness and accreditation management, competency assessment, management of personnel files and certifications, and management of non-conforming events, instrument maintenance, and quality monitoring data. Role-based permissions allow key users to access and update data across all applications to meet any healthcare facility's unique needs.",
+        "Announcement_Date": "2021-03-15T04:00:00.000Z",
+        "CSP_POC_Name": "Michael Davis",
+        "CSP_POC_Email": "fedramp@medialab.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "FedRAMP_In-Process_Date": "Y",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "AchieveIt Online, LLC",
+        "Cloud_Service_Provider_Package": "AchieveIt",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2106555313",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Low",
+        "Original_Authorization_Date": "2021-02-11T05:00:00.000Z",
+        "Original_Expiration_Date": "2024-02-11T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/AchieveIt%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Underlying_CSP_Package_ID": [
+          "F1209051525"
+        ],
+        "CSP_Website": "www.achieveit.com",
+        "CSO_Description": "AchieveIt helps federal government agencies manage mission critical plans and initiatives. Our cloud-based software platform empowers teams to focus on executing strategic initiatives instead of working on manual tasks. With AchieveIt, leaders can monitor progress on key plans and initiatives in real-time using a single, automated platform that establishes uniformity and visibility across plans and initiatives, promotes accountability throughout the agency, and enables informed decision-making. Trusted by organizations such as the Department of Veterans Affairs, The Joint Pathology Center, and the United States Air Force, AchieveIt accelerates IT modernization efforts by helping federal agencies plan, manage, and report their mission-critical plans and initiatives.",
+        "Announcement_Date": "2021-07-29T04:00:00.000Z",
+        "CSP_POC_Name": "Danny Sehr",
+        "CSP_POC_Email": "fedramp@achieveit.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "FedRAMP_In-Process_Date": "Y",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Axon",
+        "Cloud_Service_Provider_Package": "US Axon FedCloud",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "FR1703752011",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-04-02T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Axon%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603087869"
+        ],
+        "CSP_Website": "www.axon.com",
+        "CSO_Description": "US Axon FedCloud enables cloud-based workflows for digital evidence management, situational awareness, and records management to support the operational needs of agencies. The system operates as an isolated region of Axon Cloud Services that is dedicated to the US Federal community. US Axon FedCloud offerings include Axon Evidence, Axon Respond, and Axon Records while also acting as the core control center over Axon devices and client applications. These devices and client applications include in-car camera systems, body-worn cameras, TASER devices, Axon Interview Room, and Axon Upload XT.\rAxon Evidence acts as a central repository for customers' digital evidence and a central management console for Axon products and devices. With expansive ingest, smooth playback, and intuitive search, Axon Evidence makes it simple to connect and manage growing stores of data—video, photos, documents and more—in a single, secure system.\rAxon Respond is a real-time operations platform which integrates real-time situational awareness and unified communications within a modern incident management solution. Gathering data from sensors in the field, agencies are empowered to know when events occur before it's voiced through traditional contact methods and rapidly coordinate responses with a unified communications platform.\rAxon Records harnesses the power of automation to save countless hours in the report writing, submission, and review process, helping agencies get more efficiency by breaking down data silos. With direct access to body-worn camera, in-car and citizen-captured video footage, documents, images, and more, reports can be created faster. Critical evidence can be easily shared to remove the wall between digital evidence and reports.",
+        "Announcement_Date": "2019-04-02T04:00:00.000Z",
+        "CSP_POC_Name": "Gregory Hewes",
+        "CSP_POC_Email": "infosec@axon.com",
+        "Fedramp_Ready_Date": "2017-11-17T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2018-03-08T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "mLINQS",
+        "Cloud_Service_Provider_Package": "mLINQS Hosting Service",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1610037949",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-08-27T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of the Treasury",
+        "Authorizing_Agency": "Department of the Treasury",
+        "Authorizing_Subagency": "Internal Revenue Service",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/mLINQS%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603087869"
+        ],
+        "CSP_Website": "http://mlinqs.net",
+        "CSO_Description": "Since 2004, more than 30 federal agencies have trusted moveLINQ to process thousands of employee moves annually. As the first comprehensive, fully functional system designed expressly for government agencies to manage employee relocation, that trust is well founded. Agencies can be confident that every relocation processed using moveLINQ will be in full compliance. The software automates FTR, JTR, DSSR, and 6FAM CONUS/OCONUS relocation policy, and adheres to E-Gov Travel, GSA/OMB reporting, and Section 508 standards.\nNow mLINQS offers its leading relocation management on a hosted platform. As with other hosted solutions, this Software as a Service (SaaS) model provides agencies higher availability at a lower cost. Federal managers are able to focus their budgets on business objectives rather than infrastructure and the need to predict and meet future capacity. By leveraging efficiencies attained by hosting multiple federal agencies, mLINQS Hosting Services provides increased scalability and flexibility while increasing support services to customers.",
+        "Announcement_Date": "2017-09-08T04:00:00.000Z",
+        "CSP_POC_Name": "Greg McIntyre",
+        "CSP_POC_Email": "greg.mcintyre@mlinqs.net",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+        "FedRAMP_In-Process_Date": "Y",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "TechTrend, Inc.",
+        "Cloud_Service_Provider_Package": "Federal GovCloud (FGC) DevSecOps",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1912051231",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-02-24T05:00:00.000Z",
+        "Original_Expiration_Date": "2024-02-23T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Agriculture",
+        "Authorizing_Agency": "Department of Agriculture",
+        "Authorizing_Subagency": "United States Forest Service",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/TechTrend%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "F1603087869"
+        ],
+        "CSP_Website": "www.techtrend.us",
+        "CSO_Description": "Federal GovCloud DevSecOps (FGC DSO) combines an array of tools, integrates them together under the FedRAMP umbrella and provides a complete software-as-a-service solution to include hosting, patching and help desk support. FGC DSO enables U.S. federal government agencies to easily adopt practices to enhance software supply chain with a solution to automate development, security, and operations (DevSecOps) practices through every phase of the software development life cycle. FGC DSO SaaS enables rapid adoption of a continuous integration and continuous deployment (CI/CD) pipeline to deliver high quality citizen and public applications through its integrated security validation tools as a managed service. It resides on a FedRAMP authorized government cloud infrastructure and is provisioned as a dedicated suite of tools leveraging a suite of tools and technologies that provide the foundation to implement DevSecOps. Landing zones for applications are cloud vendor agnostic and the FGC DSO platform supports application deployments and secure management of infrastructure on Azure, Amazon Web Services, Google Cloud, low-code platforms (e.g., Power Platform), and on-premises or hybrid environments.\rFGC DSO has an integrated software factory capability which provides a managed hosting environment for PaaS services as part of the FGC DSO security authorization boundary that allow agencies to obtain application landing zone cloud hosting while meeting zero trust requirements. With FGC DSO, Federal agencies can focus on developing repeatable, modern, and secure applications to support their missions by utilizing a turnkey platform that help to meet federal security mandates. Leveraging FGC DSO will speed up agile application development, security compliance, integration testing, deployment and secure operational monitoring.",
+        "Announcement_Date": "2021-07-06T04:00:00.000Z",
+        "CSP_POC_Name": "Jan Zarling",
+        "CSP_POC_Email": "fedramp@techtrend.us",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
         "FedRAMP_In-Process_Date": "Y",
         "Leveraged_ATO_Letters": []
       }
