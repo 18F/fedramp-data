@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-06-16T20:43:50.388Z",
+    "Created_At": "2022-06-16T20:56:16.919Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -5546,64 +5546,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "MediaLab, Inc.",
-        "Cloud_Service_Provider_Package": "MediaLab Federal",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR2004146362",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2020-11-05T05:00:00.000Z",
-        "Original_Expiration_Date": "2023-11-05T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Veterans Affairs",
-        "Authorizing_Agency": "Department of Veterans Affairs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MediaLab%20Logo.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "Underlying_CSP_Package_ID": [
-          "F1209051525"
-        ],
-        "CSP_Website": "https://federal.medialab.com",
-        "CSO_Description": "MediaLab provides an integrated web-based SaaS platform for healthcare quality management. MediaLab's offering address many different areas of compliance within healthcare facilities, including continuing education and training, document management of policies and procedures, inspection readiness and accreditation management, competency assessment, management of personnel files and certifications, and management of non-conforming events, instrument maintenance, and quality monitoring data. Role-based permissions allow key users to access and update data across all applications to meet any healthcare facility's unique needs.",
-        "Announcement_Date": "2021-03-15T04:00:00.000Z",
-        "CSP_POC_Name": "Michael Davis",
-        "CSP_POC_Email": "fedramp@medialab.com",
-        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-        "FedRAMP_In-Process_Date": "Y",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "AchieveIt Online, LLC",
-        "Cloud_Service_Provider_Package": "AchieveIt",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR2106555313",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Low",
-        "Original_Authorization_Date": "2021-02-11T05:00:00.000Z",
-        "Original_Expiration_Date": "2024-02-11T05:00:00.000Z",
-        "Sponsoring_Agency": "Department of Veterans Affairs",
-        "Authorizing_Agency": "Department of Veterans Affairs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/AchieveIt%20Logo.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "Underlying_CSP_Package_ID": [
-          "F1209051525"
-        ],
-        "CSP_Website": "www.achieveit.com",
-        "CSO_Description": "AchieveIt helps federal government agencies manage mission critical plans and initiatives. Our cloud-based software platform empowers teams to focus on executing strategic initiatives instead of working on manual tasks. With AchieveIt, leaders can monitor progress on key plans and initiatives in real-time using a single, automated platform that establishes uniformity and visibility across plans and initiatives, promotes accountability throughout the agency, and enables informed decision-making. Trusted by organizations such as the Department of Veterans Affairs, The Joint Pathology Center, and the United States Air Force, AchieveIt accelerates IT modernization efforts by helping federal agencies plan, manage, and report their mission-critical plans and initiatives.",
-        "Announcement_Date": "2021-07-29T04:00:00.000Z",
-        "CSP_POC_Name": "Danny Sehr",
-        "CSP_POC_Email": "fedramp@achieveit.com",
-        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-        "FedRAMP_In-Process_Date": "Y",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Axon",
         "Cloud_Service_Provider_Package": "US Axon FedCloud",
         "Path": "JAB",
@@ -6041,6 +5983,246 @@
         "Announcement_Date": "2022-02-16T05:00:00.000Z",
         "CSP_POC_Name": "Scott Clarke",
         "CSP_POC_Email": "federalservices@maximus.com",
+        "FedRAMP_In-Process_Date": "N",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Wolters Kluwer",
+        "Cloud_Service_Provider_Package": "TeamMate+ FedRAMP",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2207643307",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-02-28T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "National Institutes of Health",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/WK%20Logo.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1209051525",
+          "MSO365MT"
+        ],
+        "CSP_Website": "https://www.wolterskluwer.com/en/solutions/teammate/teammate-us-public-sector",
+        "CSO_Description": "The TeamMate+ FedRAMP platform is a suite of services that provides tooling and functionality to auditors for management and tracking of the entire auditing process. The product suite includes TeamMate+ Audit, TeamMate+ Controls, and TeamMate+ Public Sector. The TeamMate+ FedRAMP suite allows auditors and audit organizations to define, track, and manage the audit process within their own standards. TeamMate+ FedRAMP leverages tooling and software to integrate with various services and resources across many systems, enabling auditors to achieve a holistic view of the organization. Through use of cloud technology and wide tooling integration, TeamMate+ FedRAMP enables organizations to align processes and goals for better strategic and tactical insights.\nTeamMate+ FedRAMP's environment utilizes higher standards for security and compliance, this system has very well-defined boundaries and controlled data ingress and egress patterns.",
+        "Announcement_Date": "2022-05-13T04:00:00.000Z",
+        "CSP_POC_Name": "Alberto De Benito Aznar",
+        "CSP_POC_Email": "TeamMate-FedRAMP@wolterskluwer.com",
+        "FedRAMP_In-Process_Date": "2022-02-15T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "VMware, Inc.",
+        "Cloud_Service_Provider_Package": "Workspace ONE",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1906353407",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-08-01T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Commerce",
+        "Authorizing_Agency": "Department of Commerce",
+        "Authorizing_Subagency": "United States Census Bureau",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/VMware%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1206061353",
+          "F1603047866"
+        ],
+        "CSP_Website": "https://my.workspaceone.com/products/VMware-Workspace-ONE",
+        "CSO_Description": "VMware Workspace ONE® is a FedRAMP Moderate Authorized solution, providing a digital workspace platform that combines endpoint device deployment and management with secure Zero Trust Access for agencies & branches.\nConsistently ranked as a leader by industry analysts, Workspace ONE delivers consumer-simple, single sign-on (SSO) access to cloud, web, and Windows apps in one unified catalog that engages employees. Agencies can enable employees with a broad range of devices including iOS, Android, Mac, Windows and rugged devices to meets the needs or preferences of a user or their mission while enforcing fine-grained, conditional access policies that also take into account device compliance information delivered by unified endpoint management (UEM) technology.\nThe Workspace ONE FedRAMP environment now includes ‘Workspace ONE Access’, (formerly VMware Identity Manager), which provides multi-factor and derived credentials authentication, conditional access and single sign-on to SaaS and web apps, and Workspace ONE Intelligent Hub, which offers a unified catalog, actionable notifications of potential interest to employees, and a people directory for a full digital workspace experience.\nWorkspace ONE Intelligence, now available for FedRAMP customers, delivers insights, analytics and automation for the digital workspace by aggregating and correlating device, application and user data coming from multiple sources in your environment. Agencies can improve employee experience with the Digital Employee Experience Management solution powered by Workspace ONE Intelligence, and strengthen the overall security posture by implementing Zero Trust capabilities.",
+        "Announcement_Date": "2019-11-21T05:00:00.000Z",
+        "CSP_POC_Name": "Workspace ONE FedRAMP Team",
+        "CSP_POC_Email": "fedramp-vmc@vmware.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+        "FedRAMP_In-Process_Date": "N",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "BlackBerry",
+        "Cloud_Service_Provider_Package": "BlackBerry Government Mobility Suite",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1921944861",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-01-14T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Homeland Security",
+        "Authorizing_Agency": "Department of Homeland Security",
+        "Authorizing_Subagency": "Immigration and Customs Enforcement",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/BlackBerry%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "F1206061353",
+          "F1603087869"
+        ],
+        "CSP_Website": "https://www.blackberry.com",
+        "CSO_Description": "BlackBerry Government Mobility Suite (BGMS) is a cloud-based endpoint management solution.\nBGMS provides customers the ability to utilize a single, integrated view of users, devices, applications, and policies within their IT environment. Customers can use BGMS to unify multi-OS endpoints across all ownership models while securing sensitive data. BGMS is deployed in Microsoft Azure FedRAMP approved Government cloud as a multi-tenant, government-only community cloud deployment model.\nThe BGMS architecture will serve as the baseline infrastructure for BlackBerry FedRAMP authorized productivity applications such as BlackBerry Work and BlackBerry Workspaces; these solutions will provide mobile access to key business tools like email, calendars, contacts, and tasks as well provide secure access to enterprise file repositories.",
+        "Announcement_Date": "2020-04-30T04:00:00.000Z",
+        "CSP_POC_Name": "Rashad Munawar",
+        "CSP_POC_Email": "bbfedcompliance@blackberry.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+        "FedRAMP_In-Process_Date": "N",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "MediaLab, Inc.",
+        "Cloud_Service_Provider_Package": "MediaLab Federal",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2004146362",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-11-05T05:00:00.000Z",
+        "Original_Expiration_Date": "2023-11-05T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MediaLab%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Underlying_CSP_Package_ID": [
+          "F1209051525"
+        ],
+        "CSP_Website": "https://federal.medialab.com",
+        "CSO_Description": "MediaLab provides an integrated web-based SaaS platform for healthcare quality management. MediaLab's offering address many different areas of compliance within healthcare facilities, including continuing education and training, document management of policies and procedures, inspection readiness and accreditation management, competency assessment, management of personnel files and certifications, and management of non-conforming events, instrument maintenance, and quality monitoring data. Role-based permissions allow key users to access and update data across all applications to meet any healthcare facility's unique needs.",
+        "Announcement_Date": "2021-03-15T04:00:00.000Z",
+        "CSP_POC_Name": "Michael Davis",
+        "CSP_POC_Email": "fedramp@medialab.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "FedRAMP_In-Process_Date": "Y",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Microsoft",
+        "Cloud_Service_Provider_Package": "Office 365 Multi-Tenant & Supporting Services",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "MSO365MT",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-04-22T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "HHS Office of the Inspector General",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Microsoft%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1209051525",
+          "F1206061353"
+        ],
+        "CSP_Website": "www.microsoft.office.com",
+        "CSO_Description": "Office 365 MultiTenant is a Software as a Service offering with government specific instances of some services including Exchange Online, SharePoint Online, OneDrive for Business, Skype for Business, and Microsoft Teams. The government specific instances are designated for the sole use of U.S federal, tribal, state, and local government customers, U.S. government contractors, and Federally Funded Research and Development Centers (FFRDCs). Office 365 delivers customers with familiar productivity, communication and collaboration capabilities all in a service that is reliable, secure and able to rapidly scale up or down to meet variable resource demands.",
+        "Announcement_Date": "2014-11-20T05:00:00.000Z",
+        "CSP_POC_Name": "N/A",
+        "CSP_POC_Email": "O365FedRAMP@microsoft.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "FedRAMP_In-Process_Date": "N",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Modus",
+        "Cloud_Service_Provider_Package": "Modus Government Solutions (MGS)",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "FR1915765924",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-07-23T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Modus%20Logo.png",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1206061353",
+          "F1603047866"
+        ],
+        "CSP_Website": "www.discovermodus.com",
+        "CSO_Description": "Discovering data is only the tip of the iceberg. What really matters is the intelligence you gain from the data you retain. Modus provides a full suite of eDiscovery services to help government agencies plan, discover, interpret, manage and leverage raw data into Discovery Intelligence to help optimize their legal enterprise. Modus eDiscovery services span the entire EDRM, providing government agencies with hands-on expertise in all areas vital to their businesses.\n* eDiscovery Reporting\n* Data Collection and Forensics\n* eDiscovery Processing\n* Early Case Assessment\n* Hosting Options\n* eDiscovery Production\nModus is partners with Venio Systems and can offer our clients the VenioOne unified eDiscovery software platform. Venio One offers a powerful and scalable solution providing users the ability to process, analyze, review and produce with increased efficiency.\nVenioOne allows us to bring all phases of eDiscovery—from processing through production—under one platform. We can make the workflow as streamlined and productive as possible while leveraging VenioOne’s complete unified system, user-friendly interface and its fast and powerful data processing engine.\n**Data Governance**\nModus has the resources and technologies to provide a single-source data management service bringing order to data chaos. We know the individual components of data management aren’t used in isolation, so we take a holistic approach to managing your data. Modus solutions keep your data secure, healthy, and agile – exposing reliable data sets that empower you to make intelligent business decisions.\n**Artifical Intelligence (AI) in eDiscovery**\nModus is partnering with the most powerful AI providers in the industry to enable these powerful analytics tools for the eDiscovery environment. Government Agencies interested in this technology can utilize their relationship with Modus to pursue these powerful tools in your eDiscovery objectives.\n**Discovery Production**\nAs electronically stored information has become more diverse and voluminous, the specificity and complexity of production formats has similarly increased. Today, productions may be required in a variety of formats, including native, PDF, and TIFF, with or without intricate load files, extracted text, and other features. Conforming, precisely and consistently, to mandated production specifications is an essential component of eDiscovery success.\nModus’ production services include:\n* Native Production\n* PDF Production\n* TIFF Production\n* Hybrid Production\n* Custom Load File Creation\n* Slipsheet/Placeholder Generation\n* Endorsements and Bates Numbering\n**Data Collection and Forensics**\nThe collection of potentially relevant materials – whether physically or electronically stored – is a critical early step in the eDiscovery process. Successful execution of a collection requires the maintenance of both forensic soundness and the chain of custody from source to production, as well as the tools and experience to collect from today’s ever-multiplying range of sources. Modus’ collection services include: * Evidence Identification\n* Data Harvesting & Forensic Collection\n* Forensic Imaging\n* Live & Targeted Data Acquisitions\n* Preservation\n* Analysis\n**eDiscovery Processing**\nTo facilitate hosted review and production, all collected electronically stored information must be processed. Such materials can come in hundreds of different formats, with different properties, different metadata, and potentially, different nested content. Processing finds and expands nested content, captures and organizes metadata, and extracts and normalizes text for review and production. Modus processing services enable you to use our hosted review platform or your own. We’ve built processing templates for all of the leading ECA and review tools to ensure you get pristine loads and fast, accurate and consistent processing no matter which downstream tools you are using. And, we can quickly customize or build a new template to meet your requirements. Processing Types Including:\n* Native File\n* Full TIFF\n* Email\n* Others\nProcessing Services:\n* Analytical Reporting\n* File Type Analysis\n* De-NISTing\n* Date Filtering\n* File Type/Categorized Filtering/ StellentID\n* Standard and Search-Based Processing\n* Metadata Extraction\n* De-Duplication (Custodial or Global)\n* Near-Duplicate Identification and Handling\n* Email Threading\n* Foreign Language Identification (with Percentages and Rankings)",
+        "Announcement_Date": "2021-07-27T04:00:00.000Z",
+        "CSP_POC_Name": "John Crites",
+        "CSP_POC_Email": "FedRAMP@discovermodus.com",
+        "Fedramp_Ready_Date": "2020-11-10T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "Y",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "AchieveIt Online, LLC",
+        "Cloud_Service_Provider_Package": "AchieveIt",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2106555313",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Low",
+        "Original_Authorization_Date": "2021-02-11T05:00:00.000Z",
+        "Original_Expiration_Date": "2024-02-11T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/AchieveIt%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Underlying_CSP_Package_ID": [
+          "F1209051525"
+        ],
+        "CSP_Website": "www.achieveit.com",
+        "CSO_Description": "AchieveIt helps federal government agencies manage mission critical plans and initiatives. Our cloud-based software platform empowers teams to focus on executing strategic initiatives instead of working on manual tasks. With AchieveIt, leaders can monitor progress on key plans and initiatives in real-time using a single, automated platform that establishes uniformity and visibility across plans and initiatives, promotes accountability throughout the agency, and enables informed decision-making. Trusted by organizations such as the Department of Veterans Affairs, The Joint Pathology Center, and the United States Air Force, AchieveIt accelerates IT modernization efforts by helping federal agencies plan, manage, and report their mission-critical plans and initiatives.",
+        "Announcement_Date": "2021-07-29T04:00:00.000Z",
+        "CSP_POC_Name": "Danny Sehr",
+        "CSP_POC_Email": "fedramp@achieveit.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "FedRAMP_In-Process_Date": "Y",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Oracle",
+        "Cloud_Service_Provider_Package": "Aconex for Defense",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1712871948",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-01-11T05:00:00.000Z",
+        "Original_Expiration_Date": "2022-07-11T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Defense",
+        "Authorizing_Agency": "Department of Defense",
+        "Authorizing_Subagency": "United States Army Corps of Engineers",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20Aconex%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1206061353",
+          "F1603047866",
+          "F1508277234"
+        ],
+        "CSP_Website": "https://www.oracle.com/industries/construction-engineering/aconex-fedramp-construction-software/",
+        "CSO_Description": "Oracle Aconex provides the #1 cloud and mobile collaboration platform for the global construction industry. This highly secure platform provides a single source of truth for all program related documents and communications across agency stakeholders and streamlines business process management with standardization across the project lifecycle. Oracle Aconex for Defense brings a modern set of flexible tools for simplifying how program data is captured, consumed, shared and analyzed.\nCapabilities include:\n* Inter-Agency Project Management and Collaboration\n* Centralized Information Management\n* Streamlined Business Process and Construction Management\n* Secure Common Data Environment With more than 70,000 user organizations and over $1 trillion of project value delivered in more than 70 countries, Aconex is the construction industry’s most widely adopted and trusted platform. For more information, please see [Oracle Aconex for Defense](https://www.oracle.com/industries/construction-engineering/aconex-fedramp-construction-software/)",
+        "Announcement_Date": "2020-10-30T04:00:00.000Z",
+        "CSP_POC_Name": "Gail Johnson",
+        "CSP_POC_Email": "aconex-for-defense_us_grp@oracle.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
         "FedRAMP_In-Process_Date": "N",
         "Leveraged_ATO_Letters": []
       }
