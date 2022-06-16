@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-06-16T20:37:18.824Z",
+    "Created_At": "2022-06-16T20:43:50.388Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -5894,6 +5894,154 @@
         "CSP_POC_Email": "help@getopenwater.com",
         "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
         "FedRAMP_In-Process_Date": "Y",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Replicon",
+        "Cloud_Service_Provider_Package": "Replicon Cloud Platform (Enterprise Time Tracking Platform)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1606087903",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-01-17T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Agriculture",
+        "Authorizing_Agency": "Department of Agriculture",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Replicon%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1206061353",
+          "F1206081364",
+          "F1512167750"
+        ],
+        "CSP_Website": "www.replicon.com",
+        "CSO_Description": "Replicon Inc. provides cloud time tracking applications including timesheet and expense management software, using SaaS, for automating employee time tracking, project time tracking, expense tracking and resource scheduling.",
+        "Announcement_Date": "2020-02-11T05:00:00.000Z",
+        "CSP_POC_Name": "Alfred Wong",
+        "CSP_POC_Email": "FedRAMP@replicon.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+        "FedRAMP_In-Process_Date": "N",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "QGenda, LLC",
+        "Cloud_Service_Provider_Package": "QGenda",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1924942935",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "LI-SaaS",
+        "Original_Authorization_Date": "2020-03-19T04:00:00.000Z",
+        "Original_Expiration_Date": "2023-03-19T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/QGenda%20Logo.png",
+        "Independent_Assessor": "The Cadence Group",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1206081364",
+          "F1508207205"
+        ],
+        "CSP_Website": "https://www.qgenda.com/customers/federal/",
+        "CSO_Description": "QGenda is the leader in [cloud-based call](https://www.qgenda.com/customers/federal/) and scheduling automation. Leading physician groups, hospitals, academic medical centers, and enterprise health systems use QGenda to optimize their workforce to allow them to provide the best possible patient care.",
+        "Announcement_Date": "2020-03-23T04:00:00.000Z",
+        "CSP_POC_Name": "Kenzie Doren",
+        "CSP_POC_Email": "Federal@qgenda.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "FedRAMP_In-Process_Date": "Y",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Slack Technologies",
+        "Cloud_Service_Provider_Package": "Slack",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1823447014",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-03-26T04:00:00.000Z",
+        "Original_Expiration_Date": "2023-03-26T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Slack%20Logo2.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1206081364",
+          "F1512167750"
+        ],
+        "CSP_Website": "https://slack.com/",
+        "CSO_Description": "Slack has transformed business communication. It’s the leading channels-based messaging platform, used by millions to align their teams, unify their systems, and drive their businesses forward. Only Slack offers a secure, enterprise-grade environment that can scale with the largest companies in the world. It is a new layer of the business technology stack where people can work together more effectively, connect all their other software tools and services, and find the information they need to do their best work. Slack is where work happens. Slack can support customers who are seeking both an Li-SaaS (FedRAMP low impact level) and FedRAMP Moderate impact level authorization or ATO. Our Enterprise plans (Enterprise Select and Enterprise Grid) are for customers who require compliance with FedRAMP Moderate. Slack's Pro and Business+ plans are for customers who require compliance with FedRAMP Li-SaaS or Low.",
+        "Announcement_Date": "2020-05-20T04:00:00.000Z",
+        "CSP_POC_Name": "Taylor Trigger",
+        "CSP_POC_Email": "fedramp@slack-corp.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "FedRAMP_In-Process_Date": "N",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "REAN Cloud Inc.",
+        "Cloud_Service_Provider_Package": "American Heart Association Precision Medicine Platform (AHA-PMP)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1726637760",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Low",
+        "Original_Authorization_Date": "2021-08-16T04:00:00.000Z",
+        "Original_Expiration_Date": "2024-08-16T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "National Institutes of Health",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/REAN%20PMP%20Logo.png",
+        "Independent_Assessor": "NCC Group Security Services, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1206081364"
+        ],
+        "CSP_Website": "https://precision.heart.org",
+        "CSO_Description": "The AHA Precision Medicine Platform is a cloud-based data resource that revolutionizes how the research community accelerates solutions for cardiovascular diseases. It provides unprecedented, open access to cardiovascular data sets, cutting-edge tools and forums for collaboration. Researchers can search, filter and unlock the data that matters most to their work - allowing them to find new solution for big health improvements faster than ever before. The Precision Medicine Platform is powered by Amazon Web Services and is a strategic initiative of the American Heart Association's Institute for Precision Cardiovascular Medicine.",
+        "Announcement_Date": "2019-07-23T04:00:00.000Z",
+        "CSP_POC_Name": "Joseph Schneider",
+        "CSP_POC_Email": "complianceadvisoryservices@hitachivantara.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "FedRAMP_In-Process_Date": "Y",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "MAXIMUS Inc.",
+        "Cloud_Service_Provider_Package": "MAXIMUS Cloud (includes Genesys Engagement Platform)",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "F1303191948",
+        "Service_Model": [
+          "IaaS, PaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-02-07T05:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MAXIMUS%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://www.maximus.com/federal/technology/enterprise-it-services/infrastructure-and-platform-support-services",
+        "CSO_Description": "The **Maximus Cloud (MC)** is a managed Infrastructure-as-a-service (IAAS) private cloud service designed to enable secure management of mission critical systems and applications. MAXIMUS Cloud provides managed security, visibility and enhanced performance through proactive monitoring, alerting and maintenance without service interruption. Serving multiple government customers, this multi-tenant Private and Community Cloud exclusive for government customers only is hosted in geographically dispersed Data Centers located in the United States. This Maximus cloud infrastructure provides the foundation for our expanded FedRAMP compliant cloud service offerings.\n**Maximus Genesys Engagement Platform (MGEP)**\nThe MAXIMUS Genesys Engagement Platform is an enterprise-class omnichannel cloud contact center solution.\nThe Engagement Platform leverages Genesys technology to provide the omnichannel functionality required for an optimized citizen engagement experience that enables citizens to communicate with your agency across all channels – including voice, email, SMS and web chat. The Engagement Platform also provides key additional modular features such as workforce management, recording and quality management, analytics, AI and a robust reporting framework. The platform features a full range of secure capabilities to customize and operate contact centers of any size, supporting organizations’ security, accessibility and privacy requirements. With the Engagement Platform, agencies can leverage a broad range of proven and certified implementation partners to guide and enable their contact center solution.",
+        "Announcement_Date": "2022-02-16T05:00:00.000Z",
+        "CSP_POC_Name": "Scott Clarke",
+        "CSP_POC_Email": "federalservices@maximus.com",
+        "FedRAMP_In-Process_Date": "N",
         "Leveraged_ATO_Letters": []
       }
     ],
