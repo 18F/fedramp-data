@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-06-16T19:52:42.997Z",
+    "Created_At": "2022-06-16T19:58:32.896Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4528,34 +4528,68 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Broadcom",
-        "Cloud_Service_Provider_Package": "Clarity PPM",
+        "Cloud_Service_Provider_Name": "Netskope, Inc.",
+        "Cloud_Service_Provider_Package": "Netskope OneCloud Government",
         "Path": "Agency",
         "Designation": "Compliant",
-        "Package_ID": "FR1722532017",
+        "Package_ID": "FR1831538827",
         "Service_Model": [
           "SaaS"
         ],
-        "Deployment_Model": "Government Community Cloud",
+        "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2019-04-16T04:00:00.000Z",
+        "Original_Authorization_Date": "2019-08-01T04:00:00.000Z",
+        "Original_Expiration_Date": "2022-08-01T04:00:00.000Z",
         "Sponsoring_Agency": "Department of Health and Human Services",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
         "Authorizing_Agency": "Department of Health and Human Services",
-        "Authorizing_Subagency": "National Cancer Institute",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Broadcom%20Logo.png",
-        "Independent_Assessor": "Schellman Compliance, LLC",
+        "Authorizing_Subagency": "Administration for Community Living",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Netskope%20Logo.png",
+        "Independent_Assessor": "Kratos",
         "Underlying_CSP_Package_ID": [
-          "FR1722462413"
+          "FR1805751477"
         ],
-        "CSP_Website": "https://www.ca.com/us/products/project-portfolio-management-federal-government.html",
-        "CSO_Description": "Broadcom Clarity Project and Portfolio Management (Clarity PPM) offers US government agencies a highly secure and scalable platform to manage their entire project and portfolio lifecycle to better deliver services, projects and financials. Clarity PPM provides customers the confidence they need on a highly secure and compliant platform. Clarity PPM is a single platform that lets you manage multiple project portfolios and make data-driven investment decisions.\nThe solution gives you modern project management tools to help you prioritize requirements, maximize resources and optimize portfolios with ease.\n* One platform. Collect, prioritize, assess and deliver projects, portfolios and products, and empower people enterprise-wide, with a single system of record.\n* Complete solution. Manage your entire innovation lifecycle, including project and portfolio management, demands and resources, and financials and time tracking.\n* Persona-based user experience. Flattening the learning curve drives adoption and boosts staff productivity. Modules are specifically designed for project managers, resources managers and project coordinators to support anything from ad hoc work to complex programs.\n* Team collaboration. New tools let team members collaborate within the context of their current work, such as resource or financial management. At the portfolio level, the quality of planning and execution increases significantly when employees can crowdsource ideas and decisions.\n* Delivery. Clarity PPM SaaS. Reduce cost and accelerate time to benefit, drive adoption and ensure you’re always on the latest release with a user-based subscription service delivered across a secure, scalable infrastructure.",
-        "Announcement_Date": "2019-07-09T04:00:00.000Z",
-        "CSP_POC_Name": "Steve Zorra",
-        "CSP_POC_Email": "fedramp-clarity-contact@broadcom.com",
-        "Fedramp_Ready_Date": "2017-08-07T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2018-05-02T04:00:00.000Z",
+        "CSP_Website": "https://www.netskope.com/",
+        "CSO_Description": "Netskope is the leading cloud access security broker (CASB). Our patented Cloud XD technology eliminates blind spots by going deeper than any other security provider to quickly target and control activities across thousands of cloud services and millions of websites. With full control from one cloud, the Netskope Security Cloud, our customers benefit from 360-degree data protection that guards data everywhere and advanced threat protection that stops elusive attacks. At Netskope, we call this smart cloud security.",
+        "Announcement_Date": "2019-09-23T04:00:00.000Z",
+        "CSP_POC_Name": "Forrest McMahon",
+        "CSP_POC_Email": "fedramp@netskope.com",
+        "FedRAMP_In-Process_Date": "2018-08-16T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Google",
+        "Cloud_Service_Provider_Package": "Google Workspace",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "F1206081364",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "High",
+        "Original_Authorization_Date": "2021-10-27T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Google%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "FR1805751477"
+        ],
+        "CSP_Website": "https://workspace.google.com",
+        "CSO_Description": "Google Workspace (formerly G Suite) is comprised of Google’s multi-tenant public and hybrid cloud instances and leverages Google Services (Package ID FR1805751477).\nThe following Google Workspace services are FedRAMP High: Calendar, Docs, Drive, Forms, Gmail, Google Chat, Google Meet, Keep, New Sites, Sheets, Slides, Vault\nThe following Google Workspace services are FedRAMP Moderate: Android and Chrome Device Management, Chrome Sync (for Google Workspace for Education domains only), Classroom, Cloud Search (including 3P), Contacts, Drawings, Google Drive for Work, Google Workspace Security Center (for Google Workspace Enterprise and Google Workspace Enterprise for Education domains only), Google Tasks, Groups for Business, Jamboard, Secure LDAP, Sites Classic, Vault, Voice; Docs APIs: Apps Activity API, Calendar API, Contacts API, Drive REST API (replaced Documents List API), Gmail REST API (replaced Email Migration API), Sheets API, Sites API, Tasks API.",
+        "Announcement_Date": "2021-10-28T04:00:00.000Z",
+        "CSP_POC_Name": "Google FedRAMP Team",
+        "CSP_POC_Email": "fedramp@google.com",
+        "Fedramp_Ready_Date": "2020-12-16T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2014-06-24T04:00:00.000Z",
+            "Authorizing_Agency": "National Archives and Records Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NARA_Logo.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       }
     ],
     "Assessors": [
