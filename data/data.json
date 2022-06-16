@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-06-16T21:59:06.694Z",
+    "Created_At": "2022-06-16T22:02:12.692Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -10146,6 +10146,57 @@
         "CSP_POC_Email": "fedramp@pointblue.org",
         "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
         "FedRAMP_In-Process_Date": "N",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Qualtrics",
+        "Cloud_Service_Provider_Package": "Qualtrics XM Platform",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1606097904",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-01-03T05:00:00.000Z",
+        "Original_Expiration_Date": "2025-01-03T05:00:00.000Z",
+        "Sponsoring_Agency": "Social Security Administration",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Qualtrics%20Logo2.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "CSP_Website": "www.qualtrics.com",
+        "CSO_Description": "The Qualtrics XM Platform is a web-based application that allows Government agencies to create surveys and then collect, analyze, and store the data produced from those surveys. Government agencies can use the application to collect and analyze citizen, employee, and community feedback to improve services and engagement for both external customers (citizens) and internal customers (public sector employees). The Qualtrics XM Platform enables multiple departments within an agency to collect and analyze survey data within a single enterprise system, allowing all levels of the agency or department to have access to important feedback data. The XM Platform includes an array of services that can be utilized to track, manage, and improve the experience of external and internal customers, such as:\n• XM Core – Allows agencies to construct surveys, distribute them to participants, and then manage and analyze individual participant responses. Agencies can then create reports that present the results and publish these reports to the web or share the report links with others.\n• Customer Experience - Allows agencies to study and improve the customer experience by employing Relationship NPS, Transactional NPS, Customer Satisfaction, and Event Feedback programs.\n• Employee Experience - Allows agencies to measure and manage employee engagement by creating feedback loops for relevant aspects of public sector employment, such as Manager Feedback, Training Feedback, Employee Engagement, and Employee Pulse programs.\n• Site Intercept – Allows agencies to display a piece of text, graphic, or widget that encourages a visitor to their website to take a survey or redirect to a specific webpage. To implement, the agency administrator places a snippet of Qualtrics’ JavaScript code on the agency’s website.\n• Actions and Tickets - Allows defining and triggering a workflow when a set of conditions are met, such as creating support tickets or integrating with external systems via web service API.\n• Data Analytics - Provides ability to perform natural language processing, statistical and predictive analysis of the data collected via the Research Suite.\n• Reports and Dashboards – Enables agencies to build dashboards that provide visual displays of the data collected from an agency’s surveys combined with other imported data sources.\nQualtrics creates a library where each agency can store question templates, graphics, messages, and files to be used in building surveys and sending messages to participants. Agencies can integrate data from other sources, such as their customer relationship management (CRM) tools, and produce and share reports. They can upload a list of contacts as a CSV file or manually enter or edit contacts. Agencies can also view the complete history of interactions that they have had with their contacts via emails or survey responses.\nThe XM Platform allows customers to send surveys, notifications, and other messages via a built-in email mechanism. To enable this, the application provides an outbound mail delivery engine via SMTP. In addition, customers can generate a URL that links to their survey and send the URL out to survey participants via their own email systems.\nReports and data can be exported to a variety of formats, including Word, Excel, PDF, and CSV/TSV, etc.\nThe XM Platform provides an Administration tool that allows designated agency admins to create groups and user permissions and assign them to authorized agency users. Permissions can be set up at the agency, division, or organization level. A single sign-on (SSO) capability enables agencies to implement identity federation via LDAP, SAML / Shibboleth, central authentication service (CAS), or OAuth 2.0. Qualtrics also makes available a REST API to allow agencies to automate functions such as connecting Qualtrics surveys with external systems such as a CRM like Salesforce.",
+        "Announcement_Date": "2018-06-29T04:00:00.000Z",
+        "CSP_POC_Name": "Craig Kulfan",
+        "CSP_POC_Email": "fedramp@qualtrics.com",
+        "FedRAMP_In-Process_Date": "2016-06-09T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Informatica LLC",
+        "Cloud_Service_Provider_Package": "Informatica Intelligent Cloud Services (IICS)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2029331613",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-10-08T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of State",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
+        "Authorizing_Agency": "Department of State",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Informatica%20Logo.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "CSP_Website": "www.informatica.com/publicsector",
+        "CSO_Description": "Government agencies need a better, faster, more reliable approach to integrate and deliver timely data and analytics to users and business systems that rely on data. Whether you’re delivering analytics, building a data warehouse, migrating a data warehouse to the cloud, or building real-time application processes, you need a high-performance, easy-to-use data integration service that connects to on-premises data sources, cloud applications, and cloud platforms to seamlessly integrate high volumes of data, so that you can get up and running quickly.\rIICS for FedRAMP IICS is a microservices-based, automated, AI-powered, and cloud-native data management solution. All of the IICS for FedRAMP IICS components and integrated Informatica solutions described below incorporate the CLAIRE™ artificial intelligence (AI) and machine learning engine, which leverages industry-leading metadata capabilities to accelerate and automate core data management and data governance functions.\nIICS for FedRAMP IICS includes support for both Cloud Data Integration and Cloud Application Integration:\n**Cloud Data Integration**\nBuilt on a next-generation, microservices-driven software as a service (SaaS), Informatica® Cloud Data Integration enables you to connect to industry-leading applications and data sources across on-premises and the cloud and allows you to integrate the data sources at scale. Optimize the performance of your development teams by employing a codeless UI to build new integrations using drag-and-drop interfaces, making complex integrations simple. Speed up new initiatives with pre-built templates to get teams up and running more quickly, even for very involved scenarios.. **Cloud Application Integration**\nInformatica® Cloud Application Integration (CAI) service offers a single, trusted solution to support any integration pattern, data set, user-type or endpoint to automate business processes, expedite transactions and enable real-time analytics. It is based on a modular, microservices based architecture for agile support of future business requirements. CAI supports multiple new and unique integration patterns, which include on-premises to cloud real-time data integration, real-time/B2B application integration, process orchestration, data synchronization, and more. Users can integrate multi-cloud and hybrid applications, without writing a single line of code.\rEach of the above services leverage Informatica’s Secure Agent that runs all your Cloud Data Integration and Cloud Application Integration workloads inside of the customer’s infrastructure, ensuring the greatest levels of security and performance.",
+        "Announcement_Date": "2022-02-02T05:00:00.000Z",
+        "CSP_POC_Name": "Informatica FedRAMP Team",
+        "CSP_POC_Email": "fedramp@informatica.com",
+        "FedRAMP_In-Process_Date": "2021-10-08T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       }
     ],
