@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-06-16T20:32:27.883Z",
+    "Created_At": "2022-06-16T20:37:18.824Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -5774,6 +5774,126 @@
         "CSP_POC_Name": "Ruchi Gupta",
         "CSP_POC_Email": "rgupta@medallia.com",
         "FedRAMP_In-Process_Date": "N",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Esri",
+        "Cloud_Service_Provider_Package": "ArcGIS Online (AGO)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1811073663",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "LI-SaaS",
+        "Original_Authorization_Date": "2018-06-27T04:00:00.000Z",
+        "Original_Expiration_Date": "2023-06-27T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of the Interior",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+        "Authorizing_Agency": "Department of the Interior",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Esri%20Logo2.png",
+        "Independent_Assessor": "Mars Technology",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1209051525"
+        ],
+        "CSP_Website": "https://www.arcgis.com",
+        "CSO_Description": "ArcGIS Online is a web-based GIS, hosted by Esri and delivered as SaaS (software-as-a-service). With ArcGIS Online, organizations can get up and running quickly, and securely create, organize, and manage geographic information in one system. It connects users in your organization with up-to-date content including ready-to-use apps, maps, 3D scenes, and layers so they can build useful information products and accomplish their work more efficiently. ArcGIS Online facilitates collaboration and sharing information with internal stakeholders, as well as your customers, contractors, and the public by providing access to maps, apps, and data from any device, anywhere, anytime. ArcGIS Online is built on open, scalable technology that automatically adjusts to meet peak demand periods without you having to worry about adding and managing additional resources.",
+        "Announcement_Date": "2018-06-28T04:00:00.000Z",
+        "CSP_POC_Name": "Michael Young",
+        "CSP_POC_Email": "FedRAMP@esri.com",
+        "FedRAMP_In-Process_Date": "2018-04-27T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Adobe",
+        "Cloud_Service_Provider_Package": "Adobe Creative Cloud for Enterprise",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1820435960",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "LI-SaaS",
+        "Original_Authorization_Date": "2021-05-13T04:00:00.000Z",
+        "Original_Expiration_Date": "2024-05-13T04:00:00.000Z",
+        "Sponsoring_Agency": "United States Agency for Global Media",
+        "Authorizing_Agency": "United States Agency for Global Media",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Adobe%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1209051525"
+        ],
+        "CSP_Website": "https://www.adobe.com/creativecloud/business.html",
+        "CSO_Description": "Adobe Creative Cloud for enterprise is a cloud-based offering which allows enterprise customers the ability to create and collaborate efficiently with connected desktop and mobile apps. The Creative Cloud for enterprise offering also includes options for flexible deployment, identity management including Federated ID with Single Sign-On, annual license true-ups, license management tools and enterprise-level customer support.",
+        "Announcement_Date": "2018-05-14T04:00:00.000Z",
+        "CSP_POC_Name": "Rahat Sethi",
+        "CSP_POC_Email": "fedramp@adobe.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAGM%20Logo.jpg",
+        "FedRAMP_In-Process_Date": "N",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Adobe",
+        "Cloud_Service_Provider_Package": "Adobe Document Cloud (PDF Services & Adobe Sign)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1820435961",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "LI-SaaS",
+        "Original_Authorization_Date": "2021-05-13T04:00:00.000Z",
+        "Original_Expiration_Date": "2024-05-13T04:00:00.000Z",
+        "Sponsoring_Agency": "United States Agency for Global Media",
+        "Authorizing_Agency": "United States Agency for Global Media",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Adobe%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1209051525"
+        ],
+        "CSP_Website": "https://acrobat.adobe.com",
+        "CSO_Description": "Adobe Document Cloud is the only digital document modernization solution that integrates Adobe’s pioneering PDF technology with Adobe Acrobat and Adobe Sign apps to deliver 100% digital experiences to employees and constituents. It’s a complete portfolio of secure solutions that speeds service delivery and drives better constituent experiences by making manual processes fully digital. Document Cloud includes Adobe Acrobat DC, online PDF services, and a FedRAMP Tailored Authorized instance of Adobe Sign. Desktop, web, and mobile apps can be used standalone, or as connected services that are easily integrated into your agency’s existing document processes, business applications, and enterprise systems. Innovative technology and artificial intelligence helps agencies deliver modern, mobile-friendly document experiences and search-friendly document tagging without the need to reauthor documents from scratch. Learn more.",
+        "Announcement_Date": "2018-05-14T04:00:00.000Z",
+        "CSP_POC_Name": "Rahat Sethi",
+        "CSP_POC_Email": "fedramp@adobe.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAGM%20Logo.jpg",
+        "FedRAMP_In-Process_Date": "N",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "OpenWater Software",
+        "Cloud_Service_Provider_Package": "OpenWater Awards",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2113346550",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "LI-SaaS",
+        "Original_Authorization_Date": "2021-11-30T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Commerce",
+        "Authorizing_Agency": "Department of Commerce",
+        "Authorizing_Subagency": "United States Patent and Trademark Office",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/OpenWater%20Logo.png",
+        "Independent_Assessor": "United States Patent and Trademark Office",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1209051525"
+        ],
+        "CSP_Website": "getopenwater.com",
+        "CSO_Description": "OpenWater is a Software as a Service platform used to collect applications of all types. Typical uses include awards nominations, fellowship applications, scholarships, prizes. Applications can consist of dozens to hundreds of fields, and there is a built in form builder. Applications can have complex logic around required fields, large file uploads, and streaming video based applications.\nOnce data is collected in OpenWater, customizable judging / scoring rubrics can be configured. Reviewers will be able to access the portal and only see submissions assigned to them. The platform supports simple review modes all the way up to auto-assignment of 1000s of applications across 100s of reviewers.",
+        "Announcement_Date": "2021-12-09T05:00:00.000Z",
+        "CSP_POC_Name": "Kunal Johar",
+        "CSP_POC_Email": "help@getopenwater.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+        "FedRAMP_In-Process_Date": "Y",
         "Leveraged_ATO_Letters": []
       }
     ],
