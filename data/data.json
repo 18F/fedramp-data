@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-06-16T20:56:16.919Z",
+    "Created_At": "2022-06-16T21:02:41.349Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -6223,6 +6223,247 @@
         "CSP_POC_Name": "Gail Johnson",
         "CSP_POC_Email": "aconex-for-defense_us_grp@oracle.com",
         "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+        "FedRAMP_In-Process_Date": "N",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "CFI Group",
+        "Cloud_Service_Provider_Package": "Customer Feedback Management System (CFMS)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1609087941",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-04-13T04:00:00.000Z",
+        "Original_Expiration_Date": "2025-03-30T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CFI%20Logo.png",
+        "Independent_Assessor": "Dakota Consulting, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "MSO365MT"
+        ],
+        "CSP_Website": "www.cfigroup.com",
+        "CSO_Description": "The CFMS solution provides the ability to collect survey data from citizens and/or federal employees. Survey programs analyze and statistically model the data using the patented methodology of the American Customer Satisfaction Index (ACSI) and then share the results back to our clients via a secure web portal. In addition, CFI Group provides in depth reports and presentations to further analyze and provide recommendations based on the information collected. CFMS is hosted on Amazon.",
+        "Announcement_Date": "2019-05-31T04:00:00.000Z",
+        "CSP_POC_Name": "Wendy Brant",
+        "CSP_POC_Email": "wbrant@cfigroup.com",
+        "FedRAMP_In-Process_Date": "2016-08-25T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "FireEye, Inc.",
+        "Cloud_Service_Provider_Package": "FireEye Email Security GovCloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1512017637",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2018-12-17T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of the Interior",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
+        "Authorizing_Agency": "National Science Foundation",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/FireEye%20Logo2.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "MSO365MT"
+        ],
+        "CSP_Website": "www.FireEye.com",
+        "CSO_Description": "Reduce the risk of a breach and keep your organization safe from the ever-growing threat of malicious email attacks. FireEye Email Security – GovCloud Edition stops email-borne threats with first-hand knowledge of attacks and attackers before they can cause any harm.\rWith the use of email specific threat intelligence gained from firsthand investigations and observations of adversaries, the solution identifies threats with minimal noise and false positives. This frees security teams to focus on investigating and responding to real attacks and allows them to use scarce resources efficiently.\rFireEye Email Security – GovCloud Edition enables organizations to consolidate their email security stack with a comprehensive, single-vendor solution that blocks not only malware and suspicious URLs, but also advanced threats, such as impersonation attacks and phishing, leaving attackers no chance to take advantage of email users.",
+        "Announcement_Date": "2017-07-05T04:00:00.000Z",
+        "CSP_POC_Name": "Matt Shelton",
+        "CSP_POC_Email": "FedRAMP@FireEye.com",
+        "FedRAMP_In-Process_Date": "2015-12-02T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Innovest Systems, LLC",
+        "Cloud_Service_Provider_Package": "Trust & Wealth Management Solutions",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1821933307",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-01-24T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of the Interior",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+        "Authorizing_Agency": "Department of the Interior",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Innovest%20Logo.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "MSO365MT"
+        ],
+        "CSP_Website": "http://www.innovestsystems.com/",
+        "CSO_Description": "A browser-based, highly secure, integrated, real-time trust accounting and wealth management platform offered in a multi-currency Software as a Service (SaaS) environment.",
+        "Announcement_Date": "2019-04-23T04:00:00.000Z",
+        "CSP_POC_Name": "Ryan Alexis",
+        "CSP_POC_Email": "fedramp@innovestsystems.com",
+        "FedRAMP_In-Process_Date": "2018-06-13T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Newyu, Inc.",
+        "Cloud_Service_Provider_Package": "LibreView for US Government",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2000174962",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-03-12T04:00:00.000Z",
+        "Original_Expiration_Date": "2023-03-12T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Newyu%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1603047866",
+          "MSO365MT",
+          "F1512167750"
+        ],
+        "CSP_Website": "www.libreviewgov.com",
+        "CSO_Description": "LibreView is intended for use by patients, caregivers and healthcare professionals to assist people with diabetes and their healthcare professionals in the review, analysis and evaluation of historical glucose meter data to support effective diabetes management. LibreView is developed, distributed, and supported by Newyu, Inc. (on behalf of Abbott, a major manufacturer of glucose monitoring devices). Trademarks are the property of their respective owners.",
+        "Announcement_Date": "2020-05-12T04:00:00.000Z",
+        "CSP_POC_Name": "Michael Helmick",
+        "CSP_POC_Email": "fedramp@newyu.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "FedRAMP_In-Process_Date": "N",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Software AG Government Solutions",
+        "Cloud_Service_Provider_Package": "Software AG Government Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2000945223",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-05-20T04:00:00.000Z",
+        "Original_Expiration_Date": "2023-05-20T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Education",
+        "Authorizing_Agency": "Department of Education",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/SoftwareAG%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "F1603087869",
+          "MSO365MT",
+          "F1512167750"
+        ],
+        "CSP_Website": "https://www.softwareaggov.com",
+        "CSO_Description": "Software AG is a PaaS provider of market leading Enterprise Architecture and IT Planning and Portfolio Management solutions, ALFABET and ARIS.\nWhile enabling the business of Federal agencies and ensuring security protection of agency and citizen information assets is top of mind for government IT leaders, the adoption of more rigorous IT Enterprise Architecture and IT Planning is helping agencies gain a better overall picture of their IT environments in order to make better decisions. ALFABET and ARIS enable agencies to more reliably analyze and answer business questions about the value to be received from IT and develop more accurate pictures of mission gains and risks during project delivery. With government agencies facing mandates today such as FITARA and TBM and new mandates in the future, the need for flexible visibility and transparency for not only IT spend but how IT is aligned to mission, has never been more critical.\n**Platform Implementation Details:**\n* Fast deployment into Azure Government Cloud P-ATO at FedRAMP Moderate\n* Central contact point for all issues including hosting, software deployment, and optionally end-user support. * Single Tenant deployments per customer providing peace of mind security while avoiding multi-tenant headaches and forced upgrade timelines\n* Shared Help Desk, Security, and Operations Staff to optimize cost and skillset management\n* Single-Sign On Capability leveraging approved SAML providers supporting PIV/CAC authentication\n* Environment provisioning and operations meeting NIST 800-53 Rev 4 FedRAMP Moderate.\n* All US Person staff\n**Platform Benefits:**\n* Faster time-to-value for the mission\n* Well-defined tenant boundary for streamlined agency ATO signoff\n* Simplified cost structure removing separate costs for hardware, software and hosting removing capital funding requirements\n* Reduced training and staffing requirements for software configuration and patch/upgrade cycles\n**Additional ALFABET Details** Assists organizations in IT planning, portfolio management, risk management and enterprise architecture.\nKey Solution Capabilities:\n1. Accelerated deployment for government agencies\n2. Support for TBM, FITARA, DODAF, and many other frameworks and standards, “out of the box”\n3. Manage and reduce costs by rationalizing the IT landscape\n4. Improve business and IT agility with a clear understanding of impacts and dependencies in your architecture\n5. Enhance decision-making, drive innovation and reduce time-to-market 6. Plot your transformation success with road mapping capabilities across multiple dimensions\n7. Create operational efficiencies by eliminating information silos\n8. Improve compliance and reduce risk through the definition and effective analysis of compliance information\n**Additional ARIS Details** Assists organizations in following the Architecture of Integrated Information Systems approach to enterprise modeling. Agencies can analyze, process and take a holistic approach to design, management, workflow, and application processing.\nKey Solution Capabilities:\n1. Business Modeling- Easily design your processes with a rich modeling environment supporting whatever notation or topic from BPMN 2.0 to customer journey mapping. 2. Business Analysis - Analyze your business from simple to complex. From easy search & queries, ad-hoc analysis, decision-making, reporting & macros\n3. Central Repository - Based on a central repository and administration make sure you are in full control of your operations\n4. Connected Operations - Design is tightly integrated with publishing and collaboration and integrated e.g. via interfaces to external tools like SAP\n5. Business Clarity - A state-of the-art look-and-feel makes it fun to view processes. Innovative ways to publish process content enable anyone to understand processes\n6. Process Improvement - By using social collaboration, you unlock the wisdom of the crowd for process improvement.\n7. Direct Access - Access dedicated & up-to-date information to analyze and evaluate content, contribute to process improvements, view and share best practices.",
+        "Announcement_Date": "2020-07-09T04:00:00.000Z",
+        "CSP_POC_Name": "Jeff Estes",
+        "CSP_POC_Email": "fedramp@softwareaggov.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+        "FedRAMP_In-Process_Date": "N",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Everlaw, Inc.",
+        "Cloud_Service_Provider_Package": "Everlaw Platform",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1916055736",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-01-15T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Justice",
+        "Authorizing_Agency": "Department of Justice",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Everlaw%20Logo2.png",
+        "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "MSO365MT"
+        ],
+        "CSP_Website": "https://www.everlaw.com/federal/",
+        "CSO_Description": "Everlaw is a collaborative, cloud-based litigation platform for corporate counsels, litigators and government attorneys that enables teams to discover, reveal, and act on information to better drive internal investigations and positively impact the outcome of litigation, congressional hearings, internal and regulatory investigations.\nUnlike slow, unwieldy, client-server software and expensive third-party service providers, only Everlaw combines speed, security, and ease-of-use into a unified, comprehensive solution that unlocks the collaborative power of teams and enables them to investigate issues more thoroughly, uncover truth more quickly, and present their findings more clearly. The Everlaw platform provides three primary capabilities, enabling federal agencies to: * Discover: Discover meaningful information by streamlining every step of the ediscovery process, from data upload and processing all the way through to search, review, and production.\n* Reveal: Leverage powerful analytics, machine learning, and interactive visualizations to accelerate review and identify the most valuable information.\n* Act: Collaborate to craft narratives, organize arguments logically, and manage the end-to-end process of investigations or litigation with a secure, integrated suite of post-review tools.\nKey product features include: Data ingestion: Everlaw accelerates the document review process by enabling reviewers to upload their own documents, plugging in seamlessly with third-party cloud hosting platforms, and ingesting documents quickly. Document Search: Everlaw's instantaneous search results occur with even the most complex search strings. The ability to visually build searches allows both novice and power users to narrow their searches without concern of the elusive missing parenthesis. Document Review: Providing exceptionally fast 'doc-to-doc' review speeds and shortcuts like coding presets, users are able to complete their review significantly more quickly on Everlaw. Productions: Cloud-based production environment that can generate, modify and share legal document productions at any time. Advanced analytics: Automatically translates, transcribes and converts hidden data, bringing to the surface the information that often remains hidden during document review. Predictive coding: Enables reviewers to use their standard workflow--assigning ratings, codes, and attributes to reviewed documents--in order to teach the system how to find more relevant documents on their behalf. Data visualization: Interactive visualizations from any set of documents that provide key insights into document dates, metadata, contents, formats, review activity, and predicted relevance. Secure collaboration: Sharing and communication between opposing counsel, investigative teams, and subject matter experts directly in the platform to promote secure, seamless collaboration. Narrative building: Story-building to collaboratively align investigative teams, improve workflow, reduce risk, and save time by organizing key documents into a compelling narrative. Depositions: Integrated deposition tracking tools enable significant cost reductions and time savings by eliminating the need to print out physical copies of all exhibits, pass handwritten notes, and later transfer key information into an online repository.",
+        "Announcement_Date": "2020-07-17T04:00:00.000Z",
+        "CSP_POC_Name": "Everlaw FedRAMP Compliance Team",
+        "CSP_POC_Email": "federal@everlaw.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+        "FedRAMP_In-Process_Date": "Y",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "TalaTek, LLC",
+        "Cloud_Service_Provider_Package": "TalaTek intelligent Governance and Risk Integrated Solution (TiGRIS)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1913835324",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-09-29T04:00:00.000Z",
+        "Sponsoring_Agency": "Pension Benefit Guaranty Corporation",
+        "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/TalaTek%20Logo2.png",
+        "Independent_Assessor": "Earthling Security, LLC",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "MSO365MT",
+          "F1512167750"
+        ],
+        "CSP_Website": "www.talatek.com",
+        "CSO_Description": "The TalaTek intelligent Governance and Risk Integrated Solution (TiGRIS) Software-as-a-Service (Saas) manages a customer’s Governance, Risk and Compliance (GRC) needs for an information system or network throughout its entire lifecycle. From inception, through assessment and continuous monitoring, to decommissioning, the TiGRIS application has been developed, in house, by TalaTek’s team of security professionals, to provide a user-friendly, powerful tool for GRC management.",
+        "Announcement_Date": "2019-11-01T04:00:00.000Z",
+        "CSP_POC_Name": "Baan Alsinawi",
+        "CSP_POC_Email": "info@talatek.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
+        "FedRAMP_In-Process_Date": "Y",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "eGain Corporation",
+        "Cloud_Service_Provider_Package": "eGain Suite",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2023601671",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-06-03T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of the Treasury",
+        "Authorizing_Agency": "Department of the Treasury",
+        "Authorizing_Subagency": "Internal Revenue Service",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/eGain%20Logo.png",
+        "Independent_Assessor": "The Cadence Group",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "F1603087869",
+          "MSO365MT"
+        ],
+        "CSP_Website": "https://www.egain.com",
+        "CSO_Description": "[eGain©](https://www.egain.com) is a leading provider of digital-first, omnichannel customer engagement solutions. **eGain Customer Engagement Suite™** is a set of customer engagement, AI and knowledge management, and analytics software built on the open eGain Customer Engagement Hub Platform™ that unifies knowledge, AI, analytics, and conversations to ensure that no channel is left in a silo. Our award-winning platform helps clients automate and optimize customer journeys via virtual assistance, messaging, social, mobile, web, and contact centers. The eGain Suite includes the following applications: **eGain Chat™** enables businesses to offer real-time chat assistance to website visitors. Agents can exchange text messages, files, web pages, and knowledge base articles with visitors to answer their queries, proactively as well as reactively. It includes text chat, proactive chat, video chat, and click-to-call interaction as well as the ability to chat via messaging channels. **eGain Cobrowse™** is based on true co-browsing technology (not just screen-sharing) that enables agents to provide high-value, collaborative, real-time service. Agent can share and co-navigate HTML and JavaScript content via web browser with a customer, supported by granular read and write controls per web page or website section. No IT support is required for maintaining these controls. The experience includes independent shared pointers, content highlighting, and assisted, secure form-filling. All co-browsing activity is logged for audit and compliance. **eGain CallTrack™** is a dynamic case management solution that helps companies provide quick, high-quality, and cost-efficient resolution of customer issues with comprehensive call taking, logging, and tracking capability, including call controls and a screen pop with call variables. It includes soft phone capabilities. **eGain Mail+Social™** helps businesses handle large volumes of email, webform, and social inquiries quickly and effectively with automated routing, flexible workflows, powerful productivity tools leveraging AI and Knowledge, quality management, and reporting, including Twitter, YouTube, Facebook, and Instagram monitoring and response management. Letter and fax interactions are also handled in the product, delivering PDF-based output and integration via available APIs with third-party OCR tools for input. **eGain Secure Messaging™** is a secure email messaging system that authenticates the customer before allowing the viewing of confidential information. **eGain Knowledge+AI™** is AI-powered knowledge management software that guarantees quality customer service by infusing customer service agents with knowledge, making all agents as productive as the best agents. By providing agents and other users a range of ways to get to answers from the common knowledge base, it ensures fast, consistent, and accurate responses. **eGain SelfService+AI™** enables organizations to provide distinctive, productive, and brand-aligned self-service experiences that enable breakthrough improvements in customer self-service effectiveness and adoption, while allowing seamless, context-aware escalations to live customer service or sales agents. A key capability is AI-powered process guidance.\n**eGain Virtual Assistant™** is a lifelike, conversational virtual agent providing a unique, interactive, and personal way for users to get answers and assistance on an organization’s website, 24 hours a day, 7 days a week. A user simply chats with the virtual assistant (also called virtual agent or chatbot), like they would with any human agent. The chatbot not only understands the words but also the intent, thanks to a portfolio of AI technologies, including machine learning and reasoning. It acts like a guide, helping customers navigate the website and taking them to the relevant place. The chatbot also provides answers to any queries, even helping in shopping decisions. At any point, it can seamlessly escalate to agent-assisted channels when necessary. The eGain Virtual Assistant provides the frontline support so customer service staff can concentrate on more complex tasks. **eGain Notify™**, powered by eGain Messaging Hub™, enables businesses to effortlessly deliver intelligent, personalized outbound notifications. A large credit union sends proactive messages to 8 million customers through eGain, based on 360-degree context of the customer across the contact center, digital channels, and branch offices. Businesses can automate customer conversations over messaging channels with eGain Virtual Assistant™, with full context. It further enables step-up escalation to human-assisted chat and step-down transition back to the virtual assistant. **eGain Offers™** helps businesses engage visitors on their company website and Facebook fan pages with proactive, targeted offers. Using browsing behavior and other attributes, the solution anticipates visitor need and proactively serves a targeted offer. **eGain Contact Center Analytics™** offers connected analytics to measure, manage, and orchestrate omnichannel customer engagement. Editions are available for Cisco, Avaya, and Amazon Connect contact center software. **eGain Advisor Desktop™** is a digital-first, omnichannel desktop for contact center agents. It is a bundle of the following eGain products: eGain Chat, eGain Cobrowse, eGain CallTrack, eGain Mail+Social, and eGain Knowledge+AI.",
+        "Announcement_Date": "2021-12-15T05:00:00.000Z",
+        "CSP_POC_Name": "Michael Donham",
+        "CSP_POC_Email": "fedramp@egain.com",
+        "Fedramp_Ready_Date": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
         "FedRAMP_In-Process_Date": "N",
         "Leveraged_ATO_Letters": []
       }
