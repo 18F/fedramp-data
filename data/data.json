@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-06-22T20:21:59.152Z",
+    "Created_At": "2022-06-22T20:34:50.742Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -12554,6 +12554,19 @@
         "Authorizing_Agency": "Federal Trade Commission",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Sumo%20Logic%20Logo.png",
         "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "FR1807853629",
+          "FR1823149273",
+          "FR1812058188",
+          "F1206081364",
+          "FR1912662229",
+          "F1512167750",
+          "F1508207205",
+          "FR1823447014",
+          "FR1821856903",
+          "FR1719759604"
+        ],
         "CSP_Website": "https://www.sumologic.com/public-sector/",
         "CSO_Description": "Sumo Logic is the Cloud-Native SaaS log analytics Platform enabling application reliability; securing and protecting against modern threats, gaining insights into cloud infrastructures, and comprehensive visibility across your threatscape. Sumo Logic provides the following solutions within the FedRAMP-Moderate product offering:\r* **Cloud Security Monitoring & Analytics -** Sumo Logic supports the entire spectrum of security use cases—from centrally logging compliance data, to monitoring and securing hybrid clouds, to delivering market-leading Security Incident & Event Management (SIEM) capabilities.\r* **Application Modernization and Observability -** Reduce downtime by finding, investigating, and resolving customer-impacting issues faster with real-time alerting and dashboards for all data - logs, metrics, and traces.\r* **Infrastructure Monitoring -** On-call teams can reduce mean-time-to-resolution (MTTR) by simplifying the work required to validate issues, identify suspects, and quickly remediate. Reduce downtime and solve customer-impacting issues faster with an integrated observability platform for all application data.\r* **Compliance Monitoring -** Security and configuration analytics provide the data monitoring, dashboards, analyses, and reporting capabilities necessary to achieve rapid, cost-effective continuous compliance readiness for many industry leading cybersecurity frameworks and programs - NIST 800-53, FISMA, FedRAMP, PCI, SOC2, ISO, HIPAA and more.\r* **Multi-cloud support -** Unify and monitor logs, metrics, and traces from multi-cloud or hybrid cloud environments. Sumo Logic enables real-time visibility into AWS, Azure, and GCP cloud applications and infrastructure. Moreover, 150 apps and native integrations give out-of-the-box visibility into the technologies that power your applications.\r* **Service Maps -** The Sumo Logic service visualizes all service dependencies to give you insights into end-to-end execution of your mission critical transactions with open standard compatible distributed tracing data. Application and service dashboards break down latency, load, and errors to identify services contributing to application slowdowns\r* **Advanced Alert Analytics -** Advanced analytics are applied across a unified repository of telemetry data to surface noteworthy insights that guide on-call teams to the root cause.",
         "Announcement_Date": "2021-01-29T05:00:00.000Z",
@@ -12597,6 +12610,13 @@
         "Authorizing_Agency": "Department of Health and Human Services",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Cofense%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "FR1912658130",
+          "F1512167750",
+          "FR1823447014",
+          "FR1821856903"
+        ],
         "CSP_Website": "https://cofense.com/federal-government",
         "CSO_Description": "**Overview**\nCofense PhishMe™ is a cloud-based software solution that enables organizations to improve employee resiliency to phishing attacks by providing a turnkey platform for running simulated real-life phishing scenarios.\nCofense PhishMe has the largest installed base of Federal government users of any solution in the simulation and awareness training category. More than 2000 of world’s largest organizations in both public and private sector rely on Cofense PhishMe to condition employees to recognize and report phishing attacks.\nOnce certified, Cofense PhishMe will achieve FedRAMP Moderate Authorization, an important milestone meeting the security baselines for more than 300 controls. According to FedRAMP, Moderate Impact Authorization “is most appropriate for CSOs where the loss of confidentiality, integrity, and availability would result in serious adverse effects on an agency’s operations, assets, or individuals […] including significant operational damage to agency assets, financial loss, or individual harm that is not loss of life or physical.” For comparison, solutions achieving FedRAMP Low Authorization are only required to address 125 controls, while organizations obtaining the FedRAMP LI-SaaS Authorization are responsible for just 38 controls.\n**More about Cofense PhishMe**\nThe system enables trained awareness and compliance personnel to run simulated attacks using email templates that look like actual phishing attacks and includes on-the-spot educational content that displays when recipients click on one of the simulated phishing emails.\nFor example, a scenario email might alert recipients that their banking credentials were compromised and ask the recipients to click a link in the email to reset their password. If a recipient does click the link, Cofense PhishMe displays educational content to help that individual recognize the characteristics of a phishing email. Through these safe examples, PhishMe customers can help their employees develop an awareness of the risks that actual phishing emails pose and reduce their susceptibility of engaging with such emails in the future.\nTo maximize the effectiveness of simulation campaigns and reduce the burden on awareness teams, Cofense PhishMe provides a combination of unique capabilities:\n* PhishMe content is based on real phishing attacks gleaned from real threat intelligence. That means that the scenarios you run are as realistic as possible, ensuring your organization is conditioned to the latest threats.\n* Responsive Delivery: Cofense PhishMe allows simulation operators to deliver phishing simulations while the user is active in their inbox, which drives higher scenario engagement. * Playbooks: Cofense PhishMe includes predefined Playbooks, with scenario recommendations based on user behavior and best practices.\nCofense PhishMe helps organizations transform their employees into the last line of active defense against phishing attacks—the leading cause of data breaches—through education, ongoing simulations, and an easy to use reporting tool so organizations can swiftly detect, respond to and thwart phishing attacks in their tracks.",
         "Announcement_Date": "2021-02-12T05:00:00.000Z",
@@ -12669,6 +12689,10 @@
         "Authorizing_Subagency": "Office of Justice Programs",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/PEGA%20Logo.png",
         "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "F1512167750"
+        ],
         "CSP_Website": "www.pega.com",
         "CSO_Description": "Pegasystems develops strategic applications for sales, marketing, service and operations. Pega’s applications streamline critical business operations, connect organizations to their customers seamlessly in real time across channels, and adapt to meet rapidly changing requirements. Pega’s Global 2000 customers include many of world’s most sophisticated and successful organizations and government agencies. Pega’s applications are built on the industry leading Pega 7 unified platform and made available via Pega Cloud. Pega Cloud provides customers and government agencies the ability to create, deliver and run Pega 7 applications on the cloud with operational excellence, enterprise-grade infrastructure and continuous lifecycle support.",
         "Announcement_Date": "2019-03-15T04:00:00.000Z",
@@ -12715,6 +12739,9 @@
         "Authorizing_Subagency": "Food and Drug Administration",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Ideascale%20Logo.png",
         "Independent_Assessor": "The Cadence Group",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
         "CSP_Website": "www.ideascale.com",
         "CSO_Description": "IdeaScale is an innovation management SaaS provider that uses crowdsourcing to help organizations find and develop the next big thing, whether it's new policies and services or new cost-savings and employee engagement measures, IdeaScale allows organizations to solicit input from personnel and other stakeholders and collaboratively transform that input into actionable project plans.\nThe IdeaScale Gov offering provides these innovation management and crowdsourcing capabilities in a secure environment for federal agency use and benefit, allowing agencies to make the most of the collective knowledge of their numbers.",
         "Announcement_Date": "2017-10-19T04:00:00.000Z",
@@ -12770,6 +12797,9 @@
         "Authorizing_Agency": "Department of Veterans Affairs",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MediaLab%20Logo.png",
         "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Underlying_CSP_Package_ID": [
+          "F1209051525"
+        ],
         "CSP_Website": "https://federal.medialab.com",
         "CSO_Description": "MediaLab provides an integrated web-based SaaS platform for healthcare quality management. MediaLab's offering address many different areas of compliance within healthcare facilities, including continuing education and training, document management of policies and procedures, inspection readiness and accreditation management, competency assessment, management of personnel files and certifications, and management of non-conforming events, instrument maintenance, and quality monitoring data. Role-based permissions allow key users to access and update data across all applications to meet any healthcare facility's unique needs.",
         "Announcement_Date": "2021-03-15T04:00:00.000Z",
@@ -12806,6 +12836,10 @@
         "Authorizing_Agency": "Department of Veterans Affairs",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/WordPress%20Logo.png",
         "Independent_Assessor": "MindPoint Group, LLC",
+        "Underlying_CSP_Package_ID": [
+          "FR1812058188",
+          "F1607057910"
+        ],
         "CSP_Website": "https://wpvip.com/",
         "CSO_Description": "WordPress VIP provides a secure, compliant WordPress platform for easy web content management for government entities. With industry-leading security protocols, expert support, flexible architectures, plus 99.99% SLA, hourly backups, and reliable uptime, WordPress VIP takes the heavy lifting out of digitizing citizen services and modernizing legacy infrastructure. Why choose WordPress VIP? For one thing, WordPress VIP’s open source software provides automatic updates and versioning which ease the burden of ongoing security and maintenance and can lower total cost of ownership. In fact, security is WordPress VIP’s chief priority. Our data security best practices include end-to-end encryption from edge to origin, resource and data isolation, and encrypted offsite backups. We address physical security through an independently owned and operated network of industry-certified global data centers. Every origin server meets the International Organization of Standardization (ISO), International Electrotechnical Commission (IEC) 27001 certification, Standards for Attestation Engagements (SSAE) No. 18 (SOC1) and SOC2 Type 2, and includes ongoing surveillance reviews. At the application level, every instance is protected with Single Sign-On, SSL/HTTPS/HSTS, required 2FA, and logging and auditing at the application, web server, load balancing, database, and operating system layers. While our stringent security protocols protect sensitive information, our intuitive and easy-to-use content management workflows make it easy to provide citizens with up-to-date, accessible, and accurate information. Even those with little technical knowledge can successfully navigate WordPress VIP’s editing interface with minimal training.",
         "Announcement_Date": "2021-03-29T04:00:00.000Z",
@@ -12832,6 +12866,13 @@
         "Authorizing_Subagency": "Customs and Border Protection",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Silo%20Logo.png",
         "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "FR1823149273",
+          "F1206081364",
+          "FR1805751477",
+          "F1512167750"
+        ],
         "CSP_Website": "https://www.authentic8.com",
         "CSO_Description": "Silo is a remote browser that embeds security, identity and data policies directly into the browser. Available from anywhere, policies follow users regardless of environment. By shifting exposure away from the user's network and devices, Silo reduces risk and improves internal processes. With a configurable, centrally managed browser, users unlock the power of SaaS.\nAuthentic8 is redefining how enterprises conduct business on the web with the Silo web isolation platform. Silo insulates and isolates all web data and code execution from user endpoints, providing powerful, proactive security while giving users full, interactive access to the web. Silo also gives IT complete control over how the web is used. Commercial enterprises and public sector organizations use Silo solutions to provide secure web access; to control web data, apps, and workflows; and to conduct sensitive online research.",
         "Announcement_Date": "2021-03-29T04:00:00.000Z",
@@ -12864,6 +12905,11 @@
         "Authorizing_Agency": "National Science Foundation",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Coleridge%20Logo.png",
         "Independent_Assessor": "Lunarline, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1511167634",
+          "F1603047866,FR2029331613",
+          "F1512167750"
+        ],
         "CSP_Website": "https://coleridgeinitiative.org",
         "CSO_Description": "The ADRF system is designed to promote access to and use of government administrative records across agency lines. It provides access to collaborative tools and rich documentation so that knowledge and analysis can be shared and reused. It hosts confidential data for a range of agencies at the federal, state and local levels, and serves multiple domains – including criminal justice, welfare, labor, education, health, housing and transportation.",
         "Announcement_Date": "2018-09-12T04:00:00.000Z",
@@ -12898,6 +12944,13 @@
         "Authorizing_Agency": "Department of Energy",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/AvePoint%20Logo.png",
         "Independent_Assessor": "Lunarline, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1206081364",
+          "MSO365MT",
+          "F1403283529",
+          "AGENCYSF",
+          "FR2003061248"
+        ],
         "CSP_Website": "www.avepoint.com",
         "CSO_Description": "Microsoft Office 365 gives users flexibility to create and share information from anywhere, at any time, and on any device. While this promotes collaboration and rapid adoption, a lack of information architecture can lead to operational inefficiencies and increased risks in data security and privacy. Organizations must find ways to reduce time spent searching for enterprise-wide content, mitigate incorrect or unauthorized changes in permissions, and closely monitor the sharing of sensitive content. AvePoint Online Services for US Government is the industry’s first and only 100 percent Microsoft Azure-based Software-as-a-Service (SaaS) platform for Office 365. Requiring no installation or agents, AvePoint Online Services for US Government provides centralized management, governance, backup, reporting and ECM/records management for your Office 365 environment.",
         "Announcement_Date": "2021-03-31T04:00:00.000Z",
@@ -12922,6 +12975,10 @@
         "Authorizing_Agency": "JAB Authorization",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/SAP%20NS2%20Logo1.png",
         "Independent_Assessor": "Fortreum, LLC",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "F1206061353"
+        ],
         "CSP_Website": "https://www.sapns2.com/cloud/",
         "CSO_Description": "Explore solutions for the **SAP NS2 Cloud Intelligent Enterprise** – including a suite of intelligent applications and experience management tools. Our intelligent suite includes applications for managing the operational transactions, HR and people management, analytics, and other innovative capabilities. The applications are integration-ready, include embedded intelligence, and offer a consistent and intuitive user interface. The latest addition is our Platform as a Service (PaaS), Business Technology Platform (STP), which is the development foundation.\n**SuccessFactors** is an enterprise HR and People management Software as a Service (SaaS) solution. SuccessFactors delivers business results by driving business alignment, optimizing people performance, and building a competitive advantage through people. The solution provides a comprehensive suite of applications that improve executive insight and decision-making while ensuring the right people with the right skills are doing the right work. SuccessFactors includes: Learning, Performance & Goals, Succession & Development, Compensation, Recruiting, Onboarding, Workforce Planning, Workforce Analytics & Reporting, and Employee Central.\n**Employee Central Payroll** is a secure, industry-based payroll engine that is seamlessly integrated to the core HR system. In addition, SAP NS2 offers customers enhanced availability, compliance, and customer support to deliver a mission-critical edge. Benefits include: Enhanced Disaster Recovery/High Availability U.S. Federal and Critical Infrastructure compliance; and NS2 US Person Operation & Support.\n**SAP Analytics Cloud (SAC)** is a business intelligence platform SaaS solution. SAC connects people, information, and ideas to enable fast and confident decision making. With SAP Analytics Cloud machine learning technology and embedded artificial intelligence you can discover, analyze, plan, and predict in one experience across all devices. In addition, SAC allows you to make end-to-end decisions with data management and analytics together in one place. SAC will scale to meet the needs of your organization and diverse users across all decision types (strategic, operational, and tactical).\nBusiness Technology Platform replaces the previous solution name SAP Cloud Platform. **Business Technology Platform (BTP)** is a PaaS solution which acts as the foundation for the SAP NS2 Cloud Intelligent Enterprise. BTP helps you achieve agility, business value, and continual innovation through integration, data to value, and extensibility to your SAP NS2 landscape. Implement your organization goals with the flexibility to build, manage, and deploy new applications. It also allows you to connect data and business processes on one integrated platform. BTP is the secure core that integrates and extends the SAP NS2 Cloud.",
         "Announcement_Date": "2017-11-13T05:00:00.000Z",
@@ -13150,6 +13207,10 @@
         "Authorizing_Agency": "JAB Authorization",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Medallia%20Logo2.png",
         "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "F1206061353"
+        ],
         "CSP_Website": "www.medallia.com",
         "CSO_Description": "The **Medallia Experience Cloud (MEC)™**, leads the market in the understanding and management of experience for agencies, public sector employees, and citizens. Medallia® captures experience signals created on daily journeys in-person, traditional surveys, on calls, digital channels, over video and social media, and IoT interactions. Once net new data is captured or by leveraging legacy data previously collected by customers, Medallia applies proprietary AI technology on data that is structured and unstructured (text and comments) to reveal personalized and predictive insights that can drive action towards positive business / organizational results and outcomes. Using the Medallia Experience Cloud, government agencies can reduce employee churn, increase citizen and employee Trust and Equity, achieve in-the-moment service recovery, and drive data-driven business decisions while providing clear and potent returns on investment.\nThe Medallia Experience Cloud can support agency mission, focus, and objectives by:\n1. **Engaging Citizens and Employees Intuitively** in a secure, meaningful, continuous way to increase feedback response rate and help the agency better understand their sentiment, value, and behavior.\n2. **Empowering the Agency and Activating every Employee** by driving feedback and actionable insights to every agency employee.\n3. **Taking Action in Real-Time** with analysis and alerts that identify focus areas and help resolve issues quickly.\n4. **Optimizing Government Experience** by empowering agencies to align with mandates related to A-11, Trust, and Equity\n5. **Removing Silos** by tracking customer journeys that span across engagement channels including email, mobile, websites, chat, phone, video, and contact centers\n6. **Maintaining Trust and Security** with a platform that is FEDRAMP High certified with the JAB as well as HIPAA compliant allowing us to engage with sensitive PII.\n7. **Integrating at scale** by leveraging connectors for platforms such as Salesforce and ServiceNow and supported by a robust suite of Restful API\nThe following Medallia capabilities are currently Fedramp authorized and approved by the JAB at a High level:\nMedallia Experience Cloud, Crowdicity, Conversations, Medallia Speech, Medallia Digital Web, Medallia Digital Mobile SDK, Ask Now, Sampling Rules, LookupTables, Weighting, Goals, Alerts, Rapid Response, Case management, Medallia Alchemy Reporting, AdminSuite, Programs, Notification Center, Athena Text Analytics, Athena Action Intelligence, Multiple Translations, Sandboxes, Changesets, Packages, RESTful inbound and outbound API, bi-directional file transfer, Customer Owned SFTP and S3 connections, Social media Collection, Masking, Encryption, SSO, Mobile API",
         "Announcement_Date": "2021-04-09T04:00:00.000Z",
@@ -13222,6 +13283,12 @@
         "Authorizing_Agency": "United States Securities and Exchange Commission",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Casepoint%20Logo.png",
         "Independent_Assessor": "Schellman Compliance, LLC",
+        "Underlying_CSP_Package_ID": [
+          "FR1823149273",
+          "F1206081364",
+          "F1209051525",
+          "F1512167750"
+        ],
         "CSP_Website": "gov.casepoint.com",
         "CSO_Description": "Casepoint empowers government agencies, legal departments, and law firms by providing smarter eDiscovery technology. Casepoint's eDiscovery suite is based on 12 years of innovation in the industry built in a scalable, secure, and customizable environment. Casepoint Government features cloud collections, data processing, advanced analytics, artificial intelligence, review, and productions – all in an easy-to-use web interface. Casepoint customers benefit from the ability to support sophisticated workflows across millions of documents and hundreds of users, with reporting and data management tools built-in. Simple, elegant, and intuitive, Casepoint represents the next generation of litigation technology that will empower your legal, investigation, examination, compliance, and FOIA teams.",
         "Announcement_Date": "2020-05-19T04:00:00.000Z",
@@ -13291,6 +13358,9 @@
         "Authorizing_Agency": "JAB Authorization",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CGI%20Logo.png",
         "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
         "CSP_Website": "https://www.cgi.com/en/solutions/momentum-federal-erp",
         "CSO_Description": "CGI’s Momentum® is a market-leading, full-featured, flexible web-based system built to support the full federal financial, budget, asset and procurement management lifecycles. Designed specifically for federal business operations, CGI’s Momentum® Enterprise Solution helps federal IT leaders fulfill federal mandates, in an agile and cost-effective way. With zero expensive customizations or software extensions, Momentum is a transparent, accountable and proven solution that comes out-of-the-box ready to strengthen your agency’s ability to maximize taxpayer dollars and bolster its diverse business processes.",
         "Announcement_Date": "2021-04-26T04:00:00.000Z",
