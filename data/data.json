@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-06-22T20:52:34.983Z",
+    "Created_At": "2022-06-23T04:40:51.503Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -9955,7 +9955,7 @@
           "F1512167750"
         ],
         "CSP_Website": "https://www.softwareaggov.com",
-        "CSO_Description": "Software AG is a PaaS provider of market leading Enterprise Architecture and IT Planning and Portfolio Management solutions, ALFABET and ARIS.\nWhile enabling the business of Federal agencies and ensuring security protection of agency and citizen information assets is top of mind for government IT leaders, the adoption of more rigorous IT Enterprise Architecture and IT Planning is helping agencies gain a better overall picture of their IT environments in order to make better decisions. ALFABET and ARIS enable agencies to more reliably analyze and answer business questions about the value to be received from IT and develop more accurate pictures of mission gains and risks during project delivery. With government agencies facing mandates today such as FITARA and TBM and new mandates in the future, the need for flexible visibility and transparency for not only IT spend but how IT is aligned to mission, has never been more critical.\n**Platform Implementation Details:**\n* Fast deployment into Azure Government Cloud P-ATO at FedRAMP Moderate\n* Central contact point for all issues including hosting, software deployment, and optionally end-user support. * Single Tenant deployments per customer providing peace of mind security while avoiding multi-tenant headaches and forced upgrade timelines\n* Shared Help Desk, Security, and Operations Staff to optimize cost and skillset management\n* Single-Sign On Capability leveraging approved SAML providers supporting PIV/CAC authentication\n* Environment provisioning and operations meeting NIST 800-53 Rev 4 FedRAMP Moderate.\n* All US Person staff\n**Platform Benefits:**\n* Faster time-to-value for the mission\n* Well-defined tenant boundary for streamlined agency ATO signoff\n* Simplified cost structure removing separate costs for hardware, software and hosting removing capital funding requirements\n* Reduced training and staffing requirements for software configuration and patch/upgrade cycles\n**Additional ALFABET Details** Assists organizations in IT planning, portfolio management, risk management and enterprise architecture.\nKey Solution Capabilities:\n1. Accelerated deployment for government agencies\n2. Support for TBM, FITARA, DODAF, and many other frameworks and standards, “out of the box”\n3. Manage and reduce costs by rationalizing the IT landscape\n4. Improve business and IT agility with a clear understanding of impacts and dependencies in your architecture\n5. Enhance decision-making, drive innovation and reduce time-to-market 6. Plot your transformation success with road mapping capabilities across multiple dimensions\n7. Create operational efficiencies by eliminating information silos\n8. Improve compliance and reduce risk through the definition and effective analysis of compliance information\n**Additional ARIS Details** Assists organizations in following the Architecture of Integrated Information Systems approach to enterprise modeling. Agencies can analyze, process and take a holistic approach to design, management, workflow, and application processing.\nKey Solution Capabilities:\n1. Business Modeling- Easily design your processes with a rich modeling environment supporting whatever notation or topic from BPMN 2.0 to customer journey mapping. 2. Business Analysis - Analyze your business from simple to complex. From easy search & queries, ad-hoc analysis, decision-making, reporting & macros\n3. Central Repository - Based on a central repository and administration make sure you are in full control of your operations\n4. Connected Operations - Design is tightly integrated with publishing and collaboration and integrated e.g. via interfaces to external tools like SAP\n5. Business Clarity - A state-of the-art look-and-feel makes it fun to view processes. Innovative ways to publish process content enable anyone to understand processes\n6. Process Improvement - By using social collaboration, you unlock the wisdom of the crowd for process improvement.\n7. Direct Access - Access dedicated & up-to-date information to analyze and evaluate content, contribute to process improvements, view and share best practices.",
+        "CSO_Description": "Software AG Government Cloud is a PaaS provider for Software AG’s family of products including: \n\n* Capable API Management and Integration Platform, WebMethods, including API Gateway, Developer Portal, and MFT (Managed File Transfer). \n* Enterprise Architecture and IT Planning and Portfolio Management solutions, ALFABET and ARIS.  \n\n**Platform Implementation Details:** \n\n* Fast deployment into our Government Cloud at FedRAMP Moderate \n* Central contact point for all issues including hosting, software deployment, and optionally end-user support. Single Tenant deployments per customer providing peace of mind security while avoiding multi-tenant headaches and forced upgrade timelines \n* Shared Help Desk, Security, and Operations Staff to optimize cost and skillset management \n* Single-Sign On Capability leveraging approved SAML providers supporting PIV/CAC authentication \n* Environment provisioning and operations meeting NIST 800-53 Rev 4 FedRAMP Moderate. \n* Advanced logging and metrics \n* Container based implementations utilizing modern Kubernetes Clusters, and zero trust networking. \n* All US Person staff  \n\n**Platform Benefits:** \n\n* Faster time-to-value for the mission \n* Well-defined tenant boundary for streamlined agency ATO signoff \n* Simplified cost structure removing separate costs for hardware, software and hosting removing capital funding requirements \n* Reduced training and staffing requirements for software configuration and patch/upgrade cycles \n* Pre-configured government tailored templates and accelerators  \n* Support for TBM, FITARA, DODAF, and many other frameworks and standards, “out of the box” \n* “White Glove” consulting service included with all implementations  ",
         "Announcement_Date": "2020-07-09T04:00:00.000Z",
         "CSP_POC_Name": "Jeff Estes",
         "CSP_POC_Email": "fedramp@softwareaggov.com",
@@ -13387,6 +13387,9 @@
         "Authorizing_Agency": "JAB Authorization",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/EconSys%20Logo.png",
         "Independent_Assessor": "Lunarline, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
         "CSP_Website": "www.Fedhrnavigator.com",
         "CSO_Description": "FedHR Navigator provides U.S. Federal agencies with human resources (HR) tools and utilities that are tailored to the needs and requirements of the U.S. Federal government. FedHR Navigator is available to agency customers as a subscription and allows for agencies to choose what parts of the application to purchase. The application allows users to create forms and cases and route them through the agency's business process. The application also features specialized tools to support Federal HR including our retirement benefits calculator, PD+, our position management repository, and supports integrations with Federal government systems. FedHR Navigator supports talent acquisition, position management and classification, performance management, awards, personnel actions, benefits, retirement, separation, employee and labor relations, and workforce planning.",
         "Announcement_Date": "2014-05-01T04:00:00.000Z",
@@ -13502,6 +13505,12 @@
         "Authorizing_Subagency": "National Institutes of Health",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Terra%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "FR1814240140",
+          "FR1805751477",
+          "F1206081364",
+          "FR1918740338"
+        ],
         "CSP_Website": "app.terra.bio",
         "CSO_Description": "Terra is a public, cloud-based platform that provides biomedical researchers with a flexible environment for doing secure and scalable analysis. Terra users can upload their data to the cloud or access datasets sponsored by partner organizations that are hosted through convenient data exploration interfaces. Users can prepare and process data with or without coding expertise, leveraging Terra’s repository of best-practice, ready-to-use bioinformatics workflows. Once data is processed, results can be explored in real-time with Terra’s in-app integration of interactive analysis tools such as JupyterLab and Jupyter Notebooks. Collaborating with other users is easy with Terra’s built-in capabilities for sharing work selectively, protecting data from unwanted re-distribution.",
         "Announcement_Date": "2021-05-07T04:00:00.000Z",
@@ -13529,6 +13538,12 @@
         "Authorizing_Subagency": "Executive Office for United States Attorneys",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/NetDocuments%20Logo.png",
         "Independent_Assessor": "The Cadence Group",
+        "Underlying_CSP_Package_ID": [
+          "F1206061353",
+          "FR1823149273",
+          "F1603087869",
+          "F1607197917"
+        ],
         "CSP_Website": "https://www.netdocuments.com/solutions/industries/government?utm_medium=referral&utm_source=fedramp&utm_campaign=directorylisting",
         "CSO_Description": "Storing, managing, and protecting millions of documents that are created and shared by thousands of people is never easy. All too often, they become a chaotic, obtrusive, and risky burden on your organization. NetDocuments changes the equation, with a content platform that removes the barriers and transforms all your documents into an unstoppable engine for collaboration, productivity, growth, and inspired work—without limitations or restrictions. With NetDocuments, millions of scattered documents become one source of unified insights. Your content management processes and workflows make the leap from intuitive to invisible. The full power of your collective knowledge and past work becomes available wherever your people need it. And every document gets the industry’s best protection against any type of threat—from careless employees to nation state attacks. So, when you imagine a future where your content is always safe, organized, compliant, and available to inspire your best work, NetDocuments is ready to take you there.",
         "Announcement_Date": "2021-05-07T04:00:00.000Z",
@@ -13556,6 +13571,9 @@
         "Authorizing_Agency": "Department of Veterans Affairs",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Amplifire%20Logo.png",
         "Independent_Assessor": "Lunarline, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
         "CSP_Website": "https://amplifire.com",
         "CSO_Description": "Amplifire is an adaptive learning platform built from discoveries in cognitive science that delivers measurable learning outcomes and quality improvements.",
         "Announcement_Date": "2021-05-14T04:00:00.000Z",
@@ -13582,6 +13600,10 @@
         "Authorizing_Agency": "United States Agency for Global Media",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Adobe%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1209051525"
+        ],
         "CSP_Website": "https://www.adobe.com/creativecloud/business.html",
         "CSO_Description": "Adobe Creative Cloud for enterprise is a cloud-based offering which allows enterprise customers the ability to create and collaborate efficiently with connected desktop and mobile apps. The Creative Cloud for enterprise offering also includes options for flexible deployment, identity management including Federated ID with Single Sign-On, annual license true-ups, license management tools and enterprise-level customer support.",
         "Announcement_Date": "2018-05-14T04:00:00.000Z",
@@ -13636,6 +13658,10 @@
         "Authorizing_Agency": "United States Agency for Global Media",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Adobe%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1209051525"
+        ],
         "CSP_Website": "https://acrobat.adobe.com",
         "CSO_Description": "Adobe Document Cloud is the only digital document modernization solution that integrates Adobe’s pioneering PDF technology with Adobe Acrobat and Adobe Sign apps to deliver 100% digital experiences to employees and constituents. It’s a complete portfolio of secure solutions that speeds service delivery and drives better constituent experiences by making manual processes fully digital. Document Cloud includes Adobe Acrobat DC, online PDF services, and a FedRAMP Tailored Authorized instance of Adobe Sign. Desktop, web, and mobile apps can be used standalone, or as connected services that are easily integrated into your agency’s existing document processes, business applications, and enterprise systems. Innovative technology and artificial intelligence helps agencies deliver modern, mobile-friendly document experiences and search-friendly document tagging without the need to reauthor documents from scratch. Learn more.",
         "Announcement_Date": "2018-05-14T04:00:00.000Z",
@@ -13696,6 +13722,12 @@
         "Authorizing_Agency": "Department of Agriculture",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/GDCII%20Logo.png",
         "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Underlying_CSP_Package_ID": [
+          "FR1823149273",
+          "FR1805751477",
+          "F1206081364",
+          "FR1814276801"
+        ],
         "CSP_Website": "www.gdcii.com",
         "CSO_Description": "GDCI provides SaaS Federalized Human Resource Applications for on-boarding- separation; labor and employee relations case management; time-attendance-leave and workload management; personal action processing and management (PAR); performance management; workforce restructuring; medical/qualification management and human resource communication management.",
         "Announcement_Date": "2021-05-10T04:00:00.000Z",
@@ -13743,6 +13775,12 @@
         "Authorizing_Agency": "Department of Justice",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/ZibaSec%20Logo.png",
         "Independent_Assessor": "Fortreum, LLC",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "FR1812058188",
+          "F1206081364",
+          "FR1918740338"
+        ],
         "CSP_Website": "https://zibasec.io",
         "CSO_Description": "ZibaSec PhishTACO is a cloud-based SaaS solution that enables organizations of all sizes to accurately assess their risk levels using sophisticated email phishing campaigns. PhishTACO was designed from the outset to cater to the needs of the largest Federal agencies without sacrificing simple and accessible user experiences. Bad actors don't just try via email; a core goal of ZibaSec PhishTACO is to facilitate social engineering simulations across multiple attack vectors, not just email. Achieving a FedRAMP Moderate certification, ZibaSec PhishTACO will demonstrate its commitment to provide a secure software platform to our federal agency partners.\n**More about ZibaSec PhishTACO**\nZibaSec PhishTACO is focused on what enterprise organizations need the most:\n* Understanding their organizational risk levels to sophisticated email phishing attacks.\n* Providing a secure and compliant platform that aligns with the regulatory standards our customers care about.\n* Helping their workforce become better equipped to detect and avoid multiple human-centric attack vectors.\nIn pursuit of meeting these needs, ZibaSec PhishTACO takes a research-centric approach in the features it provides:\nWith ZibaSec PhishTACO organizations can:\n* Pick from a large list of phishing domains (all with DKIM and SPF records to ensure maximum deliverability) that we are constantly rotating, with the option to bring their own domain.\n* Email ten to tens of thousands of emails in a single simulation.\n* Assess the performance of their workforce in any desired timespan to provide rich trending reports; detailed down to the individual.\n* Pick from multiple options for hosting landing pages or redirects to send users to after clicking an email link. Create a redirect or simply provide a document to host.\n* Easily create sub-organizations and create granular role-based access control groups to allow enterprises to delegate tactical control to different departments or groups while retaining enterprise-wide visibility into employee performance.",
         "Announcement_Date": "2021-05-24T04:00:00.000Z",
@@ -13769,6 +13807,10 @@
         "Authorizing_Subagency": "HHS Office of the Inspector General",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Microsoft%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1209051525",
+          "F1206061353"
+        ],
         "CSP_Website": "www.microsoft.office.com",
         "CSO_Description": "Office 365 MultiTenant is a Software as a Service offering with government specific instances of some services including Exchange Online, SharePoint Online, OneDrive for Business, Skype for Business, and Microsoft Teams. The government specific instances are designated for the sole use of U.S federal, tribal, state, and local government customers, U.S. government contractors, and Federally Funded Research and Development Centers (FFRDCs). Office 365 delivers customers with familiar productivity, communication and collaboration capabilities all in a service that is reliable, secure and able to rapidly scale up or down to meet variable resource demands.",
         "Announcement_Date": "2014-11-20T05:00:00.000Z",
@@ -14347,6 +14389,12 @@
         "Authorizing_Subagency": "Pentagon Force Protection Agency",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Trapwire%20Logo.png",
         "Independent_Assessor": "SecureIT",
+        "Underlying_CSP_Package_ID": [
+          "F1206061353",
+          "AGENCYAMAZONEW",
+          "F1603087869",
+          "F1607057910"
+        ],
         "CSP_Website": "www.trapwire.com",
         "CSO_Description": "TRAPWIRE is the preeminent software platform for detecting and alerting on threats against your assets and personnel in real-time. It provides a comprehensive suite of tools all synchronized and accessible in one centralized, highly secure and encrypted platform, including:\n- Incident reporting - Pattern analysis and threat detection - Originator-controlled information sharing - Mass warning and notifications - Cross-organizational collaboration - Mobile applications for reporting and alerts\nThe TRAPWIRE Threat Detection and Analysis System brings security organizations into a protection network that detects and alerts on mutual threats spanning time and geography, allowing users to break down stovepipes and interdict threats before they materialize into successful criminal or terrorist acts. The network encapsulates thousands of protected facilities and personnel spanning Federal, State, and Local Law Enforcement; Anti-Terrorism/Force Protection personnel; private/commercial security organizations; and community protection programs. Bringing all sectors together with modern technology and expert analytical support services, while maintaining “originator control” principles for each owner’s data, empowers a tangible force multiplier effect.",
         "Announcement_Date": "2018-08-08T04:00:00.000Z",
@@ -14423,6 +14471,16 @@
         "Authorizing_Agency": "Department of Veterans Affairs",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/ID.me%20Logo.png",
         "Independent_Assessor": "The Cadence Group",
+        "Underlying_CSP_Package_ID": [
+          "F1206061353",
+          "AGENCYAMAZONEW",
+          "FR1812058188",
+          "F1206081364",
+          "F1607057910",
+          "F1512167750",
+          "FR1913470600",
+          "FR1821856903"
+        ],
         "CSP_Website": "https://www.id.me/business/identity-gateway",
         "CSO_Description": "ID.me’s Identity Gateway is a shared service for citizen and employee facing authentication and consists of a NIST 800-63-3 Identity Assurance Level 1 and 2 and Authenticator Assurance Level 1 and 2 as well as a NIST 800-63-2 Level of Assurance 1, 2, and 3 certified Credential Service Provider, a Credential Broker, and an Attribute Exchange. ID.me is the only citizen facing Credential Service Provider with a Supervised Remote capability that enables all users, including individuals without credit history and who live overseas, to reach Identity Assurance Level 2 without needing to visit a location in-person. ID.me is capable of immediately upgrading any government Identity Provider or login system to NIST IAL2/AAL2 within the look and feel of the agency’s brand.\nAn Intelligent Policy Engine provides a dynamic orchestration capability that enables agencies to configure adaptive Risk-Based Authentication and Attribute Based Access Control by policy. Once configured, the Intelligent Policy Engine dynamically routes users through Identity Proofing and Multi-Factor Authentication based on their demographic need and preference. ID.me’s Identity Gateway integrates directly with applications or with all Identity and Access Management platforms via open protocols like SAML 2.0, OAuth 2.0, and OpenID Connect. ID.me’s Credential Service Provider certification is available at [https://www.idmanagement.gov/trust-services/#consumer-identity-credentials](https://www.idmanagement.gov/trust-services/#consumer-identity-credentials) and the Kantara Initiative Trust Registry [https://kantarainitiative.org/trust-registry/](https://kantarainitiative.org/trust-registry/). Kantara is a GSA approved Trust Framework Solution provider. To learn more about ID.me, visit [https://www.id.me/business/identity-gateway](https://www.id.me/business/identity-gateway).",
         "Announcement_Date": "2021-06-10T04:00:00.000Z",
@@ -14466,6 +14524,9 @@
         "Authorizing_Agency": "General Services Administration",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Login.gov%20Logo.png",
         "Independent_Assessor": "SecureIT",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
         "CSP_Website": "https://www.login.gov",
         "CSO_Description": "Login.gov offers the public secure and private online access to participating government programs. With one login.gov account, users can sign in to multiple government agencies. Our goal is to make managing federal benefits, services and applications easier and more secure.",
         "Announcement_Date": "2019-07-15T04:00:00.000Z",
@@ -14557,6 +14618,15 @@
         "Authorizing_Agency": "Department of the Treasury",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Acquia%20Logo.png",
         "Independent_Assessor": "Schellman Compliance, LLC",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "FR1823149273",
+          "FR1812058188",
+          "F1206081364",
+          "F1209051525",
+          "F1607057910",
+          "FR1823447014"
+        ],
         "CSP_Website": "www.acquia.com",
         "CSO_Description": "Acquia provides the leading cloud platform for building, delivering, and optimizing digital experiences.\nAcquia is the enterprise platform behind Drupal, the leading open-source content management system, recognized as a Magic Quadrant Leader by Gartner two years in a row. Our platform enables agencies to foster greater digital engagement with citizens and securely deliver mission essential information and services with greater speed, agility, and resiliency.\nThe City of LA, State of New York, FEMA, Department of Homeland Security and many other government agencies rely on the Acquia platform to build websites and digital experiences that meet the needs of their citizens, internal users and IT teams while moving their missions forward.\nThese agencies know that a citizen-centric government requires more than simply taking the existing physical structure and making it digital. Today the term “digital” has taken on a new meaning. In the private sector, consumers can shop, pay bills, and even conduct banking online, and now they’re expecting to conduct government business online in the same way. The most forward-thinking government IT managers are finding ways to meet expectations set by the private sector, and then going above and beyond to serve citizens.\nWith the Acquia Platform governments and agencies can use limited taxpayer dollars efficiently to build sites and experience that meet the needs of IT, deliver on the mission and give citizens crucial information they need.",
         "Announcement_Date": "2016-04-13T04:00:00.000Z",
