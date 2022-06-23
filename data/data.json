@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-06-23T16:59:49.118Z",
+    "Created_At": "2022-06-23T17:18:08.293Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -16401,6 +16401,9 @@
         "Authorizing_Agency": "JAB Authorization",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Google%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "FR1805751477"
+        ],
         "CSP_Website": "https://workspace.google.com",
         "CSO_Description": "Google Workspace (formerly G Suite) is comprised of Google’s multi-tenant public and hybrid cloud instances and leverages Google Services (Package ID FR1805751477).\nThe following Google Workspace services are FedRAMP High: Calendar, Docs, Drive, Forms, Gmail, Google Chat, Google Meet, Keep, New Sites, Sheets, Slides, Vault\nThe following Google Workspace services are FedRAMP Moderate: Android and Chrome Device Management, Chrome Sync (for Google Workspace for Education domains only), Classroom, Cloud Search (including 3P), Contacts, Drawings, Google Drive for Work, Google Workspace Security Center (for Google Workspace Enterprise and Google Workspace Enterprise for Education domains only), Google Tasks, Groups for Business, Jamboard, Secure LDAP, Sites Classic, Vault, Voice; Docs APIs: Apps Activity API, Calendar API, Contacts API, Drive REST API (replaced Documents List API), Gmail REST API (replaced Email Migration API), Sheets API, Sites API, Tasks API.",
         "Announcement_Date": "2021-10-28T04:00:00.000Z",
@@ -16499,6 +16502,11 @@
         "Authorizing_Agency": "Office of Personnel Management",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MAXIMUS%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1303191948",
+          "F1508207205"
+        ],
         "CSP_Website": "http://www.maximus.com/federal/intelligent-assistant",
         "CSO_Description": "The MAXIMUS Intelligent Assistant (MIA) is a Hosted Interactive Voice Response (HIVR) system that is designed to offer best in class automated voice service to the general public calling for assistance with Government applications. MIA utilizes automation to gather caller intent and questions, and provide responses. When the automation does not understand information received from the caller, the snippet of information is delivered instantaneously to a human Intent Analyst (IA). The IA will hear the “utterance”, inform the system of the caller’s response or intent, and allow the HIVR to continue through the Government’s defined application.",
         "Announcement_Date": "2019-04-09T04:00:00.000Z",
@@ -16544,6 +16552,9 @@
         "Authorizing_Agency": "Department of the Treasury",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/FM%20Logo.png",
         "Independent_Assessor": "Audit Liaison",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
         "CSP_Website": "https://fmsystems.com/our-solutions/employee-experience/full-service-room-scheduling/",
         "CSO_Description": "**FMS:Employee for Government** provides an innovative scheduling solution that delivers new levels of efficiency and productivity for your mobile, virtual, and traditional employees. From conference rooms and video conferencing facilities to shared workspaces and managed services, from small entities to large entities, the way work gets done has changed. **FMS:Employee is a cloud-based**, scalable platform that solves the most challenging workplace management issues offering cutting edge technology, integrated floorplans, integrated room panel hardware, availability sensors and expertise in implementation and change management. **FMS:Employee** empowers your workforce to connect and engage in today’s dynamic digital workplace with intuitive scheduling solutions that help organizations support the work-from-anywhere model and enable inspiring workplace experiences. **Room, Resource, and Service Management - FMS:Employee** is an online, cloud-based scheduling system for desk, room, and resource reservations.\r* Quickly find and reserve rooms, equipment, and services.\r* Comprehensive scheduling includes options for recurring, multi-day and multi-resource reservations.\r* Create reservations and sending meeting invites from the web, Outlook, or your mobile device.\r* Streamline internal operations with a dynamic service management system that includes inventory control and reporting. **Integrated Solutions for Workplace Productivity - FMS:Employee** can help you achieve your efficiency and productivity goals by reducing manual processes, improving collaboration, and increasing the productivity of your mobile workforce.\r* Seamlessly integrate room and resource scheduling with Microsoft Outlook.\r* Keep teams connected with integrations for WebEx, Crestron Fusion, and Cisco TMS video conferencing and more.\r* Streamline operations with an integrated visitor management solution that enforces security protocols.\r* Create a modern, tech-savvy workplace with digital signage, digital room panels, and interactive kiosks.\n**Desk Sharing for Employee Engagement** - With **FMS:Employee** desk management solutions, users can find and reserve shared workspace quickly and easily from the web, a kiosk, Outlook, or their mobile device. Find space by location, workspace type, or proximity to co-workers, visually on an interactive floorplan.\r* Drive program adoption with an intuitive user interface and mobile scheduling from multiple devices.\r* Support mobile and virtual workers with integrated tools for easy collaboration.\r* Leverage available sensor technology to track space utilization and measure program performance.\r* Visualize trends, analyze usage behavior, and make data-driven decisions about your real estate investment and workplace design.",
         "Announcement_Date": "2018-10-23T04:00:00.000Z",
@@ -16584,6 +16595,9 @@
         "Authorizing_Agency": "Federal Communications Commission",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MuleSoft%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
         "CSP_Website": "www.mulesoft.com",
         "CSO_Description": "MuleSoft’s Anypoint Platform is a hybrid platform for designing, developing and managing APIs and integrations. Uniquely built as a single solution, it includes integration Platform as a Service (iPaaS) functionality which provides users with enterprise messaging, advanced user and role based management, services/tools for providing API and integration analytics and management, API design and publishing tools, and the ability to share and collaborate on API specifications, code snippets and templates of best practices.",
         "Announcement_Date": "2019-07-31T04:00:00.000Z",
@@ -16689,6 +16703,9 @@
         "Authorizing_Agency": "Federal Communications Commission",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Tyler%20Logo.png",
         "Independent_Assessor": "SecureIT",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
         "CSP_Website": "https://www.tylertech.com/",
         "CSO_Description": "The Tyler Data Platform, powered by Socrata®, which includes Enterprise Data Platform and Open Data Platform, is the market leader in making government data discoverable, usable, and actionable for government workers and the people they serve. Tyler Data & Insights provides the data platform and cloud applications exclusively for city, county, state, and federal government organizations. Government programs generate massive amounts of data, but most of it is locked away in hard-to-access data silos. The Tyler Data Platform provides enterprise-wide data management for government analytics by bringing together disparate systems and leveraging the cloud to enable secure access to authoritative data. Tyler Data & Insights solutions are designed and developed to meet strict government compliance standards. The technology is optimized on the Amazon Web Services (AWS) Cloud.",
         "Announcement_Date": "2017-05-15T04:00:00.000Z",
@@ -16735,6 +16752,10 @@
         "Authorizing_Agency": "JAB Authorization",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Acuant%20Logo.png",
         "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1603047866"
+        ],
         "CSP_Website": "www.acuant.com",
         "CSO_Description": "Acuant is a leading global provider of identity verification, regulatory compliance (AML/KYC) and digital\ridentity solutions. Acuant’s Trusted Identity Platform is powered by AI and human assisted machine\rlearning to deliver unparalleled results and operational efficiency. Acuant Connect, Ozone and Facial Recognition System (COFRS) combines four product lines to fulfill the\rneed to authenticate an individual against an identity document they present to establish a trusted\rrelationship. COFRS is a Software as a Service (SaaS) solution that provides an extremely robust basis for\ridentity proofing. The products together authenticate the physical and digital information protecting the\rauthenticity and integrity of the document, provide an assessment of the degree of match of the\rindividual to the photo(s) stored on the document, and perform presentation attack detection via\rliveness assessment of the individual performing the transaction.\n* AssureID™ Connect SaaS authenticates the physical security features of the document\n* Ozone® eMRTD Authentication SaaS ensures the electronic data is cryptographically intact and\rdigitally bound to a trusted issuing authority\r* Once the document has been determined to be authentic and unmodified from its initial\rissuance, Acuant FaceID Government SaaS performs a facial recognition match of the photo(s)\rfrom the document with the individual presenting the document\n* Acuant Passive Liveness SaaS performs presentation attack detection to thwart fraud\nDocument authentication is vital part of confirming the identity of an individual. Authenticating a\rdocument requires reviewing the physical document for the presence of known security features;\rfeatures which are specific to each document type and series from a given issuer. The security features\rthat are found on the presented document then need to be compared against the expected/known\rsecurity features for the specific document and its issuer. Additionally, with the advent of electronic\ridentity documents, the electronic data stored on the document must be authenticated and validated\rusing Public Key Infrastructure (PKI) components to cryptographically assess the data encoded in the\rchip of the document and their binding to the Issuer. Finally, to ensure the document belongs to the\rindividual presenting the document, a biometric match comparing the image from the document to the\rindividual should be made, and the liveness of the individual must be determined – especially in remote\rvetting situations.",
         "Announcement_Date": "2021-11-24T05:00:00.000Z",
@@ -16762,6 +16783,12 @@
         "Authorizing_Subagency": "National Geospatial-Intelligence Agency",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Blackboard%20Logo.png",
         "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "AGENCYAMAZONEW",
+          "FR1807853629",
+          "F1603087869"
+        ],
         "CSP_Website": "www.blackboard.com",
         "CSO_Description": "Blackboard’s Learn SaaS solution offers government and military agencies next-generation online, social and mobile tools that create a continuous learning environment, built around peer-to-peer interaction, content and discussions.",
         "Announcement_Date": "2020-04-21T04:00:00.000Z",
@@ -16887,6 +16914,9 @@
         "Authorizing_Agency": "Department of Veterans Affairs",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/UoC%20Logo.png",
         "Independent_Assessor": "Optic Cyber Solutions, LLC",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
         "CSP_Website": "http://research.data-commons.org",
         "CSO_Description": "The Gen3 Commons Service (Gen3) is an open-source multi-tenant Software as a Service (SaaS) platform for developing, creating and operating cloud-based data commons, data ecosystems, and workspaces for managing, analyzing, and sharing data.",
         "Announcement_Date": "2021-12-08T05:00:00.000Z",
@@ -16913,6 +16943,10 @@
         "Authorizing_Subagency": "United States Patent and Trademark Office",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/OpenWater%20Logo.png",
         "Independent_Assessor": "United States Patent and Trademark Office",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1209051525"
+        ],
         "CSP_Website": "getopenwater.com",
         "CSO_Description": "OpenWater is a Software as a Service platform used to collect applications of all types. Typical uses include awards nominations, fellowship applications, scholarships, prizes. Applications can consist of dozens to hundreds of fields, and there is a built in form builder. Applications can have complex logic around required fields, large file uploads, and streaming video based applications.\nOnce data is collected in OpenWater, customizable judging / scoring rubrics can be configured. Reviewers will be able to access the portal and only see submissions assigned to them. The platform supports simple review modes all the way up to auto-assignment of 1000s of applications across 100s of reviewers.",
         "Announcement_Date": "2021-12-09T05:00:00.000Z",
