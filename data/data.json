@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-06-23T17:59:48.225Z",
+    "Created_At": "2022-06-23T18:11:46.152Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -13808,8 +13808,8 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Microsoft%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "Underlying_CSP_Package_ID": [
-          "F1209051525",
-          "F1206061353"
+          "F1206061353",
+          "F1209051525"
         ],
         "CSP_Website": "www.microsoft.office.com",
         "CSO_Description": "Office 365 MultiTenant is a Software as a Service offering with government specific instances of some services including Exchange Online, SharePoint Online, OneDrive for Business, Skype for Business, and Microsoft Teams. The government specific instances are designated for the sole use of U.S federal, tribal, state, and local government customers, U.S. government contractors, and Federally Funded Research and Development Centers (FFRDCs). Office 365 delivers customers with familiar productivity, communication and collaboration capabilities all in a service that is reliable, secure and able to rapidly scale up or down to meet variable resource demands.",
@@ -17678,6 +17678,10 @@
         "Authorizing_Agency": "JAB Authorization",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/RSA%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "F1603087869"
+        ],
         "CSP_Website": "https://www.securid.com/publicsector",
         "CSO_Description": "RSA SecurID® Federal, enables the U.S. Federal Government and the public sector organizations to digitally transform, embrace the benefits of modern technologies, and operate nimbly with highly secure and convenient cloud-based identity assurance. Building on the enterprise-grade security that is the hallmark of all RSA SecurID Federal solutions, RSA SecurID® Federal meets the high standards required by the FedRAMP authorization process and is a key component of Zero Trust initiatives. When coupled with RSA’s on-prem offering, Federal Agencies can quickly and cost-effectively move to the cloud at their own pace, leveraging existing infrastructure and authentication methods.",
         "Announcement_Date": "2022-04-26T04:00:00.000Z",
@@ -17705,6 +17709,10 @@
         "Authorizing_Subagency": "Bureau of the Fiscal Service",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/OneStream%20Logo.png",
         "Independent_Assessor": "First Information Technology Services, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1209051525",
+          "F1512167750"
+        ],
         "CSP_Website": "www.onestreamsoftware.com",
         "CSO_Description": "OneStream XF Cloud is a market-leading corporate performance management (CPM) that unifies and simplifies financial consolidation, planning, reporting, analytics and financial data quality for sophisticated organizations.\nOneStream’s unified platform enables organizations to modernize Finance, replace multiple legacy applications, and reduce the total cost of ownership of financial systems. OneStream unleashes Finance teams to spend less time on data integration and system maintenance – and more time focusing on driving business performance.\nPowered by Microsoft Azure, OneStream XF Cloud provides a secure platform for your most sacred financial data. OneStream’s robust cloud service is FedRAMP Moderate Authorized and complies with the most stringent industry regulations. Our flexible security model provides complete control over any intersection of data or user access, with unparalleled audit capabilities",
         "Announcement_Date": "2018-09-18T04:00:00.000Z",
@@ -17764,6 +17772,9 @@
         "Authorizing_Agency": "Department of Veterans Affairs",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/3M%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
         "CSP_Website": "www.3mhis.com",
         "CSO_Description": "3M RevCycle Health Services Platform (RHSP) is a Platform which hosts and supports the operations of key 3M Health Software Systems. These systems include but are not limited to key backend functions for frontend system 3M 360e (360e not part of RHSP FedRAMP authorization). RHSP hosted backend functions for 360e include: Natural Language Processing (NLP) support for medical coding, Clinical Documentation Integrity, clinician created document input and medical coding edits, self-service reporting, evaluation, and management. 3M RHSP utilizes robust statistical methodologies to create a comprehensive NLP platform to derive medical codes, assist with medical terminology, and ease the provider front-end workflow.",
         "Announcement_Date": "2022-05-12T04:00:00.000Z",
@@ -17790,6 +17801,11 @@
         "Authorizing_Subagency": "National Institutes of Health",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/WK%20Logo.png",
         "Independent_Assessor": "Schellman Compliance, LLC",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1209051525",
+          "MSO365MT"
+        ],
         "CSP_Website": "https://www.wolterskluwer.com/en/solutions/teammate/teammate-us-public-sector",
         "CSO_Description": "The TeamMate+ FedRAMP platform is a suite of services that provides tooling and functionality to auditors for management and tracking of the entire auditing process. The product suite includes TeamMate+ Audit, TeamMate+ Controls, and TeamMate+ Public Sector. The TeamMate+ FedRAMP suite allows auditors and audit organizations to define, track, and manage the audit process within their own standards. TeamMate+ FedRAMP leverages tooling and software to integrate with various services and resources across many systems, enabling auditors to achieve a holistic view of the organization. Through use of cloud technology and wide tooling integration, TeamMate+ FedRAMP enables organizations to align processes and goals for better strategic and tactical insights.\nTeamMate+ FedRAMP's environment utilizes higher standards for security and compliance, this system has very well-defined boundaries and controlled data ingress and egress patterns.",
         "Announcement_Date": "2022-05-13T04:00:00.000Z",
@@ -17816,6 +17832,14 @@
         "Authorizing_Agency": "Department of Energy",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Adobe%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1206061353",
+          "F1603087869",
+          "F1607057910",
+          "F1512167750",
+          "FR1823447014",
+          "F1607197917"
+        ],
         "CSP_Website": "www.adobe.com/go/adobesign-gov",
         "CSO_Description": "Adobe Acrobat Sign for Government is a security-enhanced instance of Adobe’s industry-leading SaaS application that lets agencies rapidly replace manual, paper-based approval and signature processes with automated, all-digital workflows. Adobe Acrobat Sign for Government makes employees more productive in the office or working remotely by letting them sign documents, request signatures, and track processes from web and mobile devices – as well as inside applications they use every day. Signers can sign on desktop or mobile devices with no downloads or signups required. Adobe Acrobat Sign for Government capabilities include webforms, batch signing, automated workflows and document templates, multifactor signer authentication, and support for both citizen e-signatures and employee digital signatures (using PIV or CAC cards) in a single process. Adobe Acrobat Sign for Government is purely a web browser application with no mobile application required for use by customers. Additionally, customers can also leverage Adobe Acrobat Sign for Government’s APIs for integration with their systems or 3rd-party services to expand their digital signing experiences. Integrations to Adobe Sign carried out by an agency, for other Adobe products and 3rd-party cloud services, are considered customer responsibility and not a part of the Adobe Sign authorization. Adobe Acrobat Sign for Government is hosted on Microsoft Azure Government Cloud and designated for the sole use of U.S. federal, tribal, state, and local government customers, and U.S. government contractors and partners. Adobe Acrobat Sign is used by the majority of Fortune 100 companies. And, it’s Microsoft’s preferred e-signature solution. Learn more.",
         "Announcement_Date": "2022-05-25T04:00:00.000Z",
@@ -17878,6 +17902,14 @@
         "Authorizing_Subagency": "National Heart, Lung, and Blood Institute",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/SB%20Logo.png",
         "Independent_Assessor": "Schellman Compliance, LLC",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "FR1807853629",
+          "FR1805751477",
+          "F1206081364",
+          "FR1809360201",
+          "FR1719759604"
+        ],
         "CSP_Website": "www.sevenbridges.com",
         "CSO_Description": "The Seven Bridges Platform is a cloud-based environment for conducting bioinformatic analyses. It is a central hub for teams to store, analyze, and jointly interpret their bioinformatic data. The Platform co-locates analysis pipelines alongside the largest genomic datasets to optimize processing. It allocates storage and compute resources on demand, to meet the needs of ever-growing analyses.",
         "Announcement_Date": "2022-06-06T04:00:00.000Z",
@@ -17905,6 +17937,13 @@
         "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Ivanti%20Logo.png",
         "Independent_Assessor": "The Cadence Group",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1209051525",
+          "F1507116930",
+          "F1512167750",
+          "F1508207205"
+        ],
         "CSP_Website": "https://www.ivanti.com/",
         "CSO_Description": "Ivanti Service Manager, powered by HEAT, helps IT teams meet today’s government and user demands for effective service delivery and support. The solution, with workflow automation, mobile and integrated Voice support, enables IT teams to quickly deploy and configure a world-class service management solution. Cloud deployment is available from FedRAMP compliant AWS data centers in North America.\nService Manager is designed to be the central point of contact between users, employees and the IT organization. It offers first and second line support to users, where incidents, problems or inaccuracies in IT systems are reported. The solution can also be an important source of management information for reporting and auditing purposes.\nIvanti Service Manager fully supports Incident, Problem, Change and Release Management, Self-Service, 3rd party integration and more, and is Pink Verified on 13 ITIL processes, to improve IT support performance and efficiency.\nIvanti is headquartered in Salt Lake City, Utah, and has offices all over the world. For more information, visit [www.ivanti.com](http://www.ivanti.com) and follow us at @GoIvanti.",
         "Announcement_Date": "2019-11-19T05:00:00.000Z",
@@ -17931,6 +17970,13 @@
         "Authorizing_Agency": "General Services Administration",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Zendesk%20Logo.png",
         "Independent_Assessor": "Schellman Compliance, LLC",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "FR1812058188",
+          "F1206081364",
+          "FR1805751477",
+          "F1512167750"
+        ],
         "CSP_Website": "https://www.zendesk.com",
         "CSO_Description": "Zendesk is a cloud-based customer service platform, designed for companies that want to build customer relationships that are more meaningful, personal, and productive. Zendesk strives to bring businesses and customers closer together by enabling companies to provide great support and mature with self-service and proactive engagement. It is designed to be easy to use, customize, and scale.",
         "Announcement_Date": "2020-05-14T04:00:00.000Z",
