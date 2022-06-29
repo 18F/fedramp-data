@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-06-28T04:40:50.886Z",
+    "Created_At": "2022-06-29T04:40:50.555Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -473,14 +473,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2016-05-31T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2016-05-31T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Housing Finance Agency",
-            "Authorizing_Subagency": "FHFA Office of the Inspector General",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-05-08T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-05-22T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Treasury",
@@ -526,6 +518,13 @@
             "Authorizing_Agency": "Department of the Treasury",
             "Authorizing_Subagency": "Bureau of Engraving and Printing",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2021-04-05T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Housing Finance Agency",
+            "Authorizing_Subagency": "FHFA Office of the Inspector General",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -4286,15 +4285,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2021-11-18T05:00:00.000Z",
-            "Letter_Expiration_Date": "2022-06-08T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-12-08T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Food and Drug Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2022-01-19T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-01-19T05:00:00.000Z",
             "Authorizing_Agency": "American Battle Monuments Commission",
@@ -4547,55 +4537,6 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-02-03T05:00:00.000Z",
             "Authorizing_Agency": "National Science Foundation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "IBM",
-        "Cloud_Service_Provider_Package": "IBM Maximo and TRIRIGA on Cloud for U.S. Federal",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1728053006",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2018-12-11T05:00:00.000Z",
-        "Sponsoring_Agency": "Department of Homeland Security",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-        "Authorizing_Agency": "Department of Homeland Security",
-        "Authorizing_Subagency": "Customs and Border Protection",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/IBM%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1211011660"
-        ],
-        "CSP_Website": "See Service Description",
-        "CSO_Description": "Enterprise Asset Management (EAM) in the era of IoT – with a constant stream of data from people, sensors and devices – can be challenging. IBM® Enterprise Asset Management on Cloud (Maximo®) is a comprehensive solution for managing physical assets on a common platform, providing insight into all your enterprise assets, their conditions and work processes, for better planning and control. With Maximo, you can check on asset health in real time and streamline global operations, from procurement to contract management. In addition to meeting the requirements for manufacturing and facilities with core Maximo, IBM has developed specific industry solutions for key asset-intensive industries. Maximo is highly customizable to suit your business requirements without editing a line of code. Maximo SaaS can be integrated with your on-premise and cloud-based enterprise applications. For more information please visit: [IBM Maximo](https://www.ibm.com/products/maximo)\nThrough business analytics, critical alerts and automated process capabilities, IBM Facilities and Real Estate Management on Cloud (TRIRIGA) can increase visibility, control and automation of your real estate management, capital projects, space management, facility maintenance and energy management needs. Finance and real estate executives can make more informed decisions—bringing increased value to their organizations through identification of high-return real estate transactions, increased facilities utilization and reduced energy expenses. TRIRIGA provides highly configurable role-based workspaces, enables automation of work processes, allows virtualization of facilities, assets, and resources. TRIRIGA integrates with IoT data and your on-premise and cloud-based enterprise applications. For more information please visit: [IBM TRIRIGA](https://www.ibm.com/us-en/marketplace/ibm-tririga)",
-        "Announcement_Date": "2019-03-12T04:00:00.000Z",
-        "CSP_POC_Name": "Andrew Lee",
-        "CSP_POC_Email": "FedRAMP-AssetManagement@wwpdl.vnet.ibm.com",
-        "FedRAMP_In-Process_Date": "2018-05-29T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2019-06-06T04:00:00.000Z",
-            "Authorizing_Agency": "Administrative Office of the United States Courts",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US%20Courts%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2019-08-10T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Agriculture",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-04-29T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-04-30T04:00:00.000Z",
-            "Authorizing_Agency": "National Archives and Records Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NARA_Logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -5422,6 +5363,15 @@
             "Authorizing_Agency": "National Capital Planning Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NationalCapitalPlanningCommission-Logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-10-07T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-10-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-10-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "United States Secret Service",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -5505,6 +5455,48 @@
             "Authorizing_Agency": "Department of Energy",
             "Authorizing_Subagency": "National Nuclear Security Administration / Nevada Field Office",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "IBM",
+        "Cloud_Service_Provider_Package": "IBM Maximo and TRIRIGA on Cloud for U.S. Federal",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1728053006",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2019-06-06T04:00:00.000Z",
+        "Sponsoring_Agency": "Administrative Office of the United States Courts",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US%20Courts%20Logo.png",
+        "Authorizing_Agency": "Administrative Office of the United States Courts",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/IBM%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1211011660"
+        ],
+        "CSP_Website": "See Service Description",
+        "CSO_Description": "Enterprise Asset Management (EAM) in the era of IoT – with a constant stream of data from people, sensors and devices – can be challenging. IBM® Enterprise Asset Management on Cloud (Maximo®) is a comprehensive solution for managing physical assets on a common platform, providing insight into all your enterprise assets, their conditions and work processes, for better planning and control. With Maximo, you can check on asset health in real time and streamline global operations, from procurement to contract management. In addition to meeting the requirements for manufacturing and facilities with core Maximo, IBM has developed specific industry solutions for key asset-intensive industries. Maximo is highly customizable to suit your business requirements without editing a line of code. Maximo SaaS can be integrated with your on-premise and cloud-based enterprise applications. For more information please visit: [IBM Maximo](https://www.ibm.com/products/maximo)\nThrough business analytics, critical alerts and automated process capabilities, IBM Facilities and Real Estate Management on Cloud (TRIRIGA) can increase visibility, control and automation of your real estate management, capital projects, space management, facility maintenance and energy management needs. Finance and real estate executives can make more informed decisions—bringing increased value to their organizations through identification of high-return real estate transactions, increased facilities utilization and reduced energy expenses. TRIRIGA provides highly configurable role-based workspaces, enables automation of work processes, allows virtualization of facilities, assets, and resources. TRIRIGA integrates with IoT data and your on-premise and cloud-based enterprise applications. For more information please visit: [IBM TRIRIGA](https://www.ibm.com/us-en/marketplace/ibm-tririga)",
+        "Announcement_Date": "2019-03-12T04:00:00.000Z",
+        "CSP_POC_Name": "Andrew Lee",
+        "CSP_POC_Email": "FedRAMP-AssetManagement@wwpdl.vnet.ibm.com",
+        "FedRAMP_In-Process_Date": "2018-05-29T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2019-08-10T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-04-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-04-30T04:00:00.000Z",
+            "Authorizing_Agency": "National Archives and Records Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NARA_Logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -5920,6 +5912,15 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Institute of Standards and Technology",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-08-19T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-08-25T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-08-25T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "United States Secret Service",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -7140,6 +7141,14 @@
             "Authorizing_Agency": "Tennessee Valley Authority",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-TennesseeValleyAuthority-Logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-06-28T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-06-28T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-06-28T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Information Systems Agency",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -7726,6 +7735,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-04-19T04:00:00.000Z",
             "Authorizing_Agency": "Office of Personnel Management",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2022-06-27T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Housing Finance Agency",
+            "Authorizing_Subagency": "FHFA Office of the Inspector General",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -8917,15 +8933,6 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-10-05T04:00:00.000Z",
             "Authorizing_Agency": "Federal Trade Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-11-18T05:00:00.000Z",
-            "Letter_Expiration_Date": "2022-06-08T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-12-08T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Food and Drug Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -11699,6 +11706,13 @@
             "Include_In_Marketplace": "Y"
           },
           {
+            "Authorizing_Letter_Last_Sign_Date": "2021-04-05T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Housing Finance Agency",
+            "Authorizing_Subagency": "FHFA Office of the Inspector General",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
             "Letter_Date": "2021-11-29T05:00:00.000Z",
             "Letter_Expiration_Date": "2022-12-01T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-11-29T05:00:00.000Z",
@@ -12788,6 +12802,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-06-11T04:00:00.000Z",
             "Authorizing_Agency": "National Aeronautics and Space Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NASA_logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-06-17T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-06-16T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-06-17T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Centers for Disease Control and Prevention",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -14023,15 +14046,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2019-03-25T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-04-15T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-04-16T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Centers for Disease Control and Prevention",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-08-20T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-08-20T04:00:00.000Z",
             "Authorizing_Agency": "Department of Housing and Urban Development",
@@ -14379,6 +14393,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-06-08T04:00:00.000Z",
             "Authorizing_Agency": "Universal Service Administrative Company",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAC-logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-06-27T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-06-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-06-27T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Centers for Disease Control and Prevention",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -15452,6 +15475,13 @@
             "Authorizing_Agency": "Department of Agriculture",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2022-05-10T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Housing Finance Agency",
+            "Authorizing_Subagency": "FHFA Office of the Inspector General",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -16065,7 +16095,7 @@
           "F1603087869"
         ],
         "CSP_Website": "https://www.rescale.com/",
-        "CSO_Description": "Rescale ScaleX Government is a variant of Rescale’s ScaleX Platform for enterprise big compute that is trusted by the Global Fortune 500 and leading research institutions.It enables IT leaders, governments, engineers, and scientists to securely manage product innovation and perform groundbreaking research and development faster at a lower cost. Rescale’s offering of ScaleX® platform solutions transform traditional fixed IT resources into flexible hybrid, private, and public cloud resources—built on the largest and most secure high performance computing infrastructure network in the world.\nIn addition to complying with FedRAMP requirements, ScaleX Government adheres to U.S. International Traffic in Arms Regulations (ITAR) regulations. Additional information is available at [https://info.rescale.com/gov/fedramp](https://info.rescale.com/gov/fedramp).",
+        "CSO_Description": "Rescale ScaleX Government is secure High Performance Computing (HPC) built for the cloud. Rescale’s multi-cloud platform is designed to allow US government agencies and customers supporting the US government to move sensitive workloads into the cloud. In addition to complying with FedRAMP requirements, Rescale adheres to the leading compliance standards including:\n\r\n* U.S. International Traﬃc in Arms Regulations (ITAR) regulations\r\n* Defense Federal Acquisition Regulation Supplement (DFARS)\r\n* Cloud Security Alliance (CSA)\r\n* Health Insurance Portability and Accountability Act (HIPAA)\r\n* American Institute of CPAs - Service Organization Control (AICPA SOC2)\r\nAdditional information is available at [https://rescale.com/solutions/by-industry/government/](https://rescale.com/solutions/by-industry/government/) \r\n\r\nThis HPC-as-a-Service platform provides a complete stack of software and tools secured from end-to-end. Rescale has hundreds of the leading engineering, scientiﬁc, and research applications pre-installed and ready to go. A complete catalog of available software is available at [https://rescale.com/platform/software-catalog/](https://rescale.com/platform/software-catalog/).\r\n\r\nRescale Government supports a variety of computation-intensive applications including:\n\r\n* High Performance Computing (HPC)\r\n* High Throughput Computing (HTC)\r\n* Artiﬁcial Intelligence (AI)\r\n* Machine Learning (ML)\r\n* Modeling & Simulation\r\n* Digital Engineering and Research and Development (R&D)\r\n* Computer Aided Engineering (CAE)\r\n* Multi-disciplinary Design Optimization (MDO)\r\n\r\nRescale Government uses cloud resources from Amazon Web Services GovCloud and Microsoft AzureGov. This includes the latest specialized architectures (CPU, GPU, memory, storage, and networking) and provides a range of options to help balance ﬂexibility, cost savings, and time-to-solve objectives. \r\n\r\nWith Rescale, HPC operations are automated on a single pane of glass. IT controls and dashboards provide precise management of security, access, budgets, workﬂows, and architectural conﬁgurations for greater eﬃciency and economics. By simplifying the complexity of traditional HPC with the Rescale ScaleX Government platform, organizations can accelerate the use of new technologies and use cases leading to new innovations, faster.",
         "Announcement_Date": "2022-01-31T05:00:00.000Z",
         "CSP_POC_Name": "Kevin Kelly",
         "CSP_POC_Email": "fedramp@rescale.com",
