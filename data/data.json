@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-07-04T04:40:50.917Z",
+    "Created_At": "2022-07-05T04:40:50.523Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -8668,14 +8668,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2019-06-10T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-07-03T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-07-03T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-07-09T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-07-09T04:00:00.000Z",
             "Authorizing_Agency": "Department of Justice",
@@ -8930,6 +8922,13 @@
             "Authorizing_Agency": "Department of the Interior",
             "Authorizing_Subagency": "Office of Natural Resources Revenue",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-06-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-07-01T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -11025,6 +11024,14 @@
             "Letter_Expiration_Date": "2022-07-31T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-01-28T05:00:00.000Z",
             "Authorizing_Agency": "Department of Energy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-06-27T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-09-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-06-29T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
           }
@@ -18214,6 +18221,31 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Itamar Medical",
+        "Cloud_Service_Provider_Package": "Itamar Dispatcher Cloud (IDC)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2212912561",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "LI-SaaS",
+        "Original_Authorization_Date": "2022-06-09T04:00:00.000Z",
+        "Original_Expiration_Date": "2023-06-09T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Itamar%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.itamar-medical.com",
+        "CSO_Description": "The Itamar Dispatcher Cloud (IDC) supports health care providers conducting home sleep apnea tests utilizing the WatchPATONE®️ device. The provider integrates the IDC APIs into supported patient management systems to initialize WatchPATONE® devices and collect test results. The patients take the sleep study using the device and a proprietary Mobile application that communicates and transfers sleep study data to IDC in a secure manner.",
+        "CSP_POC_Name": "Shiri Shneorson",
+        "CSP_POC_Email": "fedramp@itamar-medical.com",
+        "FedRAMP_In-Process_Date": "2022-03-02T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "3M",
         "Cloud_Service_Provider_Package": "Grouper Plus Content Services (GPCS)",
         "Path": "Agency",
@@ -19350,29 +19382,6 @@
         "CSP_POC_Email": "fedramp@ironmountain.com",
         "Fedramp_Ready_Date": "2021-03-05T05:00:00.000Z",
         "FedRAMP_In-Process_Date": "2022-03-04T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Itamar Medical",
-        "Cloud_Service_Provider_Package": "Itamar Dispatcher Cloud (IDC)",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2212912561",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "LI-SaaS",
-        "Sponsoring_Agency": "Department of Veterans Affairs",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-        "Authorizing_Agency": "Department of Veterans Affairs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Itamar%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.itamar-medical.com",
-        "CSO_Description": "The Itamar Dispatcher Cloud (IDC) supports health care providers conducting home sleep apnea tests utilizing the WatchPATONE®️ device. The provider integrates the IDC APIs into supported patient management systems to initialize WatchPATONE® devices and collect test results. The patients take the sleep study using the device and a proprietary Mobile application that communicates and transfers sleep study data to IDC in a secure manner.",
-        "CSP_POC_Name": "Shiri Shneorson",
-        "CSP_POC_Email": "fedramp@itamar-medical.com",
-        "FedRAMP_In-Process_Date": "2022-03-02T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
