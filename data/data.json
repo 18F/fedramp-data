@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-07-07T04:40:50.820Z",
+    "Created_At": "2022-07-08T04:40:51.066Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3699,6 +3699,42 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Acendre, Inc.",
+        "Cloud_Service_Provider_Package": "Acendre Talent Management Solution Suite",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1604217888",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2018-07-12T04:00:00.000Z",
+        "Sponsoring_Agency": "Federal Housing Finance Agency",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
+        "Authorizing_Agency": "Federal Housing Finance Agency",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Acendre%20Logo.png",
+        "Independent_Assessor": "SecureIT",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "https://www.acendre.com",
+        "CSO_Description": "Acendre is a worldwide leader in secure cloud-based talent management software and empowers organizations to increase their workforce performance. The company’s recruitment and performance management solutions provide data and insight that address the unique needs of organizations in regulated industries that require a high level of configurability to manage complex workflows and interoperability challenges. Acendre serves both public and private sectors, including government, education, healthcare, utilities and mining.\nWith offices in three continents, the company’s solutions are deployed in over 200 organizations around the globe, including almost 100 federal agencies, helping these organizations recruit, engage, retain and develop their employees to improve workforce performance. A recipient of numerous awards, Acendre processes more than one million applications annually and is used by 300,000 candidates every month.",
+        "Announcement_Date": "2018-08-10T04:00:00.000Z",
+        "CSP_POC_Name": "Acendre Compliance Team",
+        "CSP_POC_Email": "compliance@acendre.com",
+        "FedRAMP_In-Process_Date": "2018-02-06T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Expiration_Date": "2024-09-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-08-31T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "1901 Group",
         "Cloud_Service_Provider_Package": "in3sight",
         "Path": "Agency",
@@ -3752,6 +3788,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Intelliworx%20Logo.png",
         "Independent_Assessor": "Schellman Compliance, LLC",
         "Underlying_CSP_Package_ID": [
+          "F1604217888",
           "FR1920363607",
           "F1603047866",
           "FR1807853629",
@@ -12982,6 +13019,14 @@
             "Authorizing_Agency": "United States Securities and Exchange Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/SEC%20Logo.jpg",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-07-06T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-04-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-07-07T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -13797,60 +13842,6 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-05-23T04:00:00.000Z",
             "Authorizing_Agency": "National Science Foundation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "GDC Integration, Inc.",
-        "Cloud_Service_Provider_Package": "General Support System (GSS)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1834348080",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2021-05-20T04:00:00.000Z",
-        "Original_Expiration_Date": "2022-05-19T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Agriculture",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-        "Authorizing_Agency": "Department of Agriculture",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/GDCII%20Logo.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "Underlying_CSP_Package_ID": [
-          "FR1823149273",
-          "FR1805751477",
-          "F1206081364",
-          "FR1814276801"
-        ],
-        "CSP_Website": "www.gdcii.com",
-        "CSO_Description": "GDCI provides SaaS Federalized Human Resource Applications for on-boarding- separation; labor and employee relations case management; time-attendance-leave and workload management; personal action processing and management (PAR); performance management; workforce restructuring; medical/qualification management and human resource communication management.",
-        "Announcement_Date": "2021-05-10T04:00:00.000Z",
-        "CSP_POC_Name": "Mike Biggs",
-        "CSP_POC_Email": "fedramp@gdcii.com",
-        "FedRAMP_In-Process_Date": "2019-02-05T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2020-09-25T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Transportation",
-            "Authorizing_Subagency": "Federal Aviation Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2023-09-21T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-09-20T04:00:00.000Z",
-            "Authorizing_Agency": "Small Business Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SmallBusinessAdmin-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2024-06-17T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-06-23T04:00:00.000Z",
-            "Authorizing_Agency": "Environmental Protection Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -18237,7 +18228,7 @@
           "F1603087869"
         ],
         "CSP_Website": "www.zscaler.com",
-        "CSO_Description": "Zscaler Internet Access delivers your security stack as a service from the cloud, eliminating the cost and complexity of traditional secure web gateway approaches. By moving security to a globally distributed cloud, Zscaler brings the Internet gateway closer to the user for a faster experience. Organizations can easily scale protection to all offices or users, regardless of location, and minimize network and appliance infrastructure.\n**The Cloud and Mobility Have Broken Perimeter Security**\nThe data center used to be the center of gravity. When applications resided there, it made sense to backhaul traffic from branch offices over a hub-and-spoke network. As traffic patterns shifted to the Internet, gateways were built with stacks of security appliances to allow secure Internet access. These gateways were also centralized to minimize the cost and complexity of securing multiple locations.\nHowever, as applications have moved to the cloud, the center of gravity has moved with it. User traffic often goes straight to the cloud, bypassing the security perimeter. Additionally, today’s complex threats have triggered an explosion of new security appliances, all finding their way into your overworked gateway. Administrators are in a constant battle to keep up with required security updates for their appliances. The complexity of deploying and managing all these appliances — and their associated costs — are out of control. Furthermore, it’s all associated with what is now an outdated architecture.\n**Zscaler Internet Access**\nZscaler Internet Access is a secure Internet and web gateway delivered as a service from the cloud. Think of it as a secure Internet onramp — all you do is make Zscaler your next hop to the Internet. For offices, simply set up a router tunnel (GRE or IPsec) to the closest Zscaler data center. For mobile employees, you can forward traffic via our lightweight Zscaler App or PAC file. No matter where users connect — a coffee shop in Milan, a hotel in Hong Kong, or the office — they get identical protection.\nZscaler Internet Access sits between your users and the Internet, inspecting every byte of traffic inline across multiple security techniques, even within SSL. You get full protection from web and Internet threats. And with a cloud platform that supports Cloud Sandboxing, Next-Generation Firewall, Data Loss Prevention (DLP), and Cloud Application Visibility and Control, you can start with the services you need today and activate others as your needs grow.\nAll these capabilities are delivered from the Zscaler Cloud Security Platform, the world’s largest security cloud, which processes more than 30 billion requests a day. With over 100 patents, the Zscaler platform has been architected from the ground up as a truly distributed, multi-tenant cloud with enterprise performance and scale.",
+        "CSO_Description": "Zscaler Internet Access delivers your security stack as a service from the cloud, eliminating the cost and complexity of traditional secure web gateway approaches. By moving security to a globally distributed cloud, Zscaler brings the Internet gateway closer to the user for a faster experience. Organizations can easily scale protection to all offices or users, regardless of location, and minimize network and appliance infrastructure.\n\n**The Cloud and Mobility Have Broken Perimeter Security**\n\nThe data center used to be the center of gravity. When applications resided there, it made sense to backhaul traffic from branch offices over a hub-and-spoke network. As traffic patterns shifted to the Internet, gateways were built with stacks of security appliances to allow secure Internet access. These gateways were also centralized to minimize the cost and complexity of securing multiple locations.\nHowever, as applications have moved to the cloud, the center of gravity has moved with it. User traffic often goes straight to the cloud, bypassing the security perimeter. Additionally, today’s complex threats have triggered an explosion of new security appliances, all finding their way into your overworked gateway. Administrators are in a constant battle to keep up with required security updates for their appliances. The complexity of deploying and managing all these appliances — and their associated costs — are out of control. Furthermore, it’s all associated with what is now an outdated architecture.\n\n**Zscaler Internet Access**\n\nZscaler Internet Access is a secure Internet and web gateway delivered as a service from the cloud. Think of it as a secure Internet onramp — all you do is make Zscaler your next hop to the Internet. For offices, simply set up a router tunnel (GRE or IPsec) to the closest Zscaler data center. For mobile employees, you can forward traffic via our lightweight Zscaler App or PAC file. No matter where users connect — a coffee shop in Milan, a hotel in Hong Kong, or the office — they get identical protection.\n\nZscaler Internet Access sits between your users and the Internet, inspecting every byte of traffic inline across multiple security techniques, even within SSL. You get full protection from web and Internet threats. And with a cloud platform that supports Cloud Sandboxing, Next-Generation Firewall, Data Loss Prevention (DLP), and Cloud Application Visibility and Control, you can start with the services you need today and activate others as your needs grow.\n\nAll these capabilities are delivered from the Zscaler Cloud Security Platform, the world’s largest security cloud, which processes more than 30 billion requests a day. With over 100 patents, the Zscaler platform has been architected from the ground up as a truly distributed, multi-tenant cloud with enterprise performance and scale.",
         "Announcement_Date": "2022-07-02T04:00:00.000Z",
         "CSP_POC_Name": "Stephen Kovac",
         "CSP_POC_Email": "fedramp@zscaler.com",
@@ -18331,6 +18322,60 @@
         "CSP_POC_Email": "fedramp@pcmaticfederal.com",
         "FedRAMP_In-Process_Date": "2021-10-13T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "GDC Integration, Inc.",
+        "Cloud_Service_Provider_Package": "General Support System (GSS)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1834348080",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-07-07T04:00:00.000Z",
+        "Original_Expiration_Date": "2023-07-30T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Agriculture",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+        "Authorizing_Agency": "Department of Agriculture",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/GDCII%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Underlying_CSP_Package_ID": [
+          "FR1823149273",
+          "FR1805751477",
+          "F1206081364",
+          "FR1814276801"
+        ],
+        "CSP_Website": "www.gdcii.com",
+        "CSO_Description": "GDCI provides SaaS Federalized Human Resource Applications for on-boarding- separation; labor and employee relations case management; time-attendance-leave and workload management; personal action processing and management (PAR); performance management; workforce restructuring; medical/qualification management and human resource communication management.",
+        "Announcement_Date": "2021-05-10T04:00:00.000Z",
+        "CSP_POC_Name": "Mike Biggs",
+        "CSP_POC_Email": "fedramp@gdcii.com",
+        "FedRAMP_In-Process_Date": "2019-02-05T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2020-09-25T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Transportation",
+            "Authorizing_Subagency": "Federal Aviation Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-09-21T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-09-20T04:00:00.000Z",
+            "Authorizing_Agency": "Small Business Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SmallBusinessAdmin-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2024-06-17T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-06-23T04:00:00.000Z",
+            "Authorizing_Agency": "Environmental Protection Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "3M",
@@ -18823,7 +18868,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Copado%20Logo.png",
         "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
         "CSP_Website": "https://www.copado.com/solutions/solutions-by-industry/public-sector/",
-        "CSO_Description": "Copado GovCloud is a cloud DevOps platform designed to make Salesforce releases faster, more efficient, and scalable across hundreds of production and sandbox instances. Copado GovCloud integrates with all major Git solutions and ensures developers, administrators, and low-code Salesforce users can all commit changes to a central Git repository or seamlessly deploy from a QA environment to production. Copado is used by small organizations and large enterprises across a wide range of industries to accelerate time to market for Salesforce applications, enhance developer efficiency, increase security visibility, improve Salesforce testing capabilities and enable digital cloud transformations. The services in scope for Copado GovCloud are:\n* Deploying Salesforce metadata to production and sandbox instances, with Git integration for version control and branch management. * Change management including agile development processes, quality gates, and code scanning. * Continuous deployment and continuous integration, including visual pipeline configuration.\n* Compliance rules for Salesforce metadata, including rule creation, monitoring, and enforcement of policies across user stories, Git snapshots, and deployments. * Test data seeding across sandboxes ensuring accurate quality assurance prior to production deployments.",
+        "CSO_Description": "Copado GovCloud is a cloud DevOps platform designed to make Salesforce releases faster, more efficient, and scalable across hundreds of production and sandbox instances. Copado GovCloud integrates with all major Git solutions and ensures developers, administrators, and low-code Salesforce users can all commit changes to a central Git repository or seamlessly deploy from a QA environment to production. Copado is used by small organizations and large enterprises across a wide range of industries to accelerate time to market for Salesforce applications, enhance developer efficiency, increase security visibility, improve Salesforce testing capabilities and enable digital cloud transformations. The services in scope for Copado GovCloud are:\n\n* Deploying Salesforce metadata to production and sandbox instances, with Git integration for version control and branch management. \n* Change management including agile development processes, quality gates, and code scanning. \n* Continuous deployment and continuous integration, including visual pipeline configuration.\n* Compliance rules for Salesforce metadata, including rule creation, monitoring, and enforcement of policies across user stories, Git snapshots, and deployments. * Test data seeding across sandboxes ensuring accurate quality assurance prior to production deployments.",
         "CSP_POC_Name": "Meg LaVelle",
         "CSP_POC_Email": "fedramp@copado.com",
         "FedRAMP_In-Process_Date": "2022-02-23T05:00:00.000Z",
