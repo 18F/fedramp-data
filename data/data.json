@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-07-11T04:40:51.059Z",
+    "Created_At": "2022-07-12T04:40:51.703Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4182,7 +4182,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Ivanti",
-        "Cloud_Service_Provider_Package": "MobileIron Government Cloud",
+        "Cloud_Service_Provider_Package": "Ivanti Neurons for MDM (Formerly MobileIron)",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "F1507116930",
@@ -4201,9 +4201,9 @@
           "AGENCYAMAZONEW"
         ],
         "CSP_Website": "www.mobileiron.com",
-        "CSO_Description": "MobileIron Government Cloud provides Government agencies with the foundation of the first mobile-centric, zero trust security platform to securely access and protect data across the digital workplace. MobileIron’s zero trust approach validates the device, to ensure that only authorized users, devices, apps, and services can access business resources. With MobileIron, Government agencies can secure and manage data on any device across multiple operating systems such as iOS, Android, Windows 10, macOS, Zebra and Oculus. MobileIron technology automatically provisions enterprise settings such as Wi-Fi and VPN, secures corporate email and email attachments, applications and content delivery for both GSE and BYOD programs. With MobileIron, IT departments can deliver the right resources to authorized personnel while protecting sensitive government data, preserving the privacy of end-user data, and maintaining the seamless native device experience. MobileIron Government Cloud has been purpose built to provide a cloud-based, scalable architecture that enables rapid deployment and scales up to millions of users. The MobileIron Unified Endpoint Management (UEM) platform incorporates identity, context, and privacy enforcement to set the appropriate level of access to data and services while allowing IT departments to securely manage their global mobile workforce from a single console. . When user choice and end user experience matters, MobileIron Cloud provides the simplest onboarding and superior on device experience which improves user productivity.\nMobileIron Government Cloud offering now includes MobileIron Threat Defense (MTD). MTD builds upon MobileIron’s mobile-centric, zero trust security framework by providing a single app that continually detects and remediates against known and unknown (zero-day) device, network and app-level threats on Android and iOS devices, with or without cellular or Wi-Fi connectivity. Deployment and activation of MTD on mobile devices is accomplished silently on managed and unmanaged devices in order to drive towards 100 percent user adoption. In addition to protecting federal data from mobile attacks, MTD helps federal agencies to comply with regulatory requirements, reduce total cost of ownership, and drive business innovation with secure mobile devices, apps, and cloud services.",
+        "CSO_Description": "MobileIron Government Cloud provides Government agencies with the foundation of the first mobile-centric, zero trust security platform to securely access and protect data across the digital workplace. MobileIron’s zero trust approach validates the device, to ensure that only authorized users, devices, apps, and services can access business resources. With MobileIron, Government agencies can secure and manage data on any device across multiple operating systems such as iOS, Android, Windows 10, macOS, Zebra and Oculus. MobileIron technology automatically provisions enterprise settings such as Wi-Fi and VPN, secures corporate email and email attachments, applications and content delivery for both GSE and BYOD programs. With MobileIron, IT departments can deliver the right resources to authorized personnel while protecting sensitive government data, preserving the privacy of end-user data, and maintaining the seamless native device experience. MobileIron Government Cloud has been purpose built to provide a cloud-based, scalable architecture that enables rapid deployment and scales up to millions of users. The MobileIron Unified Endpoint Management (UEM) platform incorporates identity, context, and privacy enforcement to set the appropriate level of access to data and services while allowing IT departments to securely manage their global mobile workforce from a single console. . When user choice and end user experience matters, MobileIron Cloud provides the simplest onboarding and superior on device experience which improves user productivity.\n\nMobileIron Government Cloud offering now includes MobileIron Threat Defense (MTD). MTD builds upon MobileIron’s mobile-centric, zero trust security framework by providing a single app that continually detects and remediates against known and unknown (zero-day) device, network and app-level threats on Android and iOS devices, with or without cellular or Wi-Fi connectivity. Deployment and activation of MTD on mobile devices is accomplished silently on managed and unmanaged devices in order to drive towards 100 percent user adoption. In addition to protecting federal data from mobile attacks, MTD helps federal agencies to comply with regulatory requirements, reduce total cost of ownership, and drive business innovation with secure mobile devices, apps, and cloud services.",
         "Announcement_Date": "2016-12-08T05:00:00.000Z",
-        "CSP_POC_Name": "Phil Richards",
+        "CSP_POC_Name": "Daniel Spicer",
         "CSP_POC_Email": "security@ivanti.com",
         "FedRAMP_In-Process_Date": "2015-12-23T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
@@ -6025,6 +6025,15 @@
             "Authorizing_Subagency": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-04-04T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-05-04T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-05-04T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "United States Secret Service",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -7538,6 +7547,13 @@
         "CSP_POC_Email": "fedramp@collibra.com",
         "FedRAMP_In-Process_Date": "2018-11-16T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
+          {
+            "Letter_Expiration_Date": "2023-08-24T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-08-24T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
           {
             "Letter_Date": "2022-02-09T05:00:00.000Z",
             "Letter_Expiration_Date": "2025-02-03T05:00:00.000Z",
@@ -16062,8 +16078,9 @@
         "FedRAMP_In-Process_Date": "2018-09-21T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Expiration_Date": "2022-07-07T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-07-07T04:00:00.000Z",
+            "Letter_Date": "2022-07-07T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-07-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-06-27T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Treasury",
             "Authorizing_Subagency": "Bureau of the Fiscal Service",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
@@ -17224,46 +17241,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Oracle",
-        "Cloud_Service_Provider_Package": "Aconex for Defense",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1712871948",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2022-01-11T05:00:00.000Z",
-        "Original_Expiration_Date": "2022-07-11T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Defense",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-        "Authorizing_Agency": "Department of Defense",
-        "Authorizing_Subagency": "United States Army Corps of Engineers",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20Aconex%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1206061353",
-          "F1603047866",
-          "F1508277234"
-        ],
-        "CSP_Website": "https://www.oracle.com/industries/construction-engineering/aconex-fedramp-construction-software/",
-        "CSO_Description": "Oracle Aconex provides the #1 cloud and mobile collaboration platform for the global construction industry. This highly secure platform provides a single source of truth for all program related documents and communications across agency stakeholders and streamlines business process management with standardization across the project lifecycle. Oracle Aconex for Defense brings a modern set of flexible tools for simplifying how program data is captured, consumed, shared and analyzed.\nCapabilities include:\n* Inter-Agency Project Management and Collaboration\n* Centralized Information Management\n* Streamlined Business Process and Construction Management\n* Secure Common Data Environment With more than 70,000 user organizations and over $1 trillion of project value delivered in more than 70 countries, Aconex is the construction industry’s most widely adopted and trusted platform. For more information, please see [Oracle Aconex for Defense](https://www.oracle.com/industries/construction-engineering/aconex-fedramp-construction-software/)",
-        "Announcement_Date": "2020-10-30T04:00:00.000Z",
-        "CSP_POC_Name": "Gail Johnson",
-        "CSP_POC_Email": "aconex-for-defense_us_grp@oracle.com",
-        "FedRAMP_In-Process_Date": "2020-01-14T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Expiration_Date": "2023-10-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-06-22T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Agriculture",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Informatica LLC",
         "Cloud_Service_Provider_Package": "Informatica Intelligent Cloud Services (IICS)",
         "Path": "Agency",
@@ -17950,7 +17927,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Ivanti",
-        "Cloud_Service_Provider_Package": "Ivanti Service Manager",
+        "Cloud_Service_Provider_Package": "Ivanti Neurons for ITSM (Formerly Service Manager)",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "FR1816364586",
@@ -17975,9 +17952,9 @@
           "F1508207205"
         ],
         "CSP_Website": "https://www.ivanti.com/",
-        "CSO_Description": "Ivanti Service Manager, powered by HEAT, helps IT teams meet today’s government and user demands for effective service delivery and support. The solution, with workflow automation, mobile and integrated Voice support, enables IT teams to quickly deploy and configure a world-class service management solution. Cloud deployment is available from FedRAMP compliant AWS data centers in North America.\nService Manager is designed to be the central point of contact between users, employees and the IT organization. It offers first and second line support to users, where incidents, problems or inaccuracies in IT systems are reported. The solution can also be an important source of management information for reporting and auditing purposes.\nIvanti Service Manager fully supports Incident, Problem, Change and Release Management, Self-Service, 3rd party integration and more, and is Pink Verified on 13 ITIL processes, to improve IT support performance and efficiency.\nIvanti is headquartered in Salt Lake City, Utah, and has offices all over the world. For more information, visit [www.ivanti.com](http://www.ivanti.com) and follow us at @GoIvanti.",
+        "CSO_Description": "Ivanti Service Manager, powered by HEAT, helps IT teams meet today’s government and user demands for effective service delivery and support. The solution, with workflow automation, mobile and integrated Voice support, enables IT teams to quickly deploy and configure a world-class service management solution. Cloud deployment is available from FedRAMP compliant AWS data centers in North America.\nService Manager is designed to be the central point of contact between users, employees and the IT organization. It offers first and second line support to users, where incidents, problems or inaccuracies in IT systems are reported. The solution can also be an important source of management information for reporting and auditing purposes.\n\nIvanti Service Manager fully supports Incident, Problem, Change and Release Management, Self-Service, 3rd party integration and more, and is Pink Verified on 13 ITIL processes, to improve IT support performance and efficiency.",
         "Announcement_Date": "2019-11-19T05:00:00.000Z",
-        "CSP_POC_Name": "Phil Richards",
+        "CSP_POC_Name": "Daniel Spicer",
         "CSP_POC_Email": "security@ivanti.com",
         "Fedramp_Ready_Date": "2018-09-05T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2019-07-10T04:00:00.000Z",
@@ -18384,6 +18361,71 @@
             "Include_In_Marketplace": "Y"
           }
         ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Oracle",
+        "Cloud_Service_Provider_Package": "Aconex for Defense",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1712871948",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-07-05T04:00:00.000Z",
+        "Original_Expiration_Date": "2023-01-11T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Defense",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+        "Authorizing_Agency": "Department of Defense",
+        "Authorizing_Subagency": "United States Army Corps of Engineers",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20Aconex%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1206061353",
+          "F1603047866",
+          "F1508277234"
+        ],
+        "CSP_Website": "https://www.oracle.com/industries/construction-engineering/aconex-fedramp-construction-software/",
+        "CSO_Description": "Oracle Aconex provides the #1 cloud and mobile collaboration platform for the global construction industry. This highly secure platform provides a single source of truth for all program related documents and communications across agency stakeholders and streamlines business process management with standardization across the project lifecycle. Oracle Aconex for Defense brings a modern set of flexible tools for simplifying how program data is captured, consumed, shared and analyzed.\nCapabilities include:\n* Inter-Agency Project Management and Collaboration\n* Centralized Information Management\n* Streamlined Business Process and Construction Management\n* Secure Common Data Environment With more than 70,000 user organizations and over $1 trillion of project value delivered in more than 70 countries, Aconex is the construction industry’s most widely adopted and trusted platform. For more information, please see [Oracle Aconex for Defense](https://www.oracle.com/industries/construction-engineering/aconex-fedramp-construction-software/)",
+        "Announcement_Date": "2020-10-30T04:00:00.000Z",
+        "CSP_POC_Name": "Gail Johnson",
+        "CSP_POC_Email": "aconex-for-defense_us_grp@oracle.com",
+        "FedRAMP_In-Process_Date": "2020-01-14T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Expiration_Date": "2023-10-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-06-22T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Workday Inc.",
+        "Cloud_Service_Provider_Package": "Workday Government Cloud (WGC)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2103344623",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-04-04T04:00:00.000Z",
+        "Sponsoring_Agency": "Federal Reserve System",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRS%20Logo.png",
+        "Authorizing_Agency": "Federal Reserve System",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Workday%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://www.workday.com/",
+        "CSO_Description": "Workday is a provider of enterprise applications for financial management, human capital management, planning, and analytics. Workday Government Cloud is a multi-tenant cloud-based offering for U.S. federal, state and local government customers, as well as U.S. government contractors, and Federally Funded Research and Development Centers (FFRDCs). It comprises the following enterprise management cloud applications: Workday Core Financial Management, Projects, Project Billing, Expenses, Procurement, Inventory, Grants Management, Human Capital Management, Cloud Connect for Benefits, Payroll for the United States, Cloud Connect for Third-Party Payroll, Time Tracking, Recruiting, Prism Analytics, and Student. Also available is Workday Success Plans, a subscription-based success package that provides education, tools, and expertise to help agencies maximize their use of Workday.",
+        "CSP_POC_Name": "Workday Government Cloud Team",
+        "CSP_POC_Email": "fedramp@workday.com",
+        "Fedramp_Ready_Date": "2021-08-16T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2022-03-16T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "3M",
@@ -18838,6 +18880,29 @@
         "CSP_POC_Email": "fedrampdl@commvault.com",
         "Fedramp_Ready_Date": "2021-05-24T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2022-06-10T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Composite Apps",
+        "Cloud_Service_Provider_Package": "CuraPatient",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2135180018",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "High",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Curapatient%20Logo.png",
+        "Independent_Assessor": "First Information Technology Services, Inc.",
+        "CSP_Website": "www.curapatient.com",
+        "CSO_Description": "CuraPatient is a mobile-first digital health platform to enable a patient's medical \"journey\" from the hospital to the home and beyond. Our platform includes bidirectional integration with client systems and is accessible on any smart device, including a fully native iOS, Android, and responsive web app. This allows for a secure, frictionless, user-friendly experience for providers so they can focus on the individual's needs and reduce burnout and compassion fatigue. CuraPatient, with its robust backend with 421 NIST controls and the required automation, enables health systems across the federal government to keep up with changing mandates and CDC recommendations while protecting the integrity of a patient's data.",
+        "CSP_POC_Name": "Natalie Schneider",
+        "CSP_POC_Email": "Info@curapatient.com",
+        "FedRAMP_In-Process_Date": "2022-07-06T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -20729,30 +20794,6 @@
         "CSP_POC_Name": "Victoria Engleking",
         "CSP_POC_Email": "fedramp@widepoint.com",
         "Fedramp_Ready_Date": "2021-11-15T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Workday Inc.",
-        "Cloud_Service_Provider_Package": "Workday Government Cloud (WGC)",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2103344623",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Federal Reserve System",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRS%20Logo.png",
-        "Authorizing_Agency": "Federal Reserve System",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Workday%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://www.workday.com/",
-        "CSO_Description": "Workday is a provider of enterprise applications for financial management, human capital management, planning, and analytics. Workday Government Cloud is a multi-tenant public cloud-based offering for U.S. federal, state and local government customers, as well as U.S. government contractors, and Federally Funded Research and Development Centers (FFRDCs). It comprises the following enterprise management cloud applications: Workday Core Financial Management, Projects, Project Billing, Expenses, Procurement, Inventory, Grants Management, Human Capital Management, Cloud Connect for Benefits, Payroll for the United States, Cloud Connect for Third-Party Payroll, Time Tracking, Recruiting, Prism Analytics, and Student. Also available is Workday Success Plans, a subscription-based success package that provides education, tools, and expertise to help agencies maximize their use of Workday.",
-        "CSP_POC_Name": "Workday Government Cloud Team",
-        "CSP_POC_Email": "fedramp@workday.com",
-        "Fedramp_Ready_Date": "2021-08-16T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2022-03-16T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
