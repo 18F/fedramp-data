@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-07-13T04:40:51.466Z",
+    "Created_At": "2022-07-14T04:40:52.091Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3994,6 +3994,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-06-23T04:00:00.000Z",
             "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2025-07-06T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-07-06T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Immigration and Customs Enforcement",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -14566,6 +14574,13 @@
             "Authorizing_Subagency": "Centers for Disease Control and Prevention",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-07-13T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-07-13T04:00:00.000Z",
+            "Authorizing_Agency": "American Battle Monuments Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/ABMC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -16517,6 +16532,45 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Perceptyx, Inc",
+        "Cloud_Service_Provider_Package": "Perceptyx Insights Platform (Formerly Waggl)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1818240234",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2021-05-13T04:00:00.000Z",
+        "Original_Expiration_Date": "2024-05-12T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Perceptyx%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "AGENCYAMAZONEW",
+          "FR1916254386",
+          "FR1807853629",
+          "FR1912658130",
+          "F1206081364",
+          "F1512167750",
+          "F1508207205",
+          "F1305072116",
+          "FR1809360201",
+          "F1607197917"
+        ],
+        "CSP_Website": "www.perceptyx.com",
+        "CSO_Description": "Perceptyx’s online employee engagement survey technology is built to support four phases of service to Perceptyx clients, including a configuration module to support planning and survey set-up, data collection module, diagnostic reporting module and action planning module, each module runs on the Perceptyx proprietary web software platform.\n\nUsing the Perceptyx real-time technology for each phase of a project, Perceptyx can create web applications specifically suited to the unique data collection and reporting needs of any organization. From creation to collection to interactive result reporting, the whole process is done in real-time and is hosted on the Perceptyx robust, secure network.\n\nPerceptyx technology supports performance improvement services for each client in the following phases:\n\n1. Design, development, configuration, and testing.\n2. Deploy, data collection, training, and monitoring.\n3.Analysis, diagnosis, and final report configuration.\n4. Report distribution, action planning, and executive presentations.\n\nEach phase of the project provides specific services for the client leveraged by the Perceptyx technology and facilitated by Project Managers.\n\nThe services included as part of the Perceptyx Insights Platform include the following:\n\n1. Ask Service - Point-in-time employee surveys to illuminate the employee experience\n2. Sense Service - Lifecycle surveys and always-on listening to keep pace with your people\n3. Dialogue Service - Crowdsourced insights to engage your people on the topics that matter most\n4. Develop Service - Multi-rater feedback to improve manager effectiveness and build leaders",
+        "Announcement_Date": "2022-07-12T04:00:00.000Z",
+        "CSP_POC_Name": "Gary Everekyan",
+        "CSP_POC_Email": "FedRAMP@Perceptyx.com ",
+        "FedRAMP_In-Process_Date": "2021-05-13T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Google",
         "Cloud_Service_Provider_Package": "Google Workspace",
         "Path": "JAB",
@@ -17227,14 +17281,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2022-07-02T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-12-29T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "National Institute of Environmental Health Sciences",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Authorizing_Letter_Last_Sign_Date": "2021-12-12T05:00:00.000Z",
             "Authorizing_Agency": "United States Securities and Exchange Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/SEC%20Logo.jpg",
@@ -17291,6 +17337,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-06-30T04:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "United States Census Bureau",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-05-09T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-05-09T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-05-06T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "National Institute of Environmental Health Sciences",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
           }
@@ -18549,6 +18604,7 @@
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2022-02-28T05:00:00.000Z",
+        "Original_Expiration_Date": "2023-02-28T05:00:00.000Z",
         "Sponsoring_Agency": "Federal Retirement Thrift Investment Board",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRTIB%20Logo.jpg",
         "Authorizing_Agency": "Federal Retirement Thrift Investment Board",
