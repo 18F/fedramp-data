@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-07-14T04:40:52.091Z",
+    "Created_At": "2022-07-15T04:40:51.119Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2906,6 +2906,12 @@
             "Authorizing_Agency": "Federal Retirement Thrift Investment Board",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRTIB%20Logo.jpg",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2022-07-13T04:00:00.000Z",
+            "Authorizing_Agency": "American Battle Monuments Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/ABMC%20Logo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -4089,6 +4095,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-04-13T04:00:00.000Z",
             "Authorizing_Agency": "Federal Retirement Thrift Investment Board",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRTIB%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2025-07-06T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-07-06T04:00:00.000Z",
+            "Authorizing_Agency": "Social Security Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -5498,6 +5511,13 @@
             "Authorizing_Subagency": "Office of Natural Resources Revenue",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-06-13T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-07-13T04:00:00.000Z",
+            "Authorizing_Agency": "American Battle Monuments Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/ABMC%20Logo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -6743,57 +6763,6 @@
         "CSP_POC_Email": "fedramp@adobe.com",
         "FedRAMP_In-Process_Date": "2019-02-04T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Ex Libris",
-        "Cloud_Service_Provider_Package": "Higher-Ed Platform (Alma, Primo, Leganto, Esploro)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1305132147",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "LI-SaaS",
-        "Original_Authorization_Date": "2019-08-30T04:00:00.000Z",
-        "Original_Expiration_Date": "2022-07-09T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/ExLibris%20Logo.png",
-        "Independent_Assessor": "Lunarline, Inc.",
-        "CSP_Website": "http://www.exlibrisgroup.com/",
-        "CSO_Description": "Ex Libris Higher-Ed Platform, consisting of Alma, Primo, Leganto, and Esploro, is an open platform that provides common cross-product services while ensuring reliability, security, and ease of integration with 3rd-party products and tools.",
-        "Announcement_Date": "2019-09-10T04:00:00.000Z",
-        "CSP_POC_Name": "Tomer Shemesh",
-        "CSP_POC_Email": "tomer.shemesh@exlibrisgroup.com",
-        "FedRAMP_In-Process_Date": "2018-06-27T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2020-02-13T05:00:00.000Z",
-            "Authorizing_Agency": "Nuclear Regulatory Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-02-08T05:00:00.000Z",
-            "Letter_Expiration_Date": "2024-02-17T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-02-17T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Food and Drug Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-11-15T05:00:00.000Z",
-            "Letter_Expiration_Date": "2023-01-15T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-11-17T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "United States Patent and Trademark Office",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
       },
       {
         "Cloud_Service_Provider_Name": "Box Inc.",
@@ -12697,14 +12666,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2022-05-31T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-04-21T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2021-05-21T04:00:00.000Z",
             "Letter_Expiration_Date": "2022-10-09T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-06-09T04:00:00.000Z",
@@ -12777,6 +12738,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-06-02T04:00:00.000Z",
             "Authorizing_Agency": "Farm Credit Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FCA%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2022-05-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-04-15T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -12864,7 +12833,7 @@
         "CSP_Website": "https://cofense.com/federal-government",
         "CSO_Description": "**Overview**\nCofense PhishMe™ is a cloud-based software solution that enables organizations to improve employee resiliency to phishing attacks by providing a turnkey platform for running simulated real-life phishing scenarios.\nCofense PhishMe has the largest installed base of Federal government users of any solution in the simulation and awareness training category. More than 2000 of world’s largest organizations in both public and private sector rely on Cofense PhishMe to condition employees to recognize and report phishing attacks.\nOnce certified, Cofense PhishMe will achieve FedRAMP Moderate Authorization, an important milestone meeting the security baselines for more than 300 controls. According to FedRAMP, Moderate Impact Authorization “is most appropriate for CSOs where the loss of confidentiality, integrity, and availability would result in serious adverse effects on an agency’s operations, assets, or individuals […] including significant operational damage to agency assets, financial loss, or individual harm that is not loss of life or physical.” For comparison, solutions achieving FedRAMP Low Authorization are only required to address 125 controls, while organizations obtaining the FedRAMP LI-SaaS Authorization are responsible for just 38 controls.\n**More about Cofense PhishMe**\nThe system enables trained awareness and compliance personnel to run simulated attacks using email templates that look like actual phishing attacks and includes on-the-spot educational content that displays when recipients click on one of the simulated phishing emails.\nFor example, a scenario email might alert recipients that their banking credentials were compromised and ask the recipients to click a link in the email to reset their password. If a recipient does click the link, Cofense PhishMe displays educational content to help that individual recognize the characteristics of a phishing email. Through these safe examples, PhishMe customers can help their employees develop an awareness of the risks that actual phishing emails pose and reduce their susceptibility of engaging with such emails in the future.\nTo maximize the effectiveness of simulation campaigns and reduce the burden on awareness teams, Cofense PhishMe provides a combination of unique capabilities:\n* PhishMe content is based on real phishing attacks gleaned from real threat intelligence. That means that the scenarios you run are as realistic as possible, ensuring your organization is conditioned to the latest threats.\n* Responsive Delivery: Cofense PhishMe allows simulation operators to deliver phishing simulations while the user is active in their inbox, which drives higher scenario engagement. * Playbooks: Cofense PhishMe includes predefined Playbooks, with scenario recommendations based on user behavior and best practices.\nCofense PhishMe helps organizations transform their employees into the last line of active defense against phishing attacks—the leading cause of data breaches—through education, ongoing simulations, and an easy to use reporting tool so organizations can swiftly detect, respond to and thwart phishing attacks in their tracks.",
         "Announcement_Date": "2021-02-12T05:00:00.000Z",
-        "CSP_POC_Name": "Sylvain Lacroix",
+        "CSP_POC_Name": "John Paddock",
         "CSP_POC_Email": "federal@cofense.com",
         "FedRAMP_In-Process_Date": "2020-03-16T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
@@ -13395,13 +13364,6 @@
             "Authorizing_Agency": "Department of Justice",
             "Authorizing_Subagency": "Federal Bureau of Prisons",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-09-22T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-06-30T04:00:00.000Z",
-            "Authorizing_Agency": "General Services Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -14579,7 +14541,7 @@
             "Letter_Date": "2022-07-13T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-07-13T04:00:00.000Z",
             "Authorizing_Agency": "American Battle Monuments Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/ABMC%20Logo.jpg",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/ABMC%20Logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -15421,9 +15383,9 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2021-11-29T05:00:00.000Z",
-            "Letter_Expiration_Date": "2022-05-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-11-29T05:00:00.000Z",
+            "Letter_Date": "2022-06-17T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-05-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-06-17T04:00:00.000Z",
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Defense Information Systems Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
@@ -17565,6 +17527,13 @@
             "Authorizing_Agency": "Department of the Treasury",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-04-19T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-04-18T04:00:00.000Z",
+            "Authorizing_Agency": "General Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -17914,6 +17883,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-06-02T04:00:00.000Z",
             "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-04-19T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-04-18T04:00:00.000Z",
+            "Authorizing_Agency": "General Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -18622,6 +18598,57 @@
         "CSP_POC_Email": "FedRAMP@mcafee.com",
         "FedRAMP_In-Process_Date": "2019-09-25T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Ex Libris",
+        "Cloud_Service_Provider_Package": "Higher-Ed Platform (Alma, Primo, Leganto, Esploro)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1305132147",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "LI-SaaS",
+        "Original_Authorization_Date": "2022-07-14T04:00:00.000Z",
+        "Original_Expiration_Date": "2025-07-08T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/ExLibris%20Logo.png",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "CSP_Website": "http://www.exlibrisgroup.com/",
+        "CSO_Description": "Ex Libris Higher-Ed Platform, consisting of Alma, Primo, Leganto, and Esploro, is an open platform that provides common cross-product services while ensuring reliability, security, and ease of integration with 3rd-party products and tools.",
+        "Announcement_Date": "2019-09-10T04:00:00.000Z",
+        "CSP_POC_Name": "Tomer Shemesh",
+        "CSP_POC_Email": "tomer.shemesh@exlibrisgroup.com",
+        "FedRAMP_In-Process_Date": "2018-06-27T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2020-02-13T05:00:00.000Z",
+            "Authorizing_Agency": "Nuclear Regulatory Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-02-08T05:00:00.000Z",
+            "Letter_Expiration_Date": "2024-02-17T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-02-17T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-11-15T05:00:00.000Z",
+            "Letter_Expiration_Date": "2023-01-15T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-11-17T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "United States Patent and Trademark Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "3M",
@@ -20117,6 +20144,29 @@
         "CSP_POC_Email": "fedramp@mongodb.com",
         "Fedramp_Ready_Date": "2021-05-24T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2021-09-07T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "NetApp",
+        "Cloud_Service_Provider_Package": "Cloud Insights",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2217348295",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Sponsoring_Agency": "Department of Agriculture",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+        "Authorizing_Agency": "Department of Agriculture",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/NetApp%20Logo.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "CSP_Website": "www.netapp.com",
+        "CSO_Description": "Cloud Insights is a SaaS observability platform for on-premises, hybrid cloud and multi-cloud resources, for full-stack visibility across organizations’ IT ecosystems. Cloud Insights provides organizations a consolidated view of their entire infrastructure for capacity management and optimization, monitoring, advanced reporting and and performance/configuration troubleshooting.\r\n\r\nCloud Insights is used by organizations at all levels of scale and across a variety of different industries to deliver the following use cases:\r\n\r\n* Visualizing performance and capacity across heterogeneous resources and infrastructure through customizable dashboards\n* Optimization and waste reduction for storage and compute resources on-prem and in the cloud\r\n* A consistent UI and operational workflows for organizations with workloads split between cloud on on-prem locations, and throughout cloud migrations\r\n* In-depth observability for Kubernetes platform administrators with Pod-to-Storage mapping, a visual cluster explorer and correlation of metrics to logs \r\n* Suite of features for managing NetApp ONTAP storage \r\n* Intelligent insights to automatically identify potential performance issues and risks of capacity exhaustion and provide remedial actions to prevent outage or degradation\r\n* Customizable BI reporting and data warehouse for chargeback, showback and capacity planning",
+        "CSP_POC_Name": "NetApp FedRAMP team",
+        "CSP_POC_Email": "ng-FedRAMP@netapp.com",
+        "FedRAMP_In-Process_Date": "2022-06-23T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
