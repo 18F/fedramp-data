@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-07-15T04:40:51.119Z",
+    "Created_At": "2022-07-16T04:40:51.162Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1841,13 +1841,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2022-07-15T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-04-27T04:00:00.000Z",
-            "Authorizing_Agency": "Office of Personnel Management",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-12-19T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-12-19T05:00:00.000Z",
             "Authorizing_Agency": "Department of Defense",
@@ -1966,6 +1959,12 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-02-01T05:00:00.000Z",
             "Authorizing_Agency": "Federal Retirement Thrift Investment Board",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRTIB%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2022-07-14T04:00:00.000Z",
+            "Authorizing_Agency": "Office of Personnel Management",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -4257,11 +4256,11 @@
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW"
         ],
-        "CSP_Website": "www.mobileiron.com",
+        "CSP_Website": "https://www.ivanti.com/",
         "CSO_Description": "MobileIron Government Cloud provides Government agencies with the foundation of the first mobile-centric, zero trust security platform to securely access and protect data across the digital workplace. MobileIron’s zero trust approach validates the device, to ensure that only authorized users, devices, apps, and services can access business resources. With MobileIron, Government agencies can secure and manage data on any device across multiple operating systems such as iOS, Android, Windows 10, macOS, Zebra and Oculus. MobileIron technology automatically provisions enterprise settings such as Wi-Fi and VPN, secures corporate email and email attachments, applications and content delivery for both GSE and BYOD programs. With MobileIron, IT departments can deliver the right resources to authorized personnel while protecting sensitive government data, preserving the privacy of end-user data, and maintaining the seamless native device experience. MobileIron Government Cloud has been purpose built to provide a cloud-based, scalable architecture that enables rapid deployment and scales up to millions of users. The MobileIron Unified Endpoint Management (UEM) platform incorporates identity, context, and privacy enforcement to set the appropriate level of access to data and services while allowing IT departments to securely manage their global mobile workforce from a single console. . When user choice and end user experience matters, MobileIron Cloud provides the simplest onboarding and superior on device experience which improves user productivity.\n\nMobileIron Government Cloud offering now includes MobileIron Threat Defense (MTD). MTD builds upon MobileIron’s mobile-centric, zero trust security framework by providing a single app that continually detects and remediates against known and unknown (zero-day) device, network and app-level threats on Android and iOS devices, with or without cellular or Wi-Fi connectivity. Deployment and activation of MTD on mobile devices is accomplished silently on managed and unmanaged devices in order to drive towards 100 percent user adoption. In addition to protecting federal data from mobile attacks, MTD helps federal agencies to comply with regulatory requirements, reduce total cost of ownership, and drive business innovation with secure mobile devices, apps, and cloud services.",
         "Announcement_Date": "2016-12-08T05:00:00.000Z",
-        "CSP_POC_Name": "Daniel Spicer",
-        "CSP_POC_Email": "security@ivanti.com",
+        "CSP_POC_Name": "Ivanti Compliance Team",
+        "CSP_POC_Email": "ProductCompliance@ivanti.com",
         "FedRAMP_In-Process_Date": "2015-12-23T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
@@ -18087,8 +18086,8 @@
         "CSP_Website": "https://www.ivanti.com/",
         "CSO_Description": "Ivanti Service Manager, powered by HEAT, helps IT teams meet today’s government and user demands for effective service delivery and support. The solution, with workflow automation, mobile and integrated Voice support, enables IT teams to quickly deploy and configure a world-class service management solution. Cloud deployment is available from FedRAMP compliant AWS data centers in North America.\nService Manager is designed to be the central point of contact between users, employees and the IT organization. It offers first and second line support to users, where incidents, problems or inaccuracies in IT systems are reported. The solution can also be an important source of management information for reporting and auditing purposes.\n\nIvanti Service Manager fully supports Incident, Problem, Change and Release Management, Self-Service, 3rd party integration and more, and is Pink Verified on 13 ITIL processes, to improve IT support performance and efficiency.",
         "Announcement_Date": "2019-11-19T05:00:00.000Z",
-        "CSP_POC_Name": "Daniel Spicer",
-        "CSP_POC_Email": "security@ivanti.com",
+        "CSP_POC_Name": "Ivanti Compliance Team",
+        "CSP_POC_Email": "ProductCompliance@ivanti.com",
         "Fedramp_Ready_Date": "2018-09-05T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2019-07-10T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
