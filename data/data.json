@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-08-01T04:40:51.043Z",
+    "Created_At": "2022-08-02T04:40:51.350Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -14926,37 +14926,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "R&K Solutions, Inc",
-        "Cloud_Service_Provider_Package": "GoRPM",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1733061545",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2021-07-05T04:00:00.000Z",
-        "Original_Expiration_Date": "2022-07-15T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Defense",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-        "Authorizing_Agency": "Department of Defense",
-        "Authorizing_Subagency": "Defense Information Systems Agency",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/RK%20Logo.png",
-        "Independent_Assessor": "Schellman Compliance, LLC",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866"
-        ],
-        "CSP_Website": "https://rksolutions.com/gorpm",
-        "CSO_Description": "GoRPM empowers organizations to collect, aggregate, analyze, manage and understand their real property, personal property, and facilities investments. GoRPM provides data driven decision making in many areas including asset inventory, strategic movement of assets (Basing), space utilization, condition assessment, sustainability, cost analysis, and budget planning and forecasting. The GoRPM is highly configurable and can be quickly implemented and scaled to meet the needs of government agencies.",
-        "Announcement_Date": "2019-08-06T04:00:00.000Z",
-        "CSP_POC_Name": "Michael Nichols",
-        "CSP_POC_Email": "fedramp@rksolutions.com",
-        "Fedramp_Ready_Date": "2018-05-29T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2018-10-22T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Modus",
         "Cloud_Service_Provider_Package": "Modus Government Solutions (MGS)",
         "Path": "JAB",
@@ -18794,6 +18763,37 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "R&K Solutions, Inc",
+        "Cloud_Service_Provider_Package": "GoRPM",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1733061545",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-07-25T04:00:00.000Z",
+        "Original_Expiration_Date": "2025-07-14T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Defense",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+        "Authorizing_Agency": "Department of Defense",
+        "Authorizing_Subagency": "Defense Information Systems Agency",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/RK%20Logo.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "https://rksolutions.com/gorpm",
+        "CSO_Description": "GoRPM empowers organizations to collect, aggregate, analyze, manage and understand their real property, personal property, and facilities investments. GoRPM provides data driven decision making in many areas including asset inventory, strategic movement of assets (Basing), space utilization, condition assessment, sustainability, cost analysis, and budget planning and forecasting. The GoRPM is highly configurable and can be quickly implemented and scaled to meet the needs of government agencies.",
+        "Announcement_Date": "2019-08-06T04:00:00.000Z",
+        "CSP_POC_Name": "Michael Nichols",
+        "CSP_POC_Email": "fedramp@rksolutions.com",
+        "Fedramp_Ready_Date": "2018-05-29T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2018-10-22T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "3M",
         "Cloud_Service_Provider_Package": "Grouper Plus Content Services (GPCS)",
         "Path": "Agency",
@@ -19239,10 +19239,10 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/ECFax%20Logo.png",
         "Independent_Assessor": "TalaTek, LLC",
         "CSP_Website": "www.cognosante.com/enterprise-cloud-fax",
-        "CSO_Description": "Enterprise Cloud Fax Government (ECFax) is a cloud-based fax platform that allows users to send and receive faxes via email, Application Programming Interface (API) integration, or a web-based send platform. It’s composed of 8 highly available subsystems, which allows users to continue sending and receiving faxes even if multiple subsystems are unavailable.\n\n* **Send Subsystem** - Accepts files to fax via email or API (the web send uses this API) in a variety of file formats, rasterizes them into a faxable form and faxes them with a variety of configuration options, retry options, and delivery notification options.\n* **Inbound Subsystem** - Accepts inbound faxes, converting them to Portable Document Format (PDF) and storing them either temporarily (for later retrieval from integrated systems) or permanently.\n* **Fax Storage Subsystem** - Accepts fax media from the send and inbound system for processing, file conversion, Optical Character Recognition (OCR), and storage.\n* **Notification Subsystem** - Receives events from the Fax Storage system around fax lifecycle events (fax received, fax sent, fax failed, etc.) and triggers an appropriate notification via email, webhook, web socket to the appropriate party.\n* **Enterprise API Subsystem** - Rest API system for sending and retrieving faxes (including individual pages of faxes), marking faxes as received and ready for deletion, and receiving send confirmations.\n* **MyAccount Subsystem** - Web-based system for sending faxes, configuring account information, and reviewing either received faxes or metadata about received faxes (if storage is disabled).\n* **Account Management Subsystem** - Rest API and back-office web applications to manage account configuration, manage inventory, and assign available inventory to users.\n* **Usage Subsystem** - Receives information about fax usage for billing and reporting and makes information available for populating reporting dashboards.",
+        "CSO_Description": "Enterprise Cloud Fax Government (ECFax) is a cloud-based fax platform powered by Consensus Cloud Solutions eFax technology. This system allows users to send and receive faxes via email, Application Programming Interface (API) integration, or a web-based user interface platform. It’s composed of 8 highly available subsystems, which allows users to continue sending and receiving faxes even if multiple subsystems are unavailable.\n\n* **Send Subsystem** - Accepts files to fax via email or API (the web send uses this API) in a variety of file formats, rasterizes them into a faxable form and faxes them with a variety of configuration options, retry options, and delivery notification options.\n* **Inbound Subsystem** - Accepts inbound faxes, converts them to Portable Document Format (PDF) and stores them either temporarily (for later retrieval from integrated systems) or permanently.\n* **Fax Storage Subsystem** - Accepts fax media from the send and inbound system for processing, file conversion, Optical Character Recognition (OCR), and storage.\n* **Notification Subsystem** - Receives events from the Fax Storage system around fax lifecycle events (fax received, fax sent, fax failed, etc.) and triggers an appropriate notification via email      webhook to the appropriate party.\n* **Enterprise API Subsystem** - RESTful API system for sending and retrieving faxes (including individual pages of faxes), marking faxes as received and ready for deletion, and receiving send confirmations.\n* **User Portal Subsystem** - Web-based system for sending faxes, configuring account information, and reviewing either received faxes or metadata about received faxes (if storage is disabled).\n* **Account Management Subsystem** - RESTful API and back-office web application to manage account configuration, manage inventory, and assign available inventory to users.\n* **Usage Subsystem** - Receives information about fax usage reporting and makes information available for populating reporting dashboards.",
         "CSP_POC_Name": "David deMoya",
         "CSP_POC_Email": "ECFax@cognosante.com",
-        "FedRAMP_In-Process_Date": "2022-03-04T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2022-07-27T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
