@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-08-03T04:40:52.061Z",
+    "Created_At": "2022-08-04T04:40:50.829Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4111,6 +4111,15 @@
             "Authorizing_Agency": "Social Security Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-07-29T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-07-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-08-03T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "Office of Science / Argonne Site Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -6034,38 +6043,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Boomi",
-        "Cloud_Service_Provider_Package": "AtomSphere",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1916254386",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2019-06-11T04:00:00.000Z",
-        "Original_Expiration_Date": "2022-06-11T04:00:00.000Z",
-        "Sponsoring_Agency": "United States Agency for International Development",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
-        "Authorizing_Agency": "United States Agency for International Development",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Dell%20Boomi%20Logo2.png",
-        "Independent_Assessor": "Schellman Compliance, LLC",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW",
-          "F1206081364",
-          "F1607057910",
-          "FR1823447014"
-        ],
-        "CSP_Website": "www.boomi.com",
-        "CSO_Description": "Boomi AtomSphere is a cloud-native integration Platform-as-a-Service (iPaaS) technology that lets you connect everyone to everything. As a SaaS – based technology it is faster, easier to use, less costly, and more flexible than legacy integration tools and techniques. As a pioneer and leader in Gartner’s Enterprise iPaaS Magic Quadrant for 7 years in a row, the Boomi SaaS AtomSphere Platform has been solving the needs of our government customers with end-to-end capabilities by integrating applications, systems, and connecting people. Boomi delivers in three key areas for our Customers:\n**Modernization and Digital Transformation**\nBoomi is a key part of any modern IT foundation and enables the transformation of operations, ensuring proper connectivity and smooth data exchange when applications and infrastructure are migrated and consolidated\n**Accelerating Cloud Smart Adoption**\nSpeeding up cloud adoption to boost operational efficiency and implement shared services to foster collaboration and increase engagement\n**Improving Constituents’ Experience**\nBringing together workforce processes and workflows from across organizations for a streamlined approach to customer experience and serve employees, partners, contractors, and citizens better.\nCovered by our FedRAMP Authorization are the following Cloud Products:\n**Integration**\nOvercome IT complexity and break down data silos by integrating on-premises and cloud application, various data sources and devices with Boomi Integration. Create a fabric of connectivity to unlock productivity and thrive within your digital technology foundation. Boomi Integration Accelerates time to value leveraging a drag and drop UI, data mapping tools, and a comprehensive library of connectors, coupled with support for various integration patterns enable you to build any integrations with exceptional speed.\n**Master Data Hub (MDH)**\nBoomi Master Data Hub is a cloud-native master data management (MDM) solution that sits at the center of the various data silos within your business – including your existing MDM solution, to provide you an easy to implement, scalable, flexible, and secure master data management hub as a service.\n**API Management (APIM)**\nBoomi API Management supports the full lifecycle of APIs in a hybrid environment. Configure APIs and expose real-time integrations effortlessly. Centrally test and deploy APIs and enforce contracts and policies with an API gateway. Monitor the health of APIs with usage dashboards and engage API developers using the catalog and developer portal.\n**B2B/EDI Management**\nEffectively integrate with your vendors, suppliers, distributors, partners, and marketplaces to simplify processes and trade smarter. Built-in support for a wide variety of traditional and modern EDI standards including XML, X12, EDIFACT, HC7, RosettaNet, Tradacoms, as well as the ability to define custom standards.\nAdditionally, our DCP Product sits fully On-Prem.\n**Data Catalog and Prep (DCP)**\nDCP is an on premise solution that allows agencies to find known, unknown, dormant and underutilized data across your agencies applications and data stores. DCP enables agencies to bring together data across systems, applications and people to build a resource of trusted, complete, and current business intelligence. Once you data is known, DCP ensures that all of your data is catalog and available for you various applications and BI/analytic tools.",
-        "Announcement_Date": "2019-08-12T04:00:00.000Z",
-        "CSP_POC_Name": "Mario Tarin",
-        "CSP_POC_Email": "federal.sales@boomi.com",
-        "FedRAMP_In-Process_Date": "2019-03-13T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Smartsheet",
         "Cloud_Service_Provider_Package": "Smartsheet Gov",
         "Path": "JAB",
@@ -7289,6 +7266,13 @@
             "Authorizing_Agency": "Federal Trade Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-08-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-08-01T04:00:00.000Z",
+            "Authorizing_Agency": "Tennessee Valley Authority",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-TennesseeValleyAuthority-Logo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -7381,7 +7365,7 @@
         "CSO_Description": "VMware Workspace ONE® is a FedRAMP Moderate Authorized solution, providing a digital workspace platform that combines endpoint device deployment and management with secure Zero Trust Access for agencies & branches.\nConsistently ranked as a leader by industry analysts, Workspace ONE delivers consumer-simple, single sign-on (SSO) access to cloud, web, and Windows apps in one unified catalog that engages employees. Agencies can enable employees with a broad range of devices including iOS, Android, Mac, Windows and rugged devices to meets the needs or preferences of a user or their mission while enforcing fine-grained, conditional access policies that also take into account device compliance information delivered by unified endpoint management (UEM) technology.\nThe Workspace ONE FedRAMP environment now includes ‘Workspace ONE Access’, (formerly VMware Identity Manager), which provides multi-factor and derived credentials authentication, conditional access and single sign-on to SaaS and web apps, and Workspace ONE Intelligent Hub, which offers a unified catalog, actionable notifications of potential interest to employees, and a people directory for a full digital workspace experience.\nWorkspace ONE Intelligence, now available for FedRAMP customers, delivers insights, analytics and automation for the digital workspace by aggregating and correlating device, application and user data coming from multiple sources in your environment. Agencies can improve employee experience with the Digital Employee Experience Management solution powered by Workspace ONE Intelligence, and strengthen the overall security posture by implementing Zero Trust capabilities.",
         "Announcement_Date": "2019-11-21T05:00:00.000Z",
         "CSP_POC_Name": "Workspace ONE FedRAMP Team",
-        "CSP_POC_Email": "fedramp-vmc@vmware.com",
+        "CSP_POC_Email": "VGS_FedRAMP@vmware.com",
         "FedRAMP_In-Process_Date": "2019-02-20T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
@@ -8217,6 +8201,13 @@
             "Authorizing_Agency": "Department of Homeland Security",
             "Authorizing_Subagency": "Cybersecurity & Infrastructure Security Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-08-02T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-03-25T04:00:00.000Z",
+            "Authorizing_Agency": "General Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -9302,7 +9293,17 @@
         "CSP_POC_Name": "Nutanix Compliance Team",
         "CSP_POC_Email": "compliance@nutanix.com",
         "FedRAMP_In-Process_Date": "2019-07-29T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2022-06-06T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-07-06T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-07-06T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Housing and Urban Development",
+            "Authorizing_Subagency": "HUD Office of the Inspector General",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHUD-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "HackerOne",
@@ -9677,6 +9678,13 @@
             "Authorizing_Agency": "Department of Transportation",
             "Authorizing_Subagency": "Federal Aviation Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-06-09T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-06-09T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Reserve System",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRS%20Logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -10733,14 +10741,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2021-06-25T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-08-02T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-07-02T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2022-03-28T04:00:00.000Z",
             "Letter_Expiration_Date": "2025-03-28T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-03-29T04:00:00.000Z",
@@ -10760,6 +10760,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-05-10T04:00:00.000Z",
             "Authorizing_Agency": "Nuclear Regulatory Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-08-01T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-02-01T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-08-01T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -14893,48 +14901,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "OCLC Incorporated",
-        "Cloud_Service_Provider_Package": "WorldShare Management Services",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1734750951",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "LI-SaaS",
-        "Original_Authorization_Date": "2021-07-13T04:00:00.000Z",
-        "Original_Expiration_Date": "2022-07-13T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Commerce",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-        "Authorizing_Agency": "Department of Commerce",
-        "Authorizing_Subagency": "United States Census Bureau",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/OCLC%20Logo.png",
-        "Independent_Assessor": "Schellman Compliance, LLC",
-        "CSP_Website": "http://oclc.org",
-        "CSO_Description": "OCLC is a nonprofit global library organization. Through OCLC, member libraries cooperatively produce and maintain WorldCat, the world’s most comprehensive global network of data about library collections and services. Libraries gain efficiencies through OCLC’s WorldShare Management Services (WMS), a cloud-based library services platform. With WorldCat as its foundation, WMS allows library staff to draw on the collaborative data and work of libraries worldwide for more efficient workflows, and to better manage and access resources in all formats. WMS offers all the applications needed to manage a library, including acquisitions, circulation, resource sharing, metadata and electronic resource management. WMS also offers analytics, including custom reports and visualizations, and a discovery service for library users. Stand-alone products supported within the WorldShare platform include Cataloging/Metadata Services, WorldShare ILL and WorldCat Discovery, which helps searchers find and get resources they need from a library nearby, or from member libraries worldwide.",
-        "Announcement_Date": "2020-07-01T04:00:00.000Z",
-        "CSP_POC_Name": "Anthony Fisic",
-        "CSP_POC_Email": "fedramp@oclc.org",
-        "FedRAMP_In-Process_Date": "2020-01-28T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2021-05-03T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-05-04T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Trade Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-06-25T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-06-25T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Labor",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Modus",
         "Cloud_Service_Provider_Package": "Modus Government Solutions (MGS)",
         "Path": "JAB",
@@ -17686,7 +17652,7 @@
         "CSO_Description": "VMware Government Services (VGS) is a set of cloud service offerings designed to allow US government agencies and customers supporting the US government to migrate, manage, and operate more sensitive workloads in the cloud. The VGS authorization boundary provides Software-as-a-Service (SaaS) and Infrastructure-as-a-Service (IaaS) capabilities to deliver modern applications at the speed the US government demands and operate across the data center, the edge, and the cloud. VGS provides the following FedRAMP authorized services at the High baseline: VMware Cloud on AWS GovCloud (US) (VMC), Hybrid Cloud Extension (HCX), Carbon Black Cloud (CBC), and Software Defined WAN (SD-WAN). More information on the VGS public sector roadmap can be found on the VMware Trust Center [https://www.vmware.com/products/trust-center/certificate.html?family=FedRAMP](https://www.vmware.com/products/trust-center/certificate.html?family=FedRAMP).",
         "Announcement_Date": "2022-04-18T04:00:00.000Z",
         "CSP_POC_Name": "VMware Government Services",
-        "CSP_POC_Email": "fedramp-vmc@vmware.com",
+        "CSP_POC_Email": "VGS_FedRAMP@vmware.com",
         "Fedramp_Ready_Date": "2020-05-06T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2021-12-07T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
@@ -17887,7 +17853,17 @@
         "CSP_POC_Name": "Alberto De Benito Aznar",
         "CSP_POC_Email": "TeamMate-FedRAMP@wolterskluwer.com",
         "FedRAMP_In-Process_Date": "2022-02-15T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2022-07-29T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-07-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-08-03T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "Office of Science / Argonne Site Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Adobe",
@@ -17927,6 +17903,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-07-20T04:00:00.000Z",
             "Authorizing_Agency": "Department of Agriculture",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2022-12-03T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-06-21T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -18260,7 +18243,7 @@
           "F1209051525"
         ],
         "CSP_Website": "www.gordian.com/federal",
-        "CSO_Description": "Gordian Federal Cloud is an enterprise Software as a Service (SaaS) solution powered by RSMeans data. The cloud-based solution is a comprehensive suite of modules designed to securely provide federal users with the tools and cost data to better manage construction and facilities estimates, contracts and pricing proposals. Decision-makers are empowered with up-to-date information that will deliver accurate and competitive bids, minimize the risk of cost overruns, reduce variability and gain control over costs.\nGordian is the leader in facility and construction cost data, software and services for all phases of the building lifecycle. A pioneer of Job Order Contracting, Gordian’s solutions also include our proprietary RSMeans data and Sightlines facility benchmarking and analysis. From planning to design, procurement, construction and operations, Gordian’s solutions help clients maximize efficiency, optimize cost savings and increase building quality.",
+        "CSO_Description": "Gordian Federal Cloud is an enterprise Software as a Service (SaaS) solution powered by RSMeans data. The cloud-based solution is a comprehensive suite of modules designed to securely provide federal users with the tools and cost data to better manage construction and facilities estimates, contracts and pricing proposals. Decision-makers are empowered with up-to-date information that will deliver accurate and competitive bids, minimize the risk of cost overruns, reduce variability and gain control over costs.\n\nGordian is the leader in facility and construction cost data, software and services for all phases of the building lifecycle. A pioneer of Job Order Contracting, Gordian’s solutions also include our proprietary RSMeans data and a comprehensive suite of Facilities Planning solutions. From planning to design, procurement, construction and operations, Gordian’s solutions help clients maximize efficiency, optimize cost savings and increase building quality.",
         "Announcement_Date": "2022-07-02T04:00:00.000Z",
         "CSP_POC_Name": "Lisa Cooley",
         "CSP_POC_Email": "fedramp@gordian.com",
@@ -18682,7 +18665,7 @@
           "F1508207205"
         ],
         "CSP_Website": "www.iboss.com",
-        "CSO_Description": "With over 4,000 customers, including the largest government, financial, insurance, energy and technology organizations, iboss provides users direct and secure access to cloud applications from wherever they work. iboss transitions organizations from protecting in-office workers to protecting the modern work-from-anywhere workforce while providing fast, secure and direct connections to cloud applications to increase productivity and protect organizations from malware and data loss. A Gartner Magic Quadrant “Visionary”, and backed by 230+ issued and pending patents, iboss processes and secures over 150 billion daily network transactions globally and has built the largest containerized cloud security fabric. The iboss Government Cloud Platform enables agencies to modernize their architecture, by reducing the dependency or eliminating the need for traditional network security appliances that are no longer effective at protecting today’s hybrid workforce. Jump-start your SASE transformation and experience the future of cloud security today",
+        "CSO_Description": "With over 4,000 customers, including the largest government, financial, insurance, energy and technology organizations, iboss enables government to reduce cyber risk by delivering a FedRAMP Authorized Zero Trust Secure Service Edge that protects resources and users from wherever they work. iboss delivers security capabilities such as SWG, malware defense, browser isolation, CASB and data loss prevention within a completely unified cloud platform to protect all resources, instantaneously and at scale. This shifts the focus from protecting buildings to protecting people and resources wherever they are located. Backed by 230+ issued and pending patents, iboss processes and secures over 150 billion daily network transactions globally, blocking 4 billion threats per day. The iboss Government Cloud Platform enables federal agencies to migrate rapidly into a Zero Trust architecture as mandated by the Presidential Executive Order on Cyber. Jump-start your transformational journey and experience the future of Zero Trust cloud security today. Visit www.iboss.com to learn more.",
         "Announcement_Date": "2022-07-25T04:00:00.000Z",
         "CSP_POC_Name": "Heath Crocker",
         "CSP_POC_Email": "fedramp@ibossgov.com",
@@ -18801,6 +18784,111 @@
         "Fedramp_Ready_Date": "2018-05-29T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2018-10-22T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Secunetics, Inc.",
+        "Cloud_Service_Provider_Package": "Gobo Framework (Gobo)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2214346691",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-03-18T04:00:00.000Z",
+        "Original_Expiration_Date": "2023-03-17T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of the Interior",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+        "Authorizing_Agency": "Department of the Interior",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Secunetics%20Logo.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "Underlying_CSP_Package_ID": [
+          "FR1805751477",
+          "F1206081364",
+          "FR1823447014"
+        ],
+        "CSP_Website": "https://www.secunetics.com/gobo",
+        "CSO_Description": "Gobo is a highly specialized set of applications built on a modular software architecture. Gobo provides a simple-to-configure, easy-to-use, and reliable platform for ingesting, analyzing, calculating, visualizing, and reporting on complex datasets. Gobo automates and simplifies a range of infrastructure engineering and operations tasks by means of web-based applications called I2Apps.",
+        "Announcement_Date": "2022-08-01T04:00:00.000Z",
+        "CSP_POC_Name": "Allen Chen",
+        "CSP_POC_Email": "fedramp@secunetics.com",
+        "FedRAMP_In-Process_Date": "2022-03-18T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Boomi",
+        "Cloud_Service_Provider_Package": "AtomSphere",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1916254386",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-07-27T04:00:00.000Z",
+        "Original_Expiration_Date": "2025-07-27T04:00:00.000Z",
+        "Sponsoring_Agency": "United States Agency for International Development",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
+        "Authorizing_Agency": "United States Agency for International Development",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Dell%20Boomi%20Logo2.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1206081364",
+          "F1607057910",
+          "FR1823447014"
+        ],
+        "CSP_Website": "www.boomi.com",
+        "CSO_Description": "Boomi AtomSphere is a cloud-native integration Platform-as-a-Service (iPaaS) technology that lets you connect everyone to everything. As a SaaS – based technology it is faster, easier to use, less costly, and more flexible than legacy integration tools and techniques. As a pioneer and leader in Gartner’s Enterprise iPaaS Magic Quadrant for 7 years in a row, the Boomi SaaS AtomSphere Platform has been solving the needs of our government customers with end-to-end capabilities by integrating applications, systems, and connecting people. Boomi delivers in three key areas for our Customers:\n**Modernization and Digital Transformation**\nBoomi is a key part of any modern IT foundation and enables the transformation of operations, ensuring proper connectivity and smooth data exchange when applications and infrastructure are migrated and consolidated\n**Accelerating Cloud Smart Adoption**\nSpeeding up cloud adoption to boost operational efficiency and implement shared services to foster collaboration and increase engagement\n**Improving Constituents’ Experience**\nBringing together workforce processes and workflows from across organizations for a streamlined approach to customer experience and serve employees, partners, contractors, and citizens better.\nCovered by our FedRAMP Authorization are the following Cloud Products:\n**Integration**\nOvercome IT complexity and break down data silos by integrating on-premises and cloud application, various data sources and devices with Boomi Integration. Create a fabric of connectivity to unlock productivity and thrive within your digital technology foundation. Boomi Integration Accelerates time to value leveraging a drag and drop UI, data mapping tools, and a comprehensive library of connectors, coupled with support for various integration patterns enable you to build any integrations with exceptional speed.\n**Master Data Hub (MDH)**\nBoomi Master Data Hub is a cloud-native master data management (MDM) solution that sits at the center of the various data silos within your business – including your existing MDM solution, to provide you an easy to implement, scalable, flexible, and secure master data management hub as a service.\n**API Management (APIM)**\nBoomi API Management supports the full lifecycle of APIs in a hybrid environment. Configure APIs and expose real-time integrations effortlessly. Centrally test and deploy APIs and enforce contracts and policies with an API gateway. Monitor the health of APIs with usage dashboards and engage API developers using the catalog and developer portal.\n**B2B/EDI Management**\nEffectively integrate with your vendors, suppliers, distributors, partners, and marketplaces to simplify processes and trade smarter. Built-in support for a wide variety of traditional and modern EDI standards including XML, X12, EDIFACT, HC7, RosettaNet, Tradacoms, as well as the ability to define custom standards.\nAdditionally, our DCP Product sits fully On-Prem.\n**Data Catalog and Prep (DCP)**\nDCP is an on premise solution that allows agencies to find known, unknown, dormant and underutilized data across your agencies applications and data stores. DCP enables agencies to bring together data across systems, applications and people to build a resource of trusted, complete, and current business intelligence. Once you data is known, DCP ensures that all of your data is catalog and available for you various applications and BI/analytic tools.",
+        "Announcement_Date": "2019-08-12T04:00:00.000Z",
+        "CSP_POC_Name": "Mario Tarin",
+        "CSP_POC_Email": "federal.sales@boomi.com",
+        "FedRAMP_In-Process_Date": "2019-03-13T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "OCLC Incorporated",
+        "Cloud_Service_Provider_Package": "WorldShare Management Services",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1734750951",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "LI-SaaS",
+        "Original_Authorization_Date": "2022-07-13T04:00:00.000Z",
+        "Original_Expiration_Date": "2023-07-13T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Commerce",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+        "Authorizing_Agency": "Department of Commerce",
+        "Authorizing_Subagency": "United States Census Bureau",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/OCLC%20Logo.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "CSP_Website": "http://oclc.org",
+        "CSO_Description": "OCLC is a nonprofit global library organization. Through OCLC, member libraries cooperatively produce and maintain WorldCat, the world’s most comprehensive global network of data about library collections and services. Libraries gain efficiencies through OCLC’s WorldShare Management Services (WMS), a cloud-based library services platform. With WorldCat as its foundation, WMS allows library staff to draw on the collaborative data and work of libraries worldwide for more efficient workflows, and to better manage and access resources in all formats. WMS offers all the applications needed to manage a library, including acquisitions, circulation, resource sharing, metadata and electronic resource management. WMS also offers analytics, including custom reports and visualizations, and a discovery service for library users. Stand-alone products supported within the WorldShare platform include Cataloging/Metadata Services, WorldShare ILL and WorldCat Discovery, which helps searchers find and get resources they need from a library nearby, or from member libraries worldwide.",
+        "Announcement_Date": "2020-07-01T04:00:00.000Z",
+        "CSP_POC_Name": "Anthony Fisic",
+        "CSP_POC_Email": "fedramp@oclc.org",
+        "FedRAMP_In-Process_Date": "2020-01-28T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2021-05-03T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-05-04T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Trade Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-06-25T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-06-25T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Labor",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "3M",
@@ -20807,29 +20895,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Secunetics, Inc.",
-        "Cloud_Service_Provider_Package": "Gobo Framework (Gobo)",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2214346691",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of the Interior",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-        "Authorizing_Agency": "Department of the Interior",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Secunetics%20Logo.png",
-        "Independent_Assessor": "Schellman Compliance, LLC",
-        "CSP_Website": "https://www.secunetics.com/gobo",
-        "CSO_Description": "Gobo is a highly specialized set of applications built on a modular software architecture. Gobo provides a simple-to-configure, easy-to-use, and reliable platform for ingesting, analyzing, calculating, visualizing, and reporting on complex datasets. Gobo automates and simplifies a range of infrastructure engineering and operations tasks by means of web-based applications called I2Apps.",
-        "CSP_POC_Name": "Allen Chen",
-        "CSP_POC_Email": "fedramp@secunetics.com",
-        "FedRAMP_In-Process_Date": "2022-03-18T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Securonix, Inc.",
         "Cloud_Service_Provider_Package": "Securonix Security Operations and Analytics Platform",
         "Path": "Agency",
@@ -21888,7 +21953,7 @@
         "Additional_Cyber_Frameworks": "* HIPAA / HITECH\n* PCI DSS\n* SOC 2 Audit\n* SOC 3 Audit"
       },
       {
-        "Name": "Dakota Consulting, Inc. (In Remediation)",
+        "Name": "Dakota Consulting, Inc. ",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Dakota%20Consulting%20Inc%20Logo%202016.jpg",
         "Description": "We have successfully completed a wide variety of security projects including:  assessment and authorization; enterprise and system risk management; creation of security program policy, procedures, and documentation; continuous monitoring; independent verification and validation; security training; gap assessments; requirements analysis; FISMA audit; information assurance; and additional activities in support of these broader services. Our expertise, staff certifications, and company credentials allow us to guide our customers’ cybersecurity strategies for maintaining cost effective programs for compliance with FedRAMP, FISMA, Office of Management and Budget (OMB), and other Federal civilian and Department of Defense (DoD) mandates.",
         "POC_Name": "Felece Whitfield",
@@ -21936,7 +22001,7 @@
         "Additional_Cyber_Frameworks": "* ISO/IEC 27001:2013\n* SOC in progress"
       },
       {
-        "Name": "Jacobs (In Remediation)",
+        "Name": "Jacobs ",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Jacobs%20Logo.png",
         "Description": "Jacobs is a certified FedRAMP 3PAO, able to assist both CSPs and government agencies in meeting FedRAMP compliance. Authorized FedRAMP Services:\n\n* **Consulting** – Security planning, development, and implementation\n* **Pre-Assessment** – Preliminary review and preparation\n* **Assessment** – Multilevel security testing and assessment\n* **Continuous Monitoring** – Ensuring FedRAMP compliance",
         "POC_Name": "Lisa Ortiz",
@@ -21952,7 +22017,7 @@
         "Additional_Cyber_Frameworks": "SAP® Consulting Services Partner\n\n* NIST Cybersecurity Framework (CSF)\n* NIST Risk Management Framework (RMF)"
       },
       {
-        "Name": "Lazarus Alliance, Inc. (In Remediation)",
+        "Name": "Lazarus Alliance, Inc.",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Lazarus%20Alliance%20Logo.png",
         "Description": "Lazarus Alliance provides FedRAMP advisory and assessment services for public, private, community, and hybrid cloud service offerings, including Software as a Service (SaaS), Platform as a Service (PaaS) and, Infrastructure as a Service (IaaS).",
         "POC_Name": "Michael Peters",
@@ -21968,7 +22033,7 @@
         "Additional_Cyber_Frameworks": "* PCI DSS & SAQ\n* FedRAMP\n* HIPAA\n* NIST-FISMA\n* SSAE 16 (SOC 1)\n* AT 101 (SOC 2)\n* SysTrust / WebTrust (SOC 3)\n* ISO 27001, 27002, 27005 (Advisory)\n* NERC CIP\n* SOX"
       },
       {
-        "Name": "Paragon Technology Group, Inc. (In Remediation)",
+        "Name": "Paragon Technology Group, Inc.",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Paragon%20Logo.png",
         "Description": "Paragon is a FedRAMP recognized 3PAO. We are fully equipped to assess cloud service providers (CSP) undergoing FedRAMP authorization. For CSPs who want to provide services to the federal government, we can provide readiness assessments to give confidence going into the FedRAMP authorization process.  Paragon also provides pre-assessment consulting to help a CSP prepare and successfully navigate the FedRAMP authorization process.  Finally, Paragon provides 3PAO continuous monitoring support for FedRAMP authorized systems, including annual assessments, and significant impact (change) review.",
         "POC_Name": "Greg Horine ",
