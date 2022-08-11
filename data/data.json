@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-08-10T04:40:51.548Z",
+    "Created_At": "2022-08-11T04:40:50.955Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3586,8 +3586,8 @@
         "CSP_Website": "www.everbridge.com",
         "CSO_Description": "Everbridge is a global provider of SaaS-based unified critical communications solutions. During mission-critical business events or man-made or natural disasters, the Everbridge platform enables customers to quickly and reliably deliver the right message and reach the right people, on the right device, in the right location, at the right time. Utilizing sophisticated communications technologies, Everbridge has the ability to deliver and verify messages in near real-time to more than 100 different communication devices, in over 200 countries and territories, in multiple languages – all simultaneously.",
         "Announcement_Date": "2018-07-26T04:00:00.000Z",
-        "CSP_POC_Name": "SK Bhachech",
-        "CSP_POC_Email": "FedRAMPinfo@everbridge.com",
+        "CSP_POC_Name": "Karen Meohas",
+        "CSP_POC_Email": "compliance@everbridge.com",
         "FedRAMP_In-Process_Date": "2018-02-06T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
@@ -12309,14 +12309,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2022-03-22T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-07-22T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-03-23T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2021-11-15T05:00:00.000Z",
             "Authorizing_Agency": "National Aeronautics and Space Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NASA_logo.png",
@@ -12384,7 +12376,6 @@
             "Letter_Date": "2022-04-25T04:00:00.000Z",
             "Letter_Expiration_Date": "2022-10-30T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-05-02T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "International Trade Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
@@ -12404,6 +12395,14 @@
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Joint Service Provider",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-08-09T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-12-22T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-08-10T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -19946,6 +19945,29 @@
         "CSP_POC_Name": "Eric Cohen",
         "CSP_POC_Email": "GCCXSecGRCFedRAMPPMO@genesys.com",
         "FedRAMP_In-Process_Date": "2022-04-19T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "GetWellNetwork",
+        "Cloud_Service_Provider_Package": "GetWellNetwork  - Get Well Anywhere - Federal",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2210851632",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/GetWell%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": " www.getwellnetwork.com",
+        "CSO_Description": "GetWellNetwork Inc. (Get Well) provides a patient, family, and staff engagement platform to healthcare providers and consumers around the world.  The Get Well platform, Get Well Anywhere Federal (GWAF), consists of several interrelated core components - GetWell Inpatient, GetWell Rounds+ and GetWell Loop. Each component of the platform provides a number of features:\n\n**GetWell Loop**\nAccessed via a standard web browser, or via the GetWell Anywhere mobile application, GetWell Loop is a digital care management tool that helps keep patients connected to their clinical teams while ensuring they are prepared for procedures, educated on follow up care and provided all the necessary information wherever they may be. GetWell Loop provides automated daily check ins via text, email or mobile notifications that keep them engaged with the clinical teams before admission and after discharge; Clinicians receive actionable data that provides a real-time window into the patient’s status - allowing teams to manage by exception; Patients are guided to provide feedback on their clinical teams which drive positive provider reviews and ratings and critically, patients are prompted via the tool, alerts and notifications to maintain adherence to their care plans and that simultaneously educated what to do related to their care, when to do it, and why.\n\n**GetWell Rounds+**\nAccessed via a standard web browser, or via a mobile application, provides a digital rounding, reporting and real-time service recovery solution. Data captured during rounding automatically triggers real-time alerts on service recovery issues, giving nurses the ability to triage tasks to appropriate departments. The tool provides the ability to develop surveys and survey templates infused with patient information and conditional logic. The clinical teams can then use the tool during their rounding workflows to complete those surveys and have that information directed into reports, sent as alerts to other clinical teams, or push data back to the clinical record.\n\n**GetWell Inpatient**\nThe GetWell Inpatient application offers many features which can be accessed through a number of endpoints including Smart TVs, Agency Mobile Devices, and users' personal devices via the GWAF app, all intended to educate, inform, entertain and empower patients while in an inpatient hospital facility. Through integrations with clinical systems, patients and families can order meals, control their room environment, receive personalized education, request medication prescription fills, complete surveys; view history of staff visits and see their plan of care for the day and be entertained with movies, internet access and games. Clinical users can view push information to patients; prescribe education and view critical patient information on room entry screens and other displays, receive patient requests and understand patient system utilization via reports and dashboards.  \n\n**GetWell Anywhere Mobile App**\nFor the patient, the ultimate goal of the Get Well mobile experience is to create a frictionless, guided, cross-continuum patient experience that improves care team efficiency and scalability, facilitates care plan completion, and retains patient business in-network and grows share of wallet. \n\n**The vision of the Get Well mobile experience:** \n\n* Engages patients through pre-admission, hospital stay, and recovery at home\n* Feels like the care team is guiding the patient every step of the way\n* Automatically enable check-ins with patients while they are in the hospital and at-home\n* Surfaces critical patient information for the care team (even if patient is in a different setting of care)\n* Enables ongoing communication, monitoring and relationship development to improve outcomes and share of wallet\n* Performs as a TV remote control when the patient is assigned to a hospital room with a registered patient device.\n\nThe Get Well platform can be integrated closely with many clinical and non-clinical systems used by the agency health systems. Integrations types include HL7 integrations for data exchange with EHRs and other clinical systems over secure tunnels; API integrations over secure web communication for integration against systems which support it such as dietary, real time location services; SAML and other authentication integrations to staff directory services; secure file based integrations via SFTP for batch level data integration or file exchange; and a number of other secure messaging integrations for relaying alerts and information to clinical staff.\n\n All components of the platform are hosted in our Amazon Web Services (AWS) GovCloud environment and are provided as a fully supported and managed service to healthcare customers.",
+        "CSP_POC_Name": "Jeremy Lynch",
+        "CSP_POC_Email": "fedramp@getwellnetwork.com",
+        "FedRAMP_In-Process_Date": "2022-08-09T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
