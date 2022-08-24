@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-08-23T04:40:50.988Z",
+    "Created_At": "2022-08-24T04:40:50.764Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4040,6 +4040,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-03-03T05:00:00.000Z",
             "Authorizing_Agency": "Department of Education",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-01-11T05:00:00.000Z",
+            "Letter_Expiration_Date": "2023-03-28T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-01-31T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "United States Patent and Trademark Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -10837,6 +10846,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-06-29T04:00:00.000Z",
             "Authorizing_Agency": "Department of Education",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-11-08T05:00:00.000Z",
+            "Letter_Expiration_Date": "2022-12-31T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-11-12T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "United States Patent and Trademark Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -19939,6 +19957,8 @@
         ],
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "LI-SaaS",
+        "Original_Authorization_Date": "2022-06-03T04:00:00.000Z",
+        "Original_Expiration_Date": "2025-05-24T04:00:00.000Z",
         "Sponsoring_Agency": "Department of Health and Human Services",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
         "Authorizing_Agency": "Department of Health and Human Services",
@@ -20296,6 +20316,7 @@
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-04-28T04:00:00.000Z",
         "Sponsoring_Agency": "Millennium Challenge Corporation",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-MillenniumChallengeCorporation-Seal.png",
         "Authorizing_Agency": "Millennium Challenge Corporation",
@@ -20422,7 +20443,7 @@
         "CSP_Website": "https://lucid.co/solutions/government",
         "CSO_Description": "Lucid Software for Government helps teams see and build the future—faster. Bring your ideas to life, clarify complexity, and create seamless alignment across teams and organizations. \n\nGovernment agencies and contractors leverage Lucid products to document teams and processes, plan project deliverables on-time and within budget, visualize cloud architecture, and more. Lucid offers a secure, cloud-based environment for government agencies to accomplish their objectives visually. \n\nLucid Software for Government is available for the Lucid Visual Collaboration Suite, which includes both Lucidchart and Lucidspark, and is also available for Lucidscale. \n\n* **Lucidchart** is an intelligent diagramming application that allows users to visualize complex ideas, systems, and processes that drive alignment across teams. \n\n* **Lucidspark** is a virtual whiteboard application that enables teams to collaborate, ideate, and build better ideas, faster. \n\n* **Lucidscale** is a cloud visualization solution that helps organizations visualize their cloud environment and automate cloud documentation.  ",
         "CSP_POC_Name": "Neal Ferrell",
-        "CSP_POC_Email": "sales@lucid.com",
+        "CSP_POC_Email": "sales@lucid.co",
         "FedRAMP_In-Process_Date": "2022-08-20T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
@@ -21429,7 +21450,7 @@
         "Independent_Assessor": "Kratos",
         "CSP_Website": "www.widepoint.com",
         "CSO_Description": "ITMS™ (Intelligent Telecommunications Management System) is Moderate security level Software as a Service (SaaS) providing cloud-based telecom lifecycle management functions. ITMS™ offers a user-friendly, customizable Web portal interface that allows for online configuration, ordering, tracking, auditing, updating of databases, and the ability to view and generate reports. ITMS™ enables WidePoint to optimize and manage a client’s telecommunications assets, services, contracts, and invoices with transparency and accountability to deliver maximum savings.",
-        "CSP_POC_Name": "Victoria Engleking",
+        "CSP_POC_Name": "Casey Davis",
         "CSP_POC_Email": "fedramp@widepoint.com",
         "Fedramp_Ready_Date": "2021-11-15T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
