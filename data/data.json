@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-08-30T04:40:52.452Z",
+    "Created_At": "2022-08-31T04:40:50.985Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -6456,14 +6456,6 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-09-20T04:00:00.000Z",
             "Authorizing_Agency": "Small Business Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SmallBusinessAdmin-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-06-25T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-06-25T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-06-25T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Veterans Affairs",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -15684,6 +15676,13 @@
             "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-08-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-08-07T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Deposit Insurance Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -16735,7 +16734,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "MAXIMUS Inc.",
-        "Cloud_Service_Provider_Package": "MAXIMUS Cloud (includes Genesys Engagement Platform)",
+        "Cloud_Service_Provider_Package": "MAXIMUS Cloud",
         "Path": "JAB",
         "Designation": "Compliant",
         "Package_ID": "F1303191948",
@@ -18202,7 +18201,7 @@
           "FR1823447014"
         ],
         "CSP_Website": "https://www.secunetics.com/gobo",
-        "CSO_Description": "Gobo is a highly specialized set of applications built on a modular software architecture. Gobo provides a simple-to-configure, easy-to-use, and reliable platform for ingesting, analyzing, calculating, visualizing, and reporting on complex datasets. Gobo automates and simplifies a range of infrastructure engineering and operations tasks by means of web-based applications called I2Apps.",
+        "CSO_Description": "Gobo offers an easy-to-use platform for analyzing complex datasets and automating workflows related to information technology (IT) infrastructure, services, and business processes.  Gobo simplifies engineering and operations tasks via web-based applications called I2Apps.  Specialized I2Apps are available for the federal market to help manage government-specific use cases, such as tracking compliance with federal IT mandates and managing General Services Administration (GSA) Enterprise Infrastructure Solutions (EIS) services.",
         "Announcement_Date": "2022-08-01T04:00:00.000Z",
         "CSP_POC_Name": "Allen Chen",
         "CSP_POC_Email": "fedramp@secunetics.com",
@@ -18530,14 +18529,6 @@
         "FedRAMP_In-Process_Date": "2019-03-09T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Date": "2019-08-30T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-08-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-08-30T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2023-04-10T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-04-10T04:00:00.000Z",
             "Authorizing_Agency": "Department of Veterans Affairs",
@@ -18588,6 +18579,14 @@
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Defense Information Systems Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-08-09T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-08-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-08-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -19097,6 +19096,39 @@
             "Include_In_Marketplace": "Y"
           }
         ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Cority Software Inc.",
+        "Cloud_Service_Provider_Package": "Cority Trusted Environmental, Health, Safety and Quality Management (EHSQ) Software",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2029183077",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-05-04T04:00:00.000Z",
+        "Original_Expiration_Date": "2025-04-11T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Cority%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "F1603087869",
+          "F1607057910",
+          "F1508207205",
+          "F1607197917"
+        ],
+        "CSP_Website": "https://www.cority.com",
+        "CSO_Description": "Cority’s Trusted EHSQ Software is the enterprise software solution SaaS platform that spans the full spectrum of Environmental, Health, Safety, and Quality (EHSQ) management across an organization to help the Agency thrive. The Trusted EHSQ software is powerful and configurable, providing greater flexibility, improving collaboration, amplifying business intelligence and performance, and reducing the burden of managing multiple solutions. Cority’s iterative deployment methodology and ability to integrate easily with other optional third-party services result in painless data migrations, software aligned to business processes, and low project risk. When the Agency chooses to join the Cority Community, the Agency will benefit from the collaboration of thousands of other users and be supported by Cority software and EHS experts committed to Agency customer success. Cority leads the way in application and data center security, with certifications for ISO27001, ISO270017, ISO20018, SOC Type 2, and HIPAA.",
+        "Announcement_Date": "2022-08-29T04:00:00.000Z",
+        "CSP_POC_Name": "Kun Fan",
+        "CSP_POC_Email": "fedramp@cority.com",
+        "Fedramp_Ready_Date": "2021-02-16T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2021-09-28T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "1901 Group",
@@ -19688,30 +19720,6 @@
         "CSP_POC_Name": "Meg LaVelle",
         "CSP_POC_Email": "fedramp@copado.com",
         "FedRAMP_In-Process_Date": "2022-02-23T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Cority Software Inc.",
-        "Cloud_Service_Provider_Package": "Cority Trusted Environmental, Health, Safety and Quality Management (EHSQ) Software",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2029183077",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Cority%20Logo.png",
-        "Independent_Assessor": "Kratos",
-        "CSP_Website": "https://www.cority.com",
-        "CSO_Description": "Cority’s Trusted EHSQ Software is the enterprise software solution SaaS platform that spans the full spectrum of Environmental, Health, Safety, and Quality (EHSQ) management across an organization to help the Agency thrive. The Trusted EHSQ software is powerful and configurable, providing greater flexibility, improving collaboration, amplifying business intelligence and performance, and reducing the burden of managing multiple solutions. Cority’s iterative deployment methodology and ability to integrate easily with other optional third-party services result in painless data migrations, software aligned to business processes, and low project risk. When the Agency chooses to join the Cority Community, the Agency will benefit from the collaboration of thousands of other users and be supported by Cority software and EHS experts committed to Agency customer success. Cority leads the way in application and data center security, with certifications for ISO27001, ISO270017, ISO20018, SOC Type 2, and HIPAA.",
-        "CSP_POC_Name": "Kun Fan",
-        "CSP_POC_Email": "fedramp@cority.com",
-        "Fedramp_Ready_Date": "2021-02-16T05:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2021-09-28T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -20807,25 +20815,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "ORock Technologies",
-        "Cloud_Service_Provider_Package": "ORock HighCloud",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "F1503096502A",
-        "Service_Model": [
-          "IaaS, PaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "High",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/ORock%20Technologies%20Logo.png",
-        "Independent_Assessor": "Schellman Compliance, LLC",
-        "CSP_Website": "http://orocktech.com",
-        "CSO_Description": "ORock HighCloud is an enterprise-grade open source cloud environment built specifically to meet the data security needs of U.S. Federal Government agencies. This Government-Only Community Cloud implements more than 421 High Baseline security controls to support Federal cloud services requirements for Infrastructure as a Service (IaaS) and Platform as a Service (PaaS). It provides secure, compliant, scalable access to computing, storage, virtualization, networking, and performance monitoring resources.\nArchitected to meet the most stringent requirements for security, performance, cost predictability, and control, ORock HighCloud utilizes ORock’s private, carrier-grade fiber optic backbone network with dedicated connectivity between all points of presence and no upstream cloud service provider (CSP). Additional security features include ORock’s use of Red Hat Security Enhanced Linux, FIPS 140-2 encryption, and SOC 2 Type II data centers. Managed services are provided entirely by U.S. citizens in ORock’s U.S.-based Network Operations Center (NOC) and Security Operations Center (SOC).\nAs a Red Hat Premier Certified Cloud and Service Provider (CCSP), ORock Technologies architected ORock HighCloud as a “pure-play” Red Hat cloud and incorporated a full suite of open source solutions for enhanced flexibility, interoperability, security, and control. The Red Hat Cloud Suite includes: Red Hat Enterprise Linux; Red Hat OpenStack Platform; Red Hat OpenShift, Red Hat Virtualization; Red Hat Ceph Storage; Red Hat Ansible Tower; Red Hat Satellite; and all associated cloud APIs. It is the first and only cloud environment built on Red Hat OpenStack Platform and Red Hat OpenShift Container Platform to achieve FedRAMP Ready status as a High Baseline cloud.\nA Federal Small Business, ORock Technologies provides infrastructure, cloud, and compliance services to U.S. government agencies and commercial organizations in highly regulated industries. ORock HighCloud services feature a flat-rate billing model for data transport with no egress fees for predictable costs and lower total cost of ownership, as well as extensive use of enterprise-grade open source technologies (hardened and supported by Red Hat) to increase flexibility and minimize vendor lock-in.\nAdditional information is available at [http://orocktech.com](http://orocktech.com/) .",
-        "CSP_POC_Name": "John Conniff",
-        "CSP_POC_Email": "fedramp@orocktech.com",
-        "Fedramp_Ready_Date": "2021-08-26T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "OwnBackup",
         "Cloud_Service_Provider_Package": "OwnBackup Government Cloud ",
         "Path": "Agency",
@@ -20983,7 +20972,7 @@
         "CSO_Description": "Qlik Cloud Government is a multi-tenant Software-as-a Service Cloud offering that provides U.S Public Sector clients with a complete data analytics platform that sets the benchmark for a new generation of analytics. With its one-of-a-kind associative analytics engine, sophisticated augmented intelligence, and high performance cloud platform, you can empower everyone in your organization to make better decisions daily, creating a truly data-driven enterprise.",
         "CSP_POC_Name": "Qlik FedRAMP Team",
         "CSP_POC_Email": "fedramp@qlik.com",
-        "FedRAMP_In-Process_Date": "2021-08-31T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2022-04-05T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
