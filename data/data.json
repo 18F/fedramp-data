@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-09-09T04:40:53.539Z",
+    "Created_At": "2022-09-10T04:40:51.101Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -7587,6 +7587,13 @@
             "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-08-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-08-31T04:00:00.000Z",
+            "Authorizing_Agency": "Office of Personnel Management",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -8372,13 +8379,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2022-08-19T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-08-19T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Justice",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2021-09-21T04:00:00.000Z",
             "Letter_Expiration_Date": "2024-09-21T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-09-24T04:00:00.000Z",
@@ -8454,6 +8454,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-07-01T04:00:00.000Z",
             "Authorizing_Agency": "Department of Education",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-08-17T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-08-17T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Justice",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -8762,7 +8769,15 @@
         "CSP_POC_Name": "Adam Arellano",
         "CSP_POC_Email": "fedramp@veritone.com",
         "FedRAMP_In-Process_Date": "2018-06-06T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Expiration_Date": "2025-08-11T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-08-22T04:00:00.000Z",
+            "Authorizing_Agency": "Environmental Protection Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Nutanix",
@@ -9180,6 +9195,15 @@
             "Authorizing_Agency": "Federal Reserve System",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRS%20Logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-06-13T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-06-21T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-06-21T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Health Resources and Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -9237,7 +9261,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
         "Authorizing_Agency": "Department of Health and Human Services",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Cisco%20Logo.png",
-        "Independent_Assessor": "Kratos",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.cisco.com",
         "CSO_Description": "Cisco Unified Communications Manager Cloud for Government (Cisco UCM Cloud for Government) is a complete unified communications service from the Cisco Cloud. It is built to provide government-level security so that organizations can collaborate with anyone, anywhere, on any device. The service is hosted by Cisco, sold by Cisco Powered partners. Cisco UCM Cloud for Government provides these core services: \n\n**Voice and Video Calling:** Simplify with industry-leading voice and video as a service. Cisco UCM Cloud for Government provides voice and video call control and supports Cisco’s newest voice and video endpoints ranging from desktop phones, immersive video rooms and mobile and desktop clients.\n \n**Voicemail and Integrated Messaging:** Access messages the way you prefer from your desk phone, mobile phone, or desktop client. \n\n**Instant Messaging and Presence:** Cisco Jabber lets you find the right people, see if and how they are available, and collaborate using your preferred method. Use Cisco Jabber for presence, instant messaging (IM), voice and video calling, voice messaging, desktop sharing, and conferencing. \n\n**Single App Experience:** Webex for Government and Webex App allows customers to call, meet, and message on any device with a single unified application from Webex. Webex App brings together Cisco UCM Cloud for Government call control along with market leading Webex Meetings technology and advanced team collaboration capabilities including persistent messaging and file sharing.\n\n**Conferencing:** Use Cisco conferencing solutions to meet and manage meetings and projects in real time, to present, share, or collaborate from anywhere, anytime, on any device. \n\n**Mobility:** Cisco UCM Cloud for Government gives your mobile and remote users the freedom to be productive from anywhere, on any device. Give users one number to dial, redirect incoming calls to designated phones, move calls between a Cisco desktop and mobile phones, create personalized access lists, and give access to all your corporate collaboration features from mobile phones using Webex App or Cisco Jabber.\n",
         "Announcement_Date": "2017-02-21T05:00:00.000Z",
@@ -10381,7 +10405,7 @@
         "Authorizing_Agency": "Department of Health and Human Services",
         "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Cisco%20Logo.png",
-        "Independent_Assessor": "Kratos",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
         "Underlying_CSP_Package_ID": [
           "F1212191840",
           "FR1823368486",
@@ -14828,6 +14852,15 @@
             "Authorizing_Agency": "Millennium Challenge Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-MillenniumChallengeCorporation-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-07-26T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-07-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-07-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Health Resources and Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -17555,7 +17588,7 @@
         "Underlying_CSP_Package_ID": [
           "F1209051525"
         ],
-        "CSP_Website": "www.gordian.com/federal",
+        "CSP_Website": "https://www.gordian.com/solutions/industry/federal/fedramp/",
         "CSO_Description": "Gordian Federal Cloud is an enterprise Software as a Service (SaaS) solution powered by RSMeans data. The cloud-based solution is a comprehensive suite of modules designed to securely provide federal users with the tools and cost data to better manage construction and facilities estimates, contracts and pricing proposals. Decision-makers are empowered with up-to-date information that will deliver accurate and competitive bids, minimize the risk of cost overruns, reduce variability and gain control over costs.\n\nGordian is the leader in facility and construction cost data, software and services for all phases of the building lifecycle. A pioneer of Job Order Contracting, Gordian’s solutions also include our proprietary RSMeans data and a comprehensive suite of Facilities Planning solutions. From planning to design, procurement, construction and operations, Gordian’s solutions help clients maximize efficiency, optimize cost savings and increase building quality.",
         "Announcement_Date": "2022-07-02T04:00:00.000Z",
         "CSP_POC_Name": "Lisa Cooley",
@@ -18655,7 +18688,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
         "Authorizing_Agency": "Department of Health and Human Services",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Cisco%20Logo.png",
-        "Independent_Assessor": "Kratos",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
         "Underlying_CSP_Package_ID": [
           "FR1823368486",
           "FR1734755703",
@@ -18922,6 +18955,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-08-05T04:00:00.000Z",
             "Authorizing_Agency": "Federal Trade Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2020-06-19T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "United States Mint",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -21075,6 +21115,30 @@
         "CSP_POC_Name": "Ryan Cooney",
         "CSP_POC_Email": "fedramp@sailpoint.com",
         "FedRAMP_In-Process_Date": "2022-05-19T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Scale AI, Inc",
+        "Cloud_Service_Provider_Package": "Scale AI Data Annotation Platform",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2023666173",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "High",
+        "Sponsoring_Agency": "Department of Defense",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+        "Authorizing_Agency": "Department of Defense",
+        "Authorizing_Subagency": "Defense Information Systems Agency",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Scale%20Logo.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "CSP_Website": "www.scale.com",
+        "CSO_Description": "Scale accelerates AI development by providing the data infrastructure for AI. Its data-centric platform manages the entire ML lifecycle, from data annotation and curation to model testing and evaluation, enabling any organization – from the world’s most advanced AI teams to the U.S. government – to develop and deploy AI solutions. Scale combines ML technology with human insight to ensure every AI application is built on a foundation of high-quality ground truth data.",
+        "CSP_POC_Name": "Patrick Liu",
+        "CSP_POC_Email": "fedramp@scale.com",
+        "FedRAMP_In-Process_Date": "2022-09-08T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
