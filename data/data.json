@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-09-19T04:40:51.222Z",
+    "Created_At": "2022-09-20T04:40:52.276Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3987,6 +3987,23 @@
             "Authorizing_Subagency": "Immigration and Customs Enforcement",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-09-12T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-01-13T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-09-13T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-09-14T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-09-13T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-09-15T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Housing and Urban Development",
+            "Authorizing_Subagency": "Office of the Inspector General",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHUD-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -4552,6 +4569,14 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "United States Patent and Trademark Office",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2022-12-31T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-09-13T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Authorizing_Subagency": "Office of Natural Resources Revenue",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -6608,15 +6633,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2022-03-07T05:00:00.000Z",
-            "Letter_Expiration_Date": "2022-06-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-03-07T05:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Authorizing_Subagency": "Office of Natural Resources Revenue",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2023-07-01T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-06-22T04:00:00.000Z",
             "Authorizing_Agency": "Department of Agriculture",
@@ -6630,6 +6646,14 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "United States Census Bureau",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2025-09-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-09-13T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Authorizing_Subagency": "Office of Natural Resources Revenue",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -6732,100 +6756,6 @@
         "CSP_POC_Email": "fedramp@adobe.com",
         "FedRAMP_In-Process_Date": "2019-05-21T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "KnowBe4, Inc.",
-        "Cloud_Service_Provider_Package": "KnowBe4 Security Awareness Training",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1912662229",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "LI-SaaS",
-        "Original_Authorization_Date": "2019-09-30T04:00:00.000Z",
-        "Original_Expiration_Date": "2022-09-26T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Energy",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-        "Authorizing_Agency": "Department of Energy",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/KnowBe4%20Logo.png",
-        "Independent_Assessor": "Lunarline, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW"
-        ],
-        "CSP_Website": "https://www.knowbe4.com/federal",
-        "CSO_Description": "KnowBe4 is the world’s most popular integrated Security Awareness Training and Simulated Phishing platform with thousands of active enterprise accounts. You finally have a platform to better manage the **urgent IT security problems of social engineering, phishing and ransomware attacks.** KnowBe4 gives you self-service enrollment, and both pre-and post-training phishing security tests that show you the percentage of end-users that are Phish-prone. Our highly effective, frequent, \"double-random\" Phishing Security Tests provide several remedial options in case an employee falls for a simulated phishing attack.\n**KnowBe4 provides you with the world's largest library of 800+ security awareness training content**, including interactive modules, videos, games, posters and newsletters. You can schedule regular Phishing Security Tests from our large library of over 2,500 \"known-to-work\" templates or you can also create your own custom phishing templates. And with our powerful Smart Groups feature, you can use each employees’ behavior and user attributes to tailor phishing campaigns, training assignments, remedial learning and reporting.\nYour enterprise can get the KnowBe4 platform quickly deployed into production. Our Customer Success team gets you going in no time, without the need for consulting hours. And our Active Directory Integration (ADI) allows you to easily sync user data and saves you time by eliminating the need to manually manage user changes. Once the ADI is configured, users will be added, changed and archived in sync with changes made within AD automatically.\n**We use FedRAMP compliant Amazon Web Services East (AWS US East), which is maintained in an ISO certified facility.** There is no unauthorized external access to data, we only store just enough information to accomplish the services we are set to provide, which minimally are email addresses with recorded clicks. All email addresses are encrypted and kept private. And KnowBe4 has been PCI compliant from day one. KnowBe4 courses are SCORM compliant, so we can deliver courseware for your in-house LMS if needed. However, KnowBe4 does have its own LMS that lives in the cloud, and we can report back to you about all enrolled employees, their status, completion, and many other parameters.",
-        "Announcement_Date": "2019-10-25T04:00:00.000Z",
-        "CSP_POC_Name": "Rosa Smothers",
-        "CSP_POC_Email": "federal@knowbe4.com",
-        "FedRAMP_In-Process_Date": "2019-02-12T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2020-08-03T04:00:00.000Z",
-            "Authorizing_Agency": "U.S. Election Assistance Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/EAC%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2023-07-15T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-07-15T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Labor",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2020-10-06T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Housing Finance Agency",
-            "Authorizing_Subagency": "FHFA Office of the Inspector General",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2021-06-01T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Authorizing_Subagency": "National Nuclear Security Administration / Nevada Field Office",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-07-23T04:00:00.000Z",
-            "Letter_Expiration_Date": "2024-07-22T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-07-23T04:00:00.000Z",
-            "Authorizing_Agency": "United States Agency for International Development",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-11-05T04:00:00.000Z",
-            "Letter_Expiration_Date": "2024-09-24T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-11-09T05:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Authorizing_Subagency": "Bureau of Engraving and Printing",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2021-10-25T04:00:00.000Z",
-            "Authorizing_Agency": "National Labor Relations Board",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/National_Labor_Relations_Board_logo_-_color.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2022-02-11T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-02-11T05:00:00.000Z",
-            "Authorizing_Agency": "Federal Trade Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2022-08-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-08-01T04:00:00.000Z",
-            "Authorizing_Agency": "Tennessee Valley Authority",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-TennesseeValleyAuthority-Logo.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
       },
       {
         "Cloud_Service_Provider_Name": "VMware, Inc.",
@@ -6968,6 +6898,15 @@
             "Authorizing_Agency": "Department of the Treasury",
             "Authorizing_Subagency": "Office of the Comptroller of the Currency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-08-17T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-09-19T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-08-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "United States Patent and Trademark Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -7737,6 +7676,14 @@
             "Authorizing_Agency": "Court Services and Offender Supervision Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CSOSA%20Logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-09-13T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-09-13T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "National Defense University",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -7831,6 +7778,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-04-13T04:00:00.000Z",
             "Authorizing_Agency": "Nuclear Regulatory Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-09-19T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-09-19T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -9211,6 +9165,14 @@
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "Health Resources and Services Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-09-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-09-14T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Justice",
+            "Authorizing_Subagency": "Federal Bureau of Prisons",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -12116,7 +12078,7 @@
           "FR1719759604"
         ],
         "CSP_Website": "https://www.sumologic.com/public-sector/",
-        "CSO_Description": "Sumo Logic is the Cloud-Native SaaS log analytics Platform enabling application reliability; securing and protecting against modern threats, gaining insights into cloud infrastructures, and comprehensive visibility across your threatscape. Sumo Logic provides the following solutions within the FedRAMP-Moderate product offering:\r* **Cloud Security Monitoring & Analytics -** Sumo Logic supports the entire spectrum of security use cases—from centrally logging compliance data, to monitoring and securing hybrid clouds, to delivering market-leading Security Incident & Event Management (SIEM) capabilities.\r* **Application Modernization and Observability -** Reduce downtime by finding, investigating, and resolving customer-impacting issues faster with real-time alerting and dashboards for all data - logs, metrics, and traces.\r* **Infrastructure Monitoring -** On-call teams can reduce mean-time-to-resolution (MTTR) by simplifying the work required to validate issues, identify suspects, and quickly remediate. Reduce downtime and solve customer-impacting issues faster with an integrated observability platform for all application data.\r* **Compliance Monitoring -** Security and configuration analytics provide the data monitoring, dashboards, analyses, and reporting capabilities necessary to achieve rapid, cost-effective continuous compliance readiness for many industry leading cybersecurity frameworks and programs - NIST 800-53, FISMA, FedRAMP, PCI, SOC2, ISO, HIPAA and more.\r* **Multi-cloud support -** Unify and monitor logs, metrics, and traces from multi-cloud or hybrid cloud environments. Sumo Logic enables real-time visibility into AWS, Azure, and GCP cloud applications and infrastructure. Moreover, 150 apps and native integrations give out-of-the-box visibility into the technologies that power your applications.\r* **Service Maps -** The Sumo Logic service visualizes all service dependencies to give you insights into end-to-end execution of your mission critical transactions with open standard compatible distributed tracing data. Application and service dashboards break down latency, load, and errors to identify services contributing to application slowdowns\r* **Advanced Alert Analytics -** Advanced analytics are applied across a unified repository of telemetry data to surface noteworthy insights that guide on-call teams to the root cause.",
+        "CSO_Description": "Sumo Logic is a cloud-native SaaS log analytics platform helping customers enable application reliability, secure and protect against modern threats, gain insights into cloud infrastructures, and obtain comprehensive visibility across their threat landscape. Sumo Logic provides the following solutions within our FedRAMP Moderate product offering:\n\n* Cloud Security Incident and Event Management (SIEM) - Full-featured SIEM automates alert triage, correlation, and threat detection at scale to speed investigation and response times while reducing analyst alert fatigue. Community analytics delivers machine learning (ML) predicted true positive Global Confidence scores, along with global threat benchmarking.\n\n* Cloud Security Monitoring & Analytics - Sumo Logic supports the entire spectrum of security use cases—from centrally logging compliance data to monitoring and securing public and hybrid clouds, to delivering market-leading DevSecOps capabilities.\n\n* Application Modernization and Observability - Reduce downtime by finding, investigating, and resolving customer-impacting issues faster with real-time alerting and dashboards for all data - logs, metrics, and traces.\n\n* Infrastructure Monitoring - On-call teams can reduce mean-time-to-resolution (MTTR) by simplifying the work required to validate issues, identify suspects, and quickly remediate. Reduce downtime and solve customer-impacting issues faster with an integrated observability platform for all application data.\n\n* Compliance Monitoring - Security and configuration analytics provide the data monitoring, dashboards, analyses, and reporting capabilities necessary to achieve rapid, cost-effective continuous compliance readiness for many industry leading cybersecurity frameworks and programs - NIST 800-53, FISMA, FedRAMP, PCI, SOC2, ISO, HIPAA and more.\n\n* Multi-cloud support - Unify and monitor logs, metrics, and traces from multi-cloud or hybrid cloud environments. Sumo Logic enables real-time visibility into AWS, Azure, and GCP cloud applications and infrastructure. Moreover, 150 apps and native integrations give out-of-the-box visibility into the technologies that power your applications.\n\n* Service Maps - The Sumo Logic service visualizes all service dependencies to give you insights into end-to-end execution of your mission critical transactions with open standard compatible distributed tracing data. Application and service dashboards break down latency, load, and errors to identify services contributing to application slowdowns\n\n* Advanced Alert Analytics - Advanced analytics are applied across a unified repository of telemetry data to surface noteworthy insights that guide on-call teams to the root cause.",
         "Announcement_Date": "2021-01-29T05:00:00.000Z",
         "CSP_POC_Name": "Sumo Logic Federal Compliance Team",
         "CSP_POC_Email": "compliance@sumologic.com",
@@ -15651,6 +15613,14 @@
             "Authorizing_Agency": "Federal Deposit Insurance Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-09-15T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-09-15T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Justice",
+            "Authorizing_Subagency": "Federal Bureau of Prisons",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -17087,8 +17057,8 @@
         "CSP_Website": "https://www.citrix.com/",
         "CSO_Description": "**Citrix for Government** is comprised of:\r**Citrix Cloud platform** provides capabilities to administer Citrix services. It allows customers to create, manage, and deploy workspaces with applications and data to their end-users from a single console, connecting to customer resources on any cloud or infrastructure a customer chooses.\r**Citrix DaaS (Desktop as a Service)** provides virtualization solutions allowing control of virtual machines, desktops, applications, and security while providing users access from anywhere on any device. This hybrid cloud solution enables secure access to virtual applications, desktops, and data from cloud and on-premises infrastructure.",
         "Announcement_Date": "2022-04-18T04:00:00.000Z",
-        "CSP_POC_Name": "Bruce Shim",
-        "CSP_POC_Email": "bruce.shim@citrix.com",
+        "CSP_POC_Name": "Jewel Hefner",
+        "CSP_POC_Email": "jewel.hefner@citrix.com",
         "Fedramp_Ready_Date": "2020-10-08T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2021-06-15T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
@@ -19191,6 +19161,99 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "KnowBe4, Inc.",
+        "Cloud_Service_Provider_Package": "KnowBe4 Security Awareness Training",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1912662229",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "LI-SaaS",
+        "Original_Authorization_Date": "2022-09-14T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Energy",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+        "Authorizing_Agency": "Department of Energy",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/KnowBe4%20Logo.png",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
+        "CSP_Website": "https://www.knowbe4.com/federal",
+        "CSO_Description": "KnowBe4 is the world’s most popular integrated Security Awareness Training and Simulated Phishing platform with thousands of active enterprise accounts. You finally have a platform to better manage the **urgent IT security problems of social engineering, phishing and ransomware attacks.** KnowBe4 gives you self-service enrollment, and both pre-and post-training phishing security tests that show you the percentage of end-users that are Phish-prone. Our highly effective, frequent, \"double-random\" Phishing Security Tests provide several remedial options in case an employee falls for a simulated phishing attack.\n**KnowBe4 provides you with the world's largest library of 800+ security awareness training content**, including interactive modules, videos, games, posters and newsletters. You can schedule regular Phishing Security Tests from our large library of over 2,500 \"known-to-work\" templates or you can also create your own custom phishing templates. And with our powerful Smart Groups feature, you can use each employees’ behavior and user attributes to tailor phishing campaigns, training assignments, remedial learning and reporting.\nYour enterprise can get the KnowBe4 platform quickly deployed into production. Our Customer Success team gets you going in no time, without the need for consulting hours. And our Active Directory Integration (ADI) allows you to easily sync user data and saves you time by eliminating the need to manually manage user changes. Once the ADI is configured, users will be added, changed and archived in sync with changes made within AD automatically.\n**We use FedRAMP compliant Amazon Web Services East (AWS US East), which is maintained in an ISO certified facility.** There is no unauthorized external access to data, we only store just enough information to accomplish the services we are set to provide, which minimally are email addresses with recorded clicks. All email addresses are encrypted and kept private. And KnowBe4 has been PCI compliant from day one. KnowBe4 courses are SCORM compliant, so we can deliver courseware for your in-house LMS if needed. However, KnowBe4 does have its own LMS that lives in the cloud, and we can report back to you about all enrolled employees, their status, completion, and many other parameters.",
+        "Announcement_Date": "2019-10-25T04:00:00.000Z",
+        "CSP_POC_Name": "Rosa Smothers",
+        "CSP_POC_Email": "federal@knowbe4.com",
+        "FedRAMP_In-Process_Date": "2019-02-12T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2020-08-03T04:00:00.000Z",
+            "Authorizing_Agency": "U.S. Election Assistance Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/EAC%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-07-15T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-07-15T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Labor",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2020-10-06T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Housing Finance Agency",
+            "Authorizing_Subagency": "FHFA Office of the Inspector General",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2021-06-01T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "National Nuclear Security Administration / Nevada Field Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-07-23T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-07-22T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-07-23T04:00:00.000Z",
+            "Authorizing_Agency": "United States Agency for International Development",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-11-05T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-09-24T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-11-09T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Bureau of Engraving and Printing",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2021-10-25T04:00:00.000Z",
+            "Authorizing_Agency": "National Labor Relations Board",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/National_Labor_Relations_Board_logo_-_color.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-02-11T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-02-11T05:00:00.000Z",
+            "Authorizing_Agency": "Federal Trade Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-08-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-08-01T04:00:00.000Z",
+            "Authorizing_Agency": "Tennessee Valley Authority",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-TennesseeValleyAuthority-Logo.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "1901 Group",
         "Cloud_Service_Provider_Package": "in3sight High",
         "Path": "Agency",
@@ -21136,7 +21199,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Scale AI, Inc",
-        "Cloud_Service_Provider_Package": "Scale AI Data Annotation Platform",
+        "Cloud_Service_Provider_Package": "Scale AI Data Platform",
         "Path": "Agency",
         "Designation": "In Process",
         "Package_ID": "FR2023666173",
