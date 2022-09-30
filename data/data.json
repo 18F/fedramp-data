@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-09-29T04:40:51.586Z",
+    "Created_At": "2022-09-30T04:40:50.919Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -6298,6 +6298,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-09-09T04:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-09-27T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-09-27T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-09-27T04:00:00.000Z",
+            "Authorizing_Agency": "U.S. International Development Finance Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DFC%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -19237,6 +19245,36 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Qlik Technologies Inc.",
+        "Cloud_Service_Provider_Package": "Qlik Cloud Government",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2125653037",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-04-15T04:00:00.000Z",
+        "Sponsoring_Agency": "Environmental Protection Agency",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
+        "Authorizing_Agency": "Environmental Protection Agency",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Qlik%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "MSO365MT",
+          "F1603087869"
+        ],
+        "CSP_Website": "qlik.com",
+        "CSO_Description": "Qlik Cloud Government is a multi-tenant Software-as-a Service Cloud offering that provides U.S Public Sector clients with a complete data analytics platform that sets the benchmark for a new generation of analytics. With its one-of-a-kind associative analytics engine, sophisticated augmented intelligence, and high performance cloud platform, you can empower everyone in your organization to make better decisions daily, creating a truly data-driven enterprise.",
+        "Announcement_Date": "2022-09-27T04:00:00.000Z",
+        "CSP_POC_Name": "Qlik FedRAMP Team",
+        "CSP_POC_Email": "fedramp@qlik.com",
+        "FedRAMP_In-Process_Date": "2022-04-05T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "1901 Group",
         "Cloud_Service_Provider_Package": "in3sight High",
         "Path": "Agency",
@@ -20720,7 +20758,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "MURAL Tactivos Inc., DBA MURAL",
-        "Cloud_Service_Provider_Package": "Mural for Government",
+        "Cloud_Service_Provider_Package": "MURAL for Government",
         "Path": "Agency",
         "Designation": "In Process",
         "Package_ID": "FR2229720196",
@@ -21041,29 +21079,6 @@
         "CSP_POC_Name": "Proofpoint Security Awareness Training",
         "CSP_POC_Email": "sat-fedramp@proofpoint.com",
         "FedRAMP_In-Process_Date": "2022-02-11T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Qlik Technologies Inc.",
-        "Cloud_Service_Provider_Package": "Qlik Cloud Government",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2125653037",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Environmental Protection Agency",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
-        "Authorizing_Agency": "Environmental Protection Agency",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Qlik%20Logo.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "CSP_Website": "qlik.com",
-        "CSO_Description": "Qlik Cloud Government is a multi-tenant Software-as-a Service Cloud offering that provides U.S Public Sector clients with a complete data analytics platform that sets the benchmark for a new generation of analytics. With its one-of-a-kind associative analytics engine, sophisticated augmented intelligence, and high performance cloud platform, you can empower everyone in your organization to make better decisions daily, creating a truly data-driven enterprise.",
-        "CSP_POC_Name": "Qlik FedRAMP Team",
-        "CSP_POC_Email": "fedramp@qlik.com",
-        "FedRAMP_In-Process_Date": "2022-04-05T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
