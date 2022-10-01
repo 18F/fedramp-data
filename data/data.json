@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-09-30T04:40:50.919Z",
+    "Created_At": "2022-10-01T04:40:51.727Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -888,13 +888,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2022-09-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-10-01T04:00:00.000Z",
-            "Authorizing_Agency": "Environmental Protection Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2023-07-06T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-07-06T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Treasury",
@@ -988,6 +981,13 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2024-10-05T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-09-22T04:00:00.000Z",
+            "Authorizing_Agency": "Environmental Protection Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -5236,15 +5236,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2021-08-27T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-09-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-08-30T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "United States Patent and Trademark Office",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2021-09-14T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-09-30T04:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
@@ -5364,6 +5355,15 @@
             "Authorizing_Agency": "Department of the Interior",
             "Authorizing_Subagency": "Office of Natural Resources Revenue",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-06-03T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-09-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-08-29T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "United States Patent and Trademark Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -9432,13 +9432,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2022-09-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-09-30T04:00:00.000Z",
-            "Authorizing_Agency": "Universal Service Administrative Company",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAC-logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-10-04T04:00:00.000Z",
             "Letter_Expiration_Date": "2022-10-11T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-10-11T04:00:00.000Z",
@@ -9539,6 +9532,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-02-01T05:00:00.000Z",
             "Authorizing_Agency": "Federal Retirement Thrift Investment Board",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRTIB%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-07-08T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-07-08T04:00:00.000Z",
+            "Authorizing_Agency": "Universal Service Administrative Company",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAC-logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -12236,7 +12236,16 @@
         "CSP_POC_Name": "Peter Slutsky",
         "CSP_POC_Email": "fedramp@wpvip.com",
         "FedRAMP_In-Process_Date": "2020-05-11T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2022-09-02T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-09-12T04:00:00.000Z",
+            "Authorizing_Agency": "Executive Office of the President",
+            "Authorizing_Subagency": "Office of Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_Executive_Office_of_the_President_of_the_United_States_2014.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Authentic8, Inc.",
@@ -19275,6 +19284,42 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Databricks, Inc.",
+        "Cloud_Service_Provider_Package": "Databricks",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1834740315",
+        "Service_Model": [
+          "PaaS, SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-06-30T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Databricks%20Logo.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1512167750",
+          "FR1812058188",
+          "FR1823447014",
+          "F1508207205",
+          "F1206081364",
+          "MSO365MT",
+          "FR1912658130"
+        ],
+        "CSP_Website": "https://databricks.com/solutions/industries/federal-government",
+        "CSO_Description": "The Databricks Platform, from the original creators of Apache Spark™, enables data teams to collaborate in order to solve some of the world’s toughest problems. Databricks excels at enabling data scientists, data engineers, and data analysts to work together on uses cases like:\n* Applying advanced analytics for machine learning and graph processing at scale\r* Using deep learning for harnessing the power of unstructured data such for AI, image interpretation, automatic translation, natural language processing, and more\r* Making data warehousing fast, simple, and scalable\r* Proactively detecting threats with data science and AI\r* Analyzing high-velocity sensor and time-series IoT data in real-time\r* Making GDPR data subject requests easy to execute",
+        "Announcement_Date": "2022-09-29T04:00:00.000Z",
+        "CSP_POC_Name": "Andrew Ledford",
+        "CSP_POC_Email": "federal-compliance@databricks.com",
+        "FedRAMP_In-Process_Date": "2021-10-07T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "1901 Group",
         "Cloud_Service_Provider_Package": "in3sight High",
         "Path": "Agency",
@@ -19929,30 +19974,6 @@
         "CSP_POC_Name": "Russell Cozart",
         "CSP_POC_Email": "FedRAMP@cyxtera.com",
         "Fedramp_Ready_Date": "2022-08-05T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Databricks, Inc.",
-        "Cloud_Service_Provider_Package": "Databricks",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1834740315",
-        "Service_Model": [
-          "PaaS, SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Databricks%20Logo.png",
-        "Independent_Assessor": "Schellman Compliance, LLC",
-        "CSP_Website": "https://databricks.com/solutions/industries/federal-government",
-        "CSO_Description": "The Databricks Platform, from the original creators of Apache Spark™, enables data teams to collaborate in order to solve some of the world’s toughest problems. Databricks excels at enabling data scientists, data engineers, and data analysts to work together on uses cases like:\n* Applying advanced analytics for machine learning and graph processing at scale\r* Using deep learning for harnessing the power of unstructured data such for AI, image interpretation, automatic translation, natural language processing, and more\r* Making data warehousing fast, simple, and scalable\r* Proactively detecting threats with data science and AI\r* Analyzing high-velocity sensor and time-series IoT data in real-time\r* Making GDPR data subject requests easy to execute",
-        "CSP_POC_Name": "Andrew Ledford",
-        "CSP_POC_Email": "federal-compliance@databricks.com",
-        "FedRAMP_In-Process_Date": "2021-10-07T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -21381,13 +21402,17 @@
       {
         "Cloud_Service_Provider_Name": "Tanium",
         "Cloud_Service_Provider_Package": "Tanium Cloud for US Government (TC-USG)",
-        "Designation": "FedRAMP Ready",
+        "Path": "Agency",
+        "Designation": "In Process",
         "Package_ID": "FR2110342613",
         "Service_Model": [
           "SaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Federal Communications Commission",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
+        "Authorizing_Agency": "Federal Communications Commission",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Tanium%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "tanium.com",
@@ -21395,6 +21420,7 @@
         "CSP_POC_Name": "Tanium Cloud for US Government Team",
         "CSP_POC_Email": "fedramp@tanium.com",
         "Fedramp_Ready_Date": "2022-05-16T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2022-09-19T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -22078,7 +22104,7 @@
         "Accreditation_Date": "2015-02-25T05:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/MindPoint%20Logo.png",
         "Description": "3PAO Pre-Assessment – For organizations with SSPs that are ready to start the FedRAMP process and are going through the FedRAMP JAB path this is the first step in that process. \n \n3PAO Assessment – Full, FedRAMP compliant assessment of your system.\n\nContinuous Monitoring – FedRAMP requires that all FedRAMP complaint CSPs participate in continues monitoring with a 3PAO, this continuous monitoring includes a limited scope assessment, review of POA&Ms and the corrective action responses.  This service also includes penetration testing.",
-        "POC_Name": "Jesse Taylor",
+        "POC_Name": "Tekedra Gregory",
         "POC_Email": "fedramp@mindpointgroup.com",
         "website": "https://www.mindpointgroup.com/FedRAMP",
         "Remediation": "N",
