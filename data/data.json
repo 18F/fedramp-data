@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-10-03T04:40:51.546Z",
+    "Created_At": "2022-10-04T04:40:50.904Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -173,6 +173,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-09-02T04:00:00.000Z",
             "Authorizing_Agency": "Department of Education",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-08-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-08-31T04:00:00.000Z",
+            "Authorizing_Agency": "Office of Personnel Management",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -2152,12 +2159,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2022-09-30T04:00:00.000Z",
-            "Authorizing_Agency": "Office of Personnel Management",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2022-01-26T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-02-01T05:00:00.000Z",
             "Authorizing_Agency": "Federal Retirement Thrift Investment Board",
@@ -2195,6 +2196,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-08-31T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Treasury",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-09-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-09-28T04:00:00.000Z",
+            "Authorizing_Agency": "Office of Personnel Management",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -3178,7 +3186,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Project Hosts",
-        "Cloud_Service_Provider_Package": "Federal Private Cloud",
+        "Cloud_Service_Provider_Package": "GSS One-Azure",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "F1403283529",
@@ -3199,7 +3207,7 @@
           "F1209051525"
         ],
         "CSP_Website": "www.projecthosts.com",
-        "CSO_Description": "The Federal Private Cloud (FPC) is a General Support System (GSS) platform (PaaS) built primarily on Microsoft Azure Government. Project Hosts also deploys customer dedicated subnets on Azure commercial for those customers/ agencies that request this. The GSS is composed of systems and services that manage access control, authentication, auditing, monitoring, scanning, patching, configuration management, malware prevention, intrusion prevention, incident response, backup, and disaster recovery for each Application deployed on the FPC. The Federal Private Cloud is classified as a hybrid cloud deployment model to enable state and local agencies as well as commercial entities to deploy applications in a secure environment on top of the FPC GSS system.\rThere are two main types of customers who use the FPC: (i) Independent Software Vendors (ISVs) deploying multitenant SaaS applications and (ii) Federal, state or local agencies and commercial customers deploying dedicated applications just for their agency or organization (not multitenant). For both types of customers, their applications are deployed on customer-dedicated virtual servers (or Azure PaaS services) inside customer-dedicated subnets. Network security group access controls ensure that each customer’s subnet is completely isolated from and has no access to any other customer’s subnet. PaaS security subnets handling functions such as authentication, DMZ, SIEM, etc. are built on Azure Government. Customers have the option to have their dedicated application subnets built on either Azure Government or Azure Commercial. Either way, customer subnets are connected to the PaaS security subnets through V-net peering as described more fully here: https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview.\rFor FPC customers, Project Hosts also provides services that are over and above the PaaS offering described in the FPC FedRAMP package. Namely, Project Hosts deploys, secures, manages, and provides continuous monitoring for applications that are compatible with FPC architecture, authentication, operating system, database, and access requirements.\rFor ISV customers, Project Hosts also creates their SaaS-level FedRAMP package, helps them throughout the agency authorization process, and manages their 3PAO annual assessments.\rFor agency customers, Project Hosts assists them in the creation of their own SSP, manages annual 3PAO scanning and penetration testing of their dedicated applications, and provides a monthly application-level POA&M. Following is a partial list of applications for which Project Hosts is providing these services over and above the FPC platform:\r* Accenture Federal (Task management Tool)\r* Blue Prism (Blue Prism)\r* BrightWork (BrightWork SharePoint-based Project Management)\r* Checkmarx (CxSAST Source Code Scanner)\r* Drupal (Drupal CMS)\r* FlowVU (FlowVU Collaboration)\r* Gimmal (Gimmal Records Management)\r* Lexmark (Managed Print Service)\r* Microsoft (Office, Dynamics, Power BI Server, Project Server, SharePoint, SSRS)\r* Sopheon (Accolade Enterprise Innovation Management)\r* UMT360 (SharePoint-based Enterprise Portfolio Management)\r* Veritas (eVault, eDiscovery, Merge1)\r* WordPress (WordPress CMS)\r* Permuta (Defense Ready)\r* Gimmal (Records Management)\r* Invoke (UiPath Orchestrator and RPA)\r* Conga (Contract Lifecycle Management and Conga Approvals)\r* Davra (WebEx Legislate, Internet of Things)\r* Ephesoft (Transact)\r* OM Group Inc (ProjNet)\r* Nintex (K2 Five, Workflow Cloud)\r* WordPress As a Service (WPaaS)\r* C3 AI (C3 AI Suites)\rIf an agency would like to use one of these Applications or bring in another FPC-compatible Application, Project Hosts will provide application-level artifacts that will help the agency assess the risk of deploying that application in the FPC as well as any other documentation or evidence required in order to grant an Authority to Operate (ATO).",
+        "CSO_Description": "The GSS One- Azure is a General Support System (GSS) platform (PaaS) built primarily on Microsoft Azure Government. Project Hosts also deploys customer dedicated subnets on Azure commercial for those customers/ agencies that request this. The GSS is composed of systems and services that manage access control, authentication, auditing, monitoring, scanning, patching, configuration management, malware prevention, intrusion prevention, incident response, backup, and disaster recovery for each Application deployed on the GSS One- Azure. The GSS One- Azure is classified as a hybrid cloud deployment model to enable state and local agencies as well as commercial entities to deploy applications in a secure environment on top of the GSS One- Azure GSS system.\n\nThere are two main types of customers who use the GSS One- Azure: (i) Independent Software Vendors (ISVs) deploying multitenant SaaS applications and (ii) Federal, state or local agencies and commercial customers deploying dedicated applications just for their agency or organization (not multitenant).  For both types of customers, their applications are deployed on customer-dedicated virtual servers (or Azure PaaS services) inside customer-dedicated subnets.  Network security group access controls ensure that each customer’s subnet is completely isolated from and has no access to any other customer’s subnet.  PaaS security subnets handling functions such as authentication, DMZ, SIEM, etc. are built on Azure Government.  Customers have the option to have their dedicated application subnets built on either Azure Government or Azure Commercial.  Either way, customer subnets are connected to the PaaS security subnets through V-net peering as described more fully here: https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview .\n\nFor GSS One- Azure customers, Project Hosts also provides services that are over and above the PaaS offering described in the GSS One- Azure FedRAMP package.  Namely, Project Hosts deploys, secures, manages, and provides continuous monitoring for applications that are compatible with GSS One- Azure architecture, authentication, operating system, database, and access requirements.\n\nFor ISV customers, Project Hosts also creates their SaaS-level FedRAMP package, helps them throughout the agency authorization process, and manages their 3PAO annual assessments.\n\nFor agency customers, Project Hosts assists them in the creation of their own SSP, manages annual 3PAO scanning and penetration testing of their dedicated applications, and provides a monthly application-level POA&M.  Following is a partial list of applications for which Project Hosts is providing these services over and above the GSS One- Azure platform:\n\n* Accenture Federal (Task management Tool)\n* Blue Prism (Blue Prism)\n* BrightWork (BrightWork SharePoint-based Project Management)\n* Checkmarx (CxSAST Source Code Scanner)\n* Drupal (Drupal CMS)\n* FlowVU (FlowVU Collaboration)\n* Gimmal (Gimmal Records Management)\n* Lexmark (Managed Print Service)\n* Microsoft (Office, Dynamics, Power BI Server, Project Server, SharePoint, SSRS)\n* Sopheon (Accolade Enterprise Innovation Management)\n* UMT360 (SharePoint-based Enterprise Portfolio Management)\n* Veritas (eVault, eDiscovery, Merge1)\n* WordPress (WordPress CMS)\n* Permuta (Defense Ready)\n* Gimmal (Records Management)\n* Invoke (UiPath Orchestrator and RPA)\n* Conga (Contract Lifecycle Management and Conga Approvals)\n* Davra (WebEx Legislate, Internet of Things)\n* Ephesoft (Transact)\n* OM Group Inc (ProjNet)\n* Nintex (K2 Five, Workflow Cloud)\n* WordPress As a Service (WPaaS)\n* C3 AI (C3 AI Suites)\n* MURAL (MURAL for Government)\n* WillCo Tech (CyberSTAR)\n* Kofax (Control Suite, Kofax TotalAgility, Kofax Robotics Process Automation)\nIf an agency would like to use one of these Applications or bring in another GSS One- Azure-compatible Application, Project Hosts will provide application-level artifacts that will help the agency assess the risk of deploying that application in the GSS One- Azure as well as any other documentation or evidence required in order to grant an Authority to Operate (ATO).",
         "Announcement_Date": "2016-03-11T05:00:00.000Z",
         "CSP_POC_Name": "Scott Chapman",
         "CSP_POC_Email": "info@projecthosts.com",
@@ -4163,6 +4171,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-06-17T04:00:00.000Z",
             "Authorizing_Agency": "Council of the Inspectors General on Integrity and Efficiency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CIGIE%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-08-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-08-31T04:00:00.000Z",
+            "Authorizing_Agency": "Office of Personnel Management",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -7093,6 +7108,13 @@
             "Authorizing_Agency": "Federal Housing Finance Agency",
             "Authorizing_Subagency": "FHFA Office of the Inspector General",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2022-11-30T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-09-30T04:00:00.000Z",
+            "Authorizing_Agency": "Office of Personnel Management",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -13748,6 +13770,13 @@
             "Authorizing_Subagency": "National Telecommunications and Information Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-08-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-09-18T04:00:00.000Z",
+            "Authorizing_Agency": "National Aeronautics and Space Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NASA_logo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -14136,7 +14165,15 @@
         "CSP_POC_Email": "fedramp@techtrend.us",
         "Fedramp_Ready_Date": "2019-10-01T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2020-12-17T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Expiration_Date": "2023-08-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-08-31T04:00:00.000Z",
+            "Authorizing_Agency": "Office of Personnel Management",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Modus",
@@ -14388,6 +14425,13 @@
             "Authorizing_Agency": "Department of the Interior",
             "Authorizing_Subagency": "Bureau of Safety and Environmental Enforcement",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-08-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-09-18T04:00:00.000Z",
+            "Authorizing_Agency": "National Aeronautics and Space Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NASA_logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -15121,36 +15165,6 @@
         "CSP_POC_Name": "HPE Aruba FedRAMP Team",
         "CSP_POC_Email": "hpe-aruba-central-fedramp@hpe.com",
         "FedRAMP_In-Process_Date": "2021-03-22T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Saviynt, Inc.",
-        "Cloud_Service_Provider_Package": "Saviynt Security Manager",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1821062403",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2020-11-20T05:00:00.000Z",
-        "Original_Expiration_Date": "2023-11-20T05:00:00.000Z",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Saviynt%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866"
-        ],
-        "CSP_Website": "www.saviynt.com",
-        "CSO_Description": "Saviynt delivers an intelligent and converged platform for Identity\rGovernance and Administration (IGA), Privileged Access Management (PAM) and\rCloud Security that enables its customers to effectively manage risk,\raddress continuous compliance needs and securely adopt cloud technologies\rwith confidence. The solution combines advanced analytics with fine-grained\rprivilege management to secure critical data, infrastructure and\rapplication assets for Cloud and Enterprise in a unified platform.\rSaviynt’s completely managed and flexible platform ensures a worry-free\radoption of IGA services such as user lifecycle management, access request\rand certification, SOD management, infrastructure access governance for\rIaaS providers (AWS, GCP & Azure), data access governance as well as PAM\rservices. Saviynt’s PAM solution is an identity-led service designed for\relastic cloud and hybrid IT. It secures privileged access for any\rapplication, infrastructure workloads and extends governance to\rbring-your-own vaults. It is designed to ensure zero standing privileges,\rprovide JIT access, accelerate rollout at any scale with auto-registration\rof workloads and lowers TCO by eliminating traditional jump boxes.",
-        "Announcement_Date": "2019-03-01T05:00:00.000Z",
-        "CSP_POC_Name": "Saviynt FedRAMP Team",
-        "CSP_POC_Email": "fedramp@saviynt.com",
-        "FedRAMP_In-Process_Date": "2018-04-24T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -16189,7 +16203,8 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2022-09-30T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-09-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-09-28T04:00:00.000Z",
             "Authorizing_Agency": "Office of Personnel Management",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
             "Include_In_Marketplace": "Y"
@@ -17179,6 +17194,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-06-21T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Interior",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-09-30T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-09-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-09-30T04:00:00.000Z",
+            "Authorizing_Agency": "Defense Nuclear Facilities Safety Board",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DNFSB%20Logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -18335,6 +18358,12 @@
             "Authorizing_Agency": "Federal Retirement Thrift Investment Board",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRTIB%20Logo.jpg",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2022-09-30T04:00:00.000Z",
+            "Authorizing_Agency": "Office of Personnel Management",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -18415,20 +18444,20 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2022-06-28T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-06-28T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-06-28T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Information Systems Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2022-08-09T04:00:00.000Z",
             "Letter_Expiration_Date": "2023-08-26T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-08-26T04:00:00.000Z",
             "Authorizing_Agency": "Department of Education",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-10-02T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-06-28T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-10-02T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Information Systems Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -18658,12 +18687,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Authorizing_Letter_Last_Sign_Date": "2019-11-21T05:00:00.000Z",
-            "Authorizing_Agency": "National Aeronautics and Space Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NASA_logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2023-04-10T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-04-10T04:00:00.000Z",
             "Authorizing_Agency": "Department of Veterans Affairs",
@@ -18799,6 +18822,13 @@
             "Authorizing_Agency": "Department of Homeland Security",
             "Authorizing_Subagency": "United States Secret Service",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-08-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-09-18T04:00:00.000Z",
+            "Authorizing_Agency": "National Aeronautics and Space Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NASA_logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -19317,6 +19347,36 @@
         "CSP_POC_Name": "Andrew Ledford",
         "CSP_POC_Email": "federal-compliance@databricks.com",
         "FedRAMP_In-Process_Date": "2021-10-07T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Saviynt, Inc.",
+        "Cloud_Service_Provider_Package": "Saviynt Security Manager",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1821062403",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-01-28T05:00:00.000Z",
+        "Original_Expiration_Date": "2025-01-28T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Saviynt%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.saviynt.com",
+        "CSO_Description": "Saviynt delivers an intelligent and converged platform for Identity\rGovernance and Administration (IGA), Privileged Access Management (PAM) and\rCloud Security that enables its customers to effectively manage risk,\raddress continuous compliance needs and securely adopt cloud technologies\rwith confidence. The solution combines advanced analytics with fine-grained\rprivilege management to secure critical data, infrastructure and\rapplication assets for Cloud and Enterprise in a unified platform.\rSaviynt’s completely managed and flexible platform ensures a worry-free\radoption of IGA services such as user lifecycle management, access request\rand certification, SOD management, infrastructure access governance for\rIaaS providers (AWS, GCP & Azure), data access governance as well as PAM\rservices. Saviynt’s PAM solution is an identity-led service designed for\relastic cloud and hybrid IT. It secures privileged access for any\rapplication, infrastructure workloads and extends governance to\rbring-your-own vaults. It is designed to ensure zero standing privileges,\rprovide JIT access, accelerate rollout at any scale with auto-registration\rof workloads and lowers TCO by eliminating traditional jump boxes.",
+        "Announcement_Date": "2019-03-01T05:00:00.000Z",
+        "CSP_POC_Name": "Saviynt FedRAMP Team",
+        "CSP_POC_Email": "fedramp@saviynt.com",
+        "FedRAMP_In-Process_Date": "2018-04-24T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
