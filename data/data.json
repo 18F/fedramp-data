@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-10-06T04:40:50.932Z",
+    "Created_At": "2022-10-07T04:40:51.809Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -316,14 +316,6 @@
         "FedRAMP_In-Process_Date": "2013-12-03T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Expiration_Date": "2022-09-27T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-09-27T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "Customs and Border Protection",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Authorizing_Letter_Last_Sign_Date": "2020-03-31T04:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Institute of Standards and Technology",
@@ -341,6 +333,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-09-13T04:00:00.000Z",
             "Authorizing_Agency": "United States Office of Government Ethics",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfGovernmentEthics-Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2025-09-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-09-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Customs and Border Protection",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -6707,7 +6707,8 @@
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "Underlying_CSP_Package_ID": [
           "F1206061353",
-          "F1603047866"
+          "F1603047866",
+          "FR1916163735"
         ],
         "CSP_Website": "https://my.workspaceone.com/products/VMware-Workspace-ONE",
         "CSO_Description": "VMware Workspace ONE® is a FedRAMP Moderate Authorized solution, providing a digital workspace platform that combines endpoint device deployment and management with secure Zero Trust Access for agencies & branches.\nConsistently ranked as a leader by industry analysts, Workspace ONE delivers consumer-simple, single sign-on (SSO) access to cloud, web, and Windows apps in one unified catalog that engages employees. Agencies can enable employees with a broad range of devices including iOS, Android, Mac, Windows and rugged devices to meets the needs or preferences of a user or their mission while enforcing fine-grained, conditional access policies that also take into account device compliance information delivered by unified endpoint management (UEM) technology.\nThe Workspace ONE FedRAMP environment now includes ‘Workspace ONE Access’, (formerly VMware Identity Manager), which provides multi-factor and derived credentials authentication, conditional access and single sign-on to SaaS and web apps, and Workspace ONE Intelligent Hub, which offers a unified catalog, actionable notifications of potential interest to employees, and a people directory for a full digital workspace experience.\nWorkspace ONE Intelligence, now available for FedRAMP customers, delivers insights, analytics and automation for the digital workspace by aggregating and correlating device, application and user data coming from multiple sources in your environment. Agencies can improve employee experience with the Digital Employee Experience Management solution powered by Workspace ONE Intelligence, and strengthen the overall security posture by implementing Zero Trust capabilities.",
@@ -11955,6 +11956,14 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Telecommunications and Information Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-10-06T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-10-06T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-10-06T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -20385,7 +20394,7 @@
         "CSO_Description": "The Huron Accelerators Portal (HAP) is a web-based entry portal, hosted on AWS GovCloud. HAP is composed of three components: the Leader Evaluation Manager® (LEM) software application, the Patient Call Manager™ (PCM) software application, and the Huron Rounding software application.\n* Leader Evaluation Manager: Through research and more than a decade of working with healthcare organizations, Huron has perfected and accelerated the art and science of goal cascading, weighting and accountability for leaders to build consistency — and as consistency grows, so does engagement. With Leader Evaluation Manager® (LEM), organizations can guarantee that all employees get the same leadership experience, practice the same evidence-based tactics and are held accountable to the same behavioral standards. Use LEM to track and manage the components that take accountability to the next level.\n* Patient Call Manager: Checking on a patient at a critical point in their care is proven to have an impact. Whether it’s showing empathy or providing a clinical intervention, these calls improve patient safety and experiences — and offer an opportunity to receive first-hand feedback from patients. With Patient Call Manager™ (PCM), healthcare organizations can prioritize and connect patients with caregivers to ease transitions from in-person care to home. This fully HIPAA-compliant tool allows healthcare staff to serve as quality touchpoints and ensure quality outcomes along a patient’s continuum of care from pre-visit calls through post-visit.\n* Huron Rounding: A cloud-based, multiplatform technology, the Huron Rounding application helps organizations easily collect quality, safety, satisfaction, and other audit and compliance data for analysis and reporting.",
         "CSP_POC_Name": "Pam Bursch",
         "CSP_POC_Email": "fedrampmarketplace@hcg.com",
-        "FedRAMP_In-Process_Date": "2021-10-07T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2022-03-21T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -21322,7 +21331,7 @@
         "Independent_Assessor": "Schellman Compliance, LLC",
         "CSP_Website": "www.scale.com",
         "CSO_Description": "Scale accelerates AI development by providing the data infrastructure for AI. Its data-centric platform manages the entire ML lifecycle, from data annotation and curation to model testing and evaluation, enabling any organization – from the world’s most advanced AI teams to the U.S. government – to develop and deploy AI solutions. Scale combines ML technology with human insight to ensure every AI application is built on a foundation of high-quality ground truth data.",
-        "CSP_POC_Name": "Patrick Liu",
+        "CSP_POC_Name": "Alex Levinson",
         "CSP_POC_Email": "fedramp@scale.com",
         "FedRAMP_In-Process_Date": "2022-09-08T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
