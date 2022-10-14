@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-10-13T04:40:51.115Z",
+    "Created_At": "2022-10-14T04:40:51.454Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -16198,9 +16198,9 @@
           "F1508207205"
         ],
         "CSP_Website": "www.bmc.com",
-        "CSO_Description": "BMC Helix ITSM is a powerful, industry leading service management platform that fuels your IT transformation with intelligent, people-centric user experiences helping you work smarter. BMC Helix ITSM is delivered in the cloud, or as a hybrid or on-premises solution:\n* Enables proactive service resolution, providing the ability to monitor, service, and remediate events as they occur\n* Modern persona-based UX optimized across devices\n* BMC Helix Multi-Cloud Service Management for a secure, seamless service experience across multi-cloud environments\n* Cognitive automation capabilities that transform the agent experience\n* Powerful, stunning reports and visualizations allowing data driven insights\n* Optimized for ITIL® 4\n* Leader in the Gartner Magic Quadrant for IT Service Support Management Tools\n* Designed specifically for government agencies, BMC Helix ITSM for Public Sector is hosted in the FedRAMP compliant Amazon Web Services (AWS) cloud and can be tailored to the needs of any agency with rapid implementations, flexible configuration, huge scalability and easy upgrades.",
+        "CSO_Description": "BMC Helix in the AWS cloud accelerates agencies on their enterprise modernization journey. Organizations that are migrating to the cloud require a process that is seamless, successful, and uncompromising on security.  This is particularly important to federal agencies that are experiencing ever-changing and demanding missions.  \nSome highlights of the BMC solution include but are not limited to: \n\n* **BMC Helix Portfolio Management** – A comprehensive graphical tool that seamlessly connects project and portfolio Management with idea sourcing, idea management, and demand generation \n\n* **BMC Helix Operations Management with AIOps** – Predictive IT with AIOps, with service-centric monitoring, advanced event management, root cause isolation, and intelligent automation to improve performance  \n\n* **BMC Helix Continuous Optimization** – Predictive analytics to manage IT resources with support for Kubernetes and pods, microservices, containers, and multi-cloud \n\n* **BMC Helix Discovery** – Discovery and dependency modeling delivers instant visibility into hardware, software, and services across multi-cloud, hybrid, and on-premises environments \n\n* **BMC Helix ITSM (with Digital Workplace)** – The gold standard in service management (previously authorized – now updated to v21.3) \n\n BMC Helix empowers organizations to: \n\n* Enable proactive service resolution, providing the ability to monitor, service, and remediate events as they occur\n* Accelerate agency enterprise modernization\n* Drive innovation as part of their digital transformation  \n* Reduce costs and increase efficiencies \n* Deliver the industry-leading enterprise service management SaaS solution from the AWS cloud \n* Deliver the industry-leading enterprise operations management with AIOps SaaS solution from the AWS cloud \n* Leverage a modern persona based UX optimized across devices\n* Manage with powerful, stunning reports and visualizations allowing data driven insights\n\n* Optimized for ITIL® 4, a leader in the Gartner Magic Quadrant for IT Service Support Management Tools and optimized specifically for government agencies, BMC Helix is hosted in the FedRAMP compliant Amazon Web Services (AWS) cloud and can be tailored to the needs of any agency with rapid implementations, flexible configuration, huge scalability and easy upgrades.",
         "Announcement_Date": "2016-05-05T04:00:00.000Z",
-        "CSP_POC_Name": "Michelle Buckner",
+        "CSP_POC_Name": "Timothy Walsh",
         "CSP_POC_Email": "fedrampinfo@bmc.com",
         "FedRAMP_In-Process_Date": "2015-10-01T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
@@ -17613,6 +17613,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-03-23T04:00:00.000Z",
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "North American Aerospace Defense Command & United States Northern Command",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-10-06T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-12-20T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-10-06T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "United States Air Force",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
@@ -19489,6 +19498,36 @@
         "CSP_POC_Name": "Andrey Trubetskoy",
         "CSP_POC_Email": "fedramp-rally-contact@broadcom.com",
         "FedRAMP_In-Process_Date": "2022-02-07T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Synergetics Incorporated",
+        "Cloud_Service_Provider_Package": "Open Federal Logistics Information System (OpenFLIS)",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "FR1901136437",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-10-12T04:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Synergetics%20Logo.png",
+        "Independent_Assessor": "First Information Technology Services, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1209051525",
+          "F1603087869",
+          "FR1805751477"
+        ],
+        "CSP_Website": "https://synergetics.com/openflis",
+        "CSO_Description": "OpenFLIS is an easily customizable, FedRAMP Ready, cloud-based data collation, retrieval, and dissemination platform that enables users to search and display information across multiple databases, sources, and formats. When coupled with the Synergetics Craft Product Architecture (SCPA) application tool, OpenFLIS provides the ability to reach across technological generations and sources to provide access and visibility to any data in any format. The system consists of the SCPA collation and dissemination tool as well as provisioning, cataloging, search and discovery, Information Management / Knowledge Management (IM/KM), and administrator’s modules that comprise the platform.",
+        "Announcement_Date": "2022-10-13T04:00:00.000Z",
+        "CSP_POC_Name": "Kabir Mehta",
+        "CSP_POC_Email": "fedramp@synergetics.com",
+        "Fedramp_Ready_Date": "2020-12-16T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2022-03-23T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -21475,29 +21514,6 @@
         "CSP_POC_Name": "Mark Kuhr",
         "CSP_POC_Email": "fedramp@synack.com",
         "FedRAMP_In-Process_Date": "2022-02-01T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Synergetics Incorporated",
-        "Cloud_Service_Provider_Package": "Open Federal Logistics Information System (OpenFLIS)",
-        "Path": "JAB",
-        "Designation": "In Process",
-        "Package_ID": "FR1901136437",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "JAB Authorization",
-        "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Synergetics%20Logo.png",
-        "Independent_Assessor": "First Information Technology Services, Inc.",
-        "CSP_Website": "https://synergetics.com/openflis",
-        "CSO_Description": "OpenFLIS is an easily customizable, FedRAMP Ready, cloud-based data collation, retrieval, and dissemination platform that enables users to search and display information across multiple databases, sources, and formats. When coupled with the Synergetics Craft Product Architecture (SCPA) application tool, OpenFLIS provides the ability to reach across technological generations and sources to provide access and visibility to any data in any format. The system consists of the SCPA collation and dissemination tool as well as provisioning, cataloging, search and discovery, Information Management / Knowledge Management (IM/KM), and administrator’s modules that comprise the platform.",
-        "CSP_POC_Name": "Kabir Mehta",
-        "CSP_POC_Email": "fedramp@synergetics.com",
-        "Fedramp_Ready_Date": "2020-12-16T05:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2022-03-23T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
