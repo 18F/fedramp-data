@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-10-24T04:40:51.812Z",
+    "Created_At": "2022-10-25T04:40:52.574Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -5443,6 +5443,14 @@
             "Authorizing_Agency": "Federal Deposit Insurance Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-10-03T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-10-09T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Labor",
+            "Authorizing_Subagency": "Office of Job Corps",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -6647,15 +6655,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2019-10-04T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-10-11T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-10-11T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Food and Drug Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Authorizing_Letter_Last_Sign_Date": "2020-04-30T04:00:00.000Z",
             "Authorizing_Agency": "Department of Labor",
             "Authorizing_Subagency": "Occupational Safety and Health Administration",
@@ -6675,6 +6674,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-09-13T04:00:00.000Z",
             "Authorizing_Agency": "United States Office of Government Ethics",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfGovernmentEthics-Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-09-19T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-10-13T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -7247,6 +7254,15 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "United States Patent and Trademark Office",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-10-21T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-02-01T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-10-21T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Information Systems Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -10764,40 +10780,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "XTec, Incorporated",
-        "Cloud_Service_Provider_Package": "AuthentX Cloud",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1714261912",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "High",
-        "Original_Authorization_Date": "2019-10-17T04:00:00.000Z",
-        "Original_Expiration_Date": "2022-10-17T04:00:00.000Z",
-        "Sponsoring_Agency": "United States Agency for Global Media",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAGM%20Logo.jpg",
-        "Authorizing_Agency": "United States Agency for Global Media",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/AuthentX%20Cloud%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "http://www.xtec.com/",
-        "CSO_Description": "The AuthentX Cloud provides end-to-end identity, credential and access management to US Federal agencies, quasi-federal agencies, and private organizations that require interoperable identity authentication services with Federal systems and infrastructure. The primary use of AuthentX in the Federal government is to satisfy Homeland Security Presidential Directive #12 (HSPD-12), Federal Identity, Credential and Access Management (FICAM) and related policies, mandates and standards from the Office of Management and Budget (OMB), Department of Homeland Security (DHS), and National Institute of Standards and Technology (NIST) Special Publications (SP). Therefore, the AuthentX Cloud solution offered is aligned with federal mandates and high assurance requirements regarding cybersecurity, multi-factor authentication, Federal interoperability, and secure solutions for consolidation of data centers. The AuthentX Cloud consists of COTS hardware, software, and network components assembled and connected in multiple data centers. Hardware includes the XTec AuthentX XaNode appliances, the XTec AuthentX Secure Appliance (ASA) 2000 enrollment and issuance peripherals, the XTec XNode and XTec card readers, and SafeNet Hardware Security Modules. The software of the AuthentX system is built entirely from source to produce the AuthentX Linux Operating System (OS), customized embedded Microsoft OS, the AuthentX Enrollment Manager application, as well as other software packages.",
-        "Announcement_Date": "2019-08-02T04:00:00.000Z",
-        "CSP_POC_Name": "Heather Brooks",
-        "CSP_POC_Email": "fedramp@xtec.com",
-        "FedRAMP_In-Process_Date": "2018-04-26T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2021-03-11T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-03-11T05:00:00.000Z",
-            "Authorizing_Agency": "National Science Foundation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Government Retirement & Benefits, Inc.",
         "Cloud_Service_Provider_Package": "GRB Platform",
         "Path": "Agency",
@@ -12159,7 +12141,11 @@
         "Independent_Assessor": "MindPoint Group, LLC (In Remediation)",
         "Underlying_CSP_Package_ID": [
           "FR1812058188",
-          "F1607057910"
+          "F1607057910",
+          "F1603047866",
+          "FR1823447014",
+          "F1212191840",
+          "FR1814240140"
         ],
         "CSP_Website": "https://wpvip.com/",
         "CSO_Description": "WordPress VIP provides a secure, compliant WordPress platform for easy web content management for government entities. With industry-leading security protocols, expert support, flexible architectures, plus 99.99% SLA, hourly backups, and reliable uptime, WordPress VIP takes the heavy lifting out of digitizing citizen services and modernizing legacy infrastructure. Why choose WordPress VIP? For one thing, WordPress VIP’s open source software provides automatic updates and versioning which ease the burden of ongoing security and maintenance and can lower total cost of ownership. In fact, security is WordPress VIP’s chief priority. Our data security best practices include end-to-end encryption from edge to origin, resource and data isolation, and encrypted offsite backups. We address physical security through an independently owned and operated network of industry-certified global data centers. Every origin server meets the International Organization of Standardization (ISO), International Electrotechnical Commission (IEC) 27001 certification, Standards for Attestation Engagements (SSAE) No. 18 (SOC1) and SOC2 Type 2, and includes ongoing surveillance reviews. At the application level, every instance is protected with Single Sign-On, SSL/HTTPS/HSTS, required 2FA, and logging and auditing at the application, web server, load balancing, database, and operating system layers. While our stringent security protocols protect sensitive information, our intuitive and easy-to-use content management workflows make it easy to provide citizens with up-to-date, accessible, and accurate information. Even those with little technical knowledge can successfully navigate WordPress VIP’s editing interface with minimal training.",
@@ -12201,7 +12187,9 @@
           "FR1823149273",
           "F1206081364",
           "FR1805751477",
-          "F1512167750"
+          "F1512167750",
+          "FR1821856903",
+          "FR1814240140"
         ],
         "CSP_Website": "https://www.authentic8.com",
         "CSO_Description": "Silo is a remote browser that embeds security, identity and data policies directly into the browser. Available from anywhere, policies follow users regardless of environment. By shifting exposure away from the user's network and devices, Silo reduces risk and improves internal processes. With a configurable, centrally managed browser, users unlock the power of SaaS.\nAuthentic8 is redefining how enterprises conduct business on the web with the Silo web isolation platform. Silo insulates and isolates all web data and code execution from user endpoints, providing powerful, proactive security while giving users full, interactive access to the web. Silo also gives IT complete control over how the web is used. Commercial enterprises and public sector organizations use Silo solutions to provide secure web access; to control web data, apps, and workflows; and to conduct sensitive online research.",
@@ -12490,13 +12478,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2022-10-22T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-10-22T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Justice",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2022-01-14T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-01-14T05:00:00.000Z",
             "Authorizing_Agency": "United States International Trade Commission",
@@ -12549,6 +12530,14 @@
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Washington Headquarters Services",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-10-21T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-10-21T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-10-21T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Justice",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -19657,6 +19646,40 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Xtec, Incorporated",
+        "Cloud_Service_Provider_Package": "AuthentX Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1714261912",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Original_Authorization_Date": "2022-10-24T04:00:00.000Z",
+        "Original_Expiration_Date": "2025-10-24T04:00:00.000Z",
+        "Sponsoring_Agency": "United States Agency for Global Media",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAGM%20Logo.jpg",
+        "Authorizing_Agency": "United States Agency for Global Media",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/AuthentX%20Cloud%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "http://www.xtec.com/",
+        "CSO_Description": "The AuthentX Cloud provides end-to-end identity, credential and access management to US Federal agencies, quasi-federal agencies, and private organizations that require interoperable identity authentication services with Federal systems and infrastructure. The primary use of AuthentX in the Federal government is to satisfy Homeland Security Presidential Directive #12 (HSPD-12), Federal Identity, Credential and Access Management (FICAM) and related policies, mandates and standards from the Office of Management and Budget (OMB), Department of Homeland Security (DHS), and National Institute of Standards and Technology (NIST) Special Publications (SP). Therefore, the AuthentX Cloud solution offered is aligned with federal mandates and high assurance requirements regarding cybersecurity, multi-factor authentication, Federal interoperability, and secure solutions for consolidation of data centers. The AuthentX Cloud consists of COTS hardware, software, and network components assembled and connected in multiple data centers. Hardware includes the XTec AuthentX XaNode appliances, the XTec AuthentX Secure Appliance (ASA) 2000 enrollment and issuance peripherals, the XTec XNode and XTec card readers, and SafeNet Hardware Security Modules. The software of the AuthentX system is built entirely from source to produce the AuthentX Linux Operating System (OS), customized embedded Microsoft OS, the AuthentX Enrollment Manager application, as well as other software packages.",
+        "Announcement_Date": "2019-08-02T04:00:00.000Z",
+        "CSP_POC_Name": "Heather Brooks",
+        "CSP_POC_Email": "fedramp@xtec.com",
+        "FedRAMP_In-Process_Date": "2018-04-26T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2021-03-11T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-03-11T05:00:00.000Z",
+            "Authorizing_Agency": "National Science Foundation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "1901 Group",
         "Cloud_Service_Provider_Package": "in3sight High",
         "Path": "Agency",
@@ -21256,7 +21279,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Orca Security",
-        "Cloud_Service_Provider_Package": "CoSo Cloud IL4 Managed Service Provider",
+        "Cloud_Service_Provider_Package": "Orca Cloud Security Platform",
         "Designation": "FedRAMP Ready",
         "Package_ID": "FR2301844932",
         "Service_Model": [
@@ -21265,7 +21288,7 @@
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Orca%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Independent_Assessor": "Fortreum, LLC",
         "CSP_Website": "https://app.orcasecurity-gov.io",
         "CSO_Description": "Orca Security provides an agentless Cloud Security Platform that discovers all cloud assets, and identifies, prioritizes, and remediates risks and compliance issues across your cloud environments. The platform detects cloud risks, including vulnerabilities, malware, misconfigurations, API risks, lateral movement risks, weak and leaked passwords, and overly permissive identities. Orca deploys in minutes, provides visibility into all your assets, and automatically includes new assets as they are added. The Orca Platform helps federal agencies and contractors achieve regulatory compliance with over 65 out-of-the-box frameworks, CIS Benchmarks, and custom compliance checks. Leveraging a Unified Data Model, Orca performs contextual analysis of all the risks in your cloud estate, uncovering potential attack paths (with references to the MITRE ATT&CK framework), enabling rapid identification of which risks present the highest danger to mission data and security objectives.",
         "CSP_POC_Name": "Doug Hudson",
