@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-11-01T04:40:51.704Z",
+    "Created_At": "2022-11-02T04:40:53.958Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2861,15 +2861,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2022-07-14T04:00:00.000Z",
-            "Letter_Expiration_Date": "2025-07-26T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-07-26T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Food and Drug Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2025-09-07T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-09-07T04:00:00.000Z",
             "Authorizing_Agency": "Department of Homeland Security",
@@ -2884,6 +2875,15 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "International Trade Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-10-20T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-10-21T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-10-21T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -10519,40 +10519,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Code42 Software Inc.",
-        "Cloud_Service_Provider_Package": "Incydr Gov",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1910758409",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2020-09-28T04:00:00.000Z",
-        "Original_Expiration_Date": "2023-09-30T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Energy",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-        "Authorizing_Agency": "Department of Energy",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Code42%20Logo.png",
-        "Independent_Assessor": "Deloitte & Touche LLP",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW",
-          "FR1807853629",
-          "FR1805751477",
-          "F1209051525",
-          "F1512167750"
-        ],
-        "CSP_Website": "www.code42.com",
-        "CSO_Description": "Incydr Gov is a FedRAMP-authorized SaaS solution that proactively manages insider risk by protecting sensitive and strategic data from exfiltration. It looks at file, vector and user behavior to quickly and accurately detect insider risks to data. Incydr Gov detects endpoint exfiltration events including USB, cloud sync applications, Airdrop, web browsers and other web apps.",
-        "Announcement_Date": "2020-12-08T05:00:00.000Z",
-        "CSP_POC_Name": "Jadee Hanson",
-        "CSP_POC_Email": "security@code42.com",
-        "Fedramp_Ready_Date": "2020-01-22T05:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2019-11-12T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Rave Mobile Safety",
         "Cloud_Service_Provider_Package": "Rave Alert",
         "Path": "Agency",
@@ -14084,15 +14050,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2021-09-03T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-08-25T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-09-03T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "United States Army",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2024-07-27T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-12-01T05:00:00.000Z",
             "Authorizing_Agency": "Department of Agriculture",
@@ -15605,13 +15562,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2022-09-12T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-12-06T05:00:00.000Z",
-            "Authorizing_Agency": "United States Agency for International Development",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2022-04-07T04:00:00.000Z",
             "Letter_Expiration_Date": "2023-04-07T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-04-07T04:00:00.000Z",
@@ -15626,6 +15576,13 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-03-01T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-08-16T04:00:00.000Z",
+            "Authorizing_Agency": "United States Agency for International Development",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -19717,6 +19674,39 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Code42 Software Inc.",
+        "Cloud_Service_Provider_Package": "Incydr Gov",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1910758409",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-11-01T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Energy",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+        "Authorizing_Agency": "Department of Energy",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Code42%20Logo.png",
+        "Independent_Assessor": "Deloitte & Touche LLP",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "FR1807853629",
+          "FR1805751477",
+          "F1209051525",
+          "F1512167750"
+        ],
+        "CSP_Website": "www.code42.com",
+        "CSO_Description": "Incydr Gov is a FedRAMP-authorized SaaS solution that proactively manages insider risk by protecting sensitive and strategic data from exfiltration. It looks at file, vector and user behavior to quickly and accurately detect insider risks to data. Incydr Gov detects endpoint exfiltration events including USB, cloud sync applications, Airdrop, web browsers and other web apps.",
+        "Announcement_Date": "2020-12-08T05:00:00.000Z",
+        "CSP_POC_Name": "Jadee Hanson",
+        "CSP_POC_Email": "security@code42.com",
+        "Fedramp_Ready_Date": "2020-01-22T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2019-11-12T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "1901 Group",
         "Cloud_Service_Provider_Package": "in3sight High",
         "Path": "Agency",
@@ -20785,7 +20775,7 @@
         "CSO_Description": "The Juvare Federal Cloud provides software to empower emergency preparedness and response professionals to protect people, property, and brands. The Juvare Federal Cloud combines the emergency preparedness and response software solutions WebEOC, Juvare Exchange, and DesignStudio together in a ready-to-use SaaS offering. Running in the AWS GovCloud, Juvare handles provisioning, infrastructure, software deployment, security, backups, maintenance, monitoring, and support to ensure program success. The environment has been architected according to NIST and CIS guidance to provide FedRAMP High authorization.",
         "CSP_POC_Name": "Bryan Kaplan",
         "CSP_POC_Email": "sales@juvare.com",
-        "FedRAMP_In-Process_Date": "2021-11-02T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2022-10-11T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -21331,6 +21321,30 @@
         "CSP_POC_Name": "Harley Barrales ",
         "CSP_POC_Email": "FedRAMP@Ownbackup.com",
         "FedRAMP_In-Process_Date": "2022-07-26T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Paperless Innovations, Inc.",
+        "Cloud_Service_Provider_Package": "Actus",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2235229299",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Homeland Security",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+        "Authorizing_Agency": "Department of Homeland Security",
+        "Authorizing_Subagency": "Immigration and Customs Enforcement",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Paperless%20Logo.png",
+        "Independent_Assessor": "Earthling Security, LLC",
+        "CSP_Website": "https://act.us",
+        "CSO_Description": "Actus is SaaS based Compliance automation solution for P-Card Programs, including item sourcing, approvals workflows, credit card purchasing, reconciliation, and automated audit. Actus is designed according to 3 pillars: Accountability, Compliance , and Transparency.\n\n• Accountability - Actus helps agencies paint a complete and total picture of each expense, eliminating guesswork, human error, and manual data entry tracking.\n• Compliance - Simplified, structured data is at the heart of compliance automation ensuring adherence to Agency policies and acquisition regulations. The Actus platform streamlines and automates oversight processes while maintaining rich transactional records for instant audit reporting. Artificial Intelligence is used to further the regulatory mission of each agency. Adoption of Actus itself satisfies and supplements Federal paperless mandate compliance as well.\n• Transparency - Actus utilizes dashboards enabling full visualization of all workflow processes, transactional data and documents on a need to know basis. Audit automation occurs with every download of bank transactions without requiring manual packet creation by the cardholder. Active Audit enables inspection of every detail of each purchase made within a selected time frame—in a unified, streamlined format.\n\nP-Card Compliance Automation Features: \n• Custom Approval Workflows\n• Financial Data Capture\n• Full Lifecycle Spend Tracking\n• Cloud Storage of Reconciliation Packets\n• Dashboard Visualization of data & documents\n• Automated Reconciliation Statements\n• Structured Item Level (Level 3) Data\n• Merchant Class Code Tracking\n• Suspicious Pattern & Activity Detection\n• Alerts for Each Stage of Transaction\n• Transactional Keyword Search\n• Bank Statement Transaction Matching\n• Auto-Matched Transactions\n• Daily, Weekly, or Monthly Reconciliation\n• PIV/CAC authentication",
+        "CSP_POC_Name": "Michael Tocci",
+        "CSP_POC_Email": "mike@paperless-innovations.com",
+        "FedRAMP_In-Process_Date": "2022-11-01T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
