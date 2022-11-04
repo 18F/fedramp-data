@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-11-03T04:40:53.197Z",
+    "Created_At": "2022-11-04T04:40:51.177Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1563,7 +1563,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Amazon%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.aws.amazon.com",
-        "CSO_Description": "AWS GovCloud (US) is an AWS Region designed to allow US government agencies and customers supporting the US government to move more sensitive workloads into the cloud. In addition to complying with FedRAMP requirements, the AWS GovCloud (US) framework adheres to U.S. International Traffic in Arms Regulations (ITAR) regulations. Additional information is available at [http://aws.amazon.com/govcloud-us/](http://aws.amazon.com/govcloud-us/).\nThe following AWS services are FedRAMP Authorized and approved by the JAB: Amazon API Gateway, AWS AppConfig, Amazon AppStream 2.0, Amazon Athena, Amazon Aurora (MySQL), Amazon Aurora (Postgres), Amazon Chime SDK, Amazon Cloud Directory, Amazon Cloudwatch, Amazon CloudWatch Logs, Amazon Cognito, Amazon Comprehend, Amazon Comprehend Medical, Amazon Connect, Amazon Detective, Amazon DynamoDB, Amazon ElastiCache for Redis, Amazon Elastic Block Store (EBS), Amazon Elastic Compute Cloud (EC2), Amazon EC2 Image Builder, Amazon Elastic Container Registry, Amazon Elastic Container Service, Amazon Elastic File System, Amazon Elastic Kubernetes Service (EKS) , Amazon Elastic MapReduce, Amazon EventBridge, Amazon Glacier, Amazon Guard Duty, Amazon Inspector Classic, Amazon Keyspaces, Amazon Kinesis Data Analytics, Amazon Kinesis Data Firehose, Amazon Kinesis Data Streams, Amazon Lex, Amazon Managed Streaming for Apache Kafka, Amazon MQ, Amazon Neptune, Amazon OpenSearch (formerly Amazon Elasticsearch), Amazon Pinpoint, Amazon Polly, Amazon QuickSight, Amazon Redshift, Amazon RDS (MariaDB, MySQL, Oracle, Postgres, SQL Server), Amazon Rekognition, Amazon Route 53, Amazon SageMaker, Amazon Simple Email Service (SES), Amazon Simple Notification Service (SNS), Amazon Simple Queue Service (SQS), Amazon Simple Storage Service (S3), Amazon Simple Workflow Service (SWF), Amazon Textract, Amazon Transcribe, Amazon Translate, Amazon Virtual Private Cloud (VPC), Amazon WorkSpace, AWS Backup, AWS Batch, AWS Certificate Manager, AWS CodeDeploy, AWS CloudFormation, AWS CloudHSM, AWS CloudTrail, AWS CodeBuild, AWS CodeCommit, AWS CodePipeline, AWS Config, AWS Database Migration Service, AWS Data Sync, AWS Direct Connect, AWS Directory Services, AWS Elastic Beanstalk, AWS Elemental MediaConvert, AWS Firewall Manager, AWS Glue, AWS IoT Core, AWS IoT Device Manager, AWS IoT Greengrass, AWS Identity & Access Management (IAM), Amazon Kendra and AWS Cloud Map, AWS Key Management Service (KMS), AWS Lambda, AWS License Manager, AWS Network Firewall, AWS Organizations, AWS Outposts, AWS Personal Health Dashboard, AWS Resource Access Manager, AWS Resource Groups, AWS Secrets Manager, AWS Security Hub, AWS Serverless Application Repository, AWS Server Migration Service (SMS), AWS Service Catalog, AWS Snowball, AWS Snowball Edge, AWS Snowmobile, AWS Step Functions, AWS Storage Gateway, AWS Systems Manager, AWS Transfer Family, AWS Trusted Advisor, AWS WAF, AWS X-Ray, FSx for Lustre, FSx for Windows File Server",
+        "CSO_Description": "AWS GovCloud (US) is an AWS Region designed to allow US government agencies and customers supporting the US government to move more sensitive workloads into the cloud. In addition to complying with FedRAMP requirements, the AWS GovCloud (US) framework adheres to U.S. International Traffic in Arms Regulations (ITAR) regulations. Additional information is available at [http://aws.amazon.com/govcloud-us/](http://aws.amazon.com/govcloud-us/).\nThe following AWS services are FedRAMP Authorized and approved by the JAB: Amazon API Gateway, AWS AppConfig, Amazon AppStream 2.0, Amazon Athena, Amazon Aurora (MySQL), Amazon Aurora (Postgres), Amazon Chime SDK, Amazon Cloud Directory, Amazon Cloudwatch, Amazon CloudWatch Logs, Amazon Cognito, Amazon Comprehend, Amazon Comprehend Medical, Amazon Connect, Amazon Detective, Amazon DynamoDB, Amazon ElastiCache for Redis, Amazon Elastic Block Store (EBS), Amazon Elastic Compute Cloud (EC2), Amazon EC2 Image Builder, Amazon Elastic Container Registry, Amazon Elastic Container Service, Amazon Elastic File System, Amazon Elastic Kubernetes Service (EKS) , Amazon Elastic MapReduce, Amazon EventBridge, Amazon Glacier, Amazon Guard Duty, Amazon Inspector Classic, Amazon Keyspaces, Amazon Kinesis Data Analytics, Amazon Kinesis Data Firehose, Amazon Kinesis Data Streams, Amazon Lex, Amazon Managed Streaming for Apache Kafka, Amazon MQ, Amazon Neptune, Amazon OpenSearch (formerly Amazon Elasticsearch), Amazon Pinpoint, Amazon Polly, Amazon QuickSight, Amazon Redshift, Amazon RDS (MariaDB, MySQL, Oracle, Postgres, SQL Server), Amazon Rekognition, Amazon Route 53, Amazon SageMaker, Amazon Simple Email Service (SES), Amazon Simple Notification Service (SNS), Amazon Simple Queue Service (SQS), Amazon Simple Storage Service (S3), Amazon Simple Workflow Service (SWF), Amazon Textract, Amazon Transcribe, Amazon Translate, Amazon Virtual Private Cloud (VPC), Amazon WorkSpace, AWS Backup, AWS Batch, AWS Certificate Manager, AWS CodeDeploy, AWS CloudFormation, AWS CloudHSM, AWS CloudTrail, AWS CodeBuild, AWS CodeCommit, AWS CodePipeline, AWS Config, AWS Database Migration Service, AWS Data Sync, AWS Direct Connect, AWS Directory Services, AWS Elastic Beanstalk, AWS Elemental MediaConvert, AWS Firewall Manager, AWS Glue, AWS IoT Core, AWS IoT Device Manager, AWS IoT Greengrass, AWS Identity & Access Management (IAM), Amazon Kendra and AWS Cloud Map, AWS Key Management Service (KMS), AWS Lambda, AWS License Manager, AWS Network Firewall, AWS Organizations, AWS Outposts, AWS Personal Health Dashboard, AWS Resource Access Manager, AWS Resource Groups, AWS Secrets Manager, AWS Security Hub, AWS Serverless Application Repository, AWS Server Migration Service (SMS), AWS Service Catalog, AWS Managed Services and AWS Single Sign-on, AWS Snowball, AWS Snowball Edge, AWS Snowmobile, AWS Step Functions, AWS Storage Gateway, AWS Systems Manager, AWS Transfer Family, AWS Trusted Advisor, AWS WAF, AWS X-Ray, FSx for Lustre, FSx for Windows File Server",
         "Announcement_Date": "2016-06-21T04:00:00.000Z",
         "CSP_POC_Name": "AWS FedRAMP Compliance Team",
         "CSP_POC_Email": "aws-compliance-fedramp@amazon.com",
@@ -2884,6 +2884,15 @@
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "Food and Drug Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-10-24T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-11-02T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-11-02T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Federal Law Enforcement Training Centers",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -5078,6 +5087,13 @@
             "Authorizing_Subagency": "Office of the Inspector General",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2025-09-23T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-11-01T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -5856,13 +5872,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Authorizing_Letter_Last_Sign_Date": "2020-08-06T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Transportation",
-            "Authorizing_Subagency": "Federal Aviation Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-11-19T05:00:00.000Z",
             "Letter_Expiration_Date": "2023-11-19T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-11-19T05:00:00.000Z",
@@ -5938,6 +5947,13 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Telecommunications and Information Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2022-10-28T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Transportation",
+            "Authorizing_Subagency": "Federal Aviation Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -8686,18 +8702,18 @@
         "FedRAMP_In-Process_Date": "2015-05-03T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
-            "Authorizing_Letter_Last_Sign_Date": "2019-12-20T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Transportation",
-            "Authorizing_Subagency": "Federal Aviation Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2022-04-21T04:00:00.000Z",
             "Letter_Expiration_Date": "2023-04-21T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-04-21T04:00:00.000Z",
             "Authorizing_Agency": "Department of Veterans Affairs",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2022-09-27T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Transportation",
+            "Authorizing_Subagency": "Federal Aviation Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -10724,13 +10740,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Authorizing_Letter_Last_Sign_Date": "2019-08-15T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Transportation",
-            "Authorizing_Subagency": "Federal Aviation Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-08-19T04:00:00.000Z",
             "Authorizing_Agency": "Department of State",
             "Authorizing_Subagency": "State Office of the Inspector General",
@@ -10765,6 +10774,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-02-28T05:00:00.000Z",
             "Authorizing_Agency": "Federal Retirement Thrift Investment Board",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRTIB%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "9//27/2022",
+            "Authorizing_Agency": "Department of Transportation",
+            "Authorizing_Subagency": "Federal Aviation Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -11027,13 +11043,6 @@
             "Authorizing_Agency": "Department of Justice",
             "Authorizing_Subagency": "Federal Bureau of Investigation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2019-12-20T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Transportation",
-            "Authorizing_Subagency": "Federal Aviation Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -11413,6 +11422,13 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "International Trade Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2022-10-28T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Transportation",
+            "Authorizing_Subagency": "Federal Aviation Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -12694,6 +12710,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-06-02T04:00:00.000Z",
             "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-10-25T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-11-01T04:00:00.000Z",
+            "Authorizing_Agency": "Deparment of Homeland Security",
+            "Authorizing_Subagency": "Federal Law Enforcement Training Centers",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -14158,13 +14182,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Authorizing_Letter_Last_Sign_Date": "2020-05-22T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Transportation",
-            "Authorizing_Subagency": "Federal Aviation Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Authorizing_Letter_Last_Sign_Date": "2020-09-28T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Interior",
             "Authorizing_Subagency": "United States Geological Survey",
@@ -14199,6 +14216,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-09-18T04:00:00.000Z",
             "Authorizing_Agency": "National Aeronautics and Space Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NASA_logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-03T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Transportation",
+            "Authorizing_Subagency": "Federal Aviation Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -14464,84 +14488,6 @@
         "CSP_POC_Email": "info@devresults.com",
         "FedRAMP_In-Process_Date": "2021-01-07T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Tango",
-        "Cloud_Service_Provider_Package": "Tango Reserve by AgilQuest (Formerly Forum)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR2100740435",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "LI-SaaS",
-        "Original_Authorization_Date": "2021-09-16T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Transportation",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
-        "Authorizing_Agency": "Department of Transportation",
-        "Authorizing_Subagency": "Federal Aviation Administration",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/AgilQuest%20Logo.png",
-        "Independent_Assessor": "Moss Adams",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW",
-          "FR1807853629",
-          "MSO365MT",
-          "F1607197917"
-        ],
-        "CSP_Website": "login.agilquest.com",
-        "CSO_Description": "Tango Reserve by AgilQuest, a world-class workplace management system, is the solution to managing your space whether it’s desks, conference rooms, amenities, or other workplace resources. Tango provides this innovative, SaaS scheduling system to enhance the Government’s Workforce Productivity and Workspace Optimization.\n**Workforce Productivity:** With Tango Reserve by AgilQuest, you are giving your employees the choice and flexibility to work where they work best, leading to improved collaboration and increased productivity. * Find available places to work and reserve workstations, conference rooms, and resources like equipment, services, health & wellness, parking, and transportation to be your most efficient and productive self. * Quickly and easily locate colleagues to enhance engagement, teamwork, and productivity. * Use the desktop platform to create workspace reservations for the upcoming weeks or quickly secure a meeting room on the mobile app. * Create your dynamic, efficient workplace with digital signage like Room Kiosks, Lobby Kiosks, Desk Signs, and ID Screens, so employees can create and manage their reservations from anywhere in the office. * Utilize integrations with platforms you already know well, like Microsoft Office, to make Tango Reserve’s adoption and deployment simple.\r**Workplace Optimization:** Tango Reserve not only leads to a more productive, efficient office but also makes it easy to understand how your office and people are working to better optimize your workplace. By measuring actual utilization of your office space and managing your workplace operations such as occupancy management, permanently assigned space, and the flexible office strategies of hoteling, free address and hotdesking, Tango Reserve helps you make data-driven decisions about your workplace and real estate. Agencies leverage this mission critical solution to manage:\r* **Telework & Flexibility** – Manage and measure work from any location including WFH (work from home), the office, other Agencies, or coworking locations. * **Reduce the Footprint** – Measure the actual utilization of space for short duration Workplace Surveys as well as continuous, consistent, and systematic measurement of People, Presence, and Workplace use across the entire portfolio year after year. Agencies can cut their office space by up to 50%, as facilitated for GSA’s 1800F HQ in Washington, DC. Tango Reserve Analytics data analysis provides management the support tool necessary to make space planning and office space invest/divest decisions.\r* **Zero Emission Buildings** – Through actual utilization measurement, real estate reduction, and shared desk strategies, Agencies can reduce their office space, and thus reduce their Carbon Footprint by up to 50%. * **COVID-19 Back to the Workplace & Contact Tracing** – Provide employee trust to encourage coming back to the workplace, contactless operations through mobile app and QR code bookings, partition stagger strategies, physical/social Distancing, contact trace and verification, and compliance support.",
-        "Announcement_Date": "2021-09-21T04:00:00.000Z",
-        "CSP_POC_Name": "Don Davidson",
-        "CSP_POC_Email": "FedRAMP@agilquest.com",
-        "FedRAMP_In-Process_Date": "2020-12-08T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2021-10-31T04:00:00.000Z",
-            "Authorizing_Agency": "Department of State",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2022-02-16T05:00:00.000Z",
-            "Letter_Expiration_Date": "2025-02-14T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-02-22T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "National Heart, Lung, and Blood Institute",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2024-09-21T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-03-23T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Agriculture",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2022-05-10T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Housing Finance Agency",
-            "Authorizing_Subagency": "FHFA Office of the Inspector General",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2025-08-24T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-08-25T04:00:00.000Z",
-            "Authorizing_Agency": "Millennium Challenge Corporation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-MillenniumChallengeCorporation-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2022-07-26T04:00:00.000Z",
-            "Letter_Expiration_Date": "2025-07-26T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-07-26T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Health Resources and Services Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
       },
       {
         "Cloud_Service_Provider_Name": "Level Access",
@@ -16754,7 +16700,7 @@
           "F1603047866"
         ],
         "CSP_Website": "www.cloud.vmware.com/govcloud",
-        "CSO_Description": "VMware Government Services (VGS) is a set of cloud service offerings designed to allow US government agencies and customers supporting the US government to migrate, manage, and operate more sensitive workloads in the cloud. The VGS authorization boundary provides Software-as-a-Service (SaaS) and Infrastructure-as-a-Service (IaaS) capabilities to deliver modern applications at the speed the US government demands and operate across the data center, the edge, and the cloud. VGS provides the following FedRAMP authorized services at the High baseline: VMware Cloud on AWS GovCloud (US) (VMC), Hybrid Cloud Extension (HCX), Carbon Black Cloud (CBC), and Software Defined WAN (SD-WAN). More information on the VGS public sector roadmap can be found on the VMware Trust Center [https://www.vmware.com/products/trust-center/certificate.html?family=FedRAMP](https://www.vmware.com/products/trust-center/certificate.html?family=FedRAMP).",
+        "CSO_Description": "VMware Government Services (VGS) is a set of cloud service offerings designed to allow US government agencies and customers supporting the US government to migrate, manage, and operate more sensitive workloads in the cloud. The VGS authorization boundary provides Software-as-a-Service (SaaS) and Infrastructure-as-a-Service (IaaS) capabilities to deliver modern applications at the speed the US government demands and operate across the data center, the edge, and the cloud. VGS provides the following FedRAMP authorized services at the High baseline: VMware Cloud on AWS GovCloud (US) (VMC), Hybrid Cloud Extension (HCX), Carbon Black Cloud (CBC), and Software Defined WAN (SD-WAN) and Horizon Cloud Service (HCS). More information on the VGS public sector roadmap can be found on the VMware Trust Center [https://www.vmware.com/products/trust-center/certificate.html?family=FedRAMP](https://www.vmware.com/products/trust-center/certificate.html?family=FedRAMP).",
         "Announcement_Date": "2022-04-18T04:00:00.000Z",
         "CSP_POC_Name": "VMware Government Services",
         "CSP_POC_Email": "VGS_FedRAMP@vmware.com",
@@ -17494,13 +17440,6 @@
         "FedRAMP_In-Process_Date": "2019-02-05T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
-            "Authorizing_Letter_Last_Sign_Date": "2020-09-25T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Transportation",
-            "Authorizing_Subagency": "Federal Aviation Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2023-09-21T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-09-20T04:00:00.000Z",
             "Authorizing_Agency": "Small Business Administration",
@@ -17512,6 +17451,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-06-23T04:00:00.000Z",
             "Authorizing_Agency": "Environmental Protection Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2022-09-29T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Transportation",
+            "Authorizing_Subagency": "Federal Aviation Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -19467,6 +19413,84 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Tango",
+        "Cloud_Service_Provider_Package": "Tango Reserve by AgilQuest (Formerly Forum)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2100740435",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "LI-SaaS",
+        "Original_Authorization_Date": "2022-09-16T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Transportation",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
+        "Authorizing_Agency": "Department of Transportation",
+        "Authorizing_Subagency": "Federal Aviation Administration",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/AgilQuest%20Logo.png",
+        "Independent_Assessor": "Moss Adams",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "FR1807853629",
+          "MSO365MT",
+          "F1607197917"
+        ],
+        "CSP_Website": "login.agilquest.com",
+        "CSO_Description": "Tango Reserve by AgilQuest, a world-class workplace management system, is the solution to managing your space whether it’s desks, conference rooms, amenities, or other workplace resources. Tango provides this innovative, SaaS scheduling system to enhance the Government’s Workforce Productivity and Workspace Optimization.\n**Workforce Productivity:** With Tango Reserve by AgilQuest, you are giving your employees the choice and flexibility to work where they work best, leading to improved collaboration and increased productivity. * Find available places to work and reserve workstations, conference rooms, and resources like equipment, services, health & wellness, parking, and transportation to be your most efficient and productive self. * Quickly and easily locate colleagues to enhance engagement, teamwork, and productivity. * Use the desktop platform to create workspace reservations for the upcoming weeks or quickly secure a meeting room on the mobile app. * Create your dynamic, efficient workplace with digital signage like Room Kiosks, Lobby Kiosks, Desk Signs, and ID Screens, so employees can create and manage their reservations from anywhere in the office. * Utilize integrations with platforms you already know well, like Microsoft Office, to make Tango Reserve’s adoption and deployment simple.\r**Workplace Optimization:** Tango Reserve not only leads to a more productive, efficient office but also makes it easy to understand how your office and people are working to better optimize your workplace. By measuring actual utilization of your office space and managing your workplace operations such as occupancy management, permanently assigned space, and the flexible office strategies of hoteling, free address and hotdesking, Tango Reserve helps you make data-driven decisions about your workplace and real estate. Agencies leverage this mission critical solution to manage:\r* **Telework & Flexibility** – Manage and measure work from any location including WFH (work from home), the office, other Agencies, or coworking locations. * **Reduce the Footprint** – Measure the actual utilization of space for short duration Workplace Surveys as well as continuous, consistent, and systematic measurement of People, Presence, and Workplace use across the entire portfolio year after year. Agencies can cut their office space by up to 50%, as facilitated for GSA’s 1800F HQ in Washington, DC. Tango Reserve Analytics data analysis provides management the support tool necessary to make space planning and office space invest/divest decisions.\r* **Zero Emission Buildings** – Through actual utilization measurement, real estate reduction, and shared desk strategies, Agencies can reduce their office space, and thus reduce their Carbon Footprint by up to 50%. * **COVID-19 Back to the Workplace & Contact Tracing** – Provide employee trust to encourage coming back to the workplace, contactless operations through mobile app and QR code bookings, partition stagger strategies, physical/social Distancing, contact trace and verification, and compliance support.",
+        "Announcement_Date": "2021-09-21T04:00:00.000Z",
+        "CSP_POC_Name": "Don Davidson",
+        "CSP_POC_Email": "FedRAMP@agilquest.com",
+        "FedRAMP_In-Process_Date": "2020-12-08T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2021-10-31T04:00:00.000Z",
+            "Authorizing_Agency": "Department of State",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-02-16T05:00:00.000Z",
+            "Letter_Expiration_Date": "2025-02-14T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-02-22T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "National Heart, Lung, and Blood Institute",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2024-09-21T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-23T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2022-05-10T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Housing Finance Agency",
+            "Authorizing_Subagency": "FHFA Office of the Inspector General",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2025-08-24T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-08-25T04:00:00.000Z",
+            "Authorizing_Agency": "Millennium Challenge Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-MillenniumChallengeCorporation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-07-26T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-07-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-07-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Health Resources and Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "Broadcom",
         "Cloud_Service_Provider_Package": "Rally",
         "Path": "Agency",
@@ -20935,6 +20959,25 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Mandiant, Inc.",
+        "Cloud_Service_Provider_Package": "Mandiant Advantage Services (MAS)",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2121656025",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Mandiant%20Logo.png",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "CSP_Website": "https://www.mandiant.com/advantage/automated-defense",
+        "CSO_Description": "Mandiant Advantage Services (MAS) is an artificial intelligence (AI) security event triage system. Utilizing a combination of relevant threat intelligence from multiple sources and Mandiant’s proprietary intelligent decision engine, MAS evaluates broad security sensor data sources (e.g., endpoint, network, cloud security tools, and vulnerability management solutions) in real time to produce contextual, actionable incident escalations. MAS information system components are fully hosted on the FedRAMP-authorized Amazon Web Services (AWS) GovCloud IaaS. End-users access MAS utilizing their web browser.",
+        "CSP_POC_Name": "Spencer Cherry",
+        "CSP_POC_Email": "fedramp@mandiant.com",
+        "Fedramp_Ready_Date": "2022-02-23T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Manhattan Associates, Inc.",
         "Cloud_Service_Provider_Package": "Manhattan Government Cloud",
         "Path": "Agency",
@@ -21258,6 +21301,30 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "OpenText Inc",
+        "Cloud_Service_Provider_Package": "OpenText Cloud for Government",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2203732438",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "National Institute of Allergy and Infectious Diseases",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/OpenText%20Logo.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "CSP_Website": "https://www.opentext.com/solutions/government-cloud-services#services-section",
+        "CSO_Description": "OpenText™ Cloud for Government is a secure, scalable, cloud environment designed for the unique requirements of FedRAMP compliance.  US federal agencies and entities requiring FedRAMP certification can use OpenText™ Cloud for Government to enable their digital transformation and cloud first initiatives as they move Information Management workloads to the cloud.   \n \nThe following OpenText applications are delivered as a service designed with a FedRAMP moderate level security control framework:\n* Extended ECM – Enterprise Content Services that link the digital workplace and applications that power ERP, HCM, BPM and CRM business processes to drive operational excellence and govern unstructured content.\n* AppWorks - Low-code development platform for building engaging process automation and dynamic case management applications. Fully integrated with Extended ECM, AppWorks helps re-engineer business processes around customer, employee and partner needs to deliver seamless digital experiences and adapt to changing market expectations while improving efficiency and managing risk.",
+        "CSP_POC_Name": "Usha Talasila",
+        "CSP_POC_Email": "fedramp@opentext.com",
+        "FedRAMP_In-Process_Date": "2022-10-26T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Oracle",
         "Cloud_Service_Provider_Package": "Oracle Enterprise Performance Management (EPM) - Moderate",
         "Path": "Agency",
@@ -21338,7 +21405,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
         "Authorizing_Agency": "Department of Homeland Security",
         "Authorizing_Subagency": "Immigration and Customs Enforcement",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Paperless%20Logo.png",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Paperless%20Logo2.png",
         "Independent_Assessor": "Earthling Security, LLC",
         "CSP_Website": "https://act.us",
         "CSO_Description": "Actus is SaaS based Compliance automation solution for P-Card Programs, including item sourcing, approvals workflows, credit card purchasing, reconciliation, and automated audit. Actus is designed according to 3 pillars: Accountability, Compliance , and Transparency.\n\n• Accountability - Actus helps agencies paint a complete and total picture of each expense, eliminating guesswork, human error, and manual data entry tracking.\n• Compliance - Simplified, structured data is at the heart of compliance automation ensuring adherence to Agency policies and acquisition regulations. The Actus platform streamlines and automates oversight processes while maintaining rich transactional records for instant audit reporting. Artificial Intelligence is used to further the regulatory mission of each agency. Adoption of Actus itself satisfies and supplements Federal paperless mandate compliance as well.\n• Transparency - Actus utilizes dashboards enabling full visualization of all workflow processes, transactional data and documents on a need to know basis. Audit automation occurs with every download of bank transactions without requiring manual packet creation by the cardholder. Active Audit enables inspection of every detail of each purchase made within a selected time frame—in a unified, streamlined format.\n\nP-Card Compliance Automation Features: \n• Custom Approval Workflows\n• Financial Data Capture\n• Full Lifecycle Spend Tracking\n• Cloud Storage of Reconciliation Packets\n• Dashboard Visualization of data & documents\n• Automated Reconciliation Statements\n• Structured Item Level (Level 3) Data\n• Merchant Class Code Tracking\n• Suspicious Pattern & Activity Detection\n• Alerts for Each Stage of Transaction\n• Transactional Keyword Search\n• Bank Statement Transaction Matching\n• Auto-Matched Transactions\n• Daily, Weekly, or Monthly Reconciliation\n• PIV/CAC authentication",
