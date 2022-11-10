@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-11-09T05:40:51.438Z",
+    "Created_At": "2022-11-10T05:40:51.586Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1122,8 +1122,8 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2022-11-08T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-11-08T05:00:00.000Z",
+            "Letter_Expiration_Date": "2024-06-09T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-08-16T04:00:00.000Z",
             "Authorizing_Agency": "Department of Agriculture",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
             "Include_In_Marketplace": "Y"
@@ -8015,12 +8015,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2021-12-01T05:00:00.000Z",
-            "Authorizing_Agency": "Department of State",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2022-06-03T04:00:00.000Z",
             "Letter_Expiration_Date": "2025-05-09T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-06-03T04:00:00.000Z",
@@ -8073,6 +8067,12 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-10-25T04:00:00.000Z",
             "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2022-10-27T04:00:00.000Z",
+            "Authorizing_Agency": "Department of State",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -13004,7 +13004,7 @@
         "Authorizing_Agency": "Department of Health and Human Services",
         "Authorizing_Subagency": "HHS Office of the Inspector General",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Microsoft%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Independent_Assessor": "Kratos",
         "Underlying_CSP_Package_ID": [
           "F1206061353",
           "F1209051525"
@@ -15744,85 +15744,6 @@
         "Fedramp_Ready_Date": "2020-11-30T05:00:00.000Z",
         "FedRAMP_In-Process_Date": "2021-08-09T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Blackboard",
-        "Cloud_Service_Provider_Package": "Blackboard Learn SaaS",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1506076709",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2021-11-24T05:00:00.000Z",
-        "Sponsoring_Agency": "Department of Defense",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-        "Authorizing_Agency": "Department of Defense",
-        "Authorizing_Subagency": "National Geospatial-Intelligence Agency",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Blackboard%20Logo.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866",
-          "AGENCYAMAZONEW",
-          "FR1807853629",
-          "F1603087869"
-        ],
-        "CSP_Website": "www.blackboard.com",
-        "CSO_Description": "Blackboard’s Learn SaaS solution offers government and military agencies next-generation online, social and mobile tools that create a continuous learning environment, built around peer-to-peer interaction, content and discussions.",
-        "Announcement_Date": "2020-04-21T04:00:00.000Z",
-        "CSP_POC_Name": "Michael Ball",
-        "CSP_POC_Email": "Michael.ball@anthology.com",
-        "FedRAMP_In-Process_Date": "2019-07-24T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2021-03-03T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Labor",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-06-25T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-06-25T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Labor",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-10-06T04:00:00.000Z",
-            "Letter_Expiration_Date": "2024-10-06T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-10-10T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "Federal Emergency Management Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2022-01-27T05:00:00.000Z",
-            "Letter_Expiration_Date": "2025-01-26T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-01-27T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Veterans Affairs",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-10-19T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-04-17T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-10-21T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "Federal Emergency Management Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2022-03-29T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-03-29T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Deposit Insurance Corporation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
       },
       {
         "Cloud_Service_Provider_Name": "BMC Software",
@@ -19423,6 +19344,85 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Blackboard",
+        "Cloud_Service_Provider_Package": "Blackboard Learn SaaS",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1506076709",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-09-22T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Defense",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+        "Authorizing_Agency": "Department of Defense",
+        "Authorizing_Subagency": "National Geospatial-Intelligence Agency",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Blackboard%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "AGENCYAMAZONEW",
+          "FR1807853629",
+          "F1603087869"
+        ],
+        "CSP_Website": "www.blackboard.com",
+        "CSO_Description": "Blackboard’s Learn SaaS solution offers government and military agencies next-generation online, social and mobile tools that create a continuous learning environment, built around peer-to-peer interaction, content and discussions.",
+        "Announcement_Date": "2020-04-21T04:00:00.000Z",
+        "CSP_POC_Name": "Michael Ball",
+        "CSP_POC_Email": "Michael.ball@anthology.com",
+        "FedRAMP_In-Process_Date": "2019-07-24T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2021-03-03T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Labor",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-06-25T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-06-25T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Labor",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-10-06T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-10-06T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-10-10T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Federal Emergency Management Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-01-27T05:00:00.000Z",
+            "Letter_Expiration_Date": "2025-01-26T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-01-27T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-10-19T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-04-17T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-10-21T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Federal Emergency Management Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-03-29T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-29T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Deposit Insurance Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "Broadcom",
         "Cloud_Service_Provider_Package": "Rally",
         "Path": "Agency",
@@ -21056,7 +21056,7 @@
         "CSO_Description": "The Manhattan Government Cloud provides US government agencies and customers supporting the US government a secure and reliable enterprise supply chain and logistics system. This system supports a comprehensive set of logistics functions: purchasing, ordering, replenishment, fulfillment, supplier integration, inventory management, overall supply chain visibility, warehouse management, asset tracking, transportation procurement, transportation planning, transportation execution, delivery, and acceptance. This highly configurable SaaS solution supports government missions such as disaster relief, humanitarian aid, homeland security, warfighter support, food supply, government IT, and supply chain security.\rManhattan Government Cloud currently offers the following Manhattan Associates products: Warehouse Management for Open Systems, Transportation Planning & Execution, Transportation Procurement, Supply Chain Visibility, Supply Chain Event Management, Supplier Enablement, Hub Management, Operational Supply Chain Intelligence, Distributed Order Management, and Manhattan Integration Framework.",
         "CSP_POC_Name": "Corey Black",
         "CSP_POC_Email": "fedramp@manh.com",
-        "FedRAMP_In-Process_Date": "2021-11-09T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2022-04-20T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -21140,7 +21140,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
         "Authorizing_Agency": "Department of Justice",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Microsoft%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Independent_Assessor": "Kratos",
         "CSP_Website": "www.microsoft.office.com",
         "CSO_Description": "Office 365 GCC High is a Software as a Service offering with government specific instances of some services including Exchange Online, SharePoint Online, OneDrive for Business, Skype for Business, and Microsoft Teams. The government specific instances are designated for the sole use of U.S federal, tribal, state, and local government customers, U.S. government contractors, and Federally Funded Research and Development Centers (FFRDCs). Office 365 delivers customers with familiar productivity, communication and collaboration capabilities all in a service that is reliable, secure and able to rapidly scale up or down to meet variable resource demands. The Office 365 GCC High environment delivers compliance with Defense Federal Acquisition Regulations Supplement (DFARS) and International Traffic in Arms Regulations (ITAR)..",
         "CSP_POC_Name": "N/A",
@@ -22037,7 +22037,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "WidePoint Integrated Solutions Corp.",
-        "Cloud_Service_Provider_Package": "Intelligent Telecommunications Management System (ITMS)",
+        "Cloud_Service_Provider_Package": "Intelligent Technology Management System (ITMS)",
         "Designation": "FedRAMP Ready",
         "Package_ID": "FR2032042635",
         "Service_Model": [
