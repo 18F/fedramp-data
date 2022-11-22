@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-11-21T05:40:51.332Z",
+    "Created_At": "2022-11-22T05:40:51.375Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -17406,7 +17406,7 @@
           "FR1823447014"
         ],
         "CSP_Website": "https://www.workday.com/",
-        "CSO_Description": "Workday is a provider of enterprise applications for financial management, human capital management, planning, and analytics. Workday Government Cloud is a multi-tenant cloud-based offering for U.S. federal, state and local government customers, as well as U.S. government contractors, and Federally Funded Research and Development Centers (FFRDCs). It comprises the following enterprise management cloud applications: Workday Core Financial Management, Projects, Project Billing, Expenses, Procurement, Inventory, Grants Management, Human Capital Management, Cloud Connect for Benefits, Payroll for the United States, Cloud Connect for Third-Party Payroll, Time Tracking, Recruiting, Prism Analytics, and Student. Also available is Workday Success Plans, a subscription-based success package that provides education, tools, and expertise to help agencies maximize their use of Workday.",
+        "CSO_Description": "Workday is a provider of enterprise applications for financial management, human capital management, planning, and analytics. Workday Government Cloud is a multi-tenant cloud-based offering for U.S. federal, state, and local government customers, as well as U.S. government contractors, and Federally Funded Research and Development Centers (FFRDCs). It comprises the following enterprise management cloud applications: Workday Human Capital Management, Absence Management, Advanced Compensation Management, Benefits, Succession Planning, Payroll for the United States, Time Tracking, Recruiting, Talent Optimization, Cloud Connect for Benefits, Cloud Connect for Third-Party Payroll, Core Financial Management, Revenue Management, Projects, Project Billing, Expenses, Procurement, Inventory, Grants Management, Prism Analytics, Student, and Workday Extend. Also available is Workday Success Plans, a subscription-based success package that provides education, tools, and expertise to help agencies maximize their use of Workday.\n\n",
         "Announcement_Date": "2022-07-11T04:00:00.000Z",
         "CSP_POC_Name": "Workday Government Cloud Team",
         "CSP_POC_Email": "fedramp@workday.com",
@@ -19399,6 +19399,12 @@
             "Authorizing_Subagency": "Health Resources and Services Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2022-11-07T05:00:00.000Z",
+            "Authorizing_Agency": "Commodity Futures Trading Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFTC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -19480,6 +19486,38 @@
             "Include_In_Marketplace": "Y"
           }
         ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "MicroStrategy",
+        "Cloud_Service_Provider_Package": "MicroStrategy Cloud for Government",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2126176344",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-07-14T04:00:00.000Z",
+        "Original_Expiration_Date": "2025-07-06T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MicroStrategy%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1512167750",
+          "MSO365MT",
+          "FR2023864279"
+        ],
+        "CSP_Website": "https://www.microstrategy.com",
+        "CSO_Description": "MicroStrategy is the world’s top-rated platform for enterprise analytics. The MicroStrategy Intelligence Platform offers a full range of trusted, modern BI experiences, and is designed to help departments and agencies build data-driven cultures and make faster, smarter decisions. Built for performance at scale, MicroStrategy delivers concrete answers to users where and when they’re needed. Foundationally, the platform offers out-of-the-box drivers and gateways for a variety of data\nsources, types, and formats, and APIs/SDKs which are hosted within the MicroStrategy Platform Deployed within Customer Tenant.. Using the platform’s proprietary enterprise semantic graph, agencies can establish a unified, governed, secure, and reusable data model on which a variety of intelligence solutions can be built to deliver accurate, personalized, and trusted information to individual users based on each agency’s enterprise data dictionary.\n\n \n\nThe MicroStrategy Cloud for Government is a fully managed enterprise analytics solution that offers all the market-leading capabilities of the MicroStrategy Intelligence Platform on a unique Amazon Web Services (AWS) GovCloud implementation. MicroStrategy Cloud for Government features a fully optimized reference architecture built specifically for deployment in a customer-licensed AWS environment, offered as a platform-as-a-service (PaaS) solution. MicroStrategy administers each unique MicroStrategy Cloud for Government environment on the behalf of each government department or agency, including steady state operations, routine application of software upgrades, robust system monitoring and alerting, and 24/7/365 technical support for priority issues. The components that directly support the MicroStrategy Cloud for Government cloud service offering are described in the subsections below.\n\n \n\nMicroStrategy Cloud for Government is a PaaS service built on top of AWS GovCloud (US) IaaS servers. MicroStrategy utilizes AWS GovCloud (US) to provide the resources that host the MicroStrategy Cloud for Government platform and leverages the experience and resources of AWS to scale quickly and securely as necessary to meet current and future demand. MicroStrategy is responsible for designing and configuring the MicroStrategy Cloud for Government architecture within AWS GovCloud (US) to ensure that the availability, security, and resiliency requirements are met.",
+        "Announcement_Date": "2022-11-17T05:00:00.000Z",
+        "CSP_POC_Name": "MicroStrategy FedRAMP Team",
+        "CSP_POC_Email": "fedramp@microstrategy.com",
+        "FedRAMP_In-Process_Date": "2022-07-06T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "Broadcom",
@@ -21185,29 +21223,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "MicroStrategy",
-        "Cloud_Service_Provider_Package": "MicroStrategy Cloud for Government",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2126176344",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MicroStrategy%20Logo.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "CSP_Website": "https://www.microstrategy.com",
-        "CSO_Description": "MicroStrategy is the world’s top-rated platform for enterprise analytics. The MicroStrategy Intelligence Platform offers a full range of trusted, modern BI experiences, and is designed to help departments and agencies build data-driven cultures and make faster, smarter decisions. Built for performance at scale, MicroStrategy delivers concrete answers to users where and when they’re needed. Foundationally, the platform offers out-of-the-box drivers and gateways for a variety of data\nsources, types, and formats, and APIs/SDKs which are hosted within the MicroStrategy Platform Deployed within Customer Tenant.. Using the platform’s proprietary enterprise semantic graph, agencies can establish a unified, governed, secure, and reusable data model on which a variety of intelligence solutions can be built to deliver accurate, personalized, and trusted information to individual users based on each agency’s enterprise data dictionary.\n\n \n\nThe MicroStrategy Cloud for Government is a fully managed enterprise analytics solution that offers all the market-leading capabilities of the MicroStrategy Intelligence Platform on a unique Amazon Web Services (AWS) GovCloud implementation. MicroStrategy Cloud for Government features a fully optimized reference architecture built specifically for deployment in a customer-licensed AWS environment, offered as a platform-as-a-service (PaaS) solution. MicroStrategy administers each unique MicroStrategy Cloud for Government environment on the behalf of each government department or agency, including steady state operations, routine application of software upgrades, robust system monitoring and alerting, and 24/7/365 technical support for priority issues. The components that directly support the MicroStrategy Cloud for Government cloud service offering are described in the subsections below.\n\n \n\nMicroStrategy Cloud for Government is a PaaS service built on top of AWS GovCloud (US) IaaS servers. MicroStrategy utilizes AWS GovCloud (US) to provide the resources that host the MicroStrategy Cloud for Government platform and leverages the experience and resources of AWS to scale quickly and securely as necessary to meet current and future demand. MicroStrategy is responsible for designing and configuring the MicroStrategy Cloud for Government architecture within AWS GovCloud (US) to ensure that the availability, security, and resiliency requirements are met.",
-        "CSP_POC_Name": "MicroStrategy FedRAMP Team",
-        "CSP_POC_Email": "fedramp@microstrategy.com",
-        "FedRAMP_In-Process_Date": "2022-07-06T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "MongoDB",
         "Cloud_Service_Provider_Package": "MongoDB Atlas for Government",
         "Path": "Agency",
@@ -22089,7 +22104,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/WidePoint%20Logo.png",
         "Independent_Assessor": "Kratos",
         "CSP_Website": "www.widepoint.com",
-        "CSO_Description": "ITMS™ (Intelligent Telecommunications Management System) is Moderate security level Software as a Service (SaaS) providing cloud-based telecom lifecycle management functions. ITMS™ offers a user-friendly, customizable Web portal interface that allows for online configuration, ordering, tracking, auditing, updating of databases, and the ability to view and generate reports. ITMS™ enables WidePoint to optimize and manage a client’s telecommunications assets, services, contracts, and invoices with transparency and accountability to deliver maximum savings.",
+        "CSO_Description": "ITMS™ (Intelligent Technology Management System) is Moderate security level Software as a Service (SaaS) providing cloud-based technology lifecycle management functions. ITMS™ offers a user-friendly, customizable Web portal interface that allows for online configuration, ordering, tracking, auditing, updating of databases, and the ability to view and generate reports. ITMS™ enables WidePoint to optimize and manage a client’s technology assets, services, contracts, and invoices with transparency and accountability to deliver maximum savings.",
         "CSP_POC_Name": "Casey Davis",
         "CSP_POC_Email": "fedramp@widepoint.com",
         "Fedramp_Ready_Date": "2021-11-15T05:00:00.000Z",
