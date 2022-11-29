@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-11-28T05:40:50.561Z",
+    "Created_At": "2022-11-29T05:40:51.318Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3106,7 +3106,7 @@
         "CSP_Website": "www.apptio.com",
         "CSO_Description": "Apptio is a SaaS provider of Technology Business Management (TBM) solutions that help IT leaders measure, manage and communicate the cost, quality, consumption, and value of IT. IT leaders leverage Apptio's TBM suite of applications, including cost transparency, benchmarking, showback/chargeback and planning, to optimize costs, consolidate infrastructure and applications, price and recover shared services, and execute cloud-first strategies. With FITARA mandates in place and growing, now more than ever, Federal IT leaders need transparency into their IT spend - what they have, what it's costing them, how it's being consumed, and the value it's delivering to federal program and mission objectives.",
         "Announcement_Date": "2018-04-05T04:00:00.000Z",
-        "CSP_POC_Name": "Don Clifford",
+        "CSP_POC_Name": "Othniel Alphonse",
         "CSP_POC_Email": "securityriskcompliance@apptio.com",
         "Fedramp_Ready_Date": "2017-01-27T05:00:00.000Z",
         "FedRAMP_In-Process_Date": "2017-12-19T05:00:00.000Z",
@@ -4581,94 +4581,6 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-09-13T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Interior",
             "Authorizing_Subagency": "Office of Natural Resources Revenue",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Axon",
-        "Cloud_Service_Provider_Package": "US Axon FedCloud",
-        "Path": "JAB",
-        "Designation": "Compliant",
-        "Package_ID": "FR1703752011",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2019-04-02T04:00:00.000Z",
-        "Sponsoring_Agency": "JAB Authorization",
-        "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Axon%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1603087869"
-        ],
-        "CSP_Website": "www.axon.com",
-        "CSO_Description": "US Axon FedCloud enables cloud-based workflows for digital evidence management, situational awareness, and records management to support the operational needs of agencies. The system operates as an isolated region of Axon Cloud Services that is dedicated to the US Federal community. US Axon FedCloud offerings include Axon Evidence, Axon Respond, and Axon Records while also acting as the core control center over Axon devices and client applications. These devices and client applications include in-car camera systems, body-worn cameras, TASER devices, Axon Interview Room, and Axon Upload XT.\rAxon Evidence acts as a central repository for customers' digital evidence and a central management console for Axon products and devices. With expansive ingest, smooth playback, and intuitive search, Axon Evidence makes it simple to connect and manage growing stores of data—video, photos, documents and more—in a single, secure system.\rAxon Respond is a real-time operations platform which integrates real-time situational awareness and unified communications within a modern incident management solution. Gathering data from sensors in the field, agencies are empowered to know when events occur before it's voiced through traditional contact methods and rapidly coordinate responses with a unified communications platform.\rAxon Records harnesses the power of automation to save countless hours in the report writing, submission, and review process, helping agencies get more efficiency by breaking down data silos. With direct access to body-worn camera, in-car and citizen-captured video footage, documents, images, and more, reports can be created faster. Critical evidence can be easily shared to remove the wall between digital evidence and reports.",
-        "Announcement_Date": "2019-04-02T04:00:00.000Z",
-        "CSP_POC_Name": "Gregory Hewes",
-        "CSP_POC_Email": "infosec@axon.com",
-        "Fedramp_Ready_Date": "2017-11-17T05:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2018-03-08T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2020-02-10T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Agriculture",
-            "Authorizing_Subagency": "United States Forest Service",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-08-17T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-08-17T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-08-31T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Justice",
-            "Authorizing_Subagency": "Executive Office for United States Attorneys",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-12-18T05:00:00.000Z",
-            "Letter_Expiration_Date": "2023-12-18T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-12-18T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Justice",
-            "Authorizing_Subagency": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-02-17T05:00:00.000Z",
-            "Letter_Expiration_Date": "2024-02-19T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-02-19T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Justice",
-            "Authorizing_Subagency": "United States Marshals Service",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2024-06-07T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-06-07T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "Customs and Border Protection",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2024-11-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-11-21T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "Immigration and Customs Enforcement",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2022-05-06T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-11-06T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-05-06T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Authorizing_Subagency": "Bureau of Land Management",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
             "Include_In_Marketplace": "Y"
           }
@@ -11193,14 +11105,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2021-06-24T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-11-25T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-06-25T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2023-01-31T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-07-31T04:00:00.000Z",
             "Authorizing_Agency": "Department of Homeland Security",
@@ -14417,6 +14321,15 @@
             "Authorizing_Agency": "Department of Justice",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-06-15T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-06-28T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-06-28T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Health Resources & Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -14888,7 +14801,15 @@
         "CSP_POC_Name": "Brian Caldwell",
         "CSP_POC_Email": "fedramp@zimperium.com",
         "FedRAMP_In-Process_Date": "2018-05-01T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2021-09-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-09-09T04:00:00.000Z",
+            "Authorizing_Agency": "Consumer Financial Protection Bureau",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFPB_Logo.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Decision Lens Inc.",
@@ -19911,6 +19832,94 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Axon",
+        "Cloud_Service_Provider_Package": "US Axon FedCloud - High",
+        "Path": "JAB",
+        "Designation": "Compliant",
+        "Package_ID": "FR1703752011",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Original_Authorization_Date": "2022-11-17T05:00:00.000Z",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Axon%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603087869"
+        ],
+        "CSP_Website": "www.axon.com",
+        "CSO_Description": "US Axon FedCloud enables cloud-based workflows for digital evidence management, situational awareness, and records management to support the operational needs of agencies. The system operates as an isolated region of Axon Cloud Services that is dedicated to the US Federal community. US Axon FedCloud offerings include Axon Evidence, Axon Respond, and Axon Records while also acting as the core control center over Axon devices and client applications. These devices and client applications include in-car camera systems, body-worn cameras, TASER devices, Axon Interview Room, and Axon Upload XT.\rAxon Evidence acts as a central repository for customers' digital evidence and a central management console for Axon products and devices. With expansive ingest, smooth playback, and intuitive search, Axon Evidence makes it simple to connect and manage growing stores of data—video, photos, documents and more—in a single, secure system.\rAxon Respond is a real-time operations platform which integrates real-time situational awareness and unified communications within a modern incident management solution. Gathering data from sensors in the field, agencies are empowered to know when events occur before it's voiced through traditional contact methods and rapidly coordinate responses with a unified communications platform.\rAxon Records harnesses the power of automation to save countless hours in the report writing, submission, and review process, helping agencies get more efficiency by breaking down data silos. With direct access to body-worn camera, in-car and citizen-captured video footage, documents, images, and more, reports can be created faster. Critical evidence can be easily shared to remove the wall between digital evidence and reports.",
+        "Announcement_Date": "2022-11-22T05:00:00.000Z",
+        "CSP_POC_Name": "Gregory Hewes",
+        "CSP_POC_Email": "infosec@axon.com",
+        "Fedramp_Ready_Date": "2022-02-24T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2022-04-02T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2020-02-10T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Authorizing_Subagency": "United States Forest Service",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-08-17T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-08-17T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-08-31T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Justice",
+            "Authorizing_Subagency": "Executive Office for United States Attorneys",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2020-12-18T05:00:00.000Z",
+            "Letter_Expiration_Date": "2023-12-18T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-12-18T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Justice",
+            "Authorizing_Subagency": "Bureau of Alcohol, Tobacco, Firearms and Explosives",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-02-17T05:00:00.000Z",
+            "Letter_Expiration_Date": "2024-02-19T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-02-19T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Justice",
+            "Authorizing_Subagency": "United States Marshals Service",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2024-06-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-06-07T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Customs and Border Protection",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2024-11-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-11-21T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Immigration and Customs Enforcement",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-05-06T04:00:00.000Z",
+            "Letter_Expiration_Date": "2022-11-06T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-05-06T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Authorizing_Subagency": "Bureau of Land Management",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "1901 Group",
         "Cloud_Service_Provider_Package": "in3sight High",
         "Path": "Agency",
@@ -20046,29 +20055,6 @@
         "CSP_POC_Name": "Manish Sharma",
         "CSP_POC_Email": "fedramp@aurigo.com",
         "Fedramp_Ready_Date": "2022-02-07T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Axon",
-        "Cloud_Service_Provider_Package": "US Axon FedCloud - High",
-        "Path": "JAB",
-        "Designation": "In Process",
-        "Package_ID": "FR1703752011A",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "High",
-        "Sponsoring_Agency": "JAB Authorization",
-        "Authorizing_Agency": "JAB Authorization",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Axon%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.axon.com",
-        "CSO_Description": "US Axon FedCloud enables cloud-based workflows for digital evidence management, situational awareness, and records management to support the operational needs of agencies. The system operates as an isolated region of Axon Cloud Services that is dedicated to the US Federal community. US Axon FedCloud offerings include Axon Evidence, Axon Respond, and Axon Records while also acting as the core control center over Axon devices and client applications. These devices and client applications include in-car camera systems, body-worn cameras, TASER devices, Axon Interview Room, and Axon Upload XT.\rAxon Evidence acts as a central repository for customers' digital evidence and a central management console for Axon products and devices. With expansive ingest, smooth playback, and intuitive search, Axon Evidence makes it simple to connect and manage growing stores of data—video, photos, documents and more—in a single, secure system.\rAxon Respond is a real-time operations platform which integrates real-time situational awareness and unified communications within a modern incident management solution. Gathering data from sensors in the field, agencies are empowered to know when events occur before it's voiced through traditional contact methods and rapidly coordinate responses with a unified communications platform.\rAxon Records harnesses the power of automation to save countless hours in the report writing, submission, and review process, helping agencies get more efficiency by breaking down data silos. With direct access to body-worn camera, in-car and citizen-captured video footage, documents, images, and more, reports can be created faster. Critical evidence can be easily shared to remove the wall between digital evidence and reports.",
-        "CSP_POC_Name": "Gregory Hewes",
-        "CSP_POC_Email": "infosec@axon.com",
-        "Fedramp_Ready_Date": "2022-02-24T05:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2022-04-02T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -21822,6 +21808,26 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Slack Technologies",
+        "Cloud_Service_Provider_Package": "GovSlack",
+        "Path": "JAB",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2230252267",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "High",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Slack%20Logo2.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "CSP_Website": "https://slack.com/solutions/govslack",
+        "CSO_Description": "GovSlack is an instance of Slack created specifically for the purposes of handling high workloads for Government customers and highly regulated commercial sectors. Slack has transformed business communication. It's the leading channels-based messaging platform, used by millions to align their teams, unify their systems, and drive their business forward. Only Slack offers a secure, enterprise-grade environment that can scale with the largest companies in the world. It is a new layer of the business technology stack where people can work together more effectively, connect all their other software tools and services, and find information they need to do their best work. Slack is where work happens. ",
+        "CSP_POC_Name": "Taylor Trigger",
+        "CSP_POC_Email": "fedramp@slack-corp.com",
+        "Fedramp_Ready_Date": "2022-11-28T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Snowflake Inc.",
         "Cloud_Service_Provider_Package": "The Data Cloud on AWS GovCloud",
         "Path": "Agency",
@@ -21936,6 +21942,31 @@
         "CSP_POC_Email": "fedramp@tanium.com",
         "Fedramp_Ready_Date": "2022-05-16T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2022-09-19T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Terida LLC",
+        "Cloud_Service_Provider_Package": "Terida RegTech Framework - CLASsoft™",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR1901852210",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "United States Senate",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Senate%20Logo.jpg",
+        "Authorizing_Agency": "United States Senate",
+        "Authorizing_Subagency": "Office of the Sergeant at Arms",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Terida%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "https://www.terida.com/",
+        "CSO_Description": "The Terida RegTech Framework – CLASsoft: \n\nOne Framework, Infinite Applications. Robust, scalable, e-operations RegTech platform to receive, manage, track, monitor, analyze, evaluate, resolve, and audit registrations, applications, users, communications, claims, cases, files, forms, and documents.\n\nWith CLASsoft, all information collected and processed, and their chain of custody and access, are secured, managed, and protected for the term(s) necessitated by operational requirements and objectives, and rules, regulations, laws, and evidentiary, audit and risk standards.\n\nCredential and connect the enterprise with the Terida RegTech platform’s consistent methodologies and permission layers. Reduce data silos. Decrease costs and risks.\n\nWith CLASsoft, the entire flow of information “Persons, Objects, Events, Organizations, Entities, Registrations, Applications, Claims, Cases, Files, Data, Documents, Forms, Communications, Relationships, Requirements, Regulations, Operations, Processes, Protocols, Workflow, Permission Hierarchies, Administration, Evaluation, Resolution, Reporting, Auditing, Archiving” is configured explicitly to the particular business problem and secured within the platform’s authorization boundary.\n\nE-credential, E-submit, E-consent, E-certify, E-participate, E-claim, E-evaluate, E-process, E-learn, E-work, E-connect use cases include:\n* government, business, organizations, defense, defence\n* education, finance, health, insurance, legal \n* emergencies, disasters, evacuations, mass actions, class actions\n* device failures, complaints, credentialing, compliance\n* claims, settlements, distributions, deferred prosecution agreements\n* joint operations, collaborative intelligence, procurement, supply chain.  \n\n\"",
+        "CSP_POC_Name": "Teri Marlene Prince",
+        "CSP_POC_Email": "fedramp@terida.com",
+        "Fedramp_Ready_Date": "2020-11-30T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2022-11-22T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
