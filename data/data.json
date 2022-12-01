@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-11-30T05:40:51.562Z",
+    "Created_At": "2022-12-01T05:40:52.576Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -5868,6 +5868,14 @@
             "Authorizing_Subagency": "Federal Aviation Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-09-16T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-05-23T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-10-14T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -6344,6 +6352,7 @@
             "Letter_Expiration_Date": "2023-04-01T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-08-01T04:00:00.000Z",
             "Authorizing_Agency": "United States Agency for International Development",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -9037,7 +9046,7 @@
           "F1508207205"
         ],
         "CSP_Website": "www.wellhive.com",
-        "CSO_Description": "WellHive brings the **patient**, the **provider** and the **payer** into a single platform, creating a secure and unified way to streamline and simplify the complex, time-consuming needs of a distributed healthcare management system. WellHive’s core cloud service offerings include intuitive and real-time financial and care provisioning workflows spanning Referral and Authorizations, Insurance Eligibility Verification, Claims Processing, Telemedicine and other fundamental tasks that are critical to the operations of any modern healthcare organization. WellHive workflows allow for full customization and are continuously evolving, providing healthcare customers not only with a solution that’s right for the healthcare industry, but a solution that’s right for them. WellHive’s API-led design supports secure, straightforward integration and seamless data sharing with other cloud-based Electronic Health Records (EHRs) and healthcare systems. With an entirely cloud native architecture, WellHive is capable of meeting the needs of health network operations of any size.",
+        "CSO_Description": "WellHive is a SaaS solution built to help enterprise healthcare systems navigate their\npatients’ care across federal and commercial boundaries. WellHive connects and\nunifies care and benefits management activities across various systems and\norganizations through integrations with Electronic Health Records (EHRs) and\npractice management systems, provider networks, and over 700 insurance carriers.\nWellHive capabilities delivered leveraging these connections include Integrated\nScheduling, and Insurance Verification and Discovery.\nWellHive is hosted on AWS GovCloud and utilizes AWS services to provide both the\navailability and scalability required to meet our customer’s needs. In addition to a\nFedRAMP Moderate authorization, WellHive is also compliant with HIPAA and NIST\n800-53 Appendix J Privacy Controls.",
         "Announcement_Date": "2020-07-14T04:00:00.000Z",
         "CSP_POC_Name": "Michael Wilson",
         "CSP_POC_Email": "fedramp@wellhive.com",
@@ -10538,7 +10547,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
         "Authorizing_Agency": "Department of Justice",
         "Authorizing_Subagency": "Office of Justice Programs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/SailPoint%20Logo2.png",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/SailPoint%20Logo.png",
         "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
         "Underlying_CSP_Package_ID": [
           "F1603047866",
@@ -18522,6 +18531,7 @@
         ],
         "CSP_Website": "http://blackberry.athoc.com",
         "CSO_Description": "BlackBerry’s AtHoc is a networked crisis communication platform enabling corporations and government agencies to communicate and collaborate securely with their personnel and with other organizations through multiple devices during times of crises. BlackBerry’s AtHoc platform addresses critical communications needs including:\nAccount: AtHoc Account enables real-time visibility into location and status for effective personnel accountability and crisis handling before, during, and after emergencies. This integrated approach to personnel accountability enables inputs from managers about their team, call center operators, data streams from HR and travel systems, as well as self-reporting by individuals.\nAlert: AtHoc Alert provides a comprehensive crisis communication solution that unifies all channels and devices, empowering organizations, people, and communities to collaborate during critical events. AtHoc’s flexible deployment options safeguards important personal information and enables enterprise-level command and control.\nConnect: AtHoc Connect empowers organizations to create their own permission-based network to establish interoperable communication and information sharing with organizations in their community.\nCollect: AtHoc Collect empowers your personnel in the field to be the \"eyes and ears\" of the operations center. AtHoc Collect enables on-scene personnel to report events, work progress, along with rich geo-tagged media that are worth a thousand words.",
+        "Announcement_Date": "2017-03-10T05:00:00.000Z",
         "CSP_POC_Name": "Rashad Munawar",
         "CSP_POC_Email": "bbfedcompliance@blackberry.com",
         "FedRAMP_In-Process_Date": "2016-09-14T04:00:00.000Z",
@@ -18644,6 +18654,20 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-09-07T04:00:00.000Z",
             "Authorizing_Agency": "Department of Education",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-08-17T04:00:00.000Z",
+            "Authorizing_Agency": "Department of State",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2024-05-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-05-31T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Transport Security Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -19490,7 +19514,7 @@
           "FR2023864279"
         ],
         "CSP_Website": "https://www.microstrategy.com",
-        "CSO_Description": "MicroStrategy is the world’s top-rated platform for enterprise analytics. The MicroStrategy Intelligence Platform offers a full range of trusted, modern BI experiences, and is designed to help departments and agencies build data-driven cultures and make faster, smarter decisions. Built for performance at scale, MicroStrategy delivers concrete answers to users where and when they’re needed. Foundationally, the platform offers out-of-the-box drivers and gateways for a variety of data sources, types, and formats, and APIs/SDKs which are hosted within the MicroStrategy Platform Deployed within Customer Tenant.. Using the platform’s proprietary enterprise semantic graph, agencies can establish a unified, governed, secure, and reusable data model on which a variety of intelligence solutions can be built to deliver accurate, personalized, and trusted information to individual users based on each agency’s enterprise data dictionary.\n\n \n\nThe MicroStrategy Cloud for Government is a fully managed enterprise analytics solution that offers all the market-leading capabilities of the MicroStrategy Intelligence Platform on a unique Amazon Web Services (AWS) GovCloud implementation. MicroStrategy Cloud for Government features a fully optimized reference architecture built specifically for deployment in a customer-licensed AWS environment, offered as a software-as-a-service (SaaS) solution. MicroStrategy administers each unique MicroStrategy Cloud for Government environment on the behalf of each government department or agency, including steady state operations, routine application of software upgrades, robust system monitoring and alerting, and 24/7/365 technical support for priority issues. The components that directly support the MicroStrategy Cloud for Government cloud service offering are described in the subsections below.\n\n \n\nMicroStrategy Cloud for Government is a SaaS service built on top of AWS GovCloud (US) IaaS servers. MicroStrategy utilizes AWS GovCloud (US) to provide the resources that host the MicroStrategy Cloud for Government platform and leverages the experience and resources of AWS to scale quickly and securely as necessary to meet current and future demand. MicroStrategy is responsible for designing and configuring the MicroStrategy Cloud for Government architecture within AWS GovCloud (US) to ensure that the availability, security, and resiliency requirements are met.sources, types, and formats, and APIs/SDKs which are hosted within the MicroStrategy Platform Deployed within Customer Tenant.. Using the platform’s proprietary enterprise semantic graph, agencies can establish a unified, governed, secure, and reusable data model on which a variety of intelligence solutions can be built to deliver accurate, personalized, and trusted information to individual users based on each agency’s enterprise data dictionary.\n\n \n\nThe MicroStrategy Cloud for Government is a fully managed enterprise analytics solution that offers all the market-leading capabilities of the MicroStrategy Intelligence Platform on a unique Amazon Web Services (AWS) GovCloud implementation. MicroStrategy Cloud for Government features a fully optimized reference architecture built specifically for deployment in a customer-licensed AWS environment, offered as a platform-as-a-service (PaaS) solution. MicroStrategy administers each unique MicroStrategy Cloud for Government environment on the behalf of each government department or agency, including steady state operations, routine application of software upgrades, robust system monitoring and alerting, and 24/7/365 technical support for priority issues. The components that directly support the MicroStrategy Cloud for Government cloud service offering are described in the subsections below.\n\n \n\nMicroStrategy Cloud for Government is a PaaS service built on top of AWS GovCloud (US) IaaS servers. MicroStrategy utilizes AWS GovCloud (US) to provide the resources that host the MicroStrategy Cloud for Government platform and leverages the experience and resources of AWS to scale quickly and securely as necessary to meet current and future demand. MicroStrategy is responsible for designing and configuring the MicroStrategy Cloud for Government architecture within AWS GovCloud (US) to ensure that the availability, security, and resiliency requirements are met.",
+        "CSO_Description": "MicroStrategy is the world’s top-rated platform for enterprise analytics. The MicroStrategy Intelligence Platform offers a full range of trusted, modern BI experiences, and is designed to help departments and agencies build data-driven cultures and make faster, smarter decisions. Built for performance at scale, MicroStrategy delivers concrete answers to users where and when they’re needed. Foundationally, the platform offers out-of-the-box drivers and gateways for a variety of data sources, types, and formats, and APIs/SDKs which are hosted within the MicroStrategy Platform Deployed within Customer Tenant.. Using the platform’s proprietary enterprise semantic graph, agencies can establish a unified, governed, secure, and reusable data model on which a variety of intelligence solutions can be built to deliver accurate, personalized, and trusted information to individual users based on each agency’s enterprise data dictionary.\n\n \n\nThe MicroStrategy Cloud for Government is a fully managed enterprise analytics solution that offers all the market-leading capabilities of the MicroStrategy Intelligence Platform on a unique Amazon Web Services (AWS) GovCloud implementation. MicroStrategy Cloud for Government features a fully optimized reference architecture built specifically for deployment in a customer-licensed AWS environment, offered as a software-as-a-service (SaaS) solution. MicroStrategy administers each unique MicroStrategy Cloud for Government environment on the behalf of each government department or agency, including steady state operations, routine application of software upgrades, robust system monitoring and alerting, and 24/7/365 technical support for priority issues. The components that directly support the MicroStrategy Cloud for Government cloud service offering are described in the subsections below.\n\n \n\nMicroStrategy Cloud for Government is a SaaS service built on top of AWS GovCloud (US) IaaS servers. MicroStrategy utilizes AWS GovCloud (US) to provide the resources that host the MicroStrategy Cloud for Government platform and leverages the experience and resources of AWS to scale quickly and securely as necessary to meet current and future demand. MicroStrategy is responsible for designing and configuring the MicroStrategy Cloud for Government architecture within AWS GovCloud (US) to ensure that the availability, security, and resiliency requirements are met.sources, types, and formats, and APIs/SDKs which are hosted within the MicroStrategy Platform Deployed within Customer Tenant.. Using the platform’s proprietary enterprise semantic graph, agencies can establish a unified, governed, secure, and reusable data model on which a variety of intelligence solutions can be built to deliver accurate, personalized, and trusted information to individual users based on each agency’s enterprise data dictionary.\n\n \n\n",
         "Announcement_Date": "2022-11-17T05:00:00.000Z",
         "CSP_POC_Name": "MicroStrategy FedRAMP Team",
         "CSP_POC_Email": "fedramp@microstrategy.com",
@@ -21786,7 +21810,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
         "Authorizing_Agency": "Department of Justice",
         "Authorizing_Subagency": "Office of Justice Programs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/SailPoint%20Logo2.png",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/SailPoint%20Logo.png",
         "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
         "CSP_Website": "https://www.sailpoint.com",
         "CSO_Description": "SailPoint’s Identity Security is a multi-tenant SaaS platform that gives organizations a complete view into the security of their enterprise by delivering timely, optimal access to their identities. Identity Security SaaS will consist of SailPoint’s IdentityNow, Cloud Access Management, and AI-Driven Identity offerings.",
@@ -21878,7 +21902,7 @@
         "CSO_Description": "Snowflake is the only data warehouse built for the cloud, enabling the data-driven enterprise with instant elasticity, secure data sharing and per-second pricing, across multiple clouds. Snowflake combines the power of data warehousing, the flexibility of big data platforms and the elasticity of the cloud at a fraction of the cost of traditional solutions. Find out more at [https://www.snowflake.com/](https://www.snowflake.com/).",
         "CSP_POC_Name": "Siddique Chaudhry",
         "CSP_POC_Email": "FedRAMP@snowflake.com",
-        "FedRAMP_In-Process_Date": "2021-11-30T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2022-07-20T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -21976,7 +22000,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Terida LLC",
+        "Cloud_Service_Provider_Name": "TERIDA",
         "Cloud_Service_Provider_Package": "Terida RegTech Framework - CLASsoft™",
         "Path": "Agency",
         "Designation": "In Process",
@@ -21990,10 +22014,10 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Senate%20Logo.jpg",
         "Authorizing_Agency": "United States Senate",
         "Authorizing_Subagency": "Office of the Sergeant at Arms",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Terida%20Logo.png",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Terida%20Logo2.png",
         "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
         "CSP_Website": "https://www.terida.com/",
-        "CSO_Description": "The Terida RegTech Framework – CLASsoft: \n\nOne Framework, Infinite Applications. Robust, scalable, e-operations RegTech platform to receive, manage, track, monitor, analyze, evaluate, resolve, and audit registrations, applications, users, communications, claims, cases, files, forms, and documents.\n\nWith CLASsoft, all information collected and processed, and their chain of custody and access, are secured, managed, and protected for the term(s) necessitated by operational requirements and objectives, and rules, regulations, laws, and evidentiary, audit and risk standards.\n\nCredential and connect the enterprise with the Terida RegTech platform’s consistent methodologies and permission layers. Reduce data silos. Decrease costs and risks.\n\nWith CLASsoft, the entire flow of information “Persons, Objects, Events, Organizations, Entities, Registrations, Applications, Claims, Cases, Files, Data, Documents, Forms, Communications, Relationships, Requirements, Regulations, Operations, Processes, Protocols, Workflow, Permission Hierarchies, Administration, Evaluation, Resolution, Reporting, Auditing, Archiving” is configured explicitly to the particular business problem and secured within the platform’s authorization boundary.\n\nE-credential, E-submit, E-consent, E-certify, E-participate, E-claim, E-evaluate, E-process, E-learn, E-work, E-connect use cases include:\n* government, business, organizations, defense, defence\n* education, finance, health, insurance, legal \n* emergencies, disasters, evacuations, mass actions, class actions\n* device failures, complaints, credentialing, compliance\n* claims, settlements, distributions, deferred prosecution agreements\n* joint operations, collaborative intelligence, procurement, supply chain.  \n\n\"",
+        "CSO_Description": "The Terida RegTech Framework – CLASsoft™: \n\nOne Framework, Infinite Applications. Robust, scalable, e-operations RegTech platform to receive, manage, track, monitor, analyze, evaluate, resolve, and audit registrations, applications, users, communications, claims, cases, files, forms, and documents.\n\nWith CLASsoft, all information collected and processed, and their chain of custody and access, are secured, managed, and protected for the term(s) necessitated by operational requirements and objectives, and rules, regulations, laws, and evidentiary, audit and risk standards.\n\nCredential and connect the enterprise with the Terida RegTech platform’s consistent methodologies and permission layers. Reduce data silos. Decrease costs and risks.\n\nWith CLASsoft, the entire flow of information “Persons, Objects, Events, Organizations, Entities, Registrations, Applications, Claims, Cases, Files, Data, Documents, Forms, Communications, Relationships, Requirements, Regulations, Operations, Processes, Protocols, Workflow, Permission Hierarchies, Administration, Evaluation, Resolution, Reporting, Auditing, Archiving” is configured explicitly to the particular business problem and secured within the platform’s authorization boundary.\n\nE-credential, E-submit, E-consent, E-certify, E-participate, E-claim, E-evaluate, E-process, E-learn, E-work, E-connect use cases include:\n* government, business, organizations, defense\n* education, finance, health, insurance, legal \n* emergencies, disasters, evacuations, mass actions, class actions\n* device failures, complaints, credentialing, compliance\n* claims, settlements, distributions, deferred prosecution agreements\n* joint operations, collaborative intelligence, procurement, supply chain.  \n\n\"",
         "CSP_POC_Name": "Teri Marlene Prince",
         "CSP_POC_Email": "fedramp@terida.com",
         "Fedramp_Ready_Date": "2020-11-30T05:00:00.000Z",
@@ -22378,14 +22402,14 @@
         "Additional_Cyber_Frameworks": "* ISO 27001\n* COBIT\n* PCI\n* HIPAA/HITECH\n* SSAE 16 SOC1/2\n* FISMA/RMF\n* DIACAP\n* NSA Certified Incident Response Assistance Accreditation"
       },
       {
-        "Name": "Department of Transportation (DOT) Enterprise Services Center (ESC) (In Remediation)",
+        "Name": "Department of Transportation (DOT) Enterprise Services Center (ESC)",
         "Accreditation_Date": "2014-12-22T05:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/DOT%20ESC%20Logo.png",
         "Description": "ESC was the first federal organization accredited as a FedRAMP 3PAO. Our motto is security for Feds by Feds! The ESC's security teams have extensive work experience in IT, Federal Government and a variety of industries in the private sector. As a federal government agency, ESC is positioned & understands your needs. The ESC provides the opportunity for federal organizations that have a cloud service information system, to use our certified/accredited independent FedRAMP 3PAO services to validate and verify their security posture and IT implementation.",
         "POC_Name": "Jerome Kemp",
         "POC_Email": "cyberservices@esc.gov",
         "website": "http://www.esc.gov/iss.asp",
-        "Remediation": "Y",
+        "Remediation": "N",
         "Founded": 2006,
         "Primary_Office_Locations": "6500 South MacArthur Boulevard, Oklahoma City, OK 73169",
         "FedRAMP_Assessed": "*Office of Management and Budget (OMB) MAX GSS\n*Office of Management and Budget (OMB) MAX Shared Services\n*Office of Management and Budget (OMB) MAX Budget\n*Federal Aviation Administration (FAA) Enterprise Services Center (ESC) Cloud Enclave (ECE)\n*Department of Commerce (DOC) National Technical Information Service (NTIS) FedRAMP Infrastructure System (NFIS)",
