@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-12-01T05:40:52.576Z",
+    "Created_At": "2022-12-01T16:18:37.703Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -5854,15 +5854,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2022-07-11T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-11-11T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-07-14T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Authorizing_Subagency": "Bureau of Land Management",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Authorizing_Letter_Last_Sign_Date": "2022-10-28T04:00:00.000Z",
             "Authorizing_Agency": "Department of Transportation",
             "Authorizing_Subagency": "Federal Aviation Administration",
@@ -5875,6 +5866,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-10-14T04:00:00.000Z",
             "Authorizing_Agency": "Department of Health and Human Services",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-11-07T05:00:00.000Z",
+            "Letter_Expiration_Date": "2023-03-15T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-11-15T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Authorizing_Subagency": "Bureau of Land Management",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -7153,7 +7153,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Google%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "https://cloud.google.com",
-        "CSO_Description": "Google Services is composed of Google’s multi-tenant public cloud Google Cloud Platform and built atop the Google Common Infrastructure. The Google Common Infrastructure powers Google worldwide. The in-scope Google Cloud Platform services Authorized at High are: Admin Console (including Admin SDK, Directory Sync), App Engine, BigQuery, Cloud Bigtable, Cloud Data Loss Protection, Cloud DNS, Cloud Healthcare API, Cloud HSM, Cloud Identity, Cloud Key Management Service, Cloud Logging, Cloud Spanner, Cloud SQL, Cloud Storage, Compute Engine, Container Registry, Dataflow, Dataproc, Firestore, Google Kubernetes Engine, Identity & Access Management (IAM), Memorystore, Persistent Disk, Pub/Sub, Virtual Private Cloud (VPC).\n\nThe in-scope Google Cloud Platform services Authorized at Moderate are: Access Approval, Access Context Manager, Access Transparency, AI Platform Data Labeling, AI Platform Neural Architecture Search (NAS), AI Platform Training and Prediction (formerly Cloud Machine Learning Engine), Anthos Config Management (ACM), Anthos Identity Service (AIS), Anthos Service Mesh, Apigee X, Assured Workloads, AutoML Natural Language, AutoML Tables, AutoML Translation, AutoML Video, AutoML Vision, BeyondCorp Enterprise, BigQuery Data Transfer Service, Binary Authorization, Care Studio, Certificate Authority Service, Chronicle Security, Cloud Asset Inventory, Cloud Billing, Cloud Build, Cloud CDN, Cloud Composer, Cloud Console, Cloud Console App, Cloud Data Fusion, Cloud Data Loss Prevention, Cloud Debugger (formerly Stackdriver Debugger), Cloud Deployment Manager, Earth Engine, Cloud Endpoints, Cloud External Key Manager (Cloud EKM), Cloud IDS, Filestore (Basic HDD and Basic SSD tiers), Cloud Functions, Cloud Functions for Firebase, Cloud Interconnect, Cloud Life Sciences (formerly Google Genomics), Cloud Load Balancing, Cloud Logging (formerly Stackdriver Logging; includes Error Reporting), Cloud NAT (Network Address Translation), Cloud Natural Language API, Cloud Monitoring, Cloud Profiler (formerly Stackdriver Profiler), Cloud Router, Cloud Run (fully managed), Cloud Run for Anthos, Cloud SDK, Cloud Scheduler, Cloud Shell, Cloud Source Repositories, Cloud Storage for Firebase, Cloud Tasks, Cloud Trace (formerly Stackdriver Trace), Cloud Translation, Cloud Vision API, Cloud VPN, Connect, Contact Center AI (CCAI), Data Catalog, Database Migration Service, Datalab, Datastore, DataStream, Dialogflow, Document AI, Firebase Authentication, Game Servers, GCP Marketplace, Google Cloud Armor, Google Cloud Identity-Aware Proxy, Google Data Studio, GKE Hub, Identity Platform, Insights, IoT Core, Key Access Justifications (KAJ), Network Connectivity Center, Network Intelligence Center, Network Service Tiers, reCAPTCHA Enterprise, Resource Manager API, Secret Manager, Security Command Center (including Web Security Scanner) (formerly Cloud Security Scanner), Service Directory, Service Infrastructure (formerly Service Control; includes Service Management API and Service Consumer Management API), Speech-to-Text , Storage Transfer Service, Talent Solution, Text-to-Speech, Traffic Director, Vertex AI Workbench (formerly AI Platform Notebooks), Web Risk API, Workflows, Video Intelligence API, VPC Service Controls.",
+        "CSO_Description": "Google Services is composed of Google’s multi-tenant public cloud Google Cloud Platform and built atop the Google Common Infrastructure. The Google Common Infrastructure powers Google worldwide. The in-scope Google Cloud Platform services Authorized at High are: Admin Console (including Admin SDK, Directory Sync), App Engine, BigQuery, Cloud Bigtable, Cloud Data Loss Protection, Cloud DNS, Cloud Healthcare API, Cloud HSM, Cloud Identity, Cloud Key Management Service, Cloud Logging, Cloud Spanner, Cloud SQL, Cloud Storage, Compute Engine, Container Registry, Dataflow, Dataproc, Firestore, Google Kubernetes Engine, Identity & Access Management (IAM), Memorystore, Persistent Disk, Pub/Sub, Virtual Private Cloud (VPC).\n\nThe in-scope Google Cloud Platform services Authorized at Moderate are: Access Approval, Access Context Manager, Access Transparency, AI Platform Data Labeling, AI Platform Neural Architecture Search (NAS), AI Platform Training and Prediction (formerly Cloud Machine Learning Engine), Anthos Config Management (ACM), Anthos Identity Service (AIS), Anthos Service Mesh, Apigee X, Assured Workloads, AutoML Natural Language, AutoML Tables, AutoML Translation, AutoML Video, AutoML Vision, BeyondCorp Enterprise, BigQuery Data Transfer Service, Binary Authorization, Care Studio, Certificate Authority Service, Chronicle Security, Cloud Asset Inventory, Cloud Billing, Cloud Build, Cloud CDN, Cloud Composer, Cloud Console, Cloud Console App, Cloud Data Fusion, Cloud Debugger (formerly Stackdriver Debugger), Cloud Deployment Manager, Earth Engine, Cloud Endpoints, Cloud External Key Manager (Cloud EKM), Cloud IDS, Filestore (Basic HDD and Basic SSD tiers), Cloud Functions, Cloud Functions for Firebase, Cloud Interconnect, Cloud Life Sciences (formerly Google Genomics), Cloud Load Balancing, Cloud Logging (formerly Stackdriver Logging; includes Error Reporting), Cloud NAT (Network Address Translation), Cloud Natural Language API, Cloud Monitoring, Cloud Profiler (formerly Stackdriver Profiler), Cloud Router, Cloud Run (fully managed), Cloud Run for Anthos, Cloud SDK, Cloud Scheduler, Cloud Shell, Cloud Source Repositories, Cloud Storage for Firebase, Cloud Tasks, Cloud Trace (formerly Stackdriver Trace), Cloud Translation, Cloud Vision API, Cloud VPN, Connect, Contact Center AI (CCAI), Data Catalog, Database Migration Service, Datalab, Datastore, DataStream, Dialogflow, Document AI, Firebase Authentication, Game Servers, GCP Marketplace, Google Cloud Armor, Google Cloud Identity-Aware Proxy, Google Data Studio, GKE Hub, Identity Platform, Insights, IoT Core, Key Access Justifications (KAJ), Network Connectivity Center, Network Intelligence Center, Network Service Tiers, reCAPTCHA Enterprise, Resource Manager API, Secret Manager, Security Command Center (including Web Security Scanner) (formerly Cloud Security Scanner), Service Directory, Service Infrastructure (formerly Service Control; includes Service Management API and Service Consumer Management API), Speech-to-Text , Storage Transfer Service, Talent Solution, Text-to-Speech, Traffic Director, Vertex AI Workbench (formerly AI Platform Notebooks), Web Risk API, Workflows, Video Intelligence API, VPC Service Controls.",
         "Announcement_Date": "2019-12-04T05:00:00.000Z",
         "CSP_POC_Name": "Google FedRAMP Team",
         "CSP_POC_Email": "fedramp@google.com",
