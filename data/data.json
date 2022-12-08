@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-12-08T15:15:52.351Z",
+    "Created_At": "2022-12-08T17:15:31.944Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -309,7 +309,7 @@
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2014-06-09T04:00:00.000Z",
-        "Sponsoring_Agency": "Executive Office of the President",
+        "Sponsoring_Agency": "Other Executive Branch Agency",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Federal%20Logo.png",
         "Authorizing_Agency": "Other Executive Branch Agency",
         "Authorizing_Subagency": "Office of Management and Budget",
@@ -5706,7 +5706,7 @@
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2019-04-29T04:00:00.000Z",
-        "Sponsoring_Agency": "Executive Office of the President",
+        "Sponsoring_Agency": "Other Executive Branch Agency",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Federal%20Logo.png",
         "Authorizing_Agency": "Other Executive Branch Agency",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Leidos%20Logo.png",
@@ -7469,7 +7469,7 @@
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2020-02-27T05:00:00.000Z",
-        "Sponsoring_Agency": "Executive Office of the President",
+        "Sponsoring_Agency": "Other Executive Branch Agency",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Federal%20Logo.png",
         "Authorizing_Agency": "Other Executive Branch Agency",
         "Authorizing_Subagency": "Office of Management and Budget",
@@ -20827,6 +20827,29 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Haivision Systems, Inc.",
+        "Cloud_Service_Provider_Package": "Haivision Hub for Government (HUB-GOV)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2218359666",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Haivision%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "https://www.haivision.com/products/haivision-hub/",
+        "CSO_Description": "Haivision Hub for Government (HUB-GOV) is an easy-to-use video network service for securely and reliably transporting live streaming video from agency networks to other inter- and intra-agency destinations or for connecting live streams between agency networks and commercial cloud destinations. Hub Gov accomplishes this routing while adding minimal latency and providing AES-256 encryption of live streams.\n\nOffering start-up, integrated device control, stream optimization, and status & monitoring, all from a single browser window, Haivision Hub is ideal for any government organization needing an on-demand low latency video contribution network for any public affairs, citizen-facing communications, or cross-agency collaboration with live video.",
+        "CSP_POC_Name": "Jean-Francis Noel",
+        "CSP_POC_Email": "jfnoel@haivision.com",
+        "FedRAMP_In-Process_Date": "2022-12-07T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Huron Consulting Group",
         "Cloud_Service_Provider_Package": "Huron Performance Accelerators",
         "Path": "Agency",
@@ -21187,6 +21210,30 @@
         "CSP_POC_Name": "Corey Black",
         "CSP_POC_Email": "fedramp@manh.com",
         "FedRAMP_In-Process_Date": "2022-04-20T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Mark43, Inc.",
+        "Cloud_Service_Provider_Package": "Mark43 Public Safety Platform (PSP)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2235965777",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Sponsoring_Agency": "Department of Homeland Security",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+        "Authorizing_Agency": "Department of Homeland Security",
+        "Authorizing_Subagency": "United States Secret Service",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Mark43%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "CSP_Website": "www.mark43.com",
+        "CSO_Description": "The Mark43 service offering provides a public safety CAD, RMS, analytics, and property and evidence platform. The Mark43 platform provides security and law enforcement capabilities to support functions such as situational awareness, information sharing, investigations, homeland defense, security missions, domestic emergency responses, and military support to civil authorities. Additionally, the platform provides emergency management and critical communications capabilities in support of public safety organizations, facilities, first responders, and force protection activities.",
+        "CSP_POC_Name": "Brian DaSilva",
+        "CSP_POC_Email": "Federal@Mark43.com",
+        "FedRAMP_In-Process_Date": "2022-12-07T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -21570,7 +21617,7 @@
         "Independent_Assessor": "Earthling Security, LLC",
         "CSP_Website": "https://act.us",
         "CSO_Description": "Actus is SaaS based Compliance automation solution for P-Card Programs, including item sourcing, approvals workflows, credit card purchasing, reconciliation, and automated audit. Actus is designed according to 3 pillars: Accountability, Compliance , and Transparency.\n\n• Accountability - Actus helps agencies paint a complete and total picture of each expense, eliminating guesswork, human error, and manual data entry tracking.\n• Compliance - Simplified, structured data is at the heart of compliance automation ensuring adherence to Agency policies and acquisition regulations. The Actus platform streamlines and automates oversight processes while maintaining rich transactional records for instant audit reporting. Artificial Intelligence is used to further the regulatory mission of each agency. Adoption of Actus itself satisfies and supplements Federal paperless mandate compliance as well.\n• Transparency - Actus utilizes dashboards enabling full visualization of all workflow processes, transactional data and documents on a need to know basis. Audit automation occurs with every download of bank transactions without requiring manual packet creation by the cardholder. Active Audit enables inspection of every detail of each purchase made within a selected time frame—in a unified, streamlined format.\n\nP-Card Compliance Automation Features: \n• Custom Approval Workflows\n• Financial Data Capture\n• Full Lifecycle Spend Tracking\n• Cloud Storage of Reconciliation Packets\n• Dashboard Visualization of data & documents\n• Automated Reconciliation Statements\n• Structured Item Level (Level 3) Data\n• Merchant Class Code Tracking\n• Suspicious Pattern & Activity Detection\n• Alerts for Each Stage of Transaction\n• Transactional Keyword Search\n• Bank Statement Transaction Matching\n• Auto-Matched Transactions\n• Daily, Weekly, or Monthly Reconciliation\n• PIV/CAC authentication",
-        "CSP_POC_Name": "Michael Tocci",
+        "CSP_POC_Name": "Ben Ware",
         "CSP_POC_Email": "mike@paperless-innovations.com",
         "FedRAMP_In-Process_Date": "2022-11-01T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
