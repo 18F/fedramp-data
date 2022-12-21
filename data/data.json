@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-12-20T05:40:50.990Z",
+    "Created_At": "2022-12-21T05:40:51.865Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -10338,7 +10338,7 @@
         "CSP_Website": "https://www.relativity.com/",
         "CSO_Description": "When it comes to e-discovery, you need the truth to act quickly, whether it’s understanding your organization’s risk around an internal issue, preparing evidence for litigation or investigations, working through M&A activity, or even performing proactive compliance monitoring. But with the tremendous amount of data out there, finding the truth isn’t easy. We’ve developed powerful technology to help. RelativityOne Government brings the entire e-discovery process together in one secure and extensible platform, connected to your organization’s most sensitive data—and supported by the community of experts you need to untangle it all. Start and finish e-discovery in one solution with best-in-class security, scale, and performance and extend the functionality of the platform to meet your unique needs by leaning on apps built by our ecosystem of Relativity developer partners or building them yourself. With the latest in advanced searching and analytics, machine learning, and visualizations all built in, RelativityOne Government is your complete platform for organizing data, discovering the truth, and acting on it.",
         "Announcement_Date": "2020-11-05T05:00:00.000Z",
-        "CSP_POC_Name": "Amanda Fennell",
+        "CSP_POC_Name": "Marcin Swiety",
         "CSP_POC_Email": "security@relativity.com",
         "FedRAMP_In-Process_Date": "2019-12-23T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
@@ -20298,6 +20298,81 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Infoblox",
+        "Cloud_Service_Provider_Package": "BloxOne Threat Defense Federal Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2017257053",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-07-01T04:00:00.000Z",
+        "Original_Expiration_Date": "2023-07-01T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Commerce",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+        "Authorizing_Agency": "Department of Commerce",
+        "Authorizing_Subagency": "United States Census Bureau",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Infoblox%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "AGENCYAMAZONEW",
+          "AGENCYSF",
+          "F1512167750",
+          "FR1807853629",
+          "F1508207205",
+          "FR1704655535",
+          "FR1812058188",
+          "FR1916254386",
+          "F1206081364"
+        ],
+        "CSP_Website": "https://www.infoblox.com/solutions/government/",
+        "CSO_Description": "BloxOne Threat Defense Federal Cloud is a suite of capabilities that enable organizations to defend their networks, conduct threat investigations and research, and provide rapid correlation/contextualization to minimize incident response times. B1TD FedCloud contains millions of verified indicators in vendor agnostic formats that may be exported to facilitate detection, blocking, and containment of modern malware (e.g. APT, ransomware, phishing, exploits) via an open API and an analyst research portal.",
+        "Announcement_Date": "2022-12-15T05:00:00.000Z",
+        "CSP_POC_Name": "Chris Carlson",
+        "CSP_POC_Email": "fedramp@infoblox.com",
+        "FedRAMP_In-Process_Date": "2022-07-01T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Datavant",
+        "Cloud_Service_Provider_Package": "Datavant Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2112152882",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-06-29T04:00:00.000Z",
+        "Original_Expiration_Date": "2025-06-29T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "National Center for Advancing Translational Sciences",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Datavant%20Logo.png",
+        "Independent_Assessor": "Moss Adams (In Remediation)",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "FR2023864279",
+          "F1206081364",
+          "FR1812058188",
+          "F1508207205",
+          "FR1823447014",
+          "FR1809360201"
+        ],
+        "CSP_Website": "https://datavant.com/",
+        "CSO_Description": "Datavant Cloud enables privacy-preserving health data connectivity for federal government customers, stakeholders, and collaborators. Our privacy-preserving record linkage (PPRL) solution links person-level data across data silos using universal patient keys without exposing personally identifiable information (PII) or protected health information (PHI). Data governance controls are built-in to Datavant’s unique PPRL deployment model, providing assurance to data originators and data stewards that their data can only be processed by the right entity, for the right purpose, under the right conditions. \n\n\nDatavant features include:\n\n* Governance controls that enable an array of data-sharing models including data collaboratives, registries, repositories, project-specific data-sharing, and single vs. bi-directional data linkages. \n\n* Trust frameworks that provide linkage honest broker, zero trust, and peer-to-peer models, providing data originators and data recipients with flexibility to connect data using their desired trust models.\n\n* De-identified cohort discovery with Datavant’s extensive ecosystem of interoperable real world datapartners to discover shared cohorts and populations without needing to share underlying data.\n\n\nDatavant services include:\n\n* Datavant DeID+Link\n\n* Datavant Match\n\n* Datavant Desktop\n\n* Datavant Web Portal features: (Overlaps, Overlaps API, Explore)\n\n\nDatavant solutions can be deployed on-premise, in virtualized environments, in cloud, and integrated locally within your native systems via our API.",
+        "Announcement_Date": "2022-12-15T05:00:00.000Z",
+        "CSP_POC_Name": "Lucienne Roe",
+        "CSP_POC_Email": "federal@datavant.com",
+        "FedRAMP_In-Process_Date": "2022-06-16T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "1901 Group",
         "Cloud_Service_Provider_Package": "in3sight High",
         "Path": "Agency",
@@ -20854,13 +20929,15 @@
         "Cloud_Service_Provider_Name": "Datavant",
         "Cloud_Service_Provider_Package": "Datavant Cloud",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "FR2112152882",
         "Service_Model": [
           "SaaS"
         ],
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-06-29T04:00:00.000Z",
+        "Original_Expiration_Date": "2025-06-29T04:00:00.000Z",
         "Sponsoring_Agency": "Department of Health and Human Services",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
         "Authorizing_Agency": "Department of Health and Human Services",
@@ -20869,6 +20946,7 @@
         "Independent_Assessor": "Moss Adams (In Remediation)",
         "CSP_Website": "https://datavant.com/",
         "CSO_Description": "Datavant Cloud enables privacy-preserving health data connectivity for federal government customers, stakeholders, and collaborators. Our privacy-preserving record linkage (PPRL) solution links person-level data across data silos using universal patient keys without exposing personally identifiable information (PII) or protected health information (PHI). Data governance controls are built-in to Datavant’s unique PPRL deployment model, providing assurance to data originators and data stewards that their data can only be processed by the right entity, for the right purpose, under the right conditions. \n\n\nDatavant features include:\n\n* Governance controls that enable an array of data-sharing models including data collaboratives, registries, repositories, project-specific data-sharing, and single vs. bi-directional data linkages. \n\n* Trust frameworks that provide linkage honest broker, zero trust, and peer-to-peer models, providing data originators and data recipients with flexibility to connect data using their desired trust models.\n\n* De-identified cohort discovery with Datavant’s extensive ecosystem of interoperable real world datapartners to discover shared cohorts and populations without needing to share underlying data.\n\n\nDatavant services include:\n\n* Datavant DeID+Link\n\n* Datavant Match\n\n* Datavant Desktop\n\n* Datavant Web Portal features: (Overlaps, Overlaps API, Explore)\n\n\nDatavant solutions can be deployed on-premise, in virtualized environments, in cloud, and integrated locally within your native systems via our API.",
+        "Announcement_Date": "2022-12-15T05:00:00.000Z",
         "CSP_POC_Name": "Lucienne Roe",
         "CSP_POC_Email": "federal@datavant.com",
         "FedRAMP_In-Process_Date": "2022-06-16T04:00:00.000Z",
@@ -21210,13 +21288,15 @@
         "Cloud_Service_Provider_Name": "Infoblox",
         "Cloud_Service_Provider_Package": "BloxOne Threat Defense Federal Cloud",
         "Path": "Agency",
-        "Designation": "In Process",
+        "Designation": "Compliant",
         "Package_ID": "FR2017257053",
         "Service_Model": [
           "SaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-07-01T04:00:00.000Z",
+        "Original_Expiration_Date": "2023-07-01T04:00:00.000Z",
         "Sponsoring_Agency": "Department of Commerce",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
         "Authorizing_Agency": "Department of Commerce",
@@ -21225,6 +21305,7 @@
         "Independent_Assessor": "Kratos",
         "CSP_Website": "https://www.infoblox.com/solutions/government/",
         "CSO_Description": "BloxOne Threat Defense Federal Cloud is a suite of capabilities that enable organizations to defend their networks, conduct threat investigations and research, and provide rapid correlation/contextualization to minimize incident response times. B1TD FedCloud contains millions of verified indicators in vendor agnostic formats that may be exported to facilitate detection, blocking, and containment of modern malware (e.g. APT, ransomware, phishing, exploits) via an open API and an analyst research portal.",
+        "Announcement_Date": "2022-12-15T05:00:00.000Z",
         "CSP_POC_Name": "Chris Carlson",
         "CSP_POC_Email": "fedramp@infoblox.com",
         "FedRAMP_In-Process_Date": "2022-07-01T04:00:00.000Z",
