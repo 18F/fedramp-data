@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2022-12-21T05:40:51.865Z",
+    "Created_At": "2022-12-22T05:40:51.160Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -10658,7 +10658,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20CI%20Logo.png",
         "Independent_Assessor": "Schellman Compliance, LLC",
         "CSP_Website": "https://cloud.oracle.com",
-        "CSO_Description": "Oracle Cloud Infrastructure is a government-community cloud architected to provide U.S. public sector entities with best-in-class security and industry leading price-performance. Oracle Cloud Infrastructure services are a set of complementary infrastructure and platform cloud services that enable customers to build and run their enterprise workloads through high-performance, secure, and available services that scale elastically. With Oracle Cloud Infrastructure, public sector entities can use Oracle development tools to enhance existing applications while creating and integrating new cloud-native applications.\n\nThe following Oracle Cloud Infrastructure services are authorized at the FedRAMP High Impact Level and approved by the JAB: Announcements; API Gateway; Audit; Autonomous Dedicated; Autonomous Shared; Autoscaling; Bastion; Block Storage; Cloud Advisor; Cloud Guard; Cloud Shell; Compute; Compute Monitoring; Container Engine for Kubernetes; Data Catalog; Data Flow; Data Integration Service; Data Science; Database Cloud Service; Database Management Service (DBM); Data Transfer; Digital Assistant; Email Delivery; Events; Exadata Cloud Service; FastConnect; File Storage; Functions; Identity and Access Management; Java Management Service; Linux/YUM Repo; Load Balancing; Log Analytics; Management Agent Service; Marketplace; Metering; Monitoring; Network Load Balancer; Network Topology Visualization; NG-VPNaaS Next Generation; Notifications; Object Storage; Operations Insight; Oracle Analytics Cloud; Oracle Integration Cloud; OS Management Service; Private Endpoints; Programmable Network Platform (DRG-Transit Hub); Public Logging; Registry; Resource Manager; Secrets in Vault; Service Connector Hub; Streaming; Support Center (Cloud Incident Service); Tenant Manager; Terraform; Threat Intelligence Platform; Vault; Virtual Cloud Networks; VCN Flow Logs; VMware Solution; Vulnerability Scanning Service",
+        "CSO_Description": "Oracle Cloud Infrastructure is a government-community cloud architected to provide U.S. public sector entities with best-in-class security and industry leading price-performance. Oracle Cloud Infrastructure services are a set of complementary infrastructure and platform cloud services that enable customers to build and run their enterprise workloads through high-performance, secure, and available services that scale elastically. With Oracle Cloud Infrastructure, public sector entities can use Oracle development tools to enhance existing applications while creating and integrating new cloud-native applications.\n\nThe following Oracle Cloud Infrastructure services are authorized at the FedRAMP High Impact Level and approved by the JAB: Announcements; API Gateway; Artifact Registry; Audit; Autonomous Dedicated; Autonomous Shared; Autoscaling; Bastion; Big Data Service; Block Storage; Budgets; Certificates; Cloud Advisor; Cloud Guard; Cloud Shell; Compute; Compute Monitoring; Container Engine for Kubernetes; Content Management, Data Catalog; Data Flow; Data Integration Service; Data Labeling; Data Safe; Data Science; Database Cloud Service; Database Management Service (DBM); Data Transfer; DevOps (Build Service, Deploy, Project Service, Source Code Management); Digital Assistant; Email Delivery; Events; Exadata Cloud Service; FastConnect; File Storage; Functions; Identity and Access Management; Identity Domains; Java Management Service; Linux/YUM Repo; Load Balancing; Log Analytics; Management Agent Service; Marketplace; Metering; Monitoring; Network Firewall; Network Load Balancer; Network Topology Visualization; NG-VPNaaS Next Generation; Notifications; NoSQL Database Cloud; Service Object Storage; Operations Insight; Oracle Analytics Cloud; Oracle Cloud AI Services (Anomaly Detection, Forecasting, Language, Speech, Vision); Oracle Integration Cloud; OS Management Service; Private Endpoints; Programmable Network Platform (DRG-Transit Hub); Public Logging; Registry; Resource Manager; Secrets in Vault; Service Connector Hub; Streaming; Support Center (Cloud Incident Service); Tenancy Lifecycle Service; Tenant Manager; Terraform; Threat Intelligence Platform; Vault; Virtual Cloud Networks; VCN Flow Logs; VMware Solution; Vulnerability Scanning Service; Web Application Firewall (WAFv2)",
         "Announcement_Date": "2020-10-01T04:00:00.000Z",
         "CSP_POC_Name": "Rico McGee",
         "CSP_POC_Email": "fedrampinfo_us@oracle.com",
@@ -10678,14 +10678,6 @@
             "Authorizing_Agency": "Department of Homeland Security",
             "Authorizing_Subagency": "Customs and Border Protection",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-06-02T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-11-02T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-06-02T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -12753,6 +12745,14 @@
             "Authorizing_Agency": "Department of Agriculture",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-12-12T05:00:00.000Z",
+            "Letter_Expiration_Date": "2024-03-20T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-12-20T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -13564,9 +13564,9 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2021-11-01T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-12-31T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-11-29T05:00:00.000Z",
+            "Letter_Date": "2022-10-14T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-12-31T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-10-27T04:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "United States Patent and Trademark Office",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
@@ -17765,36 +17765,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Esper Regulatory Technologies, Inc.",
-        "Cloud_Service_Provider_Package": "Esper Regulatory Workflow and Policy Manager",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR2215658386",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "LI-SaaS",
-        "Original_Authorization_Date": "2022-07-14T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Esper%20Logo.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW",
-          "FR1912658130"
-        ],
-        "CSP_Website": "https://www.esper.com/",
-        "CSO_Description": "Esper’s suite of policy collaboration and workflow tools are purpose-built for government agencies across the United States. Our cloud-based, SaaS platform allows for data-driven research, collaborative policymaking & stakeholder review and public-facing engagement on the policies that impact citizens directly.\nOur platform allows policymakers to:\n* Streamline internal workflows on policy\n* Repeal, update and draft all forms of policy\n* Track progress on policies with real-time reports\n* Analyze data to help assess the policy landscape\n* Collect feedback and data from impacted stakeholders",
-        "Announcement_Date": "2022-08-04T04:00:00.000Z",
-        "CSP_POC_Name": "Greg Zavitz",
-        "CSP_POC_Email": "fedramp@esper.com",
-        "FedRAMP_In-Process_Date": "2022-05-11T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Proofpoint, Inc.",
         "Cloud_Service_Provider_Package": "Proofpoint Email Archive",
         "Path": "Agency",
@@ -19313,14 +19283,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2022-10-27T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-03-18T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Counterintelligence and Security Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2022-02-07T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-02-09T05:00:00.000Z",
             "Authorizing_Agency": "Department of Homeland Security",
@@ -20144,15 +20106,6 @@
             "Authorizing_Agency": "Department of Homeland Security",
             "Authorizing_Subagency": "Immigration and Customs Enforcement",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2022-05-06T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-11-06T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-05-06T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Authorizing_Subagency": "Bureau of Land Management",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -21058,6 +21011,27 @@
         "CSP_POC_Name": "Equifax FedRAMP team",
         "CSP_POC_Email": "FedRAMP.Security@equifax.com",
         "Fedramp_Ready_Date": "2022-02-22T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Esper Regulatory Technologies, Inc.",
+        "Cloud_Service_Provider_Package": "Esper Regulatory Workflow and Policy Manager",
+        "Path": "Agency",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2215658386",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "LI-SaaS",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Esper%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "https://www.esper.com/",
+        "CSO_Description": "Esper’s suite of policy collaboration and workflow tools are purpose-built for government agencies across the United States. Our cloud-based, SaaS platform allows for data-driven research, collaborative policymaking & stakeholder review and public-facing engagement on the policies that impact citizens directly.\nOur platform allows policymakers to:\n* Streamline internal workflows on policy\n* Repeal, update and draft all forms of policy\n* Track progress on policies with real-time reports\n* Analyze data to help assess the policy landscape\n* Collect feedback and data from impacted stakeholders",
+        "CSP_POC_Name": "Greg Zavitz",
+        "CSP_POC_Email": "fedramp@esper.com",
+        "Fedramp_Ready_Date": "2022-12-21T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -22104,6 +22078,25 @@
         "CSP_POC_Name": "Proofpoint Security Awareness Training",
         "CSP_POC_Email": "sat-fedramp@proofpoint.com",
         "FedRAMP_In-Process_Date": "2022-02-11T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Project Hosts Inc.",
+        "Cloud_Service_Provider_Package": "GSS One- AWS",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2300457485",
+        "Service_Model": [
+          "PaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Project%20Hosts%20Logo1.png",
+        "Independent_Assessor": "Lunarline Inc",
+        "CSP_Website": "https://www.projecthosts.com/",
+        "CSO_Description": "The Project Hosts “GSS One - AWS” PaaS is a Government Only general support system deployed on AWS GovCloud. The GSS One- AWS is composed of systems and services that manage access control, authentication, auditing, monitoring, scanning, patching, configuration management, malware prevention, intrusion prevention, incident response, backup, and disaster recovery for each Application deployed on the GSS One - AWS. \nThere are two main types of customers who use the GSS One- AWS: (i) Independent Software Vendors (ISVs) deploying multitenant SaaS applications and (ii) Federal, state or local agencies deploying dedicated applications just for their agency or organization (not multitenant).  For both types of customers, their applications are deployed on customer-dedicated virtual servers (or FedRAMP authorized AWS PaaS services) inside customer-dedicated subnets.  VPC Firewall access controls ensure that each customer's subnet is completely isolated from and has no access to any other customer's subnet.  \n\nFor GSS One- AWS customers, Project Hosts also provides services that are over and above the PaaS offering described in the GSS One- AWS FedRAMP package.  Namely, Project Hosts deploys, secures, manages, and provides continuous monitoring for applications that are compatible with the GSS One- AWS architecture, authentication, operating system, database, and access requirements.\n\nFor ISV customers, Project Hosts also creates their SaaS-level FedRAMP package, helps them throughout the agency authorization process, and manages their 3PAO annual assessments. \n\nFor agency customers, Project Hosts assists them in the creation of their own SSP, manages annual 3PAO scanning and penetration testing of their dedicated applications, and provides a monthly application-level POA&M.  \n\nIf an agency would like to use one of these Applications or bring in another GSS One- AWS compatible Application, Project Hosts will provide application-level artifacts that will help the agency assess the risk of deploying that application in the FPC as well as any other documentation or evidence required in order to grant an Authority to Operate (ATO).",
+        "CSP_POC_Name": "Joshua Krueger",
+        "CSP_POC_Email": "josh.krueger@projecthosts.com",
+        "Fedramp_Ready_Date": "2022-12-21T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
