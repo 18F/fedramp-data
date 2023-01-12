@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-01-11T05:40:50.532Z",
+    "Created_At": "2023-01-12T05:40:51.384Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -484,7 +484,7 @@
           "F1603047866"
         ],
         "CSP_Website": "www.appian.com",
-        "CSO_Description": "Appian software is delivered to the Appian Cloud through a Platform-as-a-Service (PaaS) model and leverages cloud-native robotic process automation (RPA), simplifying control management and reducing overhead for customers. Government agencies should consider the Appian Government Cloud (at Impact Level 5) for critical acquisitions, case management and logistics, especially when process and business rule complexities are high. The Appian Low-Code Platform unifies the key capabilities needed to get work done faster.",
+        "CSO_Description": "Appian provides a low-code platform for rapidly designing software solutions, automating tasks to drive efficiency, and optimizing business processes. Solutions built in Appian leverage cloud-native robotic process automation (RPA), simplifying control management and reducing overhead for customers. Government agencies should consider the Appian Government Cloud (at Impact Level 5) for critical acquisitions, case management and logistics, especially when process and business rules are complex.  Appian connects processes, systems, and employees to get work done faster.",
         "Announcement_Date": "2015-06-22T04:00:00.000Z",
         "CSP_POC_Name": "N/A",
         "CSP_POC_Email": "fedramp@appian.com",
@@ -16808,6 +16808,14 @@
             "Authorizing_Subagency": "Office of Science / Argonne Site Office",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2025-11-14T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-11-14T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "Strategic Petroleum Reserve",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -17359,46 +17367,6 @@
             "Authorizing_Agency": "Department of Transportation",
             "Authorizing_Subagency": "Federal Aviation Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Oracle",
-        "Cloud_Service_Provider_Package": "Aconex for Defense",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1712871948",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2022-07-05T04:00:00.000Z",
-        "Original_Expiration_Date": "2023-01-11T05:00:00.000Z",
-        "Sponsoring_Agency": "Department of Defense",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-        "Authorizing_Agency": "Department of Defense",
-        "Authorizing_Subagency": "United States Army Corps of Engineers",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20Aconex%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1206061353",
-          "F1603047866",
-          "F1508277234"
-        ],
-        "CSP_Website": "https://www.oracle.com/industries/construction-engineering/aconex-fedramp-construction-software/",
-        "CSO_Description": "Oracle Aconex provides the #1 cloud and mobile collaboration platform for the global construction industry. This highly secure platform provides a single source of truth for all program related documents and communications across agency stakeholders and streamlines business process management with standardization across the project lifecycle. Oracle Aconex for Defense brings a modern set of flexible tools for simplifying how program data is captured, consumed, shared and analyzed.\nCapabilities include:\n* Inter-Agency Project Management and Collaboration\n* Centralized Information Management\n* Streamlined Business Process and Construction Management\n* Secure Common Data Environment With more than 70,000 user organizations and over $1 trillion of project value delivered in more than 70 countries, Aconex is the construction industry’s most widely adopted and trusted platform. For more information, please see [Oracle Aconex for Defense](https://www.oracle.com/industries/construction-engineering/aconex-fedramp-construction-software/)",
-        "Announcement_Date": "2020-10-30T04:00:00.000Z",
-        "CSP_POC_Name": "Gail Johnson",
-        "CSP_POC_Email": "aconex-for-defense_us_grp@oracle.com",
-        "FedRAMP_In-Process_Date": "2020-01-14T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Expiration_Date": "2023-10-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-06-22T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Agriculture",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -18009,6 +17977,7 @@
           {
             "Letter_Date": "2022-10-31T04:00:00.000Z",
             "Letter_Expiration_Date": "2025-10-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-10-28T04:00:00.000Z",
             "Authorizing_Agency": "Defense Nuclear Facilities Safety Board",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DNFSB%20Logo.png",
             "Include_In_Marketplace": "Y"
@@ -18161,6 +18130,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-12-09T05:00:00.000Z",
             "Authorizing_Agency": "Department of Education",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-12-12T05:00:00.000Z",
+            "Letter_Expiration_Date": "2025-12-22T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-12-22T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "Strategic Petroleum Reserve",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -18977,7 +18955,7 @@
           {
             "Authorizing_Letter_Last_Sign_Date": "2022-11-14T05:00:00.000Z",
             "Authorizing_Agency": "Department of Energy",
-            "Authorizing_Subagency": "Strategiv Petroleum Reserve",
+            "Authorizing_Subagency": "Strategic Petroleum Reserve",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
           }
@@ -19469,6 +19447,15 @@
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "Center for Medicare & Medicaid Services",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-09-21T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-09-21T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-10-15T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Federal Emergency Management Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -20518,6 +20505,46 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Oracle",
+        "Cloud_Service_Provider_Package": "Aconex for Defense",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1712871948",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2023-01-04T05:00:00.000Z",
+        "Original_Expiration_Date": "2023-06-29T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Defense",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+        "Authorizing_Agency": "Department of Defense",
+        "Authorizing_Subagency": "United States Army Corps of Engineers",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Oracle%20Aconex%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1206061353",
+          "F1603047866",
+          "F1508277234"
+        ],
+        "CSP_Website": "https://www.oracle.com/industries/construction-engineering/aconex-fedramp-construction-software/",
+        "CSO_Description": "Oracle Aconex provides the #1 cloud and mobile collaboration platform for the global construction industry. This highly secure platform provides a single source of truth for all program related documents and communications across agency stakeholders and streamlines business process management with standardization across the project lifecycle. Oracle Aconex for Defense brings a modern set of flexible tools for simplifying how program data is captured, consumed, shared and analyzed.\nCapabilities include:\n* Inter-Agency Project Management and Collaboration\n* Centralized Information Management\n* Streamlined Business Process and Construction Management\n* Secure Common Data Environment With more than 70,000 user organizations and over $1 trillion of project value delivered in more than 70 countries, Aconex is the construction industry’s most widely adopted and trusted platform. For more information, please see [Oracle Aconex for Defense](https://www.oracle.com/industries/construction-engineering/aconex-fedramp-construction-software/)",
+        "Announcement_Date": "2020-10-30T04:00:00.000Z",
+        "CSP_POC_Name": "Gail Johnson",
+        "CSP_POC_Email": "aconex-for-defense_us_grp@oracle.com",
+        "FedRAMP_In-Process_Date": "2020-01-14T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Expiration_Date": "2023-10-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-06-22T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "1901 Group",
         "Cloud_Service_Provider_Package": "in3sight High",
         "Path": "Agency",
@@ -20833,18 +20860,17 @@
       {
         "Cloud_Service_Provider_Name": "Collabware",
         "Cloud_Service_Provider_Package": "Collabspace",
-        "Path": "Agency",
+        "Path": "JAB",
         "Designation": "In Process",
         "Package_ID": "FR2128562231",
         "Service_Model": [
           "SaaS"
         ],
         "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "High",
-        "Sponsoring_Agency": "Department of Homeland Security",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "JAB Authorization",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-        "Authorizing_Agency": "Department of Homeland Security",
-        "Authorizing_Subagency": "Immigration and Customs Enforcement",
+        "Authorizing_Agency": "JAB Authorization",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Collabware%20Logo.png",
         "Independent_Assessor": "Kratos",
         "CSP_Website": "https://collabware.com/",
@@ -20852,7 +20878,7 @@
         "CSP_POC_Name": "Graham Sibley",
         "CSP_POC_Email": "fedramp@collabware.com",
         "Fedramp_Ready_Date": "2021-12-03T05:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2022-03-01T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2022-12-14T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -21722,6 +21748,25 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "M.C. Dean, Inc.",
+        "Cloud_Service_Provider_Package": "InfraLink",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR1927682057",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Infralink%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "CSP_Website": "www.infralink.com",
+        "CSO_Description": "InfraLink, formerly known as Infrastructure Maintenance Management System (IMMS), integrates the cyber-physical systems lifecycle from design through implementation and sustainment, enabling configuration management and providing a systematic approach to planning and continuous improvement across project activities. Rely on InfraLink to support all aspects of critical infrastructure management.\n* **Configuration Baselines** - Effectively manage system security, planned maintenance, issue management, and systems availability/performance reporting by ensuring the integrity of your system baseline configurations. InfraLink supports customization to each system element.\n* **Preventive Maintenance** - Ensure critical systems and equipment availability and avoid unplanned outages. Based on the concepts of reliability-centered maintenance, InfraLink provides a foundation for effective scheduling, tracking, and performance management activities. Model data, capture tools, and electronic forms document and validate information in near-real time. * **Issues Management & Analysis** - InfraLink’s flexible and customizable ticketing system allows you to define work categories and workflows that align with program scope and priorities, set service level agreement (SLA) milestones, and capture customized status-specific issue attributes. Comprehensive case details help you better assess system and process performance, conduct effective root cause analysis and ensure individual accountability.\n* **Installation Management** - InfraLink allows project teams to effectively track complex system implementation workflows, from simple component testing and installation to the integration of complex subsystems and hundreds of components. InfraLink enables effective planning and data integrity, which promote worker safety, accountability, and coordination across job functions.\n* **Materials Inventory** - Avoid work delays caused by stock shortages and extensive inventory carrying costs through effective inventory management. InfraLink helps you plan replacements based on a reliable configuration baseline, performance history and operational priorities, while streamlining stringent Government and enterprise property reporting requirements.\n* **Reporting** - Maintain a comprehensive assessment of your systems and team performance. InfraLink provides a range of standard and customizable reports and dashboards that offer critical insights to support ongoing improvements in systems performance and management.",
+        "CSP_POC_Name": "Evgeny Kaplun",
+        "CSP_POC_Email": "info@infralink.com",
+        "Fedramp_Ready_Date": "2022-11-16T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Meridian Knowledge Solutions",
         "Cloud_Service_Provider_Package": "Meridian Learning Management System (LMS)",
         "Path": "Agency",
@@ -21988,6 +22033,29 @@
         "CSP_POC_Name": "Tony Munno",
         "CSP_POC_Email": "fedramp@onsolve.com",
         "FedRAMP_In-Process_Date": "2022-01-18T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Onspring Technologies, LLC",
+        "Cloud_Service_Provider_Package": "Onspring GovCloud",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2231648178",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Tennessee Valley Authority",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-TennesseeValleyAuthority-Logo.png",
+        "Authorizing_Agency": "Tennessee Valley Authority",
+        "CSP_URL": "https://www.fedramp.gov/assets/img/logos/CSP_logos/OnSpring%20Logo.png",
+        "Independent_Assessor": "Emagine IT",
+        "CSP_Website": "https://onspring.com",
+        "CSO_Description": "Onspring GovCloud provides a cloud-based, no-code business process automation platform that enables customers to structure their data, enforce data integrity controls, control access, manage workflow and report on the overall status of key processes and procedures. Organizations leverage the Onspring GovCloud platform and its configured solutions to manage the critical aspects of their governance, risk management, and compliance programs and any indirect business processes related to those functions. \n\nOnspring GovCloud solutions can be used as configured out of the box. However, Onspring GovCloud's flexible no-code platform provides the ability to make modifications to any core solution as well as develop and deploy custom solutions using a common set of functionalities creating a clear and consistent user experience. ",
+        "CSP_POC_Name": "Nichole Windholz",
+        "CSP_POC_Email": "nichole.windholz@onspring.com",
+        "FedRAMP_In-Process_Date": "2023-01-11T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -22482,7 +22550,7 @@
         "CSO_Description": "The Synack SaaS platform is a multi-tenant platform that delivers on-demand penetration testing, vulnerability management and vulnerability assessment from a global network of security researchers. Synack’s penetration testing products include Synack Penetration Test products (Discover, Certify, Synack365), and Synack Campaigns. Synack Campaigns are on-demand security tasks that are performed by Synack Red Team (SRT) members. Examples of Campaigns include checking for OWASP Top 10 vulnerabilities, getting a hacker’s perspective on an asset and checking for a specific CVE. Discover is a Crowdsourced Vulnerability Discovery product that deploys security researchers on an incentive-driven hunt for vulnerabilities to secure your most valuable web, mobile and host/infrastructure assets.\rSynack’s Certify combines human and machine intelligence with compliance checklists to deliver both real security and audit-ready reports that can help address timely concerns around compliance including FISMA/NIST 800-53.\rSynack365 provides around-the-clock penetration testing 365 days a year.",
         "CSP_POC_Name": "Mark Kuhr",
         "CSP_POC_Email": "fedramp@synack.com",
-        "FedRAMP_In-Process_Date": "2022-12-19T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2023-01-04T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
