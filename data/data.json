@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-01-24T05:40:50.951Z",
+    "Created_At": "2023-01-25T05:40:51.331Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -20731,7 +20731,7 @@
         "Authorizing_Agency": "Department of Health and Human Services",
         "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
         "CSP_URL": "https://www.fedramp.gov/assets/img/logos/CSP_logos/LaunchDarkly%20Logo.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Independent_Assessor": "Schellman Compliance, LLC",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW",
           "FR1912658130",
@@ -20745,6 +20745,41 @@
         "CSP_POC_Name": "Alex Smolen",
         "CSP_POC_Email": "fedramp@launchdarkly.com",
         "FedRAMP_In-Process_Date": "2022-07-08T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "MongoDB",
+        "Cloud_Service_Provider_Package": "MongoDB Atlas for Government",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2122150307",
+        "Service_Model": [
+          "PaaS, SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-08-24T04:00:00.000Z",
+        "Original_Expiration_Date": "2025-08-24T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MongoDB%20Logo.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "AGENCYAMAZONEW",
+          "F1206081364",
+          "F1512167750",
+          "FR1823447014",
+          "AGENCYSF"
+        ],
+        "CSP_Website": "https://www.mongodb.com/",
+        "CSO_Description": "MongoDB Atlas for Government is a cloud database service that provides the versatility needed to modernize legacy applications and supports the unique requirements and missions of the government. Building on MongoDB’s intuitive data model and query API, Atlas for Government handles operational and administrative tasks with best-in-class automation and delivers advanced security and data distribution capabilities. Atlas for Government is FedRAMP Ready and is available in AWS GovCloud regions and AWS FedRAMP Moderate regions (US East/West).",
+        "Announcement_Date": "2023-01-18T05:00:00.000Z",
+        "CSP_POC_Name": "MongoDB FedRAMP Team",
+        "CSP_POC_Email": "fedramp@mongodb.com",
+        "Fedramp_Ready_Date": "2021-05-24T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2022-08-11T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -22068,30 +22103,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "MongoDB",
-        "Cloud_Service_Provider_Package": "MongoDB Atlas for Government",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2122150307",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/MongoDB%20Logo.png",
-        "Independent_Assessor": "Schellman Compliance, LLC",
-        "CSP_Website": "https://www.mongodb.com/",
-        "CSO_Description": "MongoDB Atlas for Government is a cloud database service that provides the versatility needed to modernize legacy applications and supports the unique requirements and missions of the government. Building on MongoDB’s intuitive data model and query API, Atlas for Government handles operational and administrative tasks with best-in-class automation and delivers advanced security and data distribution capabilities. Atlas for Government is FedRAMP Ready and is available in AWS GovCloud regions and AWS FedRAMP Moderate regions (US East/West).",
-        "CSP_POC_Name": "MongoDB FedRAMP Team",
-        "CSP_POC_Email": "fedramp@mongodb.com",
-        "Fedramp_Ready_Date": "2021-05-24T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2022-08-11T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Mural Tactivos Inc., DBA Mural",
         "Cloud_Service_Provider_Package": "Mural for Government",
         "Path": "Agency",
@@ -22919,6 +22930,30 @@
         "CSP_POC_Name": "Mary Stone",
         "CSP_POC_Email": "trend4gov@trendmicro.com",
         "FedRAMP_In-Process_Date": "2022-12-13T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Trend Micro Inc.",
+        "Cloud_Service_Provider_Package": "Trend Micro Vision One for Government",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2226231529",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Transportation",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
+        "Authorizing_Agency": "Department of Transportation",
+        "Authorizing_Subagency": "Federal Highway Administration",
+        "CSP_URL": "https://www.fedramp.gov/assets/img/logos/CSP_logos/TrendMicro%20Logo.png",
+        "Independent_Assessor": "Fortreum, LLC",
+        "CSP_Website": "https://www.trendmicro.com/",
+        "CSO_Description": "Trend Micro Vision One for Government is a modern security operations platform that enables organizations to detect, investigate, prioritize, and respond to threats faster.  \n \nWith built-in security analytics and threat intelligence, Trend Micro Vision One correlates data across multiple security layers from native sensors and third-party data sources to help security teams quickly see the full story of an attack and respond faster and more confidently. \n \nTrend Micro Vision One serves the EDR use case with our Trend Micro™ Endpoint Sensor while delivering a solution path to a broader XDR strategy to extend detection and response to additional attack vectors, including servers and cloud workloads. \n \nBuilt for the SOC analyst, CISO, and threat hunter, this platform leverages AI and predictive machine learning to arm defenders with earlier threat detection and automated response options that make a difference. The visibility and efficiency provided by Trend Micro Vision One makes great security teams even better, enabling them to do more with less.  \n \nTrend Micro is trusted by 9 out of the top 10 Fortune 500 companies, blocks over 94 billion threats per year, analyzes over 100 TB of threat information per day and processes over 2.5 trillion events per day. We are cyber security experts.  ",
+        "CSP_POC_Name": "Tim Miller",
+        "CSP_POC_Email": "trend4gov@trendmicro.com",
+        "FedRAMP_In-Process_Date": "2023-01-17T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
