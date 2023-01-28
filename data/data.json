@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-01-27T05:40:51.059Z",
+    "Created_At": "2023-01-28T05:40:51.195Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -6940,7 +6940,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-TennesseeValleyAuthority-Logo.png",
         "Authorizing_Agency": "Tennessee Valley Authority",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Collibra%20Logo2.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Independent_Assessor": "Schellman Compliance, LLC",
         "Underlying_CSP_Package_ID": [
           "F1603047866",
           "F1512167750",
@@ -11610,7 +11610,17 @@
         "CSP_POC_Email": "fedhive@hrtec.net",
         "Fedramp_Ready_Date": "2018-07-11T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2020-08-18T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2023-01-27T05:00:00.000Z",
+            "Letter_Expiration_Date": "2025-02-01T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-01-27T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Information Systems Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "EnergyCAP LLC.",
@@ -14160,7 +14170,7 @@
         "Sponsoring_Agency": "JAB Authorization",
         "Authorizing_Agency": "JAB Authorization",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Accenture%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Independent_Assessor": "Schellman Compliance, LLC",
         "Underlying_CSP_Package_ID": [
           "F1603047866",
           "F1603087869",
@@ -14963,7 +14973,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
         "Authorizing_Agency": "Department of Veterans Affairs",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Ipsos%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Independent_Assessor": "Schellman Compliance, LLC",
         "Underlying_CSP_Package_ID": [
           "F1603047866",
           "FR1823149273",
@@ -16114,7 +16124,7 @@
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW"
         ],
-        "CSP_Website": "http://research.data-commons.org",
+        "CSP_Website": "https://gen3.org/",
         "CSO_Description": "The Gen3 Commons Service (Gen3) is an open-source multi-tenant Software as a Service (SaaS) platform for developing, creating and operating cloud-based data commons, data ecosystems, and workspaces for managing, analyzing, and sharing data.",
         "Announcement_Date": "2021-12-08T05:00:00.000Z",
         "CSP_POC_Name": "Robert Grossman",
@@ -21057,7 +21067,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Center for Translational Data Science (CTDS), University of Chicago",
+        "Cloud_Service_Provider_Name": "Center for Translational Data Science (CTDS), University of Chicago and Open Commons Consortium (OCC)",
         "Cloud_Service_Provider_Package": "Gen3 Data Ecosystems Platform",
         "Path": "Agency",
         "Designation": "In Process",
@@ -21073,7 +21083,7 @@
         "Authorizing_Subagency": "National Heart, Lung, and Blood Institute",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/UoC%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://Gen3.data-commons.org",
+        "CSP_Website": "https://gen3.org/",
         "CSO_Description": "The Gen3 Data Ecosystems Platform (Gen3) is an open-source multi-tenant Software as a Service (SaaS) platform for developing, creating, and operating cloud-based data commons, data ecosystems, and workspaces for managing, analyzing, and sharing both open access and controlled access data. The goal of Gen3 is to provide research data in a uniform and co-localized database and to serve as a foundation for future expanded data access, computational capabilities, and bioinformatics cloud research",
         "CSP_POC_Name": "Robert Grossman",
         "CSP_POC_Email": "Gen3platform@data-commons.org",
@@ -23202,7 +23212,7 @@
         "Authorizing_Agency": "Department of Health and Human Services",
         "Authorizing_Subagency": "Centers for Disease Control and Prevention",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Virtru%20Logo.png",
-        "Independent_Assessor": "Kratos",
+        "Independent_Assessor": "Schellman Compliance, LLC",
         "CSP_Website": "https://www.virtru.com",
         "CSO_Description": "This service offering has a complete FedRAMP security package that can be leveraged for review and reuse. This service was previously FedRAMP Authorized and will regain its FedRAMP Authorized status once an agency issues an ATO following FedRAMP’s [Quick Guide for Reuse](https://www.fedramp.gov/assets/resources/documents/Reusing_Authorizations_for_Cloud_Products_Quick_Guide.pdf). If an ATO is not issued within one year of the FedRAMP Ready Date the service offering will be removed from the FedRAMP Marketplace. Please feel free to contact the PMO at info@fedramp.gov if you have any questions.\nVirtru provides seamless end-to-end email encryption, powerful access controls, and unparalleled security - built for the enterprise, yet easy enough for everyone.\nGovernment agencies and large enterprises trust Virtru to protect and control sensitive information – such as regulated personal data and proprietary intellectual property – regardless of where it’s created, stored, or shared. Based on the Trusted Data Format (TDF) open standard, the Virtru Data Protection Platform allows users anywhere, on any device, to work the way they do today – without requiring a separate log-in, user interface, or application.\nEnforced through seamless integrations with G Suite, Office 365, and other SaaS business applications, Virtru is offered as a SaaS platform for access control, policy enforcement, and key management.",
         "CSP_POC_Name": "Peter Nancarrow",
