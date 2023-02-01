@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-01-31T05:40:51.127Z",
+    "Created_At": "2023-02-01T05:40:51.056Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -562,15 +562,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2021-08-04T04:00:00.000Z",
-            "Letter_Expiration_Date": "2024-08-26T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-08-26T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Food and Drug Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2021-12-13T05:00:00.000Z",
             "Letter_Expiration_Date": "2024-12-08T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-03-03T05:00:00.000Z",
@@ -593,6 +584,15 @@
             "Authorizing_Agency": "Department of Defense",
             "Authorizing_Subagency": "Defense Information Systems Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-01-25T05:00:00.000Z",
+            "Letter_Expiration_Date": "2026-01-27T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-01-27T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -3819,6 +3819,13 @@
             "Authorizing_Subagency": "Federal Aviation Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2025-01-10T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-11-30T05:00:00.000Z",
+            "Authorizing_Agency": "Environmental Protection Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -6629,13 +6636,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2023-01-31T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-02-07T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Authorizing_Letter_Last_Sign_Date": "2020-07-17T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Treasury",
             "Authorizing_Subagency": "Internal Revenue Service",
@@ -6768,6 +6768,13 @@
             "Authorizing_Agency": "Department of the Interior",
             "Authorizing_Subagency": "DOI Office of the Inspector General",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2026-01-19T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-01-19T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -13804,6 +13811,13 @@
             "Authorizing_Subagency": "Health Resources and Services Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2025-11-10T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-11-30T05:00:00.000Z",
+            "Authorizing_Agency": "Environmental Protection Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -14921,7 +14935,16 @@
         "CSP_POC_Name": "Michael Donham",
         "CSP_POC_Email": "fedramp@egain.com",
         "FedRAMP_In-Process_Date": "2021-06-03T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2023-01-27T05:00:00.000Z",
+            "Letter_Expiration_Date": "2026-01-27T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-01-27T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Datadog",
@@ -17272,7 +17295,7 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Qualys",
+        "Cloud_Service_Provider_Name": "Qualys, Inc.",
         "Cloud_Service_Provider_Package": "Qualys Cloud Platform",
         "Path": "Agency",
         "Designation": "Compliant",
@@ -17939,15 +17962,6 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-06-16T04:00:00.000Z",
             "Authorizing_Agency": "Department of Homeland Security",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2022-03-24T04:00:00.000Z",
-            "Letter_Expiration_Date": "2022-12-10T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-03-24T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Justice",
-            "Authorizing_Subagency": "Drug Enforcement Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -22712,6 +22726,7 @@
         ],
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "High",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Qualys%20Logo3.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "https://www.qualys.com/subscriptions/government/",
         "CSO_Description": "Qualys Government Platform (QGP) consists of a suite of Information Technology (IT) security and compliance solutions delivered via a SaaS deployment model that leverages a highly scalable multi-tenant cloud infrastructure. The below services are part of the QGP platform-                                                        \nVulnerability Management, Detection, and Response (VMDR) service enables customers to discover, assess, prioritize, and patch critical vulnerabilities and misconfigurations in near real-time and across your global hybrid-IT landscape all-in-one subscription. Policy Compliance (PC) service provides the ability to run compliance scans and create compliance reports on hosts (IP addresses) that have been added to the Policy Compliance account. File Integrity Monitoring (FIM) service enables monitoring critical files, directories, and registry paths for changes in near real-time, and helps adhere to compliance mandates such as FedRAMP. Container Security (CS) service provides discovery, tracking, and continuously protecting container environments. Addresses vulnerability management for images and containers in their DevOps pipeline and deployments across cloud and on-premises environments. Certificate View (CertView) service provides a comprehensive view of all the SSL/TLS certificates across the enterprise and cloud-hosted assets. CyberSecurity Asset Management (CSAM) service continuously gathers information on all assets, listing systems and hardware details, running services, open ports, installed software and user accounts. Asset discovery and inventory collection is done through a combination of Qualys Sensors, which together can collect comprehensive data from across on-premises or cloud infrastructure as well as remote endpoints. Web Application Scanning (WAS) service enables organisation's to assess, track and remediate web application vulnerabilities to keep their web applications secure. Patch Management (PM) service is used to patch and apply post-patch configuration changes to operating systems, mobile devices, and 3rd-party applications from a large variety of vendors, all from a central dashboard.",
@@ -22965,6 +22980,30 @@
         "CSP_POC_Name": "Mark Kuhr",
         "CSP_POC_Email": "fedramp@synack.com",
         "FedRAMP_In-Process_Date": "2023-01-04T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Snyk",
+        "Cloud_Service_Provider_Package": "Snyk for Government",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2230451369",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
+        "CSP_URL": "https://www.fedramp.gov/assets/img/logos/CSP_logos/Snyk%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "https://www.snyk.io/",
+        "CSO_Description": "Snyk is the leader in developer security. We empower the world’s developers to build secure applications and equip security teams to meet the demands of the digital world. Our developer-first approach ensures organizations can secure all of the critical components of their applications from code to cloud, leading to increased developer productivity, revenue growth, customer satisfaction, cost savings and an overall improved security posture. Snyk is a Developer Security Platform that automatically integrates with a developer’s workflow and is purpose-built for security teams to collaborate with their development teams.",
+        "CSP_POC_Name": "Ilya Tillis",
+        "CSP_POC_Email": "fedramp@snyk.io",
+        "FedRAMP_In-Process_Date": "2023-01-31T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
