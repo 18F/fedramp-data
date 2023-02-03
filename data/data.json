@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-02-02T05:40:51.256Z",
+    "Created_At": "2023-02-03T05:40:51.286Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -11865,6 +11865,14 @@
             "Authorizing_Agency": "Department of Education",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-02-01T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-02-01T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "Federal Energy Regulatory Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -12131,6 +12139,14 @@
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "Centers for Disease Control and Prevention",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-02-01T05:00:00.000Z",
+            "Letter_Expiration_Date": "2026-02-01T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-02-01T05:00:00.000Z",
+            "Authorizing_Agency": "Social Security Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -22808,6 +22824,7 @@
         "CSO_Description": "Red Hat OpenShift Service on AWS (ROSA) is a fully-managed and jointly supported Red Hat OpenShift offering that combines the power of Red Hat OpenShift, the industry’s most comprehensive enterprise Kubernetes platform, and the AWS cloud. This offering is a FedRAMP High baseline, Platform-as-a-Service (PaaS) cloud service offering for developing and running containerized applications offered on the FedRAMP authorized AWS GovCloud (US). The Red Hat cloud service offering makes use of other Red Hat technology components, such as the OpenShift Container Platform (OCP) and the Red Hat CoreOS (RHCOS) operating system (OS) for containers. The Red Hat federal application is designed to support the mission owner's requirements for both a multi-tenant solution, and as a dedicated tenant solution when data classification requires greater isolation and access controls.",
         "CSP_POC_Name": "Andrew Cathrow",
         "CSP_POC_Email": "fedramp@redhat.com",
+        "Fedramp_Ready_Date": "2022-12-01T05:00:00.000Z",
         "FedRAMP_In-Process_Date": "2022-04-12T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
