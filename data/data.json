@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-02-06T05:40:50.881Z",
+    "Created_At": "2023-02-07T05:40:50.669Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1416,14 +1416,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2022-01-12T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-01-12T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Authorizing_Subagency": "Office of Electricity",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2022-05-02T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-05-02T04:00:00.000Z",
             "Authorizing_Agency": "Department of Commerce",
@@ -1476,6 +1468,15 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "United States Patent and Trademark Office",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-02-03T05:00:00.000Z",
+            "Letter_Expiration_Date": "2026-02-03T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-02-03T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "Office of Electricity",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -3994,6 +3995,14 @@
             "Include_In_Marketplace": "Y"
           },
           {
+            "Letter_Date": "2021-01-25T05:00:00.000Z",
+            "Letter_Expiration_Date": "2024-01-25T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-01-27T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
             "Letter_Date": "2021-11-01T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-11-09T05:00:00.000Z",
             "Authorizing_Agency": "Federal Communications Commission",
@@ -5723,6 +5732,14 @@
             "Authorizing_Agency": "Department of Homeland Security",
             "Authorizing_Subagency": "Transportation Security Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-03-25T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-03-25T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-03-31T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -11930,9 +11947,8 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2023-01-11T05:00:00.000Z",
-            "Letter_Expiration_Date": "2026-01-11T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2023-01-11T05:00:00.000Z",
+            "Letter_Expiration_Date": "2026-02-03T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-02-03T05:00:00.000Z",
             "Authorizing_Agency": "Department of Housing and Urban Development",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHUD-Seal.png",
             "Include_In_Marketplace": "Y"
@@ -17477,36 +17493,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Itamar Medical",
-        "Cloud_Service_Provider_Package": "Itamar Dispatcher Cloud (IDC)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR2212912561",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "LI-SaaS",
-        "Original_Authorization_Date": "2022-06-09T04:00:00.000Z",
-        "Original_Expiration_Date": "2023-06-09T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Veterans Affairs",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-        "Authorizing_Agency": "Department of Veterans Affairs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Itamar%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW",
-          "FR1805751477"
-        ],
-        "CSP_Website": "www.itamar-medical.com",
-        "CSO_Description": "The Itamar Dispatcher Cloud (IDC) supports health care providers conducting home sleep apnea tests utilizing the WatchPATONE®️ device. The provider integrates the IDC APIs into supported patient management systems to initialize WatchPATONE® devices and collect test results. The patients take the sleep study using the device and a proprietary Mobile application that communicates and transfers sleep study data to IDC in a secure manner.",
-        "Announcement_Date": "2022-07-01T04:00:00.000Z",
-        "CSP_POC_Name": "Shiri Shneorson",
-        "CSP_POC_Email": "fedramp@itamar-medical.com",
-        "FedRAMP_In-Process_Date": "2022-03-02T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Gordian",
         "Cloud_Service_Provider_Package": "Gordian Federal Cloud powered by RSMeans Data",
         "Path": "JAB",
@@ -18662,7 +18648,7 @@
         "CSP_Website": "http://www.cisco.com/go/fedramp",
         "CSO_Description": "Cisco Webex® for Government is a FedRAMP authorized powerful and complete collaboration platform that brings everyone together to do exceptional work. With meetings, messaging, calling and events in one platform, collaborating with colleagues is more productive. In real-time or anytime, Webex is engaging, intelligent, and intuitive for office, home and field workers creating exceptional experiences for working together. Webex experiences can be securely extended to colleagues outside of your agency.\n\nWebex for Government provides a modern collaboration experience to government employees delivering superior security features, advanced artificial intelligence, and unmatched reliability that enables workers to communicate with greater productivity. Calling, messaging, and meetings features are available for desktops, web, and mobile applications with the single, easy-to-use Webex app. You also have Integrated experiences in all rooms with Webex Devices. Webex services and devices are managed by Control Hub, a comprehensive management and analytics tool for Webex platforms that enables a lower total cost of ownership.\n\nWith decades of experience in partnering with the Federal Government, Webex provides unparalleled reliability and security for its broad suite of solutions for collaboration in the cloud.",
         "Announcement_Date": "2016-02-02T05:00:00.000Z",
-        "CSP_POC_Name": "Sanjay Khanna",
+        "CSP_POC_Name": "Rahul Dubey",
         "CSP_POC_Email": "collab-usgov@cisco.com",
         "FedRAMP_In-Process_Date": "2015-04-23T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
@@ -20954,6 +20940,36 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Itamar Medical",
+        "Cloud_Service_Provider_Package": "Itamar Dispatcher Cloud (IDC)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2212912561",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "LI-SaaS",
+        "Original_Authorization_Date": "2023-02-02T05:00:00.000Z",
+        "Original_Expiration_Date": "2026-02-01T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Itamar%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "FR1805751477"
+        ],
+        "CSP_Website": "www.itamar-medical.com",
+        "CSO_Description": "The Itamar Dispatcher Cloud (IDC) supports health care providers conducting home sleep apnea tests utilizing the WatchPATONE®️ device. The provider integrates the IDC APIs into supported patient management systems to initialize WatchPATONE® devices and collect test results. The patients take the sleep study using the device and a proprietary Mobile application that communicates and transfers sleep study data to IDC in a secure manner.",
+        "Announcement_Date": "2022-07-01T04:00:00.000Z",
+        "CSP_POC_Name": "Shiri Shneorson",
+        "CSP_POC_Email": "fedramp@itamar-medical.com",
+        "FedRAMP_In-Process_Date": "2022-03-02T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "1901 Group",
         "Cloud_Service_Provider_Package": "in3sight High",
         "Path": "Agency",
@@ -21538,7 +21554,7 @@
         ],
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
-        "CSP_URL": "https://www.fedramp.gov/assets/img/logos/CSP_logos/Cyware%20Logo.png",
+        "CSP_URL": "https://www.fedramp.gov/assets/img/logos/CSP_logos/Cyware%20Logo2.png",
         "Independent_Assessor": "Schellman Compliance, LLC",
         "CSP_Website": "https://cyware.com",
         "CSO_Description": "Cyware Labs, Inc. (Cyware) Cyber Fusion Center (CFC) is an offering of full-stack Cyber security solutions for strategic, tactical, and operational intelligence sharing and threat response automation as well as orchestration services. The CFC consists of four product modules (Cyware Situational Awareness Platform (CSAP), Cyware Threat Intelligence eXchange (CTIX), Cyware Fusion and Threat Response (CFTR), and Cyware Security Orchestration Layer (CSOL)).\n* Cyware Situational Awareness Platform (CSAP): A mobile-enabled automated alert aggregation, dissemination, and strategic threat intelligence sharing platform for real-time situational awareness and enhanced collaboration between an organization’s security teams. Features include machine-to-machine orchestration, machine-to-human orchestration, human-to-machine orchestration, role, location, and business alignment-based alerting, Cyware alerts, mobile-enabled intel sharing, macro intel ingestion, and crisis notifications.\n* Cyware Threat Intelligence eXchange (CTIX): A smart, client-server threat intelligence platform (TIP) for ingestion, enrichment, analysis, and bi-directional sharing of threat data within an organization’s trusted network. Features include any-to-any threat feed orchestration, micro threat intel ingestion, a hub & spoke sharing model, enrichment, correlation, and analysis of data, internal intel ingestion, automated intel actioning, and a multi-level intel view.\n* Cyware Fusion and Threat Response (CFTR): A threat response automation platform that combines cyber fusion, advanced orchestration, and automation to stay ahead of increasingly sophisticated cyber threats affecting organizations in real-time. Features include malware management, a connect-the-dots threat analysis, incident response & management, triage management, threat actor tracking engine, vulnerability management, custom dashboards and reports, and a case management workflow.\n* Cyware Security Orchestration Layer (CSOL): A universal, security orchestration gateway for executing on-demand or event-triggered tasks across deployment environments. Features include flexible API, system playbooks, powerful customization, audit playbook extensions, the ability to export and import logic, nested playbooks, and granular access control.",
@@ -22045,7 +22061,7 @@
         "Independent_Assessor": "Lunarline, Inc.",
         "CSP_Website": "https://www.knightscope.com/",
         "CSO_Description": "The Knightscope Autonomous Security Robot (ASR) is a fully\rautonomous security robot equipped with four (4) cameras, microphones, and\rspeakers, for 360-degree video and audio. The ASRs navigate the area(s) of\roperation autonomously and stream live video back to the user via a web\rbrowser. The ASRs run 24/7 on its own including autonomously recharging itself\rwithout any human intervention have the following capabilities:\n* People Detection – The ASR can detect people by time and location.\r* License Plate Recognition – The ASR can identify and detect license\rplates.\r* Thermal Imaging – Equipped with a FLIR thermal camera, the ASR can\rmonitor for heat anomalies above a pre-determined temperature.\r* Audio – The ASR can be used to broadcast pre-recorded or custom audio\rmessages and initiate a live intercom call.\nThe core platform of Knightscope ASR is the Knightscope Security Operations\rCenter (KSOC), a fully functional, browser-based user interface included with\revery subscription which allows customers to access ASR fleet information\raround the clock. Customers can use the KSOC interface to:\n* View current ASR locations\r* Access live (or recorded) video and audio from an ASR\r* Select pre-determined patrol routes (for mobile ASRs)\r* Broadcast pre-recorded or custom audio messages through an ASR,\rusing an intercom chat function or a phone call over a live channel, or\rsound an alarm\r* View alerts\nAlerts can be configured to trigger based on pre-defined criteria, such as\rdetection of any person or identification of a specific license plate. In the event of\ran alert, KSOC can send email messages, text messages, or voice messages to\rnotify designated people about the event. The notifications contain limited\rinformation informing the user that an event has been detected by the ASR. Any\rforensic data related to the event, including a snapshot, date and time, and\rlocation must be viewed within KSOC.",
-        "CSP_POC_Name": "Chris Reider",
+        "CSP_POC_Name": "Jason Gonzalez",
         "CSP_POC_Email": "security@knightscope.com",
         "FedRAMP_In-Process_Date": "2022-05-18T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
@@ -22674,7 +22690,7 @@
         "CSO_Description": "Pexip Government Cloud is a SaaS-based video teleconferencing (VTC) solution for U.S. federal, state, and local government organizations. With Pexip, government customers can augment their existing on-premise VTC infrastructure with a subscription-based service model while retaining ownership of their specific endpoint dial plan and call control routing rules. By migrating to an SaaS or hybrid service model, government organizations maintain operational control of their endpoints and systems without incurring the long-term costs of developing and maintaining additional infrastructure.\nPexip Government Cloud’s secure VTC platform brings the modernized meeting experience to the government user base in the following ways:\n* **Microsoft-certified Cloud Video Interoperability (CVI) for Microsoft Teams**, which helps agencies securely collaborate on Microsoft Teams in their hybrid workplace. With Pexip Government Cloud, employees can join Microsoft Teams calls from their existing standards-based meeting room video systems as well as enterprise-class standards-based soft clients.\n* **Standards-based Virtual Meeting Rooms (VMRs)** for customer VTC endpoint devices and clients, featuring Pexip’s native CMVP-validated FIPS 140-2 encryption suite.\n* **Self-hosted platform integration** for hybrid VTC deployments. Pexip Government Cloud may serve as an extension of the customer’s existing self-hosted platform, enabling VTC system integration with enterprise third-party applications and global policy frameworks such as Zero Trust Architecture (ZTA) and Secure Access Service Edge (SASE).",
         "CSP_POC_Name": "Joel Bilheimer",
         "CSP_POC_Email": "fedramp@pexgov.com",
-        "FedRAMP_In-Process_Date": "2022-01-25T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2022-09-26T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
