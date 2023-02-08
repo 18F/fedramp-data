@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-02-07T05:40:50.669Z",
+    "Created_At": "2023-02-08T05:40:53.043Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3660,7 +3660,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
         "Authorizing_Agency": "Federal Housing Finance Agency",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Everbridge%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW",
           "FR1912658130",
@@ -4457,8 +4457,8 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "FireEye, Inc.",
-        "Cloud_Service_Provider_Package": "FireEye Email Security GovCloud",
+        "Cloud_Service_Provider_Name": "Trellix",
+        "Cloud_Service_Provider_Package": "Trellix Email Security GovCloud",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "F1512017637",
@@ -4471,17 +4471,17 @@
         "Sponsoring_Agency": "Department of the Interior",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
         "Authorizing_Agency": "National Science Foundation",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/FireEye%20Logo2.png",
-        "Independent_Assessor": "Schellman Compliance, LLC",
+        "CSP_URL": "https://www.fedramp.gov/assets/img/logos/CSP_logos/Trellix%20Logo.png",
+        "Independent_Assessor": "Fortreum, LLC",
         "Underlying_CSP_Package_ID": [
           "F1603047866",
           "MSO365MT"
         ],
         "CSP_Website": "Trellix.com",
-        "CSO_Description": "Reduce the risk of a breach and keep your organization safe from the ever-growing threat of malicious email attacks. FireEye Email Security – GovCloud Edition stops email-borne threats with first-hand knowledge of attacks and attackers before they can cause any harm.\rWith the use of email specific threat intelligence gained from firsthand investigations and observations of adversaries, the solution identifies threats with minimal noise and false positives. This frees security teams to focus on investigating and responding to real attacks and allows them to use scarce resources efficiently.\rFireEye Email Security – GovCloud Edition enables organizations to consolidate their email security stack with a comprehensive, single-vendor solution that blocks not only malware and suspicious URLs, but also advanced threats, such as impersonation attacks and phishing, leaving attackers no chance to take advantage of email users.",
+        "CSO_Description": "The Trellix ESC GovCloud is a SaaS offering that provides advanced protections against modern sophisticated email attacks. ESC GovCloud consolidates advanced threat prevention with traditional Email Anti-Spam and Anti-Virus security to optimize spending, reduce false positives, and enable operational efficiencies through consolidation. ESC GovCloud can be deployed in line to analyze emails and quarantine threats for active protection, or as a passive monitor for ‘bcc’ type review of each email.\n\nWith no hardware or software to install, the ESC GovCloud is a particularly good fit for organizations seeking to move their infrastructure into the cloud. This eliminates the complexity of procuring, installing, and managing a physical infrastructure. ESC GovCloud provides organizations several unique capabilities, such as:\n\n* Identifying previous targets of spear-phishing, impersonation, virus and spam emails\n* Locating copies of the malicious email in target inboxes\n* Finding out if the message is being forwarded to new targets\n* Detection of advanced malicious URL threats\n* The ESC Portal shows region- and industry-based malware trends, has customizable security policies, RBAC, and audit logging.\n\n Organizations face an ever-increasing number of threats from email-based spam, viruses, and advanced threats. ESC GovCloud uses the signature-less Trellix Multi-vector Virtual Execution™ (MVX) engine to analyze every attachment and URL within emails to detect threats and stop advanced attacks in real-time. Today’s advanced attacks use email as a primary delivery mechanism for malicious content. While some attacks use an attachment with embedded malicious code, it is common for cybercriminals to use a malicious link thereby blending attack tactics in the hopes of bypassing today’s traditional defense silos. ESC GovCloud uses the cloud-based MVX engine to detonate email attachments against a cross-matrix of operating systems and applications, including multiple Web browsers and plug-ins like Adobe Reader and Flash. To block spear-phishing emails, ESC GovCloud analyzes every attachment using the MVX engine to accurately identify today’s advanced attacks.\n\nESC GovCloud includes anti-virus and anti-spam engines and may also be paired with an organization’s existing anti-virus and anti-spam email gateways.",
         "Announcement_Date": "2017-07-05T04:00:00.000Z",
-        "CSP_POC_Name": "Patrick McEnany",
-        "CSP_POC_Email": "patrick.mcenany@trellix.com",
+        "CSP_POC_Name": "Karan Sondhi",
+        "CSP_POC_Email": "karan.sondhi@trellix.com",
         "FedRAMP_In-Process_Date": "2015-12-02T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
@@ -22740,29 +22740,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Proofpoint, Inc.",
-        "Cloud_Service_Provider_Package": "Proofpoint Security Awareness Training",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR1916744879",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Commerce",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-        "Authorizing_Agency": "Department of Commerce",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Proofpoint%20Logo%202.png",
-        "Independent_Assessor": "Schellman Compliance, LLC",
-        "CSP_Website": "https://www.proofpoint.com/us/product-family/security-awareness-training",
-        "CSO_Description": "Proofpoint's security awareness training SaaS solutions engage your end users and arm them against real-world cyber attacks, using personalized training based on our industry-leading threat intelligence. We offer a variety of assessments, training, and email reporting and analysis tools to deliver the right training to the right people at the right time. Customers using our solutions have reduced successful phishing attacks and malware infections by up to 90%.",
-        "CSP_POC_Name": "Proofpoint Security Awareness Training",
-        "CSP_POC_Email": "sat-fedramp@proofpoint.com",
-        "FedRAMP_In-Process_Date": "2022-02-11T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Project Hosts Inc.",
         "Cloud_Service_Provider_Package": "GSS One- AWS",
         "Designation": "FedRAMP Ready",
@@ -22888,7 +22865,7 @@
         "CSO_Description": "ROSALIND is a multi-tenant SaaS solution for bioinformatics analyses, COVID diagnostic monitoring, knowledge management, and scientific collaboration. As a cloud-based software platform, ROSALIND provides a web interface for scientists and researchers to securely analyze and interpret datasets. Rosalind provides two web-based solutions, ROSALIND DxM and ROSALIND Research. Both operate in a visual manner and do not require command-line programming, cloud infrastructure setup, or bioinformatics pipeline development.\r**ROSALIND DxM** provides real-time SARS-CoV-2 variant surveillance and diagnostic monitoring incorporating international viral sequence data. DxM also includes a comprehensive BioBank of SARS-CoV-2 specimens with sample tracking and workflow management for test panel creation, panel blinding, and results submission across participating labs and organizations.\r**ROSALIND Research** provides visual analysis, interpretation, and cloud-based data sharing of genomic datasets produced with Next Generation Sequencing (NGS), NanoString instruments, and other multi-omic methods. ROSALIND Research features analysis pipelines for gene expression and gene regulation studies, including Single-Cell RNA-seq, bulk RNA-seq, miRNA-seq, ATAC-seq, ChIP-seq, and Proteomics.\rRosalind uses knowledge graphs to securely store institutional data as searchable libraries while enabling permissions-based data sharing between authorized users and across institutions.",
         "CSP_POC_Name": "Tim Wesselman",
         "CSP_POC_Email": "fedramp@rosalind.bio",
-        "FedRAMP_In-Process_Date": "2022-02-08T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2022-08-26T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
