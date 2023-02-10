@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-02-09T05:40:52.244Z",
+    "Created_At": "2023-02-10T05:40:51.471Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -14152,6 +14152,15 @@
             "Authorizing_Agency": "Department of Education",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-02-02T05:00:00.000Z",
+            "Letter_Expiration_Date": "2026-02-08T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-02-08T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -20517,7 +20526,15 @@
         "CSP_POC_Name": "Aron Nakazato",
         "CSP_POC_Email": "fedramp-team@cloudflare.com",
         "FedRAMP_In-Process_Date": "2022-05-26T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2023-02-01T05:00:00.000Z",
+            "Letter_Expiration_Date": "2026-02-01T05:00:00.000Z",
+            "Authorizing_Agency": "U.S. Election Assistance Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/EAC%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Bluescape",
@@ -20611,8 +20628,8 @@
         "CSP_Website": "https://www.softwareaggov.com",
         "CSO_Description": "Software AG Government Cloud is a PaaS provider for Software AG’s family of products including: \n\n* The API Management and Integration Platform, webMethods, including API Gateway, Developer Portal, and MFT (Managed File Transfer).\n* The Enterprise Architecture and IT Planning and Portfolio Management solutions, Alfabet and ARIS.\n* The Process Analysis, Mining, and Simulation solution, ARIS Process Mining (APM)\n* The Data Ops Platform, StreamSets, including the StreamSets Control Hub.\n\n**Platform Implementation Details:** \n\n* Fast deployment into our Government Cloud at FedRAMP Moderate.\n* Central contact point for all issues including hosting, software deployment, and end-user support.\n* Single Tenant deployments per customer providing peace of mind security while avoiding multi-tenant headaches.\n* Shared US based, Help Desk, Security, and Operations Staff to optimize cost and skillset management.\n* Single-Sign-On Capability leveraging approved SAML providers supporting PIV/CAC authentication.\n* Environment provisioning and operations exceeding NIST 800-53 Rev 4 FedRAMP Moderate.\n* Advanced logging, metrics, and dashboards.\n* Container based implementations utilizing Kubernetes, modern toolsets, and zero trust networking.\n* All US Person staff and management  \n\n**Platform Benefits:** \n\n* Faster time-to-value for the mission.\n* Well-defined tenant boundary for streamlined agency ATO signoff.\n* Simplified cost structure removing separate costs for hardware, software and hosting removing capital funding requirements.\n* Reduced training and staffing requirements for software configuration and patch/upgrade cycles.\n* Pre-configured government tailored templates and accelerators.",
         "Announcement_Date": "2020-07-09T04:00:00.000Z",
-        "CSP_POC_Name": "Jeff Estes",
-        "CSP_POC_Email": "fedramp@softwareaggov.com",
+        "CSP_POC_Name": "FedRAMP Account Team",
+        "CSP_POC_Email": "info@softwareaggov.com",
         "FedRAMP_In-Process_Date": "2019-11-05T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
@@ -22493,7 +22510,7 @@
         "Independent_Assessor": "Lunarline Inc",
         "CSP_Website": "http://www.projnet.com/",
         "CSO_Description": "ProjNet™ is a suite of construction design, communication and database tools that enable owners to better manage design review through improved document exchange and examination, inquiry, comment, record storage and issue resolution among all authorized project business partners. ",
-        "CSP_POC_Name": "Joshua Krueger ",
+        "CSP_POC_Name": "Dominique Fernandez",
         "CSP_POC_Email": "dfernandez@nibs.org",
         "FedRAMP_In-Process_Date": "2023-02-08T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
