@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-02-16T05:40:51.011Z",
+    "Created_At": "2023-02-17T05:40:51.205Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2083,6 +2083,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-11-01T04:00:00.000Z",
             "Authorizing_Agency": "Social Security Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SocialSecurityAdmin-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-02-15T05:00:00.000Z",
+            "Letter_Expiration_Date": "2023-08-16T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-02-16T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -4258,7 +4266,7 @@
           "FR1807853629"
         ],
         "CSP_Website": "https://www.databank.com/",
-        "CSO_Description": "Edge’s CloudPlus transforms traditional enterprise applications delivering secure FedRAMP complaint 100% uptime cloud hosting solutions. Focused on public, dedicated private, and hybrid Cloud computing platforms designed to meet a wide range regulatory requirements including FISMA, FedRAMP, HIPAA and PCI.\nSaaS providers, federal agencies and System Integrators who require FedRAMP can significantly lower operating costs, eliminate capital expenditures and drastically improve service delivery at a predictable monthly cost. By combining the latest scalable Cloud technology Edge can you reduce the time it takes to adopt new cloud IT capabilities. CloudPlus delivers highly availability and secured cloud hosting, which includes monitoring, backups and recovery and 24x7x365 technical support.\nCloudPlus includes all of the hardware infrastructure, software licenses, bandwidth, load balancers, clustering infrastructure, storage, security software and tools along with the experts responsible for installing, configuring and maintaining global scale application platforms with support for the majority of Windows and Linux application stacks and database platforms.\nPartnered with a number of purchasing vehicles to make cloud procurement easy.",
+        "CSO_Description": "DataBank’s CloudPlus transforms traditional enterprise applications delivering secure FedRAMP compliant 100% uptime cloud hosting solutions. Focused on public, dedicated private, and hybrid Cloud computing platforms designed to meet a wide range regulatory requirements including FISMA, FedRAMP, HIPAA and PCI.\nSaaS providers, federal agencies and System Integrators who require FedRAMP can significantly lower operating costs, eliminate capital expenditures and drastically improve service delivery at a predictable monthly cost. By combining the latest scalable Cloud technology DataBank can help you reduce the time it takes to adopt new cloud IT capabilities. CloudPlus delivers highly available and secured cloud hosting, which includes monitoring, backups and recovery and 24x7x365 technical support. CloudPlus includes all of the hardware infrastructure, software licenses, bandwidth, load balancers, clustering infrastructure, storage, security software and tools along with the experts responsible for installing, configuring and maintaining global scale application platforms with support for the majority of Windows and Linux application stacks and database platforms. Partnered with a number of purchasing vehicles to make cloud procurement easy.",
         "Announcement_Date": "2018-06-08T04:00:00.000Z",
         "CSP_POC_Name": "Mark A. Houpt",
         "CSP_POC_Email": "Compliance@DataBank.com",
@@ -12774,6 +12782,13 @@
             "Authorizing_Subagency": "Federal Student Aid",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2022-12-19T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Internal Revenue Service",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -12828,7 +12843,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CoSo%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "https://www.cosocloud.com",
-        "CSO_Description": "The CoSo Cloud FedRAMP Managed Service Platform (FMSP) supports the latest versions of Adobe Connect and Adobe Learning Manager (ALM)\nCoSo’s powerful and proven platform, enables government agencies to conduct their high-consequence virtual meetings and training with 99.99% service level uptime guarantees, providing confidence in a trusted FedRAMP Moderate secure environment. \n* **Adobe Connect** is designed for immersive online meeting experiences for training, large scale webinars, and virtual classrooms.\n* **Adobe Learning Manager (ALM)** is a Learning Management System that enables Learning and Development teams to drive personalized learning experiences for their organization across multiple devices.\nMultiple Federal agencies rely on the CoSo platform to facilitate interagency crisis-communications and manage complex eLearning programs amongst multiple distributed stakeholders. CoSo’s managed services include 24 X 7 X 365 global support with white glove services for purpose-built custom configurations to support a variety of customer use cases.",
+        "CSO_Description": "The CoSo Cloud FedRAMP Managed Service Platform (FMSP) supports the latest versions of Adobe Connect and Adobe Learning Manager (ALM)\nCoSo’s powerful and proven platform, enables government agencies to conduct their high-consequence virtual meetings and training with 99.99% service level uptime guarantees, providing confidence in a trusted FedRAMP Moderate secure environment. \n* **Adobe Connect** is designed for immersive online meeting experiences for training, large scale webinars, and virtual classrooms.\n* **Adobe Learning Manager (ALM)** is a Learning Management System that enables Learning and Development teams to drive personalized learning experiences for their organization across multiple devices.\n\nMultiple Federal agencies rely on the CoSo platform to facilitate interagency crisis-communications and manage complex eLearning programs amongst multiple distributed stakeholders. CoSo’s managed services include 24 X 7 X 365 global support with white glove services for purpose-built custom configurations to support a variety of customer use cases.",
         "Announcement_Date": "2017-06-21T04:00:00.000Z",
         "CSP_POC_Name": "David Thompson",
         "CSP_POC_Email": "security@cosocloud.com",
@@ -16976,7 +16991,14 @@
         "CSP_POC_Name": "Larry Jennings",
         "CSP_POC_Email": "fedramp@yello.co",
         "FedRAMP_In-Process_Date": "2021-04-13T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
+        "Leveraged_ATO_Letters": [
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2023-02-06T05:00:00.000Z",
+            "Authorizing_Agency": "National Labor Relations Board",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/National_Labor_Relations_Board_logo_-_color.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "CFI Group",
@@ -22702,7 +22724,7 @@
         "CSO_Description": "Okta IDaaS Government High Cloud (GHC) service offering provides centralized identity and access management capabilities to customers who want to manage access across any application or device, whether they are on-premise in the customer’s office/data center or in the cloud. Okta IDaaS GHC service provides several important capabilities, including:\n* Okta Identity Engine (OIE)\r* Okta Access Gateway (OAG)\r* Okta Multi-factor authentication (MFA)\r* Okta Adaptive MFA (AMFA)\r* Okta Single Sign-On (SSO)\r* Okta Verify\r* Okta API Integration",
         "CSP_POC_Name": "Sean Frazier",
         "CSP_POC_Email": "fedramp@okta.com",
-        "FedRAMP_In-Process_Date": "2022-02-17T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2022-09-19T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -23199,7 +23221,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Snowflake Inc.",
-        "Cloud_Service_Provider_Package": "The Data Cloud on AWS GovCloud",
+        "Cloud_Service_Provider_Package": "The Data Cloud on AWS GovCloud (High)",
         "Path": "Agency",
         "Designation": "In Process",
         "Package_ID": "FR2308159208",
