@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-02-22T05:42:09.564Z",
+    "Created_At": "2023-02-23T05:40:50.781Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -10905,6 +10905,14 @@
             "Authorizing_Agency": "United States Agency for International Development",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-02-17T05:00:00.000Z",
+            "Letter_Expiration_Date": "2026-02-21T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-02-21T05:00:00.000Z",
+            "Authorizing_Agency": "Nuclear Regulatory Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -11398,14 +11406,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2023-01-31T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-07-31T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "Transportation Security Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2024-05-07T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-05-07T04:00:00.000Z",
             "Authorizing_Agency": "Office of Personnel Management",
@@ -11663,6 +11663,15 @@
             "Authorizing_Agency": "Federal Retirement Thrift Investment Board",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRTIB%20Logo.jpg",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-01-27T05:00:00.000Z",
+            "Letter_Expiration_Date": "2024-07-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-01-27T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Transport Security Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -11818,7 +11827,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Palo Alto Networks, Inc.",
-        "Cloud_Service_Provider_Package": "Palo Alto Networks Government Cloud Services (now including Prisma Access and WildFire)",
+        "Cloud_Service_Provider_Package": "Palo Alto Networks Government Cloud Services",
         "Path": "Agency",
         "Designation": "Compliant",
         "Package_ID": "FR1913470600",
@@ -11838,11 +11847,11 @@
           "FR1805751477",
           "F1512167750"
         ],
-        "CSP_Website": "www.paloaltonetworks.com",
-        "CSO_Description": "Palo Alto Networks Government Cloud Services include a variety of cloud-based cybersecurity offerings, including WildFire, Cortex XDR, Cortex Data Lake, Prisma Access, Prisma Cloud, and Cloud Identity Engine. WildFire Government Cloud threat analysis service is an analysis and prevention engine for highly evasive zero-day exploits and malware. The cloud-based service employs a unique multi-technique approach combining dynamic and static analysis and innovative machine learning techniques to detect and prevent even the most evasive threats. It is a subscription service that works with the Palo Alto Networks Next Generation Firewalls (including VM-Series and CN-Series), Prisma Access, Prisma Cloud and Cortex XDR.\nCortex XDR is an extended prevention, detection and response platform that integrates network, endpoint and cloud data to stop sophisticated attacks. '\nCortex Data Lake collects, normalizes, and integrates data from Palo Alto Networks products with public cloud scale. Prisma Access is a Secure Access Service Edge (SASE) that provides scalable, cloud-delivered networking and security to branch offices and remote users. With Prisma Access, agencies are able to rapidly enable consistent, secure connectivity for remote locations and employees.\nPrisma Cloud is a cloud native security platform that provides comprehensive visibility, threat prevention, compliance assurance and data protection consistently across hybrid and multi-cloud environments.\nCloud Identity Engine - Identity-based security controls are a foundational requirement to achieve Zero Trust. Palo Alto Networks Cloud Identity Engine is an entirely new cloud-based architecture for identity-based security that can consistently authenticate and authorize your users, regardless of location and where user identity stores live—on-premises, in the cloud, or hybrid. As a result, security teams can effortlessly allow all users access to applications and data everywhere and quickly move toward a Zero Trust security posture.",
+        "CSP_Website": "http://www.paloaltonetworks.com/",
+        "CSO_Description": "Palo Alto Networks Government Cloud Services include a variety of cloud-based cybersecurity offerings, including WildFire, Cortex XSIAM, Cortex XDR, Cortex XSOAR, Cortex Expander, Cortex Data Lake, Prisma Access, Prisma Cloud, Cloud Identity Engine, and IoT Security. \n\n\nWildFire Government Cloud threat analysis service is an analysis and prevention engine for highly evasive zero-day exploits and malware. The cloud-based service employs a unique multi-technique approach combining dynamic and static analysis and innovative machine learning techniques to detect and prevent even the most evasive threats. It is a subscription service that works with the Palo Alto Networks Next Generation Firewalls (including VM-Series and CN-Series), Prisma Access, Prisma Cloud, Cortex XSIAM, and Cortex XDR. \n\n\nCortex XDR is a cloud-based service providing a prevention, detection and response platform that integrates network, endpoint, and cloud data to stop sophisticated attacks. Cortex XDR leverages logs, alerts, and information from Palo Alto Networks and third-party security products. It also enforces security policies on endpoints, preventing malware and data loss. Cortex XDR correlates security alerts and network logs with the endpoint processes that generated the alerts, allowing customers to investigate security alerts, as well as search for and remotely respond to threats. \n\n\nCortex XSOAR is a comprehensive security orchestration, automation, and response (SOAR) platform that unifies case management, automation, real-time collaboration, and threat intelligence management to serve security teams across the incident lifecycle. \n\n\nCortex XSIAM is a cloud-delivered, integrated SOC platform that unifies key functions, including EDR, XDR, SOAR, ASM, UEBA, TIP, and SIEM, consolidating multiple products into a single, integrated platform. XSIAM delivers an intelligent data foundation by integrating telemetry from any source, providing unified security operations across any hybrid IT architecture. \n\n\nCortex Xpanse is an active attack surface management solution that helps your organization discover, understand and respond to unknown risks in all internet-connected systems and services. Xpanse scans the entire internet automatically and continuously, discovering and indexing previously unknown risks, using supervised ML models to continuously map your attack surface and prioritize remediation efforts, while reducing MTTR with the help of built-in automated playbooks.\n\n\nCortex Data Lake collects, normalizes, and integrates data from Palo Alto Networks products with public cloud scale. \n\n\nPrisma Access is a Secure Access Service Edge (SASE) that provides scalable, cloud-delivered networking and security to branch offices and remote users. With Prisma Access, agencies are able to rapidly enable consistent, secure connectivity for remote locations and employees. \n\n\nPrisma Cloud is a cloud native security platform that provides comprehensive visibility, threat prevention, compliance assurance and data protection consistently across hybrid and multi-cloud environments. \n\n\nCloud Identity Engine - Identity-based security controls are a foundational requirement to achieve Zero Trust. Palo Alto Networks Cloud Identity Engine is an entirely new cloud-based architecture for identity-based security that can consistently authenticate and authorize your users, regardless of location and where user identity stores live—on-premises, in the cloud, or hybrid. As a result, security teams can effortlessly allow all users access to applications and data everywhere and quickly move toward a Zero Trust security posture.  \n\nIoT Security protects your IoT attack surface with the industry’s smartest IoT Security solution delivering ML-powered visibility, prevention, and zero-trust enforcement in a single platform.",
         "Announcement_Date": "2021-01-21T05:00:00.000Z",
-        "CSP_POC_Name": "Brad Bartholomew",
-        "CSP_POC_Email": "fedramp@paloaltonetworks.com",
+        "CSP_POC_Name": "Ravi Jagannathan",
+        "CSP_POC_Email": "rjagannathan@paloaltonetworks.com",
         "FedRAMP_In-Process_Date": "2019-11-07T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
@@ -11885,6 +11894,14 @@
             "Authorizing_Agency": "Department of Energy",
             "Authorizing_Subagency": "National Nuclear Security Administration / Nevada Field Office",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-04-08T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-04-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-04-08T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -13128,7 +13145,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
         "Authorizing_Agency": "Department of Veterans Affairs",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Amplifire%20Logo.png",
-        "Independent_Assessor": "Lunarline, Inc.",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW"
         ],
@@ -14068,6 +14085,15 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "United States Patent and Trademark Office",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-02-08T05:00:00.000Z",
+            "Letter_Expiration_Date": "2026-02-10T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-02-10T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Alcohol and Tobacco Tax and Trade Bureau ",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -15389,38 +15415,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Palo Alto Networks, Inc.",
-        "Cloud_Service_Provider_Package": "IoT Security (Formerly ZingBox)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1831150485",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2021-04-08T04:00:00.000Z",
-        "Original_Expiration_Date": "2024-04-07T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Veterans Affairs",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-        "Authorizing_Agency": "Department of Veterans Affairs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Palo%20Alto%20Logo.png",
-        "Independent_Assessor": "Fortreum, LLC",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW",
-          "F1206081364",
-          "F1512167750",
-          "FR1913470600"
-        ],
-        "CSP_Website": "www.paloaltonetworks.com",
-        "CSO_Description": "Protect your IoT attack surface with the industry’s smartest IoT Security solution delivering ML-powered visibility, prevention, and zero-trust enforcement in a single platform.",
-        "Announcement_Date": "2022-02-09T05:00:00.000Z",
-        "CSP_POC_Name": "Brad Bartholomew",
-        "CSP_POC_Email": "fedramp@paloaltonetworks.com",
-        "FedRAMP_In-Process_Date": "2021-04-08T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Wellspring Worldwide, Inc.",
         "Cloud_Service_Provider_Package": "Sophia Knowledge Management System",
         "Path": "Agency",
@@ -15611,6 +15605,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-12-09T05:00:00.000Z",
             "Authorizing_Agency": "Department of the Interior",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-02-17T05:00:00.000Z",
+            "Letter_Expiration_Date": "2026-02-21T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-02-21T05:00:00.000Z",
+            "Authorizing_Agency": "Nuclear Regulatory Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -16304,6 +16306,15 @@
             "Authorizing_Agency": "Department of the Interior",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-02-21T05:00:00.000Z",
+            "Letter_Expiration_Date": "2025-01-27T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-02-21T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Information Systems Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -16816,6 +16827,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-04-18T04:00:00.000Z",
             "Authorizing_Agency": "General Services Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-02-17T05:00:00.000Z",
+            "Letter_Expiration_Date": "2026-02-21T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-02-21T05:00:00.000Z",
+            "Authorizing_Agency": "Nuclear Regulatory Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -23295,6 +23314,30 @@
         "CSP_POC_Name": "Ilya Tillis",
         "CSP_POC_Email": "fedramp@snyk.io",
         "FedRAMP_In-Process_Date": "2023-01-31T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Splunk Inc",
+        "Cloud_Service_Provider_Package": "Splunk Cloud Fed",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2314156865",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Sponsoring_Agency": "Department of Commerce",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+        "Authorizing_Agency": "Department of Commerce",
+        "Authorizing_Subagency": "Bureau of Industry and Security",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Splunk%20Logo.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "CSP_Website": "www.splunk.com",
+        "CSO_Description": "Splunk Cloud provides operational intelligence capabilities to organizations around the world. It provides an easy and fast way to analyze the massive streams of machine-generated data coming from IT systems and applications, wherever they are deployed—on-premises, in virtualized environments or in the cloud. Splunk Cloud delivers the Splunk Enterprise software in a cloud environment where the setup and management of the support infrastructure is performed by Splunk Cloud Operations. Splunk Enterprise is a software platform to search, analyze, and visualize the machine-generated data gathered from the websites, applications, sensors, devices, and so on, that comprise your IT infrastructure or business. After you define the data source, Splunk Cloud indexes the data stream and parses it into a series of individual events that you can view and search. Organizations may use the search processing language or the interactive pivot feature to create reports and visualizations.",
+        "CSP_POC_Name": "Paul Romano",
+        "CSP_POC_Email": "ssg-splunkcloudfedsupport@splunk.com",
+        "FedRAMP_In-Process_Date": "2023-02-22T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
