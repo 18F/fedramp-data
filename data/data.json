@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-02-24T05:40:51.865Z",
+    "Created_At": "2023-02-25T05:40:51.869Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2239,14 +2239,6 @@
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "Health Resources and Services Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2023-01-11T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-01-11T05:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Authorizing_Subagency": "Interior Business Center",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -7267,8 +7259,8 @@
         "CSP_Website": "https://www.ibm.com/cloud/federal",
         "CSO_Description": "Agency Customers: Agencies should fully understand the functions provided by the service offering. Please note the specific responsibilities for both the customer and cloud service provider associated with the PaaS. The delineation of these responsibilities can be found in the security authorization package within the Customer Implementation Summary (CIS) Workbook and System Security Plan (SSP).\nIBM Cloud for Government is a high performance, high security Cloud, providing both Infrastructure and Platform Cloud Services. IBM Cloud for Government delivers seamless integrated computing environments across multiple data centers. IBM integrates and automates infrastructure and platform services empowering federal agencies with complete control, security, scalability and ease-of-management via an Agency Portal and Secure Open API. The Agency portal and API provide administrators and developers with direct access to more than 100 backend systems, services and activities. IBM Cloud for Government is designed for optimized network management, various performance levels and enhanced security. It provides automated provisioning of services in public, private, and hybrid cloud offerings with quick and easy access to developer tools. Services include orchestration of bare metal and virtual servers, networking services, VMWare, and development tools such as with object storage, auto scaling, and load balancing.",
         "Announcement_Date": "2019-11-14T05:00:00.000Z",
-        "CSP_POC_Name": "Julie Bitzer",
-        "CSP_POC_Email": "jbitzer@us.ibm.com",
+        "CSP_POC_Name": "Nikhil Radheshwar",
+        "CSP_POC_Email": "radikil@us.ibm.com",
         "FedRAMP_In-Process_Date": "2018-05-04T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
@@ -17415,16 +17407,7 @@
         "CSP_POC_Name": "Clifton H. Poole",
         "CSP_POC_Email": "securityteam@unisonglobal.com",
         "FedRAMP_In-Process_Date": "2015-10-20T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Expiration_Date": "2023-01-11T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-01-11T05:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Authorizing_Subagency": "Interior Business Center",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
+        "Leveraged_ATO_Letters": []
       },
       {
         "Cloud_Service_Provider_Name": "Seven Bridges Genomics, Inc",
@@ -19993,6 +19976,14 @@
             "Authorizing_Subagency": "Food and Drug Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-02-14T05:00:00.000Z",
+            "Letter_Expiration_Date": "2026-02-13T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-02-13T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Labor",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -21873,25 +21864,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Eightfold AI Inc.",
-        "Cloud_Service_Provider_Package": "Eightfold Talent Intelligence Platform (TIP)",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR2016962740",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Eightfold%20Logo.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "CSP_Website": "https://eightfold.ai/",
-        "CSO_Description": "Eightfold provides a Talent Intelligence Platform built on Artificial Intelligence that enables governmental agencies to increase productivity and fight bias in their talent acquisition efforts and internal talent management. Eightfold’s deep learning AI platform empowers agencies to reduce the overall time and cost to hire, surface existing skill inventories to facilitate workforce planning, provide employees abilities to self-service their career planning, achieve diversity hiring goals, and optimize career search for job seekers. To that end, Eightfold offers two sets of services: one set for agency oriented solutions for talent acquisition and management, and the other set for citizen oriented solutions to enable the government to improve employment. Eightfold allows agencies to select modules based on their goals and mission. These modules include: workforce recruiting, workforce management, workforce mobility, and workforce marketplace",
-        "CSP_POC_Name": "Chris Mullaney",
-        "CSP_POC_Email": "fedramp@eightfold.ai",
-        "Fedramp_Ready_Date": "2022-02-24T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Equifax",
         "Cloud_Service_Provider_Package": "Equifax Government Data Exchange (EGDE)",
         "Designation": "FedRAMP Ready",
@@ -22983,25 +22955,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Quzara, LLC.",
-        "Cloud_Service_Provider_Package": "Quzara Cybertorch™ (Soc-as-a-Service)",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR2214150164",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "High",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Quzara%20Logo.png",
-        "Independent_Assessor": "Schellman Compliance, LLC",
-        "CSP_Website": "https://www.cybertorch.com/",
-        "CSO_Description": "Quzara Cybertorch™ for Government is a Managed Detection and Response (MDR) and Security Operations Center as a Service (SOCaaS) Platform offering security monitoring and vulnerability management services. Quzara’s cloud-native Security architecture separates customer log collection and threat event remediation for the customer and their environments. Quzara Analysts perform Incident response, threat hunting, and report triaged events and incidents to customers in a secure manner to their environment. Customers then remediate threats identified within their environment following SOCaaS notification and response alerts. Quzara Cybertorch™ for Government is supported by a cloud computing architecture that is delivered from Azure Government. Customers must identify and configure sensors, data sources, monitoring tenants (e.g. Azure), and Tenable agents as part of customer responsibilities to fully utilize Quzara Cybertorch’s capabilities.",
-        "CSP_POC_Name": "AJ Malik",
-        "CSP_POC_Email": "Cybertorch@quzara.com",
-        "Fedramp_Ready_Date": "2022-02-24T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Red Hat",
         "Cloud_Service_Provider_Package": "Red Hat OpenShift Service on AWS (ROSA)",
         "Path": "Agency",
@@ -23534,7 +23487,7 @@
         "Independent_Assessor": "Schellman Compliance, LLC",
         "CSP_Website": "https://www.unqork.com/solutions/government/federal",
         "CSO_Description": "Unqork is a no-code, cloud-based development platform that empowers organizations to rapidly build robust enterprise- grade software without writing a single line of code. Advanced no-code platforms such as Unqork come \"out-of-the-box\" with all the toolsets and elements necessary to build and manage applications.",
-        "CSP_POC_Name": "Kim Thompson",
+        "CSP_POC_Name": "Thierry Bonfante",
         "CSP_POC_Email": "fedramp@unqork.com",
         "FedRAMP_In-Process_Date": "2022-09-22T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
