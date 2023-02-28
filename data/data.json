@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-02-27T05:40:51.319Z",
+    "Created_At": "2023-02-28T05:40:50.884Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -168,14 +168,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2022-08-30T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-02-26T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-09-02T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2023-08-31T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-08-31T04:00:00.000Z",
             "Authorizing_Agency": "Office of Personnel Management",
@@ -187,6 +179,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-10-26T04:00:00.000Z",
             "Authorizing_Agency": "Environmental Protection Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-01-12T05:00:00.000Z",
+            "Letter_Expiration_Date": "2023-08-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-01-25T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -9079,62 +9079,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Cisco Systems Inc.",
-        "Cloud_Service_Provider_Package": "Cisco Unified Communications Manager Cloud for Government (Cisco UCM Cloud for Government)",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1604017885",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2020-06-15T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Cisco%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.cisco.com",
-        "CSO_Description": "Cisco Unified Communications Manager Cloud for Government (Cisco UCM Cloud for Government) is a complete unified communications service from the Cisco Cloud. It is built to provide government-level security so that organizations can collaborate with anyone, anywhere, on any device. The service is hosted by Cisco, sold by Cisco Powered partners. Cisco UCM Cloud for Government provides these core services: \n\n**Voice and Video Calling:** Simplify with industry-leading voice and video as a service. Cisco UCM Cloud for Government provides voice and video call control and supports Cisco’s newest voice and video endpoints ranging from desktop phones, immersive video rooms and mobile and desktop clients.\n \n**Voicemail and Integrated Messaging:** Access messages the way you prefer from your desk phone, mobile phone, or desktop client. \n\n**Instant Messaging and Presence:** Cisco Jabber lets you find the right people, see if and how they are available, and collaborate using your preferred method. Use Cisco Jabber for presence, instant messaging (IM), voice and video calling, voice messaging, desktop sharing, and conferencing. \n\n**Single App Experience:** Webex for Government and Webex App allows customers to call, meet, and message on any device with a single unified application from Webex. Webex App brings together Cisco UCM Cloud for Government call control along with market leading Webex Meetings technology and advanced team collaboration capabilities including persistent messaging and file sharing.\n\n**Conferencing:** Use Cisco conferencing solutions to meet and manage meetings and projects in real time, to present, share, or collaborate from anywhere, anytime, on any device. \n\n**Mobility:** Cisco UCM Cloud for Government gives your mobile and remote users the freedom to be productive from anywhere, on any device. Give users one number to dial, redirect incoming calls to designated phones, move calls between a Cisco desktop and mobile phones, create personalized access lists, and give access to all your corporate collaboration features from mobile phones using Webex App or Cisco Jabber.\n",
-        "Announcement_Date": "2017-02-21T05:00:00.000Z",
-        "CSP_POC_Name": "Cisco Collaboration FedRAMP Team",
-        "CSP_POC_Email": "collab-usgov@cisco.com",
-        "FedRAMP_In-Process_Date": "2016-05-09T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2017-10-29T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2017-10-29T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Information Systems Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-10-28T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-10-29T04:00:00.000Z",
-            "Authorizing_Agency": "Farm Credit Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FCA%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2023-02-21T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-12-01T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Agriculture",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2022-07-26T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-07-26T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-07-26T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Oracle",
         "Cloud_Service_Provider_Package": "Taleo Cloud - U.S. Government Cloud",
         "Path": "Agency",
@@ -12349,7 +12293,7 @@
         "Authorizing_Agency": "Department of Homeland Security",
         "Authorizing_Subagency": "Customs and Border Protection",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Silo%20Logo.png",
-        "Independent_Assessor": "Kratos",
+        "Independent_Assessor": "Linford & Company",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW",
           "FR1823149273",
@@ -12562,14 +12506,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-02-13T05:00:00.000Z",
-            "Letter_Expiration_Date": "2023-02-13T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-02-13T05:00:00.000Z",
-            "Authorizing_Agency": "United States House of Representatives",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/House%20of%20Reps%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-03-05T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-03-20T04:00:00.000Z",
             "Authorizing_Agency": "Tennessee Valley Authority",
@@ -12713,6 +12649,14 @@
             "Authorizing_Agency": "Department of Homeland Security",
             "Authorizing_Subagency": "Transportation Security Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-02-27T05:00:00.000Z",
+            "Letter_Expiration_Date": "2026-02-27T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-02-27T05:00:00.000Z",
+            "Authorizing_Agency": "United States House of Representatives",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/House%20of%20Reps%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -21201,6 +21145,40 @@
         "CSP_POC_Name": "Karan Sondhi",
         "CSP_POC_Email": "karan.sondhi@trellix.com",
         "FedRAMP_In-Process_Date": "2019-09-25T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Manhattan Associates, Inc.",
+        "Cloud_Service_Provider_Package": "Manhattan Government Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2129953050",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-04-20T04:00:00.000Z",
+        "Original_Expiration_Date": "2025-04-20T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Defense",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+        "Authorizing_Agency": "Department of Defense",
+        "Authorizing_Subagency": "Defense Commissary Agency",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Manhattan%20Logo.png",
+        "Independent_Assessor": "Fortreum, LLC",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "AGENCYAMAZONEW",
+          "FR1807853629",
+          "MSO365MT",
+          "FR1913470600"
+        ],
+        "CSP_Website": "https://www.manh.com/",
+        "CSO_Description": "The Manhattan Government Cloud provides US government agencies and customers supporting the US government a secure and reliable enterprise supply chain and logistics system. This system supports a comprehensive set of logistics functions: purchasing, ordering, replenishment, fulfillment, supplier integration, inventory management, overall supply chain visibility, warehouse management, asset tracking, transportation procurement, transportation planning, transportation execution, delivery, and acceptance. This highly configurable SaaS solution supports government missions such as disaster relief, humanitarian aid, homeland security, warfighter support, food supply, government IT, and supply chain security. Manhattan Government Cloud currently offers the following Manhattan Associates products: Warehouse Management for Open Systems, Transportation Planning & Execution, Transportation Procurement, Supply Chain Visibility, Supply Chain Event Management, Supplier Enablement, Hub Management, Operational Supply Chain Intelligence, Distributed Order Management, and Manhattan Integration Framework.",
+        "Announcement_Date": "2023-02-17T05:00:00.000Z",
+        "CSP_POC_Name": "Corey Black",
+        "CSP_POC_Email": "fedramp@manh.com",
+        "FedRAMP_In-Process_Date": "2022-04-20T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
