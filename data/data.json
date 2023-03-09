@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-03-08T05:40:50.772Z",
+    "Created_At": "2023-03-09T05:40:51.072Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3051,116 +3051,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Accellion USA, LLC.",
-        "Cloud_Service_Provider_Package": "Kiteworks Federal Cloud",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1511167634",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2018-03-09T05:00:00.000Z",
-        "Original_Expiration_Date": "2023-03-08T05:00:00.000Z",
-        "Sponsoring_Agency": "Department of the Interior",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-        "Authorizing_Agency": "Department of the Interior",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Accellion%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW"
-        ],
-        "CSP_Website": "http://www.accellion.com/government",
-        "CSO_Description": "Accellion’s secure file sharing platform, kiteworks, enables government agencies to securely connect their content to the people and systems that are part of their critical business systems processes, regardless of the applications that create that content or where it is stored, while maintaining the controls and visibility needed to demonstrate compliance.\nProtect your most sensitive content with a proven security model and integration with your existing security infrastructure. With kiteworks, your content is run through your DLP and ATP technologies to prevent malware and breaches; your users are authorized by your LDAP / AD profiles, Single Sign On and Multi-Factor Authentication solution; and all events / logs are integrated with your SIEM system.\nAccellion kiteworks provides simple access to content from the internet, a mobile device, or email. With secure plug-ins for Microsoft Outlook, as well as Microsoft Office 365 online or Microsoft Office desktop products, users can easily and securely send sensitive content via email with a single click, or collaborate using familiar applications and save updated versions directly to all connected repositories. Intuitive interfaces allow access from a web browser or via mobile apps for iOS or Android devices. Extensive governance controls over all file sharing activity across your content stores enables government agencies to have full visibility into where data is stored, what data is being shared, and who has viewed, downloaded, or edited that data. Accellion features granular policy controls and trusted audit logs at the file, folder, and repository level enable compliance with SOC-2 (SSAE-16), FISMA, FIPS 140-2, PCI-DSS environments, ITAR, and EAR.\nAccellion kiteworks is available to Federal Government customers in isolated environments on Amazon Cloud. The system is accessed and maintained by US citizens however Accellion does not have access to any content. The kiteworks FedRAMP package features:\n- Separate customer virtual private cloud (VPC) for all processing\n- Dedicated servers\n- Data isolated from all other customers\n- Encrypted file storage and transfer\n- Sole encryption key ownership - Accellion does not have access\n- Remote wipe for all mobile clients\n- Reporting and audit trails\n- Continuous Monitoring for intrusions and other threats - includes vulnerability and penetration scanning as well as rigorous, proactive remediation, plan of action and milestones for mediation tracking\nTo learn more about what Accellion kiteworks can do for government agencies, please visit: [https://www.accellion.com/government](https://www.accellion.com/government).",
-        "Announcement_Date": "2017-06-01T04:00:00.000Z",
-        "CSP_POC_Name": "Frank Balonis",
-        "CSP_POC_Email": "fbalonis@accellion.com",
-        "FedRAMP_In-Process_Date": "2016-04-25T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2018-06-07T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-06-07T04:00:00.000Z",
-            "Authorizing_Agency": "Corporation for National & Community Service (CNCS)",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/cncs_1.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-04-26T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-04-26T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Veterans Affairs",
-            "Authorizing_Subagency": "VA Office of the Inspector General",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2019-07-16T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-07-16T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Housing Finance Agency",
-            "Authorizing_Subagency": "FHFA Office of the Inspector General",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2021-04-29T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Labor",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2021-07-12T04:00:00.000Z",
-            "Authorizing_Agency": "National Science Foundation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-10-18T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-10-18T04:00:00.000Z",
-            "Authorizing_Agency": "Council of the Inspectors General on Integrity and Efficiency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CIGIE%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2025-04-26T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-06-22T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Agriculture",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2022-09-12T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-09-12T04:00:00.000Z",
-            "Authorizing_Agency": "Other Executive Branch Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Federal%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2022-07-05T04:00:00.000Z",
-            "Letter_Expiration_Date": "2025-07-06T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-07-06T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Trade Commission",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2022-07-14T04:00:00.000Z",
-            "Letter_Expiration_Date": "2025-08-31T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-10-07T04:00:00.000Z",
-            "Authorizing_Agency": "Department of State",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2022-12-23T05:00:00.000Z",
-            "Letter_Expiration_Date": "2023-04-05T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-12-23T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Oracle",
         "Cloud_Service_Provider_Package": "Government Cloud - Common Controls",
         "Path": "JAB",
@@ -3398,14 +3288,6 @@
             "Authorizing_Agency": "Department of Energy",
             "Authorizing_Subagency": "Federal Energy Regulatory Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2020-03-06T05:00:00.000Z",
-            "Letter_Expiration_Date": "2023-03-06T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-03-06T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Veterans Affairs",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -6938,7 +6820,7 @@
         "Authorizing_Agency": "Department of Commerce",
         "Authorizing_Subagency": "United States Census Bureau",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/VMware%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Independent_Assessor": "Fortreum, LLC",
         "Underlying_CSP_Package_ID": [
           "F1206061353",
           "F1603047866",
@@ -21315,6 +21197,116 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Accellion USA, LLC.",
+        "Cloud_Service_Provider_Package": "Kiteworks Federal Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1511167634",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2023-03-07T05:00:00.000Z",
+        "Original_Expiration_Date": "2023-05-30T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of the Interior",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+        "Authorizing_Agency": "Department of the Interior",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Accellion%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW"
+        ],
+        "CSP_Website": "http://www.accellion.com/government",
+        "CSO_Description": "Accellion’s secure file sharing platform, kiteworks, enables government agencies to securely connect their content to the people and systems that are part of their critical business systems processes, regardless of the applications that create that content or where it is stored, while maintaining the controls and visibility needed to demonstrate compliance.\nProtect your most sensitive content with a proven security model and integration with your existing security infrastructure. With kiteworks, your content is run through your DLP and ATP technologies to prevent malware and breaches; your users are authorized by your LDAP / AD profiles, Single Sign On and Multi-Factor Authentication solution; and all events / logs are integrated with your SIEM system.\nAccellion kiteworks provides simple access to content from the internet, a mobile device, or email. With secure plug-ins for Microsoft Outlook, as well as Microsoft Office 365 online or Microsoft Office desktop products, users can easily and securely send sensitive content via email with a single click, or collaborate using familiar applications and save updated versions directly to all connected repositories. Intuitive interfaces allow access from a web browser or via mobile apps for iOS or Android devices. Extensive governance controls over all file sharing activity across your content stores enables government agencies to have full visibility into where data is stored, what data is being shared, and who has viewed, downloaded, or edited that data. Accellion features granular policy controls and trusted audit logs at the file, folder, and repository level enable compliance with SOC-2 (SSAE-16), FISMA, FIPS 140-2, PCI-DSS environments, ITAR, and EAR.\nAccellion kiteworks is available to Federal Government customers in isolated environments on Amazon Cloud. The system is accessed and maintained by US citizens however Accellion does not have access to any content. The kiteworks FedRAMP package features:\n- Separate customer virtual private cloud (VPC) for all processing\n- Dedicated servers\n- Data isolated from all other customers\n- Encrypted file storage and transfer\n- Sole encryption key ownership - Accellion does not have access\n- Remote wipe for all mobile clients\n- Reporting and audit trails\n- Continuous Monitoring for intrusions and other threats - includes vulnerability and penetration scanning as well as rigorous, proactive remediation, plan of action and milestones for mediation tracking\nTo learn more about what Accellion kiteworks can do for government agencies, please visit: [https://www.accellion.com/government](https://www.accellion.com/government).",
+        "Announcement_Date": "2017-06-01T04:00:00.000Z",
+        "CSP_POC_Name": "Frank Balonis",
+        "CSP_POC_Email": "fbalonis@accellion.com",
+        "FedRAMP_In-Process_Date": "2016-04-25T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2018-06-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-06-07T04:00:00.000Z",
+            "Authorizing_Agency": "Corporation for National & Community Service (CNCS)",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/cncs_1.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-04-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-04-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Authorizing_Subagency": "VA Office of the Inspector General",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2019-07-16T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2019-07-16T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Housing Finance Agency",
+            "Authorizing_Subagency": "FHFA Office of the Inspector General",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2021-04-29T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Labor",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2021-07-12T04:00:00.000Z",
+            "Authorizing_Agency": "National Science Foundation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-10-18T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-10-18T04:00:00.000Z",
+            "Authorizing_Agency": "Council of the Inspectors General on Integrity and Efficiency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CIGIE%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2025-04-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-06-22T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-09-12T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-09-12T04:00:00.000Z",
+            "Authorizing_Agency": "Other Executive Branch Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Federal%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-07-05T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-07-06T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-07-06T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Trade Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FederalTradeCommission-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-07-14T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-08-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-10-07T04:00:00.000Z",
+            "Authorizing_Agency": "Department of State",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-12-23T05:00:00.000Z",
+            "Letter_Expiration_Date": "2023-04-05T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-12-23T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "1901 Group",
         "Cloud_Service_Provider_Package": "in3sight High",
         "Path": "Agency",
@@ -21764,7 +21756,7 @@
         "Independent_Assessor": "First Information Technology Services, Inc.",
         "CSP_Website": "www.curapatient.com",
         "CSO_Description": "CuraPatient is a mobile-first digital health platform to enable a patient's medical \"journey\" from the hospital to the home and beyond. Our platform includes bidirectional integration with client systems and is accessible on any smart device, including a fully native iOS, Android, and responsive web app. This allows for a secure, frictionless, user-friendly experience for providers so they can focus on the individual's needs and reduce burnout and compassion fatigue. CuraPatient, with its robust backend with 421 NIST controls and the required automation, enables health systems across the federal government to keep up with changing mandates and CDC recommendations while protecting the integrity of a patient's data.",
-        "CSP_POC_Name": "Natalie Schneider",
+        "CSP_POC_Name": "Wallace Smith",
         "CSP_POC_Email": "Info@curapatient.com",
         "FedRAMP_In-Process_Date": "2022-07-06T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
@@ -21954,7 +21946,7 @@
         "CSO_Description": "Devo is a cloud-native logging and security analytics platform. Devo is able to ingest logs at cloud scale, stores all logs in their native format, and allows the customer to query the data immediately upon initial ingesting. Devo provides multiple applications on the platform including Devo Security Operations and Devo Service Operations, allowing the customer’s SOC and IT Operations teams to leverage and collaborate on the same data.",
         "CSP_POC_Name": "John Allison",
         "CSP_POC_Email": "fedramp@devo.com",
-        "FedRAMP_In-Process_Date": "2022-02-17T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2023-02-17T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -22201,29 +22193,6 @@
         "CSP_POC_Name": "Surafel Belew",
         "CSP_POC_Email": "federal_hrcloud@wwpdl.vnet.ibm.com",
         "FedRAMP_In-Process_Date": "2022-10-04T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "IBM",
-        "Cloud_Service_Provider_Package": "IBM QRadar on Cloud",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2205342859",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Hybrid Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Veterans Affairs",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-        "Authorizing_Agency": "Department of Veterans Affairs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/IBM%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://www.ibm.com/products/hosted-security-intelligence",
-        "CSO_Description": "The IBM QRadar on Cloud offering delivers an advanced security intelligence solution based on the IBM Security QRadar SIEM product. It allows Clients to collect, correlate, and store events generated from both on premise and cloud environments and perform security and threat management As part of the offering, IBM also provides infrastructure monitoring on a 24x7 basis and applies the latest software level or critical patches whenever they are available.",
-        "CSP_POC_Name": "Christopher Collard",
-        "CSP_POC_Email": "QRadarFederalCloud@ibm.com",
-        "FedRAMP_In-Process_Date": "2022-02-22T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
