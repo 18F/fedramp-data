@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-03-10T05:40:50.970Z",
+    "Created_At": "2023-03-11T05:40:51.452Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -881,14 +881,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2023-02-28T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-02-28T05:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Authorizing_Subagency": "United States Mint",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-03-26T04:00:00.000Z",
             "Letter_Expiration_Date": "2023-03-25T04:00:00.000Z",
             "Authorizing_Agency": "General Services Administration",
@@ -1032,6 +1024,14 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2026-03-06T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-03-06T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "United States Mint",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -9197,7 +9197,7 @@
           "AGENCYAMAZONEW"
         ],
         "CSP_Website": "www.okta.com",
-        "CSO_Description": "The Okta IDaaS Regulated package includes a number of components that may be used to provide methods of authentication and provisioning control.\rThe Okta core service is a web-based Software-as-a-Service Identity platform. Users interact with the Okta core service via their Okta instance, using a web browser (https://<customer>.okta.com), or via APIs that have been integrated into a third-party application. Okta Mobile is Okta’s native mobile application, supporting both Apple iOS and Google Android. Okta Mobile provides mobile access to the user’s assigned applications, and forms the base for Okta Mobility Management, an Enterprise Mobility Management platform that allows IT to enforce access and security policies on the mobile device.\rOkta Verify is Okta’s mobile Multi-Factor Authentication solution. Okta Verify functions as both an Out of Band Token (Okta Verify with Push), and a Single Factor One-Time Password Device (Okta Verify). This app is supported on all major mobile platforms.\rOkta Directory Agent and Okta IWA Agent are software components that are installed on the customer’s infrastructure, providing an authentication bridge between the customer’s directory service (LDAP or Active Directory) and the Okta cloud. Agents are fully configurable by the customer in regards to the types of data they synchronize with Okta.",
+        "CSO_Description": "The Okta IDaaS Regulated Cloud service offering provides centralized identity and access management capabilities to customers who want to manage access across any application or device, whether they are on-premise in the customer’s office/data center or in the cloud. The Okta IDaaS Regulated Cloud service provides several important capabilities, including:\n\n* Okta Identity Engine (OIE)\n* Okta Access Gateway (OAG)\n* Okta Multi-factor authentication (MFA)\n* Okta Adaptive MFA (AMFA)\n* Okta Single Sign-On (SSO)\n* Okta Verify\n* Okta API Integration",
         "Announcement_Date": "2017-04-26T04:00:00.000Z",
         "CSP_POC_Name": "Sean Frazier",
         "CSP_POC_Email": "fedramp@okta.com",
@@ -10800,6 +10800,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-06-25T04:00:00.000Z",
             "Authorizing_Agency": "Department of Labor",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2022-12-17T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Authorizing_Subagency": "United States Geological Survey",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -17777,6 +17784,13 @@
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "Food and Drug Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2021-09-27T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Authorizing_Subagency": "United States Geological Survey",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
