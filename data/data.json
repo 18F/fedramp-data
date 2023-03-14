@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-03-13T04:40:51.128Z",
+    "Created_At": "2023-03-14T04:40:51.083Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -267,13 +267,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2023-03-09T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-03-09T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Agriculture",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-01-27T05:00:00.000Z",
             "Authorizing_Agency": "United States Securities and Exchange Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/SEC%20Logo.jpg",
@@ -293,6 +286,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2020-04-29T04:00:00.000Z",
             "Authorizing_Agency": "United States Agency for Global Media",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAGM%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2026-01-18T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-01-19T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -3125,10 +3125,10 @@
           "F1603047866"
         ],
         "CSP_Website": "www.apptio.com",
-        "CSO_Description": "Apptio is a SaaS provider of Technology Business Management (TBM) solutions that help IT leaders measure, manage and communicate the cost, quality, consumption, and value of IT. IT leaders leverage Apptio's TBM suite of applications, including cost transparency, benchmarking, showback/chargeback and planning, to optimize costs, consolidate infrastructure and applications, price and recover shared services, and execute cloud-first strategies. With FITARA mandates in place and growing, now more than ever, Federal IT leaders need transparency into their IT spend - what they have, what it's costing them, how it's being consumed, and the value it's delivering to federal program and mission objectives.",
+        "CSO_Description": "Apptio is a market leading SaaS provider of Technology Business Management (TBM) and cloud financial management solutions that help IT leaders measure, manage and communicate the cost, quality, consumption, and value of technology investments.   \n\nIT leaders leverage Apptio's TBM suite of applications to optimize costs and to: \n\n* Optimize costs \n* Consolidate infrastructure and applications  \n* Price and recover shared services  \n* Execute cloud-first strategies  \n \nCloud leaders lean on Apptio’s Cloudability Government application to:  \n\n* Empower FinOps teams \n* Allocate cloud costs back to the agency \n* Enable team ownership across the cloud program \n* Optimize cloud costs across AWS, Azure and GCP\n",
         "Announcement_Date": "2018-04-05T04:00:00.000Z",
-        "CSP_POC_Name": "Othniel Alphonse",
-        "CSP_POC_Email": "securityriskcompliance@apptio.com",
+        "CSP_POC_Name": "Apptio FedRAMP Team",
+        "CSP_POC_Email": "fedramp@apptio.com",
         "Fedramp_Ready_Date": "2017-01-27T05:00:00.000Z",
         "FedRAMP_In-Process_Date": "2017-12-19T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
@@ -7750,76 +7750,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "QGenda, LLC",
-        "Cloud_Service_Provider_Package": "QGenda",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1924942935",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "LI-SaaS",
-        "Original_Authorization_Date": "2020-03-19T04:00:00.000Z",
-        "Original_Expiration_Date": "2023-03-19T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Veterans Affairs",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-        "Authorizing_Agency": "Department of Veterans Affairs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/QGenda%20Logo.png",
-        "Independent_Assessor": "Moss Adams",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW",
-          "F1206081364",
-          "F1508207205"
-        ],
-        "CSP_Website": "https://www.qgenda.com/customers/federal/",
-        "CSO_Description": "QGenda is the leader in [cloud-based call](https://www.qgenda.com/customers/federal/) and scheduling automation. Leading physician groups, hospitals, academic medical centers, and enterprise health systems use QGenda to optimize their workforce to allow them to provide the best possible patient care.",
-        "Announcement_Date": "2020-03-23T04:00:00.000Z",
-        "CSP_POC_Name": "Jenn Resnick",
-        "CSP_POC_Email": "fedramp@qgenda.com",
-        "FedRAMP_In-Process_Date": "2019-07-11T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Nintex",
-        "Cloud_Service_Provider_Package": "Nintex Drawloop DocGen",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR2001462460",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2020-03-06T05:00:00.000Z",
-        "Original_Expiration_Date": "2023-03-06T05:00:00.000Z",
-        "Sponsoring_Agency": "Department of Veterans Affairs",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-        "Authorizing_Agency": "Department of Veterans Affairs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Nintex%20Logo.png",
-        "Independent_Assessor": "Lunarline, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1403283529",
-          "AGENCYSF",
-          "FR2003061248"
-        ],
-        "CSP_Website": "www.nintex.com",
-        "CSO_Description": "Nintex Drawloop DocGen™ equips government organizations to generate precise and accurate documents. With just a few clicks users can instantly transform data from any standard or custom object in Salesforce into documents such as contracts, work orders, or recruitment documents. Nintex Drawloop DocGen allows users to create, manage and generate document packages in both Lightning or Classic, without losing the benefits of an easy-to-use and familiar user experience. Users can output data to a variety of endpoints and know their document data is secure and compliant throughout the process.\nMore information about Nintex Drawloop DocGen™ can be found at [https://www.nintex.com/docgen](https://www.nintex.com/docgen)",
-        "Announcement_Date": "2020-03-25T04:00:00.000Z",
-        "CSP_POC_Name": "Steve Witt",
-        "CSP_POC_Email": "sales@nintex.com",
-        "FedRAMP_In-Process_Date": "2019-10-15T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2020-08-26T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "United States Citizenship and Immigration Services",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Microsoft",
         "Cloud_Service_Provider_Package": "Azure Government (includes Dynamics 365)",
         "Path": "JAB",
@@ -8617,39 +8547,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Newyu, Inc.",
-        "Cloud_Service_Provider_Package": "LibreView for US Government",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR2000174962",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2020-03-12T04:00:00.000Z",
-        "Original_Expiration_Date": "2023-03-12T05:00:00.000Z",
-        "Sponsoring_Agency": "Department of Veterans Affairs",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-        "Authorizing_Agency": "Department of Veterans Affairs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Newyu%20Logo.png",
-        "Independent_Assessor": "Kratos",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW",
-          "F1603047866",
-          "MSO365MT",
-          "F1512167750",
-          "FR1814276801"
-        ],
-        "CSP_Website": "www.libreviewgov.com",
-        "CSO_Description": "LibreView is intended for use by patients, caregivers and healthcare professionals to assist people with diabetes and their healthcare professionals in the review, analysis and evaluation of historical glucose meter data to support effective diabetes management. LibreView is developed, distributed, and supported by Newyu, Inc. (on behalf of Abbott, a major manufacturer of glucose monitoring devices). Trademarks are the property of their respective owners.",
-        "Announcement_Date": "2020-05-12T04:00:00.000Z",
-        "CSP_POC_Name": "Michael Helmick",
-        "CSP_POC_Email": "fedramp@abbott.com",
-        "FedRAMP_In-Process_Date": "2019-10-15T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Datadog",
         "Cloud_Service_Provider_Package": "Datadog",
         "Path": "Agency",
@@ -8684,100 +8581,6 @@
             "Authorizing_Agency": "Department of Transportation",
             "Authorizing_Subagency": "Federal Aviation Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Slack Technologies",
-        "Cloud_Service_Provider_Package": "Slack",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1823447014",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2020-03-26T04:00:00.000Z",
-        "Original_Expiration_Date": "2023-03-26T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Veterans Affairs",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-        "Authorizing_Agency": "Department of Veterans Affairs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Slack%20Logo2.png",
-        "Independent_Assessor": "Schellman Compliance, LLC",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW",
-          "F1206081364",
-          "F1512167750"
-        ],
-        "CSP_Website": "https://slack.com/",
-        "CSO_Description": "Slack has transformed business communication. It’s the leading channels-based messaging platform, used by millions to align their teams, unify their systems, and drive their businesses forward. Only Slack offers a secure, enterprise-grade environment that can scale with the largest companies in the world. It is a new layer of the business technology stack where people can work together more effectively, connect all their other software tools and services, and find the information they need to do their best work. Slack is where work happens. Slack can support customers who are seeking both an Li-SaaS (FedRAMP low impact level) and FedRAMP Moderate impact level authorization or ATO. Our Enterprise plans (Enterprise Select and Enterprise Grid) are for customers who require compliance with FedRAMP Moderate. Slack's Pro and Business+ plans are for customers who require compliance with FedRAMP Li-SaaS or Low.",
-        "Announcement_Date": "2020-05-20T04:00:00.000Z",
-        "CSP_POC_Name": "Taylor Trigger",
-        "CSP_POC_Email": "fedramp@slack-corp.com",
-        "FedRAMP_In-Process_Date": "2019-08-16T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2018-10-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-10-01T04:00:00.000Z",
-            "Authorizing_Agency": "General Services Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2020-09-22T04:00:00.000Z",
-            "Authorizing_Agency": "Office of Personnel Management",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-01-15T05:00:00.000Z",
-            "Authorizing_Agency": "National Aeronautics and Space Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NASA_logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2021-04-16T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Institute of Standards and Technology",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2022-05-31T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-06-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-05-31T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Authorizing_Subagency": "Office of Science / Argonne Site Office",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2022-06-30T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-06-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-06-30T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "United States Census Bureau",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2022-06-11T04:00:00.000Z",
-            "Letter_Expiration_Date": "2025-07-10T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-07-11T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "Cybersecurity & Infrastructure Security Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2023-02-28T05:00:00.000Z",
-            "Letter_Expiration_Date": "2024-02-28T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2023-02-28T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Commerce",
-            "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -9862,6 +9665,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2023-01-13T05:00:00.000Z",
             "Authorizing_Agency": "Department of Veterans Affairs",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2026-03-13T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-03-13T04:00:00.000Z",
+            "Authorizing_Agency": "National Science Foundation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -15913,14 +15723,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-03-06T05:00:00.000Z",
-            "Letter_Expiration_Date": "2023-03-06T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-03-06T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Veterans Affairs",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-05-31T04:00:00.000Z",
             "Letter_Expiration_Date": "2023-05-31T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-05-27T04:00:00.000Z",
@@ -15990,6 +15792,14 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Telecommunications and Information Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-03-06T05:00:00.000Z",
+            "Letter_Expiration_Date": "2026-03-05T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-03-06T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -21321,6 +21131,202 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Nintex",
+        "Cloud_Service_Provider_Package": "Nintex Drawloop DocGen",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2001462460",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "3/62023",
+        "Original_Expiration_Date": "2025-03-05T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Nintex%20Logo.png",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1403283529",
+          "AGENCYSF",
+          "FR2003061248"
+        ],
+        "CSP_Website": "www.nintex.com",
+        "CSO_Description": "Nintex Drawloop DocGen™ equips government organizations to generate precise and accurate documents. With just a few clicks users can instantly transform data from any standard or custom object in Salesforce into documents such as contracts, work orders, or recruitment documents. Nintex Drawloop DocGen allows users to create, manage and generate document packages in both Lightning or Classic, without losing the benefits of an easy-to-use and familiar user experience. Users can output data to a variety of endpoints and know their document data is secure and compliant throughout the process.\nMore information about Nintex Drawloop DocGen™ can be found at [https://www.nintex.com/docgen](https://www.nintex.com/docgen)",
+        "Announcement_Date": "2020-03-25T04:00:00.000Z",
+        "CSP_POC_Name": "Steve Witt",
+        "CSP_POC_Email": "sales@nintex.com",
+        "FedRAMP_In-Process_Date": "2019-10-15T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2020-08-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "United States Citizenship and Immigration Services",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Qgenda, LLC",
+        "Cloud_Service_Provider_Package": "QGenda",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1924942935",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "LI-SaaS",
+        "Original_Authorization_Date": "2023-03-08T05:00:00.000Z",
+        "Original_Expiration_Date": "2026-03-07T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/QGenda%20Logo.png",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1206081364",
+          "F1508207205"
+        ],
+        "CSP_Website": "https://www.qgenda.com/customers/federal/",
+        "CSO_Description": "QGenda is the leader in [cloud-based call](https://www.qgenda.com/customers/federal/) and scheduling automation. Leading physician groups, hospitals, academic medical centers, and enterprise health systems use QGenda to optimize their workforce to allow them to provide the best possible patient care.",
+        "Announcement_Date": "2020-03-23T04:00:00.000Z",
+        "CSP_POC_Name": "Jenn Resnick",
+        "CSP_POC_Email": "fedramp@qgenda.com",
+        "FedRAMP_In-Process_Date": "2019-07-11T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Slack Technologies",
+        "Cloud_Service_Provider_Package": "Slack",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1823447014",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2023-03-06T05:00:00.000Z",
+        "Original_Expiration_Date": "2026-03-05T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Slack%20Logo2.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1206081364",
+          "F1512167750"
+        ],
+        "CSP_Website": "https://slack.com/",
+        "CSO_Description": "Slack has transformed business communication. It’s the leading channels-based messaging platform, used by millions to align their teams, unify their systems, and drive their businesses forward. Only Slack offers a secure, enterprise-grade environment that can scale with the largest companies in the world. It is a new layer of the business technology stack where people can work together more effectively, connect all their other software tools and services, and find the information they need to do their best work. Slack is where work happens. Slack can support customers who are seeking both an Li-SaaS (FedRAMP low impact level) and FedRAMP Moderate impact level authorization or ATO. Our Enterprise plans (Enterprise Select and Enterprise Grid) are for customers who require compliance with FedRAMP Moderate. Slack's Pro and Business+ plans are for customers who require compliance with FedRAMP Li-SaaS or Low.",
+        "Announcement_Date": "2020-05-20T04:00:00.000Z",
+        "CSP_POC_Name": "Taylor Trigger",
+        "CSP_POC_Email": "fedramp@slack-corp.com",
+        "FedRAMP_In-Process_Date": "2019-08-16T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2018-10-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-10-01T04:00:00.000Z",
+            "Authorizing_Agency": "General Services Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2020-09-22T04:00:00.000Z",
+            "Authorizing_Agency": "Office of Personnel Management",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-01-15T05:00:00.000Z",
+            "Authorizing_Agency": "National Aeronautics and Space Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NASA_logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2021-04-16T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Institute of Standards and Technology",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-05-31T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-06-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-05-31T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "Office of Science / Argonne Site Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-06-30T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-06-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-06-30T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "United States Census Bureau",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-06-11T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-07-10T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-07-11T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Cybersecurity & Infrastructure Security Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-02-28T05:00:00.000Z",
+            "Letter_Expiration_Date": "2024-02-28T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-02-28T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Commerce",
+            "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Newyu, Inc.",
+        "Cloud_Service_Provider_Package": "LibreView for US Government",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2000174962",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2023-03-08T05:00:00.000Z",
+        "Original_Expiration_Date": "2024-03-07T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Newyu%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1603047866",
+          "MSO365MT",
+          "F1512167750",
+          "FR1814276801"
+        ],
+        "CSP_Website": "www.libreviewgov.com",
+        "CSO_Description": "LibreView is intended for use by patients, caregivers and healthcare professionals to assist people with diabetes and their healthcare professionals in the review, analysis and evaluation of historical glucose meter data to support effective diabetes management. LibreView is developed, distributed, and supported by Newyu, Inc. (on behalf of Abbott, a major manufacturer of glucose monitoring devices). Trademarks are the property of their respective owners.",
+        "Announcement_Date": "2020-05-12T04:00:00.000Z",
+        "CSP_POC_Name": "Michael Helmick",
+        "CSP_POC_Email": "fedramp@abbott.com",
+        "FedRAMP_In-Process_Date": "2019-10-15T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "1901 Group",
         "Cloud_Service_Provider_Package": "in3sight High",
         "Path": "Agency",
@@ -22566,7 +22572,7 @@
       },
       {
         "Cloud_Service_Provider_Name": "Melissa",
-        "Cloud_Service_Provider_Package": "Melissa GovCloud",
+        "Cloud_Service_Provider_Package": "Melissa GovCloud Address Suite",
         "Path": "Agency",
         "Designation": "In Process",
         "Package_ID": "FR2210666939",
@@ -22583,7 +22589,7 @@
         "Independent_Assessor": "Schellman Compliance, LLC",
         "CSP_Website": "https://www.melissa.com/address-verification",
         "CSO_Description": "Web Service leveraging postal authorities (USPS®, Canada Post, Royal Mail, EIRCODE) to Verify, Standardize, and Correct mailing addresses. Additional functions for move update for US residents and businesses are available within the service leveraging USPS® NCOALink®.",
-        "CSP_POC_Name": "Mrunmayi Vyawahare",
+        "CSP_POC_Name": "Bud Walker",
         "CSP_POC_Email": "GovCloud@melissa.com",
         "FedRAMP_In-Process_Date": "2023-03-08T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
@@ -22765,6 +22771,29 @@
         "CSP_POC_Name": "Beau Hutto",
         "CSP_POC_Email": "fedramp@netskope.com",
         "FedRAMP_In-Process_Date": "2023-01-20T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Nintex",
+        "Cloud_Service_Provider_Package": "Nintex Workflow Cloud for Government (NWC-G)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2133141131",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Nintex%20Logo.png",
+        "Independent_Assessor": "Lunarline, Inc.",
+        "CSP_Website": "www.nintex.com",
+        "CSO_Description": "Nintex Workflow Cloud for Government allows government organizations to automate both simple and sophisticated business processes, such as approving and signing documents, or hiring and onboarding employees.\rWith a simple drag-and-drop, no-code interface, users can design workflows, forms and tasks, and integrate third-party platforms such as Salesforce, Microsoft Office, Zendesk and more, and create a seamless experience that minimizes manual touchpoints and streamlines efficiency.\rThrough Workflow Connections, organizations control which third-party services they connect their workflows to, and know their data is secure and compliant throughout the process.",
+        "CSP_POC_Name": "Steve Witt",
+        "CSP_POC_Email": "sales@nintex.com",
+        "FedRAMP_In-Process_Date": "2023-03-08T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
