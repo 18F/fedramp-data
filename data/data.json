@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-03-24T04:40:52.716Z",
+    "Created_At": "2023-03-25T04:40:51.363Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -79,14 +79,6 @@
             "Letter_Date": "2017-05-30T04:00:00.000Z",
             "Authorizing_Agency": "National Science Foundation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2018-03-28T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-03-23T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-03-28T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -846,12 +838,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2018-01-30T05:00:00.000Z",
-            "Authorizing_Agency": "Federal Deposit Insurance Corporation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-04-22T04:00:00.000Z",
             "Authorizing_Agency": "Nuclear Regulatory Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-NuclearRegulatoryCommission-Logo.png",
@@ -1023,6 +1009,13 @@
             "Authorizing_Agency": "Department of the Treasury",
             "Authorizing_Subagency": "United States Mint",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-03-15T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-03-15T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Deposit Insurance Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FDIC%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -4069,6 +4062,13 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "United States Patent and Trademark Office",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2027-09-02T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-09-02T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Authorizing_Subagency": "Interior Business Center",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -8777,6 +8777,15 @@
             "Authorizing_Agency": "Department of the Interior",
             "Authorizing_Subagency": "Office of Natural Resources Revenue",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-03-23T04:00:00.000Z",
+            "Letter_Expiration_Date": "2026-03-20T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-03-23T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Information Systems Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -17935,13 +17944,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2018-12-03T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-12-03T05:00:00.000Z",
-            "Authorizing_Agency": "Corporation for National & Community Service (CNCS)",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/cncs_1.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2022-07-26T04:00:00.000Z",
             "Letter_Expiration_Date": "2025-08-05T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-08-04T04:00:00.000Z",
@@ -21472,6 +21474,38 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Okta",
+        "Cloud_Service_Provider_Package": "Okta IDaaS Government High Cloud (GHC)",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2131856836",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Original_Authorization_Date": "2023-09-19T04:00:00.000Z",
+        "Original_Expiration_Date": "2026-09-19T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Justice",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+        "Authorizing_Agency": "Department of Justice",
+        "Authorizing_Subagency": "Executive Office for United States Attourneys",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Okta%20Logo.png",
+        "Independent_Assessor": "Fortreum, LLC",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "F1206081364",
+          "FR2003061248"
+        ],
+        "CSP_Website": "okta.com/federal",
+        "CSO_Description": "Okta IDaaS Government High Cloud service offering provides centralized identity and access management capabilities to customers who want to manage access across any application or device, whether they are on-premises in the customer’s office/data center or in the cloud. The Okta IDaaS platform is the primary application platform provided to customers. The IDaaS application provides several important features/capabilities, which are listed below.\n* Universal Directory: Okta Universal Directory provides a single view across all these groups with AD and LDAP directory integrations and out-of-the-box connections with HR systems, CSV files, and third-party IdPs.\n* Integration with Applications: Okta comes with pre-integrated applications that customers can select to allow their users to access them through the Okta Integration Network, either in their enterprise or in a cloud\n* Okta API Integration: Customers can also integrate their own applications with Okta API\n* Okta Sign-In Widget (SIW): SIW is the out of the box end user experience that our customers can deploy in an Okta hosted environment. SIW provides configurable user registration, sign in and recovery experience.\n* Okta Software Development Kit (SDKs): SDKs allow customers to build their own identity experience using Okta as a back end.\n* Okta Customer Organization Logging: Okta’s prebuilt monitoring, logging, and reporting tools make it easy to analyze security posture, user access events, lifecycle management transitions, security risks and other identity-related data.\n* Okta Admin Dashboard: Okta’s Admin Dashboard provides central administration and provisioning of users and the applications they can access.\n* Adaptive Multi-Factor Authentication (aMFA): Adaptive MFA provides an additional layer of security for access control, which gives Okta customers the ability to create contextual access policies that assess risk factors such as device, network, location, travel, IP, and other context at each step of the authentication process.\n* Single Sign-On (SSO): Okta SSO creates a seamless user experience by providing single sign-on to all the web and mobile applications users need to access.\n\n**Okta Verify:** Okta Verify is Okta’s native desktop and mobile application that can be used for mobile client-based MFA authentication. Okta Verify supports the following authentication mechanisms against a customers’ organization: Time-based One-time Password (TOTP), Okta Push Challenge-Response, and Okta FastPass (signed once challenge)\n\n",
+        "Announcement_Date": "2023-03-23T04:00:00.000Z",
+        "CSP_POC_Name": "Sean Frazier",
+        "CSP_POC_Email": "fedramp@okta.com",
+        "FedRAMP_In-Process_Date": "2022-09-19T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "1901 Group",
         "Cloud_Service_Provider_Package": "in3sight High",
         "Path": "Agency",
@@ -23074,30 +23108,6 @@
         "CSP_POC_Name": "Nuix Cyber Security & Assurance Team",
         "CSP_POC_Email": "fedramp@nuixusg.com",
         "Fedramp_Ready_Date": "2022-11-30T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Okta",
-        "Cloud_Service_Provider_Package": "Okta IDaaS Government High Cloud (GHC)",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2131856836",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "High",
-        "Sponsoring_Agency": "Department of Justice",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
-        "Authorizing_Agency": "Department of Justice",
-        "Authorizing_Subagency": "Executive Office for United States Attourneys",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Okta%20Logo.png",
-        "Independent_Assessor": "Fortreum, LLC",
-        "CSP_Website": "okta.com/federal",
-        "CSO_Description": "Okta IDaaS Government High Cloud service offering provides centralized identity and access management capabilities to customers who want to manage access across any application or device, whether they are on-premises in the customer’s office/data center or in the cloud. The Okta IDaaS platform is the primary application platform provided to customers. The IDaaS application provides several important features/capabilities, which are listed below.\n* Universal Directory: Okta Universal Directory provides a single view across all these groups with AD and LDAP directory integrations and out-of-the-box connections with HR systems, CSV files, and third-party IdPs.\n* Integration with Applications: Okta comes with pre-integrated applications that customers can select to allow their users to access them through the Okta Integration Network, either in their enterprise or in a cloud\n* Okta API Integration: Customers can also integrate their own applications with Okta API\n* Okta Sign-In Widget (SIW): SIW is the out of the box end user experience that our customers can deploy in an Okta hosted environment. SIW provides configurable user registration, sign in and recovery experience.\n* Okta Software Development Kit (SDKs): SDKs allow customers to build their own identity experience using Okta as a back end.\n* Okta Customer Organization Logging: Okta’s prebuilt monitoring, logging, and reporting tools make it easy to analyze security posture, user access events, lifecycle management transitions, security risks and other identity-related data.\n* Okta Admin Dashboard: Okta’s Admin Dashboard provides central administration and provisioning of users and the applications they can access.\n* Adaptive Multi-Factor Authentication (aMFA): Adaptive MFA provides an additional layer of security for access control, which gives Okta customers the ability to create contextual access policies that assess risk factors such as device, network, location, travel, IP, and other context at each step of the authentication process.\n* Single Sign-On (SSO): Okta SSO creates a seamless user experience by providing single sign-on to all the web and mobile applications users need to access.\n\n**Okta Verify:** Okta Verify is Okta’s native desktop and mobile application that can be used for mobile client-based MFA authentication. Okta Verify supports the following authentication mechanisms against a customers’ organization: Time-based One-time Password (TOTP), Okta Push Challenge-Response, and Okta FastPass (signed once challenge)\n\n",
-        "CSP_POC_Name": "Sean Frazier",
-        "CSP_POC_Email": "fedramp@okta.com",
-        "FedRAMP_In-Process_Date": "2022-09-19T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
