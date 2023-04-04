@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-04-03T04:40:52.028Z",
+    "Created_At": "2023-04-04T04:40:50.818Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -3154,6 +3154,15 @@
             "Authorizing_Agency": "Department of Justice",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-10-28T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-10-27T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-11-01T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Federal Emergency Management Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -3709,6 +3718,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2023-02-14T05:00:00.000Z",
             "Authorizing_Agency": "Department of Housing and Urban Development",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHUD-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2023-11-28T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-11-30T05:00:00.000Z",
+            "Authorizing_Agency": "Environmental Protection Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -7756,44 +7772,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Peraton Corporation",
-        "Cloud_Service_Provider_Package": "Next Generation Cloud Platform",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1716961549",
-        "Service_Model": [
-          "PaaS, SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2020-03-04T05:00:00.000Z",
-        "Original_Expiration_Date": "2023-03-04T05:00:00.000Z",
-        "Sponsoring_Agency": "United States Agency for Global Media",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAGM%20Logo.jpg",
-        "Authorizing_Agency": "United States Agency for Global Media",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Peraton%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1603047866"
-        ],
-        "CSP_Website": "www.peraton.com",
-        "CSO_Description": "The Next Generation Cloud Platform (NGCP) is a FedRAMP compliant Platform-as-a-Service (PaaS) which deploys multiple Software-as-a-Service (SaaS) solutions to federal, state and commercial customers. The platform currently includes four Application Modules: Employee Performance Management (ePerformance), Environmental Program Information Management System (EPIMS), n.SITE for Connect:Direct transmissions of government data, and e.POWER for Business Process Management. Peraton is deploying multiple SaaS products on the same re-usable framework.",
-        "Announcement_Date": "2018-03-02T05:00:00.000Z",
-        "CSP_POC_Name": "Tim Braun",
-        "CSP_POC_Email": "ngcpaas@peraton.com",
-        "FedRAMP_In-Process_Date": "2017-02-23T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2020-03-26T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-03-26T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-03-26T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Veterans Affairs",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Microsoft",
         "Cloud_Service_Provider_Package": "Azure Government (includes Dynamics 365)",
         "Path": "JAB",
@@ -8900,79 +8878,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Snowflake Inc.",
-        "Cloud_Service_Provider_Package": "The Data Cloud on AWS US East/West",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1809360201",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2020-05-01T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Snowflake%20Logo.png",
-        "Independent_Assessor": "Fortreum, LLC",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW",
-          "FR1812058188",
-          "F1206081364",
-          "F1512167750"
-        ],
-        "CSP_Website": "https://www.snowflake.com",
-        "CSO_Description": "Snowflake is the only data warehouse built for the cloud, enabling the data-driven enterprise with instant elasticity, secure data sharing and per-second pricing, across multiple clouds. Snowflake combines the power of data warehousing, the flexibility of big data platforms and the elasticity of the cloud at a fraction of the cost of traditional solutions. Find out more at [https://www.snowflake.com/](https://www.snowflake.com/).",
-        "Announcement_Date": "2020-07-02T04:00:00.000Z",
-        "CSP_POC_Name": "Siddique Chaudhry",
-        "CSP_POC_Email": "FedRAMP@snowflake.com",
-        "Fedramp_Ready_Date": "2019-10-07T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2019-12-04T05:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2022-10-21T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Labor",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Snowflake Inc.",
-        "Cloud_Service_Provider_Package": "The Data Cloud on Azure Government",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1809360202",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2020-05-01T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Snowflake%20Logo.png",
-        "Independent_Assessor": "Fortreum, LLC",
-        "Underlying_CSP_Package_ID": [
-          "AGENCYAMAZONEW",
-          "FR1812058188",
-          "F1206081364",
-          "F1603087869",
-          "F1512167750"
-        ],
-        "CSP_Website": "https://www.snowflake.com",
-        "CSO_Description": "Snowflake is the only data warehouse built for the cloud, enabling the data-driven enterprise with instant elasticity, secure data sharing and per-second pricing, across multiple clouds. Snowflake combines the power of data warehousing, the flexibility of big data platforms and the elasticity of the cloud at a fraction of the cost of traditional solutions. Find out more at [https://www.snowflake.com/](https://www.snowflake.com/).",
-        "Announcement_Date": "2020-07-02T04:00:00.000Z",
-        "CSP_POC_Name": "Siddique Chaudhry",
-        "CSP_POC_Email": "FedRAMP@snowflake.com",
-        "FedRAMP_In-Process_Date": "2019-12-04T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "WellHive Holdings, LLC",
         "Cloud_Service_Provider_Package": "WellHive",
         "Path": "Agency",
@@ -10054,8 +9959,8 @@
         "CSP_Website": "www.talatek.com",
         "CSO_Description": "The TalaTek intelligent Governance and Risk Integrated Solution (TiGRIS) Software-as-a-Service (Saas) manages a customer’s Governance, Risk and Compliance (GRC) needs for an information system or network throughout its entire lifecycle. From inception, through assessment and continuous monitoring, to decommissioning, the TiGRIS application has been developed, in house, by TalaTek’s team of security professionals, to provide a user-friendly, powerful tool for GRC management.",
         "Announcement_Date": "2019-11-01T04:00:00.000Z",
-        "CSP_POC_Name": "Baan Alsinawi",
-        "CSP_POC_Email": "info@talatek.com",
+        "CSP_POC_Name": "Isaac Hur",
+        "CSP_POC_Email": "Isaac.Hur@cerberussentinel.com",
         "FedRAMP_In-Process_Date": "2019-03-13T04:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
@@ -10689,6 +10594,47 @@
             "Authorizing_Agency": "Department of the Interior",
             "Authorizing_Subagency": "United States Geological Survey",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Snowflake Inc.",
+        "Cloud_Service_Provider_Package": "The Data Cloud on AWS US East/West",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1809360201",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-07-17T04:00:00.000Z",
+        "Original_Expiration_Date": "2023-07-17T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Snowflake%20Logo.png",
+        "Independent_Assessor": "Fortreum, LLC",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "FR1812058188",
+          "F1206081364",
+          "F1512167750"
+        ],
+        "CSP_Website": "https://www.snowflake.com",
+        "CSO_Description": "Snowflake is the only data warehouse built for the cloud, enabling the data-driven enterprise with instant elasticity, secure data sharing and per-second pricing, across multiple clouds. Snowflake combines the power of data warehousing, the flexibility of big data platforms and the elasticity of the cloud at a fraction of the cost of traditional solutions. Find out more at [https://www.snowflake.com/](https://www.snowflake.com/).",
+        "Announcement_Date": "2020-07-02T04:00:00.000Z",
+        "CSP_POC_Name": "Siddique Chaudhry",
+        "CSP_POC_Email": "FedRAMP@snowflake.com",
+        "Fedramp_Ready_Date": "2019-10-07T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2019-12-04T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2022-10-21T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Labor",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -15392,6 +15338,14 @@
             "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-10-20T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-10-21T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-10-21T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -16210,7 +16164,7 @@
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2022-01-03T05:00:00.000Z",
         "Original_Expiration_Date": "2025-01-03T05:00:00.000Z",
-        "Sponsoring_Agency": "Social Security Administration",
+        "Sponsoring_Agency": "Department of Health and Human Services",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
         "Authorizing_Agency": "Department of Health and Human Services",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Qualtrics%20Logo2.png",
@@ -19924,6 +19878,40 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "Snowflake Inc.",
+        "Cloud_Service_Provider_Package": "The Data Cloud on Azure Government",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1809360202",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-09-08T04:00:00.000Z",
+        "Original_Expiration_Date": "2025-09-08T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Snowflake%20Logo.png",
+        "Independent_Assessor": "Fortreum, LLC",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "FR1812058188",
+          "F1206081364",
+          "F1603087869",
+          "F1512167750"
+        ],
+        "CSP_Website": "https://www.snowflake.com",
+        "CSO_Description": "Snowflake is the only data warehouse built for the cloud, enabling the data-driven enterprise with instant elasticity, secure data sharing and per-second pricing, across multiple clouds. Snowflake combines the power of data warehousing, the flexibility of big data platforms and the elasticity of the cloud at a fraction of the cost of traditional solutions. Find out more at [https://www.snowflake.com/](https://www.snowflake.com/).",
+        "Announcement_Date": "2020-07-02T04:00:00.000Z",
+        "CSP_POC_Name": "Siddique Chaudhry",
+        "CSP_POC_Email": "FedRAMP@snowflake.com",
+        "FedRAMP_In-Process_Date": "2019-12-04T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Broadcom",
         "Cloud_Service_Provider_Package": "Rally",
         "Path": "Agency",
@@ -21573,6 +21561,75 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Center for Translational Data Science (CTDS)",
+        "Cloud_Service_Provider_Package": "Gen3 Data Ecosystems Platform",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2125059322",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-04-29T04:00:00.000Z",
+        "Original_Expiration_Date": "2025-04-26T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "National Heart, Lung, and Blood Institute",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/UoC%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "FR1805751477"
+        ],
+        "CSP_Website": "https://gen3.org/",
+        "CSO_Description": "The Gen3 Data Ecosystems Platform (Gen3) is an open-source multi-tenant Software as a Service (SaaS) platform for developing, creating, and operating cloud-based data commons, data ecosystems, and workspaces for managing, analyzing, and sharing both open access and controlled access data. The goal of Gen3 is to provide research data in a uniform and co-localized database and to serve as a foundation for future expanded data access, computational capabilities, and bioinformatics cloud research",
+        "Announcement_Date": "2023-03-20T04:00:00.000Z",
+        "CSP_POC_Name": "Robert Grossman",
+        "CSP_POC_Email": "Gen3platform@data-commons.org",
+        "FedRAMP_In-Process_Date": "2022-03-24T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Peraton Corporation",
+        "Cloud_Service_Provider_Package": "Next Generation Cloud Platform",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1716961549",
+        "Service_Model": [
+          "PaaS, SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2023-03-28T04:00:00.000Z",
+        "Original_Expiration_Date": "2026-03-28T04:00:00.000Z",
+        "Sponsoring_Agency": "United States Agency for Global Media",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAGM%20Logo.jpg",
+        "Authorizing_Agency": "United States Agency for Global Media",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Peraton%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866"
+        ],
+        "CSP_Website": "www.peraton.com",
+        "CSO_Description": "The Next Generation Cloud Platform (NGCP) is a FedRAMP compliant Platform-as-a-Service (PaaS) which deploys multiple Software-as-a-Service (SaaS) solutions to federal, state and commercial customers. The platform currently includes four Application Modules: Employee Performance Management (ePerformance), Environmental Program Information Management System (EPIMS), n.SITE for Connect:Direct transmissions of government data, and e.POWER for Business Process Management. Peraton is deploying multiple SaaS products on the same re-usable framework.",
+        "Announcement_Date": "2018-03-02T05:00:00.000Z",
+        "CSP_POC_Name": "Tim Braun",
+        "CSP_POC_Email": "ngcpaas@peraton.com",
+        "FedRAMP_In-Process_Date": "2017-02-23T05:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2020-03-26T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-03-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2020-03-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
         "Cloud_Service_Provider_Name": "1901 Group",
         "Cloud_Service_Provider_Package": "in3sight High",
         "Path": "Agency",
@@ -21782,31 +21839,7 @@
         "CSO_Description": "The Box Enterprise Cloud Content Collaboration Platform provides a secure way to share content and improve collaboration on any device. Box offers organizations of all sizes a platform for file synchronization and sharing and modern content management that makes collaboration effective across devices, teams and organizations. Our unique approach combines intuitive, elegant interfaces with the security, scalability and administrative controls required by IT. What it means is that with Box, people can get work done anywhere, from any device.\nBeyond secure file sharing, Box provides a rich enterprise content management and collaboration platform that can power simple and sophisticated processes across your business. From mobile field enablement to case management to digital asset management, the Box platform can provide the collaboration, intuitive workflow and content governance processes that power your organization.",
         "CSP_POC_Name": "Tom Cowles",
         "CSP_POC_Email": "compliance@box.com",
-        "FedRAMP_In-Process_Date": "2022-03-24T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Center for Translational Data Science (CTDS)",
-        "Cloud_Service_Provider_Package": "Gen3 Data Ecosystems Platform",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2125059322",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "Authorizing_Subagency": "National Heart, Lung, and Blood Institute",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/UoC%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://gen3.org/",
-        "CSO_Description": "The Gen3 Data Ecosystems Platform (Gen3) is an open-source multi-tenant Software as a Service (SaaS) platform for developing, creating, and operating cloud-based data commons, data ecosystems, and workspaces for managing, analyzing, and sharing both open access and controlled access data. The goal of Gen3 is to provide research data in a uniform and co-localized database and to serve as a foundation for future expanded data access, computational capabilities, and bioinformatics cloud research",
-        "CSP_POC_Name": "Robert Grossman",
-        "CSP_POC_Email": "Gen3platform@data-commons.org",
-        "FedRAMP_In-Process_Date": "2022-03-24T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2022-08-29T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -22502,7 +22535,7 @@
         "CSO_Description": "The Huron Accelerators Portal (HAP) is a web-based entry portal, hosted on AWS GovCloud. HAP is composed of three components: the Leader Evaluation Manager® (LEM) software application, the Patient Call Manager™ (PCM) software application, and the Huron Rounding software application.\n* Leader Evaluation Manager: Through research and more than a decade of working with healthcare organizations, Huron has perfected and accelerated the art and science of goal cascading, weighting and accountability for leaders to build consistency — and as consistency grows, so does engagement. With Leader Evaluation Manager® (LEM), organizations can guarantee that all employees get the same leadership experience, practice the same evidence-based tactics and are held accountable to the same behavioral standards. Use LEM to track and manage the components that take accountability to the next level.\n* Patient Call Manager: Checking on a patient at a critical point in their care is proven to have an impact. Whether it’s showing empathy or providing a clinical intervention, these calls improve patient safety and experiences — and offer an opportunity to receive first-hand feedback from patients. With Patient Call Manager™ (PCM), healthcare organizations can prioritize and connect patients with caregivers to ease transitions from in-person care to home. This fully HIPAA-compliant tool allows healthcare staff to serve as quality touchpoints and ensure quality outcomes along a patient’s continuum of care from pre-visit calls through post-visit.\n* Huron Rounding: A cloud-based, multiplatform technology, the Huron Rounding application helps organizations easily collect quality, safety, satisfaction, and other audit and compliance data for analysis and reporting.",
         "CSP_POC_Name": "Pam Bursch",
         "CSP_POC_Email": "fedrampmarketplace@hcg.com",
-        "FedRAMP_In-Process_Date": "2022-03-21T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2023-03-20T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -23897,7 +23930,7 @@
         "Sponsoring_Agency": "United States Equal Employment Opportunity Commission",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/EEOC%20Logo.jpg",
         "Authorizing_Agency": "United States Equal Employment Opportunity Commission",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/TMetrics%20Logo.png",
+        "CSP_URL": "https://www.fedramp.gov/assets/img/logos/CSP_logos/TMetrics%20Logo.png",
         "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
         "CSP_Website": "https://tmetrics.com/industries/fedramp",
         "CSO_Description": "As the primary point of contact an organization has with its customers and constituents, the T-Metrics TM-Cloud Contact Center provides a powerful skills-based routing platform to efficiently connect these people with the agents best equipped to effectively respond to their needs. The platform provides flexibility, scalability, lower total cost of ownership, improved agency service levels, and a superior customer experience. Service offerings include:\n* Skills-based and Priority Routing * Interactive Voice Response\r* Self-service Offerings\r* VIP Treatments\r* Omni-channel Communication\r* Customer & Agent Callbacks\r* Voice and Screen Recordings\r* Section 508 compliance (for agents and for callers)\r* Advanced Agent and Supervisory Dashboards\r* Standard and Custom Reporting\r* Administration Portals *… [ask about more related capabilities!](https://www.tmetrics.com/support/sales-team)\nThe TM-Cloud Contact Center can be scaled to accommodate current and future contact center resource demands and requirements. The ability to obtain agent subscriptions in small or large quantities enables organizations to quickly scale to levels necessary to handle even the most dynamic volume, especially for emergencies or seasonal demand.\nThe contact center distributed architecture ensures that a high-available and high-performance system is deployed in the T-Metrics FedRAMP cloud. Resiliency, scalability, and advanced feature access had been traditionally available to only the largest of contact centers with a significant capital investment. Through the TM-Cloud Contact Center, these advantages are now available to every customer through flexible monthly subscriptions. Strategically designed, TM-Cloud Contact Center capitalizes on cloud architecture and goes over the top of existing customer telephony platforms, including FedRAMP & JITC certified voice solutions. For two decades, T-Metrics has provided government agencies with contact center solutions. Additionally, because the T Metrics Contact Center passes the Department of Defense (DoD) rigorous and selective security and interoperability demands for Joint Interoperability Test Command (JITC) certification, T-Metrics contact center solutions are widely deployed at DoD locations around the globe. By receiving FedRAMP In Process status, T Metrics expands the partnership scope to provide the most advanced cloud contact center platform that meets federal mandates for a standardized approach to security assessment, authorization, and continuous monitoring for cloud contact center services.",
@@ -24735,7 +24768,7 @@
         "FedRAMP_Assessed": "None",
         "Provide_Consulting_Services": "Y",
         "Description_of_Consulting_Services": "Moss Adams employs audit and compliance professionals with several years of industry experience. With our combined resources, we have significant experience in assisting and assessing the security of cloud-based environments across many requirements. Specific to FedRAMP, we work with cloud service providers to perform a series of services to help them prepare, including:\n\n* Assist with the scoping, including the preparation of data flow and system diagrams\n* Document the SSP (System Security Plan), policies, or other application documents\n* Execute vulnerability assessments and attack and penetration testing",
-        "Consulting_Services_To": "* Adobe\n* Agari\n* HackerOne\n* Palo Alto Networks\n* Zendesk",
+        "Consulting_Services_To": "* Tata Consultancy Services",
         "Additional_Cyber_Frameworks": "* SOC 1/2/3\n* ISO 27000 series \n* PCI\n* HIPAA\n* HITRUST\n* FISMA\n* NIST 800-171\n* NIST CSF\n"
       },
       {
