@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-04-05T04:40:53.397Z",
+    "Created_At": "2023-04-06T04:40:51.270Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1071,14 +1071,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2022-04-13T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-04-13T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-04-13T04:00:00.000Z",
-            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2022-06-03T04:00:00.000Z",
             "Letter_Expiration_Date": "2024-05-30T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-06-03T04:00:00.000Z",
@@ -1102,6 +1094,12 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-08-15T04:00:00.000Z",
             "Authorizing_Agency": "Department of Education",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2023-03-30T04:00:00.000Z",
+            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -8719,6 +8717,15 @@
             "Include_In_Marketplace": "Y"
           },
           {
+            "Letter_Date": "2021-03-02T05:00:00.000Z",
+            "Letter_Expiration_Date": "2023-09-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-03-02T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "United States Air Force",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
             "Letter_Date": "2021-09-21T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-10-08T04:00:00.000Z",
             "Authorizing_Agency": "Department of State",
@@ -11185,15 +11192,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2022-02-15T05:00:00.000Z",
-            "Letter_Expiration_Date": "2025-02-24T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-02-24T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Food and Drug Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2022-03-21T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-03-21T04:00:00.000Z",
             "Authorizing_Agency": "Other Executive Branch Agency",
@@ -11359,6 +11357,15 @@
             "Authorizing_Agency": "Department of Transportation",
             "Authorizing_Subagency": "Federal Highway Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-03-31T04:00:00.000Z",
+            "Letter_Expiration_Date": "2026-04-05T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-04-05T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -17482,6 +17489,15 @@
             "Authorizing_Subagency": "Alcohol and Tobacco Tax and Trade Bureau",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-03-21T04:00:00.000Z",
+            "Letter_Expiration_Date": "2026-04-05T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-04-05T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -21700,11 +21716,44 @@
           "MSO365MT"
         ],
         "CSP_Website": "https://tmetrics.com/industries/fedramp",
-        "CSO_Description": "T-Metrics’ Cloud Omnichannel Contact Center (CCaaS) solution provides Federal agencies with a secure, customizable, highly flexible, low-risk, and scalable option to improve the experiences of interactions with their constituents.\n\nFederal agencies looking to modernize their legacy premises-based contact centers now have a choice to migrate at their pace without compromising security.  Building on two decades of innovation and security, T-Metrics’ CCaaS solution is the only single omnichannel contact center in the market that meets both the robust FedRAMP security standards for cloud deployments and the security and interoperability demands of the Joint Interoperability Test Command (JITC) certification for premises-based deployments.\n\nThrough its flexible architecture, the TM-Cloud Omnichannel Contact Center enables agencies to customize cloud deployment models – public cloud (multi-tenant) and/or private cloud (dedicated instance) – to address different constituent requirements.\n\nStrategically designed, TM-Cloud Omnichannel Contact Center capitalizes on cloud architecture to integrate an agency's existing staff with existing customer telephony platforms (e.g., Avaya, Cisco, MS Teams, Zoom, etc.), which minimizes migration and project risk. Agencies can choose cloud, on-premises virtual machine, and/or on-premises physical servers to integrate existing voice services to the TM-Cloud Omnichannel Contact Center. This flexibility allows for zero-maintenance for full cloud deployments. Agencies choosing on-premises integration will provision hardware according to their own requirements and procedures. \n\nThe TM-Cloud Omnichannel Contact Center can be scaled to accommodate current and future contact center resource demands and requirements. The ability to obtain agent subscriptions in small or large quantities enables organizations to quickly scale to levels necessary to handle even the most dynamic volume, especially for emergencies or seasonal demand. The contact center distributed architecture ensures a high-available and high-performance system is deployed in the T-Metrics FedRAMP cloud. Resiliency, scalability, and advanced feature access were traditionally available to only the largest contact centers with significant capital investment. Through the TM-Cloud Omnichannel Contact Center, these advantages are now available to every customer through flexible monthly subscriptions. \n\nThe cloud-based service offerings provided by the T-Metrics TM-Cloud Omnichannel Contact Center include the following:\n*  Skills-based and Attribute-based Routing\n*  Interactive Voice Response\n*  Microsoft TeamsTM Integration\n*  Digital Channel Communication\n*  Customer & Agent Callbacks\n*  Voice and Screen Recordings\n*  Analytics and Sentiment Analysis\n*  Quality Management\n*  Section 508 compliance (for agents and callers)\n*  Advanced Agent and Supervisory Dashboards\n*  Standard and Custom Reporting\n*  Self Service Administration Portals\n*  Natural language speech recognition\n*  Voicebots and chatbots\n\nTo learn more about how the T-Metrics CCaaS solution can satisfy your contact center requirements, please visit https://www.tmetrics.com/industries/fedramp.\n",
+        "CSO_Description": "T-Metrics’ Cloud Omnichannel Contact Center (CCaaS) solution provides Federal agencies with a secure, customizable, highly flexible, low-risk, and scalable option to improve the experiences of interactions with their constituents.\n\nFederal agencies looking to modernize their legacy premises-based contact centers now have a choice to migrate at their pace without compromising security.  Building on two decades of innovation and security, T-Metrics’ CCaaS solution is the only single omnichannel contact center in the market that meets both the robust FedRAMP security standards for cloud deployments and the security and interoperability demands of the Joint Interoperability Test Command (JITC) certification for premises-based deployments.\n\nThrough its flexible architecture, the TM-Cloud Omnichannel Contact Center enables agencies to customize cloud deployment models – public cloud (multi-tenant) and/or private cloud (dedicated instance) – to address different constituent requirements.\n\nStrategically designed, TM-Cloud Omnichannel Contact Center capitalizes on cloud architecture to integrate an agency's existing staff with existing customer telephony platforms (e.g., Avaya, Cisco, MS Teams, Zoom, etc.), which minimizes migration and project risk. Agencies can choose cloud, on-premises virtual machine, and/or on-premises physical servers to integrate existing voice services to the TM-Cloud Omnichannel Contact Center. This flexibility allows for zero-maintenance for full cloud deployments. Agencies choosing on-premises integration will provision hardware according to their own requirements and procedures. \n\nThe TM-Cloud Omnichannel Contact Center can be scaled to accommodate current and future contact center resource demands and requirements. The ability to obtain agent subscriptions in small or large quantities enables organizations to quickly scale to levels necessary to handle even the most dynamic volume, especially for emergencies or seasonal demand. The contact center distributed architecture ensures a high-available and high-performance system is deployed in the T-Metrics FedRAMP cloud. Resiliency, scalability, and advanced feature access were traditionally available to only the largest contact centers with significant capital investment. Through the TM-Cloud Omnichannel Contact Center, these advantages are now available to every customer through flexible monthly subscriptions. \n\nThe cloud-based service offerings provided by the T-Metrics TM-Cloud Omnichannel Contact Center include the following:\n*  Skills-based and Attribute-based Routing (ACD)\n*  Interactive Voice Response\n*  Microsoft TeamsTM Integration\n*  Digital Channel Communication\n*  Customer & Agent Callbacks\n*  Voice and Screen Recordings\n*  Analytics and Sentiment Analysis\n*  Quality Management\n*  Section 508 compliance (for agents and callers)\n*  Advanced Agent and Supervisory Dashboards\n*  Standard and Custom Reporting\n*  Self Service Administration Portals\n*  Natural language speech recognition\n*  Voicebots and chatbots\n\nTo learn more about how the T-Metrics CCaaS solution can satisfy your contact center requirements, please visit https://www.tmetrics.com/industries/fedramp.\n",
         "Announcement_Date": "2023-03-31T04:00:00.000Z",
         "CSP_POC_Name": "Jim Beckner III",
         "CSP_POC_Email": "fedramp@tmetrics.com",
         "FedRAMP_In-Process_Date": "2022-03-02T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Articulate Global LLC",
+        "Cloud_Service_Provider_Package": "Articulate 360",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2317139564",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "LI-SaaS",
+        "Original_Authorization_Date": "2023-02-23T05:00:00.000Z",
+        "Original_Expiration_Date": "2026-02-23T05:00:00.000Z",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "Authorizing_Subagency": "HHS Office of the Inspector General",
+        "CSP_URL": "https://www.fedramp.gov/assets/img/logos/CSP_logos/Articulate%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "FR1823447014",
+          "F1512167750",
+          "FR1812058188"
+        ],
+        "CSP_Website": "https://articulate.com/360",
+        "CSO_Description": "Articulate 360 is an annual subscription with everything you need to simplify the entire course development process. It includes desktop and web apps. Desktop apps run locally on your desktop or laptop computer, and web apps are software applications that run in a web browser.",
+        "Announcement_Date": "2023-03-31T04:00:00.000Z",
+        "CSP_POC_Name": "David Eddy",
+        "CSP_POC_Email": "sales@articulate.com",
+        "FedRAMP_In-Process_Date": "2022-03-22T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -21801,29 +21850,6 @@
         "CSP_POC_Name": "Alexandra Cala",
         "CSP_POC_Email": "SSTFederal@gmail.com",
         "FedRAMP_In-Process_Date": "2022-11-15T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Articulate Global LLC",
-        "Cloud_Service_Provider_Package": "Articulate 360",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2317139564",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "LI-SaaS",
-        "Sponsoring_Agency": "Department of Health and Human Services",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-        "Authorizing_Agency": "Department of Health and Human Services",
-        "CSP_URL": "https://www.fedramp.gov/assets/img/logos/CSP_logos/Articulate%20Logo.png",
-        "Independent_Assessor": "Schellman Compliance, LLC",
-        "CSP_Website": "https://articulate.com/360",
-        "CSO_Description": "Articulate 360 is an annual subscription with everything you need to simplify the entire course development process. It includes desktop and web apps. Desktop apps run locally on your desktop or laptop computer, and web apps are software applications that run in a web browser.",
-        "CSP_POC_Name": "David Eddy",
-        "CSP_POC_Email": "sales@articulate.com",
-        "FedRAMP_In-Process_Date": "2022-03-22T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -22326,7 +22352,7 @@
         "Independent_Assessor": "Schellman Compliance, LLC",
         "CSP_Website": "www.cyxtera.com",
         "CSO_Description": "The Cyxtera Platform Government Edition (CPGE) IaaS is a software-defined architecture that combines software-defined network fabric and an on-demand service provisioning system to provide customers the capability to procure and consume data center services. The authorization package consists of an application infrastructure hosted within Microsoft Azure Government and a physical infrastructure located in Cyxtera-owned data centers. The application infrastructure is made available to simplify the installation, removal, and general management of the physical infrastructure; whereas the physical infrastructure itself is connected per customer requirements and hosts the customers infrastructure within the perimeter of a FedRAMP High service offering.",
-        "CSP_POC_Name": "Russell Cozart",
+        "CSP_POC_Name": "Brad Scyrkels",
         "CSP_POC_Email": "FedRAMP@cyxtera.com",
         "Fedramp_Ready_Date": "2022-08-05T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
@@ -22797,25 +22823,6 @@
         "CSP_POC_Name": "Bryan Kaplan",
         "CSP_POC_Email": "sales@juvare.com",
         "FedRAMP_In-Process_Date": "2022-10-11T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "KBR, Inc.",
-        "Cloud_Service_Provider_Package": "Vaault for Public Safety Video Evidence",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR2124663764",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "High",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/KBR%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://www.kbr.com/kbrvaault",
-        "CSO_Description": "KBR Vaault for Public Safety Video Evidence implements a system that facilitates the secure collection, review, archival, and distribution of surveillance evidence collected by mobile users. Additionally, KBR Vaault for Public Safety Video Evidence facilitates the collection, consolidation, organization, review, retrieval, search, and distribution of video and audio surveillance data using cloud computing technologies. This FedRAMP solution enables remote monitoring, situational awareness, and incident management including the viewing and operation of live and recorded surveillance devices, anywhere and anytime, while within network connectivity.",
-        "CSP_POC_Name": "Sam Nicholson",
-        "CSP_POC_Email": "kbrvaault@us.kbr.com",
-        "Fedramp_Ready_Date": "2022-04-05T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -24288,6 +24295,26 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "WalkMe, Inc",
+        "Cloud_Service_Provider_Package": "WalkMe DAP",
+        "Path": "Agency",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR1935661915",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "CSP_URL": "https://www.fedramp.gov/assets/img/logos/CSP_logos/WalkMe%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.walkme.com",
+        "CSO_Description": "Within the WalkMe DAP boundary, there are 3 Primary areas (Zones).  These zones include the WalkMe Runtime Services Virtual Private Cloud (VPC), WalkMe Backend Services Virtual Private Cloud (VPC), and the WalkMe Platform Management Virtual Private Cloud (VPC).\nThe Runtime Service VPC is the client front facing zone for the application.  In the zone there are the following:\n*  Internet Gateway – An Internet Gateway is a logical connection between the AWS VPC and the Internet. It allows for internet traffic traverse into a VPC.\n*  NAT Gateway – this is a network interface that automatically assigns private IP addresses from the IP address range of the private subnet to EC2 instances and  allows to communicate securely over the internet.\n*  Kong Gateway - Kong is an open-source API gateway and platform that acts as middleware between compute clients and the API-centric applications. The Kong API gateway is installed and resides locally on WalkMe internal environment platform, data is not sent externally; updates are obtained, managed, and deployed by WalkMe via their configuration management process.\n*  Application Load Balancer (ALB) – this is an AWS Elastic Load Balancer that automatically distributes incoming traffic across multiple targets, such as EC2 instances, containers, and IP addresses\n*  Network Load Balancer (NLB) - this is an AWS Elastic Load Balancer that automatically distributes incoming traffic across multiple targets, such as EC2 instances, containers, and IP addresses\n*  VPC Router – this router manages network traffic between the internal subnets in the Runtime Service VPC.\n*  Relational Database Service (RDS) – used to store encrypted MySQL data. \n*  AWS Elasticache Service – this AWS service houses the Redis database cache and message broker service.\n*  Amazon Elastic Kubernetes Service (Amazon EKS) is a managed container service to run and scale Kubernetes applications in the application.\n*  Kubernetes Ingress - Ingress is an API resource that allows for the management of external or internal HTTP(S) access to Kubernetes services running in a cluster. The Kubernetes Ingress controller is a service that is running within the Kubernetes cluster which manages the access to the microservices. All communication is encrypted over HTTPS TLS 1.2\n*  Simple Storage Service (S3) – Provides highly scalable, secure storage at AWS.\nThe Backend Service VPC is where the WalkMe Editor is housed.  In the zone there are the following:\n*  Internet Gateway – An Internet Gateway is a logical connection between the AWS VPC and the Internet. It allows for internet traffic traverse into a VPC.\n*  NAT Gateway – this is a network interface that automatically assigns private IP addresses from the IP address range of the private subnet to EC2 instances and  allows to communicate securely over the internet.\n*  Kong Gateway - Kong is an open-source API gateway and platform that acts as middleware between compute clients and the API-centric applications. The Kong API gateway is installed and resides locally on WalkMe internal environment platform, data is not sent externally; updates are obtained, managed, and deployed by WalkMe via their configuration management process.\n*  AWS CodeDeploy - CodeDeploy is a service that automates code deployments to any instance, including Amazon EC2 instances and instances running on-premises. \n*  Application Load Balancer (ALB) – this is an AWS Elastic Load Balancer that automatically distributes incoming traffic across multiple targets, such as EC2 instances, containers, and IP addresses\n*  Network Load Balancer (NLB) - this is an AWS Elastic Load Balancer that automatically distributes incoming traffic across multiple targets, such as EC2 instances, containers, and IP addresses\n*  VPC Router – this router manages network traffic between the internal subnets in the Runtime Service VPC.\n*  Relational Database Service (RDS) – used to store encrypted MySQL data. \n*  AWS Elasticache Service – this AWS service houses the Redis database cache and message broker service.\n*  Amazon Elastic Kubernetes Service (Amazon EKS) is a managed container service to run and scale Kubernetes applications in the application.\n*  Kubernetes Ingress - Ingress is an API resource that allows for the management of external or internal HTTP(S) access to Kubernetes services running in a cluster. The Kubernetes Ingress controller is a service that is running within the Kubernetes cluster which manages the access to the microservices. All communication is encrypted over HTTPS TLS 1.2\n*  Simple Storage Service (S3) – Provides highly scalable, secure storage at AWS.\n*  Elastic File System (EFS) – this AWS service houses the EFS\\ which is a file-level storage service that provides a shared elastic file system with scalability support.\n*  Amazon MSK - Amazon Managed Streaming for Apache Kafka (Amazon MSK) is a fully managed service that makes it easy for you to build and run applications that use Apache Kafka to process streaming and event data\nThe Platform Management VPC is a zone that contains systems that manage the activities of the Runtime and Backend services VPCs.  This zone contains the following:\n*  Internet Gateway – An Internet Gateway is a logical connection between the AWS VPC and the Internet. It allows for internet traffic traverse into a VPC.\n*  NAT Gateway – this is a network interface that automatically assigns private IP addresses from the IP address range of the private subnet to EC2 instances and  allows to communicate securely over the internet.\n*  Relational Database Service (RDS) – used to store encrypted MySQL data. \n*  AWS Elasticache Service – this AWS service houses the Redis database cache and message broker service.\n*  Amazon Elastic Kubernetes Service (Amazon EKS) is a managed container service to run and scale Kubernetes applications in the application.\n*  Kubernetes Ingress - Ingress is an API resource that allows for the management of external or internal HTTP(S) access to Kubernetes services running in a cluster. The Kubernetes Ingress controller is a service that is running within the Kubernetes cluster which manages the access to the microservices. All communication is encrypted over HTTPS TLS 1.2\n*  Amazon WorkSpaces VM – this is a “bastion host” for system administrators to use to access the WalkMe infrastructure, this also connects to the GCP components via a site to site VPN.\nThe GCP platform is used to house multiple VPCs.  These include the Virtual Network QA NoSQL VPC, The Virtual Network PROD NoSQL VPC, and two Production Data VPCs.\nGCP services used in these zones include:\n*  VPC Peering –  Google Cloud VPC Network Peering allows internal IP address connectivity across two Virtual Private Cloud (VPC) networks regardless of whether they belong to the same project or the same organization.\n*  NoSQL DB – A NoSQL database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases.\n*  TimeSeries DB – A time-series database (TSDB) is a computer system that is designed to store and retrieve data records that are part of a “time series,” which is a set of data points that are associated with timestamps.\n*  Application Load Balancers - A load balancer that distributes user traffic across multiple instances of applications.\n*  API Load Balancer - Load balancer that allows fine-grained configuration of how incoming traffic is distributed across VM instances\n*  Dataproc - Dataproc Spark service is used for autoscaling and Integration with other Google Cloud services such as Cloud Storage, BigQuery.  Communication and dataflow for this service is encrypted with FIPS validated module (Cert#3678)\n*  CloudSQL Services - Cloud SQL is used to store the metadata WalkMe systems to support the analytics platform, e.g., the filters customers configure in the analytics platform. Cloud SQL data is encrypted when on Google’s internal networks and when stored in database tables, temporary files, and backups. Every Cloud SQL instance includes a Google managed network firewall, allowing network access to database instances. Cloud SQL uses Google Cloud's Encryption Key Management Service (KMS) to manage the encryption keys used to encrypt the data. WalkMe owns the keys and data at rest encryption is enabled by default for all Cloud SQL instances.\n*  EKS - Google Kubernetes Engine (GKE) is a managed, production-ready environment for running containerized applications.\n*  Cloud VPN - Cloud VPN securely connects your peer network to your Virtual Private Cloud (VPC) network through an IPsec VPN connection.\n*  Cloud Router - Cloud Router is a fully distributed and managed Google Cloud service that uses the Border Gateway Protocol (BGP) to advertise IP address ranges. It programs custom dynamic routes based on the BGP advertisements that it receives from a peer\n*  Cloud NAT - Cloud NAT is a distributed, software-defined managed service. It's not based on proxy VMs or appliances. Cloud NAT configures the Andromeda software that powers your Virtual Private Cloud (VPC) network so that it provides source network address translation (source NAT or SNAT) for VMs without external IP addresses. Cloud NAT also provides destination network address translation (destination NAT or DNAT) for established inbound response packets.\n*  Cloud Firewall Rules - Every VPC network functions as a distributed firewall. While firewall rules are defined at the network level, connections are allowed or denied on a per-instance basis.\n*  Cloud DNS - Google Cloud DNS is a high-performance, resilient, global Domain Name System (DNS) service.\n*  KMS - Cloud KMS is a REST API that can use a key to encrypt, decrypt, or sign data such as secrets for storage.\n*  Secret Manager - Secret Manager is a secure and convenient storage system for API keys, passwords, certificates, and other sensitive data. Secret Manager provides a central place and single source of truth to manage, access, and audit secrets across Google Cloud.\n*  Certificate Manager - cert-manager adds certificates and certificate issuers as resource types in Kubernetes clusters, and simplifies the process of obtaining, renewing and using those certificates. It can issue certificates from a variety of supported sources\n*  Cloud Functions - Google Cloud Functions is a serverless execution environment for building and connecting cloud services.\n*  BigQuery - BigQuery is used to store the analytics data collected from the WalkMe Player (the end users). BigQuery is a fully managed, petabyte scale, data warehouse for analytics. Because BigQuery is fully managed, customers can analyze data using SQL without a database administrator. BigQuery automatically encrypts and replicates data to ensure security, availability, and durability of customer data\n*  Cloud Storage - Cloud Storage is a service for storing your objects in Google Cloud. An object is an immutable piece of data consisting of a file of any format. You store objects in containers called buckets. All buckets are associated with a project, and you can group your projects under an organization.\n*  Identity-Aware Proxy - Identity-Aware Proxy (IAP) is a Google Cloud Platform service that intercepts web requests sent to an application, authenticates the user making the request using the Google Identity Service, and only lets the requests through if they come from a user who is authorized.",
+        "CSP_POC_Name": "Daniel Chechik",
+        "CSP_POC_Email": "public-sector-fed@walkme.com",
+        "Fedramp_Ready_Date": "2023-04-03T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "Wickr an Amazon Web Services (AWS) Company,",
         "Cloud_Service_Provider_Package": "Wickr for Government (WickrGov)",
         "Designation": "FedRAMP Ready",
@@ -24973,7 +25000,7 @@
         "Accreditation_Date": "2015-02-03T05:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/TalaTek%20Logo2.png",
         "Description": "TalaTek helps partners make the FedRAMP process a stepping stone to success versus an obstacle that stands in your way. If you’re a CSP who feels ready to become an approved FedRAMP provider, TalaTek’s certified 3PAO services will help you conduct a fair and independent assessment of your systems so that you can seek an agency-sponsored ATO or JAB Provisional ATO. Our unparalleled expertise with the rigorous and unique requirements of the FedRAMP assessment process means we can provide a thorough and timely assessment that will identify any and all residual risk within an information system. We guide clients through the multiple layers of the submission process in order to obtain FedRAMP certification.",
-        "POC_Name": "Baan Alsinawi",
+        "POC_Name": "Isaac Hur",
         "POC_Email": "3pao@talatek.com",
         "website": "www.talatek.com",
         "Remediation": "N",
