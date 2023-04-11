@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-04-10T04:40:51.256Z",
+    "Created_At": "2023-04-11T04:40:51.396Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -404,14 +404,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-04-01T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-04-07T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-04-07T04:00:00.000Z",
-            "Authorizing_Agency": "United States Government Publishing Office",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USGPO%20Logo.jpg",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2021-06-23T04:00:00.000Z",
             "Letter_Expiration_Date": "2024-06-23T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-06-23T04:00:00.000Z",
@@ -434,6 +426,14 @@
             "Authorizing_Agency": "Federal Housing Finance Agency",
             "Authorizing_Subagency": "FHFA Office of the Inspector General",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-07-06T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-07-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-07-07T04:00:00.000Z",
+            "Authorizing_Agency": "United States Government Publishing Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USGPO%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -6206,14 +6206,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2023-04-01T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-03-17T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Authorizing_Subagency": "Fish and Wildlife Service",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-06-30T04:00:00.000Z",
             "Letter_Expiration_Date": "2023-07-08T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-07-08T04:00:00.000Z",
@@ -6486,6 +6478,14 @@
             "Authorizing_Agency": "Department of Justice",
             "Authorizing_Subagency": "Executive Office for United States Attorneys",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-03-21T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-03-25T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Authorizing_Subagency": "Fish and Wildlife Service",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -12099,18 +12099,17 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2022-07-06T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-04-07T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-07-07T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Authorizing_Letter_Last_Sign_Date": "2022-08-30T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Treasury",
             "Authorizing_Subagency": "Internal Revenue Service",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-04-06T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-04-07T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -15074,6 +15073,13 @@
             "Letter_Expiration_Date": "2023-03-25T04:00:00.000Z",
             "Authorizing_Agency": "General Services Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-03-20T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-03-30T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Housing Finance Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -20452,7 +20458,8 @@
         "Underlying_CSP_Package_ID": [
           "F1603087869",
           "MSO365MT",
-          "F1512167750"
+          "F1512167750",
+          "F1603047866"
         ],
         "CSP_Website": "https://www.softwareaggov.com",
         "CSO_Description": "Software AG Government Cloud is a PaaS provider for Software AG’s family of products including: \n\n* The API Management and Integration Platform, webMethods, including API Gateway, Developer Portal, and MFT (Managed File Transfer).\n* The Enterprise Architecture and IT Planning and Portfolio Management solutions, Alfabet and ARIS.\n* The Process Analysis, Mining, and Simulation solution, ARIS Process Mining (APM)\n* The Data Ops Platform, StreamSets, including the StreamSets Control Hub.\n\n**Platform Implementation Details:** \n\n* Fast deployment into our Government Cloud at FedRAMP Moderate.\n* Central contact point for all issues including hosting, software deployment, and end-user support.\n* Single Tenant deployments per customer providing peace of mind security while avoiding multi-tenant headaches.\n* Shared US based, Help Desk, Security, and Operations Staff to optimize cost and skillset management.\n* Single-Sign-On Capability leveraging approved SAML providers supporting PIV/CAC authentication.\n* Environment provisioning and operations exceeding NIST 800-53 Rev 4 FedRAMP Moderate.\n* Advanced logging, metrics, and dashboards.\n* Container based implementations utilizing Kubernetes, modern toolsets, and zero trust networking.\n* All US Person staff and management  \n\n**Platform Benefits:** \n\n* Faster time-to-value for the mission.\n* Well-defined tenant boundary for streamlined agency ATO signoff.\n* Simplified cost structure removing separate costs for hardware, software and hosting removing capital funding requirements.\n* Reduced training and staffing requirements for software configuration and patch/upgrade cycles.\n* Pre-configured government tailored templates and accelerators.",
@@ -21752,10 +21759,10 @@
           "F1603047866"
         ],
         "CSP_Website": "https://gov.irbnet.org",
-        "CSO_Description": "IRBNet's powerful suite of web-based, Software as a Service (SaaS) research compliance solutions provide electronic submission, collaboration and workflow tools that currently serve thousands of research institutions, compliance boards and sponsors, and hundreds of thousands of users, across IRBNet's National Research Network (commercial) and IRBNet on GovCloud (government).\nIRBNet research compliance solutions support institutions of any size, and currently serve hospitals and hospital networks, universities and academic research institutions, and federal and state agencies. IRBNet’s secure suite of tools is accessible anywhere, anytime, supporting real-time collaboration between investigators and institutions anywhere in the world, helping to streamline compliance workflow, reduce review and approval cycle times, reduce errors and non-compliance, increase staff efficiency, and improve audit trails and record keeping.  IRBNet's tools are fully integrated and configurable, and support all institutional compliance offices, investigators and board members, including:\n*  Institutional Review Boards (IRB)\n*  Institutional Biosafety Committees (IBC)\n*  Institutional Animal Care and Use Committees (IACUC)\n*  Research & Development Committees\n*  Radiation Safety Committees\n*  Scientific Review Committees\n*  Conflict of Interest (COI) and other specialty committees\nIRBNet provides the following core features to support local Agency mission needs and critical business functions, supporting compliance boards and researchers throughout the entire lifecycle of the research review and compliance process:\n*  Project assembly, documentation and team collaboration\n*  Electronic submissions\n*  Routing, tracking and alerting tools for committee member review\n*  Tracking of committee member comments and pre-reviews prior to meetings\n*  Cross-institutional collaboration and communication tools\n*  Custom Form Wizards to improve guidance and document quality (application forms, etc.)\n*  Tracking of researcher and committee training and credentials\n*  Multi-Site studies\n*  Instant notification of study approval and other key events\n*  Automated continuing review alerts\n*  Quality control and pre-review tools\n*  Agenda and Minutes Builders\n*  Personalized Approval Letter and Correspondence Wizards\n*  Document version control and history\n*  Multi-board workflow management\n*  Audit and oversight functions\nIRBNet also provides the following optional integration features to meet Agency mission needs:\n*  IRBNet provides an optional connection to the WCG IRB for commercial IRB review services.  This service allows Agencies to seamlessly send research studies for commercial IRB approval, and receive back approval documentation such as Approval Letters, while maintaining oversight of the complete research portfolio (both internal and external).\n*  IRBNet provides an optional connection to external training sources, such as Agency training systems or the national CITI program, to pull training information for researchers and committee members so that this information is readily available during compliance and review processes.\n*  IRBNet provides an optional Single Sign-On federated authentication capability for Agency authentication frameworks such as PIV/CAC, to provide seamless access to Agency users.\n\nIRBNet on GovCloud is the Government Community Cloud offering of the IRBNet SaaS.  IRBNet on GovCloud is hosted in multiple availability zones within the Amazon Web Services (AWS) FedRAMP-authorized GovCloud Infrastructure as a Service / Platform as a Service (IaaS/PaaS).  All AWS GovCloud data centers are within the Continental United States (CONUS) and meet FedRAMP High Impact-level requirements for IaaS/PaaS.  \nIRBNet on GovCloud is managed by Research Dataware LLC., an operating unit of WCG Clinical, Inc. (WCG).   WCG is the world’s leading provider of solutions that measurably improve the quality and efficiency of clinical research. The industry’s first clinical services organization (CSO), WCG enables biopharmaceutical companies, CROs, and institutions to accelerate the delivery of new treatments and therapies to patients, while maintaining the highest standards of human subject protection.\n\nTo find out more about how IRBNet on GovCloud can serve your Agency, please contact: GovCloud@irbnet.org\n\n",
+        "CSO_Description": "IRBNet's powerful suite of web-based, Software as a Service (SaaS) research compliance solutions provide electronic submission, collaboration and workflow tools that currently serve thousands of research institutions, compliance boards and sponsors, and hundreds of thousands of users, across IRBNet's National Research Network (commercial) and IRBNet on GovCloud (government).\n\nIRBNet research compliance solutions support institutions of any size, and currently serve hospitals and hospital networks, universities and academic research institutions, and federal and state agencies. IRBNet’s secure suite of tools is accessible anywhere, anytime, supporting real-time collaboration between investigators and institutions anywhere in the world, helping to streamline compliance workflow, reduce review and approval cycle times, reduce errors and non-compliance, increase staff efficiency, and improve audit trails and record keeping.  IRBNet's tools are fully integrated and configurable, and support all institutional compliance offices, investigators and board members, including:\n\n*  Institutional Review Boards (IRB)\n*  Institutional Biosafety Committees (IBC)\n*  Institutional Animal Care and Use Committees (IACUC)\n*  Research & Development Committees\n*  Radiation Safety Committees\n*  Scientific Review Committees\n*  Conflict of Interest (COI) and other specialty committees\n\nIRBNet provides the following core features to support local Agency mission needs and critical business functions, supporting compliance boards and researchers throughout the entire lifecycle of the research review and compliance process:\n\n*  Project assembly, documentation and team collaboration\n*  Electronic submissions\n*  Routing, tracking and alerting tools for committee member review\n*  Tracking of committee member comments and pre-reviews prior to meetings\n*  Cross-institutional collaboration and communication tools\n*  Custom Form Wizards to improve guidance and document quality (application forms, etc.)\n*  Tracking of researcher and committee training and credentials\n*  Multi-Site studies\n*  Instant notification of study approval and other key events\n*  Automated continuing review alerts\n*  Quality control and pre-review tools\n*  Agenda and Minutes Builders\n*  Personalized Approval Letter and Correspondence Wizards\n*  Document version control and history\n*  Multi-board workflow management\n*  Audit and oversight functions\n\nIRBNet also provides the following optional integration features to meet Agency mission needs:\n\n*  IRBNet provides an optional connection to the WCG IRB for commercial IRB review services.  This service allows Agencies to seamlessly send research studies for commercial IRB approval, and receive back approval documentation such as Approval Letters, while maintaining oversight of the complete research portfolio (both internal and external).\n*  IRBNet provides an optional connection to external training sources, such as Agency training systems or the national CITI program, to pull training information for researchers and committee members so that this information is readily available during compliance and review processes.\n*  IRBNet provides an optional Single Sign-On federated authentication capability for Agency authentication frameworks such as PIV/CAC, to provide seamless access to Agency users.\n\nIRBNet on GovCloud is the Government Community Cloud offering of the IRBNet SaaS.  IRBNet on GovCloud is hosted in multiple availability zones within the Amazon Web Services (AWS) FedRAMP-authorized GovCloud Infrastructure as a Service / Platform as a Service (IaaS/PaaS).  All AWS GovCloud data centers are within the Continental United States (CONUS) and meet FedRAMP High Impact-level requirements for IaaS/PaaS. IRBNet on GovCloud is managed by Research Dataware LLC., an operating unit of WCG Clinical, Inc. (WCG).   WCG is the world’s leading provider of solutions that measurably improve the quality and efficiency of clinical research. The industry’s first clinical services organization (CSO), WCG enables biopharmaceutical companies, CROs, and institutions to accelerate the delivery of new treatments and therapies to patients, while maintaining the highest standards of human subject protection.\n\nTo find out more about how IRBNet on GovCloud can serve your Agency, please contact: GovCloud@irbnet.org\n\n",
         "Announcement_Date": "2023-03-31T04:00:00.000Z",
-        "CSP_POC_Name": "John Katen",
-        "CSP_POC_Email": "fedramp@irbnet.org",
+        "CSP_POC_Name": "Andy Olmsted",
+        "CSP_POC_Email": "GovCloud@irbnet.org",
         "FedRAMP_In-Process_Date": "2021-10-07T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
@@ -24514,7 +24521,7 @@
         "website": "www.coalfire.com",
         "Remediation": "N",
         "Founded": 2001,
-        "Primary_Office_Locations": "* 1900 Campus Commons Drive, Suite 300, Reston, VA 20191\n* 11000 Westmoor Circle Suite 450, Westminster, CO 80021\n* 1633 Westlake Avenue North Suite 100, Seattle, WA 98109\n* 8820 Columbia 100 Parkway, Suite 401, Columbia, MD 21045\n* 22630 Davis Drive Suite 225, Sterling, VA 20164\n* 11120 NE 33rd Place, Suite 100 Bellevue, WA 98005",
+        "Primary_Office_Locations": "8480 E Orchard Rd., Suite 5800, Greenwood Village, CO 80111",
         "FedRAMP_Assessed": "* BMC Remedy\n* Carpathia/VMWare\n* Datapipe\n* Decision Lens\n* HPE Helion\n* Huddle\n* IBM Fiberlink MaaS360\n* Lockheed Martin\n* Microsoft Parature\n* Oracle Service Cloud (DOD)\n* Oracle FMCS\n* Softlayer\n* Virtustream",
         "Provide_Consulting_Services": "Y",
         "Description_of_Consulting_Services": "Coalfire provides FedRAMP Advisory Support Services to customers who are interested in becoming FedRAMP certified. The level of support can vary, depending on the customer’s overall readiness. For those CSPs who are unfamiliar with the FedRAMP program or are new to the Federal space, we generally start with a Compliance Review to set a baseline for them to obtain a FedRAMP authorization and to determine where their gaps are with achieving compliance. For those CSPs who already understand the FedRAMP requirements, we conduct a technical engineering review to determine if the mandatory requirements for FedRAMP are in fact met. Depending on the need, we can provide additional vulnerability scanning support to ensure inventoried assets are properly patched and configured prior to the 3PAO assessment. Once the system is fully built and operational, our team works with the CSP to document the implementation of the security controls in the System Security Plan and complete the necessary attachments required for FedRAMP submission.",
