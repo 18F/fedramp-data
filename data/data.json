@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-04-11T04:40:51.396Z",
+    "Created_At": "2023-04-12T04:40:51.324Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -6559,6 +6559,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2023-03-16T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Treasury",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-01-12T05:00:00.000Z",
+            "Letter_Expiration_Date": "2026-01-08T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-01-12T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "National Nuclear Security Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -18213,13 +18222,6 @@
         "FedRAMP_In-Process_Date": "2019-03-09T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
-            "Letter_Expiration_Date": "2023-04-10T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-04-10T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Veterans Affairs",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-06-30T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-07-07T04:00:00.000Z",
             "Authorizing_Agency": "National Science Foundation",
@@ -23612,29 +23614,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "PowerTrain Inc.",
-        "Cloud_Service_Provider_Package": "USALearning Federal Learning Enclave - PaaS",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2213436880",
-        "Service_Model": [
-          "PaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Office of Personnel Management",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-OfficeOfPersonnelManagement-Seal.png",
-        "Authorizing_Agency": "Office of Personnel Management",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/PowerTrain%20Logo.png",
-        "Independent_Assessor": "MindPoint Group, LLC",
-        "CSP_Website": "www.powertrain.com",
-        "CSO_Description": "The USALearning Federal Learning Enclave (USAL FLE) is a fully managed Platform-as-a-Service (PaaS) that offers Government agencies and their partners the ability to host mission critical applications in an authorized FedRAMP Moderate Level environment. The USAL FLE offers infrastructure management, service management, application management, automation, cybersecurity, risk management, compliance, optimization and transparency support services to assist DoD and Federal Agencies in achieving and maintaining a higher-level security posture that supports mission execution.",
-        "CSP_POC_Name": "Courtney Cox",
-        "CSP_POC_Email": "ccox@powertrain.com",
-        "FedRAMP_In-Process_Date": "2022-02-14T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Proofpoint, Inc.",
         "Cloud_Service_Provider_Package": "Proofpoint Security Awareness Training",
         "Path": "Agency",
@@ -23717,6 +23696,26 @@
         "CSP_POC_Name": "QuestionPro Security Team",
         "CSP_POC_Email": "security-compliance@questionpro.com",
         "FedRAMP_In-Process_Date": "2023-03-06T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Quzara, LLC.",
+        "Cloud_Service_Provider_Package": "Quzara Cybertorch™ (SOC-as-a-Service)",
+        "Path": "JAB",
+        "Designation": "FedRAMP Ready",
+        "Package_ID": "FR2214150164",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Quzara%20Logo.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "CSP_Website": "https://quzara.com/solutions/cybertorch/mxdr",
+        "CSO_Description": "Quzara Cybertorch™ (Cybertorch) is a Managed Detection and Response (MDR) Platform providing SOC-As-A-Service (SOCaaS). The system under consideration for FedRAMP is intended solely for use by United States Federal, State, Local, and Tribal Governments, Government Consultants, and Federally Funded Research and Development Centers (FFRDC) (referred to throughout the following sections as “customers”) delivered through a Government Community Cloud Deployment Model.\n\nCybertorch delivers Managed Vulnerability Management and Security Monitoring solutions and services. The security monitoring capabilities extend to cloud, datacenters, on-premises, IoT, OT signals converging to a single correlation, aggregation and analysis fusion capability driven and built on Zero trust principles, purpose-built to FedRAMP HIGH and DoD Security Requirements Guide (SRG). \n\nThese services are delivered through a Platform which leverages components of Software-as-a-Service (SaaS) and Platform-as-a-Service (PaaS) as defined in NIST SP 800-145 (NIST Definition of Cloud Computing. Cybertorch services and security architecture are based on Zero Trust Architecture principles described in NIST SP 200-207 (Zero Trust Architecture) for Enclave-based deployments and Enhanced Identity Government. Further, concepts of control plane and data plane are used throughout the architecture to segregate and isolate customers data.\n\nBuilding on these security and trust architecture concepts, Cybertorch’ s unified platform allows the delivery and support of full end to end security coverage utilizing in-house security analysts along with Artificial Intelligence engines. Cybertorch provides managed Security Operations Services providing prevention, detection, and remediation services for the Customer.\n\nCybertorch is supported by an enterprise-class cloud computing architecture that is delivered on the Government regions of Azure Infrastructure-as-a-Service (IaaS) platform. ",
+        "CSP_POC_Name": "Jenna O'Hop",
+        "CSP_POC_Email": "cybertorch@quzara.com",
+        "Fedramp_Ready_Date": "2023-04-04T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -24044,7 +24043,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Splunk Inc",
+        "Cloud_Service_Provider_Name": "Splunk",
         "Cloud_Service_Provider_Package": "Splunk Cloud Fed",
         "Path": "Agency",
         "Designation": "In Process",
