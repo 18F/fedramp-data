@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-04-24T04:40:50.960Z",
+    "Created_At": "2023-04-25T04:40:50.911Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -743,15 +743,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-04-10T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-04-22T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-04-22T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Food and Drug Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Authorizing_Letter_Last_Sign_Date": "2020-12-14T05:00:00.000Z",
             "Authorizing_Agency": "Department of Labor",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
@@ -779,6 +770,15 @@
             "Authorizing_Agency": "Department of Commerce",
             "Authorizing_Subagency": "National Oceanic and Atmospheric Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-04-12T04:00:00.000Z",
+            "Letter_Expiration_Date": "2026-04-21T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-04-21T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Food and Drug Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -6502,6 +6502,15 @@
             "Authorizing_Agency": "United States Agency for International Development",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAID-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-04-19T04:00:00.000Z",
+            "Letter_Expiration_Date": "2026-04-20T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-04-20T04:00:00.000Z",
+            "Authorizing_Agency": "Department of State",
+            "Authorizing_Subagency": "State Office of the Inspector General",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -6728,6 +6737,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2023-02-03T05:00:00.000Z",
             "Authorizing_Agency": "Federal Retirement Thrift Investment Board",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRTIB%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-04-20T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-04-20T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-04-20T04:00:00.000Z",
+            "Authorizing_Agency": "Deparment of the Interior",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -8398,51 +8415,6 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-08-22T04:00:00.000Z",
             "Authorizing_Agency": "Environmental Protection Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Environmental_Protection_Agency_logo.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Nutanix",
-        "Cloud_Service_Provider_Package": "Nutanix Government Cloud Services",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "FR1824038232",
-        "Service_Model": [
-          "PaaS, SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2020-03-19T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Commerce",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
-        "Authorizing_Agency": "Department of Commerce",
-        "Authorizing_Subagency": "United States Patent and Trademark Office",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Nutanix%20Logo.png",
-        "Independent_Assessor": "NCC Group Security Services, Inc.",
-        "Underlying_CSP_Package_ID": [
-          "F1206061353",
-          "AGENCYAMAZONEW",
-          "F1603047866",
-          "FR1805751477",
-          "F1603087869",
-          "F1512167750",
-          "FR1823447014"
-        ],
-        "CSP_Website": "https://www.nutanix.com/solutions/federal",
-        "CSO_Description": "The Nutanix Government Cloud is a dedicated instance of our SaaS and PaaS offerings for the exclusive use of US government agencies and supporting customers. It is hosted and operated in CONUS and managed by US citizens in adherence to U.S. International Traffic in Arms Regulations (ITAR) regulations. The Nutanix Government Cloud platform currently consists of the following services: Frame, Beam, Flow Security Central, and Nutanix Clusters on AWS GovCloud.\rFrame is a managed Desktop-as-a-Service (DaaS) solution that lets you access your apps or desktops via a browser on any device and from any location. Easily connect to your Government Cloud, Public Cloud, or Datacenter environments and create virtual workspaces for your teams, customers, or partners in under an hour. Frame running in Nutanix Government Cloud supports secure remote desktops in AWS GovCloud, Azure Government, Azure Public, Google Cloud Platform, and on-premises using Nutanix AHV hypervisor.\rBeam is a hybrid cloud cost governance service that provides organizations with deep visibility and rich analytics needed to control costs across public and private clouds. Beam proactively identifies idle and underutilized resources and delivers intelligent recommendations to purchase reserved instances that drive deep cost savings. Beam also provides out-of-the-box cost metering for Nutanix private cloud along with unified private and public cloud chargeback that drives financial accountability and keeps cloud spending within budgets.\rFlow Security Central is a hybrid and multi cloud security monitoring service to ensure continuous security and simplify micro-segmentation policy planning. Flow Security Central helps gain visibility into the security posture of a hybrid cloud environment including a Nutanix based private cloud and AWS and Azure public clouds. It can also help with assessment of regulatory compliance auditing and reporting.\rNutanix Clusters on AWS GovCloud is the industry’s first Hybrid Multi-cloud platform with natively integrated networking between private and public clouds that allows seamless application migration and license portability across environments. Nutanix Clusters on AWS GovCloud enables customers to run the full Nutanix software stack on private or public clouds. Nutanix Clusters on AWS GovCloud can help with seamlessly migrating existing applications, software licenses and operational practices across clouds without any rearchitecting. Clusters deployed on public clouds are centrally managed along with on-premises Nutanix clusters using any existing Nutanix Prism Central instance, providing nearly identical functionality and allowing for the operation of private and multiple public clouds as a “single cloud.” Nutanix Clusters on AWS GovCloud runs on bare metal AWS EC2 instances in AWS GovCloud regions.",
-        "Announcement_Date": "2020-05-01T04:00:00.000Z",
-        "CSP_POC_Name": "Nutanix Compliance Team",
-        "CSP_POC_Email": "product_compliance@nutanix.com",
-        "FedRAMP_In-Process_Date": "2019-07-29T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2022-06-06T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-07-06T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-07-06T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Housing and Urban Development",
-            "Authorizing_Subagency": "HUD Office of the Inspector General",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHUD-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -18482,13 +18454,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2023-04-10T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-04-10T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Veterans Affairs",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-05-08T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-05-08T04:00:00.000Z",
             "Authorizing_Agency": "Federal Trade Commission",
@@ -18714,6 +18679,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2024-03-27T04:00:00.000Z",
             "Authorizing_Agency": "United States Agency for International Development",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/USAGM%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-04-10T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-04-03T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-04-19T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -19890,6 +19863,52 @@
         "CSP_POC_Email": "FedRAMP@snowflake.com",
         "FedRAMP_In-Process_Date": "2019-12-04T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Nutanix",
+        "Cloud_Service_Provider_Package": "Nutanix Government Cloud Services",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR1824038232",
+        "Service_Model": [
+          "PaaS, SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2020-03-19T04:00:00.000Z",
+        "Original_Expiration_Date": "2023-10-12T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Commerce",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
+        "Authorizing_Agency": "Department of Commerce",
+        "Authorizing_Subagency": "United States Patent and Trademark Office",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Nutanix%20Logo.png",
+        "Independent_Assessor": "NCC Group Security Services, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1206061353",
+          "AGENCYAMAZONEW",
+          "F1603047866",
+          "FR1805751477",
+          "F1603087869",
+          "F1512167750",
+          "FR1823447014"
+        ],
+        "CSP_Website": "https://www.nutanix.com/solutions/federal",
+        "CSO_Description": "The Nutanix Government Cloud is a dedicated instance of our SaaS and PaaS offerings for the exclusive use of US government agencies and supporting customers. It is hosted and operated in CONUS and managed by US citizens in adherence to U.S. International Traffic in Arms Regulations (ITAR) regulations. The Nutanix Government Cloud platform currently consists of the following services: Frame, Beam, Flow Security Central, and Nutanix Clusters on AWS GovCloud.\rFrame is a managed Desktop-as-a-Service (DaaS) solution that lets you access your apps or desktops via a browser on any device and from any location. Easily connect to your Government Cloud, Public Cloud, or Datacenter environments and create virtual workspaces for your teams, customers, or partners in under an hour. Frame running in Nutanix Government Cloud supports secure remote desktops in AWS GovCloud, Azure Government, Azure Public, Google Cloud Platform, and on-premises using Nutanix AHV hypervisor.\rBeam is a hybrid cloud cost governance service that provides organizations with deep visibility and rich analytics needed to control costs across public and private clouds. Beam proactively identifies idle and underutilized resources and delivers intelligent recommendations to purchase reserved instances that drive deep cost savings. Beam also provides out-of-the-box cost metering for Nutanix private cloud along with unified private and public cloud chargeback that drives financial accountability and keeps cloud spending within budgets.\rFlow Security Central is a hybrid and multi cloud security monitoring service to ensure continuous security and simplify micro-segmentation policy planning. Flow Security Central helps gain visibility into the security posture of a hybrid cloud environment including a Nutanix based private cloud and AWS and Azure public clouds. It can also help with assessment of regulatory compliance auditing and reporting.\rNutanix Clusters on AWS GovCloud is the industry’s first Hybrid Multi-cloud platform with natively integrated networking between private and public clouds that allows seamless application migration and license portability across environments. Nutanix Clusters on AWS GovCloud enables customers to run the full Nutanix software stack on private or public clouds. Nutanix Clusters on AWS GovCloud can help with seamlessly migrating existing applications, software licenses and operational practices across clouds without any rearchitecting. Clusters deployed on public clouds are centrally managed along with on-premises Nutanix clusters using any existing Nutanix Prism Central instance, providing nearly identical functionality and allowing for the operation of private and multiple public clouds as a “single cloud.” Nutanix Clusters on AWS GovCloud runs on bare metal AWS EC2 instances in AWS GovCloud regions.",
+        "Announcement_Date": "2020-05-01T04:00:00.000Z",
+        "CSP_POC_Name": "Nutanix Compliance Team",
+        "CSP_POC_Email": "product_compliance@nutanix.com",
+        "FedRAMP_In-Process_Date": "2019-07-29T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2022-06-06T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-07-06T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-07-06T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Housing and Urban Development",
+            "Authorizing_Subagency": "HUD Office of the Inspector General",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHUD-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
       },
       {
         "Cloud_Service_Provider_Name": "Broadcom",
@@ -21552,7 +21571,7 @@
           "FR2003061248"
         ],
         "CSP_Website": "okta.com/federal",
-        "CSO_Description": "Okta IDaaS Government High Cloud service offering provides centralized identity and access management capabilities to customers who want to manage access across any application or device, whether they are on-premises in the customer’s office/data center or in the cloud. The Okta IDaaS platform is the primary application platform provided to customers. The IDaaS application provides several important features/capabilities, which are listed below.\n* Universal Directory: Okta Universal Directory provides a single view across all these groups with AD and LDAP directory integrations and out-of-the-box connections with HR systems, CSV files, and third-party IdPs.\n* Integration with Applications: Okta comes with pre-integrated applications that customers can select to allow their users to access them through the Okta Integration Network, either in their enterprise or in a cloud\n* Okta API Integration: Customers can also integrate their own applications with Okta API\n* Okta Sign-In Widget (SIW): SIW is the out of the box end user experience that our customers can deploy in an Okta hosted environment. SIW provides configurable user registration, sign in and recovery experience.\n* Okta Software Development Kit (SDKs): SDKs allow customers to build their own identity experience using Okta as a back end.\n* Okta Customer Organization Logging: Okta’s prebuilt monitoring, logging, and reporting tools make it easy to analyze security posture, user access events, lifecycle management transitions, security risks and other identity-related data.\n* Okta Admin Dashboard: Okta’s Admin Dashboard provides central administration and provisioning of users and the applications they can access.\n* Adaptive Multi-Factor Authentication (aMFA): Adaptive MFA provides an additional layer of security for access control, which gives Okta customers the ability to create contextual access policies that assess risk factors such as device, network, location, travel, IP, and other context at each step of the authentication process.\n* Single Sign-On (SSO): Okta SSO creates a seamless user experience by providing single sign-on to all the web and mobile applications users need to access.\n\n**Okta Verify:** Okta Verify is Okta’s native desktop and mobile application that can be used for mobile client-based MFA authentication. Okta Verify supports the following authentication mechanisms against a customers’ organization: Time-based One-time Password (TOTP), Okta Push Challenge-Response, and Okta FastPass (signed once challenge)\n\n",
+        "CSO_Description": "Okta IDaaS Government High Cloud service offering provides centralized identity and access management capabilities to customers who want to manage access across any application or device, whether they are on-premises in the customer’s office/data center or in the cloud. The Okta IDaaS platform is the primary application platform provided to customers. The IDaaS application provides several important features/capabilities, which are listed below.\n* Universal Directory: Okta Universal Directory provides a single view across all these groups with AD and LDAP directory integrations and out-of-the-box connections with HR systems, CSV files, and third-party IdPs.\n* Integration with Applications: Okta comes with pre-integrated applications that customers can select to allow their users to access them through the Okta Integration Network, either in their enterprise or in a cloud\n* Okta API Integration: Customers can also integrate their own applications with Okta API\n* Okta Sign-In Widget (SIW): SIW is the out of the box end user experience that our customers can deploy in an Okta hosted environment. SIW provides configurable user registration, sign in and recovery experience.\n* Okta Software Development Kit (SDKs): SDKs allow customers to build their own identity experience using Okta as a back end.\n* Okta Customer Organization Logging: Okta’s prebuilt monitoring, logging, and reporting tools make it easy to analyze security posture, user access events, lifecycle management transitions, security risks and other identity-related data.\n* Okta Admin Dashboard: Okta’s Admin Dashboard provides central administration and provisioning of users and the applications they can access.\n* Adaptive Multi-Factor Authentication (aMFA): Adaptive MFA provides an additional layer of security for access control, which gives Okta customers the ability to create contextual access policies that assess risk factors such as device, network, location, travel, IP, and other context at each step of the authentication process.\n* Single Sign-On (SSO): Okta SSO creates a seamless user experience by providing single sign-on to all the web and mobile applications users need to access.\n\n**Okta Verify:** Okta Verify is Okta’s native desktop and mobile application that can be used for mobile client-based MFA authentication. Okta Verify supports the following authentication mechanisms against a customers’ organization: Time-based One-time Password (TOTP), Okta Push Challenge-Response, and Okta FastPass (signed once challenge)\n\nThe following customer side components are authorized as part of the Okta IDaaS Government High Cloud (GHC) offering: Okta Active Directory (AD) Agent, and Okta LDAP Agent.\n",
         "Announcement_Date": "2023-03-23T04:00:00.000Z",
         "CSP_POC_Name": "Sean Frazier",
         "CSP_POC_Email": "fedramp@okta.com",
