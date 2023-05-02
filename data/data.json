@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-05-01T04:40:50.778Z",
+    "Created_At": "2023-05-02T04:40:51.024Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2347,7 +2347,7 @@
         "Authorizing_Agency": "Department of Defense",
         "Authorizing_Subagency": "United States Army",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/NICE%20inContact%20Logo.png",
-        "Independent_Assessor": "Moss Adams",
+        "Independent_Assessor": "Moss Adams (In-Remediation)",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW"
         ],
@@ -4970,7 +4970,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Peace%20Corps%20Logo.jpg",
         "Authorizing_Agency": "Peace Corps",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/HireVue%20Logo.png",
-        "Independent_Assessor": "Moss Adams",
+        "Independent_Assessor": "Moss Adams (In-Remediation)",
         "Underlying_CSP_Package_ID": [
           "F1603047866",
           "FR1912658130",
@@ -6441,6 +6441,7 @@
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2019-09-12T04:00:00.000Z",
+        "Original_Expiration_Date": "2023-06-01T04:00:00.000Z",
         "Sponsoring_Agency": "Department of Defense",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
         "Authorizing_Agency": "Department of Defense",
@@ -7472,18 +7473,19 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2021-11-27T05:00:00.000Z",
-            "Letter_Expiration_Date": "2023-01-31T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Defense",
-            "Authorizing_Subagency": "Defense Information Systems Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Expiration_Date": "2025-10-26T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-10-26T04:00:00.000Z",
             "Authorizing_Agency": "Federal Reserve System",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRS%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-04-28T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-11-09T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-04-28T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Defense Information Systems Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -11653,7 +11655,7 @@
         "Authorizing_Agency": "Department of Health and Human Services",
         "Authorizing_Subagency": "Food and Drug Administration",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Ideascale%20Logo.png",
-        "Independent_Assessor": "Moss Adams",
+        "Independent_Assessor": "Moss Adams (In-Remediation)",
         "Underlying_CSP_Package_ID": [
           "F1603047866"
         ],
@@ -12166,6 +12168,13 @@
             "Include_In_Marketplace": "Y"
           },
           {
+            "Letter_Date": "2022-08-02T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-08-02T04:00:00.000Z",
+            "Authorizing_Agency": "Commodity Futures Trading Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFTC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
             "Letter_Date": "2022-10-21T04:00:00.000Z",
             "Letter_Expiration_Date": "2023-10-21T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-10-21T04:00:00.000Z",
@@ -12578,7 +12587,7 @@
         "Authorizing_Agency": "Department of Justice",
         "Authorizing_Subagency": "Executive Office for United States Attorneys",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/NetDocuments%20Logo.png",
-        "Independent_Assessor": "Moss Adams",
+        "Independent_Assessor": "Moss Adams (In-Remediation)",
         "Underlying_CSP_Package_ID": [
           "F1206061353",
           "FR1823149273",
@@ -13513,7 +13522,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
         "Authorizing_Agency": "Department of Veterans Affairs",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/ID.me%20Logo.png",
-        "Independent_Assessor": "Moss Adams",
+        "Independent_Assessor": "Moss Adams (In-Remediation)",
         "Underlying_CSP_Package_ID": [
           "F1206061353",
           "AGENCYAMAZONEW",
@@ -14573,7 +14582,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-SmallBusinessAdmin-Seal.png",
         "Authorizing_Agency": "Small Business Administration",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/CircleCi%20Logo.png",
-        "Independent_Assessor": "Moss Adams",
+        "Independent_Assessor": "Moss Adams (In-Remediation)",
         "Underlying_CSP_Package_ID": [
           "F1603047866",
           "FR1812058188",
@@ -14605,7 +14614,7 @@
         "Authorizing_Agency": "Department of the Treasury",
         "Authorizing_Subagency": "Internal Revenue Service",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/eGain%20Logo.png",
-        "Independent_Assessor": "Moss Adams",
+        "Independent_Assessor": "Moss Adams (In-Remediation)",
         "Underlying_CSP_Package_ID": [
           "F1603047866",
           "F1603087869",
@@ -14879,7 +14888,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
         "Authorizing_Agency": "Department of Energy",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Rescale%20Logo.png",
-        "Independent_Assessor": "Moss Adams",
+        "Independent_Assessor": "Moss Adams (In-Remediation)",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW",
           "F1603047866",
@@ -15118,6 +15127,14 @@
             "Authorizing_Letter_Last_Sign_Date": "2022-12-22T05:00:00.000Z",
             "Authorizing_Agency": "Commodity Futures Trading Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/CFTC%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-05-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-05-01T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "Federal Energy Regulatory Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -16520,7 +16537,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
         "Authorizing_Agency": "Department of Veterans Affairs",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Digital.ai.png",
-        "Independent_Assessor": "Moss Adams",
+        "Independent_Assessor": "Moss Adams (In-Remediation)",
         "Underlying_CSP_Package_ID": [
           "F1603047866"
         ],
@@ -17219,7 +17236,7 @@
         "Sponsoring_Agency": "JAB Authorization",
         "Authorizing_Agency": "JAB Authorization",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Gordian%20Logo.png",
-        "Independent_Assessor": "Moss Adams",
+        "Independent_Assessor": "Moss Adams (In-Remediation)",
         "Underlying_CSP_Package_ID": [
           "F1209051525"
         ],
@@ -19277,8 +19294,8 @@
         "CSP_Website": "www.powertrain.com",
         "CSO_Description": "Software as a Service (SaaS) for the USALearning Federal Learning Enclave (USAL-FLE) supporting training and on-line system delivery, tracking, and reporting as well as a range of human capital solutions. FedRAMP product offerings include:\n* Full Learning Management System (LMS)\n* LMS-Lite\n* Custom modules to support Federal agencies including EHRI, SF-182, Single Sign-On, Two-Factor Authentication, IDP, registration, wait list, and enhanced reporting\n* Content Management System (CMS)\n* Learning Record Store (LRS) connected to learning activities and integrated with USAL LMS via xAPI\n* Additional Secure on-line applications including:\n* Event Registration System\n* Career Mapping Tool\n* Competency Management\n* Reporting Tool\n* Testing System * Survey Tool",
         "Announcement_Date": "2017-04-27T04:00:00.000Z",
-        "CSP_POC_Name": "Courtney Cox",
-        "CSP_POC_Email": "ccox@powertrain.com",
+        "CSP_POC_Name": "Melissa Jones",
+        "CSP_POC_Email": "Compliance@powertrain.com",
         "FedRAMP_In-Process_Date": "2014-01-01T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
@@ -19432,7 +19449,7 @@
         "Authorizing_Agency": "Department of Transportation",
         "Authorizing_Subagency": "Federal Aviation Administration",
         "CSP_URL": "https://www.fedramp.gov/assets/img/logos/CSP_logos/Tango%20Logo2.png",
-        "Independent_Assessor": "Moss Adams",
+        "Independent_Assessor": "Moss Adams (In-Remediation)",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW",
           "FR1807853629",
@@ -20319,7 +20336,7 @@
         "Authorizing_Agency": "Department of Health and Human Services",
         "Authorizing_Subagency": "National Center for Advancing Translational Sciences",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Datavant%20Logo.png",
-        "Independent_Assessor": "Moss Adams",
+        "Independent_Assessor": "Moss Adams (In-Remediation)",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW",
           "FR2023864279",
@@ -20620,7 +20637,7 @@
         "Authorizing_Agency": "Department of the Treasury",
         "Authorizing_Subagency": "Bureau of the Fiscal Service",
         "CSP_URL": "https://www.fedramp.gov/assets/img/logos/CSP_logos/Finvi%20Logo.png",
-        "Independent_Assessor": "Moss Adams",
+        "Independent_Assessor": "Moss Adams (In-Remediation)",
         "Underlying_CSP_Package_ID": [
           "F1603047866",
           "F1508207205",
@@ -21019,7 +21036,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
         "Authorizing_Agency": "Department of Veterans Affairs",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/QGenda%20Logo.png",
-        "Independent_Assessor": "Moss Adams",
+        "Independent_Assessor": "Moss Adams (In-Remediation)",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW",
           "F1206081364",
@@ -21857,7 +21874,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
         "Authorizing_Agency": "General Services Administration",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/GitHub_Logo.png",
-        "Independent_Assessor": "Moss Adams",
+        "Independent_Assessor": "Moss Adams (In-Remediation)",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW",
           "F1206081364",
@@ -22058,6 +22075,14 @@
             "Authorizing_Agency": "U.S. Election Assistance Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/EAC%20Logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-05-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-05-01T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "Federal Energy Regulatory Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -22196,7 +22221,7 @@
         "Authorizing_Agency": "Department of Transportation",
         "Authorizing_Subagency": "Federal Highway Administration",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Aurigo%20Logo.png",
-        "Independent_Assessor": "Moss Adams",
+        "Independent_Assessor": "Moss Adams (In-Remediation)",
         "CSP_Website": "https://www.aurigo.com/masterworks-cloud-platform/",
         "CSO_Description": "Masterworks Cloud Platform is an end-to-end software solution that automates every phase of the capital program lifecycle. Federal agencies use Masterworks to reduce risk, lower costs, and improve public engagement from capital planning and programming through to construction and operations of their infrastructure and facilities. Masterworks helps public officials prioritize capital investments, streamline funding, and deploy best-practice business processes throughout their organization. The system leverages leading technologies such as artificial intelligence (AI), social media, and mobile access to speed up the delivery of capital projects. Masterworks brings internal and external stakeholders together on the same, secure platform to eliminate data silos and improve collaboration.\n\nMasterworks Cloud Platform includes:\n\n* Capital Planning\n* Federal Aid Reimbursement\n* Aurigo Engage\n* Estimation and Bidding\n* Construction Project Management\n* Civil Rights and Labor Management \n* Consultant Service Contracting\n* Real Property Management\n* Permitting\n* Right of Way Management\n\n",
         "CSP_POC_Name": "Manish Sharma",
@@ -22762,7 +22787,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
         "Authorizing_Agency": "Department of Energy",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/eBuilder%20Logo.png",
-        "Independent_Assessor": "Moss Adams",
+        "Independent_Assessor": "Moss Adams (In-Remediation)",
         "CSP_Website": "www.e-builder.net",
         "CSO_Description": "e-Builder is a cloud-based, construction program management solution for capital projects that delivers trusted insight into performance across the entire project lifecycle. Facility owners improve project outcomes by streamlining business processes and centralizing project information. Business intelligence provides on-demand forecasts for informed decisions, improved change control and fewer unwanted surprises.\nDesigned to help facility owners, and those who act on their behalf, throughout the entire construction lifecycle, e-Builder Enterprise combines capital planning, cost management and controls, process automation, reports and dashboards, scheduling, document management, resource management and bid management in one integrated suite.\nEstablished in 1995, e-Builder’s software is used to manage key project data through the planning, design, procurement, and construction phases. With a focus on collaborative communication, e-Builder features modules that offer various levels of user accessibility, report generation and a configurable dashboard.",
         "CSP_POC_Name": "Mark Fritzinger",
@@ -22856,25 +22881,6 @@
         "CSP_POC_Name": "Michael Young",
         "CSP_POC_Email": "FedRAMP@esri.com",
         "FedRAMP_In-Process_Date": "2023-04-04T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "FormAssembly, Inc.",
-        "Cloud_Service_Provider_Package": "FormAssembly Gov Cloud",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR2031156016",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/FormAssembly%20Logo.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "CSP_Website": "https://www.formassembly.com/government-cloud/",
-        "CSO_Description": "FormAssembly Government Cloud provides federal clients with the ability to build, design, and manage web forms and surveys from a SaaS. FormAssembly Government Cloud is a Software-as-a-Service (SaaS) Cloud Service Offering (CSO) that provides federal clients with the ability to build, design, and manage web forms and surveys. FormAssembly Government Cloud supports PIV/CAC for authentication. A FormAssembly dashboard provides client administrators to add additional internal users and the ability to create forms. Clients can also collect data and eliminate manual data entry through smart integrations using FormAssembly Government Cloud. FormAssembly resides in the Amazon Web Services (AWS) US East/West, which maintains FedRAMP Moderate authorization. FormAssembly is responsible for managing all code and infrastructure – clients do not have access to the database servers and are not responsible for patching and management of the infrastructur",
-        "CSP_POC_Name": "Jaineesh Davda",
-        "CSP_POC_Email": "compliance@formassembly.com",
-        "Fedramp_Ready_Date": "2022-04-29T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -23258,7 +23264,7 @@
         "Authorizing_Agency": "Department of Justice",
         "Authorizing_Subagency": "Drug Enforcement Administration",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Lucid%20Logo.png",
-        "Independent_Assessor": "Moss Adams",
+        "Independent_Assessor": "Moss Adams (In-Remediation)",
         "CSP_Website": "https://lucid.co/solutions/government",
         "CSO_Description": "Lucid Software for Government helps teams see and build the future—faster. Bring your ideas to life, clarify complexity, and create seamless alignment across teams and organizations. \n\nGovernment agencies and contractors leverage Lucid products to document teams and processes, plan project deliverables on-time and within budget, visualize cloud architecture, and more. Lucid offers a secure, cloud-based environment for government agencies to accomplish their objectives visually. \n\nLucid Software for Government is available for the Lucid Visual Collaboration Suite, which includes both Lucidchart and Lucidspark, and is also available for Lucidscale. \n\n* **Lucidchart** is an intelligent diagramming application that allows users to visualize complex ideas, systems, and processes that drive alignment across teams. \n\n* **Lucidspark** is a virtual whiteboard application that enables teams to collaborate, ideate, and build better ideas, faster. \n\n* **Lucidscale** is a cloud visualization solution that helps organizations visualize their cloud environment and automate cloud documentation.  ",
         "CSP_POC_Name": "Neal Ferrell",
@@ -23508,7 +23514,7 @@
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "Moderate",
         "CSP_URL": "https://www.fedramp.gov/assets/img/logos/CSP_logos/NeoGov%20Logo.png",
-        "Independent_Assessor": "Moss Adams",
+        "Independent_Assessor": "Moss Adams (In-Remediation)",
         "CSP_Website": "www.neogov.com",
         "CSO_Description": "NEOGOV is a Software as a Service (SaaS) cloud provider of Human Capital Management (HCM) software. Our software meets the unique needs of government sector human resource (HR) management by managing the entire employee lifecycle, streamlining processes, and automating routine tasks. We provide HRMS and talent management software (TMS) that enable government agencies to source, recruit, hire, onboard, develop, and retain a high quality workforce that represents the communities they serve. Our HCM platform includes specific solutions for:\n\nRecruiting: applicant tracking, diversity (DEI) hiring, candidate relationship management (CRM), and employee onboarding.\n\nEmployee training, development, and retention: learning management system (LMS), electronic forms, and performance management.\n\nManaging employee data: human resources information system (HRIS) that includes core HR, time and attendance, benefits management, payroll, and payroll services.",
         "CSP_POC_Name": "NEOGOV FedRamp Team",
@@ -24614,7 +24620,7 @@
         "CSP_URL": "https://www.fedramp.gov/assets/img/logos/CSP_logos/WalkMe%20Logo.png",
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "www.walkme.com",
-        "CSO_Description": "Within the WalkMe DAP boundary, there are 3 Primary areas (Zones).  These zones include the WalkMe Runtime Services Virtual Private Cloud (VPC), WalkMe Backend Services Virtual Private Cloud (VPC), and the WalkMe Platform Management Virtual Private Cloud (VPC).\nThe Runtime Service VPC is the client front facing zone for the application.  In the zone there are the following:\n*  Internet Gateway – An Internet Gateway is a logical connection between the AWS VPC and the Internet. It allows for internet traffic traverse into a VPC.\n*  NAT Gateway – this is a network interface that automatically assigns private IP addresses from the IP address range of the private subnet to EC2 instances and  allows to communicate securely over the internet.\n*  Kong Gateway - Kong is an open-source API gateway and platform that acts as middleware between compute clients and the API-centric applications. The Kong API gateway is installed and resides locally on WalkMe internal environment platform, data is not sent externally; updates are obtained, managed, and deployed by WalkMe via their configuration management process.\n*  Application Load Balancer (ALB) – this is an AWS Elastic Load Balancer that automatically distributes incoming traffic across multiple targets, such as EC2 instances, containers, and IP addresses\n*  Network Load Balancer (NLB) - this is an AWS Elastic Load Balancer that automatically distributes incoming traffic across multiple targets, such as EC2 instances, containers, and IP addresses\n*  VPC Router – this router manages network traffic between the internal subnets in the Runtime Service VPC.\n*  Relational Database Service (RDS) – used to store encrypted MySQL data. \n*  AWS Elasticache Service – this AWS service houses the Redis database cache and message broker service.\n*  Amazon Elastic Kubernetes Service (Amazon EKS) is a managed container service to run and scale Kubernetes applications in the application.\n*  Kubernetes Ingress - Ingress is an API resource that allows for the management of external or internal HTTP(S) access to Kubernetes services running in a cluster. The Kubernetes Ingress controller is a service that is running within the Kubernetes cluster which manages the access to the microservices. All communication is encrypted over HTTPS TLS 1.2\n*  Simple Storage Service (S3) – Provides highly scalable, secure storage at AWS.\nThe Backend Service VPC is where the WalkMe Editor is housed.  In the zone there are the following:\n*  Internet Gateway – An Internet Gateway is a logical connection between the AWS VPC and the Internet. It allows for internet traffic traverse into a VPC.\n*  NAT Gateway – this is a network interface that automatically assigns private IP addresses from the IP address range of the private subnet to EC2 instances and  allows to communicate securely over the internet.\n*  Kong Gateway - Kong is an open-source API gateway and platform that acts as middleware between compute clients and the API-centric applications. The Kong API gateway is installed and resides locally on WalkMe internal environment platform, data is not sent externally; updates are obtained, managed, and deployed by WalkMe via their configuration management process.\n*  AWS CodeDeploy - CodeDeploy is a service that automates code deployments to any instance, including Amazon EC2 instances and instances running on-premises. \n*  Application Load Balancer (ALB) – this is an AWS Elastic Load Balancer that automatically distributes incoming traffic across multiple targets, such as EC2 instances, containers, and IP addresses\n*  Network Load Balancer (NLB) - this is an AWS Elastic Load Balancer that automatically distributes incoming traffic across multiple targets, such as EC2 instances, containers, and IP addresses\n*  VPC Router – this router manages network traffic between the internal subnets in the Runtime Service VPC.\n*  Relational Database Service (RDS) – used to store encrypted MySQL data. \n*  AWS Elasticache Service – this AWS service houses the Redis database cache and message broker service.\n*  Amazon Elastic Kubernetes Service (Amazon EKS) is a managed container service to run and scale Kubernetes applications in the application.\n*  Kubernetes Ingress - Ingress is an API resource that allows for the management of external or internal HTTP(S) access to Kubernetes services running in a cluster. The Kubernetes Ingress controller is a service that is running within the Kubernetes cluster which manages the access to the microservices. All communication is encrypted over HTTPS TLS 1.2\n*  Simple Storage Service (S3) – Provides highly scalable, secure storage at AWS.\n*  Elastic File System (EFS) – this AWS service houses the EFS\\ which is a file-level storage service that provides a shared elastic file system with scalability support.\n*  Amazon MSK - Amazon Managed Streaming for Apache Kafka (Amazon MSK) is a fully managed service that makes it easy for you to build and run applications that use Apache Kafka to process streaming and event data\nThe Platform Management VPC is a zone that contains systems that manage the activities of the Runtime and Backend services VPCs.  This zone contains the following:\n*  Internet Gateway – An Internet Gateway is a logical connection between the AWS VPC and the Internet. It allows for internet traffic traverse into a VPC.\n*  NAT Gateway – this is a network interface that automatically assigns private IP addresses from the IP address range of the private subnet to EC2 instances and  allows to communicate securely over the internet.\n*  Relational Database Service (RDS) – used to store encrypted MySQL data. \n*  AWS Elasticache Service – this AWS service houses the Redis database cache and message broker service.\n*  Amazon Elastic Kubernetes Service (Amazon EKS) is a managed container service to run and scale Kubernetes applications in the application.\n*  Kubernetes Ingress - Ingress is an API resource that allows for the management of external or internal HTTP(S) access to Kubernetes services running in a cluster. The Kubernetes Ingress controller is a service that is running within the Kubernetes cluster which manages the access to the microservices. All communication is encrypted over HTTPS TLS 1.2\n*  Amazon WorkSpaces VM – this is a “bastion host” for system administrators to use to access the WalkMe infrastructure, this also connects to the GCP components via a site to site VPN.\nThe GCP platform is used to house multiple VPCs.  These include the Virtual Network QA NoSQL VPC, The Virtual Network PROD NoSQL VPC, and two Production Data VPCs.\nGCP services used in these zones include:\n*  VPC Peering –  Google Cloud VPC Network Peering allows internal IP address connectivity across two Virtual Private Cloud (VPC) networks regardless of whether they belong to the same project or the same organization.\n*  NoSQL DB – A NoSQL database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases.\n*  TimeSeries DB – A time-series database (TSDB) is a computer system that is designed to store and retrieve data records that are part of a “time series,” which is a set of data points that are associated with timestamps.\n*  Application Load Balancers - A load balancer that distributes user traffic across multiple instances of applications.\n*  API Load Balancer - Load balancer that allows fine-grained configuration of how incoming traffic is distributed across VM instances\n*  Dataproc - Dataproc Spark service is used for autoscaling and Integration with other Google Cloud services such as Cloud Storage, BigQuery.  Communication and dataflow for this service is encrypted with FIPS validated module (Cert#3678)\n*  CloudSQL Services - Cloud SQL is used to store the metadata WalkMe systems to support the analytics platform, e.g., the filters customers configure in the analytics platform. Cloud SQL data is encrypted when on Google’s internal networks and when stored in database tables, temporary files, and backups. Every Cloud SQL instance includes a Google managed network firewall, allowing network access to database instances. Cloud SQL uses Google Cloud's Encryption Key Management Service (KMS) to manage the encryption keys used to encrypt the data. WalkMe owns the keys and data at rest encryption is enabled by default for all Cloud SQL instances.\n*  EKS - Google Kubernetes Engine (GKE) is a managed, production-ready environment for running containerized applications.\n*  Cloud VPN - Cloud VPN securely connects your peer network to your Virtual Private Cloud (VPC) network through an IPsec VPN connection.\n*  Cloud Router - Cloud Router is a fully distributed and managed Google Cloud service that uses the Border Gateway Protocol (BGP) to advertise IP address ranges. It programs custom dynamic routes based on the BGP advertisements that it receives from a peer\n*  Cloud NAT - Cloud NAT is a distributed, software-defined managed service. It's not based on proxy VMs or appliances. Cloud NAT configures the Andromeda software that powers your Virtual Private Cloud (VPC) network so that it provides source network address translation (source NAT or SNAT) for VMs without external IP addresses. Cloud NAT also provides destination network address translation (destination NAT or DNAT) for established inbound response packets.\n*  Cloud Firewall Rules - Every VPC network functions as a distributed firewall. While firewall rules are defined at the network level, connections are allowed or denied on a per-instance basis.\n*  Cloud DNS - Google Cloud DNS is a high-performance, resilient, global Domain Name System (DNS) service.\n*  KMS - Cloud KMS is a REST API that can use a key to encrypt, decrypt, or sign data such as secrets for storage.\n*  Secret Manager - Secret Manager is a secure and convenient storage system for API keys, passwords, certificates, and other sensitive data. Secret Manager provides a central place and single source of truth to manage, access, and audit secrets across Google Cloud.\n*  Certificate Manager - cert-manager adds certificates and certificate issuers as resource types in Kubernetes clusters, and simplifies the process of obtaining, renewing and using those certificates. It can issue certificates from a variety of supported sources\n*  Cloud Functions - Google Cloud Functions is a serverless execution environment for building and connecting cloud services.\n*  BigQuery - BigQuery is used to store the analytics data collected from the WalkMe Player (the end users). BigQuery is a fully managed, petabyte scale, data warehouse for analytics. Because BigQuery is fully managed, customers can analyze data using SQL without a database administrator. BigQuery automatically encrypts and replicates data to ensure security, availability, and durability of customer data\n*  Cloud Storage - Cloud Storage is a service for storing your objects in Google Cloud. An object is an immutable piece of data consisting of a file of any format. You store objects in containers called buckets. All buckets are associated with a project, and you can group your projects under an organization.\n*  Identity-Aware Proxy - Identity-Aware Proxy (IAP) is a Google Cloud Platform service that intercepts web requests sent to an application, authenticates the user making the request using the Google Identity Service, and only lets the requests through if they come from a user who is authorized.",
+        "CSO_Description": "WalkMe maximizes and accelerates the impact of your digital transformation strategy by driving user adoption of your digital assets. Leverage WalkMe’s Digital Adoption Platform to constantly identify gaps and problem areas, and drive users to success, codelessly, and without changes to your underlying platforms.The WalkMe Digital Adoption Platform (DAP) system adapts software and websites to meet the needs of employees, customers & citizens. The WalkMe DAP system creates a consistent user experience, streamlining productivity and engagement while reducing costs. The WalkMe FedRAMP offering is specific to federal customers and is built on a dedicated government environment.",
         "CSP_POC_Name": "Daniel Chechik",
         "CSP_POC_Email": "public-sector-fed@walkme.com",
         "Fedramp_Ready_Date": "2023-04-03T04:00:00.000Z",
@@ -25190,14 +25196,14 @@
         "Additional_Cyber_Frameworks": "* Federal Information Security Management Act (FISMA)\n* Governance Risk and Compliance (GRC) Framework\n* Control Objectives for Information and Related Technology (COBIT)\n* International Organization for Standardization 27001 (ISO)\n* PCI\n* SOX"
       },
       {
-        "Name": "Moss Adams",
+        "Name": "Moss Adams (In-Remediation)",
         "Accreditation_Date": "2016-06-28T04:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/MossAdams%20Logo.png",
         "Description": "Moss Adams is a fully integrated professional services firm dedicated to personally assisting clients with growing, managing, and protecting prosperity. Moss Adams and our wholly owned subsidiaries provide one of the most comprehensive sets of cybersecurity compliance services in the industry, in addition to a broad range of assurance, tax, and consulting services. With more than 3,800 professionals, we work with many of the world’s most innovative companies and leaders. Our strength in the market enables us to advise clients at all intervals of development—from start-up to rapid growth and expansion to transition. \n\nMoss Adams’ FedRAMP team provides 3PAO assessment services to cloud service providers needing an independent external assessment. Our assessment is completed in accordance with FedRAMP defined guidance and templates, and we’ve successfully completed both JAB and Agency authorizations, Readiness Assessment Reviews, and initial and annual authorization assessments. \n\nOur information security professionals have extensive IT auditing and penetration testing experience, specifically with cloud-based environments. With this experience and our 3PAO accreditation, we will work with you to perform an efficient, yet high-caliber evaluation of the relevant processes and controls related to the FedRAMP requirements. Efficiency is vital as FedRAMP assessments are extensive, requiring a significant commitment of resources.\n",
         "POC_Name": "Christian Hansen",
         "POC_Email": "fedramp@mossadams.com",
         "website": "http://www.mossadams.com/",
-        "Remediation": "N",
+        "Remediation": "Y",
         "Founded": 2005,
         "Primary_Office_Locations": "999 Third Avenue, Suite 2800, Seattle, WA 98104\n",
         "FedRAMP_Assessed": "None",
