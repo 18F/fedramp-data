@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-05-04T19:36:46.937Z",
+    "Created_At": "2023-05-05T04:40:50.676Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -9475,7 +9475,7 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Sentinel Labs, Inc.",
+        "Cloud_Service_Provider_Name": "SentinelOne",
         "Cloud_Service_Provider_Package": "SentinelOne Singularity Platform",
         "Path": "Agency",
         "Designation": "Compliant",
@@ -10329,7 +10329,7 @@
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/OCLC%20Logo.png",
         "Independent_Assessor": "Schellman & Company, LLC",
         "CSP_Website": "http://oclc.org",
-        "CSO_Description": "OCLC is a nonprofit global library organization. Through OCLC, member libraries cooperatively produce and maintain WorldCat, the world’s most comprehensive global network of data about library collections and services. Libraries gain efficiencies through OCLC’s WorldShare Management Services (WMS), a cloud-based library services platform. With WorldCat as its foundation, WMS allows library staff to draw on the collaborative data and work of libraries worldwide for more efficient workflows, and to better manage and access resources in all formats. WMS offers all the applications needed to manage a library, including acquisitions, circulation, resource sharing, metadata and electronic resource management. WMS also offers analytics, including custom reports and visualizations, and a discovery service for library users.  Products included in the WorldShare platform:\n\n* Library management systems: Worldshare Acquisitions, Worldshare Circulation, Worldshare Report Designer\n* Cataloging/metadata services: Worldshare Collection Manager, Worldshare Record Manager, Worldshare Knowledgebase.  \n* Resource sharing services: WorldShare ILL and Tipasa.  \n* Discovery services: WorldCat Discovery",
+        "CSO_Description": "OCLC is a nonprofit global library organization. Through OCLC, member libraries cooperatively produce and maintain WorldCat, the world’s most comprehensive global network of data about library collections and services. Libraries gain efficiencies through OCLC’s WorldShare Management Services (WMS), a cloud-based library services platform. With WorldCat as its foundation, WMS allows library staff to draw on the collaborative data and work of libraries worldwide for more efficient workflows, and to better manage and access resources in all formats. WMS offers all the applications needed to manage a library, including acquisitions, circulation, resource sharing, metadata and electronic resource management. WMS also offers analytics, including custom reports and visualizations, and a discovery service for library users. Products included in the WorldShare platform:\n\n* Library management systems: Worldshare Acquisitions, Worldshare Circulation, Worldshare Report Designer, EZproxy\n* Cataloging/metadata services: Worldshare Collection Manager, Worldshare Record Manager, Worldshare Knowledgebase.  \n* Resource sharing services: WorldShare ILL and Tipasa.  \n* Discovery services: WorldCat Discovery",
         "Announcement_Date": "2020-07-01T04:00:00.000Z",
         "CSP_POC_Name": "Tina Price",
         "CSP_POC_Email": "fedramp@oclc.org",
@@ -17511,6 +17511,13 @@
             "Authorizing_Subagency": "United States Patent and Trademark Office",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2023-04-06T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Internal Revenue Service",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -22157,6 +22164,36 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Ping Identity Corporation",
+        "Cloud_Service_Provider_Package": "PingOne for Government",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2112263551",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-06-27T04:00:00.000Z",
+        "Original_Expiration_Date": "2025-06-27T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Energy",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+        "Authorizing_Agency": "Department of Energy",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Ping%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "Underlying_CSP_Package_ID": [
+          "F1603047866",
+          "F1206081364"
+        ],
+        "CSP_Website": "https://www.pingidentity.com",
+        "CSO_Description": "PingOne for Government is a cloud service offering that gives commercial suppliers and Federal agencies the identity and access management services they need to enable the right individual to access the right resource, at the right time, for the right reason in support of federal business objectives.\rPingOne for Government is a suite of services that includes three products/components:\r* PingFederate is an enterprise federation server that enables user authentication and single sign-on (SSO). It is designed to serve as a global authentication authority that allows employees, contractors, and partners to access the applications they need from any device securely. PingFederate easily integrates with applications across the enterprise, third-party authentication sources, user directories, and existing IAM systems, leveraging integration kits and identity standards like OAuth, OpenID Connect, SAML, and WS-Federation. And with full support for x.509 PKI certificates, organizations can expand the use of their existing PIV and CAC authenticators to allow for MFA wherever their users are.\r* PingAccess is a centralized access security solution with a comprehensive policy engine. It helps provide secure access to applications and APIs down to the URL level and ensures that only authorized users can access the resources they need. Additionally, PingAccess can enable SSO for web applications and APIs; when used in combination with PingFederate for authentication and token services, both internal and external users can gain secure access to applications.\r* PingDirectory is a high-performance, extensible data store for citizen, mission partner, and government employee and contractor identity data. PingDirectory allows agencies to manage profiles for a multiplicity of channels and devices.",
+        "Announcement_Date": "2023-05-03T04:00:00.000Z",
+        "CSP_POC_Name": "Zach Pugh",
+        "CSP_POC_Email": "fedramp@pingidentity.com",
+        "FedRAMP_In-Process_Date": "2022-06-27T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "1901 Group",
         "Cloud_Service_Provider_Package": "in3sight High",
         "Path": "Agency",
@@ -24132,7 +24169,7 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Sentinel Labs, Inc.",
+        "Cloud_Service_Provider_Name": "SentinelOne",
         "Cloud_Service_Provider_Package": "SentinelOne Singularity Platform High",
         "Path": "Agency",
         "Designation": "In Process",
