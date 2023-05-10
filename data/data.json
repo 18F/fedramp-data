@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-05-09T04:40:51.182Z",
+    "Created_At": "2023-05-10T04:40:51.498Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4695,15 +4695,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-04-16T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-03-30T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-07-13T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Centers for Disease Control and Prevention",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Authorizing_Letter_Last_Sign_Date": "2020-06-12T04:00:00.000Z",
             "Authorizing_Agency": "Department of Energy",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
@@ -4927,6 +4918,15 @@
             "Letter_Expiration_Date": "2024-02-28T05:00:00.000Z",
             "Authorizing_Agency": "General Services Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-04-25T04:00:00.000Z",
+            "Letter_Expiration_Date": "2026-05-05T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-05-05T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Centers for Disease Control and Prevention",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -9216,6 +9216,14 @@
             "Authorizing_Agency": "Department of Justice",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-05-07T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-05-06T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-05-08T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -9693,9 +9701,9 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-05-08T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-05-08T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-05-08T04:00:00.000Z",
+            "Letter_Date": "2023-04-28T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-05-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-05-01T04:00:00.000Z",
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "Health Resources and Services Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
@@ -15245,6 +15253,15 @@
             "Authorizing_Subagency": "United States Census Bureau",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfCommerce-Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-05-04T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-11-04T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-05-04T04:00:00.000Z",
+            "Authorizing_Agency": "Other Executive Branch Agency",
+            "Authorizing_Subagency": "Office of Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Federal%20Logo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -20207,6 +20224,15 @@
             "Authorizing_Subagency": "Immigration and Customs Enforcement",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-11-07T05:00:00.000Z",
+            "Letter_Expiration_Date": "2023-11-15T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-11-15T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Authorizing_Subagency": "Bureau of Land Management",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -23593,6 +23619,29 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "National Resident Matching Program",
+        "Cloud_Service_Provider_Package": "iMatch",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2224739070",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of State",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
+        "Authorizing_Agency": "Department of State",
+        "CSP_URL": "https://www.fedramp.gov/assets/img/logos/CSP_logos/iMatch%20Logo.png",
+        "Independent_Assessor": "Fortreum, LLC",
+        "CSP_Website": "https://www.nrmp.org/imatch/",
+        "CSO_Description": "Building on 70+ years of physician matching, the NRMP partners with U.S. government agencies to offer simple, equitable, and effective solutions for matching applicants to posts, stations, and government offices around the globe to effectively address recruitment and selection needs and drive outcomes for success.  Using our software-as-a-service application called iMatch, administrators can invite participants to take part in a “match” where we leverage our proprietary mathematical matching algorithm to prioritize the selection preferences of participants, placing them in the most preferred positions possible on their rank lists. Participants have access to real time Match information and obtain their Match results in the iMatch system. Additional Match Outcome Reports can inform workforce trends and guide growth and development.\n\nNRMP’s iMatch system and matching services simplify selection processes, reduce bias, and encourage stable outcomes based on the principles of market design and the following pillars :\n\nAccuracy: NRMP’s proprietary mathematical matching algorithm places participants based on preferences and creates the best possible outcome. Research on the algorithm was the basis for awarding the 2012 Nobel Prize in Economic Sciences.\nReliability: NRMP creates a Match schedule to ensure on-time delivery of services with well published and communicated deadlines throughout the matching process. Our iMatch technology is state-of-the-art, highly secure, and confidential allowing Match participants to create their location selection preferences with piece-of-mind.\nIntegrity: NRMP Matches foster a spirit of fairness because our services and matching processes are transparent, and all Match participants must adhere to the same rules and deadlines.",
+        "CSP_POC_Name": "iMatch FedRAMP Team",
+        "CSP_POC_Email": "Security@imatchfederal.org",
+        "FedRAMP_In-Process_Date": "2023-04-25T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "NEOGOV",
         "Cloud_Service_Provider_Package": "NEOGOV Fed Cloud",
         "Path": "Agency",
@@ -24172,6 +24221,30 @@
         "CSP_POC_Name": "Ryan Cooney",
         "CSP_POC_Email": "fedramp@sailpoint.com",
         "FedRAMP_In-Process_Date": "2022-05-19T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "SAS Institute, Inc.",
+        "Cloud_Service_Provider_Package": "SAS AI and Analytics for Government on FedRAMP",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2210352243",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Hybrid Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Justice",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+        "Authorizing_Agency": "Department of Justice",
+        "Authorizing_Subagency": "Office of Justice Programs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/SAS%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "https://www.sas.com/en_us/industry/government.html",
+        "CSO_Description": "The SAS Intelligent Analytics Cloud is a hosted SAS® Azure private cloud where customers can subscribe to SAS® Azure tools and technologies to receive rapid, self-service access to SAS® Azure analytics tools and solutions. SAS performs all hardware and software management and maintenance and guarantees that the most current version of SAS® software is running at all times. Customers will utilize SAS data storage capabilities along with the SAS® Viya Platform for executing robust analytics and repporting on the data fed to the cloud environment. The software stack will include SAS® Visual Analytics, SAS® Visual Statistics, SAS® Visual Data Mining & Machine Learning, SAS® Text Analytics, SAS® Model Studio, SAS® Model Manager and SAS® Data Preparation.\rSAS® Visual Analytics lets you create and view interactive reports, explore data, and discover hidden insights with advanced analytics. SAS® Visual Statistics offers a leading predictive analytics solution to explore data and build analytical models for a variety of use cases. It is well-suited for data scientists, statisticians, and analysts to collaborate and iteratively refine models, for each segment or group, to make decisions based on accurate insights. SAS® Visual Data Mining and Machine Learning combines data wrangling, data exploration, visualization, feature engineering, and modern statistical, data mining and machine-learning techniques all in a single, scalable in-memory processing environment. This provides faster, more accurate answers to complex business problems, increased deployment flexibility and one easy-to-administer and fluid IT environment. SAS® Visual Text Analytics in SAS® Viya® uses context to provide a comprehensive solution to the challenge of identifying and categorizing key textual data. SAS® Model Studio is the VDMML Viya application that enables organizations to register, modify, track, score, publish, and report on analytical models. SAS® Data Preparation is the SAS tool for mapping, joining, wrangling, cleansing, and integrating data into the SAS Viya Platform for analytic use. SAS® Model Manager simplifies the model collection creation and management with a web-based interface that easily automates the model management process. SAS Visual Text Analytics gain insights from data with a combination of natural language processing, machine learning and linguistic rules.",
+        "CSP_POC_Name": "SAS Institute",
+        "CSP_POC_Email": "SASFedRAMP@sas.com",
+        "FedRAMP_In-Process_Date": "2023-05-08T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
