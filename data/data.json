@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-05-16T04:40:51.896Z",
+    "Created_At": "2023-05-17T04:40:51.223Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -9251,7 +9251,7 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "AINS",
+        "Cloud_Service_Provider_Name": "AINS dba OPEXUS",
         "Cloud_Service_Provider_Package": "eCase",
         "Path": "Agency",
         "Designation": "Compliant",
@@ -9266,13 +9266,13 @@
         "Sponsoring_Agency": "Department of Housing and Urban Development",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHUD-Seal.png",
         "Authorizing_Agency": "Department of Housing and Urban Development",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/AINS%20Logo.png",
+        "CSP_URL": "https://www.fedramp.gov/assets/img/logos/CSP_logos/Opexus%20Logo.png",
         "Independent_Assessor": "Fortreum, LLC",
-        "CSP_Website": "www.ains.com",
-        "CSO_Description": "eCase is a robust Platform as a Service for implementing multiple, coexisting adaptive case management SaaS solutions including eCase-Correspondence, eCase-HR, eCase-Audit and FOIAXpress (the industry leading purpose-built FOIA case processing software) within a single commercial off-the-shelf (COTS) solution. eCase provides a dynamic case management framework with the capability to power a wide range of workflow-driven processes and core case management functions, tracking and reporting around a wide range of business process verticals and can help agencies manage their business information efficiently and automate workflow processes, gaining a valuable competitive advantage.",
+        "CSP_Website": "http://www.opexustech.com/",
+        "CSO_Description": "eCASE is a dynamic case management and rapid application development platform that empowers professionals to elevate trust in public institutions. With secure and collaborative information and document management, robust reporting, adaptive workflows, role-based security, and comprehensive audit trail capabilities, eCASE helps public sector clients automate processes, reduce costs, improve transparency, and ultimately achieve better outcomes with less risk while maintaining compliance within demanding regulatory environments. eCase and eCase COTS solutions, including Correspondence, Audit, Investigations, Government Workforce Management, and FOIAXpress (the industry-leading, purpose-built FOIA case processing software) are FedRAMP-moderate certified SaaS. For more information, visit [opexustech.com](opexustech.com).",
         "Announcement_Date": "2014-02-21T05:00:00.000Z",
         "CSP_POC_Name": "Srinivas Sristy",
-        "CSP_POC_Email": "ainsisso@ains.com",
+        "CSP_POC_Email": "isso@opexustech.com",
         "FedRAMP_In-Process_Date": "2012-12-18T05:00:00.000Z",
         "Leveraged_ATO_Letters": [
           {
@@ -17988,7 +17988,8 @@
         "Independent_Assessor": "NCC Group Security Services, Inc.",
         "Underlying_CSP_Package_ID": [
           "AGENCYAMAZONEW",
-          "F1508207205"
+          "F1508207205",
+          "FR1821856903"
         ],
         "CSP_Website": "www.iboss.com",
         "CSO_Description": "With over 4,000 customers, including the largest government, financial, insurance, energy and technology organizations, iboss enables government to reduce cyber risk by delivering a FedRAMP Authorized Zero Trust Secure Service Edge that protects resources and users from wherever they work. iboss delivers security capabilities such as SWG, malware defense, browser isolation, CASB and data loss prevention within a completely unified cloud platform to protect all resources, instantaneously and at scale. This shifts the focus from protecting buildings to protecting people and resources wherever they are located. Backed by 230+ issued and pending patents, iboss processes and secures over 150 billion daily network transactions globally, blocking 4 billion threats per day. The iboss Government Cloud Platform enables federal agencies to migrate rapidly into a Zero Trust architecture as mandated by the Presidential Executive Order on Cyber. Jump-start your transformational journey and experience the future of Zero Trust cloud security today. Visit www.iboss.com to learn more.",
@@ -19562,6 +19563,15 @@
             "Letter_Expiration_Date": "2024-02-28T05:00:00.000Z",
             "Authorizing_Agency": "General Services Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-05-15T04:00:00.000Z",
+            "Letter_Expiration_Date": "2026-05-15T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-05-15T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Joint Special Operations Medical Training Center",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -22374,6 +22384,41 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "OnSolve LLC",
+        "Cloud_Service_Provider_Package": "OnSolve Platform for Critical Event Management",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2100059668",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-01-18T05:00:00.000Z",
+        "Original_Expiration_Date": "2025-01-18T05:00:00.000Z",
+        "Sponsoring_Agency": "Tennessee Valley Authority",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-TennesseeValleyAuthority-Logo.png",
+        "Authorizing_Agency": "Tennessee Valley Authority",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/OnSolve%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "AGENCYAMAZONEW",
+          "F1508207205",
+          "FR1720454205",
+          "MSO365MT",
+          "F1512167750",
+          "FR1823447014",
+          "F1305072116"
+        ],
+        "CSP_Website": "www.onsolve.com",
+        "CSO_Description": "OnSolve provides leading-edge technology that keeps people safer and strengthens government, business and community crisis response. The OnSolve Critical Event Management platform provides unparalleled coverage of critical events around the world, as well as the actionable intelligence needed to understand their impact. This platform combines our AI-powered risk intelligence, award-winning critical communications, and enhanced incident management to create better outcomes for people, communities and organizations. With over two billion notifications sent annually and over 60 years of proven support to both the public and private sectors, OnSolve delivers critical event management solutions backed by unmatched industry expertise, which gives our customers the ability to proactively keep everyone informed, instill confidence, foster teamwork, mitigate disruptions, improve operational outcomes, protect assets, and save lives.",
+        "Announcement_Date": "2023-05-12T04:00:00.000Z",
+        "CSP_POC_Name": "Tony Munno",
+        "CSP_POC_Email": "fedramp@onsolve.com",
+        "FedRAMP_In-Process_Date": "2022-01-18T05:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "1901 Group",
         "Cloud_Service_Provider_Package": "in3sight High",
         "Path": "Agency",
@@ -22822,7 +22867,7 @@
         "Independent_Assessor": "Coalfire Systems, Inc.",
         "CSP_Website": "https://metallic.io/",
         "CSO_Description": "Metallic, from Commvault, is a Software-as-a-Service (SaaS) solutions that provides data backup and recovery capabilities for endpoints, SaaS applications, on-premise and cloud workloads and air-gapped cloud storage. Hosted in Microsoft Azure Government Cloud, Metallic provides data protection for businesses in the form of client-side software (an agent) that runs on the customer endpoint to provide a secure and encrypted backup and recovery utility to recover from data loss. It is designed in such a way that aligns with the NIST SP 800-145 definition of a cloud computing system. Metallic is a High system based on the FIPS-199 Standards for Security Categorization of Federal Information and Information Systems. Backup data is transmitted to Metallic using FIPS 1402-2 validated cryptography and can be recovered by customers in the event of a data loss. Data is stored in Metallic with dual encryption-at-rest at AES 256 bit encryption. Metallic is categorized as a High information system, and stores customer information in a multi-tenant environment where each customer’s information is logically separated and secured using a unique tenant ID.",
-        "CSP_POC_Name": "Said Syed",
+        "CSP_POC_Name": "Richard Breakiron",
         "CSP_POC_Email": "fedrampdl@commvault.com",
         "Fedramp_Ready_Date": "2021-05-24T04:00:00.000Z",
         "FedRAMP_In-Process_Date": "2022-06-10T04:00:00.000Z",
