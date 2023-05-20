@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-05-19T04:40:51.448Z",
+    "Created_At": "2023-05-20T04:40:51.236Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -4427,6 +4427,13 @@
             "Authorizing_Agency": "Department of Transportation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-05-17T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-05-19T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEducation-Seal.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -6332,6 +6339,15 @@
             "Include_In_Marketplace": "Y"
           },
           {
+            "Letter_Date": "2022-04-13T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-04-05T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-04-20T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Defense",
+            "Authorizing_Subagency": "Indo-Pacific Command",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
             "Letter_Date": "2022-10-24T04:00:00.000Z",
             "Letter_Expiration_Date": "2023-10-25T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-10-25T04:00:00.000Z",
@@ -7828,14 +7844,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-05-13T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-05-14T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-05-14T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-06-01T04:00:00.000Z",
             "Letter_Expiration_Date": "2023-06-30T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-06-09T04:00:00.000Z",
@@ -8056,6 +8064,14 @@
             "Authorizing_Agency": "Department of Homeland Security",
             "Authorizing_Subagency": "Immigrations and Customs Enforcement",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-05-18T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-11-14T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-05-18T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -16609,6 +16625,14 @@
             "Authorizing_Agency": "National Science Foundation",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NSF.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-05-18T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-05-17T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-05-18T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -23315,7 +23339,7 @@
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
         "Authorizing_Agency": "Department of Veterans Affairs",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/GTS%20Logo.png",
-        "Independent_Assessor": "EmeSec Incorporated",
+        "Independent_Assessor": "SecureIT ",
         "CSP_Website": "https://www.globaltelehealthservices.com/",
         "CSO_Description": "The GTS-VP offers Customer Agencies a powerful, flexible and convenient solution to provide Remote Patient Monitoring (RPM), Real Time Telehealth visits, and Store and Forward Technology (labs, images, and clinical data) services. The GTS-VP connects healthcare providers, patients, and patient families to communicate healthcare information from remote patient monitoring tools and through video-teleconferencing. The GTS-VP integrates with RPM medical devices from most any manufacturer and can be readily configured to work across multiple disease types and chronic conditions. The GTS-VP is also designed to make use of existing agency workflows and business processes with the ability to expand to address conditions and incorporate devices and capabilities that have yet to be developed.",
         "CSP_POC_Name": "James McCartney",
@@ -23482,29 +23506,6 @@
         "CSP_POC_Name": "Juniper Mist FedRAMP Team",
         "CSP_POC_Email": "mist-security@juniper.net",
         "FedRAMP_In-Process_Date": "2023-02-22T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Knightscope, Inc.",
-        "Cloud_Service_Provider_Package": "Knightscope Autonomous Security Robot (Knightscope ASR)",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2118080669",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Veterans Affairs",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-        "Authorizing_Agency": "Department of Veterans Affairs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Knightscope%20Logo.png",
-        "Independent_Assessor": "Lunarline, Inc.",
-        "CSP_Website": "https://www.knightscope.com/",
-        "CSO_Description": "The Knightscope Autonomous Security Robot (ASR) is a fully\rautonomous security robot equipped with four (4) cameras, microphones, and\rspeakers, for 360-degree video and audio. The ASRs navigate the area(s) of\roperation autonomously and stream live video back to the user via a web\rbrowser. The ASRs run 24/7 on its own including autonomously recharging itself\rwithout any human intervention have the following capabilities:\n* People Detection – The ASR can detect people by time and location.\r* License Plate Recognition – The ASR can identify and detect license\rplates.\r* Thermal Imaging – Equipped with a FLIR thermal camera, the ASR can\rmonitor for heat anomalies above a pre-determined temperature.\r* Audio – The ASR can be used to broadcast pre-recorded or custom audio\rmessages and initiate a live intercom call.\nThe core platform of Knightscope ASR is the Knightscope Security Operations\rCenter (KSOC), a fully functional, browser-based user interface included with\revery subscription which allows customers to access ASR fleet information\raround the clock. Customers can use the KSOC interface to:\n* View current ASR locations\r* Access live (or recorded) video and audio from an ASR\r* Select pre-determined patrol routes (for mobile ASRs)\r* Broadcast pre-recorded or custom audio messages through an ASR,\rusing an intercom chat function or a phone call over a live channel, or\rsound an alarm\r* View alerts\nAlerts can be configured to trigger based on pre-defined criteria, such as\rdetection of any person or identification of a specific license plate. In the event of\ran alert, KSOC can send email messages, text messages, or voice messages to\rnotify designated people about the event. The notifications contain limited\rinformation informing the user that an event has been detected by the ASR. Any\rforensic data related to the event, including a snapshot, date and time, and\rlocation must be viewed within KSOC.",
-        "CSP_POC_Name": "Jason Gonzalez",
-        "CSP_POC_Email": "security@knightscope.com",
-        "FedRAMP_In-Process_Date": "2022-05-18T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
