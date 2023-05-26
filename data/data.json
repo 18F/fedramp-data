@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-05-25T04:40:51.443Z",
+    "Created_At": "2023-05-26T04:40:50.737Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2600,13 +2600,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2024-03-29T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2019-03-29T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2019-04-02T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2019-04-09T04:00:00.000Z",
             "Authorizing_Agency": "United States Securities and Exchange Commission",
@@ -2950,6 +2943,12 @@
             "Authorizing_Agency": "Department of the Treasury",
             "Authorizing_Subagency": "United States Mint",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2023-05-24T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -4578,13 +4577,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-04-27T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-04-27T04:00:00.000Z",
-            "Authorizing_Agency": "Commission of Fine Arts",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Commission_of_Fine_Arts_-_seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-11-19T05:00:00.000Z",
             "Letter_Expiration_Date": "2023-11-19T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2020-11-19T05:00:00.000Z",
@@ -4614,6 +4606,14 @@
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-05-17T04:00:00.000Z",
+            "Letter_Expiration_Date": "2026-05-17T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-05-17T04:00:00.000Z",
+            "Authorizing_Agency": "Commission of Fine Arts",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Commission_of_Fine_Arts_-_seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -19398,7 +19398,7 @@
           "MSO365MT"
         ],
         "CSP_Website": "www.questionmark.com/",
-        "CSO_Description": "Questionmark OnDemand for Government is a Software-as-a-Service where United States Federal, State and Local government agencies and their contractors can safely and securely use a powerful tool for creating, delivering and reporting on assessments. Questionmark OnDemand for Government is hosted in a US-based, FedRAMP approved data center used by US government agencies and their service contractors. The service is targeted for data up to DoD Impact Level 4. Questionmark operates the software-as-a-service, including provisioning, scaling and maintaining hardware, operating systems, software, ensuring sufficient bandwidth and performance, installing upgrades and managing backups securely.",
+        "CSO_Description": "The Questionmark OnDemand for Government service is an online assessment platform\nproviding the ability to author, deliver and report on tests, quizzes, surveys and exams.\nQuestionmark OnDemand for Government can be used for training, certification,\nadvancement, channel expertise, competency measurement, compliance and workforce\nlearning.\n\nUnited States Federal, State and Local government agencies and their contractors can\nsafely and securely use our powerful tool for creating, delivering and reporting on\nassessments. Questionmark OnDemand for Government is hosted in a US-based,\nFedRAMP approved data center used by US government agencies and their service\ncontractors.\n\nOur service is targeted for data up to DoD Impact Level 4. Questionmark operates the\nsoftware-as-a-service, including provisioning, scaling and maintaining hardware, operating\nsystems, software, ensuring sufficient bandwidth and performance, installing upgrades and\nmanaging backups securely.\n\nQuestionmark OnDemand is widely used by Government, Awarding Bodies, Utilities,\nManufacturing and Public Sectors. For more information please see [Government -\nQuestionmark Online Assessment Platform](https://www.questionmark.com/use-cases/government/)\n\n**Features**\n* Government-specific online platform that’s FedRAMP authorized and designed to\nsupport your specialist requirements.\n* Comprehensive item banking with easy search functionality\n* Deliver assessments via browser, secure browser, mobile devices and paper\n* Robust reporting and analytics suite\n* Collaborative authoring environment complete with version tracking and roll-back\nfeatures\n* Author once, deliver to multiple devices simultaneously\n* Accessibility features such as text sizing and contrast controls\n* Available in 36 different languages\n* Secure and robust service that is ISO 27001 certified\n* Scalable, flexible solution with rapid deployment\n* 99.9%+ uptime\n\n**Benefits**\n* Create and deliver certification assessments and advancement exams\n* Create and deliver post-course tests for distance learning\n* Create, deliver and report on surveys and course evaluations\n* Tracking changes to questions means legal defensibility\n* Blended delivery allows mobile/onsite workers to still take assessments\n* Observational assessments allow measuring performance on practical tasks\n* Create valid and reliable assessments to make trustworthy decisions\n* Assessments that document training and understanding for compliance purposes\n* Improve test validity by running job task analysis surveys\n* Assess skills of technical staff, engineers and equipment maintainers",
         "Announcement_Date": "2019-10-23T04:00:00.000Z",
         "CSP_POC_Name": "Charles McMillion",
         "CSP_POC_Email": "Charles.McMillion@questionmark.com",
@@ -22385,7 +22385,7 @@
         "CSP_Website": "www.onsolve.com",
         "CSO_Description": "OnSolve provides leading-edge technology that keeps people safer and strengthens government, business and community crisis response. The OnSolve Critical Event Management platform provides unparalleled coverage of critical events around the world, as well as the actionable intelligence needed to understand their impact. This platform combines our AI-powered risk intelligence, award-winning critical communications, and enhanced incident management to create better outcomes for people, communities and organizations. With over two billion notifications sent annually and over 60 years of proven support to both the public and private sectors, OnSolve delivers critical event management solutions backed by unmatched industry expertise, which gives our customers the ability to proactively keep everyone informed, instill confidence, foster teamwork, mitigate disruptions, improve operational outcomes, protect assets, and save lives.",
         "Announcement_Date": "2023-05-12T04:00:00.000Z",
-        "CSP_POC_Name": "Ashely Meston",
+        "CSP_POC_Name": "Ashley Meston",
         "CSP_POC_Email": "fedramp@onsolve.com",
         "FedRAMP_In-Process_Date": "2022-01-18T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
@@ -24697,25 +24697,6 @@
         "CSP_POC_Name": "SGT FedRAMP Cloud Managed Services",
         "CSP_POC_Email": "fedramp@siemensgovt.com",
         "FedRAMP_In-Process_Date": "2023-03-17T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "Siemens Government Technologies",
-        "Cloud_Service_Provider_Package": "Siemens Defense Cloud",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR2219453187",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "High",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Siemens%20Logo.png",
-        "Independent_Assessor": "Schellman Compliance, LLC",
-        "CSP_Website": "https://www.siemensgovt.com/solutions/siemens-defense-cloud",
-        "CSO_Description": "The Siemens Defense Cloud (SDC) is a SaaS solution pursuing the Agency Authorization path that provides customers with the Siemens Teamcenter Product Lifecycle Management (PLM) services application suite. Teamcenter PLM is a digital thread management system that provides full product lifecycle data management services and integrated digital environment (IDE) capabilities for customer-authored end items, including requirements, products, and processes.\rIt enables customer teams across functional silos to better connect with each other on relevant data encompassing the end-to-end product lifecycle to include ideation, design, modeling, simulation, acquisition, supply chain, manufacturing, verification, quality, asset management, sustainment, compliance, and end of life dispositioning. Managed data can include 3D designs, electronics, digital twins, changes, embedded software, documentation, and bill of materials (BOM).\rSDC’s application suite consists of 185 features, but only the services purchased by the Agency customer will be activated for their instance of the SDC application.",
-        "CSP_POC_Name": "SGT FedRAMP Cloud Managed Services",
-        "CSP_POC_Email": "fedramp@siemensgovt.com",
-        "Fedramp_Ready_Date": "2022-05-25T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
