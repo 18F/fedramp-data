@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-06-01T04:40:51.364Z",
+    "Created_At": "2023-06-02T04:40:52.632Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1777,15 +1777,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2021-05-10T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-05-10T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-05-12T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "Federal Emergency Management Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2020-10-23T04:00:00.000Z",
             "Authorizing_Agency": "National Aeronautics and Space Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NASA_logo.png",
@@ -1813,15 +1804,6 @@
             "Authorizing_Agency": "Department of Energy",
             "Authorizing_Subagency": "National Nuclear Security Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2022-03-09T05:00:00.000Z",
-            "Letter_Expiration_Date": "2025-03-09T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-03-08T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "Federal Emergency Management Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
           },
           {
@@ -1951,6 +1933,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2023-05-30T04:00:00.000Z",
             "Authorizing_Agency": "Department of the Interior",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-04-24T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-04-24T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-04-27T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Federal Emergency Management Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -22655,29 +22646,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "3M",
-        "Cloud_Service_Provider_Package": "Grouper Plus Content Services (GPCS)",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2200458671",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Veterans Affairs",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-        "Authorizing_Agency": "Department of Veterans Affairs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/3M%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.3mhis.com",
-        "CSO_Description": "3M Grouper Plus Content Services (3M GPCS) provides reliable and secure processing of patient claims and other coded data in the cloud. The web-based delivery system hosts a selection of classification and reimbursement content users need to group, edit and calculate reimbursement of claims.",
-        "CSP_POC_Name": "Jonathan Higbee",
-        "CSP_POC_Email": "fedramp-his@mmm.com",
-        "FedRAMP_In-Process_Date": "2022-05-26T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Absolute Software ",
         "Cloud_Service_Provider_Package": "Absolute Secure Endpoint product suite ",
         "Designation": "FedRAMP Ready",
@@ -24404,29 +24372,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Pearson VUE",
-        "Cloud_Service_Provider_Package": "Pearson Federal Cloud System",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2135637226",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of State",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/DoS%20Logo.png",
-        "Authorizing_Agency": "Department of State",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/PearsonVUE%20Logo.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "CSP_Website": "https://home.pearsonvue.com/",
-        "CSO_Description": "Pearson VUEs Pearson Federal Cloud System securely delivers assessments to registered testing candidates for over 450 assessment programs. Agencies and other government organizations can use the Pearson Federal Cloud System to administer high stakes assessments to potential job candidates. The system is built on Microsoft’s Azure Commercial Cloud infrastructure-as-a-service (IaaS).",
-        "CSP_POC_Name": "Deanna Hudella",
-        "CSP_POC_Email": "FedRAMP@pearson.com",
-        "FedRAMP_In-Process_Date": "2022-05-24T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Ping Identity Corporation",
         "Cloud_Service_Provider_Package": "PingOne for Government",
         "Path": "Agency",
@@ -24651,6 +24596,30 @@
         "Leveraged_ATO_Letters": []
       },
       {
+        "Cloud_Service_Provider_Name": "Rubrik",
+        "Cloud_Service_Provider_Package": "Rubrik Security Cloud - Government (RSC-G)",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2234256499",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Energy",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+        "Authorizing_Agency": "Department of Energy",
+        "Authorizing_Subagency": "National Nuclear Security Administration",
+        "CSP_URL": "https://www.fedramp.gov/assets/img/logos/CSP_logos/Rubrik%20Logo.png",
+        "Independent_Assessor": "Kratos",
+        "CSP_Website": "https://www.rubrik.com",
+        "CSO_Description": "Rubrik Security Cloud - Government (RSC-G) delivers data protection, data observability and data recovery capabilities in a comprehensive set of services that ensure business and mission continuity. RSC-G preserves data integrity and keeps data readily accessible to withstand cyberattacks, malicious insiders, and operational disruptions. RSC-G reduces data risks by monitoring for emergent cyber threats such as ransomware and sensitive data exposure. RSC-G rapidly restores impacted apps, files or objects by containing threats and orchestrating recoveries while avoiding malware reinfection.",
+        "CSP_POC_Name": "Gayle Berkeley",
+        "CSP_POC_Email": "rscgsales@rubrik.com",
+        "FedRAMP_In-Process_Date": "2023-05-24T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "SailPoint Technologies, Inc.",
         "Cloud_Service_Provider_Package": "Identity Security - SaaS",
         "Path": "Agency",
@@ -24796,13 +24765,15 @@
         "Cloud_Service_Provider_Name": "Slack Technologies",
         "Cloud_Service_Provider_Package": "GovSlack",
         "Path": "JAB",
-        "Designation": "FedRAMP Ready",
+        "Designation": "In Process",
         "Package_ID": "FR2230252267",
         "Service_Model": [
           "SaaS"
         ],
         "Deployment_Model": "Public Cloud",
         "Impact_Level": "High",
+        "Sponsoring_Agency": "JAB Authorization",
+        "Authorizing_Agency": "JAB Authorization",
         "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Slack%20Logo2.png",
         "Independent_Assessor": "Schellman Compliance, LLC",
         "CSP_Website": "https://slack.com/solutions/govslack",
@@ -24810,6 +24781,7 @@
         "CSP_POC_Name": "Taylor Trigger",
         "CSP_POC_Email": "fedramp@slack-corp.com",
         "Fedramp_Ready_Date": "2022-11-28T05:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2023-05-30T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
