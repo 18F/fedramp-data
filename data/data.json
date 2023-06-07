@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-06-06T04:40:51.356Z",
+    "Created_At": "2023-06-07T04:40:50.714Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -2447,7 +2447,7 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "iSite LLC",
+        "Cloud_Service_Provider_Name": "MSM Group, Inc.",
         "Cloud_Service_Provider_Package": "iSite Contract Management Portal",
         "Path": "Agency",
         "Designation": "Compliant",
@@ -6504,6 +6504,14 @@
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "Centers for Disease Control and Prevention",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2026-05-26T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-05-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Transportation",
+            "Authorizing_Subagency": "Federal Aviation Administration",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -25227,25 +25235,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Wickr an Amazon Web Services (AWS) Company,",
-        "Cloud_Service_Provider_Package": "Wickr for Government (WickrGov)",
-        "Designation": "FedRAMP Ready",
-        "Package_ID": "FR2216663607",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Wickr%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://wickr.com/",
-        "CSO_Description": "Wickr for Government (WickrGov) information system Software-as-a-Service (SaaS), provides the necessary all-in-one collaboration platform for encrypted messaging, audio/video calling, screen sharing, chat rooms and file sharing, all while ensuring communications are completely protected by advanced security protocols. In addition, WickrGov offers data retention capabilities for regulated industries. WickrGov provides multiple levels of administrative security controls and standard IT integrations with directory services and end-user authentication features. The WickrGov application is hosted and provided to U.S. Federal agencies, including local and state governments and tribal organizations, and Commercial organizations.",
-        "CSP_POC_Name": "Randy Brumfield",
-        "CSP_POC_Email": "wickrfedramp@amazon.com",
-        "Fedramp_Ready_Date": "2022-06-06T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Wiz, Inc.",
         "Cloud_Service_Provider_Package": "Wiz Moderate for U.S. Government",
         "Path": "Agency",
@@ -25796,23 +25785,6 @@
         "Additional_Cyber_Frameworks": "* Federal Information Security Management Act (FISMA)\n* Governance Risk and Compliance (GRC) Framework\n* Control Objectives for Information and Related Technology (COBIT)\n* International Organization for Standardization 27001 (ISO)\n* PCI\n* SOX"
       },
       {
-        "Name": "Moss Adams (In-Remediation)",
-        "Accreditation_Date": "2016-06-28T04:00:00.000Z",
-        "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/MossAdams%20Logo.png",
-        "Description": "Moss Adams is a fully integrated professional services firm dedicated to personally assisting clients with growing, managing, and protecting prosperity. Moss Adams and our wholly owned subsidiaries provide one of the most comprehensive sets of cybersecurity compliance services in the industry, in addition to a broad range of assurance, tax, and consulting services. With more than 3,800 professionals, we work with many of the world’s most innovative companies and leaders. Our strength in the market enables us to advise clients at all intervals of development—from start-up to rapid growth and expansion to transition. \n\nMoss Adams’ FedRAMP team provides 3PAO assessment services to cloud service providers needing an independent external assessment. Our assessment is completed in accordance with FedRAMP defined guidance and templates, and we’ve successfully completed both JAB and Agency authorizations, Readiness Assessment Reviews, and initial and annual authorization assessments. \n\nOur information security professionals have extensive IT auditing and penetration testing experience, specifically with cloud-based environments. With this experience and our 3PAO accreditation, we will work with you to perform an efficient, yet high-caliber evaluation of the relevant processes and controls related to the FedRAMP requirements. Efficiency is vital as FedRAMP assessments are extensive, requiring a significant commitment of resources.\n",
-        "POC_Name": "Christian Hansen",
-        "POC_Email": "fedramp@mossadams.com",
-        "website": "http://www.mossadams.com/",
-        "Remediation": "Y",
-        "Founded": 2005,
-        "Primary_Office_Locations": "999 Third Avenue, Suite 2800, Seattle, WA 98104\n",
-        "FedRAMP_Assessed": "None",
-        "Provide_Consulting_Services": "Y",
-        "Description_of_Consulting_Services": "Moss Adams employs audit and compliance professionals with several years of industry experience. With our combined resources, we have significant experience in assisting and assessing the security of cloud-based environments across many requirements. Specific to FedRAMP, we work with cloud service providers to perform a series of services to help them prepare, including:\n\n* Assist with the scoping, including the preparation of data flow and system diagrams\n* Document the SSP (System Security Plan), policies, or other application documents\n* Execute vulnerability assessments and attack and penetration testing",
-        "Consulting_Services_To": "* Tata Consultancy Services",
-        "Additional_Cyber_Frameworks": "* SOC 1/2/3\n* ISO 27000 series \n* PCI\n* HIPAA\n* HITRUST\n* FISMA\n* NIST 800-171\n* NIST CSF\n"
-      },
-      {
         "Name": "NCC Group Security Services, Inc.",
         "Accreditation_Date": "2017-04-26T04:00:00.000Z",
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/NCC%20Group%20Logo.jpg",
@@ -26063,6 +26035,23 @@
         "Description_of_Consulting_Services": "EmeSec has been solving complex security and engineering problems within the FISMA, NIST, OMB and regulatory compliance field for 13 years.  We deliver intuitive, adaptive, and smart solutions based on their unique risk tolerance, mission goals, and evolving technologies.  We help our clients protect their reputation and their growth engine through the power of security and compliance such as building comprehensive Information Security Programs. \n\nEmeSec is a recognized thought leader on cloud, Internet of Things (IoT), FedRAMP and IT security risk management including unique aspects of privacy, healthcare IT, and mobile.  EmeSec is often featured providing content and presentations for (ISC)2 and the Cloud Expo and IoT Summits as well as FCW and GovCon.  EmeSec upholds the highest standards for quality assurance and proven performance and holds ISO 9001:2008, ISO/IEC 20000-1:2011 and ISO/IEC 27001:2013 certifications. EmeSec is a Service Disabled Veteran Owned Small Business (SDVOSB), woman-owned small business (8m).  Communicate with us @EmeSec and @mariahorton or contact@emesec.net.\n",
         "Consulting_Services_To": "* IBM Fiberlink MaaS360\n* Netcomm\n* Blackline\n* PDRI\n* Raytheon\n* BookingBug",
         "Additional_Cyber_Frameworks": "* ISO/IEC 27001:2013\n* SOC in progress"
+      },
+      {
+        "Name": "Moss Adams (In-Remediation)",
+        "Accreditation_Date": "2016-06-28T04:00:00.000Z",
+        "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/MossAdams%20Logo.png",
+        "Description": "Moss Adams is a fully integrated professional services firm dedicated to personally assisting clients with growing, managing, and protecting prosperity. Moss Adams and our wholly owned subsidiaries provide one of the most comprehensive sets of cybersecurity compliance services in the industry, in addition to a broad range of assurance, tax, and consulting services. With more than 3,800 professionals, we work with many of the world’s most innovative companies and leaders. Our strength in the market enables us to advise clients at all intervals of development—from start-up to rapid growth and expansion to transition. \n\nMoss Adams’ FedRAMP team provides 3PAO assessment services to cloud service providers needing an independent external assessment. Our assessment is completed in accordance with FedRAMP defined guidance and templates, and we’ve successfully completed both JAB and Agency authorizations, Readiness Assessment Reviews, and initial and annual authorization assessments. \n\nOur information security professionals have extensive IT auditing and penetration testing experience, specifically with cloud-based environments. With this experience and our 3PAO accreditation, we will work with you to perform an efficient, yet high-caliber evaluation of the relevant processes and controls related to the FedRAMP requirements. Efficiency is vital as FedRAMP assessments are extensive, requiring a significant commitment of resources.\n",
+        "POC_Name": "Christian Hansen",
+        "POC_Email": "fedramp@mossadams.com",
+        "website": "http://www.mossadams.com/",
+        "Remediation": "Y",
+        "Founded": 2005,
+        "Primary_Office_Locations": "999 Third Avenue, Suite 2800, Seattle, WA 98104\n",
+        "FedRAMP_Assessed": "None",
+        "Provide_Consulting_Services": "Y",
+        "Description_of_Consulting_Services": "Moss Adams employs audit and compliance professionals with several years of industry experience. With our combined resources, we have significant experience in assisting and assessing the security of cloud-based environments across many requirements. Specific to FedRAMP, we work with cloud service providers to perform a series of services to help them prepare, including:\n\n* Assist with the scoping, including the preparation of data flow and system diagrams\n* Document the SSP (System Security Plan), policies, or other application documents\n* Execute vulnerability assessments and attack and penetration testing",
+        "Consulting_Services_To": "* Tata Consultancy Services",
+        "Additional_Cyber_Frameworks": "* SOC 1/2/3\n* ISO 27000 series \n* PCI\n* HIPAA\n* HITRUST\n* FISMA\n* NIST 800-171\n* NIST CSF\n"
       },
       {
         "Name": "MBL Technologies",
