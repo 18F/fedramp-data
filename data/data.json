@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-06-07T04:40:50.714Z",
+    "Created_At": "2023-06-08T04:40:51.391Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -543,7 +543,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Expiration_Date": "2024-05-12T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-05-12T04:00:00.000Z",
             "Authorizing_Agency": "Department of Labor",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
@@ -1942,6 +1941,13 @@
             "Authorizing_Agency": "Department of Homeland Security",
             "Authorizing_Subagency": "Federal Emergency Management Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-01-19T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-01-19T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Labor",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -8758,6 +8764,13 @@
             "Authorizing_Agency": "Other Executive Branch Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Federal%20Logo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-01-19T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-01-19T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Labor",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -9006,15 +9019,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2022-06-06T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-06-06T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-06-13T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Education",
-            "Authorizing_Subagency": "Federal Student Aid",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2022-07-08T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2022-07-08T04:00:00.000Z",
             "Authorizing_Agency": "Universal Service Administrative Company",
@@ -9092,6 +9096,15 @@
             "Authorizing_Agency": "Department of Justice",
             "Authorizing_Subagency": "Executive Office for United States Attorneys",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Justice.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-05-30T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-05-30T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-06-06T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Education",
+            "Authorizing_Subagency": "Federal Student Aid",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -14951,6 +14964,13 @@
             "Authorizing_Agency": "General Services Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/GSAlogo.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2026-04-10T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-06-07T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -17263,90 +17283,6 @@
             "Authorizing_Letter_Last_Sign_Date": "2021-11-09T05:00:00.000Z",
             "Authorizing_Agency": "Federal Communications Commission",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-FCC-Seal.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
-        "Cloud_Service_Provider_Name": "Qualys, Inc.",
-        "Cloud_Service_Provider_Package": "Qualys Cloud Platform",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1508207205",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2022-06-13T04:00:00.000Z",
-        "Original_Expiration_Date": "2023-06-06T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Education",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
-        "Authorizing_Agency": "Department of Education",
-        "Authorizing_Subagency": "Federal Student Aid",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Qualys%20Logo3.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "www.qualys.com",
-        "CSO_Description": "The Qualys Cloud Platform (QCP) is a multi-tenant shared cloud service environment. Its unique computing power is capable of continuously analyzing and correlating information, to assist IT management with identifying and homing-in on threats and eliminating vulnerabilities.\nWith its Qualys sensors, a core service of the Qualys Cloud Platform, make it easy to extend your security throughout your global enterprise. These sensors, which can be in the form of appliances or lightweight agents, are remotely deployable, centrally managed and self-updating. They collect data automatically and seamlessly sending it to the Qualys Cloud Platform.\nSubscribers simply use the Qualys software without the burden of licensing, maintenance and costs for owning the software itself.",
-        "Announcement_Date": "2016-11-02T04:00:00.000Z",
-        "CSP_POC_Name": " Kaleb Knobel",
-        "CSP_POC_Email": "kknobel@qualys.com",
-        "Fedramp_Ready_Date": "2016-05-05T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2015-08-26T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Letter_Date": "2018-10-31T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2018-12-20T05:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Authorizing_Subagency": "Office of the Comptroller of the Currency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2021-02-26T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-03-02T05:00:00.000Z",
-            "Authorizing_Agency": "National Mediation Board",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NMB%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Expiration_Date": "2024-10-28T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2021-10-28T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2022-03-30T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Treasury",
-            "Authorizing_Subagency": "Internal Revenue Service",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2022-10-03T04:00:00.000Z",
-            "Letter_Expiration_Date": "2025-10-03T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-10-03T04:00:00.000Z",
-            "Authorizing_Agency": "Federal Reserve System",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRS%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2022-10-24T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-10-25T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-10-25T04:00:00.000Z",
-            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2022-12-23T05:00:00.000Z",
-            "Letter_Expiration_Date": "2025-12-29T05:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2022-12-27T05:00:00.000Z",
-            "Authorizing_Agency": "Department of Homeland Security",
-            "Authorizing_Subagency": "Federal Emergency Management Agency",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -21424,6 +21360,12 @@
             "Authorizing_Subagency": "United States Air Force",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/United_States_Department_of_Defense_Seal.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2023-01-19T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Labor",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -21670,7 +21612,7 @@
         "CSP_Website": "www.peraton.com",
         "CSO_Description": "The Next Generation Cloud Platform (NGCP) is a FedRAMP compliant Platform-as-a-Service (PaaS) which deploys multiple Software-as-a-Service (SaaS) solutions to federal, state and commercial customers. The platform currently includes four Application Modules: Employee Performance Management (ePerformance), Environmental Program Information Management System (EPIMS), n.SITE for Connect:Direct transmissions of government data, and e.POWER for Business Process Management. Peraton is deploying multiple SaaS products on the same re-usable framework.",
         "Announcement_Date": "2018-03-02T05:00:00.000Z",
-        "CSP_POC_Name": "Tim Braun",
+        "CSP_POC_Name": "Robert Hyer",
         "CSP_POC_Email": "ngcpaas@peraton.com",
         "FedRAMP_In-Process_Date": "2017-02-23T05:00:00.000Z",
         "Leveraged_ATO_Letters": []
@@ -21871,7 +21813,6 @@
         "Deployment_Model": "Government Community Cloud",
         "Impact_Level": "Moderate",
         "Original_Authorization_Date": "2022-09-26T04:00:00.000Z",
-        "Original_Expiration_Date": "2025-09-26T04:00:00.000Z",
         "Sponsoring_Agency": "Department of Labor",
         "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
         "Authorizing_Agency": "Department of Labor",
@@ -22633,6 +22574,90 @@
             "Authorizing_Letter_Last_Sign_Date": "2023-03-16T04:00:00.000Z",
             "Authorizing_Agency": "Federal Housing Finance Agency",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FHFA%20Logo.jpg",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "Qualys, Inc.",
+        "Cloud_Service_Provider_Package": "Qualys Cloud Platform",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1508207205",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2023-06-06T04:00:00.000Z",
+        "Original_Expiration_Date": "2024-05-30T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Education",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
+        "Authorizing_Agency": "Department of Education",
+        "Authorizing_Subagency": "Federal Student Aid",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Qualys%20Logo3.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "CSP_Website": "www.qualys.com",
+        "CSO_Description": "The Qualys Cloud Platform (QCP) is a multi-tenant shared cloud service environment. Its unique computing power is capable of continuously analyzing and correlating information, to assist IT management with identifying and homing-in on threats and eliminating vulnerabilities.\nWith its Qualys sensors, a core service of the Qualys Cloud Platform, make it easy to extend your security throughout your global enterprise. These sensors, which can be in the form of appliances or lightweight agents, are remotely deployable, centrally managed and self-updating. They collect data automatically and seamlessly sending it to the Qualys Cloud Platform.\nSubscribers simply use the Qualys software without the burden of licensing, maintenance and costs for owning the software itself.",
+        "Announcement_Date": "2016-11-02T04:00:00.000Z",
+        "CSP_POC_Name": " Kaleb Knobel",
+        "CSP_POC_Email": "kknobel@qualys.com",
+        "Fedramp_Ready_Date": "2016-05-05T04:00:00.000Z",
+        "FedRAMP_In-Process_Date": "2015-08-26T04:00:00.000Z",
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Date": "2018-10-31T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2018-12-20T05:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Office of the Comptroller of the Currency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2021-02-26T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-03-02T05:00:00.000Z",
+            "Authorizing_Agency": "National Mediation Board",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/NMB%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Expiration_Date": "2024-10-28T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2021-10-28T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Centers for Medicare & Medicaid Services",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-03-30T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Treasury",
+            "Authorizing_Subagency": "Internal Revenue Service",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-10-03T04:00:00.000Z",
+            "Letter_Expiration_Date": "2025-10-03T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-10-03T04:00:00.000Z",
+            "Authorizing_Agency": "Federal Reserve System",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/FRS%20Logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-10-24T04:00:00.000Z",
+            "Letter_Expiration_Date": "2023-10-25T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-10-25T04:00:00.000Z",
+            "Authorizing_Agency": "Pension Benefit Guaranty Corporation",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/PBGC%20logo.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2022-12-23T05:00:00.000Z",
+            "Letter_Expiration_Date": "2025-12-29T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-12-27T05:00:00.000Z",
+            "Authorizing_Agency": "Department of Homeland Security",
+            "Authorizing_Subagency": "Federal Emergency Management Agency",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/Seal_of_the_United_States_Department_of_Homeland_Security.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -25210,7 +25235,7 @@
         "CSP_Website": "https://www.usu.com",
         "CSO_Description": "CCITAMS (CC IT Asset Management System) is an IT Asset Management tool. The solution supports both hardware and software asset management for virtual or physical assets, on-premises or in the cloud. For each asset, IT Asset Management contains business information such as product, item, procurement and maintenance contracts and costs; technical data such as device attributes and relationships; and organizational data including the people responsible for each asset or who uses the asset.  Data and analyses are fed to dashboards and automated reporting for the purpose of maintaining compliance and optimizing costs, licenses and deployments.",
         "CSP_POC_Name": "Tom Cavanaugh",
-        "CSP_POC_Email": "sales-solution@usu.com",
+        "CSP_POC_Email": "infous@usu.com",
         "FedRAMP_In-Process_Date": "2023-05-22T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
