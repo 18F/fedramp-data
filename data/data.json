@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-06-08T13:48:44.810Z",
+    "Created_At": "2023-06-09T04:40:51.005Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -8550,68 +8550,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "DocuSign",
-        "Cloud_Service_Provider_Package": "DocuSign CLM",
-        "Path": "Agency",
-        "Designation": "Compliant",
-        "Package_ID": "F1605027893",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "Moderate",
-        "Original_Authorization_Date": "2020-05-27T04:00:00.000Z",
-        "Original_Expiration_Date": "2023-05-17T04:00:00.000Z",
-        "Sponsoring_Agency": "Department of Agriculture",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
-        "Authorizing_Agency": "Department of Agriculture",
-        "Authorizing_Subagency": "Animal and Plant Health Inspection Service",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/DocuSign%20Logo.png",
-        "Independent_Assessor": "Schellman Compliance, LLC",
-        "Underlying_CSP_Package_ID": [
-          "F1206061353",
-          "F1602167854",
-          "FR1823149273",
-          "F1609267945",
-          "F1206081364",
-          "F1209051525",
-          "AGENCYAMAZONEW",
-          "F1603087869"
-        ],
-        "CSP_Website": "https://www.docusign.com/products/clm",
-        "CSO_Description": "DocuSign CLM is a secure contract lifecycle management product in DocuSign's Agreement Cloud. DocuSign CLM manages contracts in addition to all other types of documents across desktop, mobile, and partner applications like Salesforce. DocuSign CLM goes beyond standard document and contract management with advanced workflows that automate manual tasks and complex processes to speed time-to-revenue. Businesses use DocuSign CLM to optimize collaboration and processes across internal departments, as well as with prospects and customers.",
-        "Announcement_Date": "2017-08-24T04:00:00.000Z",
-        "CSP_POC_Name": "DocuSign FedRAMP Requests",
-        "CSP_POC_Email": "FedRAMP@DocuSign.com",
-        "FedRAMP_In-Process_Date": "2015-05-03T04:00:00.000Z",
-        "Leveraged_ATO_Letters": [
-          {
-            "Authorizing_Letter_Last_Sign_Date": "2022-09-27T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Transportation",
-            "Authorizing_Subagency": "Federal Aviation Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2023-03-31T04:00:00.000Z",
-            "Letter_Expiration_Date": "2024-04-03T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2023-04-03T04:00:00.000Z",
-            "Authorizing_Agency": "Department of the Interior",
-            "Authorizing_Subagency": "Bureau of Land Management",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
-            "Letter_Date": "2023-04-20T04:00:00.000Z",
-            "Letter_Expiration_Date": "2024-04-19T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2023-04-27T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Veterans Affairs",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-            "Include_In_Marketplace": "Y"
-          }
-        ]
-      },
-      {
         "Cloud_Service_Provider_Name": "Salesforce",
         "Cloud_Service_Provider_Package": "Salesforce Government Cloud Plus",
         "Path": "JAB",
@@ -13834,15 +13772,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-05-06T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-05-29T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-05-29T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Health and Human Services",
-            "Authorizing_Subagency": "Health Resources and Services Administration",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2021-12-08T05:00:00.000Z",
             "Letter_Expiration_Date": "2024-12-08T05:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-12-07T05:00:00.000Z",
@@ -13895,6 +13824,15 @@
             "Authorizing_Letter_Last_Sign_Date": "2023-04-10T04:00:00.000Z",
             "Authorizing_Agency": "Department of Health and Human Services",
             "Authorizing_Subagency": "Centers for Medicaid & Medicare Services",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-04-28T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-05-01T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-05-01T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Health and Human Services",
+            "Authorizing_Subagency": "Health Resources and Services Administration",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
             "Include_In_Marketplace": "Y"
           }
@@ -19743,6 +19681,70 @@
             "Authorizing_Agency": "Department of Labor",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
             "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-06-07T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-06-07T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "Federal Energy Regulatory Commission",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
+            "Include_In_Marketplace": "Y"
+          }
+        ]
+      },
+      {
+        "Cloud_Service_Provider_Name": "DocuSign",
+        "Cloud_Service_Provider_Package": "DocuSign CLM",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "F1605027893",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-09-27T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Agriculture",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/768px-US-DeptOfTransportation-Seal.svg.png",
+        "Authorizing_Agency": "Department of Transportation",
+        "Authorizing_Subagency": "Federal Aviation Administration",
+        "Underlying_CSP_Package_ID": [
+          "F1206061353",
+          "F1602167854",
+          "FR1823149273",
+          "F1609267945",
+          "F1206081364",
+          "F1209051525",
+          "AGENCYAMAZONEW",
+          "F1603087869"
+        ],
+        "Leveraged_ATO_Letters": [
+          {
+            "Letter_Expiration_Date": "2024-11-05T05:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2022-08-26T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Agriculture",
+            "Authorizing_Subagency": "Animal and Plant Health Inspection Service",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfAgriculture-Seal2.png",
+            "Include_In_Marketplace": "Y",
+            "Independent_Assessor": "Schellman Compliance, LLC",
+            "Announcement_Date": "2017-08-24T04:00:00.000Z"
+          },
+          {
+            "Letter_Date": "2023-03-31T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-04-03T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-04-03T04:00:00.000Z",
+            "Authorizing_Agency": "Department of the Interior",
+            "Authorizing_Subagency": "Bureau of Land Management",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheInterior-Seal.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Letter_Date": "2023-04-20T04:00:00.000Z",
+            "Letter_Expiration_Date": "2024-04-19T04:00:00.000Z",
+            "Authorizing_Letter_Last_Sign_Date": "2023-04-27T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Veterans Affairs",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+            "Include_In_Marketplace": "Y"
           }
         ]
       },
@@ -23307,6 +23309,29 @@
         "CSP_POC_Name": "Nitin Gulati",
         "CSP_POC_Email": "dgc.federal@datarobot.com",
         "Fedramp_Ready_Date": "2022-07-26T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Databricks, Inc.",
+        "Cloud_Service_Provider_Package": "Databricks on AWS GovCloud",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2324740262",
+        "Service_Model": [
+          "PaaS, SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "High",
+        "Sponsoring_Agency": "Department of Health and Human Services",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfHHS-Seal.png",
+        "Authorizing_Agency": "Department of Health and Human Services",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Databricks%20Logo.png",
+        "Independent_Assessor": "Schellman Compliance, LLC",
+        "CSP_Website": "https://databricks.com/solutions/industries/federal-government",
+        "CSO_Description": "The Databricks Platform, from the original creators of Apache Spark, enables data teams to collaborate in order to solve some of the world?s toughest problems. Databricks excels at enabling data scientists, data engineers, and data analysts to work together on uses cases like:\n\n* Applying advanced analytics for machine learning and graph processing at scale\n* Using deep learning for harnessing the power of unstructured data such for AI, image interpretation, automatic translation, natural language processing, and more\n* Making data warehousing fast, simple, and scalable\n* Proactively detecting threats with data science and AI\n* Analyzing high-velocity sensor and time-series IoT data in real-time\n* Making GDPR data subject requests easy to execute",
+        "CSP_POC_Name": "Andrew Ledford",
+        "CSP_POC_Email": "federal-compliance@databricks.com",
+        "FedRAMP_In-Process_Date": "2023-06-08T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
