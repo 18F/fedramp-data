@@ -1,6 +1,6 @@
 {
   "meta": {
-    "Created_At": "2023-06-14T04:40:50.893Z",
+    "Created_At": "2023-06-15T04:40:52.147Z",
     "Produced_By": "General Services Administration"
   },
   "data": {
@@ -1750,15 +1750,6 @@
             "Include_In_Marketplace": "Y"
           },
           {
-            "Letter_Date": "2020-06-14T04:00:00.000Z",
-            "Letter_Expiration_Date": "2023-06-13T04:00:00.000Z",
-            "Authorizing_Letter_Last_Sign_Date": "2020-05-12T04:00:00.000Z",
-            "Authorizing_Agency": "Department of Energy",
-            "Authorizing_Subagency": "National Nuclear Security Administration / Kansas City Field Office",
-            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
-            "Include_In_Marketplace": "Y"
-          },
-          {
             "Letter_Date": "2021-09-28T04:00:00.000Z",
             "Letter_Expiration_Date": "2024-09-28T04:00:00.000Z",
             "Authorizing_Letter_Last_Sign_Date": "2021-09-28T04:00:00.000Z",
@@ -1948,6 +1939,13 @@
             "Authorizing_Letter_Last_Sign_Date": "2023-01-19T05:00:00.000Z",
             "Authorizing_Agency": "Department of Labor",
             "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfLabor-Seal-AltColors.svg.png",
+            "Include_In_Marketplace": "Y"
+          },
+          {
+            "Authorizing_Letter_Last_Sign_Date": "2023-06-13T04:00:00.000Z",
+            "Authorizing_Agency": "Department of Energy",
+            "Authorizing_Subagency": "National Nuclear Security Administration / Kansas City Field Office",
+            "Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfEnergy-Seal.png",
             "Include_In_Marketplace": "Y"
           }
         ]
@@ -22674,6 +22672,35 @@
         ]
       },
       {
+        "Cloud_Service_Provider_Name": "IBM",
+        "Cloud_Service_Provider_Package": "IBM Federal HR Cloud",
+        "Path": "Agency",
+        "Designation": "Compliant",
+        "Package_ID": "FR2135730387",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Government Community Cloud",
+        "Impact_Level": "Moderate",
+        "Original_Authorization_Date": "2022-10-04T04:00:00.000Z",
+        "Original_Expiration_Date": "2023-10-04T04:00:00.000Z",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/IBM%20Logo.png",
+        "Independent_Assessor": "Coalfire Systems, Inc.",
+        "Underlying_CSP_Package_ID": [
+          "F1309252456"
+        ],
+        "CSP_Website": "https://www.ibm.com/services/talent-management/hr-transformation",
+        "CSO_Description": "IBM’s Federal HR Cloud solution for federal government offers a configurable human capital management SaaS solution. As part of this solution, IBM delivers functionality for the complete suite of core HR processing including personnel action processing, compensation management, benefits administration, performance management, time and leave management, payroll services, employee and manager self-service, intelligent automation, and cognitive decision support to allow HR leaders enable cognitive HR enterprise.",
+        "Announcement_Date": "2023-06-08T04:00:00.000Z",
+        "CSP_POC_Name": "Surafel Belew",
+        "CSP_POC_Email": "federal_hrcloud@wwpdl.vnet.ibm.com",
+        "FedRAMP_In-Process_Date": "2022-10-04T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
         "Cloud_Service_Provider_Name": "1901 Group",
         "Cloud_Service_Provider_Package": "in3sight High",
         "Path": "Agency",
@@ -23128,30 +23155,6 @@
         ]
       },
       {
-        "Cloud_Service_Provider_Name": "Commvault Systems, Inc.",
-        "Cloud_Service_Provider_Package": "Metallic",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2115384377",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Public Cloud",
-        "Impact_Level": "High",
-        "Sponsoring_Agency": "Department of the Treasury",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/US-DeptOfTheTreasury-Seal.png",
-        "Authorizing_Agency": "Department of the Treasury",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/Metallic%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://metallic.io/",
-        "CSO_Description": "Metallic, from Commvault, is a Software-as-a-Service (SaaS) solutions that provides data backup and recovery capabilities for endpoints, SaaS applications, on-premise and cloud workloads and air-gapped cloud storage. Hosted in Microsoft Azure Government Cloud, Metallic provides data protection for businesses in the form of client-side software (an agent) that runs on the customer endpoint to provide a secure and encrypted backup and recovery utility to recover from data loss. It is designed in such a way that aligns with the NIST SP 800-145 definition of a cloud computing system. Metallic is a High system based on the FIPS-199 Standards for Security Categorization of Federal Information and Information Systems. Backup data is transmitted to Metallic using FIPS 1402-2 validated cryptography and can be recovered by customers in the event of a data loss. Data is stored in Metallic with dual encryption-at-rest at AES 256 bit encryption. Metallic is categorized as a High information system, and stores customer information in a multi-tenant environment where each customer’s information is logically separated and secured using a unique tenant ID.",
-        "CSP_POC_Name": "Richard Breakiron",
-        "CSP_POC_Email": "fedrampdl@commvault.com",
-        "Fedramp_Ready_Date": "2021-05-24T04:00:00.000Z",
-        "FedRAMP_In-Process_Date": "2022-06-10T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Composite Apps",
         "Cloud_Service_Provider_Package": "CuraPatient",
         "Path": "Agency",
@@ -23588,29 +23591,6 @@
         "Leveraged_ATO_Letters": []
       },
       {
-        "Cloud_Service_Provider_Name": "Haivision Systems, Inc.",
-        "Cloud_Service_Provider_Package": "Haivision Hub for Government (HUB-GOV)",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2218359666",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Veterans Affairs",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-        "Authorizing_Agency": "Department of Veterans Affairs",
-        "CSP_URL": "https://www.fedramp.gov/assets/img/logos/CSP_logos/Haivision%20Logo2.png",
-        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
-        "CSP_Website": "https://www.haivision.com/products/haivision-hub/",
-        "CSO_Description": "Haivision Hub for Government (HUB-GOV) is an easy-to-use video network service for securely and reliably transporting live streaming video from agency networks to other inter- and intra-agency destinations or for connecting live streams between agency networks and commercial cloud destinations. Hub Gov accomplishes this routing while adding minimal latency and providing AES-256 encryption of live streams.\n\nOffering start-up, integrated device control, stream optimization, and status & monitoring, all from a single browser window, Haivision Hub is ideal for any government organization needing an on-demand low latency video contribution network for any public affairs, citizen-facing communications, or cross-agency collaboration with live video.",
-        "CSP_POC_Name": "Jean-Francis Noel",
-        "CSP_POC_Email": "jfnoel@haivision.com",
-        "FedRAMP_In-Process_Date": "2022-12-07T05:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
         "Cloud_Service_Provider_Name": "Huron Consulting Group",
         "Cloud_Service_Provider_Package": "Huron Performance Accelerators",
         "Path": "Agency",
@@ -23631,29 +23611,6 @@
         "CSP_POC_Name": "Pam Bursch",
         "CSP_POC_Email": "fedrampmarketplace@hcg.com",
         "FedRAMP_In-Process_Date": "2023-03-20T04:00:00.000Z",
-        "Leveraged_ATO_Letters": []
-      },
-      {
-        "Cloud_Service_Provider_Name": "IBM",
-        "Cloud_Service_Provider_Package": "IBM Federal HR Cloud",
-        "Path": "Agency",
-        "Designation": "In Process",
-        "Package_ID": "FR2135730387",
-        "Service_Model": [
-          "SaaS"
-        ],
-        "Deployment_Model": "Government Community Cloud",
-        "Impact_Level": "Moderate",
-        "Sponsoring_Agency": "Department of Veterans Affairs",
-        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
-        "Authorizing_Agency": "Department of Veterans Affairs",
-        "CSP_URL": "https://marketplace.fedramp.gov/img/logos/CSP_logos/IBM%20Logo.png",
-        "Independent_Assessor": "Coalfire Systems, Inc.",
-        "CSP_Website": "https://www.ibm.com/services/talent-management/hr-transformation",
-        "CSO_Description": "IBM’s Federal HR Cloud solution for federal government offers a configurable human capital management SaaS solution. As part of this solution, IBM delivers functionality for the complete suite of core HR processing including personnel action processing, compensation management, benefits administration, performance management, time and leave management, payroll services, employee and manager self-service, intelligent automation, and cognitive decision support to allow HR leaders enable cognitive HR enterprise.",
-        "CSP_POC_Name": "Surafel Belew",
-        "CSP_POC_Email": "federal_hrcloud@wwpdl.vnet.ibm.com",
-        "FedRAMP_In-Process_Date": "2022-10-04T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
       {
@@ -24542,7 +24499,7 @@
         "Cloud_Service_Provider_Package": "ProjectTeam for Government",
         "Path": "Agency",
         "Designation": "In Process",
-        "Package_ID": "brothery@projectteam.com",
+        "Package_ID": "FR2322855016",
         "Service_Model": [
           "SaaS"
         ],
@@ -24558,6 +24515,29 @@
         "CSO_Description": "ProjectTeam for Government is a cloud-based Project Management Information System (PMIS) used by federal organizations to manage construction programs and projects. It serves as a centralized hub for all project stakeholders, including owners, contractors, architects, and subcontractors, providing them with a collaborative platform to efficiently manage and track projects from inception to completion. In ProjectTeam users can track industry standard processes such as budgets, contracts, change orders, payment applications, requests for information, submittals, design reviews, meeting minutes, and more. In addition to the default processes provided within the application, users with administrative access can build custom processes to track unique mission-critical requirements at both an organizational level and on specific projects. ",
         "CSP_POC_Name": "Brian Rothery",
         "CSP_POC_Email": "inquiries@projectteam.com",
+        "FedRAMP_In-Process_Date": "2023-06-13T04:00:00.000Z",
+        "Leveraged_ATO_Letters": []
+      },
+      {
+        "Cloud_Service_Provider_Name": "Quadient inc.",
+        "Cloud_Service_Provider_Package": "S.M.A.R.T.– Federal Editions",
+        "Path": "Agency",
+        "Designation": "In Process",
+        "Package_ID": "FR2313477206",
+        "Service_Model": [
+          "SaaS"
+        ],
+        "Deployment_Model": "Public Cloud",
+        "Impact_Level": "Moderate",
+        "Sponsoring_Agency": "Department of Veterans Affairs",
+        "Sponsoring_Agency_Logo": "https://marketplace.fedramp.gov/img/logos/Agency_logos/VA%20Logo.png",
+        "Authorizing_Agency": "Department of Veterans Affairs",
+        "CSP_URL": "https://www.fedramp.gov/assets/img/logos/CSP_logos/Quadient%20Logo.png",
+        "Independent_Assessor": "A-LIGN Compliance and Security, Inc. dba A-LIGN",
+        "CSP_Website": "https://mail.quadient.com",
+        "CSO_Description": "S.M.A.R.T.– Federal Editions\n\nThe S.M.A.R.T. Federal Edition family of products provides the ultimate Shipping, Mailing, Accounting, Reporting and Tracking experience – all from a single dashboard!  This solution combines leading edge technologies to improve customer interactions and business processes.  A consistent look and feel across each element provides familiarity to users, making navigation simple and intuitive.  Each S.M.A.R.T. version fuels stronger business communications with your internal and external customers by providing detailed shipping and tracking notifications, chargeback accounting with postage meter reconciliation and extensive reporting options to name a few.  Several S.M.A.R.T. versions, supporting from the most basic to complex workflows, are available.  Choose the one that best aligns with your agency’s needs.  \n\nShipping\nThis best-in-class powerhouse shipping application allows you to process parcels using USPS®, UPS®, FedEx® and DHL®.  S.M.A.R.T. is fully IMpb compliant, and offers commercial base pricing discounts, address corrections, free insurance on Priority MailTM and Priority Mail ExpressTM and more.\n\n**With S.M.A.R.T. you can:**\n\n* View rates and services across all carriers from one screen.  S.M.A.R.T. will automatically rate shop to identify the lowest cost and fastest delivery method of processing parcels, saving time and money.\n* Externally prepare shipments with traveler documents from any desktop, leaving thee mail center full control of carriers and rates with Desktop RTS (Request to Send).  Desktop RTS increases efficiency in the mail center by decreasing the number of work steps it takes to process a shipment.  \n* Assign carrier selection and printing permissions to users outside of the mail center with Desktop Print.  Desktop printing provides flexibility within an organization while decreasing mail center workload.\n* Establish potential cost saving opportunities, decrease the number of work steps to process items and better organize shipments when using multi-package shipments.\n* Increase efficiency, minimize errors associated with manual entry, and decrease keystrokes when using Simple Integration.  S.M.A.R.T. extracts shipment details from a remote file using a unique ID, and auto populates recipient details within the shipping application, reducing processing efforts.\n\n**Mailing**\n\nTake full control of your iX-mailing system and create an unparalleled user experience.  S.M.A.R.T. takes all the features from a traditional mailing system control panel and applies them to an all-in-one interactive PC.\n* Print discounted postage and seal envelopes at up to 300 letters per minute, depending on iX model selected. \n* Large description buttons and prompts make navigation a breeze.\n* The Rate Wizard simplifies the process of selecting the correct postal rate and class.  With clear step-by-step instructions, the selection process has never been easier.\n* Increase mail-processing throughput and save time with Scan and Drop.  Continuously run mail without interruption while charging back postage expenses to accounts or departments.\n\n**Accounting** \n\nS.M.A.R.T. provides up to five levels of accounting for total postage reconciliation. This level of granularity supports even the most demanding business requirements.\n* Postal account reporting tracks spending down to 1/10 of a cent, providing the tools you need to stay on top of expenses.\n* Chargeback accounting lets you bill vendors, customers or departments for mailing/shipping costs and allows you to recoup postage dollars that would otherwise slip through the cracks.\n* Supports: Budgets, handling charges, and surcharges, as well as an unlimited number of accounts or departments.\n\n**Reporting**\n\nEasily produce informative reports and color graphs that give you the details you need.\n* Generate postage expense reports by mail class, weight break, presort, ascending and descending register values, account/department, operator, cost center, pre-defined or custom time periods – and more!\n* Set it and forget it – S.M.A.R.T.’s report scheduler automatically runs and emails reports to a designated recipient or group based upon user-defined parameters.\n\n**Tracking**\n\nAlways know when and where your items are with S.M.A.R.T.’s tracking.\n* Ensure delivery of every parcel and retain tracking history for up to 13 months.\n* Keep you customers informed by providing delivery email alerts each step of the way.\n* Obtain consolidated views of your mail center’s activities to better manage mailing and shipping operations.\nLeading Edge Technology. Simple Navigation  Fueling stronger business communications with your internal and external customers. S.M.A.R.T. will revolutionize your mailing and shipping operations.",
+        "CSP_POC_Name": "Keith Robertson",
+        "CSP_POC_Email": "fedramp@quadient.com",
         "FedRAMP_In-Process_Date": "2023-06-13T04:00:00.000Z",
         "Leveraged_ATO_Letters": []
       },
@@ -25992,8 +25972,8 @@
         "Logo": "https://marketplace.fedramp.gov/img/logos/3PAO_logos/Sera-Brynn%20Logo.jpg",
         "Description": "Sera Brynn offers experienced, certified security consultants to conduct 3PAO audits under FISMA, FedRAMP, and PCI. Our experts conduct readiness assessments, initial and annual assessments to maintain authorization, drawing on extensive NIST and FISMA background.\n",
         "POC_Name": "Lisa Hodde",
-        "POC_Email": "fedramp@sera-brynn.com",
-        "website": "www.sera-brynn.com",
+        "POC_Email": "info@serabrynn.com",
+        "website": "http://www.serabrynn.com/",
         "Remediation": "N",
         "Founded": 2011,
         "Primary_Office_Locations": "1435 Crossways Blvd., Suite 100, Chesapeake, Virginia 23320",
